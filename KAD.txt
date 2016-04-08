@@ -2,10 +2,11 @@
 ! Title: KAD PL - Przekrety
 ! Description: Strony z przekretami, najczesciej oparte na subskrypcjach sms. Lista glownie skupiona na polskich stronach.
 ! Last modified: 8 Apr 2016
-! Version: 1.2.0
+! Version: 1.2.1
 ! Expires: 3 days
-! Najnowsza wersja zawsze na: http://ftrfka.ugu.pl/listy/KAD.txt
-! Kontakt pod kadrep@outlook.com
+! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
+! Zgloszenia: https://github.com/azet12/KAD/issues
+! Kontakt: kadrep@outlook.com
 !
 ! Zalecam uzywania takze innych filtrow blokujacych niebezpieczne strony - np. Spam404
 ! Zadna lista ani ich kombinacja nie da Ci 100% ochrony. Najlepsza ochrona przed oszustwami to zdrowy rozsadek.
@@ -160,6 +161,7 @@ ktodwiedza.pl
 leadzupc.com
 liversely.com
 livestream365.pl
+magadownloader.com
 mc-acc.hpage.com
 megabonus24.pl
 megacloud.com.pl
@@ -297,9 +299,6 @@ zumodi.com
 
 ! Inne dodatkowe filtry, usuwajace natretne lub wprowadzajace w blad reklamy/obrazy na niektorych stronach.
 
-||www.seansuj.pl/images/player.png
-www.seansuj.pl###dle-content > .post:nth-of-type(2) > .post-title
-www.seansuj.pl###btn
 ||alltube.tv/static/img/download.png
 ||darmowefilmyonline.com/wp-content/uploads/2013/10/film-online.gif
 !
