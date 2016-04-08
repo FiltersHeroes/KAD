@@ -13,4 +13,7 @@ Poniższe listy nie sa mojego autorstwa, jednak warto takze je zasubskrybowac, a
 
 * Spam404 Filter -> http://www.spam404.com/blog/block-online-scams-with-spam404-and-adblock
 
+# Informacje dodatkowe
+Pomimo, ze zasubskrybowanie KAD wraz z filtrami powyzej tworzy swietna spojnosc, nie oznacza to jednak w zaden sposob 100% ochrony, poniewaz taka nie istnieje. Zapamietaj, zeby zachowac zdrowy rozsadek podczas przegladania sieci, oraz czytac regulaminy podejrzanych stron, szczegolnie tych, ktore oferuja cos "za darmo".
 
+Jesli chcesz sie przyczynic do ulepszania listy KAD, zglaszaj strony w sekcji "Issues" na GitHubie lub na e-mail kadrep@outlook.com. Dzieki!
