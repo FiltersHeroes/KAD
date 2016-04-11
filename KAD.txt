@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: KAD PL - Przekrety
 ! Description: Strony z przekretami, najczesciej oparte na subskrypcjach sms. Lista glownie skupiona na polskich stronach.
-! Last modified: 10 Apr 2016
-! Version: 1.2.11
+! Last modified: 11 Apr 2016
+! Version: 1.2.12
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! Zgloszenia: https://github.com/azet12/KAD/issues
@@ -25,6 +25,8 @@ czotest.pl
 gasg3.pl
 skracajmyto.waw.pl
 skrocto.waw.pl
+www.fajnefanty.com
+verify.info4security.org
 
 ! Przekierowuja one do innych stron z przekretami.
 ! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
@@ -319,6 +321,7 @@ videorazr.com
 videostream.pl
 videoway.net
 videoway.pl
+vimeoo.net
 viralo.pl
 vod24.pl
 vod24.tv
@@ -374,9 +377,16 @@ xn--fejs-podgldacz-kwb.pl
 xn--fejspodgldacz-qsb.pl
 www.xn--ile-punktw-obb.pl
 
-! Inne dodatkowe filtry, usuwajace natretne lub wprowadzajace w blad reklamy/obrazy na niektorych stronach.
+! Inne lub eksperymentalne filtry
+! zwyciezca.pl6.microsoft.com-laureat-nagrody.online
+! zwyciezca.plX(?).microsoft.com-laureat-nagrody.online
+*.com-laureat-nagrody.online
+
+! Filtry usuwajace natretne lub wprowadzajace w blad reklamy/obrazy na niektorych stronach.
 
 ||alltube.tv/static/img/download.png
 ||darmowefilmyonline.com/wp-content/uploads/2013/10/film-online.gif
+||darmowefilmyonline.com/wp-content/uploads/2014/10/player.jpg
+||darmowefilmyonline.com/wp-content/uploads/2014/10/button-zielony.png
 !
 !
