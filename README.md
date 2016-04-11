@@ -4,7 +4,7 @@ Polski filtr do Adblocka i uBlocka blokujący strony typu przekręt (np. subskry
 Możesz zasubskrybowac liste na https://github.com/azet12/KAD/wiki
 
 # Dzialanie
-Poza bogata i ciagle powiekszajaca sie lista stron-smieci, filtr ten posiada takze spis "stron przekierowujacych" dzieki czemu blokowanie jest jeszcze lepsze. Kazda znaleziona/zgloszona strona-smiec jest sprawdzana dokladnie, razem z kodem zrodlowym, poniewaz znalezc na nich mozna najrozniejsze sztuczki, ktore "chowaja" prawdziwa domene strony. KAD sobie z tym radzi blokujac i oryginalna domene, jak i ta "przekierowujaca", wiec blokowanie jest o wiele lepsze.
+Poza bogata i ciagle powiekszajaca sie lista stron-smieci, filtr ten posiada takze spis "stron przekierowujacych" dzieki czemu blokowanie jest jeszcze lepsze. Kazda znaleziona/zgloszona strona-smiec jest sprawdzana dokladnie, razem z kodem zrodlowym, poniewaz znalezc na nich mozna najrozniejsze sztuczki, ktore "chowaja" prawdziwa domene strony. KAD sobie z tym radzi blokujac i oryginalna domene, jak i ta "przekierowujaca", przez co blokowanie jest bardziej efektywne.
 
 Subskrypcja KAD jest prosta i bezplatna, a aktualizacje sa automatyczne.
 
