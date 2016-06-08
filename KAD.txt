@@ -3,7 +3,7 @@
 ! Title: KAD PL - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
 ! Last modified: 8 June 2016
-! Version: 1.6.12
+! Version: 1.6.13
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! Zgloszenia: https://github.com/azet12/KAD/issues
@@ -150,6 +150,15 @@ dragonflym.com
 darmowe-filmy.eu
 playmax.co
 idownload.com.pl
+antyspam.latwy.pl
+zalogowany.nd.pl
+batman-superman-pl.5x.pl
+playlikeaboss.xn.pl
+customstyle.pev.pl
+numer-natalia.opx.pl
+mobyhit.com
+albanskigang.eu
+zgarnij-xbox.pl
 
 ! Przekierowuja one do innych stron z przekretami.
 ! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
@@ -200,6 +209,7 @@ liin.ml
 d8x.pl
 
 ! Domeny szybko wygaszajace
+panda3.tk
 gwaltnapolce.freetzi.com
 szookinfoo244.freetzi.com
 gwaltpolki24.freetzi.com
@@ -221,6 +231,23 @@ plwiadomosci.my3gb.com
 
 ! Przekrety
 ! Od wersji 1.4.0 spis ten nie jest juz ukladany alfabetycznie.
+www.plstation.pl
+zgarnijtester.pl
+ilenafacebooku.pl
+fbszpieguje.pl
+zgarnij.net
+kluczecs-go.pl
+psialapka.pl
+wpisujetu.pl
+www.topfotki.pl
+www.7218.pl
+ogladajmecz.com.pl
+kolodziak.pl
+hotcash.pro
+fullplayer.pl
+esite.pl
+zalogowany.pl
+kekuko.com
 klubmp3.pl
 jedz-eco.pl
 zgarnijplik.pl
@@ -763,6 +790,7 @@ xn--fejspodgldacz-qsb.pl
 www.xn--ile-punktw-obb.pl
 
 ! Wapster
+kasa-sms.pl
 pinkstar.pl
 72933.pl
 mobilertg.pl
@@ -873,6 +901,7 @@ c24037a5b873a9bb34ea-1c66738b464ba52c1dfb3537d93efa8f.ssl.cf2.rackcdn.com
 lnktk.com
 zcontentlocker7gpa8a.xyz
 eforsa.pl
+widget-eforsa.pl
 
 ! Filtry usuwajace natretne lub wprowadzajace w blad reklamy/obrazy na niektorych stronach.
 
@@ -889,6 +918,7 @@ zobaczto.tv###pobierz
 ||zobaczto.tv/img/bezlimitu.png$image
 zobaczto.tv###bezlimitu
 ekino-tv.pl##.mainWrap > .col-md-9 > .col-md-9 > a[href^="http://i.exeos.ws/"] > .btnexe
+||2.bp.blogspot.com/-3agE4uoG-8o/VYDSd1e8M8I/AAAAAAAAAAk/9_VCwWk3Hag/s1600/Virus%2BScan.gif$image
 
 ! Filtr na strone http://azet12.github.io/KAD/sprawdz.html (oficjalna strona KAD) w celu weryfikacji dzialania.
 ! Strona ta zostala stworzona dla mniej zaawansowanych uzytkownikow, aby poinformowac ich o instalacji KAD.
