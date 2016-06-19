@@ -3,7 +3,7 @@
 ! Title: KAD PL - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
 ! Last modified: 19 June 2016
-! Version: 1.7.9
+! Version: 2016061901
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! Zgloszenia: https://github.com/azet12/KAD/issues
@@ -174,6 +174,10 @@ hitmax.pl
 ibrainer.net
 ioss.com.pl
 oferta1promocyjna.pl
+krajowe-lato.pl
+allefoty.pl
+jpzdd.pl
+kuot.pl
 
 ! Przekierowuja one do innych stron z przekretami.
 ! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
@@ -230,6 +234,7 @@ go2cloud.org
 l1nk.pl
 0xm.com.pl
 9sk.pl
+ujewq.pl
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
 /bit.ly/1UiedHD/
@@ -246,6 +251,7 @@ l1nk.pl
 /bisi.pl/2015/
 
 ! Domeny szybko wygaszajace
+*paysfaecard*.xx.pl
 *paysafecard*.xx.pl
 ! 10eur-paysafecard-kody.xx.pl
 ! paysfaecard-10euro-bony.xx.pl
