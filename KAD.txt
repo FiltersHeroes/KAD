@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD PL - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 21 June 2016
-! Version: 2016062101
+! Last modified: 23 June 2016
+! Version: 2016062301
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! Zgloszenia: https://github.com/azet12/KAD/issues
@@ -181,6 +181,7 @@ kuot.pl
 torrius.pl
 god.com.pl
 iphone-6s.pl
+zgarnij-nike.eu
 
 ! Przekierowuja one do innych stron z przekretami.
 ! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
@@ -240,6 +241,8 @@ l1nk.pl
 ujewq.pl
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
+/goo.gl/pmldzQ/
+/goo.gl/9bKocH/
 /goo.gl/jhJBC9/
 /tinyurl.com/h7wver3/
 /bit.ly/1UiedHD/
@@ -256,10 +259,16 @@ ujewq.pl
 /bisi.pl/2015/
 
 ! Domeny szybko wygaszajace
+gadzet9999.atwebpages.com
+airmaxy-konkurs.coolpage.biz
+newsy26.coolpage.biz
+newsy25.coolpage.biz
 sprawdzaj-gosci6.6te.net
-wirtualnapolska4.freetzi.com
-10euro-paysafecard-bony.bo.pl
+wirtualnapolska*.freetzi.com
 zgarnij-butynike.coolpage.biz
+*paysafecard*.bo.pl
+! 10euro-paysafecard-bony.bo.pl
+! 10eur-paysafecard-bony.bo.pl
 *paysfaecard*.xx.pl
 *paysafecard*.xx.pl
 ! 10eur-paysafecard-kody.xx.pl
@@ -958,6 +967,8 @@ wapster.pl
 sms-za-darmo.pl
 
 ! Blogspot
+zgarnijnike*.blogspot.com
+polkawlesie*.blogspot.com
 wygrajnike*.blogspot.com
 fbpodglad*.blogspot.com
 facebook-kolory*.blogspot.com
@@ -969,7 +980,7 @@ pryszcz-wideo.blogspot.com
 twoj-test-iq*.blogspot.com
 czas-na-fb*.blogspot.com
 wilkzwallstreet.blogspot.com
-facebokznajomi.blogspot.com
+facebokznajomi*.blogspot.com
 sspawdzktopodgglada.blogspot.com
 sprawdzktopodgglada.blogspot.com
 colors-app.blogspot.com
