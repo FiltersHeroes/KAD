@@ -3,7 +3,7 @@
 ! Title: KAD PL - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
 ! Last modified: 29 June 2016
-! Version: 2016062901
+! Version: 2016062902
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! Zgloszenia: https://github.com/azet12/KAD/issues
@@ -270,6 +270,7 @@ ujewq.pl
 /bisi.pl/2015/
 
 ! Domeny szybko wygaszajace
+smiertelnywypadek.prv.pl
 imigranci.prv.pl
 newsy24polska.atwebpages.com
 wiadomoscinews28.atwebpages.com
@@ -351,6 +352,9 @@ mini-71.xyz
 mobilegur.com
 mobile-supportinfo.com
 system-alert1.com
+mememakers.mobi
+lnktk.com
+zcontentlocker7gpa8a.xyz
 
 ! Przekrety
 ! Od wersji 1.4.0 spis ten nie jest juz ukladany alfabetycznie.
@@ -1082,10 +1086,7 @@ generatorfreegames.blogspot.com
 najprzydatniejsze.blogspot.com
 
 ! Inne lub eksperymentalne filtry
-||www.posiedze.pl/r.php
 c24037a5b873a9bb34ea-1c66738b464ba52c1dfb3537d93efa8f.ssl.cf2.rackcdn.com
-lnktk.com
-zcontentlocker7gpa8a.xyz
 eforsa.pl
 widget-eforsa.pl
 
@@ -1105,6 +1106,7 @@ zobaczto.tv###pobierz
 zobaczto.tv###bezlimitu
 ekino-tv.pl##.mainWrap > .col-md-9 > .col-md-9 > a[href^="http://i.exeos.ws/"] > .btnexe
 ||2.bp.blogspot.com/-3agE4uoG-8o/VYDSd1e8M8I/AAAAAAAAAAk/9_VCwWk3Hag/s1600/Virus%2BScan.gif$image
+||www.posiedze.pl/r.php
 
 ! Filtr na strone http://azet12.github.io/KAD/sprawdz.html (oficjalna strona KAD) w celu weryfikacji dzialania.
 ! Strona ta zostala stworzona dla mniej zaawansowanych uzytkownikow, aby poinformowac ich o instalacji KAD.
