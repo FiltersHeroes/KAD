@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD PL - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 4 July 2016
-! Version: 2016070401
+! Last modified: 5 July 2016
+! Version: 2016070501
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! Zgloszenia: https://github.com/azet12/KAD/issues
@@ -250,8 +250,10 @@ l1nk.pl
 9sk.pl
 ujewq.pl
 0io.pl
+f52.pl
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
+/bit.do/cafaf/
 /bit.ly/29dqR88/
 /bit.ly/295lGYJ/
 /goo.gl/7wJyvV/
@@ -276,6 +278,12 @@ ujewq.pl
 /bisi.pl/2015/
 
 ! Domeny szybko wygaszajace
+twojpodgaladcz.glt.pl
+facebookszpieg.glt.pl
+becel.atwebpages.com
+fb-opcja*.6te.net
+nasz-fbv*.6te.net
+fb-colors.ct8.pl
 nikebuty-zgarnij.freetzi.com
 newswiadomosci.atwebpages.com
 nike-zgarnijbuty.coolpage.biz
@@ -377,6 +385,7 @@ wwygrana.pl
 ! lays.wwygrana.pl
 netsa.pl
 ! doladowania.netsa.pl
+! www.specials.facebook.netsa.pl
 elimit.pl
 zlokalizujtelefon.pl
 drpenis.pl
@@ -1016,6 +1025,10 @@ wapster.pl
 sms-za-darmo.pl
 
 ! Blogspot
+euro-doladowania.blogspot.com
+blyskawiczne-doladowania.blogspot.com
+snapchat-save.blogspot.com
+facebookkoloruj.blogspot.com
 kolorowy-fejs.blogspot.com
 aktualizacjafacebooka.blogspot.com
 facebookaplikacje.blogspot.com
@@ -1050,6 +1063,7 @@ ustaw--tlo-fb.blogspot.com
 face--viewer.blogspot.com
 mojekumpele.blogspot.com
 ! x39face-colors.blogspot.com
+! e52face-colors.blogspot.com
 *face-colors.blogspot.com
 facebookkviewer.blogspot.com
 motyw-fb.blogspot.com
@@ -1092,6 +1106,8 @@ zmien-koolor.blogspot.com
 sexdzieci*.blogspot.com
 ! 55pakiety-lte-5gb.blogspot.com
 ! 61pakiety-lte-5gb.blogspot.com
+! e54pakiety-lte-5gb.blogspot.com
+! e51pakiety-lte-5gb.blogspot.com
 *pakiety-lte-5gb.blogspot.com
 darmowygenerator.blogspot.com
 darmowedoladowania25.blogspot.com
@@ -1115,13 +1131,14 @@ widget-eforsa.pl
 ||darmowefilmyonline.com/wp-content/uploads/2014/10/button-zielony.png
 ||img.gofilm.pl/player/odtwarzacz.gif
 nocnyseans.pl###host-list > .table-responsive > .table > tbody > tr:nth-of-type(1)
-||zobaczto.tv/img/pobierz.png$image
-zobaczto.tv###pobierz
-||zobaczto.tv/img/bezlimitu.png$image
-zobaczto.tv###bezlimitu
 ekino-tv.pl##.mainWrap > .col-md-9 > .col-md-9 > a[href^="http://i.exeos.ws/"] > .btnexe
 ||2.bp.blogspot.com/-3agE4uoG-8o/VYDSd1e8M8I/AAAAAAAAAAk/9_VCwWk3Hag/s1600/Virus%2BScan.gif$image
 ||www.posiedze.pl/r.php
+||zobaczmyto.tv/img/bezlimitu.png$image
+zobaczmyto.tv###bezlimitu
+||zobaczmyto.tv/img/pobierz.png$image
+zobaczmyto.tv###pobierz
+||zobaczmyto.tv/player/player.php$subdocument
 
 ! Filtr na strone http://azet12.github.io/KAD/sprawdz.html (oficjalna strona KAD) w celu weryfikacji dzialania.
 ! Strona ta zostala stworzona dla mniej zaawansowanych uzytkownikow, aby poinformowac ich o instalacji KAD.
