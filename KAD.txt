@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD PL - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 10 July 2016
-! Version: 2016071001
+! Last modified: 12 July 2016
+! Version: 2016071201
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! Zgloszenia: https://github.com/azet12/KAD/issues
@@ -217,6 +217,7 @@ space-mobile.co
 sms-z-internetu.pl
 bramka-sms-online.pl
 filmyseriale24online.pl
+fbpodgladaj.pl
 
 ! Przekierowuja one do innych stron z przekretami.
 ! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
@@ -279,6 +280,7 @@ f52.pl
 cn1.com.pl
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
+/szort.pl/t8nao/
 /skrć.pl/d5/
 /bit.do/ZlokalizujNumer/
 /bit.do/kolorfb1/
@@ -309,6 +311,10 @@ cn1.com.pl
 /bisi.pl/2015/
 
 ! Domeny szybko wygaszajace
+fbviewer-6.bo.pl
+wizyty-face2.bo.pl
+fbszpieg.aq.pl
+fb-viwer.5v.pl
 facebarwy.prv.pl
 10gb.6ka.info
 zmianakolorufb.xn.pl
