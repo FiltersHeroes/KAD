@@ -3,7 +3,7 @@
 ! Title: KAD PL - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
 ! Last modified: 13 July 2016
-! Version: 2016071302
+! Version: 2016071303
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! Zgloszenia: https://github.com/azet12/KAD/issues
@@ -1218,13 +1218,7 @@ zobaczmyto.tv###pobierz
 
 ! Filtr na strone http://azet12.github.io/KAD/sprawdz.html (oficjalna strona KAD) w celu weryfikacji dzialania.
 ! Strona ta zostala stworzona dla mniej zaawansowanych uzytkownikow, aby poinformowac ich o instalacji KAD.
-azet12.github.io##strong
-! Filtry na strone glowna KAD.
-azet12.github.io###u228
-azet12.github.io###u100-20
-azet12.github.io###u100-27
-azet12.github.io###u100-32
-! azet12.github.io/KAD to oficjalna strona filtra KAD.
+azet12.github.io###msg-box2-43 > .container.mbr-section__container--isolated.mbr-section__container > .row > .mbr-box--adapted.mbr-box--fixed.mbr-box > .col-sm-8.mbr-section__left.mbr-box__magnet--top-left.mbr-box__magnet > .mbr-section__container--middle.mbr-section__container > .mbr-header--wysiwyg.mbr-header--auto-align.mbr-header
 
 !
 !
