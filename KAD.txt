@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 31 July 2016
-! Version: 2016073103
+! Last modified: 1 Aug 2016
+! Version: 2016080101
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -236,6 +236,9 @@ bm.pl
 fb-znajomi.pl
 quizotest.pl
 agroadamek.pl
+odkryjfb.pl
+fejs-podgladacz.pl
+3n4.pl
 
 ! Przekierowuja one do innych stron z przekretami.
 ! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
@@ -304,6 +307,7 @@ mobstarr.com
 myaff.pl
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
+/bit.ly/aplikacjafejspodgladacz/
 /bit.ly/2an5Mch/
 /urladda.com/5i3c/
 /l2nk.com/sc-n/
@@ -343,6 +347,8 @@ myaff.pl
 /bisi.pl/2015/
 
 ! Domeny szybko wygaszajace
+klub-msp.hol.es
+kody-do-msp.esy.es
 serwer160669420.twojeaz.pl
 ringtonepartner.com
 goracynews24.prv.pl
@@ -486,6 +492,7 @@ click2win.online
 
 ! Przekrety
 ! Od wersji 1.4.0 spis ten nie jest juz ukladany alfabetycznie.
+v-shared.net
 skinskonkurs.pl
 sg6edges.pl
 odbierzpokemony.pl
@@ -1182,6 +1189,9 @@ wapster.pl
 sms-za-darmo.pl
 
 ! Blogspot
+hackidomsp.blogspot.com
+fejsopodgladacz*.blogspot.com
+doladowania50pln.blogspot.com
 pokemon-go-pakiety.blogspot.com
 zmienkolory*.blogspot.com
 euro2016-doladowanie.blogspot.com
@@ -1281,6 +1291,7 @@ generatorfreegames.blogspot.com
 najprzydatniejsze.blogspot.com
 
 ! Inne lub eksperymentalne filtry
+wap.mobiltek.pl
 c24037a5b873a9bb34ea-1c66738b464ba52c1dfb3537d93efa8f.ssl.cf2.rackcdn.com
 394841f201f58227870f-5d2be9b53f6be14746d56ef2f2bc98eb.r63.cf2.rackcdn.com
 185.62.188.111
