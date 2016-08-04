@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 3 Aug 2016
-! Version: 2016080301
+! Last modified: 4 Aug 2016
+! Version: 2016080401
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -243,6 +243,8 @@ kino-tv.pl
 twojefilmy-online.pl
 kinowepremiery.pl
 rfv.pl
+giftcode.pl
+full-movies-online.cba.pl
 
 ! Przekierowuja one do innych stron z przekretami.
 ! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
@@ -308,6 +310,8 @@ mobile-redirection.com
 exit-o.com
 mobstarr.com
 myaff.pl
+wap.mobiltek.pl
+swshlds.com
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
 /urladda.com/5iGP/
@@ -1210,6 +1214,7 @@ wapster.pl
 sms-za-darmo.pl
 
 ! Blogspot
+*face-podgladacz.blogspot.com
 hackidomsp.blogspot.com
 fejsopodgladacz*.blogspot.com
 doladowania50pln.blogspot.com
@@ -1312,7 +1317,7 @@ generatorfreegames.blogspot.com
 najprzydatniejsze.blogspot.com
 
 ! Inne lub eksperymentalne filtry
-wap.mobiltek.pl
+||www.adworkmedia.com/gTemplate.php
 c24037a5b873a9bb34ea-1c66738b464ba52c1dfb3537d93efa8f.ssl.cf2.rackcdn.com
 394841f201f58227870f-5d2be9b53f6be14746d56ef2f2bc98eb.r63.cf2.rackcdn.com
 185.62.188.111
