@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 6 Aug 2016
-! Version: 2016080602
+! Last modified: 7 Aug 2016
+! Version: 2016080701
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -134,6 +134,7 @@ zgarnijbilety.pl
 doladuj-fona.pl
 firesub.pl
 www.abc7.pl
+fun3.pl
 www.enfilm.pl
 www.bestkino.pl
 luknij.tv
@@ -242,9 +243,16 @@ fejs-podgladacz.pl
 kino-tv.pl
 twojefilmy-online.pl
 kinowepremiery.pl
-rfv.pl
 giftcode.pl
 full-movies-online.cba.pl
+wygrajrezistyle.pl
+fejs-colors.com.pl
+xh.pl
+
+! Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
+! Beda one blokowane dopoki administracja nie poradzi sobie ze spamem.
+rfv.pl
+lnfo.eu
 
 ! Przekierowuja one do innych stron z przekretami.
 ! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
@@ -317,6 +325,7 @@ promoferta.pl
 skroc-link.ga
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
+/urladda.com/5j1A/
 /tnij.us/1sa1as/
 /urladda.com/5iGP/
 /daa.pl/tarzan-legenda-pl/
@@ -333,7 +342,8 @@ skroc-link.ga
 /tnij.xyz/5jb/
 /szort.pl/a96om/
 /szort.pl/t8nao/
-/skrć.pl/d5/
+/xn--skr-spa.pl/gw/
+/xn--skr-spa.pl/d5/
 /bit.do/ZlokalizujNumer/
 /bit.do/kolorfb1/
 /bit.ly/bamlovers/
@@ -363,6 +373,9 @@ skroc-link.ga
 /bisi.pl/2015/
 
 ! Domeny szybko wygaszajace
+plsdont.atwebpages.com
+wtyczka-fejs*.6te.net
+*face-colors.dz.pl
 free50zldoladowanie.dz.pl
 doladowanie50zll.dz.pl
 odbierz-50doladowanie.dz.pl
@@ -399,6 +412,7 @@ fb-viewer20.bo.pl
 doladowanie-za-50zl.bo.pl
 fizjoterapia.5v.pl
 info4-24h.iwebt.pl
+aplikacja-podgladacz.wirtualnie.pl
 pokecoinsy.wirtualnie.pl
 foryou.xn.pl
 foryou.wirtualnie.pl
@@ -543,7 +557,12 @@ hthb.pl
 online-software-checker.com
 
 ! Przekrety
-! Od wersji 1.4.0 spis ten nie jest juz ukladany alfabetycznie.
+kosmetykikonkurs.pl
+zloty-konkurs.pl
+dobrebony.pl
+150-sekund.pl
+golds-bon.pl
+wyjatkoweubrania.pl
 iphone6win.pl
 hothub.pl
 vodplex.pl
@@ -937,6 +956,7 @@ fejstools.pl
 file-share365.com
 filebay.org
 filecom.net
+filecom.pl
 filefolders.pl
 filerom.com
 filescloud.pl
@@ -1046,7 +1066,6 @@ odwiedziny-fb.pl
 onlyfiles.net
 orange-kodzik.890m.com
 otobony.pl
-pakietlte14.dz.pl
 pakiety5gb.pl
 pakietylte1.pl
 pakietylte.pl
@@ -1119,6 +1138,7 @@ transmisje24.net
 truegamers.ga
 twojanagroda.pl
 upshare.org
+upshare.pl
 videobay.tv
 videorazr.com
 videostream.pl
