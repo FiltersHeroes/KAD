@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 10 Aug 2016
-! Version: 2016081001
+! Last modified: 11 Aug 2016
+! Version: 2016081101
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -324,6 +324,7 @@ swshlds.com
 stream-online.com.pl
 promoferta.pl
 skroc-link.ga
+zk2.pl
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
 /bit.ly/CSGOSkinsy/
@@ -1399,11 +1400,11 @@ nocnyseans.pl###host-list > .table-responsive > .table > tbody > tr:nth-of-type(
 ekino-tv.pl##.mainWrap > .col-md-9 > .col-md-9 > a[href^="http://i.exeos.ws/"] > .btnexe
 ||2.bp.blogspot.com/-3agE4uoG-8o/VYDSd1e8M8I/AAAAAAAAAAk/9_VCwWk3Hag/s1600/Virus%2BScan.gif$image
 ||www.posiedze.pl/r.php
-||zobaczmyto.tv/img/bezlimitu.png$image
 zobaczmyto.tv###bezlimitu
-||zobaczmyto.tv/img/pobierz.png$image
 zobaczmyto.tv###pobierz
 ||zobaczmyto.tv/player/player.php$subdocument
+www.zobacz.online###bezlimitu
+www.zobacz.online###pobierz
 
 !
 !
