@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 23 Nov 2016
-! Version: 2016112302
+! Last modified: 24 Nov 2016
+! Version: 2016112401
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -593,6 +593,9 @@ zetnijto.pl
 /bisi.pl/2015/
 
 ! Szybko wygaszajace
+fbadds.borec.cz
+zdarma.nazory.cz
+pilkanozna.yolasite.com
 bes.sportsontheweb.net
 govahoyuge.itup.pw
 yadozalamom.pw
@@ -2011,7 +2014,7 @@ generatorfreegames.blogspot.com
 najprzydatniejsze.blogspot.com
 
 ! Inne lub eksperymentalne filtry
-*-online.pl
+/:\/\/(?!cda|www\.films|films|.*\.gry|www\.invicta|www\.texet|pasjans).*-online\.pl/
 /fejs-podgladacz/
 /face-podgladacz/
 /facebook-colors/
