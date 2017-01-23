@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS.
-! Last modified: 21 Jan 2017
-! Version: 2017012102
+! Last modified: 23 Jan 2017
+! Version: 2017012301
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -523,6 +523,8 @@ bardzofunny.co.pl
 konkurs-kobo.pl
 nxd.pl
 fejsbuczkowy.xyz
+spokeo.pl
+formularz-odbioru-nagrody.eu
 
 ! Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 ! Beda one blokowane dopoki administracja nie poradzi sobie ze spamem.
@@ -696,6 +698,7 @@ ppl3.pl
 /bisi.pl/2015/
 
 ! Szybko wygaszajace
+acpc.pl
 testimisional.5v.pl
 pormn.ga
 pormn.tk
@@ -1212,6 +1215,7 @@ iotiot.cf
 onef.cf
 tka064.info
 sweepstakescentralusa.com
+instant-winner275.online
 
 ! Przekrety
 funriver.pl
@@ -2276,6 +2280,7 @@ generatorfreegames.blogspot.com
 najprzydatniejsze.blogspot.com
 
 ! Inne lub eksperymentalne filtry
+/^http:\/\/[a-z0-9]{3,11}\.(party|website|science|webcam)\/[0-9]{3,10}\//$xmlhttprequest,domain=streamin.to
 130.211.212.60
 130.211.230.53
 /fejs-podgladacz/
