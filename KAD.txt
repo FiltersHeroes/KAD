@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekręty
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-! Last modified: 3 May 2017
-! Version: 2017050301
+! Last modified: 6 May 2017
+! Version: 2017050601
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -579,6 +579,8 @@ wizjatv-kody.pl
 wizjatv.za-darmo.eu
 pobierz-to.pl
 flexnice.club
+leadn.pl
+linkdebrideur.xyz
 
 ! Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 ! Beda one blokowane dopoki administracja nie poradzi sobie ze spamem.
@@ -1302,8 +1304,13 @@ best-rated-offers.com
 go.playoosh.com
 4ur.click
 my.coolestmobi.com
+asdfz.pro
+patol01.pw
+free-deals.faith
 
 ! Przekrety
+highspeed5.net
+high-speed1.net
 monety-pokemony.pl
 ebookeo.pl
 sex-tele.pl
@@ -2251,6 +2258,7 @@ generatorfreegames.blogspot.com
 najprzydatniejsze.blogspot.com
 
 ! Inne lub eksperymentalne filtry
+/apps.facebook.com/1880603628824303/
 /^(http|https):\/\/[a-z0-9]{3,11}\.(party|website|science|webcam|bid)\/[0-9]{3,10}\//$xmlhttprequest,domain=streamin.to|raptu.com|flashx.tv
 104.198.138.230
 130.211.212.60
@@ -2277,19 +2285,11 @@ widget-eforsa.pl
 ||darmowefilmyonline.com/wp-content/uploads/2014/10/player.jpg
 ||darmowefilmyonline.com/wp-content/uploads/2014/10/button-zielony.png
 ||img.gofilm.pl/player/odtwarzacz.gif
-nocnyseans.pl###host-list > .table-responsive > .table > tbody > tr:nth-of-type(1)
-ekino-tv.pl##.mainWrap > .col-md-9 > .col-md-9 > a[href^="http://i.exeos.ws/"] > .btnexe
+||gofilm.pl/img/player/odtwarzacz.gif
+||ekino-tv.pl/views/img/reklama_btn2.png
 ||2.bp.blogspot.com/-3agE4uoG-8o/VYDSd1e8M8I/AAAAAAAAAAk/9_VCwWk3Hag/s1600/Virus%2BScan.gif$image
-||www.posiedze.pl/r.php
-zobaczmyto.tv###bezlimitu
-zobaczmyto.tv###pobierz
-||zobaczmyto.tv/player/player.php$subdocument
-www.zobacz.online###bezlimitu
-www.zobacz.online###pobierz
-keeptube.pl###btn
-||www.wyslij-plik.pl/download.png$image
+||uploadfile.pl/download.png
 ||i.imgur.com/Mk0L5VR.gif
-||ituu.pl/sk.png$image
 
 !
 !
