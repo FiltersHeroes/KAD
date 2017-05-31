@@ -3,7 +3,7 @@
 ! Title: KAD - Przekręty
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
 ! Last modified: 31 May 2017
-! Version: 2017053101
+! Version: 2017053102
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -596,6 +596,11 @@
 ||tanieaukcje.com.pl^
 ||tilido.com^
 ||adworkmedia.com^
+||kobieta-kobietom.com.pl^
+||skracacz.com^
+||mecze-live24.pl^
+||ogladamy24.pl^
+||pobieranko.eu^
 
 ! Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 ! Beda one blokowane dopoki administracja nie poradzi sobie ze spamem.
@@ -696,6 +701,8 @@
 ||iuyt.pl^
 ||url1.pl^
 ||7sdn.pl^
+||23rf.pl^
+||2mx9.pl^
 
 ! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
 ||goo.gl/1PMHBK$document,subdocument
@@ -768,6 +775,7 @@
 ||bisi.pl/2015$document,subdocument
 
 ! Szybko wygaszajace
+||platnosc.link^
 ||formularz-konkurs.tk^
 ||s8-nowy-wygraj.comli.com^
 ||ssd4.pdns.cz^
@@ -903,7 +911,7 @@
 ||wiadomosci*.5v.pl^
 ||wiadomosci*.ujm.pl^
 ||caly-film-online-pl.epoznan.pl^
-||/epoznan.pl/blogi-blog-727/^
+||epoznan.pl/blogi-blog-727$document,subdocument
 ||piotrkowskijakub.wixsite.com^
 ||widocznigoscie*.ujm.pl^
 ||lulu.6te.net^
@@ -1329,6 +1337,11 @@
 ||prizeestates.cricket^
 
 ! Przekrety
+||highspeednow1.net^
+||videoinbox.net^
+||myeforsa.pl^
+||eforsa.pl^
+||widget-eforsa.pl^
 ||oddamzadarmo.eu^
 ||m3gadownload.pl^
 ||downloaddy.net^
