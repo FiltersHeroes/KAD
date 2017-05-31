@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekręty
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-! Last modified: 26 May 2017
-! Version: 2017052601
+! Last modified: 31 May 2017
+! Version: 2017053101
 ! Expires: 1 day
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
@@ -595,6 +595,7 @@
 ||wyniki-lista.pl^
 ||tanieaukcje.com.pl^
 ||tilido.com^
+||adworkmedia.com^
 
 ! Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 ! Beda one blokowane dopoki administracja nie poradzi sobie ze spamem.
@@ -2287,27 +2288,19 @@
 ||104.198.138.230^
 ||130.211.212.60^
 ||130.211.230.53^
-||gold-lead.pl/pusta_oferta/api.php
-||gold-lead.pl/vid_lock/video.php
-||www.adworkmedia.com/gTemplate.php
-||c24037a5b873a9bb34ea-1c66738b464ba52c1dfb3537d93efa8f.ssl.cf2.rackcdn.com^
-||394841f201f58227870f-5d2be9b53f6be14746d56ef2f2bc98eb.r63.cf2.rackcdn.com^
 ||185.62.188.111^
-||eforsa.pl^
-||widget-eforsa.pl^
 
 ! Filtry usuwajace natretne lub wprowadzajace w blad reklamy/obrazy na niektorych stronach.
-||alltube.tv/static/img/download.png
-||alltube.tv/static/main/.gif
-||darmowefilmyonline.com/wp-content/uploads/2013/10/film-online.gif
-||darmowefilmyonline.com/wp-content/uploads/2014/10/player.jpg
-||darmowefilmyonline.com/wp-content/uploads/2014/10/button-zielony.png
-||img.gofilm.pl/player/odtwarzacz.gif
-||gofilm.pl/img/player/odtwarzacz.gif
-||ekino-tv.pl/views/img/reklama_btn2.png
-||2.bp.blogspot.com/-3agE4uoG-8o/VYDSd1e8M8I/AAAAAAAAAAk/9_VCwWk3Hag/s1600/Virus%2BScan.gif$image
-||uploadfile.pl/download.png
-||i.imgur.com/Mk0L5VR.gif
+||alltube.tv/static/img/download.png$image
+||alltube.tv/static/main/.gif$image
+||darmowefilmyonline.com/wp-content/uploads/2013/10/film-online.gif$image
+||darmowefilmyonline.com/wp-content/uploads/2014/10/player.jpg$image
+||darmowefilmyonline.com/wp-content/uploads/2014/10/button-zielony.png$image
+||img.gofilm.pl/player/odtwarzacz.gif$image
+||gofilm.pl/img/player/odtwarzacz.gif$image
+||ekino-tv.pl/views/img/reklama_btn2.png$image
+||uploadfile.pl/download.png$image
+||i.imgur.com/Mk0L5VR.gif$image
 
 !
 !
