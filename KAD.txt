@@ -2,16 +2,20 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekręty
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-! Last modified: 28 Jul 2017
-! Version: 2017072801
+! Last modified: 30 Jul 2017
+! Version: 2017073001
 ! Expires: 1 day
+!
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
+! GitHub: https://github.com/azet12/KAD
 !
 ! Kontakt, zgloszenia i informacje: https://azet12.github.io/KAD/informacje.html
 ! Licencja: CC BY-SA 4.0.
-!
 
-! Podejrzane i/lub strony polaczone z innymi oszustwami.
+! (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+! (PL) UWAGA: Strony poniżej mogą być szkodliwe. Proszę, nie wchodź na nie, jeśli nie wiesz co robisz!
+
+! Podejrzane i/lub strony połączone z innymi oszustwami
 ||eonline.pl^
 ||maendo.tv^
 ||msphacks.net^
@@ -582,16 +586,16 @@
 ||realgift.men^
 ||findgiftcode.com^
 ||cpabuild.com^
+||foto-mix.eu^
+||code-new.com^
 
-! Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
-! Beda one blokowane dopoki administracja nie poradzi sobie ze spamem.
+! Strony, które nie są wspierane przez administratorów.
+! Będą one blokowane, dopóki administracja nie poradzi sobie ze spamem.
 ||rfv.pl^
 ||lnfo.eu^
-||szort.pl^
 ||cs-passion.pl^
 
-! Przekierowuja one do innych stron z przekretami.
-! Spotykane sa na wielu stronach typu przekret lub postach i komentarzach na portalach spolecznosciowych.
+! Przekierowują do innych stron z przekrętami
 ||8xs.pl^
 ||z0x.pl^
 ||uvy3.pl^
@@ -684,7 +688,7 @@
 ||12xa.pl^
 ||0stcd.pl^
 
-! Eksperymentalne filtry domen szybko wygaszajacych i/lub przekierowujacych
+! Eksperymentalne filtry domen szybko wygaszających i/lub przekierowujących
 ||goo.gl/xLqBUP$document,subdocument
 ||goo.gl/1PMHBK$document,subdocument
 ||goo.gl/PdI3yc$document,subdocument
@@ -753,7 +757,8 @@
 ||bit.ly/27ZeN0J$document,subdocument
 ||bit.ly/25MxuCP$document,subdocument
 
-! Szybko wygaszajace
+! Szybko wygaszające
+||testo.5v.pl^
 ||facebouk.y0.pl^
 ||5wuwe.5v.pl^
 ||facebooklogintophoto.5v.pl^
@@ -1309,7 +1314,8 @@
 ||office-365.life^
 ||rdraff.com-app1.site^
 
-! Przekrety
+! Przekręty
+||rejestruj-sie.pl^
 ||pobierz-plik24.pl^
 ||file-share.pl^
 ||rhtrfhjrtfh.pl^
@@ -2193,7 +2199,7 @@
 ||130.211.230.53^
 ||185.62.188.111^
 
-! Filtry usuwajace natretne lub wprowadzajace w blad reklamy/obrazy na niektorych stronach.
+! Filtry usuwające natrętne lub wprowadzające w błąd reklamy/obrazy
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||darmowefilmyonline.com/wp-content/uploads/2013/10/film-online.gif$image
