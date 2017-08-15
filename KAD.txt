@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekręty
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-! Last modified: 12 Aug 2017
-! Version: 2017081201
+! Last modified: 15 Aug 2017
+! Version: 2017081501
 ! Expires: 1 day
 !
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -740,7 +740,6 @@
 ||go.porn^
 
 ! Przekręty
-||fbwkolorach.pl^
 ||grywalnia24.com.pl^
 ||fbwkolorach.pl^
 ||superiqtest.pl^
@@ -1629,14 +1628,8 @@
 ||najprzydatniejsze.blogspot.com^
 
 ! Inne lub eksperymentalne filtry
-||54.227.148.229^
 ||apps.facebook.com/jbzqjfk$document,subdocument
 ||apps.facebook.com/1880603628824303$document,subdocument
-/^(http|https):\/\/[a-z0-9]{3,11}\.(party|website|science|webcam|bid)\/[0-9]{3,10}\//$xmlhttprequest,domain=streamin.to|raptu.com|flashx.tv
-||104.198.138.230^
-||130.211.212.60^
-||130.211.230.53^
-||185.62.188.111^
 
 ! Filtry usuwające natrętne lub wprowadzające w błąd reklamy/obrazy
 ||alltube.tv/static/img/download.png$image
