@@ -2,8 +2,8 @@
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekręty
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-! Last modified: 16 Dec 2017
-! Version: 2017121602
+! Last modified: 4 Jan 2017
+! Version: 2018010401
 ! Expires: 1 day
 !
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -79,7 +79,9 @@
 ||czyjtonumertel.pl^
 ||darmowe-ebooki.com.pl^
 ||darmowefilmy.eu^
-||darmowefilmy.to^
+||dascoin.com.pl^
+||dascoin.info.pl^
+||dascoinpolska.com.pl^
 ||designer.ski^
 ||dichvutangsub.com^
 ||dlmyfile.com^
@@ -117,6 +119,7 @@
 ||fileice.net^
 ||fileman.pl^
 ||fileoasis.net^
+||film-cda.pl^
 ||filmasy.pl^
 ||filmland.pl^
 ||filmowo.com.pl^
@@ -132,6 +135,7 @@
 ||formularz-odbioru-nagrody.info.pl^
 ||formularz-wygranego.eu^
 ||formularz-wygranego2017.eu^
+||forum-windows.eu^
 ||frankihostessy.pl^
 ||freetvonline.com.pl^
 ||full-movies-online.cba.pl^
@@ -164,6 +168,7 @@
 ||hitmax.pl^
 ||hitzhita.pl^
 ||hksfa.org^
+||hohful.com^
 ||homevipmall.com^
 ||i-mobi.pl^
 ||i-zegarki.com^
@@ -198,6 +203,7 @@
 ||kino-tv.pl^
 ||kinobest.pl^
 ||kinoman-tv.pl^
+||kinon.tv^
 ||kinotek.pl^
 ||kinotek24.pl^
 ||kinujemy.pl^
@@ -221,7 +227,6 @@
 ||longup.co^
 ||lottoland.pl^
 ||maendo.tv^
-||mamatywna.pl^
 ||masenkotrkr.com^
 ||mcpelerynki.nazwa.pl^
 ||medicreporters.com^
@@ -241,18 +246,17 @@
 ||msphacks.net^
 ||mysocialnetwork.pl^
 ||naj-filmy24.pl^
-||najpopularniejszegryautomatowefree.com.pl^
 ||nameguess.com^
 ||nametests.com^
 ||namierzanie-telefonu.pl^
 ||naszasa.pl^
+||neonet24.net^
 ||newpassporn.com^
 ||norton.pl^
 ||odbierzdarmowedoladowanie.wordpress.com^
 ||odbior-nagrody.pl^
 ||odchudzaniezpasja.pl^
 ||odkryjfb.pl^
-||odpowiedzi.edu.pl^
 ||oferta1promocyjna.pl^
 ||oferta4you.com.pl^
 ||offergo.net^
@@ -280,9 +284,9 @@
 ||pokerpolska.pl^
 ||pokolorujfb*.glt.pl^
 ||polska-nagroda.com^
+||potwierdzoneinfo.pl^
 ||powerfactorsaver.com^
 ||pozyczka-minutowa.pl^
-||praktycznaszkolabiznesu.pl^
 ||prawdziwyrozwoj.pl^
 ||probably.space^
 ||probolan50.pl^
@@ -320,7 +324,6 @@
 ||seansik24.pl^
 ||seansonline24.pl^
 ||secretdeal.club^
-||sekcjakarpiowa.pl^
 ||sendspace.pw^
 ||serialefilmy.pl^
 ||shares.com.pl^
@@ -353,7 +356,6 @@
 ||szaloneupusty.pl^
 ||szamponrevita.pl^
 ||szpiegofon.pl^
-||szukajfilmcda.online^
 ||szybkapozyczkateraz.pl^
 ||tabletkinaerekcjepl.pw^
 ||tanieaukcje.com.pl^
@@ -365,6 +367,7 @@
 ||testyiq.com^
 ||tilido.com^
 ||timerfejs.pl^
+||toolsvipweb.com^
 ||topseans.pl^
 ||trackgsm.co.uk^
 ||trackgsm.de^
@@ -397,6 +400,7 @@
 ||www.a1a.pl^
 ||www.abc7.pl^
 ||www.bogata-przyszlosc.com^
+||www.cichodaje.pl^
 ||www.fajnefanty.com^
 ||www.jak-szybko-zarobic.com^
 ||www.lucyfeed.com^
@@ -459,7 +463,6 @@
 ||20kd.pl^
 ||23rf.pl^
 ||29jm.pl^
-||2hx.pl^
 ||2mx9.pl^
 ||3kmf.pl^
 ||59m.pl^
@@ -470,13 +473,10 @@
 ||acut.pl^
 ||adresik.gq^
 ||adtrack1.waw.pl^
-||ae1.com.pl^
 ||bi.mil.pl^
 ||c0.atm.pl^
 ||c9d.pl^
-||cn1.com.pl^
 ||cw8.pl^
-||d74.com.pl^
 ||d8x.pl^
 ||de1.pl^
 ||exit-o.com^
@@ -503,14 +503,11 @@
 ||poort.pl^
 ||promoferta.pl^
 ||pw0.pl^
-||q8d.com.pl^
 ||qmx7.pl^
 ||qvjql3e.com^
 ||r.xyz1.pl^
 ||rapidsmo.pl^
 ||readyfile.pl^
-||s8x.pl^
-||s9c.com.pl^
 ||skroc-link.ga^
 ||sm4ll.in^
 ||sprawdz-to.ga^
@@ -528,10 +525,6 @@
 ||zk2.pl^
 
 ! Szybko wygaszające
-! 10eur-paysafecard-kody.xx.pl
-! paysfaecard-10euro-bony.xx.pl
-||*paysafecard*.xx.pl^
-||*paysfaecard*.xx.pl^
 ||10gb.6ka.info^
 ||15b37.skroc.pl^
 ||ale-fotogragia.bo.pl^
@@ -674,7 +667,6 @@
 ||prizefestival.mobi^
 ||projekt-tester.club^
 ||rdraff.com-app1.site^
-||setting4upgradefreshandforyou.site^
 ||sexopia.pl^
 ||snekdeal.com^
 ||st.acstnst.com^
@@ -686,7 +678,6 @@
 ||track.grannyads.com^
 ||uroffer.link^
 ||v7pjo.voluumtrk.com^
-||vouchery.online^
 ||we-are-gamers.com^
 ||win-everyday.top^
 ||winareward.club^
@@ -697,7 +688,6 @@
 ||zcontentlocker7gpa8a.xyz^
 
 ! Przekręty
-! mtupk.pl
 ||1freesoftwareonline.com^
 ||24pliki.pl^
 ||24streamers.pl^
@@ -731,7 +721,6 @@
 ||bestapps.com.pl^
 ||bez-limitu.tv^
 ||bony-paliwowe.pl^
-||bonykupony.pl^
 ||booksstar.pl^
 ||bookstar.pl^
 ||boostphone.gq^
@@ -863,7 +852,6 @@
 ||fulldownload.pl^
 ||fullplayer.pl^
 ||fun2cell.net^
-||funriver.pl^
 ||funsolo.net^
 ||funtoonez.com^
 ||futurepay.globway.eu^
@@ -872,6 +860,7 @@
 ||getgamecheats.com^
 ||getthis.pl^
 ||giftsofsnowdown.com^
+||gigasync.pl^
 ||gigup.net^
 ||giveskincs.nd.pl^
 ||globile.co^
@@ -911,8 +900,6 @@
 ||icloudnet.com.pl^
 ||idzdalej.pl^
 ||ilovemobi.com^
-||info-fitness.com^
-||insanegift.com^
 ||instafollow.pl^
 ||instagram-followers.pl^
 ||instalike.pl^
@@ -925,10 +912,8 @@
 ||juicywin.pl^
 ||kekuko.com^
 ||kimbyleswprzeszlosci.pl^
-||kingprizes.pl^
 ||klucze-csgo.pl^
 ||kocham-cie.c0.pl^
-||konkurs6.com.pl^
 ||konkursowo-24.pl^
 ||konkursy.de^
 ||ksiazka-telefoniczna-online.pl^
@@ -994,7 +979,6 @@
 ||nocnyseans.pl^
 ||nonstopvideos.pl^
 ||oculusvsvr.pl^
-||odbierz-nagrody.pl^
 ||oddamzadarmo.eu^
 ||odliczamy.net^
 ||odpowiadam.pl^
@@ -1040,8 +1024,6 @@
 ||podarunkowartvagd.pl^
 ||pointhost.pl^
 ||pokemonzestaw.pl^
-||pokolorujfb.pl^
-||pokolorujfejs.eu^
 ||polub.co^
 ||pornmania.pl^
 ||prezentowo.org^
@@ -1055,8 +1037,8 @@
 ||quiz-fun.com.my^
 ||rankingfryzjerow.pl^
 ||rankingkwiaciarni.pl^
-||realybooks.com^
 ||red-download.pl^
+||reg-me.pl^
 ||rejestrowanko.com.pl^
 ||rejestruj-sie.pl^
 ||restricted.pl^
@@ -1064,6 +1046,7 @@
 ||rzeczyzadarmo.pl^
 ||rzetelneapteki.pl^
 ||rzetelnebiuro.pl^
+||samnumer.pl^
 ||samsung6edge.pl^
 ||save-my-snap.pl^
 ||searchrapid.pl^
@@ -1082,7 +1065,6 @@
 ||skinycs.pl^
 ||skinykonkurs.pl^
 ||skippyfile.com^
-||sledzememes.pl^
 ||slodkieklamstewka.eu^
 ||smartawards.pl^
 ||sms-napisz.pl^
@@ -1092,7 +1074,6 @@
 ||socialviewapp.com.pl^
 ||soft4click.com^
 ||softsmart.mobi^
-||speed-lte.pl^
 ||speedfile.info^
 ||sprawdz-to.cba.pl^
 ||steam-recharger.pl^
@@ -1108,7 +1089,6 @@
 ||streamoo.pl^
 ||streams.net.pl^
 ||streams18plus.pl^
-||streamsportowy.pl^
 ||streamuj.org^
 ||streamy.pl^
 ||subkiller.pl^
@@ -1146,6 +1126,7 @@
 ||v-shared.net^
 ||v21.pl^
 ||ver.ovh^
+||vid-net.pl^
 ||videno.pl^
 ||videoinbox.net^
 ||videorazr.com^
@@ -1185,15 +1166,11 @@
 ||wybierz-nagrode.pl^
 ||wygraj-iphone6s.pl^
 ||wygrajfidgetspinner.pl^
-||wygrajgiftcard.pl^
-||wygrajjacka.pl^
 ||wygrajpsc.eu^
-||wygrajskiny.pl^
 ||wygrajz5.pl^
 ||wygrane24.com.pl^
 ||wygrania.com^
 ||wygrywa.pl^
-||wylosujgry.pl^
 ||xn--dowiecznoci-mfc.pl^
 ||yotefiles.com^
 ||your-movies.pl^
@@ -1207,12 +1184,10 @@
 ||za10groszy.pl^
 ||zacne.eu^
 ||zalukaj-online.pl^
-||zalukaj-player.pl^
 ||zapisujemy24.pl^
 ||zarabiajwsieci.5v.pl^
 ||zasil-konto.tk^
 ||zasilkonto.cba.pl^
-||zegar-fb.pl^
 ||zegarfb.pl^
 ||zgarnij-prezent.pl^
 ||zgarnij.net^
@@ -1227,7 +1202,6 @@
 ||72933.pl^
 ||beka.pl^
 ||bramka-sms-za-darmo.pl^
-||czarnypunktgra.pl^
 ||kasa-sms.pl^
 ||pinkstar.pl^
 ||ptgame.eu^
@@ -1243,16 +1217,13 @@
 ||www.nagroda-sms.pl^
 ||www.najtanszegryjava.pl^
 ||www.operacjarzeka.pl^
-||www.owocowebabelki.pl^
 ||www.piardofon.pl^
-||www.piekielnakuchnia.mobi^
 ||www.roslinkivsrobale.pl^
 ||www.super-barman.pl^
 ||www.superpyton.pl^
 ||www.wojownicyzulicy.pl^
 ||www.wykreslanka.com.pl^
 ||www.zlotyskok.pl^
-||www.zwierzakiatakuja.pl^
 
 ! Blogspot
 ! 55pakiety-lte-5gb.blogspot.com
