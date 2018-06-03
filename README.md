@@ -1,7 +1,9 @@
 # KAD
-Polski filtr do Adblocka i uBlocka blokujący strony typu przekręt (np. subskrypcje SMS).
+Polski filtr do Adblocka, uBlocka Origin i AdGuarda blokujący strony typu przekręt (np. subskrypcje SMS).
 
-Możesz zasubskrybować listę na https://azet12.github.io/KAD
+Możesz zasubskrybować listę na https://azet12.github.io/KAD lub klikając ([Subskrybuj][NoCoin Filter List Subscribe])
+
+[KAD - Przekręty Subscribe]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt&title=KAD%20-%20Przekręty
 
 # Działanie
 Poza bogatą i ciągle powiększająca się listą stron-smieci, filtr ten posiada także spis "stron przekierowujących", dzięki czemu blokowanie jest jeszcze lepsze. Każda znaleziona/zgłoszona strona-smieć jest sprawdzana dokładnie, razem z kodem źródłowym, ponieważ można na niej znaleźć najróżniejsze sztuczki, które np. chowają jej prawdziwy adres. KAD sobie z tym radzi blokując oryginalną witrynę, jak i tę "przekierowujacą", przez co blokowanie jest bardziej efektywne.
