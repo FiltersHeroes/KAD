@@ -18,5 +18,5 @@ Jeśli nie chcesz blokować sekcji [kontrowersyjnych stron](https://github.com/a
 
 Pomimo że zasubskrybowanie KAD wraz z innymi filtrami ochronnymi tworzy świetną całość, nie oznacza to w żaden sposób 100% ochrony, ponieważ taka nie istnieje. Pamiętaj, aby zachować zdrowy rozsądek podczas przeglądania sieci - czytaj regulaminy podejrzanych stron, szczególnie tych, które oferują coś "za darmo". Po więcej informacji o przekrętach wejdź na blog - https://filtrkad.wordpress.com.
 
-Lista jest oparta na licencji CC BY-SA 4.0.<br>
+Lista jest oparta na licencji CC BY-SA 4.0.
 <https://creativecommons.org/licenses/by-sa/4.0/>
