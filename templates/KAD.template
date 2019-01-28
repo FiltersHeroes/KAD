@@ -1,0 +1,54 @@
+[Adblock Plus 2.0]
+! Do poprawnego działania listy wymagane jest rozszerzenie uBlock Origin.
+!
+! Homepage: https://polishfiltersteam.github.io/KAD/
+! Title: KAD - Przekręty
+! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
+! Last modified: @modified
+! Version: @version
+! Expires: 2 days
+! Copyright © 2019 Polish Filters Team
+!
+! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KAD.txt
+! GitHub: https://github.com/PolishFiltersTeam/KAD
+!
+! Kontakt, zgloszenia i informacje: https://polishfiltersteam.github.io/KAD/informacje.html
+! Licencja: CC BY-SA 4.0.
+!
+! (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+! (PL) UWAGA: Strony poniżej mogą być szkodliwe. Proszę, nie wchodź na nie, jeśli nie wiesz co robisz!
+!
+! Podejrzane i/lub strony połączone z innymi oszustwami
+@include podejrzane_inne_oszustwa
+!
+! Promocja pseudonauki / Fake news
+! Nieprawdziwe, wprowadzające w błąd informacje lub podobne.
+@include pseudonauka_fake_news
+!
+! Strony, które nie są wspierane przez administratorów.
+! Będą one blokowane, dopóki administracja nie poradzi sobie ze spamem.
+@include niewspierane_przez_adminow
+!
+! Przekierowują do innych stron z przekrętami
+@include przekierowania_do_przekretow
+!
+! Szybko wygaszające
+@include szybko_wygaszajace
+!
+! Szybko wygaszające mobilne
+@include szybko_wygaszajace_mobilne
+!
+! Przekręty
+@include przekrety
+!
+! Wapster
+@include wapster
+!
+! Blogspot
+@include blogspot
+!
+! Inne lub eksperymentalne filtry
+@include inne_lub_eksperymentalne_filtry
+!
+! Natrętne lub wprowadzające w błąd reklamy/obrazy
+@include natretne_lub_wprowadzajace_w_blad
