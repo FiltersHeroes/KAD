@@ -11,5 +11,4 @@ workflows:
   workflow:
     jobs:
       - build:
-          type: approval
           context: org-global
