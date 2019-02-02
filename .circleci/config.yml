@@ -9,13 +9,6 @@ jobs:
 workflows:
   version: 2
   workflow:
-    triggers:
-    - schedule:
-        cron: 0 22 * * *
-        filters:
-          branches:
-            only:
-            - master
     jobs:
       - build:
           context: org-global
