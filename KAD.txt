@@ -1,17 +1,18 @@
 [Adblock Plus 2.0]
 ! Do poprawnego działania listy wymagane jest rozszerzenie uBlock Origin.
 !
-! Homepage: https://azet12.github.io/KAD
+! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
-! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS 
-! Last modified: Mon, 28 Jan 2019, 13:09 UTC+01
-! Version: 2019.1.28.3
+! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
+! Last modified: Sat, 02 Feb 2019, 20:17 UTC+01
+! Version: 2019.2.2.1
 ! Expires: 2 days
+! Copyright © 2019 Polish Filters Team
 !
-! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
-! GitHub: https://github.com/azet12/KAD
+! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KAD.txt
+! GitHub: https://github.com/PolishFiltersTeam/KAD
 !
-! Kontakt, zgloszenia i informacje: https://azet12.github.io/KAD/informacje.html
+! Kontakt, zgloszenia i informacje: https://kadantiscam.netlify.com/#contact
 ! Licencja: CC BY-SA 4.0.
 !
 ! (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
@@ -407,9 +408,11 @@
 ||krebsmethod.it^
 ||kredyt-na-pesel.pl^
 ||kryptochemik.pl^
+||kupujemy24.net^
 ||kupzytax.pl^
 ||kuriero.pl^
 ||lampeberger.com.pl^
+||lapkowo.pl^
 ||las-rp.pl^
 ||lauretta-larix.eu^
 ||ldrcp.pl^
@@ -460,6 +463,7 @@
 ||modimoda.pl^
 ||modnakolekcja.com^
 ||mojadietanamase.pl^
+||mojeklocki.com^
 ||mojepc.net^
 ||mojepvpweryfikacja.tk^
 ||mojezakupy.net^
@@ -488,11 +492,14 @@
 ||naszesprawdziany.pl^
 ||naturabazar.pl^
 ||naturday.pl^
+||neomedia24.net^
+||neomediamax.net^
 ||neopozyczki.pl^
 ||neospes.com^
 ||netleaders.com^
 ||newmediaz.com^
 ||newpassporn.com^
+||newtechagd.net^
 ||normour.com^
 ||norton.pl^
 ||notifyday.com^
@@ -655,6 +662,7 @@
 ||silvets.pl^
 ||skidrowreloaded.pl^
 ||skleplara.pl^
+||sklepnecik.pl^
 ||skleptiande.pl^
 ||sklep-colway.com^
 ||sklep-colway.pl^
@@ -690,6 +698,7 @@
 ||szybka-wyplata.pl^
 ||tabletkinaerekcjepl.pw^
 ||talkfusion.com^
+||technoclub.space^
 ||teespoon.co^
 ||teleaudio.pl^
 ||telecop.in.net^
@@ -944,7 +953,7 @@
 ||zoomica.pl^
 ||zostan-zwyciezca.com^
 ||zukiewicz.com^
-||zyski-z-innowacji.pl^ 
+||zyski-z-innowacji.pl^
 !
 ! Promocja pseudonauki / Fake news
 ! Nieprawdziwe, wprowadzające w błąd informacje lub podobne.
@@ -1034,6 +1043,7 @@
 ||mecz.ujm.pl^
 ||newsy-ben24.ml^
 ||odbierz-paysafecard.ujm.pl^
+||p986524.pl^
 ||pffn.pl.tn^
 ||pierwszaligablog.wordpress.com^
 ||pila-dziedzictwo-2017-online.5v.pl^
@@ -1133,6 +1143,7 @@
 ||1freesoftwareonline.com^
 ||4kplayer.pl^
 ||4kstream.pl^
+||adobe.5v.pl^
 ||ajakbytak.pl^
 ||akazoo.pl^
 ||allplayer.pl^
@@ -1171,6 +1182,7 @@
 ||doladujfona.net^
 ||doladujfona.org^
 ||domniespodzianek.com^
+||downfiles.pl^
 ||downloadfiles.pl^
 ||downloads-mobile.com^
 ||download-24.pl^
@@ -1178,10 +1190,12 @@
 ||easydownload.pl^
 ||ebookeo.pl^
 ||eforsa.pl^
+||energylandia-pl.win^
 ||ero-tv.pl^
 ||esemeso.pl^
 ||exeos.ws^
 ||ezdownloadpro.info^
+||facewatch.borec.cz^
 ||failmobile.net^
 ||faktopedia.com.pl^
 ||fbpodgladacz.wordpress.com^
@@ -1210,6 +1224,7 @@
 ||filmynet.eu^
 ||filmy-i-seriale.pl^
 ||film-base.pl^
+||finanse-payu.pl^
 ||firecash.org^
 ||fotomonto.pl^
 ||freegiftcode.com^
@@ -1232,6 +1247,7 @@
 ||gogameportal.com^
 ||hdseriale.pl^
 ||hitfilm.pl^
+||host1.5v.pl^
 ||hostplik.pl^
 ||hostujmy.pl^
 ||hotawards.pl^
@@ -1250,6 +1266,7 @@
 ||juicywin.pl^
 ||kekuko.com^
 ||kocham-cie.c0.pl^
+||kolor.oq.pl^
 ||konkursy.de^
 ||ksiazka-telefoniczna-online.pl^
 ||ktopodgladamnienafacebooku.wordpress.com^
@@ -1276,6 +1293,7 @@
 ||msphackonline.com^
 ||msphack.com.pl^
 ||msphack.pl^
+||multico.5v.pl^
 ||mundialove.pl^
 ||myeforsa.pl^
 ||mylead.eu^
@@ -1286,14 +1304,21 @@
 ||nonstopvideos.pl^
 ||n-mobile.net^
 ||odliczamy.net^
+||offerplaying.com^
 ||ollando.com^
 ||onliine.pl^
 ||onlyfiles.net^
+||oppineo.com^
 ||orange-kodzik.890m.com^
+||paczkomaty-pl.tk^
 ||pakiet-steam.pl^
 ||pamietnikiwampirow.tv^
 ||pay2me.pl^
+||pay24iv.com^
 ||pay.mobiltek.pl^
+||pinamo.pl^
+||pko-bp.pl^
+||platnosc24.com^
 ||playmobia.com^
 ||playmovie.pl^
 ||playnowunlimited.biz^
@@ -1301,6 +1326,7 @@
 ||plikson24.pl^
 ||plikson.pl^
 ||pliks.pl^
+||pl-ticket.today^
 ||pl.mevida.me^
 ||pl.mysafesmartphone.com^
 ||pl.team^
@@ -1311,9 +1337,11 @@
 ||pobierzgo.pl^
 ||pobierzpliki.pl^
 ||pobierzplik.net^
+||pole-henny.com^
 ||pornmania.pl^
 ||po.fyybox.com^
 ||profbhack.com^
+||przejdz.ml^
 ||przepismix.pl^
 ||psialapka.pl^
 ||qubble.com^
@@ -1339,6 +1367,7 @@
 ||spaceforyou.cc^
 ||speedfile.info^
 ||sportowy-stream.pl^
+||sprawdzikk.v0r.org^
 ||steamco.de^
 ||steam-wallet-gifts.com^
 ||steam-wallet-money.com^
@@ -1346,17 +1375,20 @@
 ||streamgo.pl^
 ||streamuj.org^
 ||superserwisy.pl^
+||technoline.site^
 ||teenzforfun.com^
 ||telewizja-internetowa24.pl^
 ||themovienation.com^
 ||tinyfilehost.com^
 ||tinyfileshost.com^
 ||todolize.com^
+||tradeit.cash^
 ||trafisz.com^
 ||transmisje24.net^
 ||truegamers.ga^
 ||tv-internetowa.pl^
 ||twojeartykuly.com^
+||ulink.pl^
 ||update-1.com^
 ||upshare.org^
 ||videon.com.pl^
@@ -1368,6 +1400,7 @@
 ||vimeoo.net^
 ||vitrigroup.pl^
 ||vod24.pl^
+||wiarygodnafirma24.pl^
 ||widget-eforsa.pl^
 ||www.7218.pl^
 ||www.darmowe-wrozby.com^
@@ -1377,6 +1410,7 @@
 ||www.msp-hack.com^
 ||www.softmania.pl^
 ||wybierz-nagrode.pl^
+||wydawca.lead.network^
 ||wygrajpsc.eu^
 ||wygrania.com^
 ||wygrywa.pl^
