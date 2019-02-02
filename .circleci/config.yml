@@ -1,0 +1,15 @@
+version: 2
+jobs:
+  build:
+    docker:
+    - image: hawkeye116477/pft:latest
+    steps:
+    - checkout
+    - run: ./scripts/VICHS_auto.sh
+workflows:
+  version: 2
+  workflow:
+    jobs:
+      - build:
+          type: approval
+          context: org-global
