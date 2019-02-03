@@ -13,4 +13,4 @@ Jeśli nie chcesz blokować sekcji [kontrowersyjnych stron](https://github.com/P
 
 Lista jest oparta na licencji [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).
 
-Po więcej informacji, w tym dodatkowe możliwości kontaktu, zajrzyj na naszą stronę https://kadantiscam.netlify.com/. Zachęcamy również, by przejrzeć naszego bloga => [kadantiscam.netlify.com/blog/](https://kadantiscam.netlify.com/blog/) w celu nabycia przydatnej wiedzy o przekrętach.
+Po więcej informacji, w tym dodatkowe możliwości kontaktu, zajrzyj na naszą stronę [kadantiscam.netlify.com](https://kadantiscam.netlify.com/). Zachęcamy również, by przejrzeć naszego bloga => [kadantiscam.netlify.com/blog](https://kadantiscam.netlify.com/blog/) w celu nabycia przydatnej wiedzy o przekrętach.
