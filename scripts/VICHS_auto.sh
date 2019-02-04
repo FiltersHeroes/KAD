@@ -22,4 +22,10 @@ fi
 
 if [ "$lista" ] ; then
     $sciezka/VICHS.sh $lista
+    cd ..
+    if [ "$CI" = "true" ] ; then
+        git clone git@github.com:PolishFiltersTeam/KADhosts.git
+    fi
+    cd ./KADhosts
+    ./scripts/VICHS_auto.sh
 fi
