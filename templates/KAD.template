@@ -39,3 +39,13 @@
 !
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
 @include natretne_lub_wprowadzajace_w_blad
+!
+!
+! Reguły specjalne
+kadantiscam.netlify.com###kadetect
+!#if ext_ublock
+!#include sections/specjalne_uBO.txt
+!#endif
+!#if !ext_ublock
+!#include sections/specjalne_AG.txt
+!#endif
