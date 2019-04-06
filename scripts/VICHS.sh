@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.1
+# v2.1.1
 
 for i in "$@"; do
 
@@ -82,7 +82,7 @@ for i in "$@"; do
         grep -o '\||.*^' $SECTIONS_DIR/external.temp > $SECTIONS_DIR/external_hosts.temp
         sed -i "s|[|][|]|0.0.0.0 |" $SECTIONS_DIR/external_hosts.temp
         sed -i 's/[/\^]//g' $SECTIONS_DIR/external_hosts.temp
-        sed -i 's/[/\*]//g' $SECTIONS_DIR/external_hosts.temp
+        sed -i '/[/\*]/d' $SECTIONS_DIR/external_hosts.temp
         sort -uV -o $SECTIONS_DIR/external_hosts.temp $SECTIONS_DIR/external_hosts.temp
         sed -e '0,/^@HOSTSinclude/!b; /@HOSTSinclude/{ r '$SECTIONS_DIR/external_hosts.temp'' -e 'd }' $FINAL > $TEMPORARY
         cp -R $TEMPORARY $FINAL
