@@ -6,6 +6,7 @@ jobs:
     steps:
     - checkout
     - run: ./scripts/VICHS_auto.sh
+    - add_ssh_keys
 workflows:
   version: 2
   workflow:
