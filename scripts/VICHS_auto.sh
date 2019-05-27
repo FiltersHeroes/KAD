@@ -28,5 +28,5 @@ if [ "$lista" ] ; then
     fi
     cd ./KADhosts
     ./scripts/VICHS.sh ./KADhosts.txt
-    ./scripts/VICHS.sh ./KADhosts_whitelist.txt
+    ./scripts/VICHS.sh ./KADhosts_bez_pseudonauki.txt
 fi
