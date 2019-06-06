@@ -1,20 +1,33 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.1.1
+# v2.2.1
+
+# MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
+MAIN_PATH=$(dirname "$0")/..
+
+# Przejście do katalogu, w którym znajduje się lokalne repozytorium git
+cd $MAIN_PATH
+
+# Lokalizacja pliku konfiguracyjnego
+CONFIG=$MAIN_PATH/scripts/VICHS.config
+
+# Konfiguracja nazwy użytkownika i maila dla CI
+if [ "$CI" = "true" ] ; then
+    CI_USERNAME=$(grep -oP -m 1 '@CIusername \K.*' $CONFIG)
+    CI_EMAIL=$(grep -oP -m 1 '@CIemail \K.*' $CONFIG)
+    git config --global user.name "${CI_USERNAME}"
+    git config --global user.email "${CI_EMAIL}"
+fi
 
 for i in "$@"; do
 
     # FILTERLIST to nazwa pliku, który chcemy zbudować
     FILTERLIST=$(basename $i .txt)
 
-    # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
-    MAIN_PATH=$(dirname "$0")/..
-
     TEMPLATE=$MAIN_PATH/templates/${FILTERLIST}.template
     FINAL=$i
     TEMPORARY=$MAIN_PATH/${FILTERLIST}.temp
-    CONFIG=$MAIN_PATH/scripts/VICHS.config
 
     # Podmienianie zawartości pliku końcowego na zawartość template'u
     cp -R $TEMPLATE $FINAL
@@ -171,7 +184,6 @@ done
 
 # Wysyłanie zmienionych plików do repozytorium git
 if [ "$CI" = "true" ] ; then
-    CI_USERNAME=$(grep -oP -m 1 '@CIusername \K.*' $CONFIG)
     GIT_SLUG=$(git ls-remote --get-url | sed "s|https://||g" | sed "s|git@||g" | sed "s|:|/|g")
     git push https://${CI_USERNAME}:${GH_TOKEN}@${GIT_SLUG} HEAD:master > /dev/null 2>&1
 elif [ ! "$RTM_MODE" ] ; then
