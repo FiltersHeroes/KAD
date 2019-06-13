@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.3.1
+# v2.3.2
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -136,17 +136,16 @@ for i in "$@"; do
         sed -i "s|[|][|]|0.0.0.0 |" $HOSTS_TEMP
         sed -i 's/[/\^]//g' $HOSTS_TEMP
         sed -i '/[/\*]/d' $HOSTS_TEMP
-        rm -rf $HOSTS_FILE
-        mv $HOSTS_TEMP $HOSTS_FILE
-        sort -uV -o $HOSTS_FILE $HOSTS_FILE
-        sed -e '0,/^@HOSTSinclude/!b; /@HOSTSinclude/{ r '$HOSTS_FILE'' -e 'd }' $FINAL > $TEMPORARY
+        sort -uV -o $HOSTS_TEMP $HOSTS_TEMP
+        sed -e '0,/^@HOSTSinclude/!b; /@HOSTSinclude/{ r '$HOSTS_TEMP'' -e 'd }' $FINAL > $TEMPORARY
+        rm -r $HOSTS_TEMP
         mv $TEMPORARY $FINAL
     done
 
-    # Obliczanie ilości list, które zostaną przekonwertowane na hosts i pobrane ze źródeł zewnętrznych
+    # Obliczanie ilości sekcji/list filtrów, które zostaną przekonwertowane na hosts i pobrane ze źródeł zewnętrznych
     END_URLHOSTS=$(grep -o -i '@URLHOSTSinclude' ${TEMPLATE} | wc -l)
 
-    # Konwertowanie na hosts i doklejanie zawartości list w odpowiednie miejsca
+    # Konwertowanie na hosts i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
     for (( n=1; n<=$END_URLHOSTS; n++ ))
     do
         EXTERNAL=$(grep -oP -m 1 '@URLHOSTSinclude \K.*' $FINAL)
