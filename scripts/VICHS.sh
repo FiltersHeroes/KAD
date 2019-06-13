@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.2.1
+# v2.3.1
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -61,9 +61,9 @@ for i in "$@"; do
     # Doklejanie sekcji w odpowiednie miejsca
     for (( n=1; n<=$END; n++ ))
     do
-        SEKCJA=$(grep -oP -m 1 '@include \K.*' $FINAL)
-        sed -e '0,/^@include/!b; /@include/{ r '${SECTIONS_DIR}/${SEKCJA}.txt'' -e 'd }' $FINAL > $TEMPORARY
-        cp -R $TEMPORARY $FINAL
+        SEKCJA=${SECTIONS_DIR}/$(grep -oP -m 1 '@include \K.*' $FINAL).txt
+        sed -e '0,/^@include/!b; /@include/{ r '${SEKCJA}'' -e 'd }' $FINAL > $TEMPORARY
+        mv $TEMPORARY $FINAL
     done
 
     # Obliczanie ilości sekcji/list filtrów, które zostaną pobrane ze źródeł zewnętrznych
@@ -73,38 +73,102 @@ for i in "$@"; do
     for (( n=1; n<=$END_URL; n++ ))
     do
         EXTERNAL=$(grep -oP -m 1 '@URLinclude \K.*' $FINAL)
-        wget -O $SECTIONS_DIR/external.temp "${EXTERNAL}"
-        sed -i '/! Checksum/d' $SECTIONS_DIR/external.temp
-        sed -i '/!#include /d' $SECTIONS_DIR/external.temp
-        sed -i '/Adblock Plus 2.0/d' $SECTIONS_DIR/external.temp
-        sed -i '/! Dołączenie listy/d' $SECTIONS_DIR/external.temp
-        sed -i "s|! |!@|g" $SECTIONS_DIR/external.temp
-        sed -e '0,/^@URLinclude/!b; /@URLinclude/{ r '$SECTIONS_DIR/external.temp'' -e 'd }' $FINAL > $TEMPORARY
-        cp -R $TEMPORARY $FINAL
-        rm -r $SECTIONS_DIR/external.temp
+        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        wget -O $EXTERNAL_TEMP "${EXTERNAL}"
+        if [[ "$?" != 0 ]]; then
+            echo "Błąd w trakcie pobierania pliku"
+            git reset --hard
+            git clean -xdf
+            exit 0
+        fi
+        sed -i '/! Checksum/d' $EXTERNAL_TEMP
+        sed -i '/!#include /d' $EXTERNAL_TEMP
+        sed -i '/Adblock Plus 2.0/d' $EXTERNAL_TEMP
+        sed -i '/! Dołączenie listy/d' $EXTERNAL_TEMP
+        sed -i "s|! |!@|g" $EXTERNAL_TEMP
+        sed -e '0,/^@URLinclude/!b; /@URLinclude/{ r '$EXTERNAL_TEMP'' -e 'd }' $FINAL > $TEMPORARY
+        mv $TEMPORARY $FINAL
+        rm -r $EXTERNAL_TEMP
+    done
+
+    # Obliczanie ilości sekcji, które zostaną pobrane ze źródeł zewnętrznych i połączone z lokalnymi sekcjami
+    END_COMBINE=$(grep -o -i '@COMBINEinclude' ${TEMPLATE} | wc -l)
+
+    # Łączenie lokalnych i zewnętrznych sekcji w jedno oraz doklejanie ich w odpowiednie miejsca
+    for (( n=1; n<=$END_COMBINE; n++ ))
+    do
+        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEinclude" { print $2; exit }' $FINAL).txt
+        EXTERNAL=$(awk '$1 == "@COMBINEinclude" { print $3; exit }' $FINAL)
+        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        MERGED_TEMP=$SECTIONS_DIR/merged.temp
+        wget -O $EXTERNAL_TEMP "${EXTERNAL}"
+        if [[ "$?" != 0 ]]; then
+            echo "Błąd w trakcie pobierania pliku"
+            git reset --hard
+            git clean -xdf
+            exit 0
+        fi
+        sed -i '/! Checksum/d' $EXTERNAL_TEMP
+        sed -i '/!#include /d' $EXTERNAL_TEMP
+        sed -i '/Adblock Plus 2.0/d' $EXTERNAL_TEMP
+        sed -i '/! Dołączenie listy/d' $EXTERNAL_TEMP
+        sed -i "s|! |!@|g" $EXTERNAL_TEMP
+        sort -u -o $LOCAL $LOCAL
+        sort -u -o $EXTERNAL_TEMP $EXTERNAL_TEMP
+        comm $LOCAL $EXTERNAL_TEMP | tr -d "[:blank:]" >> $MERGED_TEMP
+        sort -uV -o $LOCAL $LOCAL
+        sort -uV -o $MERGED_TEMP $MERGED_TEMP
+        sed -e '0,/^@COMBINEinclude/!b; /@COMBINEinclude/{ r '$MERGED_TEMP'' -e 'd }' $FINAL > $TEMPORARY
+        mv $TEMPORARY $FINAL
+        rm -r $EXTERNAL_TEMP
+        rm -r $MERGED_TEMP
+    done
+
+    # Obliczanie ilości sekcji/list filtrów, które zostaną przekonwertowane na hosts
+    END_HOSTS=$(grep -o -i '@HOSTSinclude' ${TEMPLATE} | wc -l)
+
+    # Konwertowanie na hosts i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
+    for (( n=1; n<=$END_HOSTS; n++ ))
+    do
+        HOSTS_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@HOSTSinclude \K.*' $FINAL).txt
+        HOSTS_TEMP=$SECTIONS_DIR/hosts.temp
+        grep -o '\||.*^' $HOSTS_FILE > $HOSTS_TEMP
+        sed -i "s|[|][|]|0.0.0.0 |" $HOSTS_TEMP
+        sed -i 's/[/\^]//g' $HOSTS_TEMP
+        sed -i '/[/\*]/d' $HOSTS_TEMP
+        rm -rf $HOSTS_FILE
+        mv $HOSTS_TEMP $HOSTS_FILE
+        sort -uV -o $HOSTS_FILE $HOSTS_FILE
+        sed -e '0,/^@HOSTSinclude/!b; /@HOSTSinclude/{ r '$HOSTS_FILE'' -e 'd }' $FINAL > $TEMPORARY
+        mv $TEMPORARY $FINAL
     done
 
     # Obliczanie ilości list, które zostaną przekonwertowane na hosts i pobrane ze źródeł zewnętrznych
-    END_HOSTS=$(grep -o -i '@HOSTSinclude' ${TEMPLATE} | wc -l)
+    END_URLHOSTS=$(grep -o -i '@URLHOSTSinclude' ${TEMPLATE} | wc -l)
 
     # Konwertowanie na hosts i doklejanie zawartości list w odpowiednie miejsca
-    for (( n=1; n<=$END_HOSTS; n++ ))
+    for (( n=1; n<=$END_URLHOSTS; n++ ))
     do
-        EXTERNAL=$(grep -oP -m 1 '@HOSTSinclude \K.*' $FINAL)
-        wget -O $SECTIONS_DIR/external.temp "${EXTERNAL}"
-        grep -o '\||.*^' $SECTIONS_DIR/external.temp > $SECTIONS_DIR/external_hosts.temp
-        sed -i "s|[|][|]|0.0.0.0 |" $SECTIONS_DIR/external_hosts.temp
-        sed -i 's/[/\^]//g' $SECTIONS_DIR/external_hosts.temp
-        sed -i '/[/\*]/d' $SECTIONS_DIR/external_hosts.temp
-        sort -uV -o $SECTIONS_DIR/external_hosts.temp $SECTIONS_DIR/external_hosts.temp
-        sed -e '0,/^@HOSTSinclude/!b; /@HOSTSinclude/{ r '$SECTIONS_DIR/external_hosts.temp'' -e 'd }' $FINAL > $TEMPORARY
-        cp -R $TEMPORARY $FINAL
-        rm -r $SECTIONS_DIR/external.temp
-        rm -r $SECTIONS_DIR/external_hosts.temp
+        EXTERNAL=$(grep -oP -m 1 '@URLHOSTSinclude \K.*' $FINAL)
+        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        EXTERNALHOSTS_TEMP=$SECTIONS_DIR/external_hosts.temp
+        wget -O $EXTERNAL_TEMP "${EXTERNAL}"
+        if [[ "$?" != 0 ]]; then
+            echo "Błąd w trakcie pobierania pliku"
+            git reset --hard
+            git clean -xdf
+            exit 0
+        fi
+        grep -o '\||.*^' $EXTERNAL_TEMP > $EXTERNALHOSTS_TEMP
+        sed -i "s|[|][|]|0.0.0.0 |" $EXTERNALHOSTS_TEMP
+        sed -i 's/[/\^]//g' $EXTERNALHOSTS_TEMP
+        sed -i '/[/\*]/d' $EXTERNALHOSTS_TEMP
+        sort -uV -o $EXTERNALHOSTS_TEMP $EXTERNALHOSTS_TEMP
+        sed -e '0,/^@URLHOSTSinclude/!b; /@URLHOSTSinclude/{ r '$EXTERNALHOSTS_TEMP'' -e 'd }' $FINAL > $TEMPORARY
+        mv $TEMPORARY $FINAL
+        rm -r $EXTERNAL_TEMP
+        rm -r $EXTERNALHOSTS_TEMP
     done
-
-    # Usuwanie tymczasowego pliku
-    rm -r $TEMPORARY
 
     # Usuwanie instrukcji informującej o ścieżce do sekcji
     sed -i '/@path /d' $FINAL
