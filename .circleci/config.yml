@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-    - image: hawkeye116477/pft:latest
+    - image: polishfiltersteam/vichs_image:latest
     steps:
     - checkout
     - run: ./scripts/VICHS_auto.sh
