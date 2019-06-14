@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.3.3
+# v2.3.5
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -115,7 +115,7 @@ for i in "$@"; do
         sed -i "s|! |!@|g" "$EXTERNAL_TEMP"
         sort -u -o "$LOCAL" "$LOCAL"
         sort -u -o "$EXTERNAL_TEMP" "$EXTERNAL_TEMP"
-        comm "$LOCAL" "$EXTERNAL_TEMP" | tr -d "[:blank:]" >> "$MERGED_TEMP"
+        cat "$LOCAL" "$EXTERNAL_TEMP" >> "$MERGED_TEMP"
         sort -uV -o "$LOCAL" "$LOCAL"
         sort -uV -o "$MERGED_TEMP" "$MERGED_TEMP"
         sed -e '0,/^@COMBINEinclude/!b; /@COMBINEinclude/{ r '"$MERGED_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
@@ -137,10 +137,20 @@ for i in "$@"; do
         sed -i "s|[|][|]|0.0.0.0 |" "$HOSTS_TEMP"
         sed -i 's/[/\^]//g' "$HOSTS_TEMP"
         sed -i '/[/\*]/d' "$HOSTS_TEMP"
+        sed -r "/(www\.|www[0-9]\.|www\-|pl\.|pl[0-9]\.)/! s/^0\.0\.0\.0 /0.0.0.0 www./" "$HOSTS_TEMP" > "$HOSTS_TEMP.2"
+        if [ -f "$HOSTS_TEMP.2" ]
+        then
+            cat "$HOSTS_TEMP" "$HOSTS_TEMP.2"  > "$HOSTS_TEMP.3"
+            mv "$HOSTS_TEMP.3" "$HOSTS_TEMP"
+        fi
         sort -uV -o "$HOSTS_TEMP" "$HOSTS_TEMP"
         sed -e '0,/^@HOSTSinclude/!b; /@HOSTSinclude/{ r '"$HOSTS_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         rm -r "$HOSTS_TEMP"
         mv "$TEMPORARY" "$FINAL"
+        if [ -f "$HOSTS_TEMP.2" ]
+        then
+            rm -r "$HOSTS_TEMP.2"
+        fi
     done
 
     # Obliczanie ilości sekcji/list filtrów, które zostaną przekonwertowane na hosts i pobrane ze źródeł zewnętrznych
@@ -163,11 +173,21 @@ for i in "$@"; do
         sed -i "s|[|][|]|0.0.0.0 |" "$EXTERNALHOSTS_TEMP"
         sed -i 's/[/\^]//g' "$EXTERNALHOSTS_TEMP"
         sed -i '/[/\*]/d' "$EXTERNALHOSTS_TEMP"
+        sed -r "/(www\.|www[0-9]\.|www\-|pl\.)/! s/^0\.0\.0\.0 /0.0.0.0 www./" "$EXTERNALHOSTS_TEMP" > "$EXTERNALHOSTS_TEMP.2"
+        if [ -f "$EXTERNALHOSTS_TEMP.2" ]
+        then
+            cat "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP.2"  > "$EXTERNALHOSTS_TEMP.3"
+            mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
+        fi
         sort -uV -o "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP"
         sed -e '0,/^@URLHOSTSinclude/!b; /@URLHOSTSinclude/{ r '"$EXTERNALHOSTS_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
         rm -r "$EXTERNAL_TEMP"
         rm -r "$EXTERNALHOSTS_TEMP"
+        if [ -f "$EXTERNALHOSTS_TEMP.2" ]
+        then
+            rm -r "$EXTERNALHOSTS_TEMP.2"
+        fi
     done
 
     # Usuwanie instrukcji informującej o ścieżce do sekcji
