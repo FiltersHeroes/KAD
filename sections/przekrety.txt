@@ -1,4 +1,4 @@
-/^https?:\/\/(.*\.|)(apps?|best|game|mobile|prize|reward|sweeps)[0-9]{2,8}\.[a-z]{5,15}[0-9]{1,8}\.(agency|icu|life|live)\//$document
+/^https?:\/\/(.*\.|)(apps?|best|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(agency|icu|life|live)\//$document
 ||1freesoftwareonline.com^
 ||4kplayer.pl^
 ||4kstream.pl^
