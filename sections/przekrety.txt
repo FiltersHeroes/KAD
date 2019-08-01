@@ -1,6 +1,5 @@
 /^https?:\/\/(.*\.|)(apps?|best|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(agency|icu|life|live)\//$~third-party,document,domain=agency|icu|life|live
 ||1freesoftwareonline.com^
-||legalniewsieci.*^$domain=~legalniewsieci.pl
 ||4kplayer.pl^
 ||4kstream.pl^
 ||50kaweek.live^
@@ -200,6 +199,7 @@
 ||l00tfiilues.lepfj.site^
 ||leadzupc.com^
 ||learn2upgrade.find4bettervideoing.info^
+||legalniewsieci.*^$domain=~legalniewsieci.pl
 ||lesemerick.com^
 ||letswinstuff.com^
 ||lifehackz.net^
