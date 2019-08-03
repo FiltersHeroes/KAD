@@ -20,11 +20,12 @@ fi
 
 if [ "$lista" ] ; then
     $sciezka/VICHS.sh $lista
+    git checkout gh-pages
+    ./scripts/VICHS.sh ./assets/other/kadfakewhitelist.txt ./assets/other/kadfakewhitelist_suplement.txt
     cd ..
     if [ "$CI" = "true" ] ; then
         git clone git@github.com:PolishFiltersTeam/KADhosts.git
     fi
     cd ./KADhosts
-    ./scripts/VICHS.sh ./KADhosts.txt
-    ./scripts/VICHS.sh ./KADhosts_without_controversies.txt
+    ./scripts/VICHS.sh ./KADhosts.txt ./KADhosts_without_controversies.txt
 fi

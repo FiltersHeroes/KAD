@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.4.1
+# v2.4.2
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -137,7 +137,7 @@ for i in "$@"; do
     for (( n=1; n<=END_URLNWL; n++ ))
     do
         EXTERNAL=$(grep -oP -m 1 '@URLNWLinclude \K.*' "$FINAL")
-        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
             echo "Błąd w trakcie pobierania pliku"
@@ -162,7 +162,7 @@ for i in "$@"; do
     for (( n=1; n<=END_URLBNWL; n++ ))
     do
         EXTERNAL=$(grep -oP -m 1 '@URLBNWLinclude \K.*' "$FINAL")
-        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
             echo "Błąd w trakcie pobierania pliku"
@@ -355,8 +355,8 @@ for i in "$@"; do
     cp "$FINAL" "$FINAL_B.new"
     sed -i '/^! /d' "$FINAL_B.new"
     sed -i '/^# /d' "$FINAL_B.new"
-    old_md5=($(md5sum "$FINAL_B"))
-    new_md5=($(md5sum "$FINAL_B.new"))
+    old_md5=$(md5sum "$FINAL_B" | cut -d ' ' -f 1)
+    new_md5=$(md5sum "$FINAL_B.new" | cut -d ' ' -f 1)
 
     # Usuwanie kopii pliku początkowego
     if [ -f "$FINAL_B" ]; then
