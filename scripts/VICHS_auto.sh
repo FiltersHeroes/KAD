@@ -27,5 +27,5 @@ if [ "$lista" ] ; then
         git clone git@github.com:PolishFiltersTeam/KADhosts.git
     fi
     cd ./KADhosts
-    ./scripts/VICHS.sh ./KADhosts.txt ./KADhosts_without_controversies.txt
+    ./scripts/VICHS.sh ./KADhosts.txt ./KADhosts_without_controversies.txt ./KADhole.txt
 fi
