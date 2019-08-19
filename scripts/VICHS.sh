@@ -1,7 +1,29 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.8
+# v2.8.1
+
+# MIT License
+
+# Copyright (c) 2019 Polish Filters Team
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
 
 SCRIPT_PATH=$(dirname "$0")
 
@@ -25,6 +47,12 @@ if [ "$CI" = "true" ] ; then
     CI_EMAIL=$(grep -oP -m 1 '@CIemail \K.*' "$CONFIG")
     git config --global user.name "${CI_USERNAME}"
     git config --global user.email "${CI_EMAIL}"
+fi
+
+LOCALE=$(grep -oP -m 1 '@lang \K.*' "$CONFIG")
+
+if [ -n "$LOCALE" ]; then
+    export LANG="$LOCALE"
 fi
 
 for i in "$@"; do
