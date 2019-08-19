@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.8.2
+# v2.8.4
 
 # MIT License
 
@@ -52,7 +52,7 @@ fi
 LOCALE=$(grep -oP -m 1 '@lang \K.*' "$CONFIG")
 
 if [ -n "$LOCALE" ]; then
-    export LANG="$LOCALE"
+    export LANGUAGE="$LOCALE"
 fi
 
 for i in "$@"; do
