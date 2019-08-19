@@ -1,16 +1,23 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.7.1
+# v2.8
+
+SCRIPT_PATH=$(dirname "$0")
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
-MAIN_PATH=$(dirname "$0")/..
+MAIN_PATH=$SCRIPT_PATH/..
+
+# Tłumaczenie
+. gettext.sh
+export TEXTDOMAIN="VICHS"
+export TEXTDOMAINDIR=$SCRIPT_PATH/locales
 
 # Przejście do katalogu, w którym znajduje się lokalne repozytorium git
 cd "$MAIN_PATH" || exit
 
 # Lokalizacja pliku konfiguracyjnego
-CONFIG=$MAIN_PATH/scripts/VICHS.config
+CONFIG=$SCRIPT_PATH/VICHS.config
 
 # Konfiguracja nazwy użytkownika i maila dla CI
 if [ "$CI" = "true" ] ; then
@@ -50,18 +57,20 @@ for i in "$@"; do
         SECTIONS_DIR=$MAIN_PATH/sections/$FILTERLIST
     fi
 
-    # Usuwanie pustych linii z sekcji
-    find "${SECTIONS_DIR}" -type f -exec sed -i '/^$/d' {} \;
+    if [ -d "${SECTIONS_DIR}" ]; then
+        # Usuwanie pustych linii z sekcji
+        find "${SECTIONS_DIR}" -type f -exec sed -i '/^$/d' {} \;
 
-    # Usuwanie białych znaków z końca linii
-    find "${SECTIONS_DIR}" -type f -exec sed -i 's/[[:space:]]*$//' {} \;
+        # Usuwanie białych znaków z końca linii
+        find "${SECTIONS_DIR}" -type f -exec sed -i 's/[[:space:]]*$//' {} \;
 
-    # Sortowanie sekcji z pominięciem tych, które zawierają specjalne instrukcje
-    FOP="${MAIN_PATH}"/scripts/FOP.py
-    if [ -f "$FOP" ]; then
-        python3 "${FOP}" --d "${SECTIONS_DIR}"
+        # Sortowanie sekcji z pominięciem tych, które zawierają specjalne instrukcje
+        FOP="${SCRIPT_PATH}"/FOP.py
+        if [ -f "$FOP" ]; then
+            python3 "${FOP}" --d "${SECTIONS_DIR}"
+        fi
+        find "${SECTIONS_DIR}" -type f ! -iname '*_specjalne_instrukcje.txt' -exec sort -uV -o {} {} \;
     fi
-    find "${SECTIONS_DIR}" -type f ! -iname '*_specjalne_instrukcje.txt' -exec sort -uV -o {} {} \;
 
     # Obliczanie ilości sekcji (wystąpień słowa @include w template'cie)
     END=$(grep -o -i '@include' "${TEMPLATE}" | wc -l)
@@ -98,7 +107,7 @@ for i in "$@"; do
         SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@BNWLinclude \K.*' "$FINAL").txt
         grep -o '\||.*^' "$SECTION" > "$SECTION.temp"
         sed -e '0,/^@BNWLinclude/!b; /@BNWLinclude/{ r '"${SECTION}.temp"'' -e 'd }' "$FINAL" > "$TEMPORARY"
-        sed -i 's/[\^]/\^$badfilter/g' "$TEMPORARY"
+        sed -i "s/[\^]/\^\$badfilter/g" "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
         rm -r "$SECTION.temp"
     done
@@ -121,7 +130,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            echo "Błąd w trakcie pobierania pliku"
+            printf "%s\n" "$(gettext "Error during file download")"
             git checkout "$FINAL"
             rm -r "$EXTERNAL_TEMP"
             exit 0
@@ -144,7 +153,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            echo "Błąd w trakcie pobierania pliku"
+            printf "%s\n" "$(gettext "Error during file download")"
             git checkout "$FINAL"
             rm -r "$EXTERNAL_TEMP"
             exit 0
@@ -169,7 +178,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            echo "Błąd w trakcie pobierania pliku"
+            printf "%s\n" "$(gettext "Error during file download")"
             git checkout "$FINAL"
             rm -r "$EXTERNAL_TEMP"
             exit 0
@@ -177,7 +186,7 @@ for i in "$@"; do
         grep -o '\||.*^' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
         external_cleanup
         sed -e '0,/^@URLBNWLinclude/!b; /@URLBNWLinclude/{ r '"$EXTERNAL_TEMP.2"'' -e 'd }' "$FINAL" > "$TEMPORARY"
-        sed -i 's/[\^]/\^$badfilter/g' "$TEMPORARY"
+        sed -i "s/[\^]/\^\$badfilter/g" "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
         rm -r "$EXTERNAL_TEMP"
         rm -r "$EXTERNAL_TEMP.2"
@@ -196,7 +205,7 @@ for i in "$@"; do
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
 
         if  ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            echo "Błąd w trakcie pobierania pliku"
+            printf "%s\n" "$(gettext "Error during file download")"
             git checkout "$FINAL"
             rm -r "$EXTERNAL_TEMP"
             exit 0
@@ -248,7 +257,7 @@ for i in "$@"; do
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if  ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            echo "Błąd w trakcie pobierania pliku"
+            printf "%s\n" "$(gettext "Error during file download")"
             git checkout "$FINAL"
             rm -r "$EXTERNAL_TEMP"
             exit 0
@@ -312,7 +321,7 @@ for i in "$@"; do
         EXTERNALHOSTS_TEMP=$SECTIONS_DIR/external_hosts.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            echo "Błąd w trakcie pobierania pliku"
+            printf "%s\n" "$(gettext "Error during file download")"
             git checkout "$FINAL"
             rm -r "$EXTERNAL_TEMP"
             exit 0
@@ -392,7 +401,7 @@ for i in "$@"; do
         EXTERNALPH_TEMP=$SECTIONS_DIR/external_ph.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            echo "Błąd w trakcie pobierania pliku"
+            printf "%s\n" "$(gettext "Error during file download")"
             git checkout "$FINAL"
             rm -r "$EXTERNAL_TEMP"
             exit 0
@@ -417,7 +426,7 @@ for i in "$@"; do
         EXTERNALPHL_TEMP=$SECTIONS_DIR/external_phl.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            echo "Błąd w trakcie pobierania pliku"
+            printf "%s\n" "$(gettext "Error during file download")"
             git checkout "$FINAL"
             rm -r "$EXTERNAL_TEMP"
             exit 0
@@ -447,7 +456,7 @@ for i in "$@"; do
     # Dodawanie zmienionych sekcji do repozytorium git
     if [ ! "$RTM_MODE" ] ; then
         git add "$SECTIONS_DIR"/*
-        git commit -m "Update sections [ci skip]"
+        git commit -m "$(gettext "Update sections") [ci skip]"
     fi
 
     # Ustawienie polskiej strefy czasowej
@@ -516,14 +525,14 @@ for i in "$@"; do
 
         # Commitowanie zmienionych plików
         if [ "$CI" = "true" ] ; then
-            git commit -m "Update $filter to version $version [ci skip]"
+            git commit -m "$(eval_gettext "Update \$filter to version \$version") [ci skip]"
         else
-            printf "Podaj rozszerzony opis commita do listy filtrów %s$filter, np 'Fix #1, fix #2' (bez ciapek; jeśli nie chcesz rozszerzonego opisu, to możesz po prostu nic nie wpisywać): "
+            printf "%s" "$(eval_gettext "Enter extended commit description to \$filter list, e.g 'Fix #1, fix #2' (without quotation marks; if you do not want an extended description, you can simply enter nothing): ")"
             read -r roz_opis
-            git commit -m "Update $filter to version $version [ci skip]" -m "${roz_opis}"
+            git commit -m "$(eval_gettext "Update \$filter to version \$version") [ci skip]" -m "${roz_opis}"
         fi
     else
-        echo "Nic nowego nie zostało dodane do listy $filter. Jeżeli mimo to chcesz ją zaktualizować, to ustaw zmienną FORCED i uruchom ponownie skrypt."
+        printf "%s\n" "$(eval_gettext "Nothing new has been added to \$filter list. If you still want to update it, then set the variable FORCED and run script again.")"
         git checkout "$FINAL"
     fi
 done
@@ -535,13 +544,13 @@ if [ "$commited" ]; then
         GIT_SLUG=$(git ls-remote --get-url | sed "s|https://||g" | sed "s|git@||g" | sed "s|:|/|g")
         git push https://"${CI_USERNAME}":"${GH_TOKEN}"@"${GIT_SLUG}" HEAD:master > /dev/null 2>&1
     else
-        echo "Czy chcesz teraz wysłać do gita zmienione pliki?"
-        select yn in "Tak" "Nie"; do
+        printf "%s\n" "$(gettext "Do you want to send changed files to git now?")"
+        select yn in $(gettext "Yes") $(gettext "No"); do
             case $yn in
-                        Tak )
+                        $(gettext "Yes") )
                         git push
                         break;;
-                        Nie ) break;;
+                        $(gettext "No") ) break;;
             esac
         done
     fi
