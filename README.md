@@ -1,5 +1,5 @@
 # KAD
-Polski filtr do uBlocka Origin i AdGuarda, blokujący strony typu przekręt (np. subskrypcje SMS).
+Polskie filtry do uBlocka Origin, blokujące strony typu przekręt (np. subskrypcje SMS).
 
 Możesz zasubskrybować listę na https://kadantiscam.netlify.com lub klikając [Subskrybuj][KAD - Przekręty Subscribe].
 
