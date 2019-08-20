@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.8.5
+# v2.8.7
 
 # MIT License
 
@@ -487,8 +487,11 @@ for i in "$@"; do
         git commit -m "$(gettext "Update sections") [ci skip]"
     fi
 
-    # Ustawienie polskiej strefy czasowej
-    export TZ=":Poland"
+    # Ustawienie strefy czasowej
+    TIMEZONE=$(grep -oP -m 1 '@tz \K.*' "$CONFIG")
+    if  [ -n "$TIMEZONE" ]; then
+        export TZ="$TIMEZONE"
+    fi
 
     # Obliczanie starej i nowej sumy kontrolnej md5 bez komentarzy
     sed -i '/^! /d' "$FINAL_B"
@@ -511,8 +514,11 @@ for i in "$@"; do
     # Sprawdzanie czy aktualizacja naprawdę jest konieczna
     if [ "$old_md5" != "$new_md5" ] || [ "$FORCED" ]; then
         # Aktualizacja daty i godziny w polu „Last modified"
-        modified=$(export LC_TIME="en_US.UTF-8"; date +"$(grep -oP -m 1 '@dateFormat \K.*' "$CONFIG")")
-        sed -i "s|@modified|$modified|g" "$i"
+        if grep -q '@modified' "$i"; then
+            export LC_TIME="en_US.UTF-8"
+            modified=$(date +"$(grep -oP -m 1 '@dateFormat \K.*' "$CONFIG")")
+            sed -i "s|@modified|$modified|g" "$i"
+        fi
 
         # Aktualizacja wersji
         VERSION_FORMAT=$(grep -oP -m 1 '@versionFormat \K.*' "$CONFIG")
@@ -530,11 +536,16 @@ for i in "$@"; do
             version=$(date +"%Y%m%d%H%M")
         fi
 
-        sed -i "s|@version|$version|g" "$i"
+        if grep -q '@version' "$i"; then
+            sed -i "s|@version|$version|g" "$i"
+        fi
 
         # Aktualizacja pola „aktualizacja"
-        aktualizacja=$(export LC_TIME="pl_PL.UTF-8"; date +"$(grep -oP -m 1 '@dateFormat \K.*' "$CONFIG")")
-        sed -i "s|@aktualizacja|$aktualizacja|g" "$i"
+        if grep -q '@aktualizacja' "$i"; then
+            export LC_TIME="pl_PL.UTF-8"
+            aktualizacja=$(date +"$(grep -oP -m 1 '@dateFormat \K.*' "$CONFIG")")
+            sed -i "s|@aktualizacja|$aktualizacja|g" "$i"
+        fi
 
         # Aktualizacja sumy kontrolnej
         # Założenie: kodowanie UTF-8 i styl końca linii Unix
