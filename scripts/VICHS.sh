@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.8.7
+# v2.8.9
 
 # MIT License
 
@@ -72,7 +72,7 @@ for i in "$@"; do
     cp -R "$TEMPLATE" "$FINAL"
 
     # Usuwanie DEV z nazwy filtrów
-    if [ "$RTM_MODE" = "true" ] ; then
+    if [ "$RTM" = "true" ] ; then
         sed -i "s| DEV||g" "$FINAL"
     fi
 
@@ -92,12 +92,12 @@ for i in "$@"; do
         # Usuwanie białych znaków z końca linii
         find "${SECTIONS_DIR}" -type f -exec sed -i 's/[[:space:]]*$//' {} \;
 
-        # Sortowanie sekcji z pominięciem tych, które zawierają specjalne instrukcje
+        # Sortowanie sekcji
         FOP="${SCRIPT_PATH}"/FOP.py
         if [ -f "$FOP" ]; then
             python3 "${FOP}" --d "${SECTIONS_DIR}"
         fi
-        find "${SECTIONS_DIR}" -type f ! -iname '*_specjalne_instrukcje.txt' -exec sort -uV -o {} {} \;
+        find "${SECTIONS_DIR}" -type f -exec sort -uV -o {} {} \;
     fi
 
     # Obliczanie ilości sekcji (wystąpień słowa @include w template'cie)
@@ -140,12 +140,22 @@ for i in "$@"; do
         rm -r "$SECTION.temp"
     done
 
-    function external_cleanup {
+    function externalCleanup {
         sed -i '/! Checksum/d' "$EXTERNAL_TEMP"
         sed -i '/!#include /d' "$EXTERNAL_TEMP"
         sed -i '/Adblock Plus 2.0/d' "$EXTERNAL_TEMP"
         sed -i '/! Dołączenie listy/d' "$EXTERNAL_TEMP"
-        sed -i "s|! |!@|g" "$EXTERNAL_TEMP"
+        sed -i "s|^!$|!@|g" "$EXTERNAL_TEMP"
+        sed -i "s|^! |!@ |g" "$EXTERNAL_TEMP"
+    }
+
+    function revertWhenDownloadError {
+        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
+            printf "%s\n" "$(gettext "Error during file download")"
+            git checkout "$FINAL"
+            rm -r "$EXTERNAL_TEMP"
+            exit 0
+        fi
     }
 
     # Obliczanie ilości sekcji/list filtrów, które zostaną pobrane ze źródeł zewnętrznych
@@ -157,15 +167,10 @@ for i in "$@"; do
         EXTERNAL=$(grep -oP -m 1 '@URLinclude \K.*' "$FINAL")
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
-        external_cleanup
-        sed -i "1s|^|!@>>>>>>>> $EXTERNAL\n|" "$EXTERNAL_TEMP"
-        echo "!@<<<<<<<< $EXTERNAL" >> "$EXTERNAL_TEMP"
+        revertWhenDownloadError
+        externalCleanup
+        sed -i "1s|^|!@ >>>>>>>> $EXTERNAL\n|" "$EXTERNAL_TEMP"
+        echo "!@ <<<<<<<< $EXTERNAL" >> "$EXTERNAL_TEMP"
         sed -e '0,/^@URLinclude/!b; /@URLinclude/{ r '"$EXTERNAL_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
         rm -r "$EXTERNAL_TEMP"
@@ -180,14 +185,8 @@ for i in "$@"; do
         EXTERNAL=$(grep -oP -m 1 '@URLNWLinclude \K.*' "$FINAL")
         EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
+        revertWhenDownloadError
         grep -o '\||.*^' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
-        external_cleanup
         sed -e '0,/^@URLNWLinclude/!b; /@URLNWLinclude/{ r '"$EXTERNAL_TEMP.2"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|[|][|]|@@|" "$TEMPORARY"
         sed -i 's/[\^]//g' "$TEMPORARY"
@@ -205,14 +204,8 @@ for i in "$@"; do
         EXTERNAL=$(grep -oP -m 1 '@URLBNWLinclude \K.*' "$FINAL")
         EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
+        revertWhenDownloadError
         grep -o '\||.*^' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
-        external_cleanup
         sed -e '0,/^@URLBNWLinclude/!b; /@URLBNWLinclude/{ r '"$EXTERNAL_TEMP.2"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s/[\^]/\^\$badfilter/g" "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
@@ -227,48 +220,25 @@ for i in "$@"; do
     # Dodawanie unikalnych reguł z zewnętrznych list
     for (( n=1; n<=END_URLU; n++ ))
     do
-        EXTERNAL=$(awk '$1 == "@URLUinclude" { print $2; exit }' "$FINAL")
+        EXTERNAL=$(grep -oP -m 1 '@URLUinclude \K.*' "$FINAL")
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
-        UNIQUE_TEMP=$SECTIONS_DIR/unique_external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-
-        if  ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
-
-        sed  -i '/!.*Title\|modified\|Licence\|License/p;/!/d' "$EXTERNAL_TEMP"
-        external_cleanup
-
-        sort -u -o "$EXTERNAL_TEMP" "$EXTERNAL_TEMP"
-        sort -u -o "$FINAL_B" "$FINAL_B"
-
-        comm -23 "$EXTERNAL_TEMP" "$FINAL_B" > "$UNIQUE_TEMP"
-
-        sort -uV -o "$UNIQUE_TEMP" "$UNIQUE_TEMP"
-
-        E_TITLE=$(grep -r 'Title:' "$EXTERNAL_TEMP")
-        E_MODIFIED=$(grep -r 'modified:' "$EXTERNAL_TEMP")
-        E_LICENSE=$(grep -r 'Licence:\|License:' "$EXTERNAL_TEMP")
-
-        sed -i "/!@Title/d" "$UNIQUE_TEMP"
-        sed -i "/!@Last modified/d" "$UNIQUE_TEMP"
-        sed -i "/!@Licence/d" "$UNIQUE_TEMP"
-        sed -i "/!@License/d" "$UNIQUE_TEMP"
-
-        sed -i "1s|^|!@>>>>>>>> $EXTERNAL\n|" "$UNIQUE_TEMP"
-        sed -i "2s|^|$E_TITLE\n|" "$UNIQUE_TEMP"
-        sed -i "3s|^|$E_LICENSE\n|" "$UNIQUE_TEMP"
-        sed -i "4s|^|$E_MODIFIED\n|" "$UNIQUE_TEMP"
-        sed -i "5s/^/!\n/" "$UNIQUE_TEMP"
-        sed -i "6s/^/!\n/" "$UNIQUE_TEMP"
-        echo "!@<<<<<<<< $EXTERNAL" >> "$UNIQUE_TEMP"
-        sed -e '0,/^@URLUinclude/!b; /@URLUinclude/{ r '"$UNIQUE_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        revertWhenDownloadError
+        externalCleanup
+        cp -R "$FINAL_B" "$TEMPORARY"
+        sed -i "/!@>>>>>>>> ${EXTERNAL//\//\\/}/,/!@<<<<<<<< ${EXTERNAL//\//\\/}/d" "$TEMPORARY"
+        sed -i "/!#if/d" "$TEMPORARY"
+        sed -i "/!#endif/d" "$TEMPORARY"
+        UNIQUE_TEMP=$SECTIONS_DIR/unique_external.temp
+        diff "$EXTERNAL_TEMP" "$TEMPORARY" --new-line-format="" --old-line-format="%L" --unchanged-line-format="" > "$UNIQUE_TEMP"
+        rm -rf "$EXTERNAL_TEMP"
+        cp -R "$UNIQUE_TEMP" "$EXTERNAL_TEMP"
+        rm -rf "$UNIQUE_TEMP"
+        sed -i "1s|^|!@>>>>>>>> $EXTERNAL\n|" "$EXTERNAL_TEMP"
+        echo "!@<<<<<<<< $EXTERNAL" >> "$EXTERNAL_TEMP"
+        sed -e '0,/^@URLUinclude/!b; /@URLUinclude/{ r '"$EXTERNAL_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
         rm -r "$EXTERNAL_TEMP"
-        rm -r "$UNIQUE_TEMP"
     done
 
     # Obliczanie ilości sekcji, które zostaną pobrane ze źródeł zewnętrznych i połączone z lokalnymi sekcjami
@@ -284,13 +254,8 @@ for i in "$@"; do
         EXTERNAL_TEMP=${SECTIONS_TEMP}/external.temp
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-        if  ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
-        external_cleanup
+        revertWhenDownloadError
+        externalCleanup
         sort -u -o "$EXTERNAL_TEMP" "$EXTERNAL_TEMP"
         cat "$LOCAL" "$EXTERNAL_TEMP" >> "$MERGED_TEMP"
         rm -r "$EXTERNAL_TEMP"
@@ -348,12 +313,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
         EXTERNALHOSTS_TEMP=$SECTIONS_DIR/external_hosts.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
+        revertWhenDownloadError
         grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
         convertToHosts "$EXTERNALHOSTS_TEMP"
         if [ -f "$EXTERNALHOSTS_TEMP.2" ]
@@ -428,12 +388,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
         EXTERNALPH_TEMP=$SECTIONS_DIR/external_ph.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
+        revertWhenDownloadError
         grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALPH_TEMP"
         convertToPihole "$EXTERNALPH_TEMP"
         sort -uV -o "$EXTERNALPH_TEMP" "$EXTERNALPH_TEMP"
@@ -453,12 +408,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
         EXTERNALPHL_TEMP=$SECTIONS_DIR/external_phl.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
+        revertWhenDownloadError
         grep -o '\||.*\*.*^$' "$EXTERNAL_TEMP" > "$EXTERNALPHL_TEMP"
         convertToPihole "$EXTERNALPHL_TEMP"
         sort -uV -o "$EXTERNALPHL_TEMP" "$EXTERNALPHL_TEMP"
@@ -482,7 +432,7 @@ for i in "$@"; do
     fi
 
     # Dodawanie zmienionych sekcji do repozytorium git
-    if [ ! "$RTM_MODE" ] ; then
+    if [ ! "$RTM" ] ; then
         git add "$SECTIONS_DIR"/*
         git commit -m "$(gettext "Update sections") [ci skip]"
     fi
@@ -522,13 +472,9 @@ for i in "$@"; do
 
         # Aktualizacja wersji
         VERSION_FORMAT=$(grep -oP -m 1 '@versionFormat \K.*' "$CONFIG")
-        if [[ "$VERSION_FORMAT" = "Year.Month.NumberOfCommitsInMonth" && ! "$RTM_MODE" ]] ; then
-            version=$(date +"%Y").$(date +"%-m").$(( $(git rev-list --count HEAD --after="$(date -d "-$(date +%d) days " "+%Y-%m-%dT23:59")" "$FINAL") + 1))
-        elif [[ "$VERSION_FORMAT" = "Year.Month.NumberOfCommitsInMonth" && "$RTM_MODE" = "true" ]] ; then
+        if [[ "$VERSION_FORMAT" = "Year.Month.NumberOfCommitsInMonth" ]] ; then
             version=$(date +"%Y").$(date +"%-m").$(git rev-list --count HEAD --after="$(date -d "-$(date +%d) days " "+%Y-%m-%dT23:59")" "$FINAL")
-        elif [[ "$VERSION_FORMAT" = "Year.Month.Day.TodayNumberOfCommits" && ! "$RTM_MODE" ]] ; then
-            version=$(date +"%Y").$(date +"%-m").$(date +"%-d").$(( $(git rev-list --count HEAD --before="$(date '+%F' --date="tomorrow")"T24:00 --after="$(date '+%F' -d "1 day ago")"T23:59 "$FINAL") + 1))
-        elif [[ "$VERSION_FORMAT" = "Year.Month.Day.TodayNumberOfCommits" && "$RTM_MODE" = "true" ]] ; then
+        elif [[ "$VERSION_FORMAT" = "Year.Month.Day.TodayNumberOfCommits" ]] ; then
             version=$(date +"%Y").$(date +"%-m").$(date +"%-d").$(( $(git rev-list --count HEAD --before="$(date '+%F' --date="tomorrow")"T24:00 --after="$(date '+%F' -d "1 day ago")"T23:59 "$FINAL")))
         elif grep -q -oP -m 1 '@versionDateFormat \K.*' "$CONFIG"; then
             version=$(date +"$(grep -oP -m 1 '@versionDateFormat \K.*' "$CONFIG")")
@@ -565,8 +511,8 @@ for i in "$@"; do
             git commit -m "$(eval_gettext "Update \$filter to version \$version") [ci skip]"
         else
             printf "%s" "$(eval_gettext "Enter extended commit description to \$filter list, e.g 'Fix #1, fix #2' (without quotation marks; if you do not want an extended description, you can simply enter nothing): ")"
-            read -r roz_opis
-            git commit -m "$(eval_gettext "Update \$filter to version \$version") [ci skip]" -m "${roz_opis}"
+            read -r extended_desc
+            git commit -m "$(eval_gettext "Update \$filter to version \$version") [ci skip]" -m "${extended_desc}"
         fi
     else
         printf "%s\n" "$(eval_gettext "Nothing new has been added to \$filter list. If you still want to update it, then set the variable FORCED and run script again.")"
@@ -579,7 +525,7 @@ commited=$(git cherry -v)
 if [ "$commited" ]; then
     if [ "$CI" = "true" ] ; then
         GIT_SLUG=$(git ls-remote --get-url | sed "s|https://||g" | sed "s|git@||g" | sed "s|:|/|g")
-        git push https://"${CI_USERNAME}":"${GH_TOKEN}"@"${GIT_SLUG}" HEAD:master > /dev/null 2>&1
+        git push https://"${CI_USERNAME}":"${GIT_TOKEN}"@"${GIT_SLUG}" HEAD:master > /dev/null 2>&1
     else
         printf "%s\n" "$(gettext "Do you want to send changed files to git now?")"
         select yn in $(gettext "Yes") $(gettext "No"); do
