@@ -1,6 +1,6 @@
 ---
 name: other problem report
-about: To other problems
+about: To report other problems
 title: ''
 labels: ''
 assignees: ''
