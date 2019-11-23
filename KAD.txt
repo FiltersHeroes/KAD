@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Do poprawnego działania listy wymagane jest rozszerzenie uBlock Origin.
+! Do poprawnego działania listy wymagane jest rozszerzenie uBlock Origin 1.20.0+ lub AdGuard AdBlocker 3.3.2+.
 !
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-! Last modified: Sat, 23 Nov 2019, 22:51 UTC+01
-! Version: 2019.11.23.2
+! Last modified: Sun, 24 Nov 2019, 00:11 UTC+01
+! Version: 2019.11.24.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -1081,36 +1081,36 @@
 !
 ! Promocja pseudonauki / Fake news
 ! Nieprawdziwe, wprowadzające w błąd informacje lub podobne.
-||aju.pl^
-||biotalerz.pl^
-||bio-chemik24.pl^
-||cobolito.pl^
-||detoxpolska.pl^
-||digdeeper.neocities.org^
-||fitsekret.pl^
-||globalhealingcenter.com^
-||gotsprouts.com^
-||homoseksualizm.edu.pl^
-||jerzyzieba.com^
-||mabello.pl^
-||meganiusy.com^
-||misja-cera.pl^
-||naturalraport.pl^
-||newsstories.live^
-||odkrywamyzakryte.com^
-||paulinajanowicz.pl^
-||planetazdrowia.com^
-||planet-tachyon.com^
-||polakuleczsiesam.pl^
-||spyware.neocities.org^
-||stopnop.com.pl^
-||szczepienie.info^
-||timeforvitamins.com^
-||torsionfield.eu^
-||ukryteterapie.pl^
-||vaccgenocide.blogspot.com^
-||vaccgenocide.wordpress.com^
-||witnatura.pl^
+||aju.pl^$all
+||biotalerz.pl^$all
+||bio-chemik24.pl^$all
+||cobolito.pl^$all
+||detoxpolska.pl^$all
+||digdeeper.neocities.org^$all
+||fitsekret.pl^$all
+||globalhealingcenter.com^$all
+||gotsprouts.com^$all
+||homoseksualizm.edu.pl^$all
+||jerzyzieba.com^$all
+||mabello.pl^$all
+||meganiusy.com^$all
+||misja-cera.pl^$all
+||naturalraport.pl^$all
+||newsstories.live^$all
+||odkrywamyzakryte.com^$all
+||paulinajanowicz.pl^$all
+||planetazdrowia.com^$all
+||planet-tachyon.com^$all
+||polakuleczsiesam.pl^$all
+||spyware.neocities.org^$all
+||stopnop.com.pl^$all
+||szczepienie.info^$all
+||timeforvitamins.com^$all
+||torsionfield.eu^$all
+||ukryteterapie.pl^$all
+||vaccgenocide.blogspot.com^$all
+||vaccgenocide.wordpress.com^$all
+||witnatura.pl^$all
 !
 ! Przekierowują do innych stron z przekrętami
 ||9xa.pl^$all
