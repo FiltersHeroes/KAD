@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.9.5
+# v2.9.6
 
 # MIT License
 
@@ -118,7 +118,7 @@ for i in "$@"; do
     for (( n=1; n<=END_NWL; n++ ))
     do
         SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@NWLinclude \K.*' "$FINAL").txt
-        grep -o '\||.*^' "$SECTION" > "$SECTION.temp"
+        grep -o '\||.*^$' "$SECTION" > "$SECTION.temp"
         sed -e '0,/^@NWLinclude/!b; /@NWLinclude/{ r '"${SECTION}.temp"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|[|][|]|@@|" "$TEMPORARY"
         sed -i 's/[\^]//g' "$TEMPORARY"
@@ -133,7 +133,7 @@ for i in "$@"; do
     for (( n=1; n<=END_BNWL; n++ ))
     do
         SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@BNWLinclude \K.*' "$FINAL").txt
-        grep -o '\||.*^' "$SECTION" > "$SECTION.temp"
+        grep -o '\||.*^$' "$SECTION" > "$SECTION.temp"
         grep -o '\||.*^$all$' "$SECTION" >> "$SECTION.temp"
         sed -e '0,/^@BNWLinclude/!b; /@BNWLinclude/{ r '"${SECTION}.temp"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|\$all$|\$all,badfilter|" "$TEMPORARY"
@@ -188,7 +188,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         revertWhenDownloadError
-        grep -o '\||.*^' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
+        grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
         sed -e '0,/^@URLNWLinclude/!b; /@URLNWLinclude/{ r '"$EXTERNAL_TEMP.2"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|[|][|]|@@|" "$TEMPORARY"
         sed -i 's/[\^]//g' "$TEMPORARY"
@@ -207,7 +207,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         revertWhenDownloadError
-        grep -o '\||.*^' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
+        grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
         grep -o '\||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNAL_TEMP.2"
         sed -e '0,/^@URLBNWLinclude/!b; /@URLBNWLinclude/{ r '"$EXTERNAL_TEMP.2"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|\$all$|\$all,badfilter|" "$TEMPORARY"
