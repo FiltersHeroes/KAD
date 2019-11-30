@@ -1,5 +1,5 @@
 ---
-name: Suggestion
+name: Sugestia
 about: Suggestion
 title: ''
 labels: sugestia
