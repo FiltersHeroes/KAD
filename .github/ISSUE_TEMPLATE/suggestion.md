@@ -2,8 +2,9 @@
 name: Sugestia
 about: Suggestion
 title: ''
-labels: sugestia
+labels: sugestia, aliasy-inne
 assignees: ''
+
 ---
 
 <!--
