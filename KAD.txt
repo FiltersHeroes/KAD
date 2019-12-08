@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-! Last modified: Sat, 07 Dec 2019, 16:09 UTC+01
-! Version: 2019.12.7.0
+! Last modified: Sun, 08 Dec 2019, 15:42 UTC+01
+! Version: 2019.12.8.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -1580,7 +1580,7 @@
 ||download.inboxace.com^$all
 ||download.televisionfanatic.com^$all
 ||download.weatherblink.com^$all
-||dragpage.com^$all
+||dragpage.com/lpcc/^$document
 ||drapart.org^$all
 ||drmarins.com^$all
 ||drunt.at^$all
@@ -1748,7 +1748,6 @@
 ||hajoopteg.com^$all
 ||hanabishi.net^$all
 ||hazoombienesraices.com^$all
-||hdkino.pl^$all
 ||hdseriale.pl^$all
 ||healthknowledge.my^$all
 ||helloworld.ddnsking.com^$all
