@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-! Last modified: Fri, 03 Jan 2020, 18:04 UTC+01
-! Version: 2020.1.3.1
+! Last modified: Fri, 03 Jan 2020, 18:12 UTC+01
+! Version: 2020.1.3.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -2250,17 +2250,7 @@
 ||yuppipuppy.com^$all
 ||za10groszy.pl^$all
 ||zajonc.de^$all
-||zalukaj24.com^$all
-||zalukaj24.pl^$all
-||zalukajvod.pl^$all
-||zalukaj-cda.pl^$all
-||zalukaj-online.pl^$all
-||zalukaj.5v.pl^$all
-||zalukaj.cc^$all
-||zalukaj.online^$all
-||zalukaj.org^$all
-||zalukaj.vip^$all
-||zalukaj.ws^$all
+||zalukaj*.*^$all,domain=~zalukaj.com
 ||zamowienia-priorytetowe.pl^$all
 ||zaplata*.tk^$all
 ||zarabativaisazartom.net^$all
