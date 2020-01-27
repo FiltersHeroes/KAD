@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-! Last modified: Mon, 27 Jan 2020, 18:36 UTC+01
-! Version: 2020.1.27.1
+! Last modified: Mon, 27 Jan 2020, 18:39 UTC+01
+! Version: 2020.1.27.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -19,6 +19,8 @@
 !
 ! Podejrzane i/lub strony połączone z innymi oszustwami
 zespol-sasiedzi.pl^$all
+!||sgipn.pl^$all,domain=~francuskie
+!||tanitimberlandbuty.pl^$all,domain=~wloskie
 |https://aten.com/$document
 ||2easy.pl^$all
 ||4ksport.pl^$all
@@ -1550,7 +1552,6 @@ zespol-sasiedzi.pl^$all
 ||serwis-ab.com.pl^$all
 ||serwis-laptopow24.pl^$all
 ||serwis.kb.help^$all
-||sgipn.pl^$all (FR)^$all
 ||shidokan-lodz.pl^$all
 ||shihtzumaniak.pl^$all
 ||shiporama.com^$all
@@ -1724,7 +1725,6 @@ zespol-sasiedzi.pl^$all
 ||taniebutysportowe.com^$all
 ||taniemedia.pl^$all
 ||tanie-wapnowanie.pl^$all
-||tanitimberlandbuty.pl^$all (IT)^$all
 ||tanzeelbuilders.com^$all
 ||tarnow360.pl^$all
 ||tatroscatering.com^$all
