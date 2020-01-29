@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-! Last modified: Wed, 29 Jan 2020, 17:38 UTC+01
-! Version: 2020.1.29.0
+! Last modified: Wed, 29 Jan 2020, 17:52 UTC+01
+! Version: 2020.1.29.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -18,8 +18,8 @@
 ! (PL) UWAGA: Strony poniżej mogą być szkodliwe. Proszę, nie wchodź na nie, jeśli nie wiesz co robisz!
 !
 ! Podejrzane i/lub strony połączone z innymi oszustwami
-!||sgipn.pl^$all,domain=~francuskie
-!||tanitimberlandbuty.pl^$all,domain=~wloskie
+!||sgipn.pl^$all,domain=~francuskie.fr|chaussurespumaonline.fr
+!||tanitimberlandbuty.pl^$all,domain=~wloskie.it|nikesaldi.it
 |https://aten.com/$document
 ||1elt.pl^$all
 ||2easy.pl^$all
@@ -100,6 +100,7 @@
 ||aleshop.pl^$all
 ||alexsoff.com^$all
 ||ale-dowcip.pl^$all
+||alim.com.pl^$all
 ||allenit.pl^$all
 ||alle-perfumy.pl^$all
 ||allfiles.pl^$all
@@ -109,6 +110,7 @@
 ||alteregocafe.pl^$all
 ||altid-ad.com^$all
 ||alwetagd.pl^$all
+||amadaxtreme.pl^$all
 ||amc.info^$all
 ||amikamusic.com^$all
 ||amptrading.pl^$all
@@ -414,6 +416,7 @@
 ||dascoin.prowly.com^$all
 ||dasecosystem.pl^$all
 ||dassystem.eu^$all
+||dastrade.top^$all
 ||daswallet.com^$all
 ||davor.io^$all
 ||dbo2.pl^$all
@@ -529,6 +532,7 @@
 ||epliki24.pl^$all
 ||epremki.eu^$all
 ||eqology.com^$all
+||erbudokna.pl^$all
 ||ergocentrum.pl^$all
 ||ergopro.pl^$all
 ||ermach.com.pl^$all
@@ -689,6 +693,7 @@
 ||gikon.pl^$all
 ||gilotyna.com.pl^$all
 ||gimnazjumniedrzwica.pl^$all
+||gimnazjumrogi.pl^$all
 ||girrrly.com^$all
 ||gladiatorarena.pl^$all
 ||glinkss.com^$all
@@ -1117,6 +1122,7 @@
 ||moyodo.pl^$all
 ||mozebyctwoje.com^$all
 ||mpearsondance.com^$all
+||mpideas.pl^$all
 ||mstk.pl^$all
 ||mtdeejays.pl^$all
 ||mtpn.pl^$all
@@ -1154,6 +1160,7 @@
 ||napraw-laptopa.waw.pl^$all
 ||naprocare.pl^$all
 ||nasdacoin.io^$all
+||nashop.pl^$all
 ||nassy.pl^$all
 ||naszeteksty.pl^$all
 ||naturabazar.pl^$all
@@ -1162,6 +1169,7 @@
 ||nb574.pl^$all
 ||nbbuty.pl^$all
 ||nbwyprzedaz.pl^$all
+||ncrtrade.top^$all
 ||nebulait.pl^$all
 ||nek.com.pl^$all
 ||neocam.pl^$all
@@ -1351,6 +1359,7 @@
 ||pociagdoukrainy.pl^$all
 ||podarujmamiesukienke.pl^$all
 ||podbiegi.pl^$all
+||podbykiem.pl^$all
 ||pogodaparyz.pl^$all
 ||pogodzinska.pl^$all
 ||pojzn.pl^$all
@@ -1404,6 +1413,7 @@
 ||privateinvestigator.pl^$all
 ||private.atlanticgam.es^$all
 ||prizelava.com^$all
+||prklublin.pl^$all
 ||pro102.pl^$all
 ||probolan50.pl^$all
 ||proficredit.pl^$all
@@ -1433,6 +1443,7 @@
 ||pruszkowmieszkania.pl^$all
 ||przedsiebieblog.pl^$all
 ||przedszkoleglobus.pl^$all
+||przedszkolekrainadziecka.pl^$all
 ||przyjaznyparczewski.pl^$all
 ||przyspieszkomputer.pl^$all
 ||przyspiesz.pl^$all
@@ -1614,6 +1625,7 @@
 ||slawop.net^$all
 ||slimak-pozyczki.pl^$all
 ||slipknot1.pl^$all
+||sliwerski.pl^$all
 ||slodkibar.pl^$all
 ||sloneczne-termy.pl^$all
 ||slowkariera.pl^$all
@@ -1685,6 +1697,7 @@
 ||stop-sms.pl^$all
 ||stowarzyszeniesedziow.pl^$all
 ||stowarzyszeniewkp.pl^$all
+||straz-pakoslawice.pl^$all
 ||streetrulez.pl^$all
 ||strefagotyku.pl^$all
 ||strefarho.pl^$all
@@ -1962,6 +1975,7 @@
 ||wyspaofert.com^$all
 ||wytypowany-zwyciezca.com^$all
 ||wytypowany-zwyciezca.pl^$all
+||w-polsce.pl^$all
 ||xamak10.com^$all
 ||xbox1emulator.org^$all
 ||xbox360emulator.com^$all
@@ -1991,6 +2005,7 @@
 ||zaprojektujiwybuduj.pl^$all
 ||zarobek4u.com^$all
 ||zawijawa.pl^$all
+||zazynek.pl^$all
 ||zbig-spaw.pl^$all
 ||zbudujmy-pustelnie.pl^$all
 ||zdaj-to.pl^$all
@@ -2025,6 +2040,7 @@
 ||zszdzary.pl^$all
 ||zs-czajkowski.pl^$all
 ||zukiewicz.com^$all
+||zuradzki.pl^$all
 ||zwellinder.pl^$all
 ||zwiekszycsprzedaz.pl^$all
 ||zxflux.pl^$all
