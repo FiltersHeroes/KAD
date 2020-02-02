@@ -1,7 +1,5 @@
+/^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{5,22}[0-9]{1,8}\.info\//$document,domain=info
 ||185.34.52.4^$all
-/^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{5,22}[0-9]{1,8}\.info\//$document,domain=info
-||great-prizeshere.life^$all
-/^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{5,22}[0-9]{1,8}\.info\//$document,domain=info
 ||actraffic.com^$all
 ||adaranth.com^$all
 ||adsbtrack.com^$all
@@ -40,6 +38,7 @@
 ||givemegreenbottle.icu^$all
 ||go-rilla.offerstrack.net^$all
 ||go.data1rtb.com^$all
+||great-prizeshere.life^$all
 ||great-prizes-here.info^$all
 ||heckcallohertons.info^$all
 ||hilleness.info^$all
