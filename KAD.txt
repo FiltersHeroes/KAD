@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-! Last modified: Mon, 17 Feb 2020, 18:31 UTC+01
-! Version: 2020.2.17.0
+! Last modified: Mon, 17 Feb 2020, 18:32 UTC+01
+! Version: 2020.2.17.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -18,7 +18,6 @@
 ! (PL) UWAGA: Strony poniżej mogą być szkodliwe. Proszę, nie wchodź na nie, jeśli nie wiesz co robisz!
 !
 ! Podejrzane i/lub strony połączone z innymi oszustwami
-zsklembow.pl^$all
 |https://aten.com/$document
 ||1elt.pl^$all
 ||2easy.pl^$all
@@ -2399,6 +2398,7 @@ zsklembow.pl^$all
 ||zpotrzebyserc.pl^$all
 ||zs1chocznia.pl^$all
 ||zskleczany.pl^$all
+||zsklembow.pl^$all
 ||zsniemce.pl^$all
 ||zspbytonia.pl^$all
 ||zspjablkowo.pl^$all
