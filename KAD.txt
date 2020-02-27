@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-! Last modified: Thu, 27 Feb 2020, 22:35 UTC+01
-! Version: 2020.2.27.0
+! Last modified: Thu, 27 Feb 2020, 22:48 UTC+01
+! Version: 2020.2.27.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -2809,7 +2809,7 @@
 ||chengjiaoyou.com^$all
 ||choljai.info^$all
 ||chomik24.com.pl^$all
-||chomikuj.best^$all
+||chomikuj.*^$document=~chomikuj.pl
 ||chomik-24.pl^$all
 ||chron-telefon.com^$all
 ||ciekawehistorie.pl^$all
@@ -3158,7 +3158,7 @@
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
 ||lecairtravels.com^$all
-||legalniewsieci.*^$domain=~legalniewsieci.pl|~list-manage.com
+||legalniewsieci.*^$document,domain=~legalniewsieci.pl
 ||legioncrest.com^$all
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
