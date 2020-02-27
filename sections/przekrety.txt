@@ -127,7 +127,7 @@
 ||chengjiaoyou.com^$all
 ||choljai.info^$all
 ||chomik24.com.pl^$all
-||chomikuj.best^$all
+||chomikuj.*^$document=~chomikuj.pl
 ||chomik-24.pl^$all
 ||chron-telefon.com^$all
 ||ciekawehistorie.pl^$all
@@ -476,7 +476,7 @@
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
 ||lecairtravels.com^$all
-||legalniewsieci.*^$domain=~legalniewsieci.pl|~list-manage.com
+||legalniewsieci.*^$document,domain=~legalniewsieci.pl
 ||legioncrest.com^$all
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
