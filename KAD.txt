@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-! Last modified: Sat, 28 Mar 2020, 12:53 UTC+01
-! Version: 2020.3.28.1
+! Last modified: Sat, 28 Mar 2020, 13:04 UTC+01
+! Version: 2020.3.28.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -4001,6 +4001,7 @@
 ||pko-bp.pl^$all
 ||pkworld.com.pk^$all
 ||placidocn.com^$all
+||platnik247.online^$all
 ||platnik*.online^$all
 ||platnosci24.services^$all
 ||playasrivieramaya.com^$all
@@ -4482,9 +4483,12 @@ filme.pl##a[href*="http://leadmy.pl/"]
 filme.pl#?#.float-xl-left.col-lg-8 > div.mb-3.card:nth-of-type(odd):nth-of-type(-n+3):-abp-has(a[href*="http://leadmy.pl/"])
 filme.pl#?#.float-xl-right.col-lg-4 > div.mb-3.card:nth-of-type(2):-abp-has(a[href*="http://leadmy.pl/"])
 filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:-abp-has(a[href*="http://leadmy.pl/"])
+/pobierz_*.exe$document
 ||a5.cba.pl/js.js$script
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
+||cloudfront.net/*-AsystentPobierania.exe$document
+||cloudfront.net/*-ks.exe$popup,document
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
 !
