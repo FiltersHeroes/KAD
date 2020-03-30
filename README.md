@@ -1,4 +1,8 @@
 # KAD
+
+[![Issues h](https://isitmaintained.com/badge/resolution/PolishFiltersTeam/KAD.svg)](https://github.com/PolishFiltersTeam/KAD/issues)
+[![Issues o](https://img.shields.io/github/issues/PolishFiltersTeam/KAD.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/KAD/issues)
+
 Polskie filtry do uBlocka Origin i AdGuarda, blokujące strony stosujące różnego rodzaju oszustwa i przekręty (np. subskrypcje SMS, wirusy i nieprawdziwe informacje).
 
 Możesz zasubskrybować listę na https://kadantiscam.netlify.com lub klikając [Subskrybuj][KAD - Przekręty Subscribe].
