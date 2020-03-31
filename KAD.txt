@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-! Last modified: Tue, 31 Mar 2020, 12:07 UTC+02
-! Version: 2020.3.31.0
+! Last modified: Tue, 31 Mar 2020, 16:11 UTC+02
+! Version: 2020.3.31.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3263,7 +3263,7 @@
 ! Przekręty
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org\//$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)\//$document,domain=agency|icu|life|live|loan
-/^https?:\/\/([\w]{1,4}\.|)\d+platnosci\.online\//$all
+/^https?:\/\/([\w]{1,4}\.|)\d+platnosci\.online\//$all,domain=online
 ||1channelhd.xyz^$all
 ||4kplayer.pl^$all
 ||4kstream.pl^$all
@@ -3420,6 +3420,7 @@
 ||covergt.com^$all
 ||cpagrip.com^$all
 ||credito.com.pl^$all
+||cristal2017.argo.host^$all
 ||cs.nailrr.com^$all
 ||cuosdemakadi.gq^$all
 ||customernoble.com^$all
@@ -3631,6 +3632,7 @@
 ||gazetainfo24tv.hekko24.pl^$all
 ||gazetanowoczesna.pl^$all
 ||gazeta-natemat-pol.eu^$all
+||gazeta.pl.com.bz^$all
 ||gcesab.com^$all
 ||gdzieogladac.online^$all
 ||genfotir.com^$all
@@ -3715,6 +3717,7 @@
 ||in-post.net^$all
 ||in-post.online^$all
 ||in-post.org^$all
+||ipayyou.pl^$all
 ||iphonepolska.pl^$all
 ||ipk0bp.net^$all
 ||ipko.pl-weryfikacja-konta-bank-pko.j.pl^$all
@@ -3809,6 +3812,7 @@
 ||liversely.com^$all
 ||locked3.com^$all
 ||lokalneinformacje*.vot.pl^$all
+||losososdesign.com^$all
 ||losowa-gra.pl^$all
 ||lottizzazionesavarra.it^$all
 ||lp.macapps-centers.club^$all
@@ -4076,6 +4080,7 @@
 ||realnyzarobek.pl^$all
 ||refferalstaff.com^$all
 ||regulamin-poczty.com^$all
+||regulamin-wirtualnapolska.com^$all
 ||regulamin-wp.com^$all
 ||reg-me.pl^$all
 ||rehabilitant.rzeszow.re^$all
