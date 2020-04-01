@@ -1,7 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||wiadomoscipolska99.pro-linuxpl.co^$all
 ||0ff.page^$all
 ||0pen.page^$all
 ||1channelhd.xyz^$all
@@ -1048,6 +1047,7 @@
 ||wezwanieus.com^$all
 ||whenbuyyousale.co^$all
 ||wiadomoscilokalne.eu^$all
+||wiadomoscipolska99.pro-linuxpl.co^$all
 ||wiadomosci-onet24.ml^$all
 ||wiadomosci-onet24.tk^$all
 ||wiadomosci.ct8.pl^$all
