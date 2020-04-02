@@ -1,16 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-
-||zlecone.xn.pl^$all
-||zlecone.xn.pl^$all
-||aktualizacja-regulamin.com^$all
-||aktualizacja-regulamin.com^$all
-||alkoskurier.com^$all
-||alkoskurier.com^$all
-||wp.*.top^$all
-||direct3.greenfitness.net^$all
-
 ||0ff.page^$all
 ||0pen.page^$all
 ||1channelhd.xyz^$all
@@ -37,10 +27,12 @@
 ||ailegro.pl.ua^$all
 ||akazoo.pl^$all
 ||aktpl.com^$all
+||aktualizacja-regulamin.com^$all
 ||albajifood.com^$all
 ||alcaido.com^$all
 ||aldocontreras.com^$all
 ||alejandravalladares.com.ve^$all
+||alkoskurier.com^$all
 ||alldc.pw^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.targi.pl^$all
@@ -193,6 +185,7 @@
 ||deviwijiyanti.web.id^$all
 ||dhl-paczka.eu^$all
 ||dhl-percel.com^$all
+||direct3.greenfitness.net^$all
 ||directpayment.pl^$all
 ||dirproperties.com^$all
 ||discsplay.com^$all
@@ -1075,6 +1068,7 @@
 ||wosp.online^$all
 ||wplogin.5v.pl^$all
 ||wp-regulamin.com^$all
+||wp.*.top^$all
 ||wrozbyonline.net^$all
 ||wszyscyrodacy.com^$all
 ||wszystkowpolsce.online^$all
@@ -1122,6 +1116,7 @@
 ||zgarnij.net^$all
 ||zhaoyouxiu.com^$all
 ||zhouliang.info^$all
+||zlecone.xn.pl^$all
 ||zobaczfilm.com^$all
 ||zobaczto.eu^$all
 ||zoracle.com^$all
