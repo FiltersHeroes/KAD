@@ -1,13 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||fraktaltrader.eu^$all
-||dostawaca24.online^$all
-||zapisy.fractaltrader.pl^$all
-||fraktal-trader.pl^$all
-||salonfilmowy.pl^$all
-||charge-backers.pl^$all
-||lvgrowmarkets.com^$all
 ||0ff.page^$all
 ||0pen.page^$all
 ||1channelhd.xyz^$all
@@ -147,6 +140,7 @@
 ||cfotim.live^$all
 ||challengeforme.com^$all
 ||chanceto-start.info^$all
+||charge-backers.pl^$all
 ||charisministries.id^$all
 ||chefeladlevi.com^$all
 ||chengjiaoyou.com^$all
@@ -211,6 +205,7 @@
 ||doladujfona.org^$all
 ||domniespodzianek.com^$all
 ||doski.by^$all
+||dostawaca24.online^$all
 ||dostawy24.com ^$all
 ||dotabet100.com^$all
 ||dotabet103.com^$all
@@ -371,6 +366,8 @@
 ||fotki-kliknij.eu^$all
 ||fotoografie-pobierz.eu^$all
 ||foxrpas.com^$all
+||fraktaltrader.eu^$all
+||fraktal-trader.pl^$all
 ||franciszkakurier.com^$all
 ||frankokurier.com^$all
 ||freefollower.eu^$all
@@ -587,6 +584,7 @@
 ||lp.moviesearchcenter.com^$all
 ||lubimyzycie.com^$all
 ||luxkur.online^$all
+||lvgrowmarkets.com^$all
 ||macandwin.theforcontentingvideosystems.icu^$all
 ||maccleaner.space^$all
 ||maceju.com^$all
@@ -879,6 +877,7 @@
 ||rzeczyzadarmo.pl^$all
 ||saarthieduhub.com^$all
 ||sabiosdelamor.co^$all
+||salonfilmowy.pl^$all
 ||salonmotoryzacyjny.lublin.ovh^$all
 ||samuraibangalore.com^$all
 ||sarnisas.info^$all
@@ -1119,6 +1118,7 @@
 ||zalukaj*.*^$all,domain=~zalukaj.com
 ||zaluknij.pl^$all
 ||zamowienia-priorytetowe.pl^$all
+||zapisy.fractaltrader.pl^$all
 ||zaplata*.tk^$all
 ||zaplaty.net^$all
 ||zarabativaisazartom.net^$all
