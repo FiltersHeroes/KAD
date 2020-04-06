@@ -1,21 +1,7 @@
+
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-	
-||onetposzukiwani.eu^$all
-||zbyk.drl.pl^$all
-||onetposzukiwani.eu^$all
-||wazne-informacje.pl^$all
-||wazne-informacje.pl^$all
-||onet24pl.pvi.pl^$all
-||onet24pl.pvi.pl^$all
-||informacje-swiat.pl^$all
-||informacje-swiat.pl^$all
-||genowefakurier.org^$all
-||aktualizacja.jst.pl^$all
-||aktualizacja.jst.pl^$all
-||genowefakurier.org^$all
-
 ||0ff.page^$all
 ||0pen.page^$all
 ||1channelhd.xyz^$all
@@ -43,6 +29,7 @@
 ||akazoo.pl^$all
 ||aktpl.com^$all
 ||aktualizacja-regulamin.com^$all
+||aktualizacja.jst.pl^$all
 ||albajifood.com^$all
 ||alcaido.com^$all
 ||aldocontreras.com^$all
@@ -413,6 +400,7 @@
 ||gcesab.com^$all
 ||gdzieogladac.online^$all
 ||genfotir.com^$all
+||genowefakurier.org^$all
 ||getfilesfrom.net^$all
 ||getgamecheats.com^$all
 ||getimmediateedge.com^$all
@@ -482,6 +470,7 @@
 ||infomiasto24.pl^$all
 ||infonews24.com.pl^$all
 ||informacje-news.eu^$all
+||informacje-swiat.pl^$all
 ||inovscope.pt^$all
 ||inpost24.me^$all
 ||insanepays.com^$all
@@ -712,7 +701,9 @@
 ||olympusmarkets.com^$all
 ||omega.best^$all
 ||onclickbright.com^$all
+||onet24pl.pvi.pl^$all
 ||onet24-polska.space^$all
+||onetposzukiwani.eu^$all
 ||onet-zaginieni-24.pl^$all
 ||onliine.pl^$all
 ||onlinehd.pl^$all
@@ -1077,6 +1068,7 @@
 ||warszawafakty.eu^$all
 ||warszawa-gov.pl^$all
 ||warszawa-info24.pl^$all
+||wazne-informacje.pl^$all
 ||wealthray4u.com^$all
 ||wealthyme.warzonedns.com^$all
 ||weartexhibitions.com^$all
@@ -1148,6 +1140,7 @@
 ||zasilkonto.cba.pl^$all
 ||zasil-konto.tk^$all
 ||zaswiadczeniekrk.pl^$all
+||zbyk.drl.pl^$all
 ||zdjecie-facebook-*.dkonto.pl^$all
 ||zgarnijplik.pl^$all
 ||zgarnij.net^$all
