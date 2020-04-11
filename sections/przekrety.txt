@@ -1,7 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||epity2020.pl^$all
 ||0ff.page^$all
 ||0pen.page^$all
 ||1channelhd.xyz^$all
@@ -272,6 +271,7 @@
 ||eoplaty.net^$all
 ||epaka247.net^$all
 ||epgnig.pl^$all
+||epity2020.pl^$all
 ||epoczta247.com^$all
 ||ergjt.bxugac.live^$all
 ||ericius.eu^$all
