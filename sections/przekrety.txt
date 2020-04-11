@@ -1,8 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||millensbank.site^$all
-||koronainfo24.eu^$all
 ||0ff.page^$all
 ||0pen.page^$all
 ||1channelhd.xyz^$all
@@ -584,6 +582,7 @@
 ||komornik-gov.com^$all
 ||koniec500plus.eu^$all
 ||konkursy.de^$all
+||koronainfo24.eu^$all
 ||koronawirusnews.com.pl^$all
 ||koronawirusnews.net.pl^$all
 ||koronawirus.hekko24.pl^$all
@@ -662,6 +661,7 @@
 ||mientayweb.com^$all
 ||milenium.site^$all
 ||millensbank.fun^$all
+||millensbank.site^$all
 ||millionways.duckdns.org^$all
 ||minmin96.xyz^$all
 ||miroslawklos.pl^$all
