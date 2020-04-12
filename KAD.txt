@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.com
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-! Last modified: Sun, 12 Apr 2020, 15:34 UTC+02
-! Version: 2020.4.12.1
+! Last modified: Sun, 12 Apr 2020, 23:23 UTC+02
+! Version: 2020.4.12.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3438,7 +3438,6 @@
 ||astrocash.org^$all
 ||atchec.com^$all
 ||atnimanvilla.com^$all
-||automatyczny-dozownikmydla-pl.com^$all
 ||autorentier.pl^$all
 ||autorepuestosdml.com^$all
 ||avaparse.ir^$all
@@ -4606,6 +4605,8 @@
 ||zoracle.com^$all
 ||zumodi.com^$all
 ||zweryfiikujdane.tk^$all
+||*automatyczny-dozownikmydla-pl.com^$all
+||*automatyczny-dozownik-mydla-pl.com^$all
 ||*kurier.com/oplata*$document,domain=com
 ||*kurier.org/oplata*$document,domain=org
 ||*-*.r*.cf*.rackcdn.com^$document
