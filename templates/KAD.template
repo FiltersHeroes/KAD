@@ -2,8 +2,8 @@
 ! Do poprawnego działania listy wymagane jest rozszerzenie uBlock Origin 1.20.0+ lub AdGuard AdBlocker 3.3.2+.
 !
 ! Homepage: https://kadantiscam.netlify.com
-! Title: KAD - Przekręty i oszustwa
-! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
+! Title: KAD - Przekręty
+! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
 ! Last modified: @modified
 ! Version: @version
 ! Expires: 2 days
@@ -19,10 +19,6 @@
 !
 ! Podejrzane i/lub strony połączone z innymi oszustwami
 @include podejrzane_inne_oszustwa
-!
-! Promocja pseudonauki / Fake news
-! Nieprawdziwe, wprowadzające w błąd informacje lub podobne.
-@include pseudonauka_fake_news
 !
 ! Przekierowują do innych stron z przekrętami
 @include przekierowujace_do_przekretow
