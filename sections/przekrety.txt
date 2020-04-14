@@ -1,10 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||tematdnia24.h2g.pl^$all
-||millenssbank.fun^$all
-||miastowe.hekko24.pl^$all
-||region24-wydarzenia.pl^$all
 ||0ff.page^$all
 ||0pen.page^$all
 ||4kplayer.pl^$all
@@ -662,12 +658,14 @@
 ||mega-gry.com^$all
 ||megolbassia.com^$all
 ||mergedocsnow.com^$all
+||miastowe.hekko24.pl^$all
 ||miastowirus.hekko24.pl^$all
 ||mientayweb.com^$all
 ||milenium.site^$all
 ||millensbank.fun^$all
 ||millensbank.site^$all
 ||millensbank.website^$all
+||millenssbank.fun^$all
 ||millionways.duckdns.org^$all
 ||minmin96.xyz^$all
 ||miroslawklos.pl^$all
@@ -949,6 +947,7 @@
 ||rcplus.net.pl^$all
 ||realnyzarobek.pl^$all
 ||refferalstaff.com^$all
+||region24-wydarzenia.pl^$all
 ||regulamin-poczty.com^$all
 ||regulamin-wirtualnapolska.com^$all
 ||regulamin-wp.com^$all
@@ -1081,6 +1080,7 @@
 ||telewiadomosci.pl^$all
 ||telewizja-internetowa24.pl^$all
 ||telewywiady.pl^$all
+||tematdnia24.h2g.pl^$all
 ||tematyczne-rozmowki.com.pl^$all
 ||tematyczne-rozmowy-pl.eu^$all
 ||tematyczne-rozmowy.pl^$all
