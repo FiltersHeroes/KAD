@@ -7,6 +7,7 @@ filme.pl#?#.float-xl-right.col-lg-4 > div.mb-3.card:nth-of-type(2):-abp-has(a[hr
 filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:-abp-has(a[href*="http://leadmy.pl/"])
 ##a[href*="./weryfikacja/"]
 ##a[href*="/weryfikacja/"][target="_blank"]
+##a[href*="weryfikacja/index"]
 /pobierz_*.exe$document
 ||a5.cba.pl/js.js$script
 ||alltube.tv/static/img/download.png$image
