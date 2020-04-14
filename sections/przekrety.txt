@@ -2,8 +2,6 @@
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
 ||0ff.page^$all
-||newsy*.pro-linuxpl.com^$all
-||pl.profitrevolution.best^$all
 ||0pen.page^$all
 ||4kplayer.pl^$all
 ||4kstream.pl^$all
@@ -413,6 +411,7 @@
 ||funsolo.net^$all
 ||funtoonez.com^$all
 ||furgonetka.online^$all
+||furgonetka.pro^$all
 ||futurepay.globway.eu^$all
 ||gackokurier.com^$all
 ||gagrat.co^$all
@@ -513,7 +512,6 @@
 ||in-post.online^$all
 ||in-post.org^$all
 ||ionetporwanie.*^$all
-||furgonetka.pro^$all
 ||ipayu.pl^$all
 ||iphonepolska.pl^$all
 ||ipk0bp.net^$all
@@ -723,6 +721,7 @@
 ||newsinsider.me^$all
 ||newswave.online^$all
 ||newsweek-polska-pl.eu^$all
+||newsy*.pro-linuxpl.com^$all
 ||newszone.pro^$all
 ||news-deck.at^$all
 ||news.bit-poland.club^$all
@@ -842,6 +841,7 @@
 ||pl.allsports4free.club^$all
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
+||pl.profitrevolution.best^$all
 ||pl.team^$all
 ||pl.tvplusnewtab.com^$all
 ||pobieralnie-plikow.eu^$all
