@@ -15,6 +15,7 @@
 ! (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 ! (PL) UWAGA: Strony poniżej mogą być szkodliwe. Proszę, nie wchodź na nie, jeśli nie wiesz co robisz!
 !
+!#safari_cb_affinity(security)
 ! Podejrzane i/lub strony połączone z innymi oszustwami
 @include podejrzane_inne_oszustwa
 !
@@ -36,6 +37,7 @@
 !
 ! Reguły specjalne
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
+!#safari_cb_affinity
 !#if ext_ublock
 !#include sections/specjalne_uBO.txt
 !#endif
