@@ -1,16 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||millensbannk.xyz^$all
-||szybkikurier.org^$all
-||dhl-payment.com^$all
-||wpisz-dane.pl^$all
-||lnpostdezynfekcje.net^$all
-||dworzecporwaniepl.*^$all
-||dworzecporwaniepl.*^$all
-||koronawirus-info24.pl^$all
-||fakt-polska.pl^$all
-||gazeta-informacje.pl^$all
 ||0ff.page^$all
 ||0pen.page^$all
 ||4kplayer.pl^$all
@@ -211,6 +201,7 @@
 ||derikaosos.info^$all
 ||deviwijiyanti.web.id^$all
 ||dhl-paczka.eu^$all
+||dhl-payment.com^$all
 ||dhl-percel.com^$all
 ||directpayment.pl^$all
 ||dirproperties.com^$all
@@ -249,6 +240,7 @@
 ||dspinner.net^$all
 ||dultrasolutions.duckdns.org^$all
 ||durakbufecengelkoy.com^$all
+||dworzecporwaniepl.*^$all
 ||dzieckoalert.*^$all
 ||dzienniknews.com.pl^$all
 ||dzienniknews.pl^$all
@@ -345,6 +337,7 @@
 ||faktypolska*.b-cdn.net^$all
 ||fakty-sniadaniowe-pl.com^$all
 ||fakty-sniadaniowe.com.pl^$all
+||fakt-polska.pl^$all
 ||faraweel.com^$all
 ||fasebook-onlineapp.com.pl^$all
 ||favoriteadrequest.com^$all
@@ -439,6 +432,7 @@
 ||gayza.net^$all
 ||gazetainfo24tv.hekko24.pl^$all
 ||gazetanowoczesna.pl^$all
+||gazeta-informacje.pl^$all
 ||gazeta-natemat-pol.eu^$all
 ||gazeta.pl.com.bz^$all
 ||gcesab.com^$all
@@ -609,6 +603,7 @@
 ||koronamiasto.hekko24.pl^$all
 ||koronawirusnews.com.pl^$all
 ||koronawirusnews.net.pl^$all
+||koronawirus-info24.pl^$all
 ||koronawirus.hekko24.pl^$all
 ||korzystna.org^$all
 ||ksiazka-telefoniczna-online.pl^$all
@@ -641,6 +636,7 @@
 ||listennewsnetwork.com^$all
 ||liversely.com^$all
 ||lnfo.web-chat.eu^$all
+||lnpostdezynfekcje.net^$all
 ||lnstagram.pp.ru^$all
 ||locked3.com^$all
 ||login-paribas-planet.info^$all
@@ -692,6 +688,7 @@
 ||millensbank.fun^$all
 ||millensbank.site^$all
 ||millensbank.website^$all
+||millensbannk.xyz^$all
 ||millenssbank.fun^$all
 ||millionways.duckdns.org^$all
 ||minmin96.xyz^$all
@@ -1103,6 +1100,7 @@
 ||szkolenie.m.poznan.pm^$all
 ||szlonepromocje.com^$all
 ||szmoldparts.com^$all
+||szybkikurier.org^$all
 ||s-pay24.com^$all
 ||tabxolabs.com^$all
 ||tankhoi.vn^$all
@@ -1233,6 +1231,7 @@
 ||worldprize.pl^$all
 ||worthlessness.xyz^$all
 ||wosp.online^$all
+||wpisz-dane.pl^$all
 ||wplogin.5v.pl^$all
 ||wppoczta-regulamin.pl^$all
 ||wp-regulamin.com^$all
