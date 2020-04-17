@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Fri, 17 Apr 2020, 12:21 UTC+02
-! Version: 2020.4.17.1
+! Last modified: Fri, 17 Apr 2020, 20:38 UTC+02
+! Version: 2020.4.17.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3565,8 +3565,10 @@
 ||dspinner.net^$all
 ||dultrasolutions.duckdns.org^$all
 ||durakbufecengelkoy.com^$all
-||dworzecporwaniepl-24.pl^$all
-||dworzecporwanie.pl^$all
+||dworzecfakt.*^$all
+||dworzeconline24.*^$all
+||dworzecporwaniepl-24.*^$all
+||dworzecporwanie.*^$all
 ||dzieckoalert.*^$all
 ||dzienniknews.com.pl^$all
 ||dzienniknews.pl^$all
@@ -3585,6 +3587,7 @@
 ||ecdi19.eu^$all
 ||echelona.net^$all
 ||eclass47.duckdns.org^$all
+||edworzeconline24.*^$all
 ||eforsa.pl^$all
 ||egazetka24.pl^$all
 ||einfo24.net^$all
@@ -3604,6 +3607,7 @@
 ||epaka.club^$all
 ||epge-bok.pl^$all
 ||epgnig.pl^$all
+||epiatnosc.com^$all
 ||epity2020.pl^$all
 ||epoczta247.com^$all
 ||eporwanienatalki.*^$all
@@ -3834,8 +3838,10 @@
 ||ilovemobi.com^$all
 ||industry-deals.com^$all
 ||inesmanila.com^$all
+||info24-warszawa.pl^$all
 ||infomiasto24.pl^$all
 ||infonews24.com.pl^$all
+||informacje-fakty.pl^$all
 ||informacje-news.eu^$all
 ||informacje-o-maskach-ochronnych-pl.com^$all
 ||informacje-swiat.pl^$all
@@ -3932,6 +3938,7 @@
 ||koronawirus-info24.pl^$all
 ||koronawirus.hekko24.pl^$all
 ||korzystna.org^$all
+||krajowe-informacje.pl^$all
 ||ksiazka-telefoniczna-online.pl^$all
 ||ktopodgladamnienafacebooku.wordpress.com^$all
 ||kulalusramag.net^$all
