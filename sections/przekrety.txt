@@ -2,25 +2,6 @@
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
 ||0ff.page^$all
-
-
-||e-poszukiwania.*^$all
-||transakcja-payu.xyz^$all
-||e-payu.xyz^$all
-||*uprowadzniezdworca.*^$all
-||*uprowadzeniedworzec.*^$all
-||e-poszukiwania.eu^$all
-||pl-oferta.ml^$all
-||fooledbeer.xyz^$all
-||faktynazywo24.eu^$all
-||tvp-informacyjna*.eu^$all
-||waznesprawy.eu^$all
-||login-planet-paribas.eu^$all
-||przechwycone-zdjecia.pl^$all
-||poczta-interia.com^$all
-||doonalermet*.live^$all
-||zagiel-przeciwsloneczny-pl.com^$all
-
 ||0pen.page^$all
 ||4kplayer.pl^$all
 ||4kstream.pl^$all
@@ -241,6 +222,7 @@
 ||doladujfona.net^$all
 ||doladujfona.org^$all
 ||domniespodzianek.com^$all
+||doonalermet*.live^$all
 ||doski.by^$all
 ||dostawaca24.online^$all
 ||dostawy24.com ^$all
@@ -325,6 +307,7 @@
 ||e-koronawirusnews.pl^$all
 ||e-kurier24.net^$all
 ||e-paczka24.net^$all
+||e-payu.xyz^$all
 ||e-pity-2020.pl^$all
 ||e-platnosc.best^$all
 ||e-podatek.net^$all
@@ -333,6 +316,8 @@
 ||e-porwaniapolska.pl^$all
 ||e-porwanienatalki.*^$all
 ||e-poszukiwananatalka.*^$all
+||e-poszukiwania.eu^$all
+||e-poszukiwania.*^$all
 ||e-yourmovies.com^$all
 ||e-yourmovies.pl^$all
 ||faberville.com^$all
@@ -360,6 +345,7 @@
 ||fakty24-live.eu^$all
 ||fakty24-swiat.pl^$all
 ||fakty24-warszawa.pl^$all
+||faktynazywo24.eu^$all
 ||faktypolska*.b-cdn.net^$all
 ||fakty-sniadaniowe-pl.com^$all
 ||fakty-sniadaniowe.com.pl^$all
@@ -421,6 +407,7 @@
 ||florentynakurier.com^$all
 ||followergods.com^$all
 ||food-eng.online^$all
+||fooledbeer.xyz^$all
 ||footoografie-pobieralnia.eu^$all
 ||forfollow.net^$all
 ||forstriko.com^$all
@@ -673,6 +660,7 @@
 ||locked3.com^$all
 ||login-paribas-planet.info^$all
 ||login-paribas.info^$all
+||login-planet-paribas.eu^$all
 ||login-planet-paribas.info^$all
 ||lokalneinformacje*.vot.pl^$all
 ||losososdesign.com^$all
@@ -900,6 +888,7 @@
 ||ploskonax.com^$all
 ||plpocztex.net^$all
 ||plpocztex.org^$all
+||pl-oferta.ml^$all
 ||pl-pulsbiz.net^$all
 ||pl.allsports4free.club^$all
 ||pl.mevida.me^$all
@@ -975,6 +964,7 @@
 ||przechwyconeefotki.eu^$all
 ||przechwyconefotki24.eu^$all
 ||przechwycone-zdjecia.00x.eu^$all
+||przechwycone-zdjecia.pl^$all
 ||przechwycone-zdjecie.pl^$all
 ||przejdz.ml^$all
 ||przepismix.pl^$all
@@ -1181,6 +1171,7 @@
 ||tpc.hu^$all
 ||tpskp.com^$all
 ||trafisz.com^$all
+||transakcja-payu.xyz^$all
 ||transbodek.com^$all
 ||trocable.ga^$all
 ||tropiccritics.com^$all
@@ -1193,6 +1184,7 @@
 ||tvnewtop.pro^$all
 ||tvnowapp.net^$all
 ||tvnpolska24.hekko24.pl^$all
+||tvp-informacyjna*.eu^$all
 ||tv-internetowa.pl^$all
 ||tv-maniak.pl^$all
 ||twojaenea.pl^$all
@@ -1238,6 +1230,7 @@
 ||warszawa-gov.pl^$all
 ||warszawa-info24.pl^$all
 ||warszawa-informujemy.pl^$all
+||waznesprawy.eu^$all
 ||wazne-informacje.pl^$all
 ||wealthray4u.com^$all
 ||wealthyme.warzonedns.com^$all
@@ -1306,6 +1299,7 @@
 ||your-sexydreams.com^$all
 ||yuppipuppy.com^$all
 ||za10groszy.pl^$all
+||zagiel-przeciwsloneczny-pl.com^$all
 ||zajonc.de^$all
 ||zalukaj*.*^$all,domain=~zalukaj.com|~zalukaj.vip
 ||zaluknij.pl^$all
@@ -1341,5 +1335,7 @@
 ||*dworzecporwaniepl.*^$all
 ||*kurier.com/oplata*$document,domain=com
 ||*kurier.org/oplata*$document,domain=org
+||*uprowadzeniedworzec.*^$all
+||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
 ||*.24.eu^$document
