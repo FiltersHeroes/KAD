@@ -2,6 +2,8 @@
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
 ||0ff.page^$all
+||pgnig-24.pl^$all
+||i-pgnig.pl^$all
 ||0pen.page^$all
 ||4kplayer.pl^$all
 ||4kstream.pl^$all
@@ -1389,6 +1391,8 @@
 ||*porwaniapolska24*.*^$all
 ||*porwaniapolska48.*^$all
 ||*porwaniapolska.*^$all
+||*porwaniepolska.*^$all
+||*polskaporwanie.*^$all
 ||*porwaniepolska24*.*^$all
 ||*porwaniepolska48.*^$all
 ||*uprowadzeniedworzec.*^$all
