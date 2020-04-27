@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Mon, 27 Apr 2020, 17:33 UTC+02
-! Version: 2020.4.27.2
+! Last modified: Mon, 27 Apr 2020, 17:38 UTC+02
+! Version: 2020.4.27.3
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3250,6 +3250,7 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
+||0e0.eu^$all
 ||0ff.page^$all
 ||0pen.page^$all
 ||4kplayer.pl^$all
@@ -3528,10 +3529,12 @@
 ||elwirakurier.com^$all
 ||emptierbreak.xyz^$all
 ||endofhisrope.net^$all
+||enea-sa.pl^$all
 ||energabok.pl^$all
 ||eoplaty.net^$all
 ||epaka247.net^$all
 ||epaka.club^$all
+||epgnig.pl^$all
 ||epiatnosc.com^$all
 ||epoczta247.com^$all
 ||epocztapolska24.pl^$all
@@ -3940,6 +3943,7 @@
 ||maxitrade.com^$all
 ||max-host.pl^$all
 ||maymaychihai.com^$all
+||mazowskagazeta.eu^$all
 ||mazowskagazeta.pl^$all
 ||ma-1.erema.biz^$all
 ||ma-1.lzglnter.com^$all
@@ -4229,6 +4233,7 @@
 ||przechwyconeefotki.eu^$all
 ||przechwyconefotki24.eu^$all
 ||przechwycone-zdjecia.00x.eu^$all
+||przechwycone-zdjecia.pl^$all
 ||przejdz.ml^$all
 ||przejrzyj-fotki.eu^$all
 ||przepismix.pl^$all
@@ -4342,6 +4347,7 @@
 ||showsplash.com^$all
 ||sie-pomaga.net^$all
 ||sigma1.eu^$all
+||siodemkawysyl24h.info^$all
 ||sitegiant.info^$all
 ||skidrowcrack.com^$all
 ||skippyfile.com^$all
@@ -4480,6 +4486,7 @@
 ||twojhoroskop.com^$all
 ||twojkurier.com^$all
 ||twoj-kurier.com^$all
+||twoj-kurier.services^$all
 ||u192389.stronazen.pl^$all
 ||udater.net^$all
 ||unitedmedsshop.com^$all
