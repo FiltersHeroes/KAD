@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Mon, 27 Apr 2020, 07:44 UTC+02
-! Version: 2020.4.27.0
+! Last modified: Mon, 27 Apr 2020, 17:06 UTC+02
+! Version: 2020.4.27.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -552,6 +552,7 @@
 ||cristianlay.com^$all
 ||crmwpraktyce.pl^$all
 ||crocsdamskie.pl^$all
+||crocsoutletpolska.pl^$all
 ||crocspolskasklepy.pl^$all
 ||crocs-pl.pl^$all
 ||crossfitchojnice.pl^$all
@@ -707,6 +708,7 @@
 ||ebook4all.com.pl^$all
 ||ebuty.net.pl^$all
 ||eccobuty.pl^$all
+||eccoobuwie.pl^$all
 ||eccooutlet.pl^$all
 ||eccopl.pl^$all
 ||eccopromocje.pl^$all
@@ -1417,6 +1419,7 @@
 ||kuznialudzizaradnych.pl^$all
 ||kuzniauwb.pl^$all
 ||kwadratowyswia.pl^$all
+||kwaterapodgruszka.pl^$all
 ||kwaterynasezon.pl^$all
 ||kwiaciarnianadworcu.pl^$all
 ||kwiaty-wiosenne.pl^$all
@@ -3291,6 +3294,7 @@
 ||24ekspres.online^$all
 ||24fakty-sniadaniowe.pl^$all
 ||24-biznes.eu^$all
+||24.eu^$document,domain=~www.24.eu
 ||50kaweek.live^$all
 ||50kzl.pl^$all
 ||100sport.tv^$all
@@ -3318,6 +3322,7 @@
 ||alcaido.com^$all
 ||aldocontreras.com^$all
 ||alejandravalladares.com.ve^$all
+||aliorkurier.org^$all
 ||alkoskurier.com^$all
 ||alldc.pw^$all
 ||allegrosklep.online^$all
@@ -3473,6 +3478,7 @@
 ||customernoble.com^$all
 ||cybermagicindia.com^$all
 ||czasnakino.pl^$all
+||c.pl^$document,domain=~www.c.pl
 ||daily-jokes.net^$all
 ||danangluxury.com^$all
 ||darmowetesty.com^$all
@@ -3603,6 +3609,7 @@
 ||faccebook.5v.pl^$all
 ||facebbook.5v.pl^$all
 ||facebookaheagoprincess.pl^$all
+||facebookgroups.pl^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facewatch.borec.cz^$all
@@ -3627,6 +3634,7 @@
 ||faktynazywo24.eu^$all
 ||faktyonline48.eu^$all
 ||faktypolska*.b-cdn.net^$all
+||faktyzwawy.pl^$all
 ||fakty-onet48.*^$all
 ||fakty-sniadaniowe-pl.com^$all
 ||fakty-sniadaniowe.com.pl^$all
@@ -4167,6 +4175,7 @@
 ||pko-bp.pl^$all
 ||pkworld.com.pk^$all
 ||placidocn.com^$all
+||planchashop.fr^$all
 ||platnik*.online^$all
 ||platnosci24.services^$all
 ||platnosci-online.services^$all
@@ -4205,6 +4214,7 @@
 ||pobierz-ebook.pl^$all
 ||pobierz-pliczek.eu^$all
 ||pobiieerz-fotografiee.eu^$all
+||pocztapolska24.com^$all
 ||pocztapolska48.net^$all
 ||pocztapolska.eu^$all
 ||poczta-interia.com^$all
@@ -4586,6 +4596,7 @@
 ||wisdementive.info^$all
 ||woj-kurier.services^$all
 ||wolnezycie.info^$all
+||wolski.med.pl^$all
 ||wolyncalyfilm.wordpress.com^$all
 ||womenempowermentpakistan.com^$all
 ||worldprize.pl^$all
@@ -4683,7 +4694,6 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
-||*.24.eu^$document
 !
 ! Blogspot
 ||5gb-internetu-pakiety.blogspot.com^$all
