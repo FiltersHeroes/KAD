@@ -1401,4 +1401,5 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
-||*.24.eu^$document
+||24.eu^$document,domain=~www.24.eu
+||c.pl^$document,domain=~www.c.pl
