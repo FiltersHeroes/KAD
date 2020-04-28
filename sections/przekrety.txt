@@ -1,16 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||poczta-interia.net^$all
-||pocztapolska48.*^$all
-||poczta-polska48.*^$all
-||pocztapolska24.*^$all
-||andekkurier.org^$all
-||ibokpgnig.pl^$all
-||show-auctions.pl
-||bokpgnig.pl^$all
-||e-bokpgnig.pl^$all
-||zgwalconadziewczyna.*^$all
 ||0e0.eu^$all
 ||0ff.page^$all
 ||0pen.page^$all
@@ -65,6 +55,7 @@
 ||amariceo.duckdns.org^$all
 ||amonitalia.it^$all
 ||anabim.com^$all
+||andekkurier.org^$all
 ||androidsecurityplus.com^$all
 ||android-cleaner.net^$all
 ||anetakurier.info^$all
@@ -123,6 +114,7 @@
 ||blog.lalalalala.club^$all
 ||blog.medkad.com^$all
 ||bmillenhome.com^$all
+||bokpgnig.pl^$all
 ||bondagetrip.com^$all
 ||bondbengals.info^$all
 ||bonus.gamblingz.net^$all
@@ -299,6 +291,7 @@
 ||epiatnosc.com^$all
 ||epoczta247.com^$all
 ||epocztapolska24.pl^$all
+||epocztapolska.pl^$all
 ||eporwanienatalki.*^$all
 ||ergjt.bxugac.live^$all
 ||ericius.eu^$all
@@ -314,6 +307,7 @@
 ||express-pocztex.com^$all
 ||ex-torrentycom.5v.pl^$all
 ||eyupp.com^$all
+||e-bokpgnig.pl^$all
 ||e-filmy24.pl^$all
 ||e-koronawirusnews.pl^$all
 ||e-kurier24.net^$all
@@ -528,6 +522,7 @@
 ||hotnews24h.pl^$all
 ||hpaudiobooksfree.com^$all
 ||hrekcustomer.icu^$all
+||ibokpgnig.pl^$all
 ||icleanammunitio.xyz^$all
 ||iconsumerstocksymbol.icu^$all
 ||idealnafigura.com^$all
@@ -537,6 +532,7 @@
 ||industry-deals.com^$all
 ||inesmanila.com^$all
 ||info24-warszawa.pl^$all
+||infogazeta.hekko24.pl^$all
 ||infomiasto24.pl^$all
 ||infomiasto.hekko24.pl^$all
 ||infonews24.com.pl^$all
@@ -915,7 +911,6 @@
 ||plikson24.pl^$all
 ||plikson.pl^$all
 ||pliks.pl^$all
-||infogazeta.hekko24.pl^$all
 ||pllubiok.5v.pl^$all
 ||ploskonax.com^$all
 ||plpocztex.net^$all
@@ -937,12 +932,15 @@
 ||pobierz-ebook.pl^$all
 ||pobierz-pliczek.eu^$all
 ||pobiieerz-fotografiee.eu^$all
+||pocztapolska24.*^$all
+||pocztapolska48.*^$all
 ||pocztapolska.eu^$all
 ||poczta-interia.com^$all
+||poczta-interia.net^$all
 ||poczta-login-neostrada.com^$all
 ||poczta-pay.com^$all
 ||poczta-polska24.*^$all
-||epocztapolska.pl^$all
+||poczta-polska48.*^$all
 ||poczta-polska.net^$all
 ||pocztexpolska24.com^$all
 ||pocztexpolska.eu^$all
@@ -1108,6 +1106,7 @@
 ||showlten.pl^$all
 ||showmeflix.com^$all
 ||showsplash.com^$all
+||show-auctions.pl
 ||sie-pomaga.net^$all
 ||sigma1.eu^$all
 ||siodemkawysyl24h.info^$all
@@ -1374,6 +1373,7 @@
 ||zdrowieabc.hekko24.pl^$all
 ||zgarnijplik.pl^$all
 ||zgarnij.net^$all
+||zgwalconadziewczyna.*^$all
 ||zhaoyouxiu.com^$all
 ||zhouliang.info^$all
 ||zlecone.xn.pl^$all
