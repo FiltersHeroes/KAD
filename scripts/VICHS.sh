@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.13
+# v2.14
 
 # MIT License
 
@@ -572,11 +572,11 @@ for i in "$@"; do
         # Commitowanie zmienionych plików
         if [ "$CI" = "true" ] ; then
             commit_desc=$(grep -oP -m 1 '@commitDesc \K.*' "$CONFIG")
-            git commit -m "$(eval_gettext "Update \$filter to version \$version")" -m "${commit_desc}" -m "[ci skip]"
+            git commit -m "$(eval_gettext "Update \$filter to version \$version")" -m "[ci skip]" -m "${commit_desc}"
         else
             printf "%s" "$(eval_gettext "Enter extended commit description to \$filter list, e.g 'Fix #1, fix #2' (without quotation marks; if you do not want an extended description, you can simply enter nothing): ")"
             read -r extended_desc
-            git commit -m "$(eval_gettext "Update \$filter to version \$version")" -m "${extended_desc}" -m "[ci skip]"
+            git commit -m "$(eval_gettext "Update \$filter to version \$version")" -m "[ci skip]" -m "${extended_desc}"
         fi
     else
         printf "%s\n" "$(eval_gettext "Nothing new has been added to \$filter list. If you still want to update it, then set the variable FORCED and run script again.")"
