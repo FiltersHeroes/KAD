@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.12
+# v2.13
 
 # MIT License
 
@@ -497,7 +497,7 @@ for i in "$@"; do
     # Dodawanie zmienionych sekcji do repozytorium git
     if [ ! "$RTM" ] ; then
         git add "$SECTIONS_DIR"/*
-        git commit -m "$(gettext "Update sections") [ci skip]"
+        git commit -m "$(gettext "Update sections")" -m "[ci skip]"
     fi
 
     # Ustawienie strefy czasowej
@@ -576,7 +576,7 @@ for i in "$@"; do
         else
             printf "%s" "$(eval_gettext "Enter extended commit description to \$filter list, e.g 'Fix #1, fix #2' (without quotation marks; if you do not want an extended description, you can simply enter nothing): ")"
             read -r extended_desc
-            git commit -m "$(eval_gettext "Update \$filter to version \$version") [ci skip]" -m "${extended_desc}"
+            git commit -m "$(eval_gettext "Update \$filter to version \$version")" -m "${extended_desc} [ci skip]"
         fi
     else
         printf "%s\n" "$(eval_gettext "Nothing new has been added to \$filter list. If you still want to update it, then set the variable FORCED and run script again.")"
