@@ -2,7 +2,6 @@
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
 ||0e0.eu^$all
-||catsplit.net.pl^$all
 ||0ff.page^$all
 ||0pen.page^$all
 ||0xi.com.pl^$all
@@ -193,6 +192,7 @@
 ||carambaba.com^$all
 ||carolinakurier.com^$all
 ||catsplit.com^$all
+||catsplit.net.pl^$all
 ||cats.ugu.pl^$all
 ||cbdnewsdirect.com^$all
 ||cclive.istage.cloud^$all
