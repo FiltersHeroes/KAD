@@ -1,5 +1,5 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
-/^https?:\/\/([\w]{1,4}\.|)pocztapolska\d+\.*/$all
+/^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)pocztex.*\d+\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
@@ -664,7 +664,6 @@
 ||idealnafigura.com^$all
 ||idpd.pl^$all
 ||id-appie.com^$all
-||ifaktygwalt.eu^$all
 ||ikoronawirusnews.pl^$all
 ||ilovemobi.com^$all
 ||iluzja.pl^$all
@@ -1169,8 +1168,6 @@
 ||poczta-interia.net^$all
 ||poczta-login-neostrada.com^$all
 ||poczta-pay.com^$all
-||poczta-polska247.com^$all
-||poczta-polska.services^$all
 ||poczta-polska.*^$document,domain=~poczta-polska.pl
 ||pocztexpolska.*^$all
 ||podatek2020.net^$all
@@ -1720,3 +1717,14 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
+||a2plvcpnl308307.prod.iad2.secureserver.net^$all
+/^https?:\/\/([\w]{1,4}\.|)\w+-?ifaktygwalt\.*/$all
+||jonakurier.org^$all
+||lowcyokazji.site^$all
+||pakownia.net^$all
+||sdx.pl^$all
+||server879512.nazwa.pl^$all
+||spillerfanside.com^$all
+||tarcza24.net^$all
+||waniakurier.com^$all
+||obslugakelnerska20.wixsite.com^$all
