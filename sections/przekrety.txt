@@ -1761,3 +1761,9 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
+||localnewshere.site^$all
+||gazetkamazowsze.pl^$all
+||osobyzagionione.com.pl^$all
+||server859628.nazwa.pl^$all
+||swiezefakty.eu^$all
+/^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta\d+\.*/$all
