@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Thu, 07 May 2020, 20:55 UTC+02
-! Version: 2020.5.7.1
+! Last modified: Fri, 08 May 2020, 15:18 UTC+02
+! Version: 2020.5.8.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -519,6 +519,7 @@
 ||cs-fpg.pl^$all
 ||cs-kancelaria.pl^$all
 ||cs-podhale.pl^$all
+||ctbike.pl^$all
 ||cultland.pl^$all
 ||cultsneaks.pl^$all
 ||cweis-gorka.pl^$all
@@ -1654,6 +1655,7 @@
 ||neomedia.in.net^$all
 ||neonetmax.in.net^$all
 ||neopozyczki.pl^$all
+||neo-technologies.fr^$all
 ||netleaders.com^$all
 ||netwita.pl^$all
 ||newbalancepl.pl^$all
@@ -2804,6 +2806,7 @@
 ||you-and-me.pl^$all
 ||yummymobile.pl^$all
 ||zaadoptujstacjeladowania.com.pl^$all
+||zabawlandia.pl^$all
 ||zabiczyn.pl^$all
 ||zaglebiefanatykow.pl^$all
 ||zajazdbanderoza.pl^$all
@@ -2827,6 +2830,7 @@
 ||zbudujmy-pustelnie.pl^$all
 ||zdaj-to.pl^$all
 ||zdrowedziasla.com.pl^$all
+||zebraneo.com^$all
 ||zebrapozyczki.pl^$all
 ||zedgalaxyplays.com^$all
 ||zelazkowkuchni.pl^$all
@@ -3110,8 +3114,8 @@
 /^https?:\/\/([\w]{1,4}\.|)pocztex.*\d+\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\.*/$all
+/^https?:\/\/([\w]{1,4}\.|).*-?faktygwalt\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-/^https?:\/\/([\w]{1,4}\.|)\w+-?ifaktygwalt\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)\w+-?poczta-?polska\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)\w+-?pocztex\.*/$all
 ||0e0.eu^$all
@@ -3172,6 +3176,7 @@
 ||aldocontreras.com^$all
 ||alefunny.pl^$all
 ||alejandravalladares.com.ve^$all
+||alfikurier.org^$all
 ||aliorkurier.org^$all
 ||alkoskurier.com^$all
 ||alldc.pw^$all
@@ -3776,6 +3781,7 @@
 ||hotel-bristol.lu^$all
 ||hothub.pl^$all
 ||hotnews24h.pl^$all
+||housedropdeals.com^$all
 ||hpaudiobooksfree.com^$all
 ||hrekcustomer.icu^$all
 ||i8i.eu^$all
@@ -3806,6 +3812,7 @@
 ||informujemy.eu^$all
 ||inform*.is-best.net^$all
 ||infoswiat.hekko24.pl^$all
+||infoswieze.pl^$all
 ||infoszybkie.eu^$all
 ||infoteria.cba.pl^$all
 ||info-24.cloud^$all
