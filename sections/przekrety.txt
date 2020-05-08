@@ -3,7 +3,7 @@
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-/^https?:\/\/([\w]{1,4}\.|)\w+-?ifaktygwalt\.*/$all
+/^https?:\/\/([\w]{1,4}\.|).*-?faktygwalt\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)\w+-?poczta-?polska\.*/$all
 /^https?:\/\/([\w]{1,4}\.|)\w+-?pocztex\.*/$all
 ||0e0.eu^$all
@@ -1758,3 +1758,6 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
+||alfikurier.org^$all
+||housedropdeals.com^$all
+||infoswieze.pl^$all
