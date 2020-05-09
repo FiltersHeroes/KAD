@@ -17,3 +17,4 @@ speedtest.pl#?#.wynik-box > .comp:has(a[href*="przyspiesz.pl/"])
 ||cloudfront.net/*-ks.exe$popup,document
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
+cda-tv.online##div[id*="fakeplayer" i], div[class*="fakeplayer" i]:style(visibility: hidden !important;)
