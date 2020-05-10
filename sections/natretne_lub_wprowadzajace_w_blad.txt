@@ -1,4 +1,5 @@
 alltube.pl,alltube.tv##header #message-user
+cda-tv.online##div[id*="fakeplayer" i], div[class*="fakeplayer" i]:style(visibility: hidden !important;)
 ekino.pw##+js(abort-on-property-read.js, decodeURI)
 fili.cc##a[href^="/download/file"]
 filme.pl##a[href*="http://leadmy.pl/"]
@@ -17,4 +18,3 @@ speedtest.pl#?#.wynik-box > .comp:has(a[href*="przyspiesz.pl/"])
 ||cloudfront.net/*-ks.exe$popup,document
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
-cda-tv.online##div[id*="fakeplayer" i], div[class*="fakeplayer" i]:style(visibility: hidden !important;)
