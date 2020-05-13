@@ -5,7 +5,7 @@
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.\w+-?pocztex(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta(\w+)?\d+\..*/$all
-/^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news)gwalt(\d+)?\..*/$all
+/^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci)gwalt(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
 ||0e0.eu^$all
 ||0ff.page^$all
@@ -1810,3 +1810,5 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
+||serwer2019382.home.pl^$all
+||serwer2058730.home.pl^$all
