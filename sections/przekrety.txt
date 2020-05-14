@@ -1,7 +1,9 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
+/^https?:\/\/([\w]{1,4}\.|)(\w+)?(\d+)gwalt(fakty?|news|wiadomosci)\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska\..*/$all
+/^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?polska(\d+)?-?poczta\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.\w+-?pocztex(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta(\w+)?\d+\..*/$all
@@ -479,6 +481,7 @@
 ||faktyzwawy.pl^$all
 ||fakty-miasto.x9.eu^$all
 ||fakty-miejskie.x9.eu^$all
+||fakty-news48.eu^$all
 ||fakty-news72.eu^$all
 ||fakty-onet48.*^$all
 ||fakty-online48.eu^$all
@@ -763,6 +766,7 @@
 ||i-filmy.pl^$all
 ||i-ksiazka.pl^$all
 ||i-podgladacz.pl^$all
+||jagodapaczka.org^$all
 ||jakotako.is-best.net^$all
 ||jamba.pl^$all
 ||jamster.pl^$all
@@ -1379,6 +1383,7 @@
 ||sabiosdelamor.co^$all
 ||salonfilmowy.pl^$all
 ||salonmotoryzacyjny.lublin.ovh^$all
+||samsung-2020.h2g.pl^$all
 ||samuraibangalore.com^$all
 ||sandalcraft.cba.pl^$all
 ||saxtorph.net^$all
@@ -1654,6 +1659,7 @@
 ||weryfikacja-weryfikacja.pl^$all
 ||wezwanieus.com^$all
 ||whenbuyyousale.co^$all
+||wiadomosci24-live.eu^$all
 ||wiadomoscilokalne.eu^$all
 ||wiadomoscipolska99.pro-linuxpl.com^$all
 ||wiadomoscizkraju24.com.pl^$all
@@ -1808,9 +1814,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
-||samsung-2020.h2g.pl^$all
-/^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?polska(\d+)?-?poczta\..*/$all
-/^https?:\/\/([\w]{1,4}\.|)(\w+)?(\d+)gwalt(fakty?|news|wiadomosci)\..*/$all
-||fakty-news48.eu^$all
-||jagodapaczka.org^$all
-||wiadomosci24-live.eu^$all
