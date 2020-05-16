@@ -1,8 +1,8 @@
 ! Title: KADfake - Kontrowersje
-! Description: Filtry blokujące pseudonaukę, dezinformację, nieprawdziwe informacje i kontrowersyjne strony (bez polityki i satyry).
+! Description: Filtry blokujące pseudonaukę, dezinformację, nieprawdziwe informacje i kontrowersyjne strony. Satyra i kwestie polityczne nie stanowią głównego celu listy.
 ! Homepage: https://kadantiscam.netlify.app
-! Last modified: Tue, 28 Apr 2020, 07:45 UTC+02
-! Version: 2020.4.28.0
+! Last modified: Sat, 16 May 2020, 21:00 UTC+02
+! Version: 2020.5.16.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -52,6 +52,7 @@
 ||planetazdrowia.com^$all
 ||planet-tachyon.com^$all
 ||polakuleczsiesam.pl^$all
+||portal.nysa.pl^$all
 ||prisonplanet.pl^$all
 ||recektorelecza.pl^$all
 ||sokiwyciskane.pl^$all
