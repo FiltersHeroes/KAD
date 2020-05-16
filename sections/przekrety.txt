@@ -9,7 +9,6 @@
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta(\w+)?\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||onsitegold.com^$all
 ||0e0.eu^$all
 ||0ff.page^$all
 ||0pen.page^$all
@@ -1119,6 +1118,7 @@
 ||online-platnosc.services^$all
 ||onlyfiles.net^$all
 ||onlyher.nazwa.pl^$all
+||onsitegold.com^$all
 ||onthethat.xyz^$all
 ||opal.webserwer.pl^$all
 ||opel.km.ua^$all
