@@ -9,7 +9,6 @@
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta(\w+)?\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||termometr-na-podczerwien-pl.com^$all
 ||0e0.eu^$all
 ||0ff.page^$all
 ||0pen.page^$all
@@ -400,6 +399,7 @@
 ||elememory.com^$all
 ||elvox.pl^$all
 ||elwirakurier.com^$all
+||emonitoring24.eu^$all
 ||emptierbreak.xyz^$all
 ||endofhisrope.net^$all
 ||energabok.pl^$all
@@ -637,6 +637,7 @@
 ||gloryone.pl^$subdocument,domain=tictac.pl
 ||glosowanie-kliknij.eu^$all
 ||glosowanie-konkurs.eu^$all
+||glosowanie-voucher.eu^$all
 ||gls-parcel.com^$all
 ||gnreg.com^$all
 ||goadvert.pk^$all
@@ -1266,11 +1267,13 @@
 ||polski-poranek-pl.com^$all
 ||polski-poranek.pl^$all
 ||pomagajmypl.*^$all
+||pomagamy-fakty24.pl^$all
 ||pomagamy-razem.club^$all
 ||pomoc-fakty24.pl^$all
 ||pomoc-rodzinom.website^$all
 ||pomoc.kylos.pl^$all
 ||popatrz-zdjecia.eu^$all
+||porannawiedza.xyz^$all
 ||pornmania.pl^$all
 ||porwaniadzieci*.*^$all
 ||porwaniedziecki*.*^$all
@@ -1549,6 +1552,7 @@
 ||terazty24.eu^$all
 ||terminator3000.ct8.pl^$all
 ||terminatorzy.cba.pl^$all
+||termometr-na-podczerwien-pl.com^$all
 ||termstal.cba.pl^$all
 ||test.maciejdudek.com.pl^$all
 ||thefortunatenutrition.com^$all
@@ -1647,6 +1651,7 @@
 ||wapster.pl^$all
 ||warosprawdzic.is-best.net^$all
 ||warszawafakty.eu^$all
+||warszawa-gov.pl^$all
 ||waust.at^$all
 ||wawa-fakty24.pl^$all
 ||waznesprawy.eu^$all
@@ -1817,8 +1822,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
-||emonitoring24.eu^$all
-||glosowanie-voucher.eu^$all
-||pomagamy-fakty24.pl^$all
-||porannawiedza.xyz^$all
-||warszawa-gov.pl^$all
