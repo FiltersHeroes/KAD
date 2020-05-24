@@ -7,7 +7,7 @@ filme.pl#?#.float-xl-left.col-lg-8 > div.mb-3.card:nth-of-type(odd):nth-of-type(
 filme.pl#?#.float-xl-right.col-lg-4 > div.mb-3.card:nth-of-type(2):has(a[href*="http://leadmy.pl/"])
 filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl/"])
 speedtest.pl#?#.wynik-box > .comp:has(a[href*="przyspiesz.pl/"])
-szukajka.tv##div.element:has(.link[href*="alltube.com.pl"], .link[href*="filmyonline.com.pl"], .link[href*="fili.com.pl"], .link[href*="twoje-seriale.tv"])
+szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 ##a[href*="weryfikacja/index"]
 ##a[href*="./weryfikacja/"]
 ##a[href*="/weryfikacja/"][target="_blank"]
