@@ -9,8 +9,6 @@
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta(\w+)?\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||prollerpl.com^$all
-||nosnore-pl.com^$all
 ||0e0.eu^$all
 ||0ff.page^$all
 ||0pen.page^$all
@@ -104,7 +102,6 @@
 ||androidsecurityplus.com^$all
 ||android-cleaner.net^$all
 ||anetakurier.info^$all
-||warzonedns.com^$all
 ||aniapaczka.org^$all
 ||anitkakurier.com^$all
 ||aniventure.co.uk^$all
@@ -344,10 +341,12 @@
 ||dont.pl^$all
 ||doonalermet*.live^$all
 ||doski.by^$all
+||dostadh.com^$all
 ||dostawaca24.online^$all
 ||dostawy24.com^$all
 ||dotabet100.com^$all
 ||dotabet103.com^$all
+||dotpay1.pl^$all
 ||downloadfiles.pl^$all
 ||downloadnature.com^$all
 ||downloads-mobile.com^$all
@@ -653,6 +652,7 @@
 ||glosowanie-konkurs.eu^$all
 ||glosowanie-quiz.eu^$all
 ||glosowanie-voucher.eu^$all
+||glosuj-pomaganie.eu^$all
 ||gls-parcel.com^$all
 ||gnreg.com^$all
 ||goadvert.pk^$all
@@ -1070,6 +1070,7 @@
 ||nonstopvideos.pl^$all
 ||norbikurier.com^$all
 ||norbikurier.org^$all
+||nosnore-pl.com^$all
 ||nowa-oplata.net^$all
 ||nowina-pb.pl^$all
 ||nowinki.blog-online.eu^$all
@@ -1249,6 +1250,7 @@
 ||poczta-login-neostrada.com^$all
 ||poczta-pay.com^$all
 ||poczta-polska.*^$document,domain=~poczta-polska.pl
+||poczta-regulamin.com^$all
 ||pocztexpolska.*^$all
 ||podatek2020.net^$all
 ||podatkigov.net^$all
@@ -1267,6 +1269,7 @@
 ||polskaporwania.*^$all
 ||polska-gazeta-dnia.pl^$all
 ||polska-poszukiwania.eu^$all
+||polskidziennik.098.pl^$all
 ||polskidziennik.pl^$all
 ||polskieinformacje24.eu^$all
 ||polskiemedia.online^$all
@@ -1305,6 +1308,7 @@
 ||profitmaximum.pl^$all
 ||programrefundacji.pl^$all
 ||programyobywatelskie.pl^$all
+||prollerpl.com^$all
 ||promienieszczescia.pl^$all
 ||pronhubhd.com^$all
 ||propdfconverter.com^$all
@@ -1613,6 +1617,7 @@
 ||update.*sf*.online^$all
 ||uperpay.club^$all
 ||upgradecheck12.thebestwaystofindreliablesoftwares.surf^$all
+||upocztapolska.net^$all
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
 ||urzad-gov.net^$all
@@ -1650,6 +1655,9 @@
 ||warszawa-fakt.pl^$all
 ||warszawa-gov24.pl^$all
 ||warszawa-gov.pl^$all
+||warzonedns.com^$all
+||warzone.io^$all
+||warzone.pw^$all
 ||waust.at^$all
 ||waznesprawy.eu^$all
 ||wazne-informacje.pl^$all
@@ -1819,11 +1827,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
-||warzone.io^$all
-||warzone.pw^$all
-||dostadh.com^$all
-||dotpay1.pl^$all
-||glosuj-pomaganie.eu^$all
-||poczta-regulamin.com^$all
-||polskidziennik.098.pl^$all
-||upocztapolska.net^$all
