@@ -1,7 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all,domain=org
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(curtainhardsh|consquarters|garternal|greenelephants|headregret|jsdevelopmentq|listentome|tekerstreet)\d+\.live/$all
-||ezoliniawrozby.com^$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska\..*/$all
@@ -447,6 +446,7 @@
 ||express-pocztex.com^$all
 ||ex-torrentycom.5v.pl^$all
 ||eyupp.com^$all
+||ezoliniawrozby.com^$all
 ||e-childalert.*^$all
 ||e-dpd.pl^$all
 ||e-filmy24.pl^$all
