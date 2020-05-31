@@ -10,6 +10,9 @@
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta(\w+)?\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
+||goodmovie.pl^$all
+||films.com.pl^$all
+||filmyseriale.pl^$all
 ||0e0.eu^$all
 ||0ff.page^$all
 ||0pen.page^$all
