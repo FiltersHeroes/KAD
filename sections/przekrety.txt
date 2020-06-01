@@ -10,9 +10,6 @@
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta(\w+)?\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all,domain=online
-||goodmovie.pl^$all
-||films.com.pl^$all
-||filmyseriale.pl^$all
 ||0e0.eu^$all
 ||0ff.page^$all
 ||0pen.page^$all
@@ -553,10 +550,12 @@
 ||filmowo-hd.pl^$all
 ||filmplay.pl^$all
 ||filmspolandxxx.com^$all
+||films.com.pl^$all
 ||filmu.pl^$all
 ||filmvod.pl^$all
 ||filmy4u.pl^$all
 ||filmyonline.com.pl^$all
+||filmyseriale.pl^$all
 ||filmy-i-seriale.pl^$all
 ||filmy-tv.pl^$all
 ||film-base.pl^$all
@@ -678,6 +677,7 @@
 ||goadvert.pk^$all
 ||gogameportal.com^$all
 ||goleta105.com^$all
+||goodmovie.pl^$all
 ||google-*.anniversarygiveawaysseries.xyz^$all
 ||google-*.bestgadgetoffers.icu^$all
 ||google-*.newgadgetpresents.icu^$all
