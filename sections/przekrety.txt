@@ -7,7 +7,7 @@
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?polska(\d+)?-?poczta\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.\w+-?pocztex(\d+)?\..*/$all
-/^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?poczta(\w+)?\d+\..*/$all
+/^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?e?poczta..*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all
 ||0e0.eu^$all
@@ -1877,3 +1877,18 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
+||appstorepost.com^$all
+||ekopaczka.services^$all
+||facebouk.site^$all
+||kontakt24.xn.pl^$all
+||olx-polska.h2g.pl^$all
+||paribas-online.eu^$all
+||paribas-online-logowanie.eu^$all
+||przewozinik.online^$all
+||raportpobierz.com^$all
+||takaprawda.icu^$all
+||uslugitopgry.5p.pl^$all
+||wawa-info.pl^$all
+||wwa-informacje.co.pl^$all
+||zaglosuj-teraz.eu^$all
+||zmiltraf.website^$all
