@@ -3,11 +3,11 @@
 /^https?:\/\/([\w]{1,4}\.|)(curtainhardsh|consquarters|garternal|greenelephants|headregret|jsdevelopmentq|listentome|rainxpose|tekerstreet)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\..*/$all
-/^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska\..*/$all
+/^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?polska(\d+)?-?poczta\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.\w+-?pocztex(\d+)?\..*/$all
-/^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?e?poczta..*/$all
+/^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?e?poczta.*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)\d+platnosci?\.online/$all
 ||0e0.eu^$all
