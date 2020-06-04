@@ -1,6 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
-||libirtydate*.live^$all
-||mobile-app-market-here*.life^$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(curtainhardsh|consquarters|garternal|greenelephants|headregret|jsdevelopmentq|listentome|rainxpose|tekerstreet)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
@@ -928,6 +926,7 @@
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
 ||lewplnews.yolasite.com^$all
+||libirtydate*.live^$all
 ||lidi.pl^$all
 ||lifanpower.pl^$all
 ||lifehackz.net^$all
@@ -1025,6 +1024,7 @@
 ||mobgames.mobi^$all
 ||mobileaps.co^$all
 ||mobilejmp.com^$all
+||mobile-app-market-here*.life^$all
 ||mobilnarecepta.pl^$all
 ||mobiwin.pl^$all
 ||mobjmp.com^$all
