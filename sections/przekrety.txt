@@ -1,7 +1,7 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 ||inp0st-aplikacja.com^$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
-/^https?:\/\/([\w]{1,4}\.|)(curtainhardsh|consquarters|garternal|greenelephants|headregret|jsdevelopmentq|listentome|rainxpose|tekerstreet)\d+\.live/$all
+/^https?:\/\/([\w]{1,4}\.|)(curtainhardsh|consquarters|garternal|greenelephants|headregret|jsdevelopmentq|lifefordatings|listentome|rainxpose|tekerstreet)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\..*/$all
@@ -1904,3 +1904,11 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
+||dgroetf.com^$all
+||destgrena.at^$all
+||ogglededibl.at^$all
+||login-chat.website^$all
+||nicesliders.top^$all
+||server033687.nazwa.pl^$all
+||temperaturnik.com^$all
+||tempogody.com^$all
