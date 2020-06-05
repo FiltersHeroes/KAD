@@ -1,5 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
-||speed-dates.pl^$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(buntkorper|curtainhardsh|consquarters|contambeat|garternal|greenelephants|headregret|jsdevelopmentq|lifefordatings|listentome|rainxpose|tekerstreet)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
@@ -333,6 +332,7 @@
 ||df9e8783c33d.ngrok.io^$all
 ||dgroetf.com^$all
 ||dhexpres.com^$all
+||dhl24-paczka.com^$all
 ||dhl-paczka.eu^$all
 ||dhl-payment.com^$all
 ||dhl-percel.com^$all
@@ -506,6 +506,7 @@
 ||fakty24-swiat.pl^$all
 ||fakty24-warszawa.com^$all
 ||faktyinews24.eu^$all
+||faktyinews48.eu^$all
 ||faktylive-24.eu^$all
 ||faktymazowsze.eu^$all
 ||faktymazowsze.pl^$all
@@ -1075,6 +1076,7 @@
 ||naleznoscgov.eu^$all
 ||namierz-telefon.pl^$all
 ||nasza-emigracja.pl^$all
+||naszemiasto-info247.x9.eu^$all
 ||naszezycie.com^$all
 ||nasze-miasta24tv.online^$all
 ||nasze-miasto24.x9.eu^$all
@@ -1532,6 +1534,7 @@
 ||specjalniedlaciebie.com^$all
 ||specjalservice.pl^$all
 ||speedfile.info^$all
+||speed-dates.pl^$all
 ||spillerfanside.com^$all
 ||spisek.freehost.pl^$all
 ||spkoszewo.strefa.pl^$all
@@ -1677,6 +1680,7 @@
 ||twojanatura.com^$all
 ||twojapaczka-24.com^$all
 ||twoje50zl.pl^$all
+||twojeinfo-polska24.x9.eu^$all
 ||twoje-seriale.tv^$all
 ||twojhoroskop.com^$all
 ||twojkurier.com^$all
@@ -1913,7 +1917,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
-||dhl24-paczka.com^$all
-||faktyinews48.eu^$all
-||naszemiasto-info247.x9.eu^$all
-||twojeinfo-polska24.x9.eu^$all
