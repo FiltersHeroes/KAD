@@ -11,10 +11,10 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 ##a[href*="./weryfikacja/"]
 ##a[href*="/weryfikacja/"][target="_blank"]
 /pobierz_*.exe$document
+/*-ks.exe$popup,document
 ||a5.cba.pl/js.js$script
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||cloudfront.net/*-AsystentPobierania.exe$document
-/*-ks.exe$popup,document
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
