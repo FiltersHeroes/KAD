@@ -89,11 +89,6 @@
 ||alkadiakurier.org^$all
 ||alkoskurier.com^$all
 ||alldc.pw^$all
-||allegro4.pl^$all
-||allegro5.pl^$all
-||allegro6.pl^$all
-||allegro7.pl^$all
-||allegrofinanse2.pl^$all
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.su^$all
 ||allegrolokalnie.tech^$all
@@ -1964,3 +1959,5 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
+/^https?:\/\/([\w]{1,4}\.|)allegro\d+\.pl/$all
+/^https?:\/\/([\w]{1,4}\.|)allegrofinanse\d+\.pl/$all
