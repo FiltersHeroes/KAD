@@ -1959,5 +1959,4 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
-/^https?:\/\/([\w]{1,4}\.|)allegro\d+\.pl/$all
-/^https?:\/\/([\w]{1,4}\.|)allegrofinanse\d+\.pl/$all
+/^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
