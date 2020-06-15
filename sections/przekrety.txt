@@ -1,6 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
-||spolszczenia-gier.com.pl^$all
-||spolszczenia4you.net^$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|consquarters|contambeat|dsvhcc|garternal|greenelephants|headregret|jsdevelopmentq|lifefordatings|listentome|rainxpose|tekerstreet|testing3srv)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
@@ -93,6 +91,8 @@
 ||alldc.pw^$all
 ||allegro4.pl^$all
 ||allegro5.pl^$all
+||allegro6.pl^$all
+||allegro7.pl^$all
 ||allegrofinanse2.pl^$all
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.su^$all
@@ -1581,6 +1581,8 @@
 ||spisek.freehost.pl^$all
 ||spkoszewo.strefa.pl^$all
 ||splac-dlug.com^$all
+||spolszczenia4you.net^$all
+||spolszczenia-gier.com.pl^$all
 ||sportowy-stream.pl^$all
 ||sportplus.pro^$all
 ||sportwr1.pl^$all
@@ -1962,5 +1964,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document
-||allegro6.pl^$all
-||allegro7.pl^$all
