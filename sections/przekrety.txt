@@ -91,9 +91,9 @@
 ||alkoskurier.com^$all
 ||alldc.pw^$all
 ||allegrolokalnie-pl.*^$all
-||allegrolokalnie.online^$all
-||allegrolokalnie.su^$all
-||allegrolokalnie.tech^$all
+||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl
+
+
 ||allegroplatnosci.pl^$all
 ||allegrosklep.online^$all
 ||allegrowork.site^$all
