@@ -91,7 +91,7 @@
 ||alkoskurier.com^$all
 ||alldc.pw^$all
 ||allegrolokalnie-pl.*^$all
-||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl
+||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl
 
 
 ||allegroplatnosci.pl^$all
@@ -99,7 +99,7 @@
 ||allegrowork.site^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.*.pl^$all,domain=pl|~allegro.pl
-||allegro.su^$all
+||allegro.*^$document,domain=~allegrolokalnie.pl|~allegro.pl
 ||allegro.targi.pl^$all
 ||alleqro1.pl^$all
 ||allmp3.hostil.pl^$all
