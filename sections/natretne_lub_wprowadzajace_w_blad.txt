@@ -8,9 +8,9 @@ filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl
 speedtest.pl#?#.wynik-box > .comp:has(a[href*="przyspiesz.pl/"])
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"]
-/pobierz_*.exe$doc
-/*-AsystentPobierania.exe$doc
-/*-ks.exe$doc,popup
+/pobierz_*.exe$document
+/*-AsystentPobierania.exe$document
+/*-ks.exe$document,popup
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||download.komputerswiat.pl/*-ks.exe$frame
