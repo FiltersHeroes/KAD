@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Wed, 17 Jun 2020, 13:00 UTC+02
-! Version: 2020.6.17.0
+! Last modified: Wed, 17 Jun 2020, 17:01 UTC+02
+! Version: 2020.6.17.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2051,6 +2051,7 @@
 ||sp2mzc.pl^$all
 ||spamiarka.pl^$all
 ||spamtitan.pl^$all
+||spark-agd.pl^$all
 ||spartakiada2014.com.pl^$all
 ||specodstrony.pl^$all
 ||specpaka.pl^$all
@@ -2510,6 +2511,7 @@
 ||zedgalaxyplays.com^$all
 ||zegarki.sklep24.org^$all
 ||zelazkowkuchni.pl^$all
+||zenicla.com^$all
 ||zennoa-poland.com^$all
 ||zennoa.com^$all
 ||zespolcwiklice.pl^$all
@@ -2598,6 +2600,7 @@
 ||fbdowner.com^$all
 ||feernews.biz^$all
 ||filmowo.co^$all
+||findprofile.net.pl^$all
 ||firecpa.com^$all
 ||flixsport.co^$all
 ||fomaska.com^$all
@@ -2900,6 +2903,7 @@
 ||alkoskurier.com^$all
 ||alldc.pw^$all
 ||allegrolokalnie-pl.*^$all
+||allegrolokalnie.online^$all
 ||allegrolokalnie.su^$all
 ||allegrolokalnie.tech^$all
 ||allegroplatnosci.pl^$all
@@ -2909,6 +2913,7 @@
 ||allegro.pl.*.pl^$all,domain=pl|~allegro.pl
 ||allegro.su^$all
 ||allegro.targi.pl^$all
+||alleqro1.pl^$all
 ||allmp3.hostil.pl^$all
 ||allmusic.c0.pl^$all
 ||allonline.pl^$all
@@ -3118,6 +3123,8 @@
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
 ||cristal2017.argo.host^$all
+||csgomvpseries.com^$all
+||csz1-amzzzsrvceupdayters.com^$all
 ||cs-czosnusie.cba.pl^$all
 ||cs.nailrr.com^$all
 ||cuosdemakadi.gq^$all
@@ -3414,6 +3421,7 @@
 ||finansoweswiry.pl^$all
 ||findfiooos.xyz^$all
 ||findmyiphone-id.pw^$all
+||findwfriends.net.ht^$all
 ||find-best-profits.com^$all
 ||firecash.org^$all
 ||firma-tuningowa.lublin.click^$all
@@ -3616,6 +3624,7 @@
 ||inpost24.services^$all
 ||inpostdoplata.net^$all
 ||inpostodkaz.net^$all
+||inpost-paczka.services^$all
 ||insanepays.com^$all
 ||install.pdfconverterhd.com^$all
 ||instragramweb.com^$all
@@ -3895,6 +3904,7 @@
 ||mpestudios.pt^$all
 ||msphackonline.com^$all
 ||msp-hack.com^$all
+||ms-mbank.onfly.pl^$all
 ||mtsas.freehost.pl^$all
 ||mukunth.com^$all
 ||multico.5v.pl^$all
@@ -4929,15 +4939,13 @@ filme.pl#?#.float-xl-right.col-lg-4 > div.mb-3.card:nth-of-type(2):has(a[href*="
 filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl/"])
 speedtest.pl#?#.wynik-box > .comp:has(a[href*="przyspiesz.pl/"])
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
-##a[href*="weryfikacja/index"]
-##a[href*="./weryfikacja/"]
-##a[href*="/weryfikacja/"][target="_blank"]
-/pobierz_*.exe$document
-/*-ks.exe$popup,document
-||a5.cba.pl/js.js$script
+##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"]
+/pobierz_*.exe$doc
+/*-AsystentPobierania.exe$doc
+/*-ks.exe$doc,popup
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
-||cloudfront.net/*-AsystentPobierania.exe$document
+||download.komputerswiat.pl/*-ks.exe$frame
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
 !
