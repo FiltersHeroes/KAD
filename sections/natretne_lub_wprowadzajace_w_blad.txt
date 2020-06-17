@@ -7,14 +7,15 @@ filme.pl#?#.float-xl-right.col-lg-4 > div.mb-3.card:nth-of-type(2):has(a[href*="
 filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl/"])
 speedtest.pl#?#.wynik-box > .comp:has(a[href*="przyspiesz.pl/"])
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
-##a[href*="weryfikacja/index"]
-##a[href*="./weryfikacja/"]
-##a[href*="/weryfikacja/"][target="_blank"]
-/pobierz_*.exe$document
-/*-ks.exe$popup,document
-||a5.cba.pl/js.js$script
+##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"]
+
+
+/*-ks.exe$doc,popup
+
+||download.komputerswiat.pl/*-ks.exe$frame
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
-||cloudfront.net/*-AsystentPobierania.exe$document
+/*-AsystentPobierania.exe$doc
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
+/pobierz_*.exe$doc
