@@ -1863,7 +1863,7 @@
 ||wosp.online^$all
 ||wplogin.5v.pl^$all
 ||wp-regulamin.com^$all
-||wp.*.top^$document
+||wp.*.top^$document,domain=top
 ||wroclawnafotografii.pl^$all
 ||wrozbyonline.net^$all
 ||wsparciejezykowe.eu^$all
@@ -1984,4 +1984,4 @@
 ||*poszukiwanialaury.*^$all
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
-||*-*.r*.cf*.rackcdn.com^$document
+||*-*.r*.cf*.rackcdn.com^$document,domain=com
