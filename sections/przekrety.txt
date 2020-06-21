@@ -1,16 +1,4 @@
-||adastra2019onlinezalukajfilm.wordpress.com^$all
-||filmy-seriale.pl^$all
-||filmy-zalukaj.pl^$all
-||filmycdaonline.wordpress.com^$all
-||luknijfilm.pl^$all
-||nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com^$all
-||tuobejrzysz.pl^$all
-
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
-||top-daily-profit.com^$all
-||3fazowa-ostrzalka-do-nozy-pl.com^$all
-||3filmy.com^$all
-||cmentosrl.com^$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|consquarters|contambeat|dsvhcc|garternal|greenelephants|headregret|jsdevelopmentq|lifefordatings|listentome|rainxpose|tekerstreet|testing3srv)\d+\.live/$all
@@ -35,6 +23,8 @@
 ||2i4.eu^$all
 ||2i4.pl^$all
 ||2remove.guide^$all
+||3fazowa-ostrzalka-do-nozy-pl.com^$all
+||3filmy.com^$all
 ||4afe8b11a52839751.temporary.link^$all
 ||4kplayer.pl^$all
 ||4kstream.pl^$all
@@ -69,6 +59,7 @@
 ||adamjarekelk.freehost.pl^$all
 ||adampaczka.com^$all
 ||adasiapaczka.org^$all
+||adastra2019onlinezalukajfilm.wordpress.com^$all
 ||adestudio.w8w.pl^$all
 ||adidas-collection.club^$all
 ||adkokurier.org^$all
@@ -306,6 +297,7 @@
 ||cloud-ideabank.at^$all
 ||cloud-sso-idea.pl^$all
 ||clubedoestudante.net.br^$all
+||cmentosrl.com^$all
 ||coast-bank.com^$all
 ||codenpic.com^$all
 ||codzienniekazdycos.club^$all
@@ -336,7 +328,6 @@
 ||czemarserwis.home.pl^$all
 ||czerwinski.ciesielstwo.cba.pl^$all
 ||c.pl^$document,domain=~www.c.pl
-||x9.eu^$document,domain=~www.x9.eu
 ||dachbud.slask.pl^$all
 ||danangluxury.com^$all
 ||darky.cba.pl^$all
@@ -425,14 +416,12 @@
 ||dworzec-uprowadzenie24.eu^$all
 ||dzieckoalert.*^$all
 ||dziennewiadomosci24.pl^$all
-
 ||dzienniknews.com.pl^$all
 ||dzienniknews.pl^$all
 ||dziennikpolski24.work^$all
 ||dziennikprasowy.eu^$all
 ||dziennikuprowadzono.online^$all
 ||dziennikuprowadzono.pl^$all
-
 ||dziennik.warszawa.pl^$all
 ||earnyourcash.net^$all
 ||easydownload.pl^$all
@@ -497,6 +486,7 @@
 ||express-pocztex.com^$all
 ||ex-torrentycom.5v.pl^$all
 ||eyupp.com^$all
+||ezalukaj*.*^$document
 ||ezoliniawrozby.com^$all
 ||e-childalert.*^$all
 ||e-dpd.pl^$all
@@ -559,8 +549,6 @@
 ||faktyzaginiecie24.*^$all
 ||faktyzwawy.pl^$all
 ||fakty-info24.pl^$all
-
-
 ||fakty-news48.eu^$all
 ||fakty-news72.eu^$all
 ||fakty-onet48.*^$all
@@ -612,10 +600,13 @@
 ||filmu.pl^$all
 ||filmvod.pl^$all
 ||filmy4u.pl^$all
+||filmycdaonline.wordpress.com^$all
 ||filmyonline.com.pl^$all
 ||filmyseriale.pl^$all
 ||filmy-i-seriale.pl^$all
+||filmy-seriale.pl^$all
 ||filmy-tv.pl^$all
+||filmy-zalukaj.pl^$all
 ||film-base.pl^$all
 ||film-box.pl^$all
 ||film-milosc.pl^$all
@@ -1029,6 +1020,7 @@
 ||luczko.pl^$all
 ||lukaszuk.com.pl^$all
 ||lukaszurbanczyk.pl^$all
+||luknijfilm.pl^$all
 ||lutz-blades.pl^$all
 ||luxkur.online^$all
 ||lvgrowmarkets.com^$all
@@ -1128,13 +1120,10 @@
 ||najlepszewrozby.pl^$all
 ||naleznoscgov.eu^$all
 ||namierz-telefon.pl^$all
+||nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com^$all
 ||nasza-emigracja.pl^$all
-
-
 ||naszezycie.com^$all
-
 ||nasze-miasta24tv.online^$all
-
 ||nataliakurier.com^$all
 ||nataliaporwana.biz^$all
 ||naturalnazywnosc.pl^$all
@@ -1390,7 +1379,6 @@
 ||polskieinformacje24.eu^$all
 ||polskiemedia.online^$all
 ||polskiemedia.xyz^$all
-
 ||polskie-newsy.com.pl^$all
 ||polski-poranek-pl.com^$all
 ||polski-poranek.pl^$all
@@ -1727,6 +1715,7 @@
 ||topgryusluga.5p.pl^$all
 ||toprostezarub.xaa.pl^$all
 ||toptarotist.nl^$all
+||top-daily-profit.com^$all
 ||torrento.pl^$all
 ||torrenty-org.pl^$all
 ||torrenty--org.pl^$all
@@ -1742,6 +1731,7 @@
 ||tuesyuioodpps.xyz^$all
 ||tunehub247shop.com^$all
 ||tunga.homedns.org^$all
+||tuobejrzysz.pl^$all
 ||turystyka.cal.pl^$all
 ||tvjovem.net^$all
 ||tvkody.com^$all
@@ -1756,8 +1746,6 @@
 ||twojanagroda.co.pl^$all
 ||twojanatura.com^$all
 ||twojapaczka-24.com^$all
-
-
 ||twoje-seriale.tv^$all
 ||twojhoroskop.com^$all
 ||twojkurier.com^$all
@@ -1900,6 +1888,7 @@
 ||wys24h.eu^$all
 ||wysylka24.online^$all
 ||wysylki.net^$all
+||x9.eu^$document,domain=~www.x9.eu
 ||xawqerklewq.myartsonline.com^$all
 ||xn*gwatpolska24*.*^$all
 ||xn--efaktygwat-i0b.pl^$all
@@ -1935,7 +1924,6 @@
 ||zakupy-domowe.glosowanie-konkurs.eu^$all
 ||zalbani.is-best.net^$all
 ||zalukaj*.*^$document,domain=~zalukaj.com
-||ezalukaj*.*^$document
 ||zaluknij.pl^$all
 ||zaluknij.xyz^$all
 ||zapisy.fractaltrader.pl^$all
