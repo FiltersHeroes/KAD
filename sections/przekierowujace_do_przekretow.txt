@@ -1,7 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document,domain=info
 ||0n.click^$all
 ||185.34.52.4^$all
-||coma.com.pl/userfiles/*.xml$document
 ||abrakasba.space^$all
 ||actraffic.com^$all
 ||adaranth.com^$all
@@ -30,6 +29,7 @@
 ||clickjump.biz^$all
 ||clickpush.biz^$all
 ||clic-douaisis.fr^$all
+||coma.com.pl/userfiles/*.xml$document
 ||commanods.xyz^$all
 ||ct-redirect.com^$all
 ||d8x.pl^$all
