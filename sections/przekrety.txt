@@ -4,6 +4,7 @@
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|dsvhcc|garternal|greenelephants|headregret|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|tekerstreet|testing3srv|vernistrail)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\..*/$all
+||http://pracuj-w-domu.co.pl^$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?polska(\d+)?-?poczta\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\..*/$all
@@ -97,7 +98,7 @@
 ||allegor.xyz^$all
 ||allegr0.net^$all
 ||allegroapk.net^$all
-||allegrolokalne.su^$all
+||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl
 ||allegrosklep.online^$all
