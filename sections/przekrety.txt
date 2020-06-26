@@ -4,7 +4,6 @@
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|dsvhcc|garternal|greenelephants|headregret|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|tekerstreet|testing3srv|vernistrail)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\..*/$all
-||pracuj-w-domu.co.pl^$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?polska(\d+)?-?poczta\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\..*/$all
@@ -966,6 +965,7 @@
 ||koronawirusnews.com.pl^$all
 ||koronawirusnews.net.pl^$all
 ||korzystna.org^$all
+||kosmetyczne-wow.co.pl^$all
 ||kproject.pl^$all
 ||kreacjonizm.cba.pl^$all
 ||kredyt24.biz^$all
@@ -1168,6 +1168,7 @@
 ||nautili.us^$all
 ||nav1002.ath.cx^$all
 ||navi-esport.com^$all
+||navi-gt.com^$all
 ||navi-tm.com^$all
 ||nazywo.h2g.pl^$all
 ||needforfile.net^$all
@@ -1327,6 +1328,7 @@
 ||paribas-online.at^$all
 ||paribas-online.eu^$all
 ||paribas-online.xyz^$all
+||partsurmissdick.gq^$all
 ||patrickglobalusa.com^$all
 ||patrzonline.pl^$all
 ||pay2me.pl^$all
@@ -1454,6 +1456,7 @@
 ||po.fyybox.com^$all
 ||ppl-puls.gloryft.com^$all
 ||pracaonline.co.pl^$all
+||pracuj-w-domu.co.pl^$all
 ||praize19791.duckdns.org^$all
 ||pramodkumarsingh.000webhostapp.com^$all
 ||pranksduck.xyz^$all
@@ -1594,12 +1597,12 @@
 ||serialowo.pl^$all
 ||serial.vod.co.pl^$all
 ||server033687.nazwa.pl^$all
+||server144191.nazwa.pl^$all
 ||server206282.nazwa.pl^$all
 ||server304082.nazwa.pl^$all
 ||server917010.nazwa.pl^$all
 ||server939608.nazwa.pl^$all
 ||server991318.nazwa.pl^$all
-||server144191.nazwa.pl^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
 ||servicecheck5.wixsite.com^$all
@@ -2053,6 +2056,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=com
-||kosmetyczne-wow.co.pl^$all
-||navi-gt.com^$all
-||partsurmissdick.gq^$all
