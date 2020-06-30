@@ -1,11 +1,3 @@
-||piastpatrol.pl^$all
-||somelandingpage.com^$all
-||getmyconfigplease.com^$all
-||getmyfreetraffic.com^$all
-||setforconfigplease.com^$all
-||strangefullthiggngs.com^$all
-||redrentalservice.com^$all
-
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
@@ -736,6 +728,8 @@
 ||getinbank-secure.at^$all
 ||getin-secure-bank.xyz^$all
 ||getin-secure.com.pl^$all
+||getmyconfigplease.com^$all
+||getmyfreetraffic.com^$all
 ||ghastlyf.xyz^$all
 ||gift19.club^$all
 ||gigup.net^$all
@@ -863,10 +857,12 @@
 ||inpostdoplata.net^$all
 ||inpostodkaz.net^$all
 ||inpost-paczka.services^$all
+||inpost.club^$all
 ||inpost.help^$all
 ||inpost.link^$all
 ||inpost.live^$all
 ||inpost.ltd^$all
+||inpost.tech^$all
 ||inpost.us^$all
 ||insanepays.com^$all
 ||install.pdfconverterhd.com^$all
@@ -900,6 +896,7 @@
 ||istrefa.net^$all
 ||itdept.moonfruit.com^$all
 ||itelefon.org^$all
+||items-auction.pl^$all
 ||itorrenty.org^$all
 ||iurzad.net^$all
 ||i-chomik.pl^$all
@@ -1008,6 +1005,7 @@
 ||kurierlotek.org^$all
 ||kurierr.eu^$all
 ||kurierstas.info^$all
+||kurier-dhl.pl^$all
 ||kurier-dhl.services^$all
 ||kurier-platnosci.services^$all
 ||kurier-pocztex24.com^$all
@@ -1041,6 +1039,7 @@
 ||lnfo.web-chat.eu^$all
 ||lnpostdezynfekcje.net^$all
 ||lnpost-apps.com^$all
+||lnpost.cc^$all
 ||localinformation.site^$all
 ||localnewshere.site^$all
 ||locked3.com^$all
@@ -1252,6 +1251,7 @@
 ||ogloszenie-nagrod.eu^$all
 ||ogloszenie.best^$all
 ||ogloszenie.space^$all
+||ogrodek.biz^$all
 ||ogrodek.top^$all
 ||ogrodexmilicz.pl^$all
 ||okom.wroc.pl^$all
@@ -1374,6 +1374,7 @@
 ||pge-bok.pl^$all
 ||phikunprogramming.com^$all
 ||phonenewmessage.com^$all
+||piastpatrol.pl^$all
 ||pininfarina.dynalias.com^$all
 ||pinkstar.pl^$all
 ||pinmova.xyz^$all
@@ -1395,6 +1396,7 @@
 ||playnow24.pl^$all
 ||playnowunlimited.biz^$all
 ||playproz.com^$all
+||playsklep.net^$all
 ||plengistat.info^$all
 ||pletomak.mypi.co^$all
 ||plikownik2015.wordpress.com^$all
@@ -1405,6 +1407,7 @@
 ||plpocztex.net^$all
 ||plpocztex.org^$all
 ||plytanagrillapl.com^$all
+||pl-fb.business^$all
 ||pl-fb.com^$all
 ||pl-nadaj.online^$all
 ||pl-pl-fb.com^$all
@@ -1551,6 +1554,7 @@
 ||reaktywacja.pawlov.cba.pl^$all
 ||realinvestment.pl^$all
 ||realnyzarobek.pl^$all
+||redrentalservice.com^$all
 ||refferalstaff.com^$all
 ||region-24wydarzenia.pl^$all
 ||regulaminallegro.pl^$all
@@ -1622,6 +1626,7 @@
 ||server144191.nazwa.pl^$all
 ||server206282.nazwa.pl^$all
 ||server304082.nazwa.pl^$all
+||server428873.nazwa.pl^$all
 ||server584025.nazwa.pl^$all
 ||server740872.nazwa.pl^$all
 ||server917010.nazwa.pl^$all
@@ -1633,6 +1638,7 @@
 ||service-pay.company^$all
 ||serwer2085989.home.pl^$all
 ||serwer*.home.pl/weryfikacja/$all
+||setforconfigplease.com^$all
 ||setup-firefox.host^$all
 ||sexmonitor.net^$all
 ||sexmonitor.top^$all
@@ -1675,6 +1681,7 @@
 ||softmania.pl^$all
 ||softsmart.mobi^$all
 ||sokratesolkusz.pl^$all
+||somelandingpage.com^$all
 ||soo.sg^$all
 ||sopot-fakt24.pl^$all
 ||spacexvisitorcenter.xyz^$all
@@ -1727,6 +1734,7 @@
 ||stolica-fakty.com^$all
 ||stolica-info.pl^$all
 ||stomatologia-w.lublin.lu^$all
+||strangefullthiggngs.com^$all
 ||streamgo.pl^$all
 ||strefakina.pl^$all
 ||strony-fotograficzne.eu^$all
@@ -1750,6 +1758,7 @@
 ||systemchlodzeniamglapl.com^$all
 ||systemrma.pl^$all
 ||system-team-online.site^$all
+||szaszlyk.biz^$all
 ||szkolenie.m.poznan.pm^$all
 ||szlonepromocje.com^$all
 ||szmoldparts.com^$all
@@ -2082,13 +2091,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=com
-||inpost.club^$all
-||inpost.tech^$all
-||items-auction.pl^$all
-||kurier-dhl.pl^$all
-||lnpost.cc^$all
-||ogrodek.biz^$all
-||playsklep.net^$all
-||pl-fb.business^$all
-||server428873.nazwa.pl^$all
-||szaszlyk.biz^$all
