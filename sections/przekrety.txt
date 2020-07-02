@@ -1,7 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
-||food-voucher.com^$all
-||eatandeasy.pl^$all
-||fitnesstips.pl^$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|dsvhcc|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|tekerstreet|testing3srv|vernistrail)\d+\.live/$all
@@ -448,6 +445,7 @@
 ||easydownload.pl^$all
 ||easypdfcombine.com^$all
 ||easy-service.org^$all
+||eatandeasy.pl^$all
 ||ebd-cda.pl^$all
 ||ebok-poczta.pl^$all
 ||ebookeo.pl^$all
@@ -653,6 +651,7 @@
 ||firecash.org^$all
 ||firma-tuningowa.lublin.click^$all
 ||fitchciapara.com^$all
+||fitnesstips.pl^$all
 ||fixfuturetype-restclicks.icu^$all
 ||flashplayerload.com^$all
 ||fliteilex.com^$all
@@ -660,6 +659,7 @@
 ||flyingintheclouds19.live^$all
 ||followergods.com^$all
 ||food-eng.online^$all
+||food-voucher.com^$all
 ||fooledbeer.xyz^$all
 ||footoografie-pobieralnia.eu^$all
 ||forfollow.net^$all
@@ -760,6 +760,7 @@
 ||gneoste.mypi.co^$all
 ||gnreg.com^$all
 ||goadvert.pk^$all
+||goallineembroidery.com^$all
 ||gogameportal.com^$all
 ||goldcarf.com^$all
 ||goleta105.com^$all
@@ -2110,4 +2111,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=com
-||goallineembroidery.com^$all

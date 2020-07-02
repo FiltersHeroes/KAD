@@ -10,6 +10,9 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"]
 ##a[href^="sms:"][href*="?body="]
 /pobierz_*.exe$document
+/wp-includes/*/laststep.html$document
+/wp-includes/*/tracking-load.html?ssl=$document
+/wp-includes/*/tracking.php$document
 /*-AsystentPobierania.exe$document
 /*-ks.exe$document,popup
 /*-ks.exe$frame,domain=download.komputerswiat.pl,third-party
@@ -17,6 +20,3 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
-/wp-includes/*/tracking.php$document
-/wp-includes/*/laststep.html$document
-/wp-includes/*/tracking-load.html?ssl=$document
