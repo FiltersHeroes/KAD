@@ -1,5 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
-||mackeeperaffiliates.com^$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|tekerstreet|testing3srv|vernistrail)\d+\.live/$all
@@ -403,6 +402,7 @@
 ||dostawa-dhl.net^$all
 ||dostawa-dhl.pl^$all
 ||dostawy24.com^$all
+||dostawy-dhl.com^$all
 ||doswedh.com^$all
 ||dotabet100.com^$all
 ||dotabet103.com^$all
@@ -496,6 +496,7 @@
 ||euroausili.it^$all
 ||eurocarsped.com^$all
 ||evaave12.nazwa.pl^$all
+||evekurier.org^$all
 ||evionelang*.live^$all
 ||ewciakurier.com^$all
 ||ewills.access.ly^$all
@@ -1096,6 +1097,7 @@
 ||maccleaner.space^$all
 ||maceju.com^$all
 ||maciekkurier.info^$all
+||mackeeperaffiliates.com^$all
 ||mackeeperapp.mackeeper.com^$all
 ||madmulla.duckdns.org^$all
 ||magadownloader.com^$all
@@ -1346,6 +1348,7 @@
 ||paczka-doplata.net^$all
 ||paczka-gls.com^$all
 ||paczka-inpost.com^$all
+||paczkedhl.com^$all
 ||paczkikk.com^$all
 ||paczkomaty-pl.tk^$all
 ||pafiilate.byethost32.com^$all
@@ -1469,6 +1472,7 @@
 ||polskapaczka24.net^$all
 ||polskaporwania.*^$all
 ||polska-gazeta-dnia.pl^$all
+||polska-nasze-info24.x9.eu^$all
 ||polska-poszukiwania.eu^$all
 ||polskidziennik.pl^$all
 ||polskieinformacje24.eu^$all
@@ -1959,6 +1963,7 @@
 ||wiadomosci-onet24.ml^$all
 ||wiadomosci-onet24.tk^$all
 ||wiadomosci-region24.pl^$all
+||wiadomosci.you2.pl^$all
 ||wiadomosc-24.eu^$all
 ||wiadomosc-24.online^$all
 ||wiadomotv24.info^$all
@@ -2112,8 +2117,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=com
-||dostawy-dhl.com^$all
-||evekurier.org^$all
-||paczkedhl.com^$all
-||polska-nasze-info24.x9.eu^$all
-||wiadomosci.you2.pl^$all
