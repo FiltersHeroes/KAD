@@ -1,8 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
-||1btcnews.buzz^$all
-||pl.bitcoinup-app.co^$all
-||abc.amaretto.xja.pl^$all
-||bitcointime.biz^$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|tekerstreet|testing3srv|vernistrail)\d+\.live/$all
@@ -22,6 +18,7 @@
 ||0xi.eu^$all
 ||0xi.pl^$all
 ||00x.eu^$all
+||1btcnews.buzz^$all
 ||1k-daily-profitz.com^$all
 ||2i4.com.pl^$all
 ||2i4.eu^$all
@@ -53,6 +50,7 @@
 ||a2btrans.pl^$all
 ||a2plvcpnl308307.prod.iad2.secureserver.net^$all
 ||abbp35.com^$all
+||abc.amaretto.xja.pl^$all
 ||abikurier.com^$all
 ||abonament-oplac.com^$all
 ||about-preferences.host^$all
@@ -203,6 +201,7 @@
 ||bitcoineraprounitedkingdomreview.com^$all
 ||bitcoinera-appl.com^$all
 ||bitcoins-profit.com^$all
+||bitcointime.biz^$all
 ||bitcointodaynews.me^$all
 ||bitcoin-trader-app.com^$all
 ||biyunhui.com^$all
@@ -891,6 +890,7 @@
 ||ipodatek.net^$all
 ||iporwaniedziecka24.*^$all
 ||iposzukiwananatalka.*^$all
+||ippko.fun^$all
 ||ippko.site^$all
 ||ippko.website^$all
 ||iptivicini.com^$all
@@ -1270,6 +1270,7 @@
 ||onclickbright.com^$all
 ||onet24pl.pvi.pl^$all
 ||onet24-polska.space^$all
+||onet24.stronazen.pl^$all
 ||onetmailsupportsystemnetworks.tk^$all
 ||onetpomaga24.eu^$all
 ||onetporwanie.*^$all
@@ -1418,6 +1419,7 @@
 ||pl-pl-fb.com^$all
 ||pl-wyslij.best^$all
 ||pl.allsports4free.club^$all
+||pl.bitcoinup-app.co^$all
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
 ||pl.team^$all
@@ -2082,5 +2084,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=rackcdn.com
-||ippko.fun^$all
-||onet24.stronazen.pl^$all
