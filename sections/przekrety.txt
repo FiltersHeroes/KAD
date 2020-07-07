@@ -1,22 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
-||paczpocztex.*^$all
-||vod-box.pl^$all
-||multifilmy.pl^$all
-||vodkino.pl^$all
-||cda-zalukaj.pl^$all
-||mowmihache.pl^$all
-||play-vod.pl^$all
-||123movies.my.id^$all
-||ekino-tv.com.pl^$all
-||filis.pl^$all
-||mojseans.pl^$all
-||streamfilme.xyz^$all
-||cinema4k.net^$all
-||country.moppie91.com^$all
-||cdaflix.eu^$all
-||onlineogladaj.pl^$all
-||filmy3.pl^$all
-||filmhit.pl^$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|tekerstreet|testing3srv|vernistrail)\d+\.live/$all
@@ -61,6 +43,7 @@
 ||50kaweek.live^$all
 ||50kzl.pl^$all
 ||100sport.tv^$all
+||123movies.my.id^$all
 ||7228.eu^$all
 ||50000zl.site^$all
 ||59055.cn^$all
@@ -83,6 +66,7 @@
 ||adkokurier.org^$all
 ||admwarszawa.pl^$all
 ||adobe.5v.pl^$all
+||ads-fb.co^$all
 ||agikurier.org^$all
 ||agipasesores.com^$all
 ||agricoletrade.com^$all
@@ -147,6 +131,7 @@
 ||antkurier.com^$all
 ||antonresidential.com^$all
 ||anuskurier.org^$all
+||anyonecanhelp.club^$all
 ||apartahotelfamilyhouse.com^$all
 ||apekola.tcp4.me^$all
 ||aplikacja-lnpost.com^$all
@@ -271,6 +256,7 @@
 ||cbdnewsdirect.com^$all
 ||cda24.net^$all
 ||cda360.pl^$all
+||cdaflix.eu^$all
 ||cdaflix.pl^$all
 ||cdatube.pl^$all
 ||cda-cda.prv.pl^$all
@@ -280,6 +266,7 @@
 ||cda-tube.pl^$all
 ||cda-tv.online^$document,domain=cda-tv.online|~uwaga-natretne-reklamy
 ||cda-vod.pl^$all
+||cda-zalukaj.pl^$all
 ||cdgame.kgb.pl^$all
 ||cdsp.pl^$all
 ||cengizguler.com.tr^$all
@@ -312,6 +299,7 @@
 ||ciekawewydarzenia.online^$all
 ||cieslakwz.cba.pl^$all
 ||ciezkieczasy.is-best.net^$all
+||cinema4k.net^$all
 ||cinemaplanet.pl^$all
 ||cinematicfanatic.com^$all
 ||circultural.com^$all
@@ -335,6 +323,7 @@
 ||coronadisco.co.uk^$all
 ||coronavirustestkit.co.za^$all
 ||counterpointmagazine.org^$all
+||country.moppie91.com^$all
 ||covergt.com^$all
 ||cpagrip.com^$all
 ||creazionesitointernet.xyz^$all
@@ -474,6 +463,7 @@
 ||egda.pl^$all
 ||einfo24.net^$all
 ||ek0.pl^$all
+||ekino-tv.com.pl^$all
 ||ekino.com.pl^$all
 ||ekofil.pl^$all
 ||ekonkarserai.com^$all
@@ -509,6 +499,7 @@
 ||eurocarsped.com^$all
 ||evaave12.nazwa.pl^$all
 ||evekurier.org^$all
+||every-onebritish.club^$all
 ||evionelang*.live^$all
 ||ewciakurier.com^$all
 ||ewills.access.ly^$all
@@ -627,9 +618,11 @@
 ||file-share.pl^$all
 ||filiser.com.pl^$all
 ||filiser.online^$all
+||filis.pl^$all
 ||fili.com.pl^$all
 ||fili.tube^$all
 ||filmanteria.pl^$all
+||filmhit.pl^$all
 ||filmline.pl^$all
 ||filmobox.pl^$all
 ||filmofon.pl^$all
@@ -643,6 +636,7 @@
 ||films.com.pl^$all
 ||filmu.pl^$all
 ||filmvod.pl^$all
+||filmy3.pl^$all
 ||filmy4u.pl^$all
 ||filmycdaonline.wordpress.com^$all
 ||filmyonline.com.pl^$all
@@ -1169,6 +1163,7 @@
 ||mojechwile.pl^$all
 ||mojekobe.is-best.net^$all
 ||mojeweselicho.za.pl^$all
+||mojseans.pl^$all
 ||momoxxio.com^$all
 ||moneywp.website^$all
 ||moneywp.xyz^$all
@@ -1182,12 +1177,14 @@
 ||movienet.pl^$all
 ||moviestarplanethackers.co^$all
 ||movipax.com^$all
+||mowmihache.pl^$all
 ||mpestudios.pt^$all
 ||msphackonline.com^$all
 ||msp-hack.com^$all
 ||mtsas.freehost.pl^$all
 ||mukunth.com^$all
 ||multico.5v.pl^$all
+||multifilmy.pl^$all
 ||music611.com^$all
 ||mutlukadinlarakademisi.com^$all
 ||mydnssbox.gleeze.com^$all
@@ -1301,6 +1298,7 @@
 ||onliine.pl^$all
 ||onlinehd.pl^$all
 ||onlinekino.pl^$all
+||onlineogladaj.pl^$all
 ||onlinereward.site^$all
 ||onlinesweepstakes.blue^$all
 ||onlinevod.pl^$all
@@ -1354,6 +1352,7 @@
 ||paczka-48.com^$all
 ||paczka-dhl.com^$all
 ||paczka-doplata.net^$all
+||paczka-dpd.pl^$all
 ||paczka-gls.com^$all
 ||paczka-inpost.com^$all
 ||paczkedhl.com^$all
@@ -1422,6 +1421,7 @@
 ||playproz.com^$all
 ||playsklep24.com^$all
 ||playsklep.net^$all
+||play-vod.pl^$all
 ||plengistat.info^$all
 ||pletomak.mypi.co^$all
 ||plikgier.5p.pl^$all
@@ -1746,6 +1746,7 @@
 ||stolica-info.pl^$all
 ||stomatologia-w.lublin.lu^$all
 ||strangefullthiggngs.com^$all
+||streamfilme.xyz^$all
 ||streamgo.pl^$all
 ||strefakina.pl^$all
 ||strony-fotograficzne.eu^$all
@@ -1866,6 +1867,7 @@
 ||twoj-kurier.com^$all
 ||twoj-kurier.services^$all
 ||twoj-sennik.pl^$all
+||typowanie-glosuj.eu^$all
 ||typuj-wyniki.eu^$all
 ||tzr.grejt.pl^$all
 ||u192389.stronazen.pl^$all
@@ -1911,7 +1913,9 @@
 ||vod24.pl^$all
 ||vodfilmy.pl^$all
 ||vodflix.pl^$all
+||vodkino.pl^$all
 ||vodstrefa.pl^$all
+||vod-box.pl^$all
 ||vod-play.pl^$all
 ||vod.co.pl^$all
 ||vtopiuops.info^$all
@@ -2104,8 +2108,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=rackcdn.com
-||ads-fb.co^$all
-||anyonecanhelp.club^$all
-||every-onebritish.club^$all
-||paczka-dpd.pl^$all
-||typowanie-glosuj.eu^$all
