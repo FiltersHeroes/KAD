@@ -1,6 +1,3 @@
-||btc-era.com^$all
-||westkyvo.com^$all
-||exclusiveinsiders.com^$all
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
@@ -251,6 +248,7 @@
 ||browsefeatureaasn31254.buzz^$all
 ||btcprofitnow.club^$all
 ||btcprofitnow.website^$all
+||btc-era.com^$all
 ||btc-evo.com^$all
 ||btc-outlet.com^$all
 ||bulbulstore.com^$all
@@ -521,6 +519,7 @@
 ||evionelang*.live^$all
 ||ewciakurier.com^$all
 ||ewills.access.ly^$all
+||exclusiveinsiders.com^$all
 ||exeos.ws^$all
 ||exportwroclaw.cba.pl^$all
 ||express-dhl.com^$all
@@ -537,6 +536,7 @@
 ||e-filmy24.pl^$all
 ||e-koronawirusnews.pl^$all
 ||e-kurier24.net^$all
+||e-onetfakty24.eu^$all
 ||e-osobyzagionione.pl^$all
 ||e-paczka24.net^$all
 ||e-payu.online^$all
@@ -1395,6 +1395,7 @@
 ||paczkedhl.com^$all
 ||paczkgls.com^$all
 ||paczkikk.com^$all
+||paczkitnt.com^$all
 ||paczkomaty-pl.tk^$all
 ||paczpocztex.*^$all
 ||pafiilate.byethost32.com^$all
@@ -1999,6 +2000,7 @@
 ||weryfikacjadanych.tk^$all
 ||weryfikacja-kosmetyczki.biz^$all
 ||weryfikacja-weryfikacja.pl^$all
+||westkyvo.com^$all
 ||wezwanieus.com^$all
 ||whenbuyyousale.co^$all
 ||whiskytawn.xyz^$all
@@ -2166,5 +2168,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=rackcdn.com
-||e-onetfakty24.eu^$all
-||paczkitnt.com^$all
