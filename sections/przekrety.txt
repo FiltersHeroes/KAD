@@ -1,4 +1,3 @@
-||polskapolicja24.pl.*.*.cz^$all,domain=cz
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
@@ -910,6 +909,7 @@
 ||inpostapp.net^$all
 ||inpostdoplata.net^$all
 ||inpostodkaz.net^$all
+||inpost-app.me^$all
 ||inpost-paczka.services^$all
 ||inpost.club^$all
 ||inpost.help^$all
@@ -1145,6 +1145,7 @@
 ||magnumbd.com^$all
 ||maiamirainy.at^$all
 ||makanaliabadian.ir^$all
+||malinkakurier.org^$all
 ||mantoropols.xyz^$all
 ||manufaktura.y0.pl^$all
 ||marcofama.it^$all
@@ -1517,7 +1518,7 @@
 ||policy-secure-account.com^$all
 ||polishwebmailadmin.weebly.com^$all
 ||polskapaczka24.net^$all
-
+||polskapolicja24.pl.*.*.cz^$all,domain=cz
 ||polskaporwania.*^$all
 ||polskawiad.top^$all
 ||polska-gazeta-dnia.pl^$all
@@ -2010,6 +2011,7 @@
 ||weryfikacjadanych.ml^$all
 ||weryfikacjadanych.tk^$all
 ||weryfikacja-kosmetyczki.biz^$all
+||weryfikacja-kosmetyczki.com^$all
 ||weryfikacja-weryfikacja.pl^$all
 ||westkyvo.com^$all
 ||wezwanieus.com^$all
@@ -2179,6 +2181,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=rackcdn.com
-||inpost-app.me^$all
-||malinkakurier.org^$all
-||weryfikacja-kosmetyczki.com^$all
