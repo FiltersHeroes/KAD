@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Tue, 21 Jul 2020, 21:02 UTC+02
-! Version: 2020.7.21.2
+! Last modified: Wed, 22 Jul 2020, 13:02 UTC+02
+! Version: 2020.7.22.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2831,6 +2831,7 @@
 ||allegrolokalne.ru^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
+||allegrolokalnie.com.ru^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl
 ||allegrosklep.online^$all
 ||allegrowork.site^$all
@@ -2866,6 +2867,7 @@
 ||anyonecanhelp.club^$all
 ||apartahotelfamilyhouse.com^$all
 ||apekola.tcp4.me^$all
+||apkplayonline.com^$all
 ||aplikacja-lnpost.com^$all
 ||aplikacjeplay24.com^$all
 ||aplikacjeplay.com^$all
@@ -3637,6 +3639,7 @@
 ||inpostapp.net^$all
 ||inpostdoplata.net^$all
 ||inpostodkaz.net^$all
+||inpostpaczka.pl^$all
 ||inpost-app.me^$all
 ||inpost-paczka.services^$all
 ||inpost.club^$all
@@ -4030,6 +4033,7 @@
 ||oddaj-glosy.eu^$all
 ||odessa.com.pl^$all
 ||odkazinpost.net^$all
+||odnajdujemydziewczynke.eu^$all
 ||offers4fun.com^$all
 ||offside2.000webhostapp.com^$all
 ||ogarnij-zdjecia.*^$all
@@ -4213,6 +4217,7 @@
 ||pl-pl-fb.com^$all
 ||pl-wyslij.best^$all
 ||pl.allsports4free.club^$all
+||pl.bitcoinbillionarie.t500track29.com^$all
 ||pl.bitcoinup-app.co^$all
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
@@ -4576,6 +4581,7 @@
 ||szybkieinfo.pl^$all
 ||szybkikurier.org^$all
 ||s-pay24.com^$all
+||t500track29.com^$all
 ||tabxolabs.com^$all
 ||takaprawda.icu^$all
 ||tankhoi.vn^$all
