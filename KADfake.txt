@@ -1,15 +1,15 @@
 ! Title: KADfake - Kontrowersje
 ! Description: Filtry blokujące pseudonaukę, dezinformację, nieprawdziwe informacje i kontrowersyjne strony. Satyra i kwestie polityczne nie stanowią głównego celu listy.
 ! Homepage: https://kadantiscam.netlify.app
-! Last modified: Sat, 16 May 2020, 21:00 UTC+02
-! Version: 2020.5.16.0
+! Last modified: Wed, 22 Jul 2020, 13:02 UTC+02
+! Version: 2020.7.22.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
 ! Kontakt, zgłoszenia i informacje: https://kadantiscam.netlify.app/#contact
 !
 !
-! Do poprawnego działania listy wymagane jest rozszerzenie uBlock Origin 1.20.0+ lub AdGuard AdBlocker 3.3.2+.
+! Do poprawnego działania listy wymagane jest rozszerzenie uBlock Origin 1.20.0+, uBlock Origin Legacy 1.16.4.20+ lub AdGuard AdBlocker 3.3.2+.
 ! Używanie tej listy jest jednoznaczne ze świadomością co do jej zawartości, a twórcy nie ponoszą odpowiedzialności za jakiekolwiek pośrednie, bezpośrednie, karne, specjalne, przypadkowe lub wynikowe szkody. Pobierając, przeglądając albo korzystając z KADfake, akceptujesz te zasady i warunki.
 !
 !
@@ -69,6 +69,7 @@
 ||ukryteterapie.pl^$all
 ||vaccgenocide.blogspot.com^$all
 ||vaccgenocide.wordpress.com^$all
+||veni-esencjazycia.com^$all
 ||witariada.com^$all
 ||witnatura.pl^$all
 ||wodaplazmowana.com^$all
