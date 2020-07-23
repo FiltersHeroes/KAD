@@ -1,6 +1,5 @@
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||bitbay-net.com^$all 
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
@@ -220,6 +219,7 @@
 ||bioinfotst.cba.pl^$all
 ||biologiazsg.cba.pl^$all
 ||bioperfect.pl^$all
+||bitbay-net.com^$all
 ||bitcoincodesverigerecension.com^$all
 ||bitcoineraprounitedkingdomreview.com^$all
 ||bitcoinera-appl.com^$all
@@ -1090,6 +1090,7 @@
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
 ||lewplnews.yolasite.com^$all
+||lezrweb.com^$all
 ||libirtydate*.live^$all
 ||lidi.pl^$all
 ||lifanpower.pl^$all
@@ -1097,6 +1098,7 @@
 ||lifikurier.com^$all
 ||lightcloud.pl^$all
 ||lightmusic.pl^$all
+||likuidator.com^$all
 ||limkon.com^$all
 ||lindtkurier.org^$all
 ||link-operator24.com^$all
@@ -1531,6 +1533,7 @@
 ||pogotowie.pcserwis.c0.pl^$all
 ||polaczenie.xn.pl^$all
 ||poland-news.pl^$all
+||policja24info.pl.d103wh.d2.cz^$all
 ||policja24.eu^$all
 ||policy-secure-account.com^$all
 ||polishwebmailadmin.weebly.com^$all
@@ -1940,6 +1943,7 @@
 ||tvnewtop.pro^$all
 ||tvnowapp.net^$all
 ||tvpinformacje1.eu^$all
+||tvpinformacyjnie.eu^$all
 ||tvp-informacyjna*.eu^$all
 ||tvp-info.you2.pl^$all
 ||tvp-polska.dfirma.pl^$all
@@ -2209,7 +2213,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=rackcdn.com
-||lezrweb.com^$all
-||likuidator.com^$all
-||policja24info.pl.d103wh.d2.cz^$all
-||tvpinformacyjnie.eu^$all
