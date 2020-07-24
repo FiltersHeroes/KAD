@@ -1,9 +1,3 @@
-||videoplex.pl^$all
-||filmyhd4k.pl^$all
-||filmowyswiat.pl^$all
-||domowe-kino.pl^$all
-
-
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
@@ -431,6 +425,7 @@
 ||doladujfona.net^$all
 ||doladujfona.org^$all
 ||domniespodzianek.com^$all
+||domowe-kino.pl^$all
 ||dont.pl^$all
 ||doonalermet*.live^$all
 ||doski.by^$all
@@ -677,6 +672,7 @@
 ||filmowo24.pl^$all
 ||filmowo-24.com^$all
 ||filmowo-hd.pl^$all
+||filmowyswiat.pl^$all
 ||filmplay.pl^$all
 ||filmspolandxxx.com^$all
 ||films.com.pl^$all
@@ -685,6 +681,7 @@
 ||filmy3.pl^$all
 ||filmy4u.pl^$all
 ||filmycdaonline.wordpress.com^$all
+||filmyhd4k.pl^$all
 ||filmyonline.com.pl^$all
 ||filmyseriale.pl^$all
 ||filmy-i-seriale.pl^$all
@@ -1953,6 +1950,7 @@
 ||tvnewtop.pro^$all
 ||tvnowapp.net^$all
 ||tvpinformacje1.eu^$all
+||tvpinformacyjnie1.eu^$all
 ||tvpinformacyjnie.eu^$all
 ||tvp-informacyjna*.eu^$all
 ||tvp-info.you2.pl^$all
@@ -2011,6 +2009,7 @@
 ||verifyotofb.n4t.co^$all
 ||vforte-pl.com^$all
 ||vgdny.com^$all
+||videoplex.pl^$all
 ||vider.info^$document,domain=vider.info|~uwaga-natretne-reklamy
 ||vidnet.pl^$all
 ||vidplayer.pl^$all
@@ -2123,6 +2122,7 @@
 ||wys24h.eu^$all
 ||wysylka24.online^$all
 ||wysylki.net^$all
+||w.paczkwups.com^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xawqerklewq.myartsonline.com^$all
 ||xn*gwatpolska24*.*^$all
@@ -2223,6 +2223,3 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=rackcdn.com
-||pl.suluklima.com.tr^$all
-||tvpinformacyjnie1.eu^$all
-||w.paczkwups.com^$all
