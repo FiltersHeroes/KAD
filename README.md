@@ -2,6 +2,7 @@
 
 [![Issues h](https://isitmaintained.com/badge/resolution/PolishFiltersTeam/KAD.svg)](https://github.com/PolishFiltersTeam/KAD/issues)
 [![Issues o](https://img.shields.io/github/issues/PolishFiltersTeam/KAD.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/KAD/issues)
+[![repo size](https://img.shields.io/github/repo-size/PolishFiltersTeam/KAD.svg?colorB=23b69a)](https://github.com/StevenBlack/hosts)
 
 Polskie filtry do uBlocka Origin i AdGuarda, blokujące strony stosujące różnego rodzaju oszustwa i przekręty (np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe).
 
