@@ -29,10 +29,11 @@ wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhost
 pcregrep -o1 '^.*?0.0.0.0 (.*)' ./KADhosts.txt >> ./KADhosts_temp.txt
 rm -rf ./KADhosts.txt
 mv ./KADhosts_temp.txt ./KADhosts.txt
+sed -i 's/^www.//g' ./KADhosts.txt
+sed -i 's/^www.//g' "$LWS"
 sort -u -o ./KADhosts.txt ./KADhosts.txt
 sort -u -o "$LWS" "$LWS"
-comm -1 -3 ./KADhosts.txt "$LWS" >> "$TEMP"/LWS_temp.txt
-sed -i 's/^www.//g' "$TEMP"/LWS_temp.txt
+comm -13 ./KADhosts.txt "$LWS" >> "$TEMP"/LWS_temp.txt
 rm -r "$LWS"
 rm -r ./KADhosts.txt
 sort -u -o "$TEMP"/LWS_temp.txt "$TEMP"/LWS_temp.txt
@@ -49,7 +50,7 @@ while IFS= read -r domain; do
 done <"$TEMP"/LWS_temp.txt
 
 if [ -f "$EXPIRED" ]; then
-    comm -2 -3 "$TEMP"/LWS_temp.txt "$TEMP"/LWS_expired.txt >> "$TEMP"/LIST.temp
+    comm -23 "$TEMP"/LWS_temp.txt "$TEMP"/LWS_expired.txt >> "$TEMP"/LIST.temp
     rm -r "$TEMP"/LWS_temp.txt
     mv "$TEMP"/LIST.temp "$TEMP"/LWS_temp.txt
     rm -r "$TEMP"/LWS_expired.txt

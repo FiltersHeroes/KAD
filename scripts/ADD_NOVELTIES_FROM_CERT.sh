@@ -29,14 +29,15 @@ wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhost
 pcregrep -o1 '^.*?0.0.0.0 (.*)' ./KADhosts.txt >> ./KADhosts_temp.txt
 rm -rf ./KADhosts.txt
 mv ./KADhosts_temp.txt ./KADhosts.txt
+sed -i 's/^www.//g' ./KADhosts.txt
+sed -i 's/^www.//g' "$CERT"
 sort -u -o ./KADhosts.txt ./KADhosts.txt
 sort -u -o "$CERT" "$CERT"
-comm -1 -3 ./KADhosts.txt "$CERT" >> "$CERT".2
+comm -13 ./KADhosts.txt "$CERT" >> "$CERT".2
 rm -r "$CERT"
 rm -r ./KADhosts.txt
-mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
-sed -i 's/^www.//g' "$TEMP"/CERTHole_temp.txt
-sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
+mv "$CERT".2 "$CERT"
+sort -u -o "$CERT" "$CERT"
 
 EXPIRED="$MAIN_PATH"/temp/CERT_expired.txt
 
@@ -50,7 +51,7 @@ while IFS= read -r domain; do
 done <"$TEMP"/CERTHole_temp.txt
 
 if [ -f "$EXPIRED" ]; then
-    comm -2 -3 "$TEMP"/CERTHole_temp.txt "$TEMP"/CERT_expired.txt >> "$TEMP"/LIST.temp
+    comm -23 "$TEMP"/CERTHole_temp.txt "$TEMP"/CERT_expired.txt >> "$TEMP"/LIST.temp
     rm -r "$TEMP"/CERTHole_temp.txt
     mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
     rm -r "$TEMP"/CERT_expired.txt
