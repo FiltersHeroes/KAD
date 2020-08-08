@@ -1,3 +1,9 @@
+||vodfilmy.tumblr.com^$all
+||kinocda.pl^$all
+||kinonline.pl^$all
+||spindlemovies.com^$all
+||centralmovies.network^$all
+
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
