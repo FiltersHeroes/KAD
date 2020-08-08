@@ -1,3 +1,15 @@
+||strefa-vod.pl^$all
+||onlinefilmy24.pl^$all
+||vod.plus^$all
+||showmovies.pl^$all
+||vodlife.pl^$all
+||ikino24.pl^$all
+||filman.tv^$all
+||multivod.pl^$all
+
+||kino-filmy.pl^$all
+||vod-plus.pl^$all
+
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
