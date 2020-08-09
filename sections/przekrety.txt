@@ -1,9 +1,3 @@
-||vodfilmy.tumblr.com^$all
-||kinocda.pl^$all
-||kinonline.pl^$all
-||spindlemovies.com^$all
-||centralmovies.network^$all
-
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
@@ -316,6 +310,7 @@
 ||cdgame.kgb.pl^$all
 ||cdsp.pl^$all
 ||cengizguler.com.tr^$all
+||centralmovies.network^$all
 ||centrolinguisticorobert.com^$all
 ||centrumofert24.com^$all
 ||centrumplay.pl^$all
@@ -1081,11 +1076,13 @@
 ||kickboxing.cba.pl^$all
 ||kiepscy.evai.pl^$all
 ||kikofu.com^$all
+||kinocda.pl^$all
 ||kinofilm-tv.pl^$all
 ||kinomaniac.pl^$all
 ||kinomaniak.cc^$all
 ||kinomaniak.pl^$all
 ||kinoman-tv.eu^$all
+||kinonline.pl^$all
 ||kinovod.tv^$all
 ||kino-filmy.pl^$all
 ||kirstenbijlsma.com^$all
@@ -1869,6 +1866,7 @@
 ||speedfile.info^$all
 ||speed-dates.pl^$all
 ||spillerfanside.com^$all
+||spindlemovies.com^$all
 ||spisek.freehost.pl^$all
 ||spkoszewo.strefa.pl^$all
 ||splac-dlug.com^$all
@@ -2098,6 +2096,7 @@
 ||visitoronearthxrussellathletic.xyz^$all
 ||vod24.pl^$all
 ||vodfilmy.pl^$all
+||vodfilmy.tumblr.com^$all
 ||vodflix.pl^$all
 ||vodkino.pl^$all
 ||vodlife.pl^$all
