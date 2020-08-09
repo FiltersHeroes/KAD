@@ -1,10 +1,5 @@
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||server684037.nazwa.pl^$all
-||mhpo4notrtmnp.n4t.co^$all
-||server740153.nazwa.pl^$all
-||challhawseholer.com^$all
-||server870708.nazwa.pl^$all
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
@@ -322,6 +317,7 @@
 ||ceresiontest.c0.pl^$all
 ||cezaevinegonder.com^$all
 ||challengeforme.com^$all
+||challhawseholer.com^$all
 ||chanceto-start.info^$all
 ||charge-backers.pl^$all
 ||charisministries.id^$all
@@ -1249,6 +1245,7 @@
 ||mergedocsnow.com^$all
 ||mesohair.pl^$all
 ||metaltechnics.pl^$all
+||mhpo4notrtmnp.n4t.co^$all
 ||michasiapaczka.org^$all
 ||microsoft-secure-online.oa.r.appspot.com^$all
 ||mientayweb.com^$all
@@ -1809,6 +1806,9 @@
 ||serialosy.pl^$all
 ||serialowo.pl^$all
 ||serial.vod.co.pl^$all
+||server684037.nazwa.pl^$all
+||server740153.nazwa.pl^$all
+||server870708.nazwa.pl^$all
 ||server32456789098765.s3.us-east-2.amazonaws.com^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
@@ -2314,8 +2314,8 @@
 ||*uprowadzeniedworzec.*^$all
 ||*uprowadzniezdworca.*^$all
 ||*-*.r*.cf*.rackcdn.com^$document,domain=rackcdn.com
-||*.cal24.pl/weryfikacja/$all
 ||*.atthost24.pl/weryfikacja/$all
+||*.cal24.pl/weryfikacja/$all
 ||*.e-kei.pl/weryfikacja/$all
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
