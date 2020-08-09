@@ -1,5 +1,6 @@
 ||amu-edu-pl.ew.r.appspot.com^$all
 ||wbok.pl^$all
+||hd.videos.co.pl^$all
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
