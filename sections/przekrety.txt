@@ -1,7 +1,3 @@
-||amu-edu-pl.ew.r.appspot.com^$all
-||wbok.pl^$all
-||hd.videos.co.pl^$all
-||bitprofit.brokerselection.pro^$all
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
@@ -136,6 +132,7 @@
 ||alohasoftware.net^$all
 ||amariceo.duckdns.org^$all
 ||amonitalia.it^$all
+||amu-edu-pl.ew.r.appspot.com^$all
 ||anabim.com^$all
 ||andekkurier.org^$all
 ||androidsecurityplus.com^$all
@@ -244,6 +241,7 @@
 ||bitcoin-billion-club.com^$all
 ||bitcoin-storm.com^$all
 ||bitcoin-trader-app.com^$all
+||bitprofit.brokerselection.pro^$all
 ||bitworldfx.com^$all
 ||biyunhui.com^$all
 ||blackstone500.com^$all
@@ -892,6 +890,7 @@
 ||handelpro.com^$all
 ||hanypon.com^$all
 ||hdmedia.pl^$all
+||hd.videos.co.pl^$all
 ||healthknowledge.my^$all
 ||health-beauty.press^$all
 ||heavensp.xyz^$all
@@ -2135,6 +2134,7 @@
 ||wawa-info.pl^$all
 ||waznesprawy.eu^$all
 ||wazne-informacje.pl^$all
+||wbok.pl^$all
 ||weartexhibitions.com^$all
 ||webmail93949840839.com.ng^$all
 ||webtoprostezarub.xaa.pl^$all
