@@ -1,6 +1,5 @@
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||linkkoin.com^$all
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
@@ -107,6 +106,7 @@
 ||alkoskurier.com^$all
 ||alldc.pw^$all
 ||allegor.xyz^$all
+||allego.icu^$all
 ||allegr0.net^$all
 ||allegroapk.net^$all
 ||allegrolokalne.ru^$all
@@ -153,6 +153,7 @@
 ||anyonecanhelp.club^$all
 ||apartahotelfamilyhouse.com^$all
 ||apekola.tcp4.me^$all
+||apexbillingservices.co^$all
 ||apkplayonline.com^$all
 ||aplikacja-lnpost.com^$all
 ||aplikacjeplay24.com^$all
@@ -619,6 +620,7 @@
 ||e-zaginieni.eu^$all
 ||e-zaginieni.pl^$all
 ||e-zaginioneosoby.eu^$all
+||e.paczkxups.com^$all
 ||faberville.com^$all
 ||faccebook*.5v.pl^$all
 ||facebbook*.5v.pl^$all
@@ -942,6 +944,7 @@
 ||icleanammunitio.xyz^$all
 ||icloud.find-ip.us^$all
 ||iconsumerstocksymbol.icu^$all
+||id95972.net^$all
 ||ideabank-login.xyz^$all
 ||ideabank-logowanie.at^$all
 ||idealnafigura.com^$all
@@ -1187,6 +1190,7 @@
 ||likuidator.com^$all
 ||limkon.com^$all
 ||lindtkurier.org^$all
+||linkkoin.com^$all
 ||link-operator24.com^$all
 ||listennewsnetwork.com^$all
 ||liversely.com^$all
@@ -2370,7 +2374,3 @@
 ||*.e-kei.pl/weryfikacja/$all
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
-||apexbillingservices.co^$all
-||allego.icu^$all
-||e.paczkxups.com^$all
-||id95972.net^$all
