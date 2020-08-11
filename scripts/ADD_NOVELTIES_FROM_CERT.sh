@@ -36,8 +36,8 @@ sort -u -o "$CERT" "$CERT"
 comm -13 ./KADhosts.txt "$CERT" >> "$CERT".2
 rm -r "$CERT"
 rm -r ./KADhosts.txt
-mv "$CERT".2 "$CERT"
-sort -u -o "$CERT" "$CERT"
+mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
+sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 
 EXPIRED="$MAIN_PATH"/temp/CERT_expired.txt
 
