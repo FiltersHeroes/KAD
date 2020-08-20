@@ -1,8 +1,6 @@
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
-||dobra-bramka-sms.pl^$all
-||secureclick20.com^$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|tekerstreet|testing3srv|vernistrail)\d+\.live/$all
@@ -49,6 +47,7 @@
 ||24.eu^$document,domain=~www.24.eu
 ||37.228.116.200^$all
 ||50kzl.pl^$all
+||96b4d58e213077161.temporary.link^$all
 ||100sport.tv^$all
 ||123movies.my.id^$all
 ||7228.eu^$all
@@ -330,6 +329,7 @@
 ||cda-zalukaj.pl^$all
 ||cdgame.kgb.pl^$all
 ||cdsp.pl^$all
+||ce85237.tmweb.ru^$all
 ||cengizguler.com.tr^$all
 ||centralmovies.network^$all
 ||centrolinguisticorobert.com^$all
@@ -377,6 +377,7 @@
 ||clubedoestudante.net.br^$all
 ||cmentosrl.com^$all
 ||cn52267.tmweb.ru^$all
+||co99044.tmweb.ru^$all
 ||coast-bank.com^$all
 ||codzienniekazdycos.club^$all
 ||coindeskoption.com^$all
@@ -469,6 +470,7 @@
 ||dluzniku.com^$all
 ||dnmultiglobal.duckdns.org^$all
 ||dnw5n74x7xkb4qg.surrterreproperties.com^$all
+||dobra-bramka-sms.pl^$all
 ||dobreprogramy.pro^$all
 ||dobre-filmy.pl^$all
 ||dobre-programy.xyz^$all
@@ -1425,6 +1427,7 @@
 ||nelsondyalkjs.com^$all
 ||netfilmy.pl^$all
 ||netflix-mail.info^$all
+||netflix.pl.springday.com.tr^$all
 ||neurorehabtraining.com^$all
 ||newsbusiness.co.uk^$all
 ||newsfeed24h.co.uk^$all
@@ -1912,6 +1915,7 @@
 ||seansikowo.pl^$all
 ||searchrapid.pl^$all
 ||searchwinner.site^$all
+||secureclick20.com^$all
 ||secure-bank-getin.xyz^$all
 ||secure-getinbank.at^$all
 ||secure-getinbank.xyz^$all
@@ -2146,6 +2150,7 @@
 ||transakcja24.com^$all
 ||transakcja-payu.xyz^$all
 ||transbodek.com^$all
+||transportuje.net^$all
 ||transporty24.net^$all
 ||trcwasdf.club^$all
 ||trendingraphs.net^$all
@@ -2197,6 +2202,7 @@
 ||umarkets.io^$all
 ||unitedmedsshop.com^$all
 ||unitedproductsllc.net^$all
+||unlimited.movies.and.series.netflix.afraplants.ir^$all
 ||unsubscribe.vomeo8wflpty52u.neyazco.ir^$all
 ||update-1.com^$all
 ||update.*sf*.online^$all
@@ -2462,9 +2468,3 @@
 ||*.e-kei.pl/weryfikacja/$all
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
-||96b4d58e213077161.temporary.link^$all
-||ce85237.tmweb.ru^$all
-||co99044.tmweb.ru^$all
-||netflix.pl.springday.com.tr^$all
-||transportuje.net^$all
-||unlimited.movies.and.series.netflix.afraplants.ir^$all
