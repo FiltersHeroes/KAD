@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Sun, 23 Aug 2020, 21:03 UTC+02
-! Version: 2020.8.23.2
+! Last modified: Sun, 23 Aug 2020, 21:17 UTC+02
+! Version: 2020.8.23.3
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2637,7 +2637,6 @@
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?polska(\d+)?-?poczta\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\..*/$all
-/^https?:\/\/([\w]{1,4}\.|)(\w+)?\.\w+-?pocztex(\d+)?\..*/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?e?poczta.*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
