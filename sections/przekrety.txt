@@ -9,7 +9,7 @@
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?.?\w+-?polska(\d+)?-?poczta\..*/$all
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.?poczta-?polska\d+\..*/$all
-/^https?:\/\/([\w]{1,4}\.|)(\w+)?\.\w+-?pocztex(\d+)?\..*/$all,domain=~pocztex.pl
+
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.|).*-?emonitoring-?e?poczta.*/$all
 /^https?:\/\/([\w]{1,4}\.|).*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\..*/$all
