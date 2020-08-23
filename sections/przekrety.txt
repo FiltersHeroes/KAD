@@ -1,20 +1,5 @@
-||film-rs.revolublog.com^$all
-||plcalyfilm.over-blog.com^$all
-||fastandfurious7pl.wordpress.com^$all
-||szybcyiwscielki7.wordpress.com^$all
-
-||darmowyfilmrfm44.ek1.pl^$all
-||film-online-vod.over-blog.com^$all
-||filmzadarmoqgs69.ek1.pl^$all
-||ogladaj-caly-film.over-blog.com^$all
-||filmbest.video.blog^$all
-||filmsonline.pl^$all
-||k-filmy.pl^$all
-||online-tv.pl^$all
-
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||latarkapowerstyle-pl.com^$all
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(anzugreifen|betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|esoterisch|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|teckinharmux|tekerstreet|testing3srv|vernistrail|waarschijnlijk)\d+\.live/$all
@@ -318,6 +303,7 @@
 ||buz2mobile.com^$all
 ||bzn.c0.pl^$all
 ||ca15018.tmweb.ru^$all
+||ca72525.tmweb.ru^$all
 ||callisto.cba.pl^$all
 ||calodobowe-wiadomosci-pl.eu^$all
 ||calyfilmhd.over-blog.com^$all
@@ -356,6 +342,7 @@
 ||centrumplay.pl^$all
 ||ceresiontest.c0.pl^$all
 ||cezaevinegonder.com^$all
+||cg08437.tmweb.ru^$all
 ||challengeforme.com^$all
 ||challhawseholer.com^$all
 ||chanceto-start.info^$all
@@ -391,6 +378,7 @@
 ||cj90496.tmweb.ru^$all
 ||cl07143.tmweb.ru^$all
 ||cl08401.tmweb.ru^$all
+||cl90234.tmweb.ru^$all
 ||click2000.host^$all
 ||closetalk.ca^$all
 ||cloud-ideabank.at^$all
@@ -454,6 +442,7 @@
 ||darmowetesty.com^$all
 ||darmowe-doladowania.net.pl^$all
 ||darmowe-doladowanie.pl^$all
+||darmowyfilmrfm44.ek1.pl^$all
 ||dates-here-now*.com^$all
 ||davekurier.com^$all
 ||davekurier.org^$all
@@ -506,6 +495,7 @@
 ||doladowania-telefonu.pl^$all
 ||doladujfona.net^$all
 ||doladujfona.org^$all
+||domena-informacyjna.dkonto.pl^$all
 ||domniespodzianek.com^$all
 ||domowe-kino.pl^$all
 ||dont.pl^$all
@@ -735,6 +725,7 @@
 ||faraweel.com^$all
 ||farbybialystok.pl^$all
 ||fasebook-onlineapp.com.pl^$all
+||fastandfurious7pl.wordpress.com^$all
 ||favoriteadrequest.com^$all
 ||fb202022.tcp4.me^$all
 ||fbads-manager.net^$all
@@ -776,6 +767,7 @@
 ||fili.tube^$all
 ||filmanteria.pl^$all
 ||filman.tv^$all
+||filmbest.video.blog^$all
 ||filmhit.pl^$all
 ||filmline.pl^$all
 ||filmobox.pl^$all
@@ -787,6 +779,7 @@
 ||filmowo-hd.pl^$all
 ||filmowyswiat.pl^$all
 ||filmplay.pl^$all
+||filmsonline.pl^$all
 ||filmspolandxxx.com^$all
 ||films.com.pl^$all
 ||filmu.pl^$all
@@ -804,11 +797,14 @@
 ||filmy-seriale.pl^$all
 ||filmy-tv.pl^$all
 ||filmy-zalukaj.pl^$all
+||filmzadarmoqgs69.ek1.pl^$all
 ||filmzlektoremrqb69.ek1.pl^$all
 ||film-base.pl^$all
 ||film-box.pl^$all
 ||film-milosc.pl^$all
+||film-online-vod.over-blog.com^$all
 ||film-online.bejbiblues.cba.pl^$all
+||film-rs.revolublog.com^$all
 ||film-vod.pl^$all
 ||filser.co^$all
 ||financial-times-appp.github.io^$all
@@ -1248,9 +1244,11 @@
 ||kursjezykowy.eu^$all
 ||kuszowka.pl^$all
 ||kzprojekt.pl^$all
+||k-filmy.pl^$all
 ||labersa.com^$all
 ||lander.pl^$all
 ||larissalinhares.com.br^$all
+||latarkapowerstyle-pl.com^$all
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
 ||lebaneseads.com^$all
@@ -1521,6 +1519,7 @@
 ||ogarnij-zdjecia.*^$all
 ||ogglededibl.at^$all
 ||ogladajzadarmo.com.pl^$all
+||ogladaj-caly-film.over-blog.com^$all
 ||ogladaj-online24.pl^$all
 ||oglaszamy.ct8.pl^$all
 ||ogloszenia-olx.you2.pl^$all
@@ -1572,6 +1571,7 @@
 ||online-film.pl^$all
 ||online-platnosci.services^$all
 ||online-platnosc.services^$all
+||online-tv.pl^$all
 ||onlyfiles.net^$all
 ||onlyher.nazwa.pl^$all
 ||onsitegold.com^$all
@@ -1708,6 +1708,7 @@
 ||playsklep24.com^$all
 ||playsklep.net^$all
 ||play-vod.pl^$all
+||plcalyfilm.over-blog.com^$all
 ||plengistat.info^$all
 ||pletomak.mypi.co^$all
 ||plikgier.5p.pl^$all
@@ -2131,6 +2132,7 @@
 ||szlonepromocje.com^$all
 ||szmoldparts.com^$all
 ||szoten.pl^$all
+||szybcyiwscielki7.wordpress.com^$all
 ||szybkieinfo.pl^$all
 ||szybkie-zakupy.co.pl^$all
 ||szybkikurier.org^$all
@@ -2518,7 +2520,3 @@
 ||*.e-kei.pl/weryfikacja/$all
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
-||ca72525.tmweb.ru^$all
-||cg08437.tmweb.ru^$all
-||cl90234.tmweb.ru^$all
-||domena-informacyjna.dkonto.pl^$all
