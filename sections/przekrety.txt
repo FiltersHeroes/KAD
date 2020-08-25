@@ -1,5 +1,3 @@
-||neos.com.pl^$all
-||neos.biuroprasowe.pl^$all
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
@@ -320,6 +318,9 @@
 ||catsplit.com^$all
 ||catsplit.net.pl^$all
 ||cats.ugu.pl^$all
+||cb66666.tmweb.ru^$all
+||cb76471.tmweb.ru^$all
+||cb85581.tmweb.ru^$all
 ||cbdnewsdirect.com^$all
 ||cc67620.tmweb.ru^$all
 ||ccswpsvc.com^$all
@@ -338,7 +339,9 @@
 ||cda-zalukaj.pl^$all
 ||cdgame.kgb.pl^$all
 ||cdsp.pl^$all
+||ce34576.tmweb.ru^$all
 ||ce85237.tmweb.ru^$all
+||ce88147.tmweb.ru^$all
 ||cengizguler.com.tr^$all
 ||centralmovies.network^$all
 ||centrolinguisticorobert.com^$all
@@ -347,6 +350,7 @@
 ||ceresiontest.c0.pl^$all
 ||cezaevinegonder.com^$all
 ||cg08437.tmweb.ru^$all
+||cg47835.tmweb.ru^$all
 ||challengeforme.com^$all
 ||challhawseholer.com^$all
 ||chanceto-start.info^$all
@@ -1455,6 +1459,7 @@
 ||namibiasafaritours.ml^$all
 ||namierz-telefon.pl^$all
 ||nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com^$all
+||naszapolskaa.icu^$all
 ||naszapolskaa.online^$all
 ||naszapolskaa.xyz^$all
 ||nasza-emigracja.pl^$all
@@ -1478,6 +1483,8 @@
 ||nekkel.pl^$all
 ||nekstra.com^$all
 ||nelsondyalkjs.com^$all
+||neos.biuroprasowe.pl^$all
+||neos.com.pl^$all
 ||netfilmy.pl^$all
 ||netflix-mail.info^$all
 ||netflix.pl.springday.com.tr^$all
@@ -2461,7 +2468,6 @@
 ||your-mac-security-analysis.net.*.*.live^$all
 ||your-mac-security-analysis.net.*.*.xyz^$all
 ||your-movies.pl^$all
-
 ||your-sexydreams.com^$all
 ||yuppipuppy.com^$all
 ||za10groszy.pl^$all
@@ -2544,10 +2550,3 @@
 ||*.e-kei.pl/weryfikacja/$all
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
-||cb66666.tmweb.ru^$all
-||cb76471.tmweb.ru^$all
-||cb85581.tmweb.ru^$all
-||ce34576.tmweb.ru^$all
-||ce88147.tmweb.ru^$all
-||cg47835.tmweb.ru^$all
-||naszapolskaa.icu^$all
