@@ -1,3 +1,12 @@
+||czarownica-online-pl.5v.pl^$all
+||hbonicovideo.over-blog.com^$all
+||e-kinomaniak.pl^$all
+||filmasyhd.pl^$all
+||filmownia.online^$all
+||moviemediaz.com^$all
+||vodfilm.pl^$all
+||wareziak.pl^$all
+
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
