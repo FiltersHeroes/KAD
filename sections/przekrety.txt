@@ -1,12 +1,3 @@
-||czarownica-online-pl.5v.pl^$all
-||hbonicovideo.over-blog.com^$all
-||e-kinomaniak.pl^$all
-||filmasyhd.pl^$all
-||filmownia.online^$all
-||moviemediaz.com^$all
-||vodfilm.pl^$all
-||wareziak.pl^$all
-
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
@@ -467,6 +458,7 @@
 ||cyfrowemotywy.cba.pl^$all
 ||cyfrowypolsate.com^$all
 ||czajkowski.cba.pl^$all
+||czarownica-online-pl.5v.pl^$all
 ||czasnakino.pl^$all
 ||czemarserwis.home.pl^$all
 ||czerwinski.ciesielstwo.cba.pl^$all
@@ -683,6 +675,7 @@
 ||e-faktyonet24.eu^$all
 ||e-filmy24.pl^$all
 ||e-informacje24.eu^$all
+||e-kinomaniak.pl^$all
 ||e-koronawirusnews.pl^$all
 ||e-kurier24.net^$all
 ||e-mojemiasto.eu^$all
@@ -811,6 +804,7 @@
 ||fili.tube^$all
 ||filmanteria.pl^$all
 ||filman.tv^$all
+||filmasyhd.pl^$all
 ||filmbest.video.blog^$all
 ||filmdopobraniacbd92.ek1.pl^$all
 ||filmhit.pl^$all
@@ -819,6 +813,7 @@
 ||filmofon.pl^$all
 ||filmonline.info.pl^$all
 ||filmovnia.pl^$all
+||filmownia.online^$all
 ||filmowo24.pl^$all
 ||filmowo-24.com^$all
 ||filmowo-hd.pl^$all
@@ -1018,6 +1013,7 @@
 ||hanabishi.net^$all
 ||handelpro.com^$all
 ||hanypon.com^$all
+||hbonicovideo.over-blog.com^$all
 ||hdmedia.pl^$all
 ||hd-online.skyrock.com^$all
 ||hd.videos.co.pl^$all
@@ -1475,6 +1471,7 @@
 ||morandons.com^$all
 ||mortony.cba.pl^$all
 ||moto-agro.pl^$all
+||moviemediaz.com^$all
 ||movienet.pl^$all
 ||moviestarplanethackers.co^$all
 ||movipax.com^$all
@@ -2410,6 +2407,7 @@
 ||vod24.pl^$all
 ||vodfilmy.pl^$all
 ||vodfilmy.tumblr.com^$all
+||vodfilm.pl^$all
 ||vodflix.pl^$all
 ||vodkino.pl^$all
 ||vodlife.pl^$all
@@ -2427,6 +2425,7 @@
 ||waniakurier.com^$all
 ||wapster.malutki.pl^$all
 ||wapster.pl^$all
+||wareziak.pl^$all
 ||warosprawdzic.is-best.net^$all
 ||warszawafakty.eu^$all
 ||warszawa-fakt.pl^$all
