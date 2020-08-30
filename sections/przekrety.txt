@@ -1,8 +1,6 @@
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
-||copernicusdm.pl^$all
-||fxpb.us^$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(anzugreifen|betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|esoterisch|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|teckinharmux|tekerstreet|thvedroisil|testing3srv|vernistrail|waarschijnlijk)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
@@ -97,6 +95,8 @@
 ||aktualizacja-poczty.online^$all
 ||aktualizacja-regulamin.com^$all
 ||aktualizacja.jst.pl^$all
+||aktywacja.allegro6.pl^$all
+||aktywacja.allegro7.pl^$all
 ||albajifood.com^$all
 ||albertowe.cba.pl^$all
 ||alcaido.com^$all
@@ -423,6 +423,7 @@
 ||cool4mob.com^$all
 ||coolboxpl2.com^$all
 ||coolboxpl.com^$all
+||copernicusdm.pl^$all
 ||coreplays.com^$all
 ||coronadisco.co.uk^$all
 ||coronavirustestkit.co.za^$all
@@ -449,6 +450,7 @@
 ||cw08812.tmweb.ru^$all
 ||cx17651.tmweb.ru^$all
 ||cx76051.tmweb.ru^$all
+||cy43164.tmweb.ru^$all
 ||cy61663.tmweb.ru^$all
 ||cy79417.tmweb.ru^$all
 ||cybereleague.com^$all
@@ -538,6 +540,8 @@
 ||dotabet100.com^$all
 ||dotabet103.com^$all
 ||dotpay1.pl^$all
+||dotpay.bok-poczta.pl^$all
+||dotpay.e-pocztex.pl^$all
 ||downloadfiles.pl^$all
 ||downloadnature.com^$all
 ||downloads-mobile.com^$all
@@ -898,6 +902,7 @@
 ||furgonetka.online^$all
 ||furgonetka.pro^$all
 ||futurepay.globway.eu^$all
+||fxpb.us^$all
 ||gackokurier.com^$all
 ||gagrat.co^$all
 ||gajakurier.org^$all
@@ -1172,6 +1177,7 @@
 ||i-podgladacz.pl^$all
 ||i-wiadomosci24.eu^$all
 ||i-wydarzenia24.eu^$all
+||j6xl1kzht9pk5zw.asanrahvisa.ir^$all
 ||jagodapaczka.org^$all
 ||jakotako.is-best.net^$all
 ||jamba.pl^$all
@@ -1584,6 +1590,7 @@
 ||ogloszenie-nagrod.eu^$all
 ||ogloszenie.best^$all
 ||ogloszenie.space^$all
+||oglosznie-elektroniczne.host^$all
 ||oglosznie-elektroniczne.tech^$all
 ||ogrodek.biz^$all
 ||ogrodek.top^$all
@@ -1933,6 +1940,7 @@
 ||przelew24online.site^$all
 ||przelew24santander.site^$all
 ||przelewonline.site^$all
+||przelewonline.website^$all
 ||przepismix.pl^$all
 ||przesydh.com^$all
 ||przewozinik.online^$all
@@ -2618,11 +2626,3 @@
 ||*.e-kei.pl/weryfikacja/$all
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
-||aktywacja.allegro6.pl^$all
-||aktywacja.allegro7.pl^$all
-||cy43164.tmweb.ru^$all
-||dotpay.bok-poczta.pl^$all
-||dotpay.e-pocztex.pl^$all
-||j6xl1kzht9pk5zw.asanrahvisa.ir^$all
-||oglosznie-elektroniczne.host^$all
-||przelewonline.website^$all
