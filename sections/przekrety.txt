@@ -1,7 +1,6 @@
 !/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
-||traderschain.com^$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(anzugreifen|betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|esoterisch|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|teckinharmux|tekerstreet|thvedroisil|testing3srv|vernistrail|waarschijnlijk)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
@@ -363,6 +362,7 @@
 ||cezaevinegonder.com^$all
 ||cf76761.tmweb.ru^$all
 ||cg08437.tmweb.ru^$all
+||cg18642.tmweb.ru^$all
 ||cg47835.tmweb.ru^$all
 ||cg89529.tmweb.ru^$all
 ||challengeforme.com^$all
@@ -402,6 +402,7 @@
 ||city-news.dkonto.pl^$all
 ||cj02673.tmweb.ru^$all
 ||cj90496.tmweb.ru^$all
+||ck05925.tmweb.ru^$all
 ||ck78179.tmweb.ru^$all
 ||cl07143.tmweb.ru^$all
 ||cl08401.tmweb.ru^$all
@@ -453,6 +454,7 @@
 ||cs-czosnusie.cba.pl^$all
 ||cs.nailrr.com^$all
 ||cs.socksonclick.com^$all
+||ct33421.tmweb.ru^$all
 ||cuorl.top^$all
 ||cuosdemakadi.gq^$all
 ||customernoble.com^$all
@@ -566,6 +568,7 @@
 ||dpd-parcel.com^$all
 ||dpd-redirect-parcel-secure-user-address.halloween-quiz.co.uk^$all
 ||dpsobryte.pl^$all
+||drabina.live^$all
 ||drabiny.in^$all
 ||dragpage.com/lpcc/^$document
 ||drakesdowntowngym.com^$all
@@ -593,6 +596,7 @@
 ||dziennikprasowy.eu^$all
 ||dziennikuprowadzono.online^$all
 ||dziennikuprowadzono.pl^$all
+||dziennikwschodni.ct8.pl^$all
 ||dziennik.warszawa.pl^$all
 ||earnyourcash.net^$all
 ||easydownload.pl^$all
@@ -1143,6 +1147,7 @@
 ||inpost.pl.novaintermed.ro^$all
 ||inpost.tech^$all
 ||inpost.us^$all
+||instagramrule.com^$all
 ||install.pdfconverterhd.com^$all
 ||instasexlocator*.com^$all
 ||instragramweb.com^$all
@@ -2246,6 +2251,7 @@
 ||super-pay.me^$all
 ||supportservice.webcindario.com^$all
 ||support-konto.pl^$all
+||suregod77.wixsite.com^$all
 ||sureyouwillloveit.com^$all
 ||svgoptimax5.live^$all
 ||swapgg.pl^$all
@@ -2328,6 +2334,7 @@
 ||torrenty--org.pl^$all
 ||tpc.hu^$all
 ||tpskp.com^$all
+||traderschain.com^$all
 ||tradezone247.com^$all
 ||trafisz.com^$all
 ||trampolina.biz^$all
@@ -2373,6 +2380,7 @@
 ||twojapaka.com^$all
 ||twojebony.com.pl^$all
 ||twoje-foty.eu^$all
+||twoje-konto-sprawdz-szczegoly-netflix.mywire.org^$all
 ||twoje-miasto.dfirma.pl^$all
 ||twoje-seriale.tv^$all
 ||twojkurier-dhl.*^$all
@@ -2664,11 +2672,3 @@
 ||*.e-kei.pl/weryfikacja/$all
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
-||cg18642.tmweb.ru^$all
-||ck05925.tmweb.ru^$all
-||ct33421.tmweb.ru^$all
-||drabina.live^$all
-||dziennikwschodni.ct8.pl^$all
-||instagramrule.com^$all
-||suregod77.wixsite.com^$all
-||twoje-konto-sprawdz-szczegoly-netflix.mywire.org^$all
