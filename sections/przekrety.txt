@@ -1,5 +1,4 @@
-!/\/((delivery-address|secure-payment|processingpayment|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
-/tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
+/\/((delivery-address|secure-payment|processingpayment|tracking-load|laststep).html?)|((barclaypayment|delivery-options|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 ||kendinibil.blog^$all
