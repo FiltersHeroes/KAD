@@ -1,7 +1,6 @@
 /\/((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep).html?)|((barclaypayment|delivery-(address|options)|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
-||kendinibil.blog^$all
 /^https?:\/\/([\w]{1,4}\.|)(anzugreifen|betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|esoterisch|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|teckinharmux|tekerstreet|thvedroisil|testing3srv|vernistrail|waarschijnlijk)\d+\.live/$all
 /^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{4,22}[0-9]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
 /^https?:\/\/([\w]{1,4}\.|)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -281,6 +280,8 @@
 ||bnpparibas-login.at^$all
 ||bnpparibas-logowanie.at^$all
 ||bnpparibas-poland.co^$all
+||bnpparibas-secure.at^$all
+||bnp-paribas-login.at^$all
 ||bodzio1991.cba.pl^$all
 ||bohemian-rhapsody-2018-online-napisy-pl-cda.over-blog.com^$all
 ||bok-poczta.pl^$all
@@ -421,6 +422,8 @@
 ||cloud-ideabank.at^$all
 ||cloud-idea-bank.xyz^$all
 ||cloud-idea-sso.at^$all
+||cloud-idea.at^$all
+||cloud-sso-idea.at^$all
 ||cloud-sso-idea.pl^$all
 ||clubedoestudante.net.br^$all
 ||cm48739.tmweb.ru^$all
@@ -513,6 +516,7 @@
 ||dentalsearchsolutions.com^$all
 ||dephantomz.duckdns.org^$all
 ||depic.cba.pl^$all
+||depozyt24.net^$all
 ||derlogin.com^$all
 ||destgrena.at^$all
 ||devicenowaasn37126.xyz^$all
@@ -1093,6 +1097,7 @@
 ||idea-cloudbank.com^$all
 ||idea-cloud.xyz^$all
 ||idea-logowanie.at^$all
+||idea-logowanie.live^$all
 ||idecloud.com.pl^$all
 ||idklever.com^$all
 ||id-appie.com^$all
@@ -1263,6 +1268,7 @@
 ||kebhbn.com^$all
 ||keikomimura.com^$all
 ||kekuko.com^$all
+||kendinibil.blog^$all
 ||keqiang.pro^$all
 ||ketabnema.com^$all
 ||ketorecipeslchf.site^$all
@@ -1788,13 +1794,16 @@
 ||parcel.8on7chzjwyuaq2u.kosuyolumuhtarligi.org^$all
 ||parcel.cfx01elngdol8pn.kosuyolumuhtarligi.org^$all
 ||parcel.fzggjoau689uvqu.laptop-tamirgah.ir^$all
+||parcel.x6l99ohqfu1nvnp.laptop-tamirgah.ir^$all
 ||parcel.xyhlyphgygc1okv.nildenaksoy.com^$all
 ||parcel.zroagvn0r7w27zc.nildenaksoy.com^$all
+||paribas-biznes-planet.at^$all
 ||paribas-login.xyz^$all
 ||paribas-logowanie.at^$all
 ||paribas-logowanie.xyz^$all
 ||paribas-online.at^$all
 ||paribas-online.xyz^$all
+||paribas-planet-biznes.at^$all
 ||paribas-planet-logowanie.at^$all
 ||paribas-secure.at^$all
 ||parkhiker.com^$all
@@ -1831,6 +1840,7 @@
 ||pkgame.cba.pl^$all
 ||pko-bp.pl^$all
 ||placidocn.com^$all
+||planet-logowanie.at^$all
 ||plast-chem.com.pl^$all
 ||platinumtradeinvestment.com^$all
 ||platnik*.online^$all
@@ -2132,6 +2142,7 @@
 ||secure-getin.pl^$all
 ||secure-paribas.at^$all
 ||secure-pge.eu^$all
+||secure.bankofamreica-online.helpsuite.kamilogistics.com^$all
 ||security-update-required.com^$all
 ||segregations.xyz^$all
 ||seioodsoi.club^$all
@@ -2392,6 +2403,7 @@
 ||tunehub247shop.com^$all
 ||tunga.homedns.org^$all
 ||turystyka.cal.pl^$all
+||tvinfo-24.pl^$all
 ||tvjovem.net^$all
 ||tvkody.com^$all
 ||tvn24polska.eu^$all
@@ -2712,15 +2724,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||bnp-paribas-login.at^$all
-||bnpparibas-secure.at^$all
-||cloud-idea.at^$all
-||cloud-sso-idea.at^$all
-||depozyt24.net^$all
-||idea-logowanie.live^$all
-||parcel.x6l99ohqfu1nvnp.laptop-tamirgah.ir^$all
-||paribas-biznes-planet.at^$all
-||paribas-planet-biznes.at^$all
-||planet-logowanie.at^$all
-||secure.bankofamreica-online.helpsuite.kamilogistics.com^$all
-||tvinfo-24.pl^$all
