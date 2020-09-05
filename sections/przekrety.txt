@@ -1,7 +1,4 @@
 /\/((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep).html?)|((barclaypayment|delivery-(address|options)|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
-||lokalneinformacje.pl^$all
-||pol-news24.pl^$all
-||pl.cryptoengine.fun^$all
 /^https?:\/\/([\w]{1,4}\.|)allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.|)faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.|)(anzugreifen|betheprime|buntkorper|curtainhardsh|cuttherope|consquarters|contambeat|derenslipakyb|dsvhcc|esoterisch|garternal|greenelephants|headregret|itsbanana|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|teckinharmux|tekerstreet|thvedroisil|testing3srv|vernistrail|waarschijnlijk)\d+\.live/$all
@@ -433,6 +430,7 @@
 ||cmentosrl.com^$all
 ||cn18476.tmweb.ru^$all
 ||cn52267.tmweb.ru^$all
+||co85351.tmweb.ru^$all
 ||co99044.tmweb.ru^$all
 ||coast-bank.com^$all
 ||codzienniekazdycos.club^$all
@@ -1409,6 +1407,7 @@
 ||logowanie.dkonto.pl^$all
 ||loguj-praca.co.pl^$all
 ||lokalneinformacje*.vot.pl^$all
+||lokalneinformacje.pl^$all
 ||lokalnie.live^$all
 ||longxvisitorcenter.xyz^$all
 ||losososdesign.com^$all
@@ -1894,6 +1893,7 @@
 ||pl.bitcoinsystem-appl.t*track*.com^$all
 ||pl.bitcoinup-app.co^$all
 ||pl.btc-billionaire.com^$all
+||pl.cryptoengine.fun^$all
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
 ||pl.profitmaximizer-app.com^$all
@@ -1958,6 +1958,7 @@
 ||polskie-newsy.com.pl^$all
 ||polski-poranek-pl.com^$all
 ||polski-poranek.pl^$all
+||pol-news24.pl^$all
 ||pomagajmypl.*^$all
 ||pomagamy-fakty24.pl^$all
 ||pomagamy-onet.eu^$all
@@ -2735,4 +2736,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||co85351.tmweb.ru^$all
