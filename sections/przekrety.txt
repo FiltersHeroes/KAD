@@ -5,7 +5,7 @@
 ||excentral-int.com^$all
 ||interactivetrade.com^$all
 ||swisstrade.exchange^$all
-||cs.coffeedeliverys.com^$all
+||coffeedeliverys.com^$all
 
 /\/((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep).html?)|((barclaypayment|delivery-(address|options)|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -480,8 +480,8 @@
 ||csprocup.com^$all
 ||csz1-amzzzsrvceupdayters.com^$all
 ||cs-czosnusie.cba.pl^$all
-||cs.nailrr.com^$all
-||cs.socksonclick.com^$all
+||nailrr.com^$all
+||socksonclick.com^$all
 ||ct28530.tmweb.ru^$all
 ||ct33421.tmweb.ru^$all
 ||cuorl.top^$all
