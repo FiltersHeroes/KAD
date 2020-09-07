@@ -1,3 +1,11 @@
+||epicsinvestment.com^$all
+||goldflame.com^$all
+||globalmaxis.com^$all
+||excentral.com^$all
+||excentral-int.com^$all
+||interactivetrade.com^$all
+||swisstrade.exchange^$all
+
 /\/((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep).html?)|((barclaypayment|delivery-(address|options)|tracking)\.php)$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
