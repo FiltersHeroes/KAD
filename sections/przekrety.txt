@@ -2,6 +2,7 @@
 ||kobiece-sprawy.eu^$all
 ||horse-strenght.com^$all
 ||mysexdating*.club^$all
+||instalovers.net^$all
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
