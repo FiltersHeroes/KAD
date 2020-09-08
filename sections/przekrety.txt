@@ -3,6 +3,7 @@
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document,domain=agency|icu|life|live|loan
+/^https?:\/\/([\w]{1,4}\.)?(goedekans|flyingintheclouds|jsdevelopmentq|wildgrelns)[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?polska(\d+)?-?poczta\.[\w]{2,14}/$all
@@ -10,7 +11,6 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?(goedekans|flyingintheclouds|jsdevelopmentq|wildgrelns)[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 ||0b8cc331813049912.temporary.link^$all
 ||0e0.eu^$all
@@ -48,6 +48,7 @@
 ||24fakty-sniadaniowe.pl^$all
 ||24lite.eu^$all
 ||24-biznes.eu^$all
+||24-gazeta.co.pl^$all
 ||24.eu^$document,domain=~www.24.eu
 ||37.228.116.200^$all
 ||50kzl.pl^$all
@@ -129,6 +130,7 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.com.ru^$all
 ||allegrolokalnie.oferta000123.xyz^$all
+||allegrolokalnie.oferta020202.xyz^$all
 ||allegrolokalnie.oferta061120.xyz^$all
 ||allegrolokalnie.oferta123098.xyz^$all
 ||allegrolokalnie.oferta159815.xyz^$all
@@ -1471,6 +1473,7 @@
 ||margohack.za.pl^$all
 ||maska-oddechowa-kn95-pl.com^$all
 ||mastertradeinvestments.com^$all
+||matchlesssanctity.org^$all
 ||matisport.strefa.pl^$all
 ||maxitrade.com^$all
 ||maxizoptions.com^$all
@@ -2767,6 +2770,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||24-gazeta.co.pl^$all
-||allegrolokalnie.oferta020202.xyz^$all
-||matchlesssanctity.org^$all
