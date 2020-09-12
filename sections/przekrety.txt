@@ -4,7 +4,7 @@
 ||dating-4-adults*.com^$all
 ||sklep-play.cc^$all
 ||gcginternational.com^$all
-*/tracking-load.html?ssl=yes$all
+*/tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
