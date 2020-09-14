@@ -1,5 +1,7 @@
 ||biznesoweinfo.miasta.pl^$all
 ||investmarket.info^$all
+||londontrade.exchange^$all
+||grandtrade.exchange^$all
 
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
