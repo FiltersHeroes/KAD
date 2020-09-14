@@ -1,8 +1,3 @@
-||biznesoweinfo.miasta.pl^$all
-||investmarket.info^$all
-||londontrade.exchange^$all
-||grandtrade.exchange^$all
-
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -311,6 +306,7 @@
 ||bitsends.space^$all
 ||bitworldfx.com^$all
 ||biyunhui.com^$all
+||biznesoweinfo.miasta.pl^$all
 ||biznes-bnp-paribas-secure.at^$all
 ||biznes-planet-paribas.at^$all
 ||blackstone500.com^$all
@@ -1144,6 +1140,7 @@
 ||gplay-store.ru^$all
 ||gpmandiri.com^$all
 ||grafian.pl^$all
+||grandtrade.exchange^$all
 ||granolamogleys.com^$all
 ||graotron.biz^$all
 ||grazefoot.com^$all
@@ -1175,6 +1172,7 @@
 ||health-beauty.press^$all
 ||heartsworldwide.pl^$all
 ||heavensp.xyz^$all
+||hehreerh.001www.com^$all
 ||helloworld.ddnsking.com^$all
 ||herrakop.co^$all
 ||hexistrading.com^$all
@@ -1309,6 +1307,7 @@
 ||interpathlaboratories.com^$all
 ||interwencja.you2.pl^$all
 ||inteza.pl^$all
+||investmarket.info^$all
 ||investreviewier.com^$all
 ||in-post.me^$all
 ||in-post.net^$all
@@ -1546,6 +1545,7 @@
 ||lokalneinformacje*.vot.pl^$all
 ||lokalneinformacje.pl^$all
 ||lokalnie.live^$all
+||londontrade.exchange^$all
 ||longxvisitorcenter.xyz^$all
 ||losososdesign.com^$all
 ||lotekkurier.com^$all
@@ -2111,6 +2111,7 @@
 ||policy-secure-account.com^$all
 ||polishwebmailadmin.weebly.com^$all
 ||polityka-bez-cenzury.you2.pl^$all
+||polska24.eu^$all
 ||polskagazeta.co.pl^$all
 ||polskanews.eu^$all
 ||polskanews.h2g.pl^$all
@@ -2373,6 +2374,7 @@
 ||servicecheck5.wixsite.com^$all
 ||service-pay.company^$all
 ||serwer63485.lh.pl^$all
+||serwer2014122.home.pl^$all
 ||serwer2015736.home.pl^$all
 ||serwer2060069.home.pl^$all
 ||serwer2080737.home.pl^$all
@@ -2979,6 +2981,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||hehreerh.001www.com^$all
-||polska24.eu^$all
-||serwer2014122.home.pl^$all
