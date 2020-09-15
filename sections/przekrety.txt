@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||gerotote.vip^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1086,6 +1085,7 @@
 ||gensminers.com^$all
 ||genyconsumerbehaviour.xyz^$all
 ||geogeekgis.com^$all
+||gerotote.vip^$all
 ||getfilesfrom.net^$all
 ||getgamecheats.com^$all
 ||getimmediateedge.com^$all
@@ -2379,11 +2379,13 @@
 ||servicecheck5.wixsite.com^$all
 ||service-pay.company^$all
 ||serwer63485.lh.pl^$all
+||serwer2013880.home.pl^$all
 ||serwer2014122.home.pl^$all
 ||serwer2015736.home.pl^$all
 ||serwer2060069.home.pl^$all
 ||serwer2080737.home.pl^$all
 ||serwer2081805.home.pl^$all
+||serwer2085370.home.pl^$all
 ||serwer2094574.home.pl^$all
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
@@ -2473,6 +2475,7 @@
 ||sslplatnosc.online^$all
 ||ssl-cert.pl^$all
 ||sso-cloud-ideabank.at^$all
+||sso-cloud-idea-bank.at^$all
 ||sso-cloud-idea.at^$all
 ||sso-ideabank.com^$all
 ||sspbadecz.ugu.pl^$all
@@ -2987,6 +2990,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||serwer2013880.home.pl^$all
-||serwer2085370.home.pl^$all
-||sso-cloud-idea-bank.at^$all
