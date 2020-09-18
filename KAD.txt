@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Thu, 17 Sep 2020, 21:02 UTC+02
-! Version: 2020.9.17.2
+! Last modified: Fri, 18 Sep 2020, 13:02 UTC+02
+! Version: 2020.9.18.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3139,6 +3139,7 @@
 ||czerwinski.ciesielstwo.cba.pl^$all
 ||c*.tmweb.ru/weryfikacja/$all
 ||c.pl^$document,domain=~www.c.pl
+||d26sio54efdz72.cloudfront.net^$all
 ||dachbud.slask.pl^$all
 ||danangluxury.com^$all
 ||darky.cba.pl^$all
@@ -3451,6 +3452,7 @@
 ||fakty24-swiat.pl^$all
 ||fakty24-warszawa.com^$all
 ||fakty24.dkonto.pl^$all
+||fakty24.warszawa.pl^$all
 ||faktyinews24.eu^$all
 ||faktyinews48.eu^$all
 ||faktylive-24.eu^$all
@@ -3870,10 +3872,14 @@
 ||inpostkode.com^$all
 ||inpostodkaz.net^$all
 ||inpost-app.me^$all
+||inpost-generator.net^$all
+||inpost-kody.net^$all
 ||inpost-kod.com^$all
 ||inpost-paczka.services^$all
+||inpost-paczkomat.net^$all
 ||inpost-serwisinternetowy.com^$all
 ||inpost.club^$all
+||inpost.dev^$all
 ||inpost.help^$all
 ||inpost.kod-odbioru.com^$all
 ||inpost.kod-odbioru.me^$all
@@ -4328,6 +4334,7 @@
 ||navi-esport.com^$all
 ||navi-gt.com^$all
 ||navi-tm.com^$all
+||nbvzcawgwa9a.com^$all
 ||needforfile.net^$all
 ||nekkel.pl^$all
 ||nekstra.com^$all
@@ -4391,6 +4398,7 @@
 ||nympropiedades.cl^$all
 ||n-fakty.info^$all
 ||n-mobile.net^$all
+||o2-online.pl^$all
 ||obkzrcclean2.az.pl^$all
 ||obslugakelnerska20.wixsite.com^$all
 ||odchudzaniewielotorowe.pl^$all
@@ -5509,6 +5517,7 @@
 ||your-mac-security-analysis.net.*.*.xyz^$all
 ||your-movies.pl^$all
 ||your-sexydreams.com^$all
+||yrehrher.001www.com^$all
 ||yuppipuppy.com^$all
 ||za10groszy.pl^$all
 ||zaglosuje-pomoc.eu^$all
