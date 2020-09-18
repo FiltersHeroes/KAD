@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||pl.medic-reporters.com^
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -728,6 +727,7 @@
 ||elektromax-serwis.pl^$all
 ||elektronicze-poszukiwania.eu^$all
 ||elektronika758190.xyz^$all
+||elektronika984981.xyz^$all
 ||elememory.com^$all
 ||elvox.pl^$all
 ||elwirakurier.com^$all
@@ -1462,6 +1462,7 @@
 ||konkursy.de^$all
 ||kontakt24.xn.pl^$all
 ||kopalniafilmow.pl^$all
+||korgod.ct8.pl^$all
 ||koronamiasto.hekko24.pl^$all
 ||koronawirusnews.com.pl^$all
 ||koronawirusnews.net.pl^$all
@@ -1822,6 +1823,7 @@
 ||odkazinpost.net^$all
 ||odnajdujemydziewczynke.eu^$all
 ||oferta100981.site^$all
+||oferta189146.xyz^$all
 ||oferta189515.xyz^$all
 ||oferta289511.space^$all
 ||oferta589146.space^$all
@@ -2101,6 +2103,7 @@
 ||pl.bitcoinup-app.co^$all
 ||pl.btc-billionaire.com^$all
 ||pl.cryptoengine.fun^$all
+||pl.medic-reporters.com^
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
 ||pl.profitmaximizer-app.com^$all
@@ -2152,6 +2155,7 @@
 ||polskanews.h2g.pl^$all
 ||polskapaczka24.net^$all
 ||polskapolicja24.pl.*.*.cz^$all,domain=cz
+||polskapolicja.you2.pl^$all
 ||polskaporwania.*^$all
 ||polskawiadomosc.club^$all
 ||polskawiad.top^$all
@@ -3018,7 +3022,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||elektronika984981.xyz^$all
-||korgod.ct8.pl^$all
-||oferta189146.xyz^$all
-||polskapolicja.you2.pl^$all
