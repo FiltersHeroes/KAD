@@ -1,7 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||macheaper.top^$all
-||e-fakty24.com.pl^$all
-||lp.trade360.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -794,6 +791,7 @@
 ||e-childalert.*^$all
 ||e-dpd.pl^$all
 ||e-fakt24.eu^$all
+||e-fakty24.com.pl^$all
 ||e-fakty24.eu^$all
 ||e-faktyonet24.eu^$all
 ||e-faktypolska24.eu^$all
@@ -1258,6 +1256,7 @@
 ||informacje-swiat.pl^$all
 ||informacje-z-polski-48.eu^$all
 ||informacje-z-polski-48.waw.pl^$all
+||informator24.eu^$all
 ||informujemy.eu^$all
 ||inform*.is-best.net^$all
 ||infosandiego.wixsite.com^$all
@@ -1574,6 +1573,7 @@
 ||lowpay.net^$all
 ||lp24.eu^$all
 ||lp.moviesearchcenter.com^$all
+||lp.trade360.com^$all
 ||lubicplacki.is-best.net^$all
 ||lubiego.is-best.net^$all
 ||lubimyzycie.com^$all
@@ -1587,6 +1587,7 @@
 ||luxkur.online^$all
 ||lvgrowmarkets.com^$all
 ||maceju.com^$all
+||macheaper.top^$all
 ||mackeeperaffiliates.com^$all
 ||mackeeperapp.mackeeper.com^$all
 ||madmulla.duckdns.org^$all
@@ -3027,4 +3028,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||informator24.eu^$all
