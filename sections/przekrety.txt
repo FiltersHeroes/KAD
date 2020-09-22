@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||astontrust.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -162,6 +161,7 @@
 ||allegrolokalnie.oferta987567.xyz^$all
 ||allegrolokalnie.oferta999555.xyz^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl
+||allegroloklinie-oferta748219.xyz^$all
 ||allegrosklep.online^$all
 ||allegrowork.site^$all
 ||allegro-apk.net^$all
@@ -236,6 +236,7 @@
 ||aseanlegaltech.com^$all
 ||aspenholding.com^$all
 ||aspenholding.co^$all
+||astontrust.com^$all
 ||astrocash.org^$all
 ||atforum.pl^$all
 ||atnimanvilla.com^$all
@@ -268,6 +269,7 @@
 ||basiekurier.org^$all
 ||bazafilm.pl^$all
 ||bazalt-gracze.pl^$all
+||bazaosobzaginionych.you2.pl^$all
 ||bazkomp.pl^$all
 ||beasybd.com^$all
 ||begin.digitabook.net^$all
@@ -867,6 +869,7 @@
 ||fakty24-warszawa.com^$all
 ||fakty24.dkonto.pl^$all
 ||fakty24.warszawa.pl^$all
+||fakty24.you2.pl^$all
 ||faktyinews24.eu^$all
 ||faktyinews48.eu^$all
 ||faktylive-24.eu^$all
@@ -881,6 +884,7 @@
 ||faktyzwawy.pl^$all
 ||fakty-alert.eu^$all
 ||fakty-info24.pl^$all
+||fakty-informacje24.you2.pl^$all
 ||fakty-news48.eu^$all
 ||fakty-news72.eu^$all
 ||fakty-onet48.*^$all
@@ -1953,6 +1957,7 @@
 ||ostatniachwila.freekru.pl^$all
 ||oszczedzanie-na-ekranie.pl^$all
 ||otodomweryfikacja.com^$all
+||otomoto-kontoinfo.de^$all
 ||otomoto.g43xweb.de^$all
 ||otomoto.group^$all
 ||otomoto.k23mp1.eu^$all
@@ -2211,6 +2216,8 @@
 ||posciele.za.pl^$all
 ||postkod.org^$all
 ||post-990094.at^$all
+||poszukiwaniaonline.eu^$all
+||poszukiwaniaonline.you2.pl^$all
 ||poszukiwania*.com.pl^$all
 ||powaifinearts.org^$all
 ||powiat24-wydarzenia.pl^$all
@@ -3034,10 +3041,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||allegroloklinie-oferta748219.xyz^$all
-||bazaosobzaginionych.you2.pl^$all
-||fakty24.you2.pl^$all
-||fakty-informacje24.you2.pl^$all
-||otomoto-kontoinfo.de^$all
-||poszukiwaniaonline.eu^$all
-||poszukiwaniaonline.you2.pl^$all
