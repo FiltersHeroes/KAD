@@ -1,5 +1,6 @@
 /^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document
 ||0n.click^$all
+||thisisclicksecured.page.link^^$all
 ||noebank.pl^$all
 ||185.34.52.4^$all
 ||interia-info.livejournal.com^$all
