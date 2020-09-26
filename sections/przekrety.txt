@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||learn-to-observe.co.pl^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1276,6 +1275,7 @@
 ||informacjeonet.eu^$all
 ||informacjezkraju.eu^$all
 ||informacje-24-waw-pl.000webhostapp.com^$all
+||informacje-energylandia.dfirma.pl^$all
 ||informacje-live24.eu^$all
 ||informacje-news.eu^$all
 ||informacje-onet.eu^$all
@@ -1541,6 +1541,7 @@
 ||latarkapowerstyle-pl.com^$all
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
+||learn-to-observe.co.pl^$all
 ||lebaneseads.com^$all
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl
 ||legioncrest.com^$all
@@ -2944,6 +2945,7 @@
 ||worldprize.pl^$all
 ||worthlessness.xyz^$all
 ||wosp.online^$all
+||wpnews24.you2.pl^$all
 ||wprost-news.pl^$all
 ||wp-regulamin.com^$all
 ||wp.*.top^$document,domain=top
@@ -3105,5 +3107,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||informacje-energylandia.dfirma.pl^$all
-||wpnews24.you2.pl^$all
