@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||tiomarkets.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -742,6 +741,7 @@
 ||elektronika198373.xyz^$all
 ||elektronika675181.xyz^$all
 ||elektronika758190.xyz^$all
+||elektronika983510.xyz^$all
 ||elektronika984981.xyz^$all
 ||elememory.com^$all
 ||elvox.pl^$all
@@ -1517,6 +1517,7 @@
 ||kuponline589175.xyz^$all
 ||kuponline785912.xyz^$all
 ||kuponline859172.xyz^$all
+||kuponline983510.xyz^$all
 ||kup-teraz-237401.xyz^$all
 ||kup-teraz-859110.xyz^$all
 ||kur24pl.eu^$all
@@ -1885,6 +1886,7 @@
 ||ogloszenie-elektronika.online^$all
 ||ogloszenie-elektronika.site^$all
 ||ogloszenie-elektronika.tech^$all
+||ogloszenie-kupteraz-097159.xyz^$all
 ||ogloszenie-kupteraz-149175.xyz^$all
 ||ogloszenie-kupteraz-187295.xyz^$all
 ||ogloszenie-kupteraz-805214.xyz^$all
@@ -2294,6 +2296,7 @@
 ||protection-cellphone.fun^$all
 ||pruszcz.cba.pl^$all
 ||pruszkow2019.pl^$all
+||prywatna-sesja.eu^$all
 ||prywatne-fotki.mywebcommunity.org^$all
 ||przechowalnia.net^$all
 ||przechowalnie.net^$all
@@ -2690,6 +2693,7 @@
 ||tibuexpress.com^$all
 ||tinyfilehost.com^$all
 ||tinyfileshost.com^$all
+||tiomarkets.com^$all
 ||tlanddissipate.at^$all
 ||tobylowczoraj.xyz^$all
 ||today-topnews.com^$all
@@ -3100,7 +3104,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||elektronika983510.xyz^$all
-||kuponline983510.xyz^$all
-||ogloszenie-kupteraz-097159.xyz^$all
-||prywatna-sesja.eu^$all
