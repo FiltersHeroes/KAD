@@ -1,6 +1,5 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
-||crypto-genius.privatecatalog.pro^$all
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
@@ -357,6 +356,7 @@
 ||bookbugg.com^$all
 ||bookofoffers.com^$all
 ||bosbank-24.com^$all
+||bosbank-24.pl^$all
 ||bossbank24.com^$all
 ||bozenan.swk.vectranet.pl^$all
 ||bramka-sms-za-darmo.pl^$all
@@ -543,6 +543,7 @@
 ||cristal2017.argo.host^$all
 ||crtum.top^$all
 ||cryptolegacypro.com^$all
+||crypto-genius.privatecatalog.pro^$all
 ||cs43842.tmweb.ru^$all
 ||csgomvpseries.com^$all
 ||csprocup.com^$all
@@ -1214,6 +1215,7 @@
 ||heavensp.xyz^$all
 ||hehreerh.001www.com^$all
 ||helloworld.ddnsking.com^$all
+||helploginn.moonfruit.com^$all
 ||herrakop.co^$all
 ||hexistrading.com^$all
 ||higder.weebly.com^$all
@@ -1715,6 +1717,7 @@
 ||mirindas.info^$all
 ||miroslawklos.pl^$all
 ||mitoteam.com^$all
+||miutro.com^$all
 ||mke2morrow.com^$all
 ||mmsolar.pl^$all
 ||mnpasalubong.com^$all
@@ -2076,12 +2079,6 @@
 ||pafiilate.byethost32.com^$all
 ||paiementhome-pl-*.rpm-technik.at^$all
 ||paiementhome-pl-*.vmkfz.at^$all
-||paiementhome-pl-*.vmkfz.at^$all
-||paiementnazwa-pl-*.evv-auditing.com^$all
-||paiementnazwa-pl-*.evv-auditing.com^$all
-||paiementnazwa-pl-*.evv-auditing.com^$all
-||paiementnazwa-pl-*.evv-auditing.com^$all
-||paiementnazwa-pl-*.evv-auditing.com^$all
 ||paiementnazwa-pl-*.evv-auditing.com^$all
 ||paifi.net^$all
 ||pakafast4you24h.club^$all
@@ -2098,6 +2095,7 @@
 ||parcel.gjbx346t33h972c.20design.org^$all
 ||parcel.m2604c11v3vypup.amirbartehran.com^$all
 ||parcel.uzp2lo6ocafq7by.alirezamalek.ir^$all
+||parcel.zlaosef6rfsid1x.20design.org^$all
 ||paribas-biznes-planet.at^$all
 ||paribas-biznes-secure.at^$all
 ||paribas-login.xyz^$all
@@ -2119,14 +2117,7 @@
 ||pay24-paczka.com^$all
 ||payhome-pl-*.arw-rohstoffhandel.com^$all
 ||payhome-pl-*.vmkfz.at^$all
-||payhome-pl-*.vmkfz.at^$all
-||payhome-pl-*.vmkfz.at^$all
 ||payment24-online.org^$all
-||paynazwa-pl-*.evv-auditing.com^$all
-||paynazwa-pl-*.evv-auditing.com^$all
-||paynazwa-pl-*.evv-auditing.com^$all
-||paynazwa-pl-*.evv-auditing.com^$all
-||paynazwa-pl-*.evv-auditing.com^$all
 ||paynazwa-pl-*.akprojektebau.at^$all
 ||paynazwa-pl-*.evv-auditing.com^$all
 ||paynazwa-pl-*.motor-active.at^$all
@@ -2543,6 +2534,7 @@
 ||setup-firefox.host^$all
 ||sgb24.at^$all
 ||sgb-24.at^$all
+||sgb-online.pl^$all
 ||shael.org^$all
 ||shantia.cba.pl^$all
 ||shaverbasics.com^$all
@@ -2753,6 +2745,7 @@
 ||thefortunatenutrition.com^$all
 ||themarketriser.com^$all
 ||themovienation.com^$all
+||thepermanenttruth.com^$all
 ||the-bitcoins-code.com^$all
 ||the-bitcoin-profit.com^$all
 ||thinhvuongmedia.com^$all
@@ -3178,9 +3171,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||bosbank-24.pl^$all
-||helploginn.moonfruit.com^$all
-||miutro.com^$all
-||parcel.zlaosef6rfsid1x.20design.org^$all
-||sgb-online.pl^$all
-||thepermanenttruth.com^$all
