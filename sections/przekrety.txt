@@ -1,7 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||sekret.online^$all
-||moje69.pl^$all
-||pukaczu.pl^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1737,6 +1734,7 @@
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
 ||mojapaczka24.net^$all
+||moje69.pl^$all
 ||mojechwile.pl^$all
 ||mojekobe.is-best.net^$all
 ||mojemiastoinfo.eu^$all
@@ -2387,6 +2385,7 @@
 ||psinetutor.com^$all
 ||psundergrowth.xyz^$all
 ||pubmax.com.pl^$all
+||pukaczu.pl^$all
 ||pulsbiznesu.xyz^$all
 ||pulsebiznesu.xyz^$all
 ||pulse-biznesowe.xyz^$all
@@ -2520,6 +2519,7 @@
 ||security-update-required.com^$all
 ||segregations.xyz^$all
 ||seioodsoi.club^$all
+||sekret.online^$all
 ||sensosushi.pl^$all
 ||seolandia.pl^$all
 ||seriale.best^$all
@@ -2623,6 +2623,7 @@
 ||sprawdzikk.v0r.org^$all
 ||sprawdzto.is-best.net^$all
 ||sprnr*.net^$all
+||sprzedaz-nr-940031.in.net^$all
 ||sslinfotype.pw^$all
 ||ssll-payu.com^$all
 ||sslpayu.com^$all
@@ -3178,4 +3179,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||sprzedaz-nr-940031.in.net^$all
