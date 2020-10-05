@@ -1,7 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||pulsoksymetr*-pl.com^$all
-||siedziskozelowe-pl.com^$all
-||plde.bestshopping-voucher.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1825,6 +1822,7 @@
 ||nautili.us^$all
 ||nav1002.ath.cx^$all
 ||navi-esport.com^$all
+||navi-free.org.ru^$all
 ||navi-gt.com^$all
 ||navi-tm.com^$all
 ||nazwapaiement-pl-*.evv-auditing.com^$all
@@ -2190,6 +2188,7 @@
 ||playsklep.net^$all
 ||play-vod.pl^$all
 ||plcalyfilm.over-blog.com^$all
+||plde.bestshopping-voucher.com^$all
 ||plengistat.info^$all
 ||pletomak.mypi.co^$all
 ||plikgier.5p.pl^$all
@@ -2397,6 +2396,7 @@
 ||pulsbiznesu.xyz^$all
 ||pulsebiznesu.xyz^$all
 ||pulse-biznesowe.xyz^$all
+||pulsoksymetr*-pl.com^$all
 ||puls-sukcesu.net^$all
 ||pumaoutletpl.pl^$all
 ||pumeksy.pl^$all
@@ -2559,6 +2559,7 @@
 ||showsplash.com^$all
 ||show-auctions.pl^$all
 ||shutadds.w.of.pl^$all
+||siedziskozelowe-pl.com^$all
 ||sie-pomaga.net^$all
 ||sigma1.eu^$all
 ||signin-ea.com^$all
@@ -3179,4 +3180,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||navi-free.org.ru^$all
