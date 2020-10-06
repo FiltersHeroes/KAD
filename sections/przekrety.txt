@@ -1,9 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||the-newse.com^$all
-||finmaxfx.com^$all
-||extra-gains.com^$all
-||ralphlaurenpoland.pl^$all
-||adidasplsklep.pl^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -93,6 +88,7 @@
 ||adasiapaczka.org^$all
 ||adastra2019onlinezalukajfilm.wordpress.com^$all
 ||adestudio.w8w.pl^$all
+||adidasplsklep.pl^$all
 ||adkokurier.org^$all
 ||admwarszawa.pl^$all
 ||adobe.5v.pl^$all
@@ -814,6 +810,7 @@
 ||express-dhl.com^$all
 ||express-inpost.com^$all
 ||express-pocztex.com^$all
+||extra-gains.com^$all
 ||ex-torrentycom.5v.pl^$all
 ||eyrherrhereh.tcp4.me^$all
 ||eyupp.com^$all
@@ -1026,6 +1023,7 @@
 ||findmyiphone-id.pw^$all
 ||findwfriends.net.ht^$all
 ||find-best-profits.com^$all
+||finmaxfx.com^$all
 ||firecash.org^$all
 ||firma-tuningowa.lublin.click^$all
 ||fitchciapara.com^$all
@@ -2431,6 +2429,7 @@
 ||radiorage.com^$all
 ||radiozetka.net^$all
 ||radkokurier.org^$all
+||ralphlaurenpoland.pl^$all
 ||randewoo.ir^$all
 ||randomelements.co.uk^$all
 ||rangreality.com^$all
@@ -2640,6 +2639,7 @@
 ||sprawdzikk.v0r.org^$all
 ||sprawdzto.is-best.net^$all
 ||sprnr*.net^$all
+||sprzedaz-nr-497417.in.net^$all
 ||sprzedaz-nr-940031.in.net^$all
 ||sslinfotype.pw^$all
 ||ssll-payu.com^$all
@@ -2768,6 +2768,7 @@
 ||thepermanenttruth.com^$all
 ||the-bitcoins-code.com^$all
 ||the-bitcoin-profit.com^$all
+||the-newse.com^$all
 ||thinhvuongmedia.com^$all
 ||think1.com^$all
 ||thongtindonganh.vn^$all
@@ -3190,4 +3191,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||sprzedaz-nr-497417.in.net^$all
