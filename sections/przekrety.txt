@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||the-bitcoins-evolution.net^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -98,6 +97,8 @@
 ||agipasesores.com^$all
 ||agnieszkaurbas.pl^$all
 ||agroniezapominajka.com.pl^$all
+||aiiegrolokalnieoferta.xyz^$all
+||aiiegro-lokalnie.xyz^$all
 ||ailegro.pl.ua^$all
 ||aintnothingtoit.com^$all
 ||ainvestments.com^$all
@@ -175,6 +176,7 @@
 ||allegrowork.site^$all
 ||allegro-apk.net^$all
 ||allegro-credit.info^$all
+||allegro-lokalnie-095716.xyz^$all
 ||allegro-lokalnie-581927.xyz^$all
 ||allegro-ogloszenia.you2.pl^$all
 ||allegro-okazje.dkonto.pl^$all
@@ -1641,8 +1643,10 @@
 ||lokalna-941866.in.net^$all
 ||lokalneinformacje*.vot.pl^$all
 ||lokalneinformacje.pl^$all
+||lokalnieaiiegro.xyz^$all
 ||lokalnieallegro-094213.xyz^$all
 ||lokalnie.live^$all
+||lokalnleallegro.xyz^$all
 ||londontrade.exchange^$all
 ||longxvisitorcenter.xyz^$all
 ||losososdesign.com^$all
@@ -2333,6 +2337,7 @@
 ||pomoc-rodzinom.website^$all
 ||pomoc-windykacja.pl^$all
 ||pomorskaakademia.com.pl^$all
+||pomoz-reprezentantowi.eu^$all
 ||popatrz-zdjecia.eu^$all
 ||popflix.pl^$all
 ||porannawiedza.xyz^$all
@@ -2791,6 +2796,7 @@
 ||themovienation.com^$all
 ||thepermanenttruth.com^$all
 ||the-bitcoins-code.com^$all
+||the-bitcoins-evolution.net^$all
 ||the-bitcoin-profit.com^$all
 ||the-newse.com^$all
 ||thinhvuongmedia.com^$all
@@ -3221,9 +3227,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||aiiegrolokalnieoferta.xyz^$all
-||aiiegro-lokalnie.xyz^$all
-||allegro-lokalnie-095716.xyz^$all
-||lokalnieaiiegro.xyz^$all
-||lokalnleallegro.xyz^$all
-||pomoz-reprezentantowi.eu^$all
