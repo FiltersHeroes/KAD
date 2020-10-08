@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-! Last modified: Wed, 07 Oct 2020, 21:03 UTC+02
-! Version: 2020.10.7.2
+! Last modified: Thu, 08 Oct 2020, 13:03 UTC+02
+! Version: 2020.10.8.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2512,6 +2512,7 @@
 ||24lite.eu^$all
 ||24-biznes.eu^$all
 ||24-gazeta.co.pl^$all
+||24.daily-news-24.com^$all
 ||24.eu^$document,domain=~www.24.eu
 ||24.ogloszeniateraz97.club^$all
 ||37.228.116.200^$all
@@ -4070,6 +4071,7 @@
 ||living2winning.com^$all
 ||lldi.pl^$all
 ||lnfo.web-chat.eu^$all
+||lngbusiness-start.com^$all
 ||lng-business.co^$all
 ||lnpostdezynfekcje.net^$all
 ||lnpost-apps.com^$all
@@ -4728,6 +4730,7 @@
 ||poczta-interia.com^$all
 ||poczta-interia.net^$all
 ||poczta-login-neostrada.com^$all
+||poczta-o2.pl^$all
 ||poczta-pay.com^$all
 ||poczta-polska.*^$document,domain=~poczta-polska.pl
 ||poczta-regulamin.com^$all
@@ -5549,6 +5552,7 @@
 ||ww.paczkwdpd.com^$all
 ||wx-xcx.xyz^$all
 ||wybierz-nagrode.pl^$all
+||wybor-reprezentanta.eu^$all
 ||wyciekizdjec24.pl^$all
 ||wydarzenia24.you2.pl^$all
 ||wydarzeniaroku020.site^$all
