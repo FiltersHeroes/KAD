@@ -1,19 +1,4 @@
-||owo-owo.vip^$all
-||kfc-vip.vip^$all
-||checkthatdeals.com^$all
-||orteza-na-kolano-pl.com^$all
-
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||zenek-caly-film.kazeo.com^$all
-||videoplanet.pl^$all
-||bf-online.xaa.pl^$all
-||filmonlinecda.pl^$all
-||4k.123moviesfox.xyz^$all
-||kinowehity.pl^$all
-||polskapromocja.com^$all
-||polskatanio.com^$all
-||butykeen.com^$all
-||butynowa.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -55,6 +40,7 @@
 ||4afe8b11a52839751.temporary.link^$all
 ||4kplayer.pl^$all
 ||4kstream.pl^$all
+||4k.123moviesfox.xyz^$all
 ||4office.pl^$all
 ||4stronyzdrowia.com^$all
 ||4.ogloszeniateraz97.club^$all
@@ -320,6 +306,7 @@
 ||best-lordliness.com^$all
 ||best-ones.website^$all
 ||best-sales.top^$all
+||bf-online.xaa.pl^$all
 ||bhpipoz.pl^$all
 ||bidenhascovid19.co^$all
 ||bideronka.is-best.net^$all
@@ -409,7 +396,9 @@
 ||bundle-deals.com^$all
 ||bungalowsentertainment.com^$all
 ||butybuffalo.pl^$all
+||butykeen.com^$all
 ||butymerrellpolska.pl^$all
+||butynowa.com^$all
 ||butypalladium.pl^$all
 ||buz2mobile.com^$all
 ||bycmama-gabi.pl^$all
@@ -477,6 +466,7 @@
 ||charge-backers.pl^$all
 ||charisministries.id^$all
 ||checkoutwins.com^$all
+||checkthatdeals.com^$all
 ||chefeladlevi.com^$all
 ||chelmy.cba.pl^$all
 ||chicharito14.c0.pl^$all
@@ -1005,6 +995,7 @@
 ||filmobox.pl^$all
 ||filmofon.pl^$all
 ||filmonlinebezlimitufot51.ek1.pl^$all
+||filmonlinecda.pl^$all
 ||filmonline.info.pl^$all
 ||filmovnia.pl^$all
 ||filmownia24.pl^$all
@@ -1506,6 +1497,7 @@
 ||ketabnema.com^$all
 ||ketodietnd.com^$all
 ||key-mine.fun^$all
+||kfc-vip.vip^$all
 ||kickboxing.cba.pl^$all
 ||kiepscy.evai.pl^$all
 ||kikofu.com^$all
@@ -1517,6 +1509,7 @@
 ||kinoman-tv.eu^$all
 ||kinonline.pl^$all
 ||kinovod.tv^$all
+||kinowehity.pl^$all
 ||kino-filmy.pl^$all
 ||kirstenbijlsma.com^$all
 ||kjopjpoerhrhe.001www.com^$all
@@ -2080,6 +2073,7 @@
 ||orange-kodzik.890m.com^$all
 ||organicmediasolution.com^$all
 ||orkisz24.pl^$all
+||orteza-na-kolano-pl.com^$all
 ||oslony-okienne.pl^$all
 ||osobyposzzukiiwane.seohost.com.pl^$all
 ||osobyzaginione.you2.pl^$all
@@ -2099,6 +2093,7 @@
 ||otube.pl^$document,domain=otube.pl|~uwaga-natretne-reklamy
 ||otymsiemowi.com.pl^$all
 ||overcreative.com^$all
+||owo-owo.vip^$all
 ||pacuskurier.org^$all
 ||paczinfo.com^$all
 ||paczka24h-dhl.com^$all
@@ -2325,6 +2320,8 @@
 ||polskapolicja24.pl.*.*.cz^$all,domain=cz
 ||polskapolicja.you2.pl^$all
 ||polskaporwania.*^$all
+||polskapromocja.com^$all
+||polskatanio.com^$all
 ||polskawiadomosc.club^$all
 ||polskawiad.top^$all
 ||polskawiad.xyz^$all
@@ -2430,6 +2427,7 @@
 ||przechwycone-zdjecia.00x.eu^$all
 ||przedszkolewitaminka.pl^$all
 ||przeglosuj-strone.eu^$all
+||przejdzmy-razem.eu^$all
 ||przejdz.ml^$all
 ||przejrzyj-fotki.eu^$all
 ||przekazy24.net^$all
@@ -2962,6 +2960,7 @@
 ||verifyotofb.n4t.co^$all
 ||vforte-pl.com^$all
 ||vgdny.com^$all
+||videoplanet.pl^$all
 ||videoplex.pl^$all
 ||vider.info^$document,domain=vider.info|~uwaga-natretne-reklamy
 ||vidnet.pl^$all
@@ -3198,6 +3197,7 @@
 ||zdrowadycha.pl^$all
 ||zdroweszpitale.pl^$all
 ||zechsal.pl^$all
+||zenek-caly-film.kazeo.com^$all
 ||zerety.xyz^$all
 ||zestawnaprawczy-do-wgniecen.com^$all
 ||zgarnijplik.pl^$all
@@ -3255,4 +3255,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||przejdzmy-razem.eu^$all
