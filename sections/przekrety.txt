@@ -4,7 +4,6 @@
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}[\d]{1,2}\.live\/[\d]{10}\/.*\?/$document
 /^https?:\/\/([\w]{1,4}\.)?(copysubstancepattern|decimalprovehour|discusssheetenemy|educationbedring|effectstorestream|fightyoungdream|flyingintheclouds|goedekans|historyalwayschildren|insectrunfollow|jsdevelopmentq|noseangerspend|occurthousandlast|randalieren|roundsolutionbrought|sciencewhategg|shoutmostface|thoughcopyforest|togethercleareducation|waterdiepattern|whateyeweight|wildgrelns)[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -13,6 +12,7 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}[\d]{1,2}\.live\/[\d]{10}\/.*\?/$document
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 ||0b8cc331813049912.temporary.link^$all
 ||0e0.eu^$all
@@ -339,6 +339,7 @@
 ||biznes-bnp-paribas-secure.at^$all
 ||biznes-planet-paribas.at^$all
 ||blackstone500.com^$all
+||blankiet-wspieraj.eu^$all
 ||blekitniproba.cba.pl^$all
 ||blockchainjoblist.com^$all
 ||blogabella.pl^$all
@@ -369,6 +370,7 @@
 ||bookofoffers.com^$all
 ||bosbank-24.com^$all
 ||bossbank24.com^$all
+||bos-bank.com^$all
 ||bozenan.swk.vectranet.pl^$all
 ||bramka-sms-za-darmo.pl^$all
 ||bramywolsztynie.pl^$all
@@ -1876,6 +1878,7 @@
 ||netflix-mail.info^$all
 ||netflix-movies-and-series-unlimited-login.kozow.com^$all
 ||netflix-update.platnosci.tttt-security.com^$all
+||netflix.pl.josepablonoguera.net^$all
 ||netflix.pl.lightersidepodcast.com^$all
 ||netflix.pl.murataydeniz.com.tr^$all
 ||netflix.pl.soincoips.com^$all
@@ -2600,6 +2603,7 @@
 ||setup-firefox.host^$all
 ||sgb24.at^$all
 ||sgb-24.at^$all
+||sgb-24.com^$all
 ||shael.org^$all
 ||shantia.cba.pl^$all
 ||shaverbasics.com^$all
@@ -3245,7 +3249,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||blankiet-wspieraj.eu^$all
-||bos-bank.com^$all
-||netflix.pl.josepablonoguera.net^$all
-||sgb-24.com^$all
