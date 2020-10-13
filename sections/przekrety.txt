@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||cyber-punk-2077.eu^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -105,6 +104,7 @@
 ||aiiegrolokalnieoferta.xyz^$all
 ||aiiegro-lokalnie.xyz^$all
 ||aiiegro-sprzedaz-718462.xyz^$all
+||ailegrolokalnle-kup-teraz.xyz^$all
 ||ailegro.pl.ua^$all
 ||aintnothingtoit.com^$all
 ||ainvestments.com^$all
@@ -497,6 +497,7 @@
 ||cy43164.tmweb.ru^$all
 ||cybereleague.com^$all
 ||cybermagicindia.com^$all
+||cyber-punk-2077.eu^$all
 ||cyfrowemotywy.cba.pl^$all
 ||cyfrowepotwory.pl^$all
 ||cyfrowypolsate.com^$all
@@ -1193,6 +1194,7 @@
 ||hothub.pl^$all
 ||housedropdeals.com^$all
 ||hrekcustomer.icu^$all
+||hrerheerhher.001www.com^$all
 ||hrhererhtng.001www.com^$all
 ||hugobosspl.pl^$all
 ||hurtsilvermagic.pl^$all
@@ -1529,6 +1531,7 @@
 ||lldi.pl^$all
 ||lnfo.web-chat.eu^$all
 ||lngbusiness-start.com^$all
+||lng-business-start.com^$all
 ||lng-business.co^$all
 ||lnpostdezynfekcje.net^$all
 ||lnpost-apps.com^$all
@@ -3188,6 +3191,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||ailegrolokalnle-kup-teraz.xyz^$all
-||hrerheerhher.001www.com^$all
-||lng-business-start.com^$all
