@@ -1,6 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||make-by-yourown.com^$all
-||cryptoricher.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -488,6 +486,7 @@
 ||cristal2017.argo.host^$all
 ||crtum.top^$all
 ||cryptolegacypro.com^$all
+||cryptoricher.com^$all
 ||crypto-genius.privatecatalog.pro^$all
 ||csgomvpseries.com^$all
 ||csprocup.com^$all
@@ -1106,6 +1105,7 @@
 ||glosy-zostawiaj.eu^$all
 ||glownedzisiaj.pro-linuxpl.com^$all
 ||gls-parcel.com^$all
+||gmai.com^$all
 ||gneoste.mypi.co^$all
 ||gnreg.com^$all
 ||goadvert.pk^$all
@@ -1266,6 +1266,7 @@
 ||info.ogloszeniateraz97.club^$all
 ||infromacje24.dfirma.pl^$all
 ||infx.eu^$all
+||inipost.net^$all
 ||innovacja.pl^$all
 ||innowacyjneprzedszkole.pl^$all
 ||innsat.pl^$all
@@ -1338,6 +1339,7 @@
 ||iqko.xyz^$all
 ||irbf.com^$all
 ||irismal.com^$all
+||irpost.net^$all
 ||islandmob.com^$all
 ||issl-cert.pl^$all
 ||istrefa.net^$all
@@ -1612,6 +1614,7 @@
 ||maiamirainy.at^$all
 ||mail.razempomagamy.xyz^$all
 ||makanaliabadian.ir^$all
+||make-by-yourown.com^$all
 ||malinkakurier.org^$all
 ||manistan.com^$all
 ||mantoropols.xyz^$all
@@ -2210,10 +2213,9 @@
 ||pl-postkod.com^$all
 ||pl-wyslij.best^$all
 ||pl.allsports4free.club^$all
-||pl.bitcoin*.t*track*.com^$all
 ||pl.bitcoinmethodpro.com^$all
-||pl.bitcoin*.t*track*.com^$all
 ||pl.bitcoinup-app.co^$all
+||pl.bitcoin*.t*track*.com^$all
 ||pl.btc-billionaire.com^$all
 ||pl.cryptoengine.fun^$all
 ||pl.cryptoengine.work^$all
@@ -3093,6 +3095,7 @@
 ||wylaczone.5p.pl^$all
 ||wypadki24.e-kei.pl^$all
 ||wypozycz-film.pl^$all
+||wyraz-pomoc.eu^$all
 ||wys24h.eu^$all
 ||wyscig-wygranych.eu^$all
 ||wysylka24.online^$all
@@ -3210,7 +3213,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||gmai.com^$all
-||inipost.net^$all
-||irpost.net^$all
-||wyraz-pomoc.eu^$all
