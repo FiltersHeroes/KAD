@@ -1,6 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||binvesting.com^$all
-||fcfg.pl^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -286,6 +284,7 @@
 ||biedronka-promocje.eu^$all
 ||bielpak.pl^$all
 ||bigsklep.com^$all
+||binvesting.com^$all
 ||bioinfotst.cba.pl^$all
 ||biologiazsg.cba.pl^$all
 ||bioperfect.pl^$all
@@ -888,6 +887,7 @@
 ||fb-service-login*.you2.pl^$all
 ||fb-stalking.com^$all
 ||fb-updt.com^$all
+||fcfg.pl^$all
 ||fhukaja.pl^$all
 ||fifidossaltosaltos.com^$all
 ||filebay.org^$all
@@ -2229,6 +2229,7 @@
 ||pl.medic-reporters.com^
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
+||pl.oix-pay.com^$all
 ||pl.profitmaximizer-app.com^$all
 ||pl.stores2020.net^$all
 ||pl.tradenewsinvesting.com^$all
@@ -3222,4 +3223,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||pl.oix-pay.com^$all
