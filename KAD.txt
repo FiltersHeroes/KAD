@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 20 Oct 2020, 21:04 UTC+02
-! Version: 2020.10.20.2
+! Last modified: Tue, 21 Oct 2020, 00:18 UTC+02
+! Version: 2020.10.21.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4509,7 +4509,6 @@
 ||pobierz-ebook.pl^$all
 ||pobiieerz-fotografiee.eu^$all
 ||pocztainteria-regulamin.net^$all
-||pocztapolska.*^$doc,domain=~pocztapolska.pl
 ||pocztasystemhelpdesk2098.000webhostapp.com^$all
 ||pocztasystem-adminhelpdesk990.000webhostapp.com^$all
 ||poczta-interia.com^$all
@@ -4517,7 +4516,6 @@
 ||poczta-login-neostrada.com^$all
 ||poczta-o2.pl^$all
 ||poczta-pay.com^$all
-||poczta-polska.*^$document,domain=~poczta-polska.pl
 ||poczta-regulamin.com^$all
 ||poczta.ron-mil-pl.site^$all
 ||pocztexpolska.*^$all
