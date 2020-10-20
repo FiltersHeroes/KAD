@@ -1,9 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||ortezanakolano-pl.com^$all
-
-||futuresbtcoffersnew.com^$all
-
-||mytopoffers.net^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1021,6 +1016,7 @@
 ||furgonetka.online^$all
 ||furgonetka.pro^$all
 ||futurepay.globway.eu^$all
+||futuresbtcoffersnew.com^$all
 ||fxpb.us^$all
 ||gackokurier.com^$all
 ||gagrat.co^$all
@@ -1722,6 +1718,7 @@
 ||myeforsa.pl^$all
 ||myinvests.pl^$all
 ||mysexdating*.club^$all
+||mytopoffers.net^$all
 ||mytraffic.pl^$all
 ||mzgov.net^$all
 ||m-instagram.org^$all
@@ -1730,6 +1727,7 @@
 ||nadziejjaniegasnie.seohost.com.pl^$all
 ||nagroda-sms.pl^$all
 ||nagroda.myartsonline.com^$all
+||nagrywamy-szpitale.ct8.pl^$all
 ||nailrr.com^$all
 ||najlepszewrozby.pl^$all
 ||najlepsze-oferty.com^$all
@@ -2009,6 +2007,7 @@
 ||orange-kodzik.890m.com^$all
 ||organicmediasolution.com^$all
 ||orkisz24.pl^$all
+||ortezanakolano-pl.com^$all
 ||orteza-na-kolano-pl.com^$all
 ||oslony-okienne.pl^$all
 ||osobyposzzukiiwane.seohost.com.pl^$all
@@ -3179,4 +3178,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||nagrywamy-szpitale.ct8.pl^$all
