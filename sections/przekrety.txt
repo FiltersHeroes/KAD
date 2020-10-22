@@ -1,6 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||solidinvest.co^$all
-||new.btc-trader-app.club^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -413,6 +411,7 @@
 ||centrumkrakowska.com.pl^$all
 ||centrumofert24.com^$all
 ||centrumplay.pl^$all
+||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
 ||ceresiontest.c0.pl^$all
 ||cezaevinegonder.com^$all
 ||cgiergate.com^$all
@@ -1573,6 +1572,7 @@
 ||logowanie.dkonto.pl^$all
 ||loguj-praca.co.pl^$all
 ||lokainie.life^$all
+||lokainie.live^$all
 ||lokalna-941866.in.net^$all
 ||lokalneinformacje*.vot.pl^$all
 ||lokalneinformacje.pl^$all
@@ -1824,6 +1824,7 @@
 ||news.bit-poland.club^$all
 ||news.you2.pl^$all
 ||new-message.co^$all
+||new.btc-trader-app.club^$all
 ||nextlevelprize.com^$all
 ||nfbio.com^$all
 ||nicesliders.top^$all
@@ -2620,8 +2621,10 @@
 ||soft4click.com^$all
 ||softmania.pl^$all
 ||softsmart.mobi^$all
+||sohohealthsolutions.com^$all
 ||sokratesolkusz.pl^$all
 ||solarmass.space^$all
+||solidinvest.co^$all
 ||somelandingpage.com^$all
 ||songsrsuper.com^$all
 ||soo.sg^$all
@@ -2845,6 +2848,7 @@
 ||tvjovem.net^$all
 ||tvkody.com^$all
 ||tvn24polska.eu^$all
+||tvn24.dfirma.pl^$all
 ||tvnewtop.pro^$all
 ||tvnowapp.net^$all
 ||tvn-uwaga.dfirma.pl^$all
@@ -2863,6 +2867,7 @@
 ||tv.gorzow.pl^$all
 ||twenteenow.bestofferslove.com^$all
 ||twenty-wishes.000webhostapp.com^$all
+||twistedibles.nindjagear.com^$all
 ||twojaenea.pl^$all
 ||twojanagroda.co.pl^$all
 ||twojanatura.com^$all
@@ -3218,8 +3223,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
-||lokainie.live^$all
-||sohohealthsolutions.com^$all
-||tvn24.dfirma.pl^$all
-||twistedibles.nindjagear.com^$all
