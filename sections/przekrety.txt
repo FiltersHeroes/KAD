@@ -1,7 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||add-ssl.com^$all
-||g-mailpoczta.pl^$all
-||giftcardbouns.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -93,6 +90,7 @@
 ||adasiapaczka.org^$all
 ||adastra2019onlinezalukajfilm.wordpress.com^$all
 ||add-fix.com^$all
+||add-ssl.com^$all
 ||adestudio.w8w.pl^$all
 ||adkokurier.org^$all
 ||admwarszawa.pl^$all
@@ -107,6 +105,7 @@
 ||aiiegro-iokalnle-oferta-832547.in.net^$all
 ||aiiegro-iokalnle-oferta.live^$all
 ||aiiegro-lokalnie.xyz^$all
+||aiiegro-pl-iokalnle-846127.online^$all
 ||aiiegro-sprzedaz-718462.xyz^$all
 ||ailegrolokalnle-kup-teraz.xyz^$all
 ||ailegro-iokalnie-289374.life^$all
@@ -1094,6 +1093,7 @@
 ||ggewgwegwe.001www.com^$all
 ||ghastlyf.xyz^$all
 ||gift19.club^$all
+||giftcardbouns.com^$all
 ||gim24.y0.pl^$all
 ||giuatpzhd9dytiw.choobin-co.ir^$all
 ||giuliakurier.org^$all
@@ -1156,6 +1156,7 @@
 ||guimaraesconstrutorasjc.com.br^$all
 ||gumka.strefa.pl^$all
 ||gutfilm.pl^$all
+||g-mailpoczta.pl^$all
 ||h0me.com.pl^$all
 ||h0me.eu^$all
 ||habilitacja.com.pl^$all
@@ -3240,4 +3241,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||aiiegro-pl-iokalnle-846127.online^$all
