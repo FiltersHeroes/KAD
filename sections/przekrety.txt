@@ -1,12 +1,5 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
-||loudmatch.com^$all
-||bitoptionfx.com^$all
-||investactive.cc^$all
-||ctxholdings.com^$all
-||znany-lekarz.dfirma.pl^$all
-||polski-lot.dfirma.pl^$all
-||whippingssleu.at^$all
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
@@ -204,7 +197,6 @@
 ||androidsecurityplus.com^$all
 ||androidupdater.top^$all
 ||android-cleaner.net^$all
-
 ||aniapaczka.org^$all
 ||anitkakurier.com^$all
 ||aniventure.co.uk^$all
@@ -268,6 +260,7 @@
 ||bajkowedekoracje.pl^$all
 ||bajkowestokrotki.cba.pl^$all
 ||balaton-trzebinia.pl^$all
+||bankdata.temanggungkab.go.id^$all
 ||bankmillennium.fun^$all
 ||bankmillennium.site^$all
 ||bankus.pl^$all
@@ -326,6 +319,7 @@
 ||bitcoin-billion-club.com^$all
 ||bitcoin-storm.com^$all
 ||bitcoin-trader-app.com^$all
+||bitoptionfx.com^$all
 ||bitsends.space^$all
 ||bitworldfx.com^$all
 ||biznesoweinfo.miasta.pl^$all
@@ -493,7 +487,6 @@
 ||colorking.es^$all
 ||communicazioni.kpi1hit5ficscvn.neysanbartehran.com^$all
 ||complainerscla.xyz^$all
-
 ||consityr600.xyz^$all
 ||cool4mob.com^$all
 ||coolboxpl2.com^$all
@@ -523,6 +516,7 @@
 ||csprocup.com^$all
 ||csz1-amzzzsrvceupdayters.com^$all
 ||cs-czosnusie.cba.pl^$all
+||ctxholdings.com^$all
 ||cuorl.top^$all
 ||cuosdemakadi.gq^$all
 ||customernoble.com^$all
@@ -627,7 +621,6 @@
 ||dodaj-cegielke.eu^$all
 ||dofinasowanieregionalne.pl^$all
 ||doladowania-telefonu.pl^$all
-
 ||doladujfona.org^$all
 ||domena-informacyjna.dkonto.pl^$all
 ||domniespodzianek.com^$all
@@ -1356,6 +1349,7 @@
 ||interpathlaboratories.com^$all
 ||interwencja.you2.pl^$all
 ||inteza.pl^$all
+||investactive.cc^$all
 ||investmarket.info^$all
 ||investreviewier.com^$all
 ||in-post.me^$all
@@ -1579,7 +1573,6 @@
 ||lindtkurier.org^$all
 ||linkkoin.com^$all
 ||link-operator24.com^$all
-
 ||lisygarments.com^$all
 ||lite-messenger.com^$all
 ||liversely.com^$all
@@ -1618,6 +1611,7 @@
 ||logowanie-paribas.at^$all
 ||logowanie.dkonto.pl^$all
 ||loguj-praca.co.pl^$all
+||lokaineogloszenie.live^$all
 ||lokainie.life^$all
 ||lokainie.live^$all
 ||lokainle-ogloszenia.xyz^$all
@@ -1633,6 +1627,7 @@
 ||longxvisitorcenter.xyz^$all
 ||losososdesign.com^$all
 ||lotekkurier.com^$all
+||loudmatch.com^$all
 ||lovemydress.pl^$all
 ||lowcyokazji.site^$all
 ||lowiskowoliczno.pl^$all
@@ -2378,6 +2373,7 @@
 ||polskilombard.pl^$all
 ||polskinews24.eu^$all
 ||polskiszpital24.dkonto.pl^$all
+||polski-lot.dfirma.pl^$all
 ||polski-poranek-pl.com^$all
 ||polski-poranek.pl^$all
 ||pol-news24.pl^$all
@@ -2654,7 +2650,6 @@
 ||showsplash.com^$all
 ||show-auctions.pl^$all
 ||shutadds.w.of.pl^$all
-
 ||siedziskozelowe-pl.com^$all
 ||sie-pomaga.net^$all
 ||sigma1.eu^$all
@@ -3080,6 +3075,7 @@
 ||westkyvo.com^$all
 ||wezwanieus.com^$all
 ||whenbuyyousale.co^$all
+||whippingssleu.at^$all
 ||whiskytawn.xyz^$all
 ||whiteoutsolutions.technology^$all
 ||wiadomosci24polska.pl^$all
@@ -3253,6 +3249,7 @@
 ||zbyk.drl.pl^$all
 ||zdjecia-fotki.pl^$all
 ||zdjecia-popatrz.eu^$all
+||zdjecieciownia.net^$all
 ||zdjecie-facebook-*.dkonto.pl^$all
 ||zdjecie-fotka.pl^$all
 ||zdjecie-ukradzione.eu^$all
@@ -3270,6 +3267,7 @@
 ||zlecone.xn.pl^$all
 ||zmiltraf.website^$all
 ||znaneleki.pl^$all
+||znany-lekarz.dfirma.pl^$all
 ||znany-lekarz.pl^$all
 ||zobaczfilm.com^$all
 ||zobaczto.eu^$all
@@ -3315,6 +3313,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||bankdata.temanggungkab.go.id^$all
-||lokaineogloszenie.live^$all
-||zdjecieciownia.net^$all
