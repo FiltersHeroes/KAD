@@ -1,5 +1,11 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
+||loudmatch.com^$all
+||bitoptionfx.com^$all
+||investactive.cc^$all
+||ctxholdings.com^$all
+||znany-lekarz.dfirma.pl^$all
+||polski-lot.dfirma.pl^$all
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
