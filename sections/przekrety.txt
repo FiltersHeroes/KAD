@@ -6,6 +6,7 @@
 ||ctxholdings.com^$all
 ||znany-lekarz.dfirma.pl^$all
 ||polski-lot.dfirma.pl^$all
+||whippingssleu.at^$all
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
