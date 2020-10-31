@@ -1,8 +1,3 @@
-||fenix-funds.pro^$all
-||wi.biz.pl^$all
-||invest-fd.io^$all
-||kamilbadnareklivecash.blogspot.com^$all
-
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -59,6 +54,7 @@
 ||24ekspres.online^$all
 ||24fakty-sniadaniowe.pl^$all
 ||24lite.eu^$all
+||24pakszybko.net.pl^$all
 ||24-biznes.eu^$all
 ||24-gazeta.co.pl^$all
 ||24.daily-news-24.com^$all
@@ -240,6 +236,7 @@
 ||apps.co.pl^$all
 ||apptrader.com^$all
 ||app*.kromtech.net^$all
+||app-messenger-lite.com^$all
 ||aqsati.com^$all
 ||aranzujemy.co.pl^$all
 ||arbeiten.pl^$all
@@ -425,7 +422,6 @@
 ||cda-edb.pl^$all
 ||cda-flix.pl^$all
 ||cda-tube.pl^$all
-
 ||cda-vod.pl^$all
 ||cda-zalukaj.pl^$all
 ||cdgame.kgb.pl^$all
@@ -926,6 +922,7 @@
 ||fb-stalking.com^$all
 ||fb-updt.com^$all
 ||fcfg.pl^$all
+||fenix-funds.pro^$all
 ||fhukaja.pl^$all
 ||fifidossaltosaltos.com^$all
 ||filebay.org^$all
@@ -1365,6 +1362,7 @@
 ||investactive.cc^$all
 ||investmarket.info^$all
 ||investreviewier.com^$all
+||invest-fd.io^$all
 ||in-post.me^$all
 ||in-post.net^$all
 ||in-post.online^$all
@@ -1445,6 +1443,7 @@
 ||kalendarzdnia23.site^$all
 ||kalendarzyk.org^$all
 ||kamilapaczka.org^$all
+||kamilbadnareklivecash.blogspot.com^$all
 ||kamilszymanski.com.pl^$all
 ||kanapa.tv^$all
 ||karencupp.com^$all
@@ -2321,6 +2320,7 @@
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
 ||pl.oix-pay.com^$all
+||pl.olx-merchant.com^$all
 ||pl.profitmaximizer-app.com^$all
 ||pl.tradenewsinvesting.com^$all
 ||pl.tvplusnewtab.com^$all
@@ -3164,6 +3164,7 @@
 ||wirtualne-media.pl^$all
 ||wirutalneinformacje.eu^$all
 ||wisdementive.info^$all
+||wi.biz.pl^$all
 ||wmcs.pl^$all
 ||wnioski-kredytowe.pl^$all
 ||wojewodzkakronika.098.pl^$all
@@ -3355,6 +3356,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||24pakszybko.net.pl^$all
-||app-messenger-lite.com^$all
-||pl.olx-merchant.com^$all
