@@ -1,6 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||ulubioneoferty.com^$all
-||nvisionpropl*.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1924,6 +1922,7 @@
 ||nowy-regulamin.pl^$all
 ||npitstart.cba.pl^$all
 ||nsfund.mn^$all
+||nvisionpropl*.com^$all
 ||nvod.pl^$all
 ||n-mobile.net^$all
 ||o2news.you2.pl^$all
@@ -3015,6 +3014,7 @@
 ||udokumentowanie.eu^$all
 ||ughsnethe.at^$all
 ||ultra-cda.pl^$all
+||ulubioneoferty.com^$all
 ||umarkets.io^$all
 ||unitedmedsshop.com^$all
 ||unitedproductsllc.net^$all
