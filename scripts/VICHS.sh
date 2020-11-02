@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.14
+# v2.18
 
 # MIT License
 
@@ -25,10 +25,10 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-SCRIPT_PATH=$(dirname "$0")
+SCRIPT_PATH=$(dirname "$(realpath -s "$0")")
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
-MAIN_PATH=$SCRIPT_PATH/..
+MAIN_PATH="$SCRIPT_PATH"/..
 
 # Tłumaczenie
 . gettext.sh
@@ -340,16 +340,17 @@ for i in "$@"; do
     done
 
     # Obliczanie ilości sekcji, które zostaną pobrane ze źródeł zewnętrznych i połączone z lokalnymi sekcjami
-    END_HOSTSCOMBINE=$(grep -o -i '@HOSTSCOMBINEinclude' "${TEMPLATE}" | wc -l)
+    END_HOSTSCOMBINE=$(grep -o -i '@COMBINEHOSTSinclude' "${TEMPLATE}" | wc -l)
 
     # Łączenie lokalnych i zewnętrznych sekcji w jedno oraz doklejanie ich w odpowiednie miejsca
     for (( n=1; n<=END_HOSTSCOMBINE; n++ ))
     do
-        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@HOSTSCOMBINEinclude" { print $2; exit }' "$FINAL").txt
-        EXTERNAL=$(awk '$1 == "@HOSTSCOMBINEinclude" { print $3; exit }' "$FINAL")
+        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEHOSTSinclude" { print $2; exit }' "$FINAL").txt
+        EXTERNAL=$(awk '$1 == "@COMBINEHOSTSinclude" { print $3; exit }' "$FINAL")
         SECTIONS_TEMP=${SECTIONS_DIR}/temp/
         mkdir "$SECTIONS_TEMP"
         EXTERNAL_TEMP=${SECTIONS_TEMP}/external.temp
+        EXTERNALHOSTS_TEMP=$SECTIONS_DIR/external_hosts.temp
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         revertWhenDownloadError
@@ -380,7 +381,7 @@ for i in "$@"; do
             python3 "${FOP}" --d "${SECTIONS_DIR}"/temp/
         fi
         sort -uV -o "$MERGED_TEMP" "$MERGED_TEMP"
-        sed -e '0,/^@HOSTSCOMBINEinclude/!b; /@HOSTSCOMBINEinclude/{ r '"$MERGED_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        sed -e '0,/^@COMBINEHOSTSinclude/!b; /@COMBINEHOSTSinclude/{ r '"$MERGED_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
         rm -r "$MERGED_TEMP"
         rm -r "$SECTIONS_TEMP"
@@ -392,6 +393,127 @@ for i in "$@"; do
         if [ -f "$HOSTS_TEMP.2" ]
         then
             rm -r "$HOSTS_TEMP.2"
+        fi
+    done
+
+    function convertToDomains() {
+        sed -i "s|\$all$||" "$1"
+        sed -i "s|[|][|]||" "$1"
+        sed -i 's/[\^]//g' "$1"
+        sed -i '/[/\*]/d' "$1"
+        sed -r "/^(www\.|www[0-9]\.|www\-|pl\.|pl[0-9]\.|[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9])/! s/^/www./" "$1" > "$1.2"
+    }
+
+    # Obliczanie ilości sekcji/list filtrów, które zostaną przekonwertowane na format domenowy
+    END_DOMAINS=$(grep -o -i '@DOMAINSinclude' "${TEMPLATE}" | wc -l)
+
+    # Konwertowanie na domeny i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
+    for (( n=1; n<=END_DOMAINS; n++ ))
+    do
+        DOMAINS_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@DOMAINSinclude \K.*' "$FINAL").txt
+        DOMAINS_TEMP=$SECTIONS_DIR/domains.temp
+        grep -o '^||.*^$' "$DOMAINS_FILE" > "$DOMAINS_TEMP"
+        grep -o '^0.0.0.0.*' "$DOMAINS_FILE" >> "$DOMAINS_TEMP"
+        grep -o '^||.*^$all$' "$DOMAINS_FILE" >> "$DOMAINS_TEMP"
+        convertToDomains "$DOMAINS_TEMP"
+        if [ -f "$DOMAINS_TEMP.2" ]
+        then
+            cat "$DOMAINS_TEMP" "$DOMAINS_TEMP.2"  > "$DOMAINS_TEMP.3"
+            mv "$DOMAINS_TEMP.3" "$DOMAINS_TEMP"
+        fi
+        sort -uV -o "$DOMAINS_TEMP" "$DOMAINS_TEMP"
+        sed -e '0,/^@DOMAINSinclude/!b; /@DOMAINSinclude/{ r '"$DOMAINS_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        rm -r "$DOMAINS_TEMP"
+        mv "$TEMPORARY" "$FINAL"
+        if [ -f "$DOMAINS_TEMP.2" ]
+        then
+            rm -r "$DOMAINS_TEMP.2"
+        fi
+    done
+
+    # Obliczanie ilości sekcji/list filtrów, które zostaną przekonwertowane na format domenowy i pobrane ze źródeł zewnętrznych
+    END_URLDOMAINS=$(grep -o -i '@URLDOMAINSinclude' "${TEMPLATE}" | wc -l)
+
+    # Konwertowanie na domeny i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
+    for (( n=1; n<=END_URLDOMAINS; n++ ))
+    do
+        EXTERNAL=$(grep -oP -m 1 '@URLDOMAINSinclude \K.*' "$FINAL")
+        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        EXTERNALDOMAINS_TEMP=$SECTIONS_DIR/external_DOMAINS.temp
+        wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
+        revertWhenDownloadError
+        grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALDOMAINS_TEMP"
+        grep -o '^||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALDOMAINS_TEMP"
+        convertToDomains "$EXTERNALDOMAINS_TEMP"
+        if [ -f "$EXTERNALDOMAINS_TEMP.2" ]
+        then
+            cat "$EXTERNALDOMAINS_TEMP" "$EXTERNALDOMAINS_TEMP.2"  > "$EXTERNALDOMAINS_TEMP.3"
+            mv "$EXTERNALDOMAINS_TEMP.3" "$EXTERNALDOMAINS_TEMP"
+        fi
+        sort -uV -o "$EXTERNALDOMAINS_TEMP" "$EXTERNALDOMAINS_TEMP"
+        sed -e '0,/^@URLDOMAINSinclude/!b; /@URLDOMAINSinclude/{ r '"$EXTERNALDOMAINS_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        mv "$TEMPORARY" "$FINAL"
+        rm -r "$EXTERNAL_TEMP"
+        rm -r "$EXTERNALDOMAINS_TEMP"
+        if [ -f "$EXTERNALDOMAINS_TEMP.2" ]
+        then
+            rm -r "$EXTERNALDOMAINS_TEMP.2"
+        fi
+    done
+
+    # Obliczanie ilości sekcji, które zostaną pobrane ze źródeł zewnętrznych i połączone z lokalnymi sekcjami
+    END_DOMAINSCOMBINE=$(grep -o -i '@COMBINEDOMAINSinclude' "${TEMPLATE}" | wc -l)
+
+    # Łączenie lokalnych i zewnętrznych sekcji w jedno oraz doklejanie ich w odpowiednie miejsca
+    for (( n=1; n<=END_DOMAINSCOMBINE; n++ ))
+    do
+        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEDOMAINSinclude" { print $2; exit }' "$FINAL").txt
+        EXTERNAL=$(awk '$1 == "@COMBINEDOMAINSinclude" { print $3; exit }' "$FINAL")
+        SECTIONS_TEMP=${SECTIONS_DIR}/temp/
+        mkdir "$SECTIONS_TEMP"
+        EXTERNAL_TEMP=${SECTIONS_TEMP}/external.temp
+        EXTERNALDOMAINS_TEMP=$SECTIONS_DIR/external_DOMAINS.temp
+        MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
+        wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
+        revertWhenDownloadError
+        externalCleanup
+        sort -u -o "$EXTERNAL_TEMP" "$EXTERNAL_TEMP"
+        grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALDOMAINS_TEMP"
+        grep -o '^||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALDOMAINS_TEMP"
+        convertToDomains "$EXTERNALDOMAINS_TEMP"
+        if [ -f "$EXTERNALDOMAINS_TEMP.2" ]
+        then
+            cat "$EXTERNALDOMAINS_TEMP" "$EXTERNALDOMAINS_TEMP.2"  > "$EXTERNALDOMAINS_TEMP.3"
+            mv "$EXTERNALDOMAINS_TEMP.3" "$EXTERNALDOMAINS_TEMP"
+        fi
+        DOMAINS_TEMP=$SECTIONS_DIR/DOMAINS.temp
+        grep -o '^||.*^$' "$LOCAL" > "$DOMAINS_TEMP"
+        grep -o '^||.*^$all$' "$LOCAL" >> "$DOMAINS_TEMP"
+        convertToDomains "$DOMAINS_TEMP"
+        if [ -f "$DOMAINS_TEMP.2" ]
+        then
+            cat "$DOMAINS_TEMP" "$DOMAINS_TEMP.2"  > "$DOMAINS_TEMP.3"
+            mv "$DOMAINS_TEMP.3" "$DOMAINS_TEMP"
+        fi
+        cat "$DOMAINS_TEMP" "$EXTERNALDOMAINS_TEMP" >> "$MERGED_TEMP"
+        rm -r "$EXTERNAL_TEMP"
+        rm -r "$EXTERNALDOMAINS_TEMP"
+        if [ -f "$FOP" ]; then
+            python3 "${FOP}" --d "${SECTIONS_DIR}"/temp/
+        fi
+        sort -uV -o "$MERGED_TEMP" "$MERGED_TEMP"
+        sed -e '0,/^@COMBINEDOMAINSinclude/!b; /@COMBINEDOMAINSinclude/{ r '"$MERGED_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        mv "$TEMPORARY" "$FINAL"
+        rm -r "$MERGED_TEMP"
+        rm -r "$SECTIONS_TEMP"
+        if [ -f "$EXTERNALDOMAINS_TEMP.2" ]
+        then
+            rm -r "$EXTERNALDOMAINS_TEMP.2"
+        fi
+        rm -r "$DOMAINS_TEMP"
+        if [ -f "$DOMAINS_TEMP.2" ]
+        then
+            rm -r "$DOMAINS_TEMP.2"
         fi
     done
 
@@ -411,7 +533,7 @@ for i in "$@"; do
     }
 
     # Obliczanie ilości sekcji/list filtrów, z których zostanie wyodrębnionych część reguł (jedynie reguły zawierajace gwiazdki) w celu konwersji na format regex zgodny z PiHole
-    END_PH=$(egrep -o -i '@PHinclude' "${TEMPLATE}" | wc -l)
+    END_PH=$(grep -E -o -i '@PHinclude' "${TEMPLATE}" | wc -l)
 
     # Konwertowanie na format regex zgodny z PiHole i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
     for (( n=1; n<=END_PH; n++ ))
@@ -594,10 +716,10 @@ if [ "$commited" ]; then
         printf "%s\n" "$(gettext "Do you want to send changed files to git now?")"
         select yn in $(gettext "Yes") $(gettext "No"); do
             case $yn in
-                        $(gettext "Yes") )
+                        "$(gettext "Yes")" )
                         git push
                         break;;
-                        $(gettext "No") ) break;;
+                        "$(gettext "No")" ) break;;
             esac
         done
     fi
