@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 06 Nov 2020, 16:03 UTC+01
-! Version: 2020.11.6.0
+! Last modified: Fri, 06 Nov 2020, 20:04 UTC+01
+! Version: 2020.11.6.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2385,6 +2385,7 @@
 ||adkokurier.org^$all
 ||admwarszawa.pl^$all
 ||adobe.5v.pl^$all
+||adoutletpl.pl^$all
 ||ads-fb.co^$all
 ||agikurier.org^$all
 ||agipasesores.com^$all
@@ -2662,6 +2663,7 @@
 ||bri-cat.com.pl^$all
 ||broadpeakdefense.com^$all
 ||broadwayladies.pl^$all
+||brohoof.pl^$all
 ||brooklynlilly.com^$all
 ||browsefeatureaasn31254.buzz^$all
 ||bsonus.xyz^$all
@@ -2681,6 +2683,8 @@
 ||business-command.com^$all
 ||business-lng-start.com^$all
 ||butybuffalo.pl^$all
+||butycamper.pl^$all
+||butyhunter.com.pl^$all
 ||butykeen.com^$all
 ||butymerrellpolska.pl^$all
 ||butynowa.com^$all
@@ -2805,6 +2809,7 @@
 ||crptengine.cyou^$all
 ||crtum.top^$all
 ||cryptolegacypro.com^$all
+||cryptolimited.net^$all
 ||cryptoricher.com^$all
 ||crypto-engine.pl^$all
 ||crypto-genius.privatecatalog.pro^$all
@@ -3002,6 +3007,7 @@
 ||ebok-poczta.pl^$all
 ||ebookeo.pl^$all
 ||ecampuskbds.com^$all
+||eccopoland.pl^$all
 ||ecdi14.eu^$all
 ||eclass47.duckdns.org^$all
 ||edland.pro^$all
@@ -3030,6 +3036,7 @@
 ||elektronika983510.xyz^$all
 ||elektronika984981.xyz^$all
 ||elememory.com^$all
+||elitefxltd.club^$all
 ||elvox.pl^$all
 ||elwirakurier.com^$all
 ||emonitoring24.eu^$all
@@ -3038,6 +3045,7 @@
 ||emptierbreak.xyz^$all
 ||endofhisrope.net^$all
 ||energabok.pl^$all
+||enevislimited.com^$all
 ||enklawy.pl^$all
 ||eoplaty.net^$all
 ||epaka247.net^$all
@@ -3053,6 +3061,7 @@
 ||eqvpismqyp.web.app^$all
 ||ericius.eu^$all
 ||erisolezeni.store^$all
+||ermach.com.pl^$all
 ||ermonmisdirec.xyz^$all
 ||eroutks.co^$all
 ||esemeso.pl^$all
@@ -3061,6 +3070,7 @@
 ||esterakoty.pl^$all
 ||euroausili.it^$all
 ||eurocarsped.com^$all
+||eurosprinthiker.pl^$all
 ||evaave12.nazwa.pl^$all
 ||evekurier.org^$all
 ||eventmarketing-institute.pl^$all
@@ -3392,6 +3402,7 @@
 ||furgonetka.pro^$all
 ||futurepay.globway.eu^$all
 ||futuresbtcoffersnew.com^$all
+||fx24options.org^$all
 ||fxpb.us^$all
 ||gackokurier.com^$all
 ||gagrat.co^$all
@@ -3502,6 +3513,7 @@
 ||granolamogleys.com^$all
 ||graotron.biz^$all
 ||grazefoot.com^$all
+||grazkanieruchomosci.pl^$all
 ||grille.biz^$all
 ||grille.live^$all
 ||gromka.host^$all
@@ -3533,6 +3545,7 @@
 ||heartsworldwide.pl^$all
 ||heavensp.xyz^$all
 ||hehreerh.001www.com^$all
+||helianthus.com.pl^$all
 ||helloworld.ddnsking.com^$all
 ||helploginn.moonfruit.com^$all
 ||herrakop.co^$all
@@ -3544,6 +3557,7 @@
 ||historieludzkie*.online^$all
 ||hitfilm.pl^$all
 ||hlestersmith.com^$all
+||hodowlafanaberia.pl^$all
 ||holylamaoffers.com^$all
 ||homelake.pl^$all
 ||homepaiement-pl-af71f83d.vmkfz.at^$all
@@ -3778,6 +3792,7 @@
 ||kalendarzdnia23.online^$all
 ||kalendarzdnia23.site^$all
 ||kalendarzyk.org^$all
+||kaloszehunter.pl^$all
 ||kamilapaczka.org^$all
 ||kamilbadnareklivecash.blogspot.com^$all
 ||kamilszymanski.com.pl^$all
@@ -3887,6 +3902,7 @@
 ||kup-teraz-859110.xyz^$all
 ||kur24pl.eu^$all
 ||kuriedh.com^$all
+||kurierdhl.com^$all
 ||kurierfedex.pl^$all
 ||kurierjagoda.org^$all
 ||kurierlotek.org^$all
@@ -3909,10 +3925,12 @@
 ||leafdesign.jp^$all
 ||learn-to-observe.co.pl^$all
 ||lebaneseads.com^$all
+||leczeniepadaczki.pl^$all
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl
 ||legioncrest.com^$all
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
+||levispolska.pl^$all
 ||lewplnews.yolasite.com^$all
 ||lezrweb.com^$all
 ||liczysie-pomoc.seohost.pl^$all
@@ -4394,6 +4412,7 @@
 ||olx.pl.oferta.pw^$all
 ||olx.pl.oferto.info^$all
 ||olx.pl.platnosc.info^$all
+||olx.pl.wysylka.me^$all
 ||olx.pl.wysylka.net^$all
 ||olympusmarkets.com^$all
 ||omega.best^$all
@@ -4594,6 +4613,7 @@
 ||pay24-paczka.com^$all
 ||payhome-pl-*.arw-rohstoffhandel.com^$all
 ||payhome-pl-*.vmkfz.at^$all
+||payinginvest.com^$all
 ||payment24-online.org^$all
 ||paynazwa-pl-a337be07.klostoga45.at^$all
 ||paynazwa-pl-*.akprojektebau.at^$all
@@ -4760,6 +4780,7 @@
 ||polishwebmailadmin.weebly.com^$all
 ||polishwebmailupgrade.weebly.com^$all
 ||polityka-bez-cenzury.you2.pl^$all
+||poloralphlaurenpoland.pl^$all
 ||polska24poszukiwani.dkonto.pl^$all
 ||polska24.dkonto.pl^$all
 ||polska24.eu^$all
@@ -5014,6 +5035,7 @@
 ||s8powazkowska-modlinska.pl^$all
 ||s88.vdl.pl^$all
 ||sabiosdelamor.co^$all
+||salomonpl.pl^$all
 ||salonfilmowy.pl^$all
 ||salonflorida.pl^$all
 ||salonmotoryzacyjny.lublin.ovh^$all
@@ -5097,11 +5119,14 @@
 ||sitepolska.turbo.site^$all
 ||siwi.com.pl^$all
 ||skazaninabusa.pl^$all
+||skecherssklep.pl^$all
 ||skidrowcrack.com^$all
 ||skippyfile.com^$all
 ||sklepplay.net^$all
 ||sklepsilvermagic.pl^$all
+||skleptaniebuty.pl^$all
 ||skleptus.pl^$all
+||sklepygucci.pl^$all
 ||sklep-play.cc^$all
 ||sknrtel.com^$all
 ||skuter.c0.pl^$all
@@ -5240,6 +5265,7 @@
 ||swiatpilne.eu^$all
 ||swiezefakty.eu^$all
 ||swingmarketscfd.com^$all
+||swinka-morska.waw.pl^$all
 ||swissmarket.net^$all
 ||swisstrade.exchange^$all
 ||syds588.cn^$all
@@ -5264,6 +5290,7 @@
 ||t500track29.com^$all
 ||tabxolabs.com^$all
 ||tacticaltrainingdatabase.com^$all
+||tajskimasazsopot.pl^$all
 ||takaprawda.icu^$all
 ||tankhoi.vn^$all
 ||tarcza24.net^$all
@@ -5406,9 +5433,11 @@
 ||tzr.grejt.pl^$all
 ||uatesnicknam.xyz^$all
 ||ubranieburton.pl^$all
+||ubranienapapijri.pl^$all
 ||uchwalenie-zwyciezcy.eu^$all
 ||udany-wynik.eu^$all
 ||udokumentowanie.eu^$all
+||uggbootspolska.pl^$all
 ||ughsnethe.at^$all
 ||ultra-cda.pl^$all
 ||ulubioneoferty.com^$all
@@ -5709,6 +5738,7 @@
 ||zasilkonto.cba.pl^$all
 ||zaswiadczeniekrk.pl^$all
 ||zawieszone.5p.pl^$all
+||zbigniewbiernat.pl^$all
 ||zbyk.drl.pl^$all
 ||zdjecia-fotki.pl^$all
 ||zdjecia-popatrz.eu^$all
