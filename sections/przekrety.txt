@@ -1,7 +1,3 @@
-
-||checkoutbase.com^$all
-||dnsfordomains.ru^$all
-||presidioinvestmentsltd.com^$all
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -453,6 +449,7 @@
 ||charge-backers.pl^$all
 ||charisministries.id^$all
 ||chcemyschudnac.pl^$all
+||checkoutbase.com^$all
 ||checkoutwins.com^$all
 ||checkthatdeals.com^$all
 ||chefeladlevi.com^$all
@@ -627,6 +624,7 @@
 ||dlsplate.com^$all
 ||dluzniku.com^$all
 ||dnmultiglobal.duckdns.org^$all
+||dnsfordomains.ru^$all
 ||dnw5n74x7xkb4qg.surrterreproperties.com^$all
 ||dobierajmy-wygranych.eu^$all
 ||dobrapolozna.pl^$all
@@ -1243,6 +1241,7 @@
 ||gtafastmoney.pl^$all
 ||guimaraesconstrutorasjc.com.br^$all
 ||gumka.strefa.pl^$all
+||gumtree.security-online.info^$all
 ||gutfilm.pl^$all
 ||g-mailpoczta.pl^$all
 ||h0me.com.pl^$all
@@ -2123,6 +2122,7 @@
 ||olx-ogloszenie.dkonto.pl^$all
 ||olx-payments.pl^$all
 ||olx-pays.pl^$all
+||olx-pl.dostawa.pro^$all
 ||olx-pl.oferta.pw^$all
 ||olx-pl.online^$all
 ||olx-poland.cf^$all
@@ -2614,6 +2614,7 @@
 ||prawdaboli.site^$all
 ||preblogs.com^$all
 ||pregierzrozumu.pl^$all
+||presidioinvestmentsltd.com^$all
 ||primodiagnosis.pl^$all
 ||privacy-email.eu^$all
 ||prize-program.club^$all
@@ -3544,5 +3545,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||gumtree.security-online.info^$all
-||olx-pl.dostawa.pro^$all
