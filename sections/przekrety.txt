@@ -1,13 +1,4 @@
-||marginelite.com^$all
-||marketpluse.com^$all
-||finantiko.com^$all
-||fxglobe.international^$all
-||fxglobe.international^$all
-
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||bestforbikers.com^$all
-||christen-online.at^$all
-||znamcie.pl^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -84,6 +75,7 @@
 ||1809176.kb397464.web.hosting-test.net^$all
 ||1809798.sy397546.web.hosting-test.net^$all
 ||1821456.dg398993.web.hosting-test.net^$all
+||23459867534.000webhostapp.com^$all
 ||82210001244.com^$all
 ||20200709071631.restflko.giize.com^$all
 ||a2btrans.pl^$all
@@ -310,6 +302,7 @@
 ||bentyluses.com^$all
 ||benzkartel.duckdns.org^$all
 ||bestcheats.cba.pl^$all
+||bestforbikers.com^$all
 ||bestvod.pl^$all
 ||best-lordliness.com^$all
 ||best-ones.website^$all
@@ -479,6 +472,7 @@
 ||chomik-24.pl^$all
 ||chomlkui.pl^$all
 ||chor-moniuszko.pl^$all
+||christen-online.at^$all
 ||chron-telefon.com^$all
 ||chwiladlaciebie.cba.pl^$all
 ||cidadecrista.com.br^$all
@@ -1049,6 +1043,7 @@
 ||financial-times-appp.github.io^$all
 ||financial.org^$all
 ||finansoweswiry.pl^$all
+||finantiko.com^$all
 ||findfiooos.xyz^$all
 ||findmyiphone-id.pw^$all
 ||findwfriends.net.ht^$all
@@ -1120,6 +1115,7 @@
 ||futurepay.globway.eu^$all
 ||futuresbtcoffersnew.com^$all
 ||fx24options.org^$all
+||fxglobe.international^$all
 ||fxpb.us^$all
 ||gackokurier.com^$all
 ||gagrat.co^$all
@@ -1766,9 +1762,11 @@
 ||mantoropols.xyz^$all
 ||manufaktura.y0.pl^$all
 ||marcofama.it^$all
+||marginelite.com^$all
 ||margohack.za.pl^$all
 ||marialoechert.pl^$all
 ||marketing-messenger.com^$all
+||marketpluse.com^$all
 ||maska-oddechowa-kn95-pl.com^$all
 ||mastertradeinvestments.com^$all
 ||matchlesssanctity.org^$all
@@ -2129,6 +2127,7 @@
 ||olxpolska.ct8.pl^$all
 ||olxteam.com^$all
 ||olxyorki.dfirma.pl^$all
+||olx-deliverry.info^$all
 ||olx-delivery.biz^$all
 ||olx-deliver.cc^$all
 ||olx-deliver.su^$all
@@ -3541,6 +3540,7 @@
 ||zimowewyzwanie.pl^$all
 ||zlecone.xn.pl^$all
 ||zmiltraf.website^$all
+||znamcie.pl^$all
 ||znaneleki.pl^$all
 ||znany-lekarz.dfirma.pl^$all
 ||znany-lekarz.pl^$all
@@ -3589,6 +3589,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||23459867534.000webhostapp.com^$all
-||olx-deliverry.info^$all
-||www-olxpl.online^$all
