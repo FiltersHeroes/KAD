@@ -1,6 +1,5 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
-||gcginternational.net^$all
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
@@ -50,6 +49,7 @@
 ||4.ogloszeniateraz97.club^$all
 ||5kplayer.pl^$all
 ||6m.pl^$all
+||7demka24h7.live^$all
 ||7dot.cn^$all
 ||9nta.com^$all
 ||15x.eu^$all
@@ -1148,6 +1148,7 @@
 ||gazetowo.eu^$all
 ||gcesab.com^$all
 ||gcginternational.com^$all
+||gcginternational.net^$all
 ||gdynia-fakt24.pl^$all
 ||gdzieogladac.online^$all
 ||gdzie-zobaczyc.pl^$all
@@ -1533,7 +1534,6 @@
 ||kebhbn.com^$all
 ||keks-polska.pl^$all
 ||kekuko.com^$all
-
 ||keqiang.pro^$all
 ||ketodietnd.com^$all
 ||key-mine.fun^$all
@@ -1805,6 +1805,7 @@
 ||methash.com^$all
 ||miasto24h.dkonto.pl^$all
 ||miasto24.waw.pl^$all
+||miastowe24.pl^$all
 ||michasiapaczka.org^$all
 ||microsoft-o365-outlook.ts.r.appspot.com^$all
 ||microsoft-secure-online.oa.r.appspot.com^$all
@@ -2084,6 +2085,7 @@
 ||offside2.000webhostapp.com^$all
 ||ogarnij-zdjecia.*^$all
 ||ogglededibl.at^$all
+||ogiosz24.in.net^$all
 ||ogladajzadarmo.com.pl^$all
 ||ogladaj-caly-film.over-blog.com^$all
 ||ogladaj-online24.pl^$all
@@ -2121,7 +2123,6 @@
 ||olflowdesign.at^$all
 ||ollando.com^$all
 ||olszewski.ehost.pl^$all
-
 ||olxpl-3ds.zapls.site^$all
 ||olxpl.3dsecurity.info^$all
 ||olxpl.3ds.website^$all
@@ -3417,6 +3418,7 @@
 ||wrozbyonline.net^$all
 ||wsparciejezykowe.eu^$all
 ||wsparcie-doping.eu^$all
+||wspolnemiasto.dkonto.pl^$all
 ||wspolnerazem.pl^$all
 ||wspolny-wybieranie.eu^$all
 ||wstaw-punkt.eu^$all
@@ -3604,8 +3606,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||7demka24h7.live^$all
-||miastowe24.pl^$all
-||ogiosz24.in.net^$all
-||wspolnemiasto.dkonto.pl^$all
-||www-olxpl.online^$all
