@@ -1,6 +1,5 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
-||maralgel.pro^$all
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
@@ -633,6 +632,7 @@
 ||djarumgol.com^$all
 ||djmateo.pl^$all
 ||djrooby.pl^$all
+||dkonto.dkonto.pl^$all
 ||dladomu.biz^$all
 ||dlaogrodu.biz^$all
 ||dlaogrodu.com^$all
@@ -1771,6 +1771,7 @@
 ||manistan.com^$all
 ||mantoropols.xyz^$all
 ||manufaktura.y0.pl^$all
+||maralgel.pro^$all
 ||marcofama.it^$all
 ||marginelite.com^$all
 ||margohack.za.pl^$all
@@ -2138,8 +2139,10 @@
 ||olxpl-oplata.online^$all
 ||olxpl-order.online^$all
 ||olxpl-order.site^$all
+||olxpl-pays.online^$all
 ||olxpl.3dsecurity.info^$all
 ||olxpl.3ds.website^$all
+||olxpl.co^$all
 ||olxpl.eu^$all
 ||olxpl.online^$all
 ||olxpl.org^$all
@@ -2175,10 +2178,12 @@
 ||olx.oplata-is.com^$all
 ||olx.pl-id202011-order.site^$all
 ||olx.pl-id2046801-order.ru^$all
+||olx.pl-oferta.com^$all
 ||olx.pl-oferta.online^$all
 ||olx.pl-order.info^$all
 ||olx.pl.delivery-pays.pw^$all
 ||olx.pl.dostawa.pw^$all
+||olx.pl.informacija.club^$all
 ||olx.pl.obyalvenyie.shop^$all
 ||olx.pl.obyavlenije.com^$all
 ||olx.pl.oferta-pay.cyou^$all
@@ -2186,6 +2191,7 @@
 ||olx.pl.oferta.cyou^$all
 ||olx.pl.oferta.icu^$all
 ||olx.pl.oferta.kim^$all
+||olx.pl.oferta.press^$all
 ||olx.pl.oferta.pw^$all
 ||olx.pl.oferto.info^$all
 ||olx.pl.personpay.info^$all
@@ -2195,6 +2201,7 @@
 ||olx.pl.wysylka.me^$all
 ||olx.pl.wysylka.net^$all
 ||olx.pl.wysylka.site^$all
+||olx.pl^$all
 ||olx.security-online.info^$all
 ||olx.ua.delivery.consulting^$all
 ||olympusmarkets.com^$all
@@ -2650,6 +2657,7 @@
 ||porwanienatalki.*^$all
 ||porwani.you2.pl^$all
 ||posciele.za.pl^$all
+||postbox-24.site^$all
 ||postid-79348548.justgreece.org^$all
 ||postkod.org^$all
 ||post-990094.at^$all
@@ -3474,6 +3482,7 @@
 ||wwa-24.dkonto.pl^$all
 ||wwa-informacje.co.pl^$all
 ||www-olxpl.online^$all
+||www-olx.pl^$all
 ||www-pb.pl^$all
 ||ww.kowdent.pl^$all
 ||ww.paczkddpd.com^$all
@@ -3646,13 +3655,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||dkonto.dkonto.pl^$all
-||olx.pl^$all
-||olxpl.co^$all
-||olx.pl.informacija.club^$all
-||olx.pl-oferta.com^$all
-||olx.pl.oferta.press^$all
-||olxpl-pays.online^$all
-||postbox-24.site^$all
-||www-olx.pl^$all
-||www-olxpl.online^$all
