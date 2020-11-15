@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||postbox-24.site^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -27,6 +26,7 @@
 ||00x.eu^$all
 ||1btcnews.buzz^$all
 ||1k-daily-profitz.com^$all
+||1npost.net^$all
 ||2i4.com.pl^$all
 ||2i4.eu^$all
 ||2i4.pl^$all
@@ -1316,6 +1316,7 @@
 ||hurtsilvermagic.pl^$all
 ||hyut.000webhostapp.com^$all
 ||i8i.eu^$all
+||i24.dfirma.pl^$all
 ||icleanammunitio.xyz^$all
 ||icloud.find-ip.us^$all
 ||iconsumerstocksymbol.icu^$all
@@ -2042,6 +2043,7 @@
 ||oddajmy-sprawdz.eu^$all
 ||oddaj-glosy.eu^$all
 ||oddaj-kampania.eu^$all
+||oddam-kotki17.microhost.com.pl^$all
 ||oddam-yorki.dfirma.pl^$all
 ||odessa.com.pl^$all
 ||odj4s702.web.app^$all
@@ -2900,9 +2902,6 @@
 ||seriale.best^$all
 ||serialosy.pl^$all
 ||serialowo.pl^$all
-
-
-
 ||server32456789098765.s3.us-east-2.amazonaws.com^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
@@ -3115,6 +3114,7 @@
 ||szybkiezycie1.online^$all
 ||szybkie-zakupy.co.pl^$all
 ||szybkikurier.org^$all
+||t72.dkonto.pl^$all
 ||t500track29.com^$all
 ||tabxolabs.com^$all
 ||tacticaltrainingdatabase.com^$all
@@ -3656,9 +3656,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||1npost.net^$all
-||i24.dfirma.pl^$all
-||oddam-kotki17.microhost.com.pl^$all
-||t72.dkonto.pl^$all
-||www-olx.pl^$all
-||www-olxpl.online^$all
