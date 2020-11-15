@@ -29,8 +29,8 @@ wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhost
 pcregrep -o1 '^.*?0.0.0.0 (.*)' ./KADhosts.txt >> ./KADhosts_temp.txt
 rm -rf ./KADhosts.txt
 mv ./KADhosts_temp.txt ./KADhosts.txt
-sed -i 's/^www.//g' ./KADhosts.txt
-sed -i 's/^www.//g' "$CERT"
+sed -i 's/^www\.//g' ./KADhosts.txt
+sed -i 's/^www\.//g' "$CERT"
 sort -u -o ./KADhosts.txt ./KADhosts.txt
 sort -u -o "$CERT" "$CERT"
 comm -13 ./KADhosts.txt "$CERT" >> "$CERT".2
