@@ -1,10 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||kominkisupra.pl^$all
-||bestshopping-voucher.com^$all
-||amzhedgefund.com^$all
-||bestshopping-voucher.com^$all
-||doctorlights.com^$all
-||vjlfcpvc5a.top^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -206,6 +200,7 @@
 ||amex-financials.com^$all
 ||amonitalia.it^$all
 ||amu-edu-pl.ew.r.appspot.com^$all
+||amzhedgefund.com^$all
 ||anabim.com^$all
 ||andekkurier.org^$all
 ||androidsecurityplus.com^$all
@@ -309,6 +304,7 @@
 ||benzkartel.duckdns.org^$all
 ||bestcheats.cba.pl^$all
 ||bestforbikers.com^$all
+||bestshopping-voucher.com^$all
 ||bestvod.pl^$all
 ||best-lordliness.com^$all
 ||best-ones.website^$all
@@ -660,6 +656,7 @@
 ||doceniajcomasz70.site^$all
 ||doctopdftech.com^$all
 ||doctorera.com^$all
+||doctorlights.com^$all
 ||doctorpix.com^$all
 ||dodajogloszenia.pl^$all
 ||dodaj-cegielke.eu^$all
@@ -1581,6 +1578,7 @@
 ||kolege-wspomoz.eu^$all
 ||kolor.oq.pl^$all
 ||komatireddy.net^$all
+||kominkisupra.pl^$all
 ||kommornik.pl^$all
 ||komorniik24.com^$all
 ||komornik*-gov.tk^$all
@@ -1895,6 +1893,7 @@
 ||mysexdating*.club^$all
 ||mytopoffers.net^$all
 ||mytraffic.pl^$all
+||my-olx.pl^$all
 ||mzgov.net^$all
 ||m-instagram.org^$all
 ||nabijaj-internetowo.eu^$all
@@ -2150,6 +2149,7 @@
 ||olxpl.org^$all
 ||olxpl.payment24.online^$all
 ||olxpl.youroplata.online^$all
+||olxpl.zapls.site^$all
 ||olxpl.zapowiedz.site^$all
 ||olxpoland.org^$all
 ||olxpolska.ct8.pl^$all
@@ -2167,12 +2167,14 @@
 ||olx-oferta.pl^$all
 ||olx-oferta.support^$all
 ||olx-ogloszenie.dkonto.pl^$all
+||olx-order.eu^$all
 ||olx-payments.pl^$all
 ||olx-pays.pl^$all
 ||olx-pl.dostawa.pro^$all
 ||olx-pl.info^$all
 ||olx-pl.oferta.pw^$all
 ||olx-pl.online^$all
+||olx-pl.pl^$all
 ||olx-pl.pw^$all
 ||olx-shipping.eu^$all
 ||olx--pl.online^$all
@@ -2493,7 +2495,6 @@
 ||plcalyfilm.over-blog.com^$all
 ||plc-68630294.hgps.ie^$all
 ||plc-74471327.hgps.ie^$all
-||bestshopping-voucher.com^$all
 ||plengistat.info^$all
 ||pletomak.mypi.co^$all
 ||plikgier.5p.pl^$all
@@ -2517,6 +2518,7 @@
 ||pl-pl-fb.com^$all
 ||pl-postkod.com^$all
 ||pl-wyslij.best^$all
+||pl-wyslij.club^$all
 ||pl.allsports4free.club^$all
 ||pl.bitcoinmethodpro.com^$all
 ||pl.bitcoinup-app.co^$all
@@ -2527,6 +2529,8 @@
 ||pl.oix-pay.com^$all
 ||pl.olx-merchant.com^$all
 ||pl.olx-my.site^$all
+||pl.olx.oferta.design^$all
+||pl.olx.oferta.press^$all
 ||pl.profitmaximizer-app.com^$all
 ||pl.tradenewsinvesting.com^$all
 ||pl.tvplusnewtab.com^$all
@@ -2714,6 +2718,7 @@
 ||proslandvietnam.com^$all
 ||prosoccer1.dyndns.info^$all
 ||prosoccer2.dyndns.info^$all
+||prostozkraju.dkonto.pl^$all
 ||prostytrading.pl^$all
 ||protection-cellphone.fun^$all
 ||protector-web.space^$all
@@ -3272,6 +3277,7 @@
 ||uchwalenie-zwyciezcy.eu^$all
 ||udany-wynik.eu^$all
 ||udokumentowanie.eu^$all
+||udostpnij-antos24.dkonto.pl^$all
 ||uggbootspolska.pl^$all
 ||ughsnethe.at^$all
 ||ultra-cda.pl^$all
@@ -3327,6 +3333,7 @@
 ||visa-payment.sytes.net^$all
 ||visitoronearthxrussellathletic.xyz^$all
 ||vitalitycs.net^$all
+||vjlfcpvc5a.top^$all
 ||vod24.pl^$all
 ||vodfilmy.pl^$all
 ||vodfilmy.tumblr.com^$all
@@ -3658,12 +3665,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||my-olx.pl^$all
-||olx-order.eu^$all
-||olx-pl.pl^$all
-||olxpl.zapls.site^$all
-||pl.olx.oferta.design^$all
-||pl.olx.oferta.press^$all
-||pl-wyslij.club^$all
-||prostozkraju.dkonto.pl^$all
-||udostpnij-antos24.dkonto.pl^$all
