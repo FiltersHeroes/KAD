@@ -1,7 +1,3 @@
-||przeplyw-danych.eu^$all
-||najlepszy-wynik.eu^$all
-||wybor-podpunktu.eu^$all
-
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -622,6 +618,7 @@
 ||delivery.olx-pl.com^$all
 ||delivery.olx-pl.link^$all
 ||delivery.olx-pl.me^$all
+||delivery.olx-pl.work^$all
 ||deliver-post.com^$all
 ||del-sieradz.neostrada.pl^$all
 ||demo.website.pl^$all
@@ -1955,8 +1952,10 @@
 ||nagroda.myartsonline.com^$all
 ||nagrywamy-szpitale.ct8.pl^$all
 ||nailrr.com^$all
+||najlepsza-pomoc.eu^$all
 ||najlepszewrozby.pl^$all
 ||najlepsze-oferty.com^$all
+||najlepszy-wynik.eu^$all
 ||naleznoscgov.eu^$all
 ||namibiasafaritours.ml^$all
 ||namierz-telefon.pl^$all
@@ -2840,6 +2839,7 @@
 ||przelewonline.site^$all
 ||przelewonline.website^$all
 ||przepismix.pl^$all
+||przeplyw-danych.eu^$all
 ||przesiadzsie.pl^$all
 ||przesydh.com^$all
 ||przesyika24pl.fun^$all
@@ -3617,6 +3617,7 @@
 ||wybierajmy-wygrana.eu^$all
 ||wybierz-nagrode.pl^$all
 ||wybierz-wyborce.eu^$all
+||wybor-podpunktu.eu^$all
 ||wybor-reprezentanta.eu^$all
 ||wyciekizdjec24.pl^$all
 ||wydarzenia24.you2.pl^$all
@@ -3643,12 +3644,15 @@
 ||wysycdhl.com^$all
 ||wysykdhl.com^$all
 ||wysyldhl.com^$all
+||wysyldhl.pl^$all
 ||wysylka24.online^$all
 ||wysylki.net^$all
+||wysysdhl.com^$all
 ||wytypuj-wynik.eu^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xawqerklewq.myartsonline.com^$all
 ||xn*gwatpolska24*.*^$all
+||xn--c3ca7brwp8cb5a8bdr7kqe.com^$all
 ||xn--efaktygwat-i0b.pl^$all
 ||xn--eonetgwat-xub.pl^$all
 ||xn--faktygwat-xub.*^$all
@@ -3779,10 +3783,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||delivery.olx-pl.work^$all
-||najlepsza-pomoc.eu^$all
-||najlepszy-wynik.eu^$all
-||przeplyw-danych.eu^$all
-||wysyldhl.pl^$all
-||wysysdhl.com^$all
-||xn--c3ca7brwp8cb5a8bdr7kqe.com^$all
