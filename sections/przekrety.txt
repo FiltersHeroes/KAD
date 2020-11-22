@@ -1,7 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||water-heater-pl.com^$all
-||doctordays.com^$all
-||youronline-profits.life^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -684,6 +681,7 @@
 ||dobry-fryzjer.lublin.lu^$all
 ||doceniajcomasz70.site^$all
 ||doctopdftech.com^$all
+||doctordays.com^$all
 ||doctorera.com^$all
 ||doctorlights.com^$all
 ||doctorpix.com^$all
@@ -741,7 +739,6 @@
 ||drakesdowntowngym.com^$all
 ||drapart.org^$all
 ||dreamwoman-finder*.com^$all
-
 ||drogeriesms.net^$all
 ||drogowe-akcje.ct8.pl^$all
 ||drunkenboyz.za.pl^$all
@@ -938,7 +935,6 @@
 ||fakt24-porwaniefabian.com.pl^$all
 ||faktonet24.eu^$all
 ||faktonet.eu^$all
-
 ||faktpolska-24.eu^$all
 ||faktpolski24.eu^$all
 ||faktpolski.eu^$all
@@ -1010,10 +1006,8 @@
 ||fb.podpisz-petycje.eu^$all
 ||fcfg.pl^$all
 ||fejs.cf^$all
-
 ||fejs.ml^$all
 ||fenix-funds.pro^$all
-
 ||fhukaja.pl^$all
 ||fifidossaltosaltos.com^$all
 ||filebay.org^$all
@@ -2232,6 +2226,8 @@
 ||olx-dostawa.website^$all
 ||olx-d.pl^$all
 ||olx-g.pl^$all
+||olx-k.pl^$all
+||olx-managment.pl^$all
 ||olx-messenger.com^$all
 ||olx-oferta.eu^$all
 ||olx-oferta.pl^$all
@@ -2369,7 +2365,6 @@
 ||onlyfiles.net^$all
 ||onlyher.nazwa.pl^$all
 ||onsitegold.com^$all
-
 ||opal.webserwer.pl^$all
 ||opel.km.ua^$all
 ||openwire.tv^$all
@@ -2495,6 +2490,7 @@
 ||paqu24.com^$all
 ||paqu24.org^$all
 ||parafiawzdol.pl^$all
+||parcelcredit.com^$all
 ||parcel.gjbx346t33h972c.20design.org^$all
 ||parcel.k7uz6lobkb7jhmu.galexar.com^$all
 ||parcel.qzyz3dzq80rzbl3.amin-sharifi.ir^$all
@@ -2888,7 +2884,6 @@
 ||pusiaweb.com^$all
 ||pwrk.eu^$all
 ||pzutrasyzdrowia.pl^$all
-
 ||qooqle-billing.eu^$all
 ||qooqle-pay.com^$all
 ||qooqle-pay.eu^$all
@@ -2980,7 +2975,6 @@
 ||s8powazkowska-modlinska.pl^$all
 ||s88.vdl.pl^$all
 ||sabiosdelamor.co^$all
-
 ||salomonpl.pl^$all
 ||salonfilmowy.pl^$all
 ||salonflorida.pl^$all
@@ -3216,7 +3210,6 @@
 ||sustainablecities.net^$all
 ||svd-warszawa.pl^$all
 ||swapgg.pl^$all
-
 ||swiat24.dkonto.pl^$all
 ||swiatfilmikow.pl^$all
 ||swiatgierlubin.pl^$all
@@ -3496,6 +3489,7 @@
 ||warzonedns.com^$all
 ||warzone.io^$all
 ||warzone.pw^$all
+||water-heater-pl.com^$all
 ||waust.at^$all
 ||wawa-info.pl^$all
 ||waznesprawy.eu^$all
@@ -3661,7 +3655,6 @@
 ||wyliczenia-sprawdzaj.eu^$all
 ||wypadki24.e-kei.pl^$all
 ||wypozycz-film.pl^$all
-
 ||wyraz-pomoc.eu^$all
 ||wys24h.eu^$all
 ||wyscig-wygranych.eu^$all
@@ -3696,6 +3689,7 @@
 ||yotefiles.com^$all
 ||you24.eu^$all
 ||yourfitway.com^$all
+||youronline-profits.life^$all
 ||yourordercheckout.com^$all
 ||yourparty.cba.pl^$all
 ||your-mac-security-analysis.net.*.*.agency^$all
@@ -3704,7 +3698,6 @@
 ||your-mac-security-analysis.net.*.*.live^$all
 ||your-mac-security-analysis.net.*.*.xyz^$all
 ||your-movies.pl^$all
-
 ||yrehrher.001www.com^$all
 ||yuppipuppy.com^$all
 ||za10groszy.pl^$all
@@ -3807,6 +3800,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||olx-k.pl^$all
-||olx-managment.pl^$all
-||parcelcredit.com^$all
