@@ -1,4 +1,5 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
+||findyourlovenow*.com^$all
 ||steampoweredtrade.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
