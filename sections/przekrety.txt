@@ -1,6 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||findyourlovenow*.com^$all
-||steampoweredtrade.com^$all
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -42,7 +40,6 @@
 ||3fazowa-ostrzalka-do-nozy-pl.com^$all
 ||3filmy.com^$all
 ||3w2k701z6i94wgr.choobin-co.ir^$all
-||unixbroker.com^$all
 ||3-139-92-223.cprapid.com^$all
 ||3-pracaolx.co.pl^$all
 ||3-praca.co.pl^$all
@@ -1090,6 +1087,7 @@
 ||findfiooos.xyz^$all
 ||findmyiphone-id.pw^$all
 ||findwfriends.net.ht^$all
+||findyourlovenow*.com^$all
 ||find-best-profits.com^$all
 ||finmaxfx.com^$all
 ||firecash.org^$all
@@ -2234,6 +2232,8 @@
 ||olx-delivery.biz^$all
 ||olx-deliver.cc^$all
 ||olx-deliver.su^$all
+||olx-dostava.pl^$all
+||olx-dostawa.eu^$all
 ||olx-dostawa.me^$all
 ||olx-dostawa.name^$all
 ||olx-dostawa.pl^$all
@@ -2245,6 +2245,7 @@
 ||olx-managment.pl^$all
 ||olx-messenger.com^$all
 ||olx-m.pl^$all
+||olx-n.pl^$all
 ||olx-oferta.eu^$all
 ||olx-oferta.ink^$all
 ||olx-oferta.pl^$all
@@ -2269,6 +2270,7 @@
 ||olx-pl.online^$all
 ||olx-pl.org^$all
 ||olx-pl.pl^$all
+||olx-pl.pro^$all
 ||olx-pl.pw^$all
 ||olx-pl.su^$all
 ||olx-poland.pl^$all
@@ -2287,8 +2289,10 @@
 ||olx.cards2pays.online^$all
 ||olx.epay-trade.ru^$all
 ||olx.informacja-pl.info^$all
+||olx.merch-pays.ru^$all
 ||olx.oplata-is.com^$all
 ||olx.payment-otrymac.info^$all
+||olx.payment-otrymac.online^$all
 ||olx.paysdeals.ru^$all
 ||olx.pl-id202011-order.site^$all
 ||olx.pl-id2046801-order.ru^$all
@@ -2327,6 +2331,7 @@
 ||olx.pl.wysylka.net^$all
 ||olx.pl.wysylka.site^$all
 ||olx.pl.zaplacic.info^$all
+||olx.przesylki.biz^$all
 ||olx.safe-pay.store^$all
 ||olx.security-online.info^$all
 ||olx.ua.delivery.consulting^$all
@@ -2572,6 +2577,7 @@
 ||pensjonatsportowy.pl^$all
 ||performancevitality.net^$all
 ||perspektywa2012.za.pl^$all
+||peypeo24.net^$all
 ||pgebok.com^$all
 ||pge-bok.pl^$all
 ||phikunprogramming.com^$all
@@ -2988,6 +2994,7 @@
 ||roundcube.pl^$all
 ||rozakurier.com^$all
 ||rozakurier.org^$all
+||rozgrywanie-konkursu.eu^$all
 ||rozgrywka-oceniaj.eu^$all
 ||roznehistorie.pl^$all
 ||ruesichtsetri1906.blogspot.com^$all
@@ -3194,6 +3201,7 @@
 ||steamcammunnity.ru.com^$all
 ||steamcomnenity.ru.com^$all
 ||steamco.de^$all
+||steampoweredtrade.com^$all
 ||steam-wallet-gifts.com^$all
 ||steam-wallet-money.com^$all
 ||stefanstrzalkowski.pl^$all
@@ -3419,6 +3427,7 @@
 ||typowanie-glosuj.eu^$all
 ||typuj-wyniki.eu^$all
 ||tzr.grejt.pl^$all
+||u19432194.ct.sendgrid.net^$all
 ||uatesnicknam.xyz^$all
 ||ubgroupbk.com^$all
 ||ubranieburton.pl^$all
@@ -3434,6 +3443,7 @@
 ||umarkets.io^$all
 ||unitedmedsshop.com^$all
 ||unitedproductsllc.net^$all
+||unixbroker.com^$all
 ||unlimited.movies.and.series.netflix.afraplants.ir^$all
 ||unlimited.movies.and.series.netflix.irsa-art.ir^$all
 ||unsubscribe.vomeo8wflpty52u.neyazco.ir^$all
@@ -3828,13 +3838,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||olx-dostava.pl^$all
-||olx-dostawa.eu^$all
-||olx.merch-pays.ru^$all
-||olx-n.pl^$all
-||olx.payment-otrymac.online^$all
-||olx-pl.pro^$all
-||olx.przesylki.biz^$all
-||peypeo24.net^$all
-||rozgrywanie-konkursu.eu^$all
-||u19432194.ct.sendgrid.net^$all
