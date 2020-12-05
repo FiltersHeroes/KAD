@@ -1,5 +1,3 @@
-||aoxcapitals.com^$all
-||aoxtrade.com^$all
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
@@ -237,6 +235,8 @@
 ||anuskurier.org^$all
 ||anyonecanhelp.club^$all
 ||aowadczdfkcd4kl9dk.et.r.appspot.com^$all
+||aoxcapitals.com^$all
+||aoxtrade.com^$all
 ||apartamentblawatek.pl^$all
 ||apekola.tcp4.me^$all
 ||aperytime.it^$all
@@ -751,6 +751,7 @@
 ||dostawa-olx.org^$all
 ||dostawa-olx.pl^$all
 ||dostawa-paczki.com^$all
+||dostawowo.com^$all
 ||dostawpack.com^$all
 ||dostawy24.com^$all
 ||dostawyjaros.top^$all
@@ -2264,6 +2265,7 @@
 ||ogrodexmilicz.pl^$all
 ||ogrodzik.biz^$all
 ||oixpl.xyz^$all
+||oix-zaplata.com^$all
 ||okaz-wspomnienie.eu^$all
 ||okom.wroc.pl^$all
 ||okularypowiekszajace-pl.com^$all
@@ -2323,6 +2325,7 @@
 ||olx-h.pl^$all
 ||olx-in.pl^$all
 ||olx-i.pl^$all
+||olx-j.pl^$all
 ||olx-k.pl^$all
 ||olx-l.pl^$all
 ||olx-managment.pl^$all
@@ -2444,6 +2447,7 @@
 ||olx.tcpay.ru^$all
 ||olx.transakcja.pw^$all
 ||olx.ua.delivery.consulting^$all
+||olx.wysyllka.pl^$all
 ||olx.zakup.me^$all
 ||olx.zaplacic.info^$all
 ||olympusmarkets.com^$all
@@ -3952,6 +3956,7 @@
 ||zaglosuj-kliknij.eu^$all
 ||zaglosuj-teraz.eu^$all
 ||zaglosuj-teraz.*^$all
+||zaglosuj-warszawa.vot.pl^$all
 ||zajonc.de^$all
 ||zakupy-domowe.glosowanie-konkurs.eu^$all
 ||zakup-olx.pl^$all
@@ -4046,8 +4051,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||dostawowo.com^$all
-||oix-zaplata.com^$all
-||olx-j.pl^$all
-||olx.wysyllka.pl^$all
-||zaglosuj-warszawa.vot.pl^$all
