@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||steamcammunity.com^$all
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$document,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -1448,6 +1447,7 @@
 ||informacje-swiat.pl^$all
 ||informacje-z-polski-48.eu^$all
 ||informacje-z-polski-48.waw.pl^$all
+||informacyjny-punkt.eu^$all
 ||informator24.eu^$all
 ||informujemy.eu^$all
 ||inform*.is-best.net^$all
@@ -1557,6 +1557,8 @@
 ||irpost.net^$all
 ||islandmob.com^$all
 ||issl-cert.pl^$all
+||istotny-czyn.eu^$all
+||istotny-punkcik.eu^$all
 ||istrefa.net^$all
 ||itdept.moonfruit.com^$all
 ||itelefon.org^$all
@@ -2288,6 +2290,7 @@
 ||olxpl-safe.eu^$all
 ||olxpl.3dsecurity.info^$all
 ||olxpl.3ds.website^$all
+||olxpl.accespay.site^$all
 ||olxpl.app^$all
 ||olxpl.co^$all
 ||olxpl.deals^$all
@@ -2307,6 +2310,7 @@
 ||olxservice.pl^$all
 ||olxteam.com^$all
 ||olxyorki.dfirma.pl^$all
+||olx-a.pl^$all
 ||olx-check.pl^$all
 ||olx-deliverry.info^$all
 ||olx-deliverry.name^$all
@@ -2317,6 +2321,7 @@
 ||olx-dostava.pl^$all
 ||olx-dostava.su^$all
 ||olx-dostawa.co^$all
+||olx-dostawa.services^$all
 ||olx-dostawa.*^$all
 ||olx-d.pl^$all
 ||olx-epayment.com^$all
@@ -2355,6 +2360,7 @@
 ||olx-pl.mirpay.info^$all
 ||olx-pl.ml^$all
 ||olx-pl.net^$all
+||olx-pl.oferta-pay.live^$all
 ||olx-pl.oferta.pw^$all
 ||olx-pl.online^$all
 ||olx-pl.org^$all
@@ -2399,6 +2405,7 @@
 ||olx.merch-pays.ru^$all
 ||olx.oplata-is.com^$all
 ||olx.ortymac-pay.store^$all
+||olx.payment-otrymac.store^$all
 ||olx.payment-otrymac.*^$all
 ||olx.paysdeals.ru^$all
 ||olx.pay-euro.eu^$all
@@ -2410,6 +2417,7 @@
 ||olx.pl-id335823.ru^$all
 ||olx.pl-id2046801-order.ru^$all
 ||olx.pl-id73885935.info^$all
+||olx.pl-m.xyz^$all
 ||olx.pl-oferta.*^$all
 ||olx.pl-offerta.me^$all
 ||olx.pl-order.info^$all
@@ -2435,6 +2443,7 @@
 ||olx.pl.paymont.pl^$all
 ||olx.pl.personpay.info^$all
 ||olx.pl.platnosc*.*^$all
+||olx.pl.potwierdzeniewyslania.online^$all
 ||olx.pl.potwierdzenie.info^$all
 ||olx.pl.wysylka.*^$all
 ||olx.pl.zaplacic.info^$all
@@ -2838,6 +2847,7 @@
 ||poczta-pay.com^$all
 ||poczta-polska.eu^$all
 ||poczta-regulamin.com^$all
+||poczta.interia-pl.online^$all
 ||poczta.interia-pl.site^$all
 ||poczta.interia-pl.space^$all
 ||poczta.ron-mil-pl.site^$all
@@ -3151,6 +3161,7 @@
 ||rezervation-intens.pl^$all
 ||riddexpl*.com^$all
 ||rikardesie.shop^$all
+||rinpey.net^$all
 ||risingindianews.com^$all
 ||riverislandpl.com^$all
 ||rmycevre.com^$all
@@ -3397,6 +3408,7 @@
 ||staryspichrz.pl^$all
 ||status24.5p.pl^$all
 ||status.xn.pl^$all
+||steamcammunity.com^$all
 ||steamcammunnity.ru.com^$all
 ||steamcomnenity.ru.com^$all
 ||steamco.de^$all
@@ -3586,6 +3598,7 @@
 ||tunaszapolska.xyz^$all
 ||tunehub247shop.com^$all
 ||tunga.homedns.org^$all
+||tura-informacyjna.eu^$all
 ||turystyka.cal.pl^$all
 ||tv24.dkonto.pl^$all
 ||tvinfo-24.pl^$all
@@ -3804,6 +3817,7 @@
 ||widget-eforsa.pl^$all
 ||wiecejpolski.icu^$all
 ||wiedzacodziennatv.info^$all
+||wieliczka-pl.tk^$all
 ||wiktorek140.cba.pl^$all
 ||willapawelpogorzelica.pl^$all
 ||willa-marina.pl^$all
@@ -3921,6 +3935,7 @@
 ||wysylki.net^$all
 ||wysysdhl.com^$all
 ||wytypuj-wynik.eu^$all
+||wzmianka-duza.eu^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xawqerklewq.myartsonline.com^$all
 ||xn*gwatpolska24*.*^$all
@@ -4060,18 +4075,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||informacyjny-punkt.eu^$all
-||istotny-czyn.eu^$all
-||istotny-punkcik.eu^$all
-||olx-a.pl^$all
-||olx-dostawa.services^$all
-||olx.payment-otrymac.store^$all
-||olxpl.accespay.site^$all
-||olx.pl-m.xyz^$all
-||olx-pl.oferta-pay.live^$all
-||olx.pl.potwierdzeniewyslania.online^$all
-||poczta.interia-pl.online^$all
-||rinpey.net^$all
-||tura-informacyjna.eu^$all
-||wieliczka-pl.tk^$all
-||wzmianka-duza.eu^$all
