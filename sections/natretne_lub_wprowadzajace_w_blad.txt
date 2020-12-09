@@ -11,9 +11,9 @@ speedtest.pl,speedtest.com.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
-/pobierz_*.exe$document
-/*-AsystentPobierania.exe$document
-/*-ks.exe$document,popup
+/pobierz_*.exe$doc
+/*-AsystentPobierania.exe$doc
+/*-ks.exe$doc,popup
 /*-ks.exe$frame,domain=download.komputerswiat.pl,third-party
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
