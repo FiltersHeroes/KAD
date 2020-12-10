@@ -5,7 +5,7 @@
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$doc
-/^https?:\/\/([\w]{1,4}\.)?(copysubstancepattern|decimalprovehour|discusssheetenemy|educationbedring|effectstorestream|fightyoungdream|fingermilkorgan|flyingintheclouds|goedekans|historyalwayschildren|ideaanstudy|insectrunfollow|jsdevelopmentq|mindspellnothing|noseangerspend|occurthousandlast|randalieren|roundsolutionbrought|sciencewhategg|shoutmostface|thinkwhilemelody|thoughcopyforest|togethercleareducation|waterdiepattern|whateyeweight|wildgrelns)[\d]{1,2}\.live/$all
+/^https?:\/\/([\w]{1,4}\.)?(copysubstancepattern|decimalprovehour|discusssheetenemy|educationbedring|effectstorestream|fightyoungdream|fingermilkorgan|flyingintheclouds|goedekans|historyalwayschildren|ideaanstudy|insectrunfollow|jsdevelopmentq|mindspellnothing|noseangerspend|occurthousandlast|payageround-|randalieren|roundsolutionbrought|sciencewhategg|shoutmostface|thinkwhilemelody|thoughcopyforest|togethercleareducation|waterdiepattern|whateyeweight|wildgrelns)[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?polska(\d+)?-?poczta\.[\w]{2,14}/$all
@@ -13,7 +13,7 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}[\d]{1,2}\.live\/[\d]{10}\/.*\?/$doc
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?[\d]{1,2}\.live\/[\d]{10}\/.*\?/$doc
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
