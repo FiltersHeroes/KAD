@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 11 Dec 2020, 16:07 UTC+01
-! Version: 2020.12.11.1
+! Last modified: Fri, 11 Dec 2020, 20:05 UTC+01
+! Version: 2020.12.11.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4145,6 +4145,7 @@
 ||kreacjonizm.cba.pl^$all
 ||krecisztosamm.online^$all
 ||kredyt24.biz^$all
+||kronikapowiatu.cal24.pl^$all
 ||kronikaregionalna.cal24.pl^$all
 ||kronika-miasta.website^$all
 ||kryptointeres.pl^$all
@@ -4235,6 +4236,7 @@
 ||lnpost24.net^$all
 ||lnpostdezynfekcje.net^$all
 ||lnpost-apps.com^$all
+||lnpost-paczkomaty.com^$all
 ||lnpost.cc^$all
 ||lnpost.kody-odbioru.*^$all
 ||lnpost.me^$all
@@ -4738,6 +4740,7 @@
 ||olxpl-pays.online^$all
 ||olxpl-safe.com^$all
 ||olxpl-safe.eu^$all
+||olxpl-safe.online^$all
 ||olxpl.3dsecurity.info^$all
 ||olxpl.3ds.website^$all
 ||olxpl.accespay.site^$all
@@ -4803,7 +4806,9 @@
 ||olx-pl-delivery.info^$all
 ||olx-pl-delivery.su^$all
 ||olx-pl-dostawa.info^$all
+||olx-pl-dostawa.net^$all
 ||olx-pl-id-749141.ru^$all
+||olx-pl-id-759147.ru^$all
 ||olx-pl-mobile.site^$all
 ||olx-pl-oferta.eu^$all
 ||olx-pl-platnosci.info^$all
@@ -4821,6 +4826,7 @@
 ||olx-pl.oferta-pay.fun^$all
 ||olx-pl.oferta-pay.life^$all
 ||olx-pl.oferta-pay.live^$all
+||olx-pl.oferta-pay.xyz^$all
 ||olx-pl.oferta.pw^$all
 ||olx-pl.online^$all
 ||olx-pl.org^$all
@@ -4910,6 +4916,7 @@
 ||olx.pl.oferta-pay.digital^$all
 ||olx.pl.oferta-pay.link^$all
 ||olx.pl.oferta-pay.live^$all
+||olx.pl.oferta-pay.store^$all
 ||olx.pl.oferta-pay.*^$all
 ||olx.pl.oferta.*^$all
 ||olx.pl.oferto.*^$all
@@ -6316,6 +6323,7 @@
 ||wiecejpolski.icu^$all
 ||wiedzacodziennatv.info^$all
 ||wieliczka-pl.tk^$all
+||wiesci-krakowskie.vot.pl^$all
 ||wiktorek140.cba.pl^$all
 ||willapawelpogorzelica.pl^$all
 ||willa-marina.pl^$all
@@ -6491,6 +6499,7 @@
 ||zap588693-1.plesk10.zap-webspace.com^$all
 ||zapakowane.net^$all
 ||zapiac-teraz24.tech^$all
+||zapisek-wiadomosc.eu^$all
 ||zapisy-akceptuj.eu^$all
 ||zapisy.fractaltrader.pl^$all
 ||zaplac-teraz-24.site^$all
