@@ -1,3 +1,14 @@
+||e-mail-regulamin.online^$all
+||e-mail-regulamin.site^$all
+||e-mailprywatnosc.online^$all
+||e-mailprywatnosc.site^$all
+||poczta-email.online^$all
+||poczta-email.site^$all
+||regulamin-email.online^$all
+||regulamin-email.site^$all
+||regulamin-mail.online^$all
+||regulamin-mail.site^$all
+
 */tracking-load.html?ssl=$doc,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$doc,domain=~przekrety-na-falszywy-zwrot-podatku
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$doc,domain=~przekrety-z-falszywym-kurierem
