@@ -1,6 +1,4 @@
 */tracking-load.html?ssl=$doc,domain=~przekrety-z-falszywym-kurierem
-_foobar.$domain=~example.com|~example.org
-/_foobar.$domain=~example.com
 /wp-includes/*podatki.gov.pl$doc,domain=~przekrety-na-falszywy-zwrot-podatku
 /\/(((delivery-(address|options)|secure-payment|processingpayment|tracking(-load)?|laststep)\.html?)|((barclaypayment|delivery-(address|options)|tracking)\.php))$/$doc,domain=~przekrety-z-falszywym-kurierem
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -17,6 +15,11 @@ _foobar.$domain=~example.com|~example.org
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?[\d]{1,2}\.live\/[\d]{10}\/.*\?/$doc
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
+/_foobar.$domain=~example.com
+/_foobar.$domain=~example.com,badfilter
+/_foobar.$domain= ~ example.com,badfilter
+_foobar.$domain=~example.com|~example.org
+_foobar.$domain=~example.com|~example.org,badfilter
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0e0.eu^$all
@@ -46,10 +49,6 @@ _foobar.$domain=~example.com|~example.org
 ||4k.123moviesfox.xyz^$all
 ||4office.pl^$all
 ||4stronyzdrowia.com^$all
-||ogloszeniateraz97.club^$all
-_foobar.$domain=~example.com|~example.org,badfilter
-/_foobar.$domain=~example.com,badfilter
-/_foobar.$domain= ~ example.com,badfilter
 ||5kplayer.pl^$all
 ||6m.pl^$all
 ||7demka24h7.live^$all
@@ -678,13 +677,7 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||delivery-olx-pl.info^$all
 ||delivery-pl-olx.site^$all
 ||delivery.olx-pl.*^$all
-||delivery.olx-pl.*^$all
-||delivery.olx-pl.*^$all
 ||delivery.olx.oferta.*^$all
-||delivery.olx.oferta.*^$all
-||delivery.olx.oferta.*^$all
-||delivery.olx.oferta.*^$all
-||delivery.olx.pl-oferta.*^$all
 ||delivery.olx.pl-oferta.*^$all
 ||deliver-post.com^$all
 ||del-sieradz.neostrada.pl^$all
@@ -732,9 +725,6 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||dobierajmy-wygranych.eu^$all
 ||dobrapolozna.pl^$all
 ||dobrapraca*.ct8.pl^$all
-||dobrapraca*.ct8.pl^$all
-||dobrapraca*.ct8.pl^$all
-
 ||dobra-bramka-sms.pl^$all
 ||dobra-notka.eu^$all
 ||dobreprogramy.pro^$all
@@ -777,9 +767,6 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||dostawapost24.pl^$all
 ||dostawa-dhl.net^$all
 ||dostawa-olx-pl.*^$all
-||dostawa-olx-pl.*^$all
-||dostawa-olx.*^$all
-||dostawa-olx.*^$all
 ||dostawa-olx.*^$all
 ||dostawa-paczki.com^$all
 ||dostawowo.com^$all
@@ -2313,6 +2300,7 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||oglaszamy-yorki.dkonto.pl^$all
 ||oglaszamy.ct8.pl^$all
 ||ogloszenia24.dfirma.pl^$all
+||ogloszeniateraz97.club^$all
 ||ogloszenia-24.cba.pl^$all
 ||ogloszenia-olx.you2.pl^$all
 ||ogloszenia-online.ct8.pl^$all
@@ -2347,7 +2335,6 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||ollando.com^$all
 ||olszewski.ehost.pl^$all
 ||olxdostawa.*^$all
-||olxdostawa.*^$all
 ||olxm.epay-trade.ru^$all
 ||olxoferta.site^$all
 ||olxpaypl.pl^$all
@@ -2356,7 +2343,6 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olxpln.site^$all
 ||olxplsafe.xyz^$all
 ||olxpl-3ds.zapls.site^$all
-||olxpl-dostawa.*^$all
 ||olxpl-dostawa.*^$all
 ||olxpl-oplata.online^$all
 ||olxpl-order.*^$all
@@ -2397,14 +2383,8 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx-deliverry.info^$all
 ||olx-deliverry.name^$all
 ||olx-delivers.*^$all
-||olx-delivers.*^$all
-||olx-delivers.*^$all
-||olx-delivery.*^$all
-||olx-delivery.*^$all
 ||olx-delivery.*^$all
 ||olx-deliver.*^$all
-||olx-deliver.*^$all
-||olx-dostava.*^$all
 ||olx-dostava.*^$all
 ||olx-dostawa.*^$all
 ||olx-d.org^$all
@@ -2435,13 +2415,8 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx-pay.org^$all
 ||olx-pln.eu^$all
 ||olx-pl-delivery.*^$all
-||olx-pl-delivery.*^$all
-||olx-pl-delivery.*^$all
 ||olx-pl-dostava.cc^$all
 ||olx-pl-dostawa.*^$all
-||olx-pl-dostawa.*^$all
-||olx-pl-dostawa.*^$all
-||olx-pl-id-*.ru^$all
 ||olx-pl-id-*.ru^$all
 ||olx-pl-mobile.site^$all
 ||olx-pl-oferta.eu^$all
@@ -2458,10 +2433,6 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx-pl.ml^$all
 ||olx-pl.net^$all
 ||olx-pl.oferta-pay.*^$all
-||olx-pl.oferta-pay.*^$all
-||olx-pl.oferta-pay.*^$all
-||olx-pl.oferta-pay.*^$all
-||olx-pl.oferta-pay.*^$all
 ||olx-pl.oferta.pw^$all
 ||olx-pl.online^$all
 ||olx-pl.org^$all
@@ -2471,9 +2442,7 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx-pl.pw^$all
 ||olx-pl.pxd-pay.online^$all
 ||olx-pl.ru-*.*^$all
-||olx-pl.ru-*.*^$all
 ||olx-pl.su^$all
-||olx-poland.*^$all
 ||olx-poland.*^$all
 ||olx-polland.com^$all
 ||olx-protection.pl^$all
@@ -2488,15 +2457,11 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx-si.pl^$all
 ||olx-spedycja.pl^$all
 ||olx-transfer.*^$all
-||olx-transfer.*^$all
 ||olx-u.pl^$all
 ||olx-weryfikacja.pl^$all
 ||olx-wyplata.pl^$all
 ||olx-w.pl^$all
 ||olx-y.pl^$all
-||olx-zamowienie.*^$all
-||olx-zamowienie.*^$all
-||olx-zamowienie.*^$all
 ||olx-zamowienie.*^$all
 ||olx-zaplata.com^$all
 ||olx-zaplata.pl^$all
@@ -2507,17 +2472,14 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx.com-id235823.ru^$all
 ||olx.com-id381949.xyz^$all
 ||olx.deliverry.*^$all
-||olx.deliverry.*^$all
 ||olx.deliverys.pl^$all
 ||olx.delliverry.*^$all
 ||olx.dellivers.info^$all
 ||olx.dellivers.net^$all
 ||olx.dellivery.*^$all
 ||olx.doreczanie.pl^$all
+||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
-||olx.dostawa.*^$all
-||olx.dostawa.*^$all
-||olx.dostaw.*^$all
 ||olx.dostaw.*^$all
 ||olx.epay-trade.ru^$all
 ||olx.ilpay.ru^$all
@@ -2531,21 +2493,12 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx.pay-euro.eu^$all
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
-||olx.pl-*.site^$all
-||olx.pl-*.site^$all
-||olx.pl-*.site^$all
-||olx.pl-*.site^$all
 ||olx.pl-dostawa.*^$all
-||olx.pl-dostawa.*^$all
-||olx.pl-dostawa.*^$all
-||olx.pl-*-order.*^$all
-||olx.pl-*-order.*^$all
 ||olx.pl-id335823.ru^$all
 ||olx.pl-id345823.ru^$all
 ||olx.pl-id431571.site^$all
 ||olx.pl-id519249.icu^$all
 ||olx.pl-id1488322.site^$all
-||olx.pl-id*-order.*^$all
 ||olx.pl-id3221488.site^$all
 ||olx.pl-id6239662.info^$all
 ||olx.pl-id6379662.info^$all
@@ -2555,6 +2508,7 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx.pl-id41464578.com^$all
 ||olx.pl-id73885935.info^$all
 ||olx.pl-id741566512.net^$all
+||olx.pl-id*-order.*^$all
 ||olx.pl-m.xyz^$all
 ||olx.pl-odbior.site^$all
 ||olx.pl-oferta.*^$all
@@ -2565,9 +2519,6 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx.pl-payx.site^$all
 ||olx.pl-przesylka.cc^$all
 ||olx.pl-przesylka.*^$all
-||olx.pl-przesylka.*^$all
-||olx.pl-przesylka.*^$all
-||olx.pl-przesylka.*^$all
 ||olx.pl-safedeal.fun^$all
 ||olx.pl-safedeal.link^$all
 ||olx.pl-safedeal.store^$all
@@ -2576,6 +2527,8 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx.pl-track.online^$all
 ||olx.pl-track.uno^$all
 ||olx.pl-wysylka.info^$all
+||olx.pl-*-order.*^$all
+||olx.pl-*.site^$all
 ||olx.pl.delivery-pays.pw^$all
 ||olx.pl.dostawa.*^$all
 ||olx.pl.dostawy-online.info^$all
@@ -2600,10 +2553,6 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx.product-secure.ru^$all
 ||olx.przesylki.*^$all
 ||olx.przesylk.*^$all
-||olx.przesylk.*^$all
-||olx.przesylk.*^$all
-||olx.przesylk.*^$all
-||olx.przesylk.*^$all
 ||olx.przewiezienie.pl^$all
 ||olx.rwpay.ru^$all
 ||olx.safe-pay.store^$all
@@ -2613,7 +2562,6 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||olx.ua.delivery.consulting^$all
 ||olx.wysyllka.pl^$all
 ||olx.zakup.me^$all
-||olx.zamowienie.*^$all
 ||olx.zamowienie.*^$all
 ||olx.zaplacic.info^$all
 ||olympusmarkets.com^$all
@@ -4353,4 +4301,3 @@ _foobar.$domain=~example.com|~example.org,badfilter
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||olx.dostawa-secure.com^$all
