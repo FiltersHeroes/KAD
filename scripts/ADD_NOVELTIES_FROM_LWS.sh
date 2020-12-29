@@ -71,6 +71,7 @@ if [ -f "$TEMP"/LWS_temp.txt ]; then
     rm -rf "$TEMP"/LWS_temp.txt
 fi
 
+sed -i '/^$/d' "$TEMP"/LIST.temp
 sed -i -r "s|^|\|\||" "$TEMP"/LIST.temp
 sed -i -r 's|$|\^\$all|' "$TEMP"/LIST.temp
 
