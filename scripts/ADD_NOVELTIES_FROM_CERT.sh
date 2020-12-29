@@ -73,6 +73,7 @@ if [ -f "$TEMP"/CERTHole_temp.txt ]; then
 fi
 
 sed -i '/^$/d' "$TEMP"/LIST.temp
+sed -i 's/[[:space:]]*$//' "$TEMP"/LIST.temp
 sed -i -r "s|^|\|\||" "$TEMP"/LIST.temp
 sed -i -r 's|$|\^\$all|' "$TEMP"/LIST.temp
 
