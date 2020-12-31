@@ -1,6 +1,4 @@
 */tracking-load.html?ssl=$doc,domain=~przekrety-z-falszywym-kurierem
-||wp-politykaprywatnosci.email^$all
-||koddoodbioru.com^$all
 /wp-includes/*podatki.gov.pl$doc,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1382,6 +1380,7 @@
 ||horse-strenght.com^$all
 ||host1.5v.pl^$all
 ||hostfeboe.n4t.co^$all
+||hosting2051245.online.pro^$all
 ||hosting*.online.pro^$doc
 ||hostkrd.ovh^$all
 ||hostplik.pl^$all
@@ -1680,6 +1679,7 @@
 ||kobiece-sprawy.eu^$all
 ||kobiety.podpisz-petycje.eu^$all
 ||kocham-cie.c0.pl^$all
+||koddoodbioru.com^$all
 ||kodyodbioru.app^$all
 ||kodyodbioru.net^$all
 ||kod-odbioru.app^$all
@@ -2380,6 +2380,7 @@
 ||olx-oferta.contact^$all
 ||olx-oferta.digital^$all
 ||olx-oferta.*^$all
+||olx-offerta.tools^$all
 ||olx-offerta.zone^$all
 ||olx-ogloszenie.dkonto.pl^$all
 ||olx-online.pl^$all
@@ -2747,6 +2748,7 @@
 ||parcelcredit.com^$all
 ||parcel.gjbx346t33h972c.20design.org^$all
 ||parcel.k7uz6lobkb7jhmu.galexar.com^$all
+||parcel.m2604c11v3vypup.amirbartehran.com^$all
 ||parcel.qzyz3dzq80rzbl3.amin-sharifi.ir^$all
 ||parcel.r1e3ymauqbg5oo0.esnapbbar.com^$all
 ||parcel.uzp2lo6ocafq7by.alirezamalek.ir^$all
@@ -2802,6 +2804,7 @@
 ||pdsecurity.pl^$all
 ||peczta24.net^$all
 ||peipey.net^$all
+||pekandobonus.xyz^$all
 ||pekano.xyz^$all
 ||pelpey.net^$all
 ||pemberitahuanfb.weebly.com^$all
@@ -4004,7 +4007,9 @@
 ||wpnews24.you2.pl^$all
 ||wprost-news.pl^$all
 ||wp-login.azurewebsites.net^$all
+||wp-plugin.site^$all
 ||wp-pl.online^$all
+||wp-politykaprywatnosci.email^$all
 ||wp-regulamin.com^$all
 ||wp.*.top^$doc,domain=top
 ||wroclawnafotografii.pl^$all
@@ -4226,8 +4231,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||hosting2051245.online.pro^$all
-||olx-offerta.tools^$all
-||parcel.m2604c11v3vypup.amirbartehran.com^$all
-||pekandobonus.xyz^$all
-||wp-plugin.site^$all
