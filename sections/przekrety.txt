@@ -1,5 +1,4 @@
 */tracking-load.html?ssl=$doc,domain=~przekrety-z-falszywym-kurierem
-
 /wp-includes/*podatki.gov.pl$doc,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -749,6 +748,7 @@
 ||dostawapost24.pl^$all
 ||dostawa-dhl.net^$all
 ||dostawa-olx-pl.*^$all
+||dostawa-olx.info^$all
 ||dostawa-olx.*^$all
 ||dostawa-paczki.com^$all
 ||dostawowo.com^$all
@@ -1310,6 +1310,7 @@
 ||gologfbb.tcp4.me^$all
 ||goodmovie.pl^$all
 ||googieapp.com^$all
+||googleailesi.com^$all
 ||google-*.anniversarygiveawaysseries.xyz^$all
 ||google-*.bestgadgetoffers.icu^$all
 ||google-*.newgadgetpresents.icu^$all
@@ -2002,6 +2003,8 @@
 ||moje-miasto.you2.pl^$all
 ||mojfetysz.pl^$all
 ||mojseans.pl^$all
+||moj-olx.me^$all
+||mokpkovaj-kok.xyz^$all
 ||momoxxio.com^$all
 ||monfex.com^$all
 ||monitoring-pocztapolska.net^$all
@@ -2340,6 +2343,7 @@
 ||olx-deliver.*^$all
 ||olx-dostava.*^$all
 ||olx-dostawa.*^$all
+||olx-dostaw.pl^$all
 ||olx-d.org^$all
 ||olx-d.pl^$all
 ||olx-epayment.com^$all
@@ -2447,6 +2451,7 @@
 ||olx.dostaw.*^$all
 ||olx.manager.name^$all
 ||olx.merch-pays.ru^$all
+||olx.my-payment.online^$all
 ||olx.oplata-is.com^$all
 ||olx.payment-otrymac.*^$all
 ||olx.pay-euro.eu^$all
@@ -3372,6 +3377,7 @@
 ||sknrtel.com^$all
 ||skrill-assets.com.pl^$all
 ||skuter.c0.pl^$all
+||sledzenie-paczki.in.net^$all
 ||sledzenie-paczki.store^$all
 ||sledzenie-przesylki.fun^$all
 ||sledzenie.live^$all
@@ -3393,6 +3399,7 @@
 ||sms-za-darmo.pl^$all
 ||sne.bydgoszcz.pl^$all
 ||sniadaniowaklasa.pl^$all
+||sociwod.ml^$all
 ||socksonclick.com^$all
 ||soft4click.com^$all
 ||softmania.pl^$all
@@ -4132,11 +4139,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||dostawa-olx.info^$all
-||googleailesi.com^$all
-||moj-olx.me^$all
-||mokpkovaj-kok.xyz^$all
-||olx-dostaw.pl^$all
-||olx.my-payment.online^$all
-||sledzenie-paczki.in.net^$all
-||sociwod.ml^$all
