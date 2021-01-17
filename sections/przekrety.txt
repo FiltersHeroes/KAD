@@ -1,3 +1,4 @@
+!||olx.pl-id*-order.*^$all
 */tracking-load.html?ssl=$doc,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$doc,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -420,6 +421,7 @@
 ||brohoof.pl^$all
 ||brooklynlilly.com^$all
 ||browsefeatureaasn31254.buzz^$all
+||brudna-prawda.070v.eu^$all
 ||brudna-prawda.plebiscyt-lokalny.eu^$all
 ||brudna-prawda.vot.pl^$all
 ||brudna.prawda.vot.pl^$all
@@ -664,7 +666,6 @@
 ||deepikarai.com^$all
 ||delibrium.pl^$all
 ||delivery2you.page.link^$all
-
 ||delivery-olx.ml^$all
 ||delivery-pl-olx.site^$all
 ||delivery.olx-pl.*^$all
@@ -768,7 +769,6 @@
 ||dostawa-dhl.net^$all
 ||dostawa-olx-pl.*^$all
 ||dostawa-olx-poland.info^$all
-
 ||dostawa-olx.*^$all
 ||dostawa-paczki.com^$all
 ||dostawa-poland.com^$all
@@ -2407,7 +2407,6 @@
 ||olx-delivery.*^$all
 ||olx-deliver.*^$all
 ||olx-dostava.*^$all
-
 ||olx-dostawa.*^$all
 ||olx-dostawk.pl^$all
 ||olx-dostaw.pl^$all
@@ -2429,10 +2428,8 @@
 ||olx-money.pl^$all
 ||olx-m.pl^$all
 ||olx-n.pl^$all
-
 ||olx-oferta.*^$all
 ||olx-offerta.*^$all
-
 ||olx-ogloszenie.dkonto.pl^$all
 ||olx-online.pl^$all
 ||olx-paycore.biz^$all
@@ -2448,7 +2445,6 @@
 ||olx-pln.eu^$all
 ||olx-pl-delivery.*^$all
 ||olx-pl-dostava.*^$all
-
 ||olx-pl-dostawa.*^$all
 ||olx-pl-id-*.ru^$all
 ||olx-pl-id.ru^$all
@@ -2460,7 +2456,6 @@
 ||olx-pl.cc^$all
 ||olx-pl.com-*.ru^$all
 ||olx-pl.eu^$all
-
 ||olx-pl.id-*.ru^$all
 ||olx-pl.info^$all
 ||olx-pl.iso-pay.net.ru^$all
@@ -2468,8 +2463,6 @@
 ||olx-pl.moneta.world^$all
 ||olx-pl.net^$all
 ||olx-pl.oferta-payment.com^$all
-
-
 ||olx-pl.oferta-pay.*^$all
 ||olx-pl.oferto.cc^$all
 ||olx-pl.online^$all
@@ -2512,7 +2505,6 @@
 ||olx-zamowienie.in^$all
 ||olx-zamowienie.io^$all
 ||olx-zamowienie.services^$all
-
 ||olx-zamowienie.*^$all
 ||olx-zaplata.pl^$all
 ||olx-z.pl^$all
@@ -2544,9 +2536,11 @@
 ||olx.pl-dostawa.*^$all
 ||olx.pl-express.link^$all
 ||olx.pl-getcash.shop^$all
+||olx.pl-getpayment.shop^$all
 ||olx.pl-getpay.link^$all
+||olx.pl-get.shop^$all
+||olx.pl-id648594.site^$all
 ||olx.pl-id*.*^$all
-!||olx.pl-id*-order.*^$all
 ||olx.pl-konto.cc^$all
 ||olx.pl-konto.live^$all
 ||olx.pl-konto.online^$all
@@ -2559,7 +2553,6 @@
 ||olx.pl-logowanie.site^$all
 ||olx.pl-logowanie.xyz^$all
 ||olx.pl-mobile.shop^$all
-
 ||olx.pl-oferta.*^$all
 ||olx.pl-offerta.me^$all
 ||olx.pl-order.info^$all
@@ -2571,7 +2564,6 @@
 ||olx.pl-pay.shop^$all
 ||olx.pl-pay.su^$all
 ||olx.pl-poland.oferta-payment.com^$all
-
 ||olx.pl-przesylka.*^$all
 ||olx.pl-safecash.link^$all
 ||olx.pl-safedeal.fun^$all
@@ -2589,10 +2581,8 @@
 ||olx.pl.dostawy-online.info^$all
 ||olx.pl.dostawy-pay.site^$all
 ||olx.pl.id-48134138.com^$all
-
 ||olx.pl.informacija.*^$all
 ||olx.pl.oferta-payment.net^$all
-
 ||olx.pl.oferta-pay.*^$all
 ||olx.pl.oferta.*^$all
 ||olx.pl.oferto.*^$all
@@ -2612,7 +2602,6 @@
 ||olx.so^$all
 ||olx.transakcja.pw^$all
 ||olx.wysyllka.pl^$all
-
 ||olx.zamowienie.*^$all
 ||olympusholding.co^$all
 ||olympusmarkets.com^$all
@@ -4319,7 +4308,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||brudna-prawda.070v.eu^$all
-||olx.pl-getpayment.shop^$all
-||olx.pl-get.shop^$all
-||olx.pl-id648594.site^$all
