@@ -1,7 +1,6 @@
 alltube.pl,alltube.tv##header #message-user, a[href*="https://alltube.com.pl/"]
 alltube.pl,alltube.tv#?#.row > div.col-sm-12:has(> .headline + div.row > div > div > a[href*="https://alltube.com.pl/"] > img)
 cba.pl#?#body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
-ekino.pw##+js(aopr, decodeURI)
 fili.cc##a[href^="/download/file"]
 filme.pl##a[href*="http://leadmy.pl/"]
 filme.pl#?#.float-xl-left.col-lg-8 > div.mb-3.card:nth-of-type(odd):nth-of-type(-n+3):has(a[href*="http://leadmy.pl/"])
@@ -19,3 +18,7 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
+||kamilassurma.com/*.js?wwig=$script
+||kamilassurma.com/ping?s=$all
+kamilassurma.com##^script:has-text(/wwig=.*btoa/)
+kamilassurma.com$$script[wildcard="wwig=*btoa"]
