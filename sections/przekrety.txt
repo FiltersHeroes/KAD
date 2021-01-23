@@ -1,11 +1,5 @@
-||inov-8polska.com^$all
-||lena-moda.shop^$all
-||happy-pods-pl.com^$all
-||paloki-pl.com^$all
-||pocketmyponstar.com^$all
-||prodomar.pl^$all
-||murarzplus.pl^$all
-
+!||e-poszukiwananatalka.*^$all
+!||iposzukiwananatalka.*^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -186,7 +180,6 @@
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
-
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl
 ||allegroloklinie-oferta*.xyz^$all
 ||allegrosklep.online^$all
@@ -262,7 +255,6 @@
 ||appiq.mobi^$all
 ||appleidworld.com^$all
 ||apple-*.deviceoffergiveaways.icu^$all
-||apple.com-*.*^$all,domain=live|xyz
 ||apple.com-*.*^$all,domain=live|xyz
 ||apple.*.top^$all,domain=top
 ||appsdorado.com^$all
@@ -545,7 +537,6 @@
 ||cityvida.com^$all
 ||cityxman.com^$all
 ||city-news.dkonto.pl^$all
-
 ||clever-trade.com^$all
 ||click2000.host^$all
 ||closetalk.ca^$all
@@ -635,6 +626,7 @@
 ||d0stawadhi.com^$all
 ||d1k5vgf76yp8wa.cloudfront.net^$all
 ||d1ogtekyfob10l.cloudfront.net^$all
+||d1quu53w0vld5k.cloudfront.net^$all
 ||d1tk7i92ddxa0d.cloudfront.net^$all
 ||d1ud788mmh5bcn.cloudfront.net^$all
 ||d1wp11q15apzub.cloudfront.net^$all
@@ -786,10 +778,8 @@
 ||dostawaolx.site^$all
 ||dostawapost24.pl^$all
 ||dostawa-dhl.net^$all
-
 ||dostawa-olx-pl.*^$all
 ||dostawa-olx-poland.info^$all
-
 ||dostawa-olx.*^$all
 ||dostawa-paczki.com^$all
 ||dostawa-poland.com^$all
@@ -857,6 +847,8 @@
 ||dzienniktutaj.site^$all
 ||dziennikuprowadzono.online^$all
 ||dziennikuprowadzono.pl^$all
+||dziennik-inf.xyz^$all
+||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
 ||earnyourcash.net^$all
 ||easydownload.pl^$all
@@ -967,7 +959,6 @@
 ||e-bazaosobzaginionych.pl^$all
 ||e-bazaosobzaginionych.site^$all
 ||e-capitaloption.com^$all
-
 ||e-childalert.*^$all
 ||e-dpd.pl^$all
 ||e-fakt24.eu^$all
@@ -996,7 +987,6 @@
 ||e-podatek.net^$all
 ||e-polskaporwania.*^$all
 ||e-porwanienatalki.*^$all
-!||e-poszukiwananatalka.*^$all
 ||e-poszukiwania.*^$all
 ||e-poszukiwanie.*^$all
 ||e-przesylki.com^$all
@@ -1372,7 +1362,6 @@
 ||google-*.*giveaway*.xyz^$all
 ||google-*.*offer*.icu^$all
 ||google-*.*present*.icu^$all
-||google-*.*offer*.icu^$all
 ||gorisemarkets.com^$all
 ||gov-24.com^$all
 ||gov-warszawa.pl^$all
@@ -1405,6 +1394,7 @@
 ||handel-pro.site^$all
 ||hanypon.com^$all
 ||happyfotobox.pl^$all
+||happy-pods-pl.com^$all
 ||hbonicovideo.over-blog.com^$all
 ||hdmedia.pl^$all
 ||hd-online.skyrock.com^$all
@@ -1433,14 +1423,15 @@
 ||holylamaoffers.com^$all
 ||homelake.pl^$all
 ||homepaiement-pl-*.*.*^$all,domain=at|com
-||homepaiement-pl-*.*.*^$all,domain=at|com
 ||homepay-pl-*.*.*^$all,domain=at|com
 ||hondamarket.pl^$all
 ||horse-strenght.com^$all
 ||host1.5v.pl^$all
 ||hostfeboe.n4t.co^$all
 ||hosting2051245.online.pro^$all
+||hosting2139479.online.pro^$all
 ||hosting2142718.online.pro^$all
+||hosting2181629.online.pro^$all
 ||hosting*.online.pro^$document
 ||hostkrd.ovh^$all
 ||hostplik.pl^$all
@@ -1550,6 +1541,7 @@
 ||innowacyjneprzedszkole.pl^$all
 ||innsat.pl^$all
 ||inovscope.pt^$all
+||inov-8polska.com^$all
 ||inp0st-aplikacja.com^$all
 ||inpast.net^$all
 ||inpoczt.net^$all
@@ -1632,7 +1624,6 @@
 ||ipko.space^$all
 ||ipodatek.net^$all
 ||iporwaniedziecka24.*^$all
-!||iposzukiwananatalka.*^$all
 ||ippko.fun^$all
 ||ippko.site^$all
 ||ippko.website^$all
@@ -1852,6 +1843,7 @@
 ||leczeniepadaczki.pl^$all
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl
 ||legioncrest.com^$all
+||lena-moda.shop^$all
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
 ||levispolska.pl^$all
@@ -1901,13 +1893,11 @@
 ||lnposted.com^$all
 ||lnpostpaczka24.com^$all
 ||lnpost-apps.com^$all
+||lnpost-app.com^$all
 ||lnpost-kod.com^$all
 ||lnpost-paczkomaty.com^$all
-||lnpost.*^$document
 ||lnpost.kody-odbioru.*^$all
-
-
-
+||lnpost.*^$document
 ||localdates*.com^$all
 ||localinformation.site^$all
 ||localnewshere.site^$all
@@ -2116,6 +2106,7 @@
 ||multifilmy.pl^$all
 ||multikino-pl.over-blog.com^$all
 ||multivod.pl^$all
+||murarzplus.pl^$all
 ||music611.com^$all
 ||mutlukadinlarakademisi.com^$all
 ||mycoinology.com^$all
@@ -2186,10 +2177,7 @@
 ||navi-free.org.ru^$all
 ||navi-gt.com^$all
 ||navi-tm.com^$all
-
 ||nazwapaiement-pl-*.*.*^$all
-||nazwapaiement-pl-*.*.*^$all
-||nazwapay-pl-*.*.*^$all
 ||nazwapay-pl-*.*.*^$all
 ||nbgmarket.com^$all
 ||nbsklepbuty.com^$all
@@ -2365,17 +2353,11 @@
 ||ogloszenie156712.xyz^$all
 ||ogloszenie348293.space^$all
 ||ogloszenie-elektronika.*^$all
-||ogloszenie-elektronika.*^$all
-||ogloszenie-elektronika.*^$all
-||ogloszenie-elektronika.*^$all
-
 ||ogloszenie-kupteraz-*.*^$all
 ||ogloszenie-nagrod.eu^$all
 ||ogloszenie.best^$all
 ||ogloszenie.space^$all
 ||ogloszeniie-kupteraz-pl-*.*^$all
-||oglosznie-elektroniczne.*^$all
-||oglosznie-elektroniczne.*^$all
 ||oglosznie-elektroniczne.*^$all
 ||ogl-yorki.dfirma.pl^$all
 ||ogrodek.biz^$all
@@ -2447,7 +2429,6 @@
 ||olx-delivery.*^$all
 ||olx-deliver.*^$all
 ||olx-dostava.*^$all
-
 ||olx-dostawa.*^$all
 ||olx-dostawk.pl^$all
 ||olx-dostaw.pl^$all
@@ -2507,6 +2488,7 @@
 ||olx-pl.ml^$all
 ||olx-pl.moneta.world^$all
 ||olx-pl.net^$all
+||olx-pl.oferta-payment.org^$all
 ||olx-pl.oferta-payment.*^$all
 ||olx-pl.oferta-pay.*^$all
 ||olx-pl.oferto.cc^$all
@@ -2538,6 +2520,7 @@
 ||olx-secure.pl^$all
 ||olx-service.pl^$all
 ||olx-shipping.eu^$all
+||olx-shop.pl^$all
 ||olx-si.pl^$all
 ||olx-spedycja.pl^$all
 ||olx-transfer.*^$all
@@ -2547,16 +2530,14 @@
 ||olx-wyplata.pl^$all
 ||olx-w.pl^$all
 ||olx-y.pl^$all
-
 ||olx-zamowienie.*^$all
 ||olx-zaplata.pl^$all
 ||olx-z.pl^$all
 ||olx--pl.online^$all
 ||olx.com-id381949.xyz^$all
 ||olx.deliverry.*^$all
-||olx.delliverry.*^$all
 ||olx.deliverys.*^$all
-||olx.dellivers.*^$all
+||olx.delliverry.*^$all
 ||olx.dellivers.*^$all
 ||olx.dellivery.*^$all
 ||olx.doreczanie.pl^$all
@@ -2576,10 +2557,7 @@
 ||olx.pay-euro.eu^$all
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
-
-
 ||olx.pl-*.*^$document
-
 ||olx.pl.*.*^$document
 ||olx.product-secure.ru^$all
 ||olx.przesylki.*^$all
@@ -2677,7 +2655,6 @@
 ||oplata-przesylki.space^$all
 ||oplaty24-kurier.com^$all
 ||opliaty.com^$all
-
 ||optimalpoland.pl^$all
 ||optminers.com^$all
 ||orange-kodzik.890m.com^$all
@@ -2713,6 +2690,7 @@
 ||owo-owo.vip^$all
 ||o-l-x.com^$all
 ||p0czta.net^$all
+||p0rtal-register.tk^$all
 ||pacificinvestmentsltd.com^$all
 ||pacuskurier.org^$all
 ||paczinfo.com^$all
@@ -2733,6 +2711,7 @@
 ||paczkedhl.com^$all
 ||paczkedpd.com^$all
 ||paczkgls.com^$all
+||paczki24-pl.live^$all
 ||paczkikk.com^$all
 ||paczkitnt.com^$all
 ||paczkkaups.com^$all
@@ -2769,13 +2748,12 @@
 ||pacztex.net^$all
 ||pafiilate.byethost32.com^$all
 ||paiementhome-pl-*.*.*^$all
-||paiementhome-pl-*.*.*^$all
-||paiementnazwa-pl-*.*.*^$all
 ||paiementnazwa-pl-*.*.*^$all
 ||paifi.net^$all
 ||pakafast4you24h.club^$all
 ||pakownia.net^$all
 ||palenate.com^$all
+||paloki-pl.com^$all
 ||pamelambarnettcounseling.com^$all
 ||panel.home.pl.frustone.it^$all
 ||panel.home.pl.muna.it^$all
@@ -2812,15 +2790,9 @@
 ||pay2me.pl^$all
 ||pay24-paczka.com^$all
 ||payhome-pl-*.*.*^$all
-||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
 ||payments-allegro.me^$all
-||paynazwa-pl-*.*.*^$all
-||paynazwa-pl-*.*.*^$all
-||paynazwa-pl-*.*.*^$all
-||paynazwa-pl-*.*.*^$all
-||paynazwa-pl-*.*.*^$all
 ||paynazwa-pl-*.*.*^$all
 ||payoner.club^$all
 ||payones.net^$all
@@ -2886,6 +2858,7 @@
 ||peytipey.net^$all
 ||peytip.net^$all
 ||peytop.net^$all
+||peytosl.net^$all
 ||peytos.net^$all
 ||pgebok.com^$all
 ||pge-bok.pl^$all
@@ -2980,14 +2953,17 @@
 ||pl-offerta.pro^$all
 ||pl-olx.art^$all
 ||pl-olx.bank-payment.cf^$all
+||pl-olx.click^$all
 ||pl-olx.digital^$all
 ||pl-olx.guru^$all
 ||pl-olx.live^$all
 ||pl-olx.men^$all
 ||pl-olx.news^$all
+||pl-olx.page^$all
 ||pl-olx.payment-bank.tk^$all
 ||pl-olx.pl^$all
 ||pl-olx.site^$all
+||pl-olx.tech^$all
 ||pl-pl-fb.com^$all
 ||pl-postkod.com^$all
 ||pl-univest.life^$all
@@ -2998,8 +2974,8 @@
 ||pl.allsports4free.club^$all
 ||pl.bitcoinmethodpro.com^$all
 ||pl.bitcoinup-app.co^$all
-||pl.bitcoin*.t*track*.com^$all
 ||pl.bitcoin*.track*.com^$all
+||pl.bitcoin*.t*track*.com^$all
 ||pl.dlawasteraz*.*^$all
 ||pl.etrackings.net^$all
 ||pl.medic-reporters.com^
@@ -3031,6 +3007,7 @@
 ||pobierzpliki.pl^$all
 ||pobierz-ebook.pl^$all
 ||pobierz-inpost.com^$all
+||pocketmyponstar.com^$all
 ||poczta24.me^$all
 ||poczta24.uno^$all
 ||pocztabox24.xyz^$all
@@ -3237,6 +3214,7 @@
 ||prize-program.club^$all
 ||procars-shoppl*.com^$all
 ||procoches.areadirecta.es^$all
+||prodomar.pl^$all
 ||profitgems.co^$all
 ||profitmaximum.pl^$all
 ||profitrevolution.live^$all
@@ -3304,7 +3282,6 @@
 ||pulrsbiznxesu.info^$all
 ||pulsbifznonesu.info^$all
 ||pulsbihzdnmnesu.info^$all
-||pulsoksymetr*pl.com^$all
 ||pulsoksymetr*pl.com^$all
 ||pumaoutletpl.pl^$all
 ||pumeksy.pl^$all
@@ -3502,8 +3479,8 @@
 ||sgb-24.at^$all
 ||sgb-24.com^$all
 ||shael.org^$all
-||sharefoto-*.vot.pl^$all
 ||sharefoto-*.idl.pl^$all
+||sharefoto-*.vot.pl^$all
 ||shaverbasics.com^$all
 ||shift-holdings.com^$all
 ||shinden-anime.info^$all
@@ -3840,6 +3817,7 @@
 ||tunaszapolska.xyz^$all
 ||tunehub247shop.com^$all
 ||tura-informacyjna.eu^$all
+||turniej-najlepszych.eu^$all
 ||turystyka.cal.pl^$all
 ||tv24.dkonto.pl^$all
 ||tvinfo-24.pl^$all
@@ -3942,7 +3920,7 @@
 ||uzupelniajdane.gq^$all
 ||uzyskac-olx.xyz^$all
 ||u*p*w.ha*.t.justns.ru^$document,domain=ru
-||v*ikm*k*cbsa.drjesri.ir^$all,domain=ir
+||v5ikm5k3438cbsa.drjesri.ir^$all
 ||valecarnisrl.com^$all
 ||valuesmatter.com.au^$all
 ||vanscheers.com^$all
@@ -3983,6 +3961,7 @@
 ||vrerttoikvllnyh.lianiswim.com^$all
 ||vulfehisil.tk^$all
 ||vww-olx-pl.com^$all
+||v*ikm*k*cbsa.drjesri.ir^$all,domain=ir
 ||w3brasil.com^$all
 ||walczymy-codziennie.eu^$all
 ||waleczni-ludzie.eu^$all
@@ -4207,7 +4186,6 @@
 ||xn--efaktygwat-i0b.pl^$all
 ||xn--eonetgwat-xub.pl^$all
 ||xn--faktygwat-xub.*^$all
-
 ||xn--ldgr-xva7266b.com^$all
 ||xn--onetgwat-*.*^$all
 ||xn--ox-xqa.pl^$all
@@ -4226,7 +4204,6 @@
 ||youronline-profits.life^$all
 ||yourordercheckout.com^$all
 ||your-mac-security-analysis.net.*.*.*^$all,domain=agency|icu|life|live|xyz
-
 ||your-movies.pl^$all
 ||yrehrher.001www.com^$all
 ||yuppipuppy.com^$all
@@ -4237,7 +4214,6 @@
 ||zaglosujmy-wsparcia.eu^$all
 ||zaglosuj-dzisiaj.eu^$all
 ||zaglosuj-kliknij.eu^$all
-
 ||zaglosuj-teraz.*^$all
 ||zaglosuj-warszawa.vot.pl^$all
 ||zajonc.de^$all
@@ -4268,6 +4244,7 @@
 ||zaszczepilamsie.co.pl^$all
 ||zaszczepionakobieta.co.pl^$all
 ||zawieszone.5p.pl^$all
+||zawody-geniuszy.eu^$all
 ||zbigniewbiernat.pl^$all
 ||zbyk.drl.pl^$all
 ||zdjecia-fotki.pl^$all
@@ -4293,6 +4270,7 @@
 ||zloty-lider.eu^$all
 ||zmiltraf.website^$all
 ||znajdziemy.icu^$all
+||znajdz-paczke-24.xyz^$all
 ||znamcie.pl^$all
 ||znaneleki.pl^$all
 ||znany-lekarz.dfirma.pl^$all
@@ -4318,7 +4296,6 @@
 ||*iporwanie24.*^$all
 ||*iporwanie.*^$all
 ||*kurier.*/oplata*$document,domain=com|domain=org
-
 ||*pl.netlify.app/artykul/$document,domain=~przekrety-z-falszywymi-porwaniami
 ||*pl.netlify.com/artykul/$document,domain=~przekrety-z-falszywymi-porwaniami
 ||*polskaporwanie.*^$all
@@ -4341,21 +4318,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||d1quu53w0vld5k.cloudfront.net^$all
-||dziennik-inf.xyz^$all
-||dziennik-weryfikacja.tk^$all
-||hosting2139479.online.pro^$all
-||hosting2181629.online.pro^$all
-||lnpost-app.com^$all
-||olx-pl.oferta-payment.org^$all
-||olx-shop.pl^$all
-||p0rtal-register.tk^$all
-||paczki24-pl.live^$all
-||peytosl.net^$all
-||pl-olx.click^$all
-||pl-olx.page^$all
-||pl-olx.tech^$all
-||turniej-najlepszych.eu^$all
-||v5ikm5k3438cbsa.drjesri.ir^$all
-||zawody-geniuszy.eu^$all
-||znajdz-paczke-24.xyz^$all
