@@ -1,4 +1,4 @@
-/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$doc
+/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document
 ||0n.click^$all
 ||abihpopihigh.tk^$all
 ||abrakasba.space^$all
@@ -21,7 +21,7 @@
 ||bigdater.me^$all
 ||bigprize-place.info^$all
 ||bitgamez.com^$all
-||bmscooperation.com^$doc
+||bmscooperation.com^$document
 ||bnmjjwinf292.com^$all
 ||bodranowelnaver.tk^$all
 ||braintest4you.com^$all
@@ -35,7 +35,7 @@
 ||clickpush.biz^$all
 ||clic-douaisis.fr^$all
 ||clip.today^$all
-||coma.com.pl/userfiles/*.xml$doc
+||coma.com.pl/userfiles/*.xml$document
 ||commanods.xyz^$all
 ||d8x.pl^$all
 ||decynsire.com^$all
@@ -44,7 +44,7 @@
 ||eeu.pl^$all
 ||elinladpati.tk^$all
 ||eworldtrack.com^$all
-||exe.io^$doc
+||exe.io^$document
 ||exy.ai^$all
 ||e-kino.tv^$all
 ||fbdowner.com^$all
