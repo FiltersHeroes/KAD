@@ -778,7 +778,7 @@
 ||dostawaolx.site^$all
 ||dostawapost24.pl^$all
 ||dostawa-dhl.net^$all
-||dostawa-olx-pl.link^$all
+
 ||dostawa-olx-pl.*^$all
 ||dostawa-olx-poland.info^$all
 ||dostawa-olx.*^$all
@@ -2484,8 +2484,8 @@
 ||olx-pl.com-*.*^$all
 ||olx-pl.eupay.website^$all
 ||olx-pl.eu^$all
-||olx-pl.id03948.ru^$all
-||olx-pl.id-*.ru^$all
+
+||olx-pl.id*.ru^$all
 ||olx-pl.info^$all
 ||olx-pl.ink^$all
 ||olx-pl.iso-pay.net.ru^$all
@@ -2561,11 +2561,9 @@
 ||olx.pay-euro.eu^$all
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
-||olx.pl-getorder.link^$all
-||olx.pl-id325466.site^$all
-||olx.pl-konto.pw^$all
+
 ||olx.pl-*.*^$document
-||olx.pl.x-payment.win^$all
+
 ||olx.pl.*.*^$document
 ||olx.product-secure.ru^$all
 ||olx.przesylki.*^$all
@@ -2829,9 +2827,9 @@
 ||pekandobonus.xyz^$all
 ||pekano.xyz^$all
 ||pekaocalbank.com^$all
-||pekao.icu^$all
-||pekao.life^$all
-||pekao.store^$all
+||pekao.*^$document,domain=~pekao.pl|pekao.com.pl
+
+
 ||pelnizycialudzie.co.pl^$all
 ||pelpey.net^$all
 ||pemberitahuanfb.weebly.com^$all
