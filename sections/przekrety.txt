@@ -1,6 +1,4 @@
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||m-facebook.ct8.pl^$all
-||retirewellinvestors.com^$all
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1580,6 +1578,7 @@
 ||inpost.live^$all
 ||inpost.ltd^$all
 ||inpost.page^$all
+||inpost.pl-getdelivery.shop^$all
 ||inpost.pl-get.cash^$all
 ||inpost.pl-payment.link^$all
 ||inpost.pl-safecash.link^$all
@@ -2066,6 +2065,7 @@
 ||mobile-olx.pl^$all
 ||mobile-olx.site^$all
 ||mobilnarecepta.pl^$all
+||mobilny-olx.pl^$all
 ||mobiwin.pl^$all
 ||mobjmp.com^$all
 ||mobsfun.com^$all
@@ -2127,6 +2127,7 @@
 ||my-olx.pl^$all
 ||my-olx.shop^$all
 ||mzgov.net^$all
+||m-facebook.ct8.pl^$all
 ||m-instagram.org^$all
 ||m-olx-oferta.name^$all
 ||nabijaj-internetowo.eu^$all
@@ -2522,6 +2523,7 @@
 ||olx-p.pl^$all
 ||olx-q.pl^$all
 ||olx-rolly.com^$all
+||olx-rozdac.pl^$all
 ||olx-save.pl^$all
 ||olx-secure.pl^$all
 ||olx-service.pl^$all
@@ -3377,6 +3379,7 @@
 ||restore-payp.com^$all
 ||restricted.pl^$all
 ||retinaegras.at^$all
+||retirewellinvestors.com^$all
 ||reviewedreads.com^$all
 ||revoiut.org^$all
 ||reypey24.net^$all
@@ -4333,6 +4336,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost.pl-getdelivery.shop^$all
-||mobilny-olx.pl^$all
-||olx-rozdac.pl^$all
