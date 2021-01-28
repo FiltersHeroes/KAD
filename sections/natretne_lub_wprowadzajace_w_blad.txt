@@ -14,8 +14,8 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 ##a[href^="sms:"][href*="?body="]
 /pobierz_*.exe$document
 /*-AsystentPobierania.exe$document
-/*-ks.exe$document,popup
-/*-ks.exe$frame,domain=download.komputerswiat.pl,third-party
+download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
+download.komputerswiat.pl##div[id]:has( > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"]))::after:style(content: 'Uwaga aystent pobierania próbuje się załadować' !important;)
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
