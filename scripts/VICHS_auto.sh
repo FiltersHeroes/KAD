@@ -6,7 +6,7 @@ sciezka=$(dirname "$0")
 cd $sciezka/..
 $sciezka/ADD_NOVELTIES_FROM_CERT.sh
 $sciezka/ADD_NOVELTIES_FROM_LWS.sh
-$sciezka/ADD_NOVELTIES_FROM_CSMI.sh
+#$sciezka/ADD_NOVELTIES_FROM_CSMI.sh
 $sciezka/VICHS.sh ./KAD.txt
 cd ..
 if [ "$CI" = "true" ] ; then
