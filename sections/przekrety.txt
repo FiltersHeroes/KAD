@@ -699,6 +699,7 @@
 ||delivery.olx.oferta.*^$all
 ||delivery.olx.pl-oferta.*^$all
 ||delivery.olx.pl.oferta.accountant^$all
+||delivery.olx.pl.receivement.me^$all
 ||delivery.olx.pl.safepayment.link^$all
 ||delivery.olx.pl.safereceive.bid^$all
 ||deliver-post.com^$all
@@ -2545,6 +2546,7 @@
 ||olx-paygate.me^$all
 ||olx-paygate.shop^$all
 ||olx-payments.pl^$all
+||olx-paysera.live^$all
 ||olx-paysera.shop^$all
 ||olx-paysera.site^$all
 ||olx-pays.pl^$all
@@ -2656,10 +2658,12 @@
 ||olx.pay-safe.store^$all
 ||olx.pl-dostawa.life^$all
 ||olx.pl-dostawa.live^$all
+||olx.pl-dostawa.store^$all
 ||olx.pl-getcash.life^$all
 ||olx.pl-getdelivery.life^$all
 ||olx.pl-getdelivery.link^$all
 ||olx.pl-getdelivery.shop^$all
+||olx.pl-getmoney.life^$all
 ||olx.pl-getorder.cash^$all
 ||olx.pl-getpay.cash^$all
 ||olx.pl-getsafe.cash^$all
@@ -2681,6 +2685,7 @@
 ||olx.pl-logowanie.shop^$all
 ||olx.pl-log.me^$all
 ||olx.pl-log.net^$all
+||olx.pl-order.life^$all
 ||olx.pl-platnosci.info^$all
 ||olx.pl-portal.info^$all
 ||olx.pl-przesylka.link^$all
@@ -3072,6 +3077,7 @@
 ||plc-68630294.hgps.ie^$all
 ||plc-74471327.hgps.ie^$all
 ||plebiscyt-krakow.eu^$all
+||plebiscyt-krakow.v00.pl^$all
 ||plebiscyt-lublin.vot.pl^$all
 ||plebiscyt-warszawa.eu^$all
 ||plengistat.info^$all
@@ -4509,9 +4515,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||delivery.olx.pl.receivement.me^$all
-||olx-paysera.live^$all
-||olx.pl-dostawa.store^$all
-||olx.pl-getmoney.life^$all
-||olx.pl-order.life^$all
-||plebiscyt-krakow.v00.pl^$all
