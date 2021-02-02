@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 02 Feb 2021, 16:05 UTC+01
-! Version: 2021.2.2.1
+! Last modified: Tue, 02 Feb 2021, 20:04 UTC+01
+! Version: 2021.2.2.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2535,6 +2535,7 @@
 ||apptrader.com^$all
 ||app*.kromtech.net^$all,domain=net
 ||app-messenger-lite.com^$all
+||app-postrackingc.parcel.pl.uyfm.co.za^$all
 ||aqsati.com^$all
 ||aranzujemy.co.pl^$all
 ||arbeiten.pl^$all
@@ -3073,6 +3074,7 @@
 ||dostawa24-olx.pl^$all
 ||dostawaca24.online^$all
 ||dostawajaros.top^$all
+||dostawaolx.pl^$all
 ||dostawaolx.site^$all
 ||dostawapost24.pl^$all
 ||dostawa-dhl.net^$all
@@ -3255,6 +3257,7 @@
 ||expresspaczki.com^$all
 ||express-dhl.com^$all
 ||express-inpost.com^$all
+||express-olx.pl^$all
 ||express-paczka.today^$all
 ||express-pocztex.com^$all
 ||extra-gains.com^$all
@@ -3904,6 +3907,7 @@
 ||inpost.pl-get.cash^$all
 ||inpost.pl-money.life^$all
 ||inpost.pl-payment.link^$all
+||inpost.pl-receive.life^$all
 ||inpost.pl-safecash.link^$all
 ||inpost.pl-safeorder.live^$all
 ||inpost.pl-safeway.cash^$all
@@ -4257,6 +4261,7 @@
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-play-pl.selfip.net^$all
 ||logowanie.dkonto.pl^$all
+||loguj-praca.co.pl^$all
 ||lokaineogloszenie.live^$all
 ||lokainie.life^$all
 ||lokainie.live^$all
@@ -4265,6 +4270,7 @@
 ||lokalna-941866.in.net^$all
 ||lokalneinformacje*.vot.pl^$all
 ||lokalneinformacje.pl^$all
+||lokalneinfo.co.pl^$all
 ||lokalnieaiiegro.xyz^$all
 ||lokalnieallegro-094213.xyz^$all
 ||lokalnie-ploferta-057126.tech^$all
@@ -4722,6 +4728,7 @@
 ||olflowdesign.at^$all
 ||ollando.com^$all
 ||olszewski.ehost.pl^$all
+||olxbank.cc^$all
 ||olxdostawa.*^$all
 ||olxoferta.digital^$all
 ||olxoferta.life^$all
@@ -4748,6 +4755,7 @@
 ||olxpl.co^$all
 ||olxpl.deals^$all
 ||olxpl.delivery-b.site^$all
+||olxpl.delivery-pay.pw^$all
 ||olxpl.deli-very.su^$all
 ||olxpl.e-tracking.net^$all
 ||olxpl.me^$all
@@ -4885,6 +4893,7 @@
 ||olx-rozdac.pl^$all
 ||olx-save.pl^$all
 ||olx-secure.pl^$all
+||olx-seller.pl^$all
 ||olx-service.pl^$all
 ||olx-shipping.eu^$all
 ||olx-shop.pl^$all
@@ -5390,6 +5399,7 @@
 ||pl.olx-pay.oferta-payment.org^$all
 ||pl.olx-safe.oferta-payment.org^$all
 ||pl.olx-ship.eu^$all
+||pl.olx.fsb-pays.tk^$all
 ||pl.olx.oferta-pay.cc^$all
 ||pl.olx.oferta-pay.fun^$all
 ||pl.olx.oferta-pay.live^$all
@@ -5409,6 +5419,7 @@
 ||pobierzpliki.pl^$all
 ||pobierz-ebook.pl^$all
 ||pobierz-inpost.com^$all
+||pochwal-glosami.eu^$all
 ||pocketmyponstar.com^$all
 ||poczta24.me^$all
 ||poczta24.uno^$all
@@ -5476,6 +5487,7 @@
 ||polska24info.dkonto.pl^$all
 ||polska24poszukiwani.dkonto.pl^$all
 ||polska24.dkonto.pl^$all
+||polska24.ehost.pl^$all
 ||polska24.eu^$all
 ||polska24.serwerplus.pl^$all
 ||polskadziennik.pl^$all
@@ -6523,6 +6535,7 @@
 ||wplata-paczkomat-24.space^$all
 ||wplata-przesylka-online.live^$all
 ||wpnews24.you2.pl^$all
+||wppgnig.pw^$all
 ||wprost-news.pl^$all
 ||wp-login.azurewebsites.net^$all
 ||wp-plugin.site^$all
