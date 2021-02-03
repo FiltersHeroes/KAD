@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 03 Feb 2021, 12:08 UTC+01
-! Version: 2021.2.3.0
+! Last modified: Wed, 03 Feb 2021, 16:05 UTC+01
+! Version: 2021.2.3.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1207,6 +1207,7 @@
 ||orzelprusice.pl^$all
 ||osiedlebrzechwy.com.pl^$all
 ||osiedlecetnarskiego.pl^$all
+||osiedlewidok.pl^$all
 ||osiedlewillowa.pl^$all
 ||oskmiekisiak.pl^$all
 ||ospmazancowice.pl^$all
@@ -1634,6 +1635,7 @@
 ||stooree.com^$all
 ||stopkomornikowi.pl^$all
 ||stoppodzialom.pl^$all
+||stop-gmo.pl^$all
 ||storq.pl^$all
 ||stotom.pl^$all
 ||strefaucznia.com.pl^$all
@@ -4955,7 +4957,9 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-cash.life^$all
 ||olx.pl-cash.live^$all
+||olx.pl-delivery.life^$all
 ||olx.pl-id8592340.site^$all
 ||olx.pl-money.live^$all
 ||olx.pl-payment.life^$all
@@ -5342,6 +5346,7 @@
 ||play-sklep.net^$all
 ||play-vod.pl^$all
 ||plcalyfilm.over-blog.com^$all
+||plcnvz.weebly.com^$all
 ||plc-68630294.hgps.ie^$all
 ||plc-74471327.hgps.ie^$all
 ||plebiscyt-krakow.eu^$all
