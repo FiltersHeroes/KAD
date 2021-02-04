@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 04 Feb 2021, 16:05 UTC+01
-! Version: 2021.2.4.1
+! Last modified: Thu, 04 Feb 2021, 20:06 UTC+01
+! Version: 2021.2.4.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4205,6 +4205,7 @@
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl
 ||legioncrest.com^$all
 ||lena-moda.shop^$all
+||lepszeoceny.pl^$all
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
 ||levispolska.pl^$all
@@ -5230,6 +5231,7 @@
 ||payinginvest.com^$all
 ||payment24-online.org^$all
 ||payments-allegro.me^$all
+||payments-olx.pl^$all
 ||payment-olx.pl^$all
 ||paynazwa-pl-*.*.*^$all
 ||payoner.club^$all
