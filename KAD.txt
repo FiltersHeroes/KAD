@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 03 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.3.2
+! Last modified: Thu, 04 Feb 2021, 12:05 UTC+01
+! Version: 2021.2.4.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3763,6 +3763,7 @@
 ||host1.5v.pl^$all
 ||hostfeboe.n4t.co^$all
 ||hosting2051245.online.pro^$all
+||hosting2119326.online.pro^$all
 ||hosting2139479.online.pro^$all
 ||hosting2142718.online.pro^$all
 ||hosting2181629.online.pro^$all
@@ -3831,6 +3832,7 @@
 ||inesmanila.com^$all
 ||inevitablesituations.com^$all
 ||infasd2a.is-best.net^$all
+||info24-polska.vot.pl^$all
 ||info24-warszawa.pl^$all
 ||infodostarcz.net^$all
 ||infofpolska.online^$all
@@ -4750,6 +4752,7 @@
 ||olflowdesign.at^$all
 ||ollando.com^$all
 ||olszewski.ehost.pl^$all
+||olxbank.casa^$all
 ||olxbank.cc^$all
 ||olxdostawa.*^$all
 ||olxoferta.digital^$all
@@ -4963,7 +4966,9 @@
 ||olx.pl-cash.life^$all
 ||olx.pl-cash.live^$all
 ||olx.pl-delivery.life^$all
+||olx.pl-get.money^$all
 ||olx.pl-id8592340.site^$all
+||olx.pl-konto.website^$all
 ||olx.pl-money.live^$all
 ||olx.pl-payment.life^$all
 ||olx.pl-safecash.live^$all
@@ -4974,6 +4979,7 @@
 ||olx.pl.delivery-transit.xyz^$all
 ||olx.pl.dostawa.casa^$all
 ||olx.pl.oferta-payment.shop^$all
+||olx.pl.oferta-payment.today^$all
 ||olx.pl.paysend.work^$all
 ||olx.pl.*.*^$document
 ||olx.product-secure.ru^$all
@@ -5012,6 +5018,7 @@
 ||onet-news24.pl^$all
 ||onet-news.you2.pl^$all
 ||onet-nowosci.xyz^$all
+||onet-nowosc.xyz^$all
 ||onet-online.pl^$all
 ||onet-poznan.xyz^$all
 ||onet-praca.online^$all
@@ -5111,6 +5118,7 @@
 ||ottokurier.com^$all
 ||otube.pl^$document,domain=otube.pl|~uwaga-natretne-reklamy
 ||otymsiemowi.com.pl^$all
+||ouruk880.cyou^$all
 ||overcreative.com^$all
 ||owocny-awans.eu^$all
 ||owo-owo.vip^$all
@@ -6276,6 +6284,7 @@
 ||towiemy.online^$all
 ||tpc.hu^$all
 ||tpskp.com^$all
+||trackandnow.site^$all
 ||trade360.com^$all
 ||traderking.cc^$all
 ||traderschain.com^$all
@@ -6565,6 +6574,7 @@
 ||wlasciwa-decyzja.eu^$all
 ||wmcs.pl^$all
 ||wnioski-kredytowe.pl^$all
+||woja-punktowa.eu^$all
 ||wojtekduda.pl^$all
 ||wolaklosza.is-best.net^$all
 ||wolski.med.pl^$all
@@ -6600,6 +6610,7 @@
 ||wspolnemiasto.dkonto.pl^$all
 ||wspolnerazem.pl^$all
 ||wspolny-wybieranie.eu^$all
+||wspomozmy-szybciej.eu^$all
 ||wstrzymana-paczka-paczkomat.xyz^$all
 ||wstrzymana-paczka.in.net^$all
 ||wstrzymana-paczka.xyz^$all
