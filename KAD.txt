@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 04 Feb 2021, 12:05 UTC+01
-! Version: 2021.2.4.0
+! Last modified: Thu, 04 Feb 2021, 16:05 UTC+01
+! Version: 2021.2.4.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3926,6 +3926,7 @@
 ||inpost.pl-getpay.life^$all
 ||inpost.pl-getsafe.money^$all
 ||inpost.pl-get.cash^$all
+||inpost.pl-get.money^$all
 ||inpost.pl-money.life^$all
 ||inpost.pl-payment.link^$all
 ||inpost.pl-receive.life^$all
@@ -4434,6 +4435,7 @@
 ||mobjmp.com^$all
 ||mobsfun.com^$all
 ||mobstarter.com^$all
+||mob-olx.site^$all
 ||mob.olx-pl.club^$all
 ||moda2020.pl^$all
 ||modello.co.il^$all
@@ -4862,6 +4864,7 @@
 ||olx-paysera.site^$all
 ||olx-pays.pl^$all
 ||olx-pay-pl.su^$all
+||olx-pay-system.tk^$all
 ||olx-pay.org^$all
 ||olx-pln.eu^$all
 ||olx-pl-delivery.*^$all
@@ -4967,6 +4970,8 @@
 ||olx.pl-cash.live^$all
 ||olx.pl-delivery.life^$all
 ||olx.pl-get.money^$all
+||olx.pl-id88322.site^$all
+||olx.pl-id942382.site^$all
 ||olx.pl-id8592340.site^$all
 ||olx.pl-konto.website^$all
 ||olx.pl-money.live^$all
@@ -5406,6 +5411,7 @@
 ||pl-olx.men^$all
 ||pl-olx.news^$all
 ||pl-olx.oferta-payment.org^$all
+||pl-olx.oferta-payment.shop^$all
 ||pl-olx.page^$all
 ||pl-olx.payment-bank.tk^$all
 ||pl-olx.pl^$all
@@ -5466,6 +5472,7 @@
 ||poczta24.me^$all
 ||poczta24.uno^$all
 ||pocztaadminhelpdeskcenter.moonfruit.com^$all
+||pocztaadminunit.moonfruit.com^$all
 ||pocztabox24.xyz^$all
 ||pocztainteria-regulamin.net^$all
 ||pocztain.moonfruit.com^$all
