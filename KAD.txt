@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 06 Feb 2021, 20:06 UTC+01
-! Version: 2021.2.6.2
+! Last modified: Sun, 07 Feb 2021, 12:06 UTC+01
+! Version: 2021.2.7.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2464,7 +2464,7 @@
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.info^$all
-||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl
+||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegroloklinie-oferta*.xyz^$all
 ||allegrosklep.online^$all
 ||allegrowork.site^$all
@@ -2805,6 +2805,7 @@
 ||centrumkrakowska.com.pl^$all
 ||centrumofert24.com^$all
 ||centrumplay.pl^$all
+||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
 ||ceresiontest.c0.pl^$all
 ||cezaevinegonder.com^$all
 ||cgiergate.com^$all
@@ -4138,6 +4139,7 @@
 ||konkursowa-reakcja.eu^$all
 ||konkursowy-wybor.eu^$all
 ||konkursy.de^$all
+||konsens-investment.com^$all
 ||kontakt24.xn.pl^$all
 ||koopon.pl^$all
 ||koronawirusnews.com.pl^$all
@@ -4449,6 +4451,7 @@
 ||moda2020.pl^$all
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
+||mogedalej.pl^$all
 ||mojapaczka24.net^$all
 ||moje69.pl^$all
 ||mojeapartamenty.com^$all
@@ -4934,6 +4937,7 @@
 ||olx-przesylk*.*^$all
 ||olx-p.pl^$all
 ||olx-q.pl^$all
+||olx-rare.com^$all
 ||olx-rejestracja.pl^$all
 ||olx-rolly.com^$all
 ||olx-rozdac.pl^$all
@@ -4966,6 +4970,8 @@
 ||olx.doreczanie.pl^$all
 ||olx.dostawa-pl.art^$all
 ||olx.dostawa-pl.club^$all
+||olx.dostawa-pl.pro^$all
+||olx.dostawa-pl.shop^$all
 ||olx.dostawa-pl.store^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
@@ -5978,6 +5984,7 @@
 ||secure-payuser01.serveirc.com^$all
 ||secure.mwwi.pl^$all
 ||security-update-required.com^$all
+||security.weblogin-contact-form-instagram.com^$all
 ||segregations.xyz^$all
 ||sekret.online^$all
 ||seks-telefon.com^$all
@@ -6198,6 +6205,7 @@
 ||sunlight177.wixsite.com^$all
 ||sunrisedvdrentals.com^$all
 ||superchance-forwin*.life^$all
+||superdryoutletpolska.pl^$all
 ||supergra2020.wixsite.com^$all
 ||superhistoria.is-best.net^$all
 ||supermocna-tasma-klejaca-pl.com^$all
@@ -6662,6 +6670,7 @@
 ||wstrzymana-paczka.in.net^$all
 ||wstrzymana-paczka.xyz^$all
 ||wszyscy-dopingujmy.eu^$all
+||wszyscy-wybieramy.eu^$all
 ||wszystkodokuchni.pl^$all
 ||wszystkowiem.online^$all
 ||wszystkowpolsce.fun^$all
