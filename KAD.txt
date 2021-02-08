@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 08 Feb 2021, 12:05 UTC+01
-! Version: 2021.2.8.0
+! Last modified: Mon, 08 Feb 2021, 16:06 UTC+01
+! Version: 2021.2.8.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -251,7 +251,9 @@
 ||butyasicsgellyte.pl^$all
 ||butyasicskayano.com^$all
 ||butybrookspolska.com^$all
+||butychukka.com^$all
 ||butyconversesklep.com^$all
+||butyeccosale.com^$all
 ||butyecosklep.com^$all
 ||butygellyte.com^$all
 ||butyjordansklep.pl^$all
@@ -265,9 +267,12 @@
 ||butypolskasklep.nadi8.com^$all
 ||butypremium.pl^$all
 ||butyreebokonline.pl^$all
+||butyreebokpolska.com^$all
+||butysalomonpolska.com^$all
 ||butysportowepolska.pl^$all
 ||butysuperstar.pl^$all
 ||butyultraboost.com^$all
+||butyvanspolska.com^$all
 ||buzzihome.com^$all
 ||buzzonclick.com^$all
 ||byagadget.com^$all
@@ -441,6 +446,7 @@
 ||drukmarket.eu^$all
 ||drukmet.eu^$all
 ||drukopol.net^$all
+||dr-polska.com^$all
 ||dstreet.pl^$all
 ||dubaikidcare.com^$all
 ||duramo.pl^$all
@@ -801,6 +807,7 @@
 ||kaie.pl^$all
 ||kaletnik-24.pl^$all
 ||kaloryferypoznan.pl^$all
+||kaloszehunterpl.com^$all
 ||kaltive.com^$all
 ||kancelariakufieta.pl^$all
 ||kancelariaskawina.pl^$all
@@ -1462,6 +1469,7 @@
 ||roomdeco.pl^$all
 ||rosalieeve.pl^$all
 ||rosa-wypoczynek.pl^$all
+||rossbergpl.com^$all
 ||roswell47.pl^$all
 ||roulettenumber.com^$all
 ||roundupbarandgrill.com^$all
@@ -4196,6 +4204,7 @@
 ||kurier-naleznosc.life^$all
 ||kurier-platnosci.services^$all
 ||kurier-pocztex24.com^$all
+||kurjerzy-pl.cyou^$all
 ||kursjezykowy.eu^$all
 ||kuszowka.pl^$all
 ||kwarantannadomowa.com^$all
@@ -4989,6 +4998,8 @@
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
 ||olx.dostaw.*^$all
+||olx.get-pl.shop^$all
+||olx.get-pl.store^$all
 ||olx.ink^$all
 ||olx.livrare-ro.info^$all
 ||olx.manager.name^$all
@@ -5022,6 +5033,7 @@
 ||olx.pl-id942382.site^$all
 ||olx.pl-id8592340.site^$all
 ||olx.pl-konto.website^$all
+||olx.pl-mkonto.ceo^$all
 ||olx.pl-money.live^$all
 ||olx.pl-payment.life^$all
 ||olx.pl-payment.store^$all
