@@ -1,10 +1,9 @@
 ---
-name: Podejrzane strony
-about: Suspicious websites
-title: ''
-labels: zgłoszenie
-assignees: ''
+name: Błędy
+about: Bugs, mistakes, no-no
+labels: błąd
 ---
+
 <!--
 Other important informations that may be relevant (optional)
 -->
