@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 07 Feb 2021, 20:07 UTC+01
-! Version: 2021.2.7.2
+! Last modified: Mon, 08 Feb 2021, 12:05 UTC+01
+! Version: 2021.2.8.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -458,6 +458,7 @@
 ||eccoeustore.com^$all
 ||eccopolska.pl^$all
 ||eccopromocje.pl^$all
+||ecco-pl.com^$all
 ||ecolife-home.com.pl^$all
 ||ecoslimmer.pro^$all
 ||edofinansowania.eu^$all
@@ -1732,6 +1733,7 @@
 ||tipanddonation.com^$all
 ||tlvmw.top^$all
 ||tnfclothed.top^$all
+||tnf-pl.com^$all
 ||tniemyceny.net^$all
 ||tocho.pl^$all
 ||tomaszrabinski.pl^$all
@@ -2942,6 +2944,7 @@
 ||d1ud788mmh5bcn.cloudfront.net^$all
 ||d1wp11q15apzub.cloudfront.net^$all
 ||d2obhr6r5fzecl.cloudfront.net^$all
+||d2z5qakd2ama3r.cloudfront.net^$all
 ||d3a3j770jgc81v.cloudfront.net^$all
 ||d3djra8xuxrarl.cloudfront.net^$all
 ||d3jdrqwt8yggac.cloudfront.net^$all
@@ -3408,6 +3411,7 @@
 ||faza-wyboru.eu^$all
 ||fb202022.tcp4.me^$all
 ||fbads-manager.net^$all
+||fbbx.me^$all
 ||fblinker.com^$all
 ||fbloginverifyyy.tcp4.me^$all
 ||fbonlogins.mypi.co^$all
@@ -3768,6 +3772,7 @@
 ||hostfeboe.n4t.co^$all
 ||hosting2051245.online.pro^$all
 ||hosting2119326.online.pro^$all
+||hosting2129536.online.pro^$all
 ||hosting2139479.online.pro^$all
 ||hosting2142718.online.pro^$all
 ||hosting2181629.online.pro^$all
@@ -3923,6 +3928,7 @@
 ||inpost.link^$all
 ||inpost.live^$all
 ||inpost.ltd^$all
+||inpost.order-pl.store^$all
 ||inpost.page^$all
 ||inpost.pl-dostawa.life^$all
 ||inpost.pl-dostawa.live^$all
@@ -4967,6 +4973,8 @@
 ||olx.com-id381949.xyz^$all
 ||olx.deliverry.*^$all
 ||olx.deliverys.*^$all
+||olx.delivery-pl.shop^$all
+||olx.delivery-pl.store^$all
 ||olx.delliverry.*^$all
 ||olx.dellivers.*^$all
 ||olx.dellivery.*^$all
@@ -4991,6 +4999,8 @@
 ||olx.new-payment.space^$all
 ||olx.new-payment.store^$all
 ||olx.oplata-is.com^$all
+||olx.order-pl.shop^$all
+||olx.order-pl.store^$all
 ||olx.payment-otrymac.*^$all
 ||olx.paysend.space^$all
 ||olx.pay-euro.eu^$all
@@ -5000,11 +5010,14 @@
 ||olx.pl-cash.life^$all
 ||olx.pl-cash.live^$all
 ||olx.pl-delivery.life^$all
+||olx.pl-dostawa.art^$all
+||olx.pl-dostawa.news^$all
 ||olx.pl-getcash.online^$all
 ||olx.pl-getpayment.online^$all
 ||olx.pl-get.money^$all
 ||olx.pl-id88322.site^$all
 ||olx.pl-id823942.site^$all
+||olx.pl-id847528.site^$all
 ||olx.pl-id924385.site^$all
 ||olx.pl-id942382.site^$all
 ||olx.pl-id8592340.site^$all
@@ -5306,7 +5319,7 @@
 ||pekano.xyz^$all
 ||pekaobank.ru^$all
 ||pekaocalbank.com^$all
-||pekao.*^$document,domain=~pekao.pl|pekao.com.pl
+||pekao.*^$document,domain=~pekao.pl|~pekao.com.pl
 ||pelnizycialudzie.co.pl^$all
 ||pelpey.net^$all
 ||pemberitahuanfb.weebly.com^$all
@@ -5457,6 +5470,7 @@
 ||pl-olx.live^$all
 ||pl-olx.men^$all
 ||pl-olx.news^$all
+||pl-olx.oferta-payment.me^$all
 ||pl-olx.oferta-payment.org^$all
 ||pl-olx.oferta-payment.shop^$all
 ||pl-olx.page^$all
@@ -6590,6 +6604,7 @@
 ||wiadomosci24.warszawa.pl^$all
 ||wiadomoscinewsy.live^$all
 ||wiadomoscionet.pythonanywhere.com^$all
+||wiadomoscipolskie.online^$all
 ||wiadomoscizkraju24.com.pl^$all
 ||wiadomoscizkraju.online^$all
 ||wiadomoscizkraju.site^$all
