@@ -1,4 +1,3 @@
-||ecco-pl.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -143,6 +142,7 @@
 ||aktualizacja-poczty.online^$all
 ||aktualizacja-regulamin.com^$all
 ||aktualizacja.jst.pl^$all
+||alabaster-steel-hawthorn.glitch.me^$all
 ||albajifood.com^$all
 ||albertodionigi.it^$all
 ||alcaido.com^$all
@@ -179,6 +179,7 @@
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.info^$all
+||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegroloklinie-oferta*.xyz^$all
 ||allegrosklep.online^$all
@@ -909,6 +910,7 @@
 ||ebookeo.pl^$all
 ||ecampuskbds.com^$all
 ||eccopoland.pl^$all
+||ecco-pl.com^$all
 ||eclass47.duckdns.org^$all
 ||edland.pro^$all
 ||edotpay.pl^$all
@@ -1622,6 +1624,7 @@
 ||inpostdoplata.net^$all
 ||inpostkode-pl.com^$all
 ||inpostkode.com^$all
+||inpostmobile.net^$all
 ||inpostodbior.com^$all
 ||inpostodkaz.net^$all
 ||inpost-app.me^$all
@@ -2649,6 +2652,7 @@
 ||olx-pl.secure-code.site^$all
 ||olx-pl.su^$all
 ||olx-pl.today^$all
+||olx-pl.track-pay.info^$all
 ||olx-polands.*^$all
 ||olx-poland.*^$all
 ||olx-polland.com^$all
@@ -2715,6 +2719,7 @@
 ||olx.new-payment.space^$all
 ||olx.new-payment.store^$all
 ||olx.oplata-is.com^$all
+||olx.order-pl.life^$all
 ||olx.order-pl.shop^$all
 ||olx.order-pl.store^$all
 ||olx.payment-otrymac.*^$all
@@ -2727,6 +2732,7 @@
 ||olx.pl-cash.live^$all
 ||olx.pl-delivery.life^$all
 ||olx.pl-dostawa.art^$all
+||olx.pl-dostawa.design^$all
 ||olx.pl-dostawa.news^$all
 ||olx.pl-getcash.online^$all
 ||olx.pl-getpayment.online^$all
@@ -4136,6 +4142,7 @@
 ||twojanatura.com^$all
 ||twojapaczka.services^$all
 ||twojapaka.com^$all
+||twoja-fota.p33p.eu^$all
 ||twojebony.com.pl^$all
 ||twoje-foty.eu^$all
 ||twoje-miasto.dfirma.pl^$all
@@ -4634,10 +4641,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||alabaster-steel-hawthorn.glitch.me^$all
-||allegrolokalnie.tk^$all
-||inpostmobile.net^$all
-||olx.order-pl.life^$all
-||olx.pl-dostawa.design^$all
-||olx-pl.track-pay.info^$all
-||twoja-fota.p33p.eu^$all
