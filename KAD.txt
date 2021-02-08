@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 08 Feb 2021, 16:06 UTC+01
-! Version: 2021.2.8.1
+! Last modified: Mon, 08 Feb 2021, 20:04 UTC+01
+! Version: 2021.2.8.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -878,6 +878,7 @@
 ||krdn.pl^$all
 ||kredytpremium.pl^$all
 ||kredytybezbik.eu^$all
+||kredytynasms.pl^$all
 ||kremidzem.pl^$all
 ||krolarlekin.com.pl^$all
 ||kryptochemik.pl^$all
@@ -2438,6 +2439,7 @@
 ||aktualizacja-poczty.online^$all
 ||aktualizacja-regulamin.com^$all
 ||aktualizacja.jst.pl^$all
+||alabaster-steel-hawthorn.glitch.me^$all
 ||albajifood.com^$all
 ||albertodionigi.it^$all
 ||alcaido.com^$all
@@ -2474,6 +2476,7 @@
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.info^$all
+||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegroloklinie-oferta*.xyz^$all
 ||allegrosklep.online^$all
@@ -3204,6 +3207,7 @@
 ||ebookeo.pl^$all
 ||ecampuskbds.com^$all
 ||eccopoland.pl^$all
+||ecco-pl.com^$all
 ||eclass47.duckdns.org^$all
 ||edland.pro^$all
 ||edotpay.pl^$all
@@ -3917,6 +3921,7 @@
 ||inpostdoplata.net^$all
 ||inpostkode-pl.com^$all
 ||inpostkode.com^$all
+||inpostmobile.net^$all
 ||inpostodbior.com^$all
 ||inpostodkaz.net^$all
 ||inpost-app.me^$all
@@ -4944,6 +4949,7 @@
 ||olx-pl.secure-code.site^$all
 ||olx-pl.su^$all
 ||olx-pl.today^$all
+||olx-pl.track-pay.info^$all
 ||olx-polands.*^$all
 ||olx-poland.*^$all
 ||olx-polland.com^$all
@@ -5010,6 +5016,7 @@
 ||olx.new-payment.space^$all
 ||olx.new-payment.store^$all
 ||olx.oplata-is.com^$all
+||olx.order-pl.life^$all
 ||olx.order-pl.shop^$all
 ||olx.order-pl.store^$all
 ||olx.payment-otrymac.*^$all
@@ -5022,6 +5029,7 @@
 ||olx.pl-cash.live^$all
 ||olx.pl-delivery.life^$all
 ||olx.pl-dostawa.art^$all
+||olx.pl-dostawa.design^$all
 ||olx.pl-dostawa.news^$all
 ||olx.pl-getcash.online^$all
 ||olx.pl-getpayment.online^$all
@@ -6431,6 +6439,7 @@
 ||twojanatura.com^$all
 ||twojapaczka.services^$all
 ||twojapaka.com^$all
+||twoja-fota.p33p.eu^$all
 ||twojebony.com.pl^$all
 ||twoje-foty.eu^$all
 ||twoje-miasto.dfirma.pl^$all
