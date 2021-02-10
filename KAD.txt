@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 10 Feb 2021, 12:04 UTC+01
-! Version: 2021.2.10.0
+! Last modified: Wed, 10 Feb 2021, 16:05 UTC+01
+! Version: 2021.2.10.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -5018,6 +5018,11 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-dostawa.bid^$all
+||olx.pl-get.surf^$all
+||olx.pl-id5230358.site^$all
+||olx.pl-odbierz.surf^$all
+||olx.pl-receive.surf^$all
+||olx.pl-zakupy.surf^$all
 ||olx.pl-zamowienie.surf^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
@@ -6005,6 +6010,7 @@
 ||send-post.fun^$all
 ||send-post.host^$all
 ||send-post.space^$all
+||sensacja-tu.098.pl^$all
 ||sensosushi.pl^$all
 ||seolandia.pl^$all
 ||seriale.best^$all
@@ -6838,6 +6844,7 @@
 ||zaswiadczeniekrk.pl^$all
 ||zaszczepilamsie.co.pl^$all
 ||zaszczepionakobieta.co.pl^$all
+||zawiadomienie24.h2g.pl^$all
 ||zawieszone.5p.pl^$all
 ||zawody-geniuszy.eu^$all
 ||zbigniewbiernat.pl^$all
