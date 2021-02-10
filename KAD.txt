@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 09 Feb 2021, 20:04 UTC+01
-! Version: 2021.2.9.2
+! Last modified: Wed, 10 Feb 2021, 12:04 UTC+01
+! Version: 2021.2.10.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2927,6 +2927,7 @@
 ||czaspolaka.eu^$all
 ||czas-ujawnic-prawde.vot.pl^$all
 ||czemarserwis.home.pl^$all
+||czlonkowska-decyzji.eu^$all
 ||czyn-pomocy.eu^$all
 ||c*.tmweb.ru/weryfikacja/$all
 ||c.pl^$document,domain=~www.c.pl
@@ -3682,6 +3683,7 @@
 ||glosowanie-wielkopolska.vot.pl^$all
 ||glosowanko-info.eu^$all
 ||glosowanko-szybko.eu^$all
+||glosujemy-celujemy.eu^$all
 ||glosujemy-konkursy.eu^$all
 ||glosuj-konkursy.eu^$all
 ||glosuj-pomaganie.eu^$all
@@ -4326,6 +4328,7 @@
 ||lombard-kolobrzeg.pl^$all
 ||londontrade.exchange^$all
 ||longxvisitorcenter.xyz^$all
+||losca3.wixsite.com^$all
 ||losososdesign.com^$all
 ||lotekkurier.com^$all
 ||loudmatch.com^$all
@@ -4601,6 +4604,8 @@
 ||netflix.pl.sri-india.com^$all
 ||netflx.com.pl^$all
 ||neurorehabtraining.com^$all
+||new1.*.*.com^$document,domain=com
+||new1.*.*.ir^$document,domain=ir
 ||newlamp.top^$all
 ||news24zoom.com^$all
 ||news48.dkonto.pl^$all
@@ -4618,8 +4623,6 @@
 ||news-week.dfirma.pl^$all
 ||news.you2.pl^$all
 ||newthemforthink.site^$all
-||new*.*.*.com^$document
-||new*.*.*.ir^$document
 ||new-message.co^$all
 ||new-online.xyz^$all
 ||nextlevelprize.com^$all
@@ -4846,6 +4849,7 @@
 ||olx-delivery.*^$all
 ||olx-deliver.*^$all
 ||olx-dostava.*^$all
+||olx-dostawa792.top^$all
 ||olx-dostawa.*^$all
 ||olx-dostawk.pl^$all
 ||olx-dostaw.pl^$all
@@ -5006,48 +5010,15 @@
 ||olx.order-pl.life^$all
 ||olx.order-pl.shop^$all
 ||olx.order-pl.store^$all
+||olx.payersend.info^$all
 ||olx.payment-otrymac.*^$all
 ||olx.paysend.space^$all
 ||olx.pay-euro.eu^$all
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
-||olx.pl-cash.life^$all
-||olx.pl-cash.live^$all
-||olx.pl-delivery.life^$all
-||olx.pl-delivery.surf^$all
-||olx.pl-dostawa.art^$all
-||olx.pl-dostawa.boutique^$all
-||olx.pl-dostawa.design^$all
-||olx.pl-dostawa.news^$all
-||olx.pl-dostawa.vin^$all
-||olx.pl-getcash.online^$all
-||olx.pl-getpayment.online^$all
-||olx.pl-get.money^$all
-||olx.pl-id88322.site^$all
-||olx.pl-id510586.site^$all
-||olx.pl-id823942.site^$all
-||olx.pl-id847528.site^$all
-||olx.pl-id924385.site^$all
-||olx.pl-id942382.site^$all
-||olx.pl-id8592340.site^$all
-||olx.pl-mkonto.ceo^$all
-||olx.pl-mkonto.club^$all
-||olx.pl-mkonto.group^$all
-||olx.pl-mkonto.me^$all
-||olx.pl-mkonto.net^$all
-||olx.pl-money.live^$all
-||olx.pl-order.surf^$all
-||olx.pl-payment.life^$all
-||olx.pl-payment.store^$all
-||olx.pl-safecash.live^$all
-||olx.pl-safeoferta.life^$all
-||olx.pl-safeoferta.live^$all
-||olx.pl-safeway.life^$all
-||olx.pl-savemoney.life^$all
-||olx.pl-saveorder.shop^$all
-||olx.pl-sklep.app^$all
-||olx.pl-sklep.org^$all
+||olx.pl-dostawa.bid^$all
+||olx.pl-zamowienie.surf^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
 ||olx.pl.bezpieczenstwo24.site^$all
