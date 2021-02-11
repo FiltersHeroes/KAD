@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 10 Feb 2021, 20:04 UTC+01
-! Version: 2021.2.10.2
+! Last modified: Thu, 11 Feb 2021, 12:04 UTC+01
+! Version: 2021.2.11.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2313,6 +2313,7 @@
 ||2i4.pl^$all
 ||2remove.guide^$all
 ||2supermocna-tasma-klejaca-pl.com^$all
+||2-remove-virus.com^$all
 ||02-wiadomosci.com.pl^$all
 ||3fazowa-ostrzalka-do-nozy-pl.com^$all
 ||3filmy.com^$all
@@ -2640,6 +2641,7 @@
 ||bezpieczny-zakup.name^$all
 ||bezpieczny-zakup.net^$all
 ||bf-online.xaa.pl^$all
+||bgkpol.com^$all
 ||bhpipoz.pl^$all
 ||bidenhascovid19.co^$all
 ||bideronka.is-best.net^$all
@@ -2869,6 +2871,7 @@
 ||colorking.es^$all
 ||communicazioni.kpi1hit5ficscvn.neysanbartehran.com^$all
 ||complainerscla.xyz^$all
+||confusingcontact.com^$all
 ||connessionedati.com^$all
 ||consityr600.xyz^$all
 ||contact-tracing-app.site^$all
@@ -2993,6 +2996,7 @@
 ||deepikarai.com^$all
 ||delibrium.pl^$all
 ||delivery2you.page.link^$all
+||delivery-olx-polska.000webhostapp.com^$all
 ||delivery-olx.ml^$all
 ||delivery-pl-olx.site^$all
 ||delivery.olx-pl.*^$all
@@ -3031,6 +3035,7 @@
 ||dhl-twojkurier.com^$all
 ||dietasekret.pl^$all
 ||differentpplz.top^$all
+||difgo4.wixsite.com^$all
 ||dinamoon.pl^$all
 ||directpayment.pl^$all
 ||dirproperties.com^$all
@@ -3805,6 +3810,7 @@
 ||i8i.eu^$all
 ||i24.dfirma.pl^$all
 ||iapartamentydeluxe.pl^$all
+||ibank.bgkpol.com^$all
 ||ibuzsklep.com^$all
 ||icleanammunitio.xyz^$all
 ||icloud.find-ip.us^$all
@@ -4785,6 +4791,7 @@
 ||olszewski.ehost.pl^$all
 ||olxbank.casa^$all
 ||olxbank.cc^$all
+||olxdostawa-pay.pl^$all
 ||olxdostawa.*^$all
 ||olxoferta.digital^$all
 ||olxoferta.life^$all
@@ -4813,6 +4820,7 @@
 ||olxpl.deals^$all
 ||olxpl.delivery-b.site^$all
 ||olxpl.delivery-m.info^$all
+||olxpl.delivery-n.me^$all
 ||olxpl.delivery-pay.fun^$all
 ||olxpl.delivery-pay.pw^$all
 ||olxpl.deli-very.su^$all
@@ -5022,10 +5030,16 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-dostawa.bid^$all
+||olx.pl-dostawa.clothing^$all
+||olx.pl-dostawa.website^$all
 ||olx.pl-get.surf^$all
 ||olx.pl-id5230358.site^$all
 ||olx.pl-odbierz.surf^$all
 ||olx.pl-receive.surf^$all
+||olx.pl-weryf.com^$all
+||olx.pl-weryf.me^$all
+||olx.pl-weryf.org^$all
+||olx.pl-zakupy.store^$all
 ||olx.pl-zakupy.surf^$all
 ||olx.pl-zamowienie.surf^$all
 ||olx.pl-*.*^$document
@@ -5510,6 +5524,7 @@
 ||pl.olx.oferta-pay.live^$all
 ||pl.olx.oferta.design^$all
 ||pl.olx.oferta.network^$all
+||pl.pcviruscare.com^$all
 ||pl.potwierdzenie.cc^$all
 ||pl.profitmaximizer-app.com^$all
 ||pl.tradenewsinvesting.com^$all
@@ -5529,6 +5544,7 @@
 ||poczta24.me^$all
 ||poczta24.uno^$all
 ||pocztaadminhelpdeskcenter.moonfruit.com^$all
+||pocztaadminhelpdeskunit3.moonfruit.com^$all
 ||pocztaadminhelpdeskunit.moonfruit.com^$all
 ||pocztaadminunit.moonfruit.com^$all
 ||pocztabox24.xyz^$all
@@ -6725,6 +6741,7 @@
 ||ww.paczkjups.com^$all
 ||wx-xcx.xyz^$all
 ||wybierajmy-mistrza.eu^$all
+||wybierajmy-przewodnika.eu^$all
 ||wybierz-nagrode.pl^$all
 ||wybierz-wyborce.eu^$all
 ||wyboru-dokonaj.eu^$all
@@ -6872,6 +6889,7 @@
 ||zgcslam.apnet.pl^$all
 ||zgwalconadziewczyna.*^$all
 ||zhaoyouxiu.com^$all
+||zimbramail1111.000webhostapp.com^$all
 ||zimowewyzwanie.pl^$all
 ||zlecaj-wybory.eu^$all
 ||zlecone.xn.pl^$all
