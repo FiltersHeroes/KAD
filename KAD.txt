@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 11 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.11.2
+! Last modified: Fri, 12 Feb 2021, 12:05 UTC+01
+! Version: 2021.2.12.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1137,6 +1137,7 @@
 ||nicolosi.pl^$all
 ||niechoruje.pl^$all
 ||nieruchomosci-kalisz.com.pl^$all
+||nightclubpalma.pl^$all
 ||nikedctstore.pl^$all
 ||nikeoutlet.pl^$all
 ||nikokart.pl^$all
@@ -3114,6 +3115,7 @@
 ||dostawaolx.site^$all
 ||dostawapl.safe-security.website^$all
 ||dostawapost24.pl^$all
+||dostawa-bezpieczny.pl^$all
 ||dostawa-dhl.net^$all
 ||dostawa-olx-pl.*^$all
 ||dostawa-olx-poland.info^$all
@@ -3675,6 +3677,7 @@
 ||gkpge3.pl^$all
 ||gkpge.click^$all
 ||gkpge.link^$all
+||gladkie-glosowanko.eu^$all
 ||globalmaxis.com^$all
 ||globalmodels.pl^$all
 ||glob-markets.net^$all
@@ -3903,6 +3906,7 @@
 ||info.ogloszeniateraz97.club^$all
 ||infromacje24.dfirma.pl^$all
 ||infx.eu^$all
+||ing-info.pl^$all
 ||ing.pl.proxy.c7s.io^$all
 ||iniciuj-pomoc.eu^$all
 ||inipost.net^$all
@@ -3964,7 +3968,9 @@
 ||inpost.pl-get.cash^$all
 ||inpost.pl-get.money^$all
 ||inpost.pl-money.life^$all
+||inpost.pl-odbierz.life^$all
 ||inpost.pl-odbierz.shop^$all
+||inpost.pl-odbierz.store^$all
 ||inpost.pl-payment.link^$all
 ||inpost.pl-receive.life^$all
 ||inpost.pl-safecash.link^$all
@@ -4248,6 +4254,7 @@
 ||lepszeoceny.pl^$all
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
+||lewiatansamochodnagrody145.blogspot.com^$all
 ||lewplnews.yolasite.com^$all
 ||lezrweb.com^$all
 ||lgbt-fans.vot.pl^$all
@@ -4931,6 +4938,7 @@
 ||olx-pl.3dspays.online^$all
 ||olx-pl.cc^$all
 ||olx-pl.com-*.*^$all
+||olx-pl.epayments-bank.ml^$all
 ||olx-pl.eupay.website^$all
 ||olx-pl.eu^$all
 ||olx-pl.getc.icu^$all
@@ -5046,13 +5054,20 @@
 ||olx.pl-id923482.site^$all
 ||olx.pl-id5230358.site^$all
 ||olx.pl-logowanie.me^$all
+||olx.pl-odbierz.live^$all
+||olx.pl-odbierz.store^$all
 ||olx.pl-odbierz.surf^$all
 ||olx.pl-oferta.cash^$all
 ||olx.pl-oferta.news^$all
+||olx.pl-oferta.vip^$all
 ||olx.pl-receive.surf^$all
+||olx.pl-safecash.icu^$all
+||olx.pl-safecash.site^$all
 ||olx.pl-weryf.com^$all
 ||olx.pl-weryf.me^$all
 ||olx.pl-weryf.org^$all
+||olx.pl-zakupy.life^$all
+||olx.pl-zakupy.live^$all
 ||olx.pl-zakupy.store^$all
 ||olx.pl-zakupy.surf^$all
 ||olx.pl-zamowienie.surf^$all
@@ -5714,6 +5729,7 @@
 ||poradnik-diet.pl^$all
 ||porannawiedza.xyz^$all
 ||poratuj-znajomego.eu^$all
+||porl.weebly.com^$all
 ||pornmania.pl^$all
 ||portalmiejski.eu^$all
 ||portalsasiedzki.eu^$all
@@ -5821,6 +5837,7 @@
 ||przedstaw-wygranego.eu^$all
 ||przedszkolewitaminka.pl^$all
 ||przeglosuj-strone.eu^$all
+||przejdziemy-teraz.eu^$all
 ||przejdzmy-razem.eu^$all
 ||przejdz.ml^$all
 ||przejrzyj-fotki.eu^$all
@@ -6714,6 +6731,7 @@
 ||wprost-news.pl^$all
 ||wp-login.azurewebsites.net^$all
 ||wp-plugin.site^$all
+||wp-plzysk.online^$all
 ||wp-pl.online^$all
 ||wp-politykaprywatnosci.email^$all
 ||wp-regulamin.com^$all
@@ -6723,6 +6741,7 @@
 ||wsbifkatowice.pl^$all
 ||wskazuj-wybory.eu^$all
 ||wskazywac-wygranych.eu^$all
+||wspaniale-zalgosuj.eu^$all
 ||wsparciejezykowe.eu^$all
 ||wsparcie-kumpelskie.eu^$all
 ||wspolnemiasto.dkonto.pl^$all
@@ -6765,6 +6784,7 @@
 ||wyboru-dokonaj.eu^$all
 ||wybor-podpunktu.eu^$all
 ||wybor-reprezentanta.eu^$all
+||wybor-wspanialy.eu^$all
 ||wybrany-ten.eu^$all
 ||wyciekizdjec24.pl^$all
 ||wydarzenia24.you2.pl^$all
