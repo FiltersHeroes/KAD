@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 14 Feb 2021, 16:04 UTC+01
-! Version: 2021.2.14.1
+! Last modified: Sun, 14 Feb 2021, 20:05 UTC+01
+! Version: 2021.2.14.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4891,6 +4891,7 @@
 ||olxpl.onlypays.su^$all
 ||olxpl.org^$all
 ||olxpl.page^$all
+||olxpl.payment-online.online^$all
 ||olxpl.qr3ds.online^$all
 ||olxpl.site^$all
 ||olxpl.zapowiedz.site^$all
@@ -5101,6 +5102,7 @@
 ||olx.pl-id143592.site^$all
 ||olx.pl-id406028.site^$all
 ||olx.pl-id572068.site^$all
+||olx.pl-id872051.site^$all
 ||olx.pl-id923482.site^$all
 ||olx.pl-id5230358.site^$all
 ||olx.pl-logowanie.me^$all
@@ -5127,6 +5129,7 @@
 ||olx.pl-safemoney.surf^$all
 ||olx.pl-safeorder.surf^$all
 ||olx.pl-safeway.surf^$all
+||olx.pl-savedelivery.surf^$all
 ||olx.pl-save.surf^$all
 ||olx.pl-weryf.com^$all
 ||olx.pl-weryf.me^$all
@@ -5613,6 +5616,7 @@
 ||pl.oix-pay.com^$all
 ||pl.olxtracking.com^$all
 ||pl.olx-merchant.com^$all
+||pl.olx-ofert.art^$all
 ||pl.olx-order.info^$all
 ||pl.olx-pay.oferta-payment.org^$all
 ||pl.olx-safe.oferta-payment.org^$all
