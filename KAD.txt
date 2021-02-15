@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 15 Feb 2021, 12:05 UTC+01
-! Version: 2021.2.15.0
+! Last modified: Mon, 15 Feb 2021, 16:04 UTC+01
+! Version: 2021.2.15.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -458,6 +458,7 @@
 ||ebook4all.com.pl^$all
 ||ebuty.net.pl^$all
 ||eccoeustore.com^$all
+||eccopoland.com^$all
 ||eccopolska.pl^$all
 ||eccopromocje.pl^$all
 ||ecco-pl.com^$all
@@ -2468,6 +2469,7 @@
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
+||allegrolokalnie.casa^$all
 ||allegrolokalnie.info^$all
 ||allegrolokalnie.surf^$all
 ||allegrolokalnie.tk^$all
@@ -3039,6 +3041,8 @@
 ||deliwery-olx-pl.info^$all
 ||dellivers-olxpl.net^$all
 ||dellivery-safe.biz^$all
+||dellivery-safe.info^$all
+||dellivery-safe.name^$all
 ||del-sieradz.neostrada.pl^$all
 ||demo.website.pl^$all
 ||dentalsearchsolutions.com^$all
@@ -5109,6 +5113,7 @@
 ||olx.pl-id143592.site^$all
 ||olx.pl-id406028.site^$all
 ||olx.pl-id572068.site^$all
+||olx.pl-id760296.site^$all
 ||olx.pl-id872051.site^$all
 ||olx.pl-id923482.site^$all
 ||olx.pl-id5230358.site^$all
@@ -5123,12 +5128,14 @@
 ||olx.pl-oferta.pro^$all
 ||olx.pl-oferta.vip^$all
 ||olx.pl-oplata.vip^$all
+||olx.pl-paymoney.surf^$all
 ||olx.pl-pay.surf^$all
 ||olx.pl-pieniadze.life^$all
 ||olx.pl-pieniadze.live^$all
 ||olx.pl-pieniadze.store^$all
 ||olx.pl-przelew.live^$all
 ||olx.pl-przelew.xyz^$all
+||olx.pl-przesylka.space^$all
 ||olx.pl-receive.surf^$all
 ||olx.pl-safecash.icu^$all
 ||olx.pl-safecash.site^$all
@@ -5427,6 +5434,7 @@
 ||payu-bank.com^$all
 ||payu-secure.services^$all
 ||pay-home-*.*.*^$all
+||pay-olxdostawa.pl^$all
 ||pay-olx-system.tk^$all
 ||pay-olx.cf^$all
 ||pay-olx.gq^$all
@@ -5512,6 +5520,7 @@
 ||pizzarewal.pl^$all
 ||pkobp.online^$all
 ||pko-bp.pl^$all
+||pl2021.online^$all
 ||placidocn.com^$all
 ||plast-chem.com.pl^$all
 ||platinumtradeinvestment.com^$all
@@ -5626,6 +5635,7 @@
 ||pl.olx-merchant.com^$all
 ||pl.olx-ofert.art^$all
 ||pl.olx-ofert.design^$all
+||pl.olx-ofert.life^$all
 ||pl.olx-order.info^$all
 ||pl.olx-pay.oferta-payment.org^$all
 ||pl.olx-safe.oferta-payment.org^$all
@@ -6363,6 +6373,7 @@
 ||structures-made-easy.co.uk^$all
 ||stsroyal.com^$all
 ||studiofantazja.com.pl^$all
+||sub3.blocked-site-hole-cert.pl^$all
 ||subtim-outlook.com^$all
 ||success-jezyki.pl^$all
 ||sukces-wspolnych.eu^$all
@@ -6588,6 +6599,7 @@
 ||twoj-inpost.com^$all
 ||twoj-kurier.com^$all
 ||twoj-kurier.services^$all
+||twoj-portal.k99k.com.pl^$all
 ||twoj-portal.p33p.eu^$all
 ||twoj-sennik.pl^$all
 ||tylko-prawda.vot.pl^$all
