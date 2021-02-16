@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 16 Feb 2021, 16:04 UTC+01
-! Version: 2021.2.16.1
+! Last modified: Tue, 16 Feb 2021, 20:05 UTC+01
+! Version: 2021.2.16.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2899,6 +2899,7 @@
 ||cpagrip.com^$all
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
+||credit-agrecolle.pl^$all
 ||credit-agricole-fr.de.cool^$all
 ||credit-agricolle.pl^$all
 ||cristal2017.argo.host^$all
@@ -3842,6 +3843,7 @@
 ||id28197153.xyz^$all
 ||id74943812.xyz^$all
 ||id494079362.xyz^$all
+||id3439549515.xyz^$all
 ||idcase-99131255.gentlebrooksports.org^$all
 ||ideabank-login.xyz^$all
 ||ideabank-logowanie.at^$all
@@ -3923,6 +3925,7 @@
 ||infromacje24.dfirma.pl^$all
 ||infx.eu^$all
 ||ing-info.pl^$all
+||ing-ll.pl^$all
 ||ing.pl.proxy.c7s.io^$all
 ||iniciuj-pomoc.eu^$all
 ||inipost.net^$all
@@ -5083,13 +5086,18 @@
 ||olx.pl-delivery.work^$all
 ||olx.pl-getcash.work^$all
 ||olx.pl-getdelivery.work^$all
+||olx.pl-get.casa^$all
 ||olx.pl-get.work^$all
+||olx.pl-konto.co^$all
 ||olx.pl-konto.ltd^$all
+||olx.pl-konto.website^$all
 ||olx.pl-order.work^$all
 ||olx.pl-paycash.surf^$all
 ||olx.pl-pay.work^$all
 ||olx.pl-przelewy.live^$all
 ||olx.pl-przesylka.online^$all
+||olx.pl-shop.club^$all
+||olx.pl-shop.cyou^$all
 ||olx.pl-zakupy.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
@@ -5116,6 +5124,7 @@
 ||olx.zamowienie.*^$all
 ||olympusholding.co^$all
 ||olympusmarkets.com^$all
+||omawiac-zwyciezce.eu^$all
 ||omega.best^$all
 ||omrolsztyn.neostrada.pl^$all
 ||onclickbright.com^$all
@@ -5210,6 +5219,7 @@
 ||oplata-przesylki.space^$all
 ||oplaty24-kurier.com^$all
 ||opliaty.com^$all
+||opowiadajmy-glosy.eu^$all
 ||optimalpoland.pl^$all
 ||optminers.com^$all
 ||orange-kodzik.890m.com^$all
@@ -5313,6 +5323,7 @@
 ||palenate.com^$all
 ||paloki-pl.com^$all
 ||pamelambarnettcounseling.com^$all
+||panaceum-poznan.pl^$all
 ||panel.home.pl.frustone.it^$all
 ||panel.home.pl.muna.it^$all
 ||panel.home.pl.vespaclub.com^$all
@@ -5650,6 +5661,7 @@
 ||podajmy-analize.eu^$all
 ||podatek2020.net^$all
 ||podatkigov.net^$all
+||podejmujmy-decyzje.eu^$all
 ||podkresl-znajomego.eu^$all
 ||podologik.ca^$all
 ||podsumujmy-razem.eu^$all
@@ -6256,6 +6268,9 @@
 ||sprzedaz-aiiegro.xyz^$all
 ||sprzedaz-nr-497417.in.net^$all
 ||sprzedaz-nr-940031.in.net^$all
+||srv36293.seohost.com.pl^$all
+||srv36294.seohost.com.pl^$all
+||srv36295.seohost.com.pl^$all
 ||sslinfotype.pw^$all
 ||ssll-payu.com^$all
 ||sslpayu.com^$all
@@ -6379,6 +6394,7 @@
 ||szybkiedostawydpd.pl^$all
 ||szybkieinfo.pl^$all
 ||szybkiezycie1.online^$all
+||szybkie-dodanie.eu^$all
 ||szybkie-przesylki.xyz^$all
 ||szybkie-punktowanie.eu^$all
 ||szybkie-wysylki.online^$all
@@ -6960,6 +6976,7 @@
 ||zaswiadczeniekrk.pl^$all
 ||zaszczepilamsie.co.pl^$all
 ||zaszczepionakobieta.co.pl^$all
+||zawazaj-glosowanko.eu^$all
 ||zawiadomienie24.h2g.pl^$all
 ||zawieszone.5p.pl^$all
 ||zawody-geniuszy.eu^$all
