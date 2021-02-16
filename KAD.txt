@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 16 Feb 2021, 12:05 UTC+01
-! Version: 2021.2.16.0
+! Last modified: Tue, 16 Feb 2021, 16:04 UTC+01
+! Version: 2021.2.16.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1830,6 +1830,7 @@
 ||w2mobile.com^$all
 ||w65.pl^$all
 ||wabs.pl^$all
+||wagner-wellness.pl^$all
 ||walendzik.com.pl^$all
 ||wallynosa.com^$all
 ||warsawlimousine.pl^$all
@@ -2289,6 +2290,7 @@
 ||00x.eu^$all
 ||1btcnews.buzz^$all
 ||1k-daily-profitz.com^$all
+||1loginpomoc.info.pl^$all
 ||1mpost.net^$all
 ||1nposl.net^$all
 ||1npost.net^$all
@@ -2930,6 +2932,7 @@
 ||czajkowski.cba.pl^$all
 ||czarna-lista.k99k.com.pl^$all
 ||czarna-lista.k99k.eu^$all
+||czarna-lista.k99k.pl^$all
 ||czarne-chmury.k99k.com.pl^$all
 ||czarownica-online-pl.5v.pl^$all
 ||czasnakino.pl^$all
@@ -3998,6 +4001,7 @@
 ||inpost.pl-savecash.life^$all
 ||inpost.pl-savecash.live^$all
 ||inpost.pl-saveorder.life^$all
+||inpost.pl-zakupy.work^$all
 ||inpost.tech^$all
 ||inpost.us^$all
 ||inprost24.net^$all
@@ -4869,6 +4873,7 @@
 ||olxpl.delivery-pay.pw^$all
 ||olxpl.deli-very.su^$all
 ||olxpl.e-tracking.net^$all
+||olxpl.id83892.online^$all
 ||olxpl.me^$all
 ||olxpl.moneta.world^$all
 ||olxpl.oferta-payed.pw^$all
@@ -4890,6 +4895,7 @@
 ||olxyorki.dfirma.pl^$all
 ||olx-bezpieczny.pl^$all
 ||olx-biezpieczna-dostawa-pl.biz^$all
+||olx-buypay.pl^$all
 ||olx-b.com^$all
 ||olx-b.pl^$all
 ||olx-cash.site^$all
@@ -4923,6 +4929,7 @@
 ||olx-h.pl^$all
 ||olx-i.pl^$all
 ||olx-j.pl^$all
+||olx-konto-pl.com^$all
 ||olx-ko.pl^$all
 ||olx-kurier.pl^$all
 ||olx-k.pl^$all
@@ -4985,6 +4992,7 @@
 ||olx-pl.oferta-payment.*^$all
 ||olx-pl.oferta-pay.*^$all
 ||olx-pl.oferto.cc^$all
+||olx-pl.one-pay.xyz^$all
 ||olx-pl.online^$all
 ||olx-pl.org^$all
 ||olx-pl.paymentp2p.info^$all
@@ -5073,6 +5081,7 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-delivery.work^$all
+||olx.pl-getcash.work^$all
 ||olx.pl-getdelivery.work^$all
 ||olx.pl-get.work^$all
 ||olx.pl-konto.ltd^$all
@@ -5081,6 +5090,7 @@
 ||olx.pl-pay.work^$all
 ||olx.pl-przelewy.live^$all
 ||olx.pl-przesylka.online^$all
+||olx.pl-zakupy.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
 ||olx.pl.bezpieczenstwo24.site^$all
@@ -5623,6 +5633,7 @@
 ||poczta.pl-dostawa.shop^$all
 ||poczta.pl-safeway.live^$all
 ||poczta.pl-safe.surf^$all
+||poczta.pl-zakupy.work^$all
 ||poczta.ron-mil-pl.site^$all
 ||poczta.wp-pl.eu^$all
 ||poczta.wp-pl.online^$all
@@ -6099,6 +6110,7 @@
 ||seriale.best^$all
 ||serialosy.pl^$all
 ||serialowo.pl^$all
+||server167147.nazwa.pl^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
 ||servicecheck5.wixsite.com^$all
