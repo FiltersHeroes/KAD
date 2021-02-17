@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 17 Feb 2021, 16:05 UTC+01
-! Version: 2021.2.17.1
+! Last modified: Wed, 17 Feb 2021, 20:05 UTC+01
+! Version: 2021.2.17.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2937,6 +2937,7 @@
 ||czarna-lista.k99k.com.pl^$all
 ||czarna-lista.k99k.eu^$all
 ||czarna-lista.k99k.pl^$all
+||czarna-lista.m44m.pl^$all
 ||czarne-chmury.k99k.com.pl^$all
 ||czarownica-online-pl.5v.pl^$all
 ||czasnakino.pl^$all
@@ -3029,8 +3030,10 @@
 ||deliwery-olx-pl.info^$all
 ||dellivers-olxpl.net^$all
 ||dellivery-safe.biz^$all
+||dellivery-safe.com^$all
 ||dellivery-safe.info^$all
 ||dellivery-safe.name^$all
+||dellivery-safe.org^$all
 ||del-sieradz.neostrada.pl^$all
 ||demo.website.pl^$all
 ||dentalsearchsolutions.com^$all
@@ -4760,6 +4763,7 @@
 ||oddaj-kampania.eu^$all
 ||oddam-kotki17.microhost.com.pl^$all
 ||oddam-yorki.dfirma.pl^$all
+||odebranie-punktu.eu^$all
 ||odessa.com.pl^$all
 ||odj4s702.web.app^$all
 ||odkazinpost.net^$all
@@ -4815,6 +4819,7 @@
 ||officexwednbbagmemzmlpepjxspud.nn.r.appspot.com^$all
 ||offside2.000webhostapp.com^$all
 ||ogarniaj-ludzi.eu^$all
+||ogarniamy-sprawe.eu^$all
 ||ogarnij-zdjecia.*^$all
 ||ogglededibl.at^$all
 ||ogiosz24.in.net^$all
@@ -4930,6 +4935,7 @@
 ||olx-dostava.*^$all
 ||olx-dostawa792.top^$all
 ||olx-dostawa.*^$all
+||olx-dostawke.pl^$all
 ||olx-dostawk.pl^$all
 ||olx-dostaw.pl^$all
 ||olx-d.org^$all
@@ -5010,6 +5016,7 @@
 ||olx-pl.one-pay.xyz^$all
 ||olx-pl.online^$all
 ||olx-pl.org^$all
+||olx-pl.pay3d.me^$all
 ||olx-pl.paymentp2p.info^$all
 ||olx-pl.payment-banka.online^$all
 ||olx-pl.payment-bank.ga^$all
@@ -5101,6 +5108,7 @@
 ||olx.pl-getdelivery.work^$all
 ||olx.pl-get.casa^$all
 ||olx.pl-get.work^$all
+||olx.pl-konto.biz^$all
 ||olx.pl-konto.co^$all
 ||olx.pl-konto.life^$all
 ||olx.pl-konto.ltd^$all
@@ -6602,6 +6610,7 @@
 ||udany-wynik.eu^$all
 ||udokumentowanie.eu^$all
 ||udostpnij-antos24.dkonto.pl^$all
+||ugadajmy-wyniki.eu^$all
 ||uggbootspolska.pl^$all
 ||ughsnethe.at^$all
 ||ukradzione-dane.070v.eu^$all
@@ -6699,6 +6708,7 @@
 ||waleczni-ludzie.eu^$all
 ||walka-akceptuj.eu^$all
 ||walka-koncowa.eu^$all
+||walki-konkursowe.eu^$all
 ||waly.pl^$all
 ||wanbuy.net^$all
 ||waniakurier.com^$all
@@ -7047,6 +7057,7 @@
 ||znany-lekarz.pl^$all
 ||zobaczfilm.com^$all
 ||zobaczfotki.eu^$all
+||zobaczmy-sprawe.eu^$all
 ||zobacz-film.pl^$all
 ||zone-telechargement-albums.com^$all
 ||zorganizowanie-sie.eu^$all
