@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 17 Feb 2021, 12:05 UTC+01
-! Version: 2021.2.17.0
+! Last modified: Wed, 17 Feb 2021, 16:05 UTC+01
+! Version: 2021.2.17.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2468,6 +2468,7 @@
 ||allegro-lokalnie-581927.xyz^$all
 ||allegro-lokalnie.me^$all
 ||allegro-lokalnie.shop^$all
+||allegro-lokalnie.surf^$all
 ||allegro-m.pl^$all
 ||allegro-ogloszenia.you2.pl^$all
 ||allegro-okazje.dkonto.pl^$all
@@ -4004,6 +4005,7 @@
 ||inpost.pl-safeway.cash^$all
 ||inpost.pl-safeway.link^$all
 ||inpost.pl-safeway.shop^$all
+||inpost.pl-safe.casa^$all
 ||inpost.pl-safe.shop^$all
 ||inpost.pl-savecash.life^$all
 ||inpost.pl-savecash.live^$all
@@ -4676,6 +4678,7 @@
 ||newsinteria.you2.pl^$all
 ||newsleter.you2.pl^$all
 ||newspolska.online^$all
+||newsweeks.xyz^$all
 ||newsyintera24.medianewsonline.com^$all
 ||newsy*.pro-linuxpl.com^$all
 ||newsy-krajowe.vdl.pl^$all
@@ -4895,6 +4898,7 @@
 ||olxpl.page^$all
 ||olxpl.payment-online.online^$all
 ||olxpl.qr3ds.online^$all
+||olxpl.securepays.pw^$all
 ||olxpl.site^$all
 ||olxpl.zapowiedz.site^$all
 ||olxpoland.org^$all
@@ -5106,9 +5110,12 @@
 ||olx.pl-paycash.surf^$all
 ||olx.pl-pay.work^$all
 ||olx.pl-przelewy.live^$all
+||olx.pl-przesylka.life^$all
 ||olx.pl-przesylka.online^$all
+||olx.pl-receive.casa^$all
 ||olx.pl-shop.club^$all
 ||olx.pl-shop.cyou^$all
+||olx.pl-shop.ltd^$all
 ||olx.pl-zakupy.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
@@ -5447,6 +5454,7 @@
 ||peytel24.net^$all
 ||peytels.net^$all
 ||peytemsl.net^$all
+||peytents.net^$all
 ||peytes.net^$all
 ||peytipey.net^$all
 ||peytip.net^$all
@@ -6139,7 +6147,9 @@
 ||seriale.best^$all
 ||serialosy.pl^$all
 ||serialowo.pl^$all
+||server031290.nazwa.pl^$all
 ||server167147.nazwa.pl^$all
+||server621416.nazwa.pl^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
 ||servicecheck5.wixsite.com^$all
@@ -6288,6 +6298,9 @@
 ||srv36293.seohost.com.pl^$all
 ||srv36294.seohost.com.pl^$all
 ||srv36295.seohost.com.pl^$all
+||srv36319.seohost.com.pl^$all
+||srv36320.seohost.com.pl^$all
+||srv36321.seohost.com.pl^$all
 ||sslinfotype.pw^$all
 ||ssll-payu.com^$all
 ||sslpayu.com^$all
