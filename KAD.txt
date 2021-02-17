@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 16 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.16.2
+! Last modified: Wed, 17 Feb 2021, 12:05 UTC+01
+! Version: 2021.2.17.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2452,6 +2452,7 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.casa^$all
 ||allegrolokalnie.cloud^$all
+||allegrolokalnie.cyou^$all
 ||allegrolokalnie.info^$all
 ||allegrolokalnie.surf^$all
 ||allegrolokalnie.tk^$all
@@ -2466,6 +2467,7 @@
 ||allegro-lokalnie-095716.xyz^$all
 ||allegro-lokalnie-581927.xyz^$all
 ||allegro-lokalnie.me^$all
+||allegro-lokalnie.shop^$all
 ||allegro-m.pl^$all
 ||allegro-ogloszenia.you2.pl^$all
 ||allegro-okazje.dkonto.pl^$all
@@ -2998,6 +3000,7 @@
 ||dcshoespolska.com^$all
 ||debie.pl^$all
 ||debki-klara.pl^$all
+||decydujmy-razem.eu^$all
 ||decydujmy-wspolnie.eu^$all
 ||decyzie-podejmj.eu^$all
 ||decyzja-wlasciwa.eu^$all
@@ -3698,6 +3701,7 @@
 ||gloosuj-pomagaj.eu^$all
 ||gloriakurier.org^$all
 ||gloryone.pl^$frame,domain=tictac.pl
+||glosik-prosze.eu^$all
 ||glosowanie-gniezno.vot.pl^$all
 ||glosowanie-katowice.vot.pl^$all
 ||glosowanie-kliknij.eu^$all
@@ -4283,6 +4287,7 @@
 ||lewplnews.yolasite.com^$all
 ||lezrweb.com^$all
 ||lgbt-fans.vot.pl^$all
+||liczymy-glosy.eu^$all
 ||liczysie-pomoc.seohost.pl^$all
 ||lidi.pl^$all
 ||lifanpower.pl^$all
@@ -4470,6 +4475,7 @@
 ||mergedocsnow.com^$all
 ||mesangar.blogspot.com^$all
 ||mesohair.pl^$all
+||messenger-20-21-update.blogspot.com^$all
 ||messenger-lite.com^$all
 ||metaltechnics.pl^$all
 ||methash.com^$all
@@ -4739,6 +4745,7 @@
 ||odbieram.xyz^$all
 ||odbierz-kod.com^$all
 ||odbierz-paczke.host^$all
+||odbierz.1549550.xyz^$all
 ||odbierz.fun^$all
 ||odblerz-przesyike.xyz^$all
 ||odchudzaniewielotorowe.pl^$all
@@ -4872,6 +4879,7 @@
 ||olxpl.delivery-b.site^$all
 ||olxpl.delivery-m.info^$all
 ||olxpl.delivery-n.me^$all
+||olxpl.delivery-o.me^$all
 ||olxpl.delivery-pay.fun^$all
 ||olxpl.delivery-pay.pw^$all
 ||olxpl.deli-very.su^$all
@@ -5084,12 +5092,15 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-delivery.work^$all
+||olx.pl-getcash.casa^$all
 ||olx.pl-getcash.work^$all
 ||olx.pl-getdelivery.work^$all
 ||olx.pl-get.casa^$all
 ||olx.pl-get.work^$all
 ||olx.pl-konto.co^$all
+||olx.pl-konto.life^$all
 ||olx.pl-konto.ltd^$all
+||olx.pl-konto.shop^$all
 ||olx.pl-konto.website^$all
 ||olx.pl-order.work^$all
 ||olx.pl-paycash.surf^$all
@@ -5320,6 +5331,7 @@
 ||paifi.net^$all
 ||pakafast4you24h.club^$all
 ||pakownia.net^$all
+||pakunek-pl.xyz^$all
 ||palenate.com^$all
 ||paloki-pl.com^$all
 ||pamelambarnettcounseling.com^$all
@@ -5378,6 +5390,7 @@
 ||payplticket619054.info^$all
 ||pays-olx.gq^$all
 ||payulink.click^$all
+||payu-24.pl^$all
 ||payu-bank.com^$all
 ||payu-secure.services^$all
 ||payu.id27394942.xyz^$all
@@ -5444,6 +5457,7 @@
 ||peytrom.net^$all
 ||pgebok.com^$all
 ||pge-bok.pl^$all
+||pgiinvest.com^$all
 ||pgniginvest.info^$all
 ||pgnigpl.website^$all
 ||phikunprogramming.com^$all
@@ -5897,6 +5911,7 @@
 ||przepismix.pl^$all
 ||przepis-sukcesu.eu^$all
 ||przeplyw-danych.eu^$all
+||przesadz-wygrana.eu^$all
 ||przesydh.com^$all
 ||przesyika24pl.fun^$all
 ||przesyika-pl.host^$all
@@ -5906,6 +5921,7 @@
 ||przesylki-olx.pl^$all
 ||przesylki.services^$all
 ||przesylki.store^$all
+||przewazanie-glosuj.eu^$all
 ||przewozinik.online^$all
 ||przezwyciezenie-leku.eu^$all
 ||przygarnijplakat.pl^$all
@@ -5930,6 +5946,7 @@
 ||pumaoutletpl.pl^$all
 ||pumarsxpolska.com^$all
 ||pumeksy.pl^$all
+||puncik-zapisy.eu^$all
 ||punktowanie-konkursu.eu^$all
 ||purchasedyouasa.co^$all
 ||purchase-olx.pl^$all
@@ -6283,6 +6300,7 @@
 ||sso-ideabank.com^$all
 ||sspbadecz.ugu.pl^$all
 ||stakim.org^$all
+||stanowic-wybor.eu^$all
 ||stanowisko-duze.eu^$all
 ||starmach.com.pl^$all
 ||starti.pl^$all
@@ -6864,6 +6882,7 @@
 ||wydarzenia.dkonto.pl^$all
 ||wydarzenia.net.pl^$all
 ||wydarzenia.you2.pl^$all
+||wydawaj-decyzje.eu^$all
 ||wydawnictwobila.pl^$all
 ||wydzielic-dobroc.eu^$all
 ||wygeneruj.net^$all
@@ -6935,6 +6954,7 @@
 ||yrehrher.001www.com^$all
 ||yuppipuppy.com^$all
 ||za10groszy.pl^$all
+||zadecyduj-ustalaj.eu^$all
 ||zaginieni24.pl^$all
 ||zaginiony-24.eu^$all
 ||zaglosujemy-teraz.eu^$all
