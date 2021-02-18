@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 18 Feb 2021, 12:04 UTC+01
-! Version: 2021.2.18.0
+! Last modified: Thu, 18 Feb 2021, 16:04 UTC+01
+! Version: 2021.2.18.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2422,6 +2422,8 @@
 ||aleciezko.icu^$all
 ||aledostawa.org^$all
 ||alefunny.pl^$all
+||alegrolokalnie.icu^$all
+||alegrolokalnie.me^$all
 ||alert-24-pl.pl^$all
 ||alert-pl.you2.pl^$all
 ||alesmieszne.eu^$all
@@ -3019,6 +3021,8 @@
 ||deepikarai.com^$all
 ||delibrium.pl^$all
 ||deliverry-safe.biz^$all
+||deliverry-safe.com^$all
+||deliverry-safe.info^$all
 ||delivery2you.page.link^$all
 ||delivery-olx-polska.000webhostapp.com^$all
 ||delivery-olx.ml^$all
@@ -4879,6 +4883,7 @@
 ||olxoferta.link^$all
 ||olxoferta.site^$all
 ||olxoferta.vip^$all
+||olxoplata.pl^$all
 ||olxpayment.pw^$all
 ||olxpaypl.pl^$all
 ||olxpln.fun^$all
@@ -5089,6 +5094,8 @@
 ||olx.delliverry.*^$all
 ||olx.dellivers.*^$all
 ||olx.dellivery.*^$all
+||olx.dilivery-poland.cam^$all
+||olx.dilivery-poland.cyou^$all
 ||olx.doreczanie.pl^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
@@ -5121,6 +5128,8 @@
 ||olx.pl-getcash.casa^$all
 ||olx.pl-getcash.work^$all
 ||olx.pl-getdelivery.work^$all
+||olx.pl-getmoney.casa^$all
+||olx.pl-getorder.casa^$all
 ||olx.pl-get.casa^$all
 ||olx.pl-get.work^$all
 ||olx.pl-konto.biz^$all
@@ -5131,11 +5140,13 @@
 ||olx.pl-konto.website^$all
 ||olx.pl-order.work^$all
 ||olx.pl-paycash.surf^$all
+||olx.pl-payment.casa^$all
 ||olx.pl-pay.work^$all
 ||olx.pl-przelewy.live^$all
 ||olx.pl-przesylka.life^$all
 ||olx.pl-przesylka.online^$all
 ||olx.pl-receive.casa^$all
+||olx.pl-safe.oferta-payment.me^$all
 ||olx.pl-shop.club^$all
 ||olx.pl-shop.cyou^$all
 ||olx.pl-shop.ltd^$all
@@ -6103,6 +6114,7 @@
 ||run-germany.com^$all
 ||rywalizacja-ludzi.eu^$all
 ||rzemieslnikpilzno.pl^$all
+||s0o.cc^$all
 ||s1te.com.pl^$all
 ||s1te.eu^$all
 ||s1te.pl^$all
@@ -6181,6 +6193,7 @@
 ||server031290.nazwa.pl^$all
 ||server167147.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
+||server634288.nazwa.pl^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
 ||servicecheck5.wixsite.com^$all
