@@ -40,7 +40,7 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li(f|v)e\/\d{10}/$document
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
