@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 19 Feb 2021, 12:05 UTC+01
-! Version: 2021.2.19.0
+! Last modified: Fri, 19 Feb 2021, 16:04 UTC+01
+! Version: 2021.2.19.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2958,6 +2958,7 @@
 ||czarna-lista.k99k.com.pl^$all
 ||czarna-lista.k99k.eu^$all
 ||czarna-lista.k99k.pl^$all
+||czarna-lista.m44m.eu^$all
 ||czarna-lista.m44m.pl^$all
 ||czarne-chmury.k99k.com.pl^$all
 ||czarownica-online-pl.5v.pl^$all
@@ -3029,6 +3030,7 @@
 ||decydujmy-wspolnie.eu^$all
 ||decyzie-podejmj.eu^$all
 ||decyzja-wlasciwa.eu^$all
+||decyzja-wspolna.eu^$all
 ||deducingsi.xyz^$all
 ||dedykowac-wygrana.eu^$all
 ||deepikarai.com^$all
@@ -3036,6 +3038,7 @@
 ||deliverry-safe.biz^$all
 ||deliverry-safe.com^$all
 ||deliverry-safe.info^$all
+||deliverry-safe.org^$all
 ||delivery2you.page.link^$all
 ||delivery-olx-polska.000webhostapp.com^$all
 ||delivery-olx.ml^$all
@@ -3587,6 +3590,7 @@
 ||fkr7ce4c20lqkyr.lianides.com^$all
 ||flirthits.com^$all
 ||fm-device.eu^$all
+||focus24.gpe.pl^$all
 ||folia-hydrofobowa-pl.com^$all
 ||followergods.com^$all
 ||follow-service-your-account-pages.my.id^$all
@@ -3753,6 +3757,7 @@
 ||glosowanko-szybko.eu^$all
 ||glosujemy-celujemy.eu^$all
 ||glosujemy-konkursy.eu^$all
+||glosujemy-wyniki.eu^$all
 ||glosuj-konkursy.eu^$all
 ||glosuj-pomaganie.eu^$all
 ||glosy-oddawaj.eu^$all
@@ -4019,6 +4024,8 @@
 ||inpost.ltd^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
+||inpost.pl-cash.icu^$all
+||inpost.pl-delivery.icu^$all
 ||inpost.pl-dostawa.life^$all
 ||inpost.pl-dostawa.live^$all
 ||inpost.pl-dostawa.shop^$all
@@ -4037,6 +4044,7 @@
 ||inpost.pl-odbierz.life^$all
 ||inpost.pl-odbierz.shop^$all
 ||inpost.pl-odbierz.store^$all
+||inpost.pl-order.icu^$all
 ||inpost.pl-payment.link^$all
 ||inpost.pl-receive.life^$all
 ||inpost.pl-safecash.link^$all
@@ -5158,6 +5166,7 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-cash.icu^$all
 ||olx.pl-delivery.work^$all
 ||olx.pl-getcash.casa^$all
 ||olx.pl-getcash.work^$all
@@ -5166,6 +5175,7 @@
 ||olx.pl-getorder.casa^$all
 ||olx.pl-get.casa^$all
 ||olx.pl-get.work^$all
+||olx.pl-id652925.site^$all
 ||olx.pl-id907290.site^$all
 ||olx.pl-konto.biz^$all
 ||olx.pl-konto.casa^$all
@@ -5175,6 +5185,7 @@
 ||olx.pl-konto.ltd^$all
 ||olx.pl-konto.shop^$all
 ||olx.pl-konto.website^$all
+||olx.pl-order.icu^$all
 ||olx.pl-order.work^$all
 ||olx.pl-paycash.surf^$all
 ||olx.pl-payment.casa^$all
@@ -5182,6 +5193,8 @@
 ||olx.pl-przelewy.live^$all
 ||olx.pl-przesylka.life^$all
 ||olx.pl-przesylka.online^$all
+||olx.pl-przesylka.pl^$all
+||olx.pl-przesylka.today^$all
 ||olx.pl-receive.casa^$all
 ||olx.pl-safecash.casa^$all
 ||olx.pl-safe.oferta-payment.me^$all
@@ -5311,6 +5324,7 @@
 ||oplac-paczka24.com^$all
 ||oplac-paczke.com^$all
 ||oplat1y.com^$all
+||oplataolx.pl^$all
 ||oplatapge.com^$all
 ||oplata-payu.com^$all
 ||oplata-pl-olx.online^$all
@@ -5532,6 +5546,7 @@
 ||peypets.net^$all
 ||peypis24.net^$all
 ||peyplug.net^$all
+||peypos.net^$all
 ||peypote.net^$all
 ||peyrents.net^$all
 ||peysem.net^$all
@@ -5670,8 +5685,10 @@
 ||pl-pl-fb.com^$all
 ||pl-postkod.com^$all
 ||pl-przelewy.info^$all
+||pl-przelew.pl^$all
 ||pl-przelew.shop^$all
 ||pl-przelew.world^$all
+||pl-przesylka.pl^$all
 ||pl-univest.life^$all
 ||pl-wyslij.best^$all
 ||pl-wyslij.club^$all
@@ -5938,6 +5955,7 @@
 ||powiat24wiadomosci.pl^$all
 ||powiat24-wydarzenia.pl^$all
 ||powiklania.you2.pl^$all
+||powodzenie-wynikow.eu^$all
 ||poypeo.net^$all
 ||poypin24.net^$all
 ||poyspey.net^$all
@@ -6707,6 +6725,7 @@
 ||typuj-wyniki.eu^$all
 ||tzr.grejt.pl^$all
 ||u12.space^$all
+||u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app^$all
 ||u19432194.ct.sendgrid.net^$all
 ||uatesnicknam.xyz^$all
 ||ubgroupbk.com^$all
@@ -7004,6 +7023,7 @@
 ||wybor-wspanialy.eu^$all
 ||wybrany-ten.eu^$all
 ||wyciekizdjec24.pl^$all
+||wyczyn-pobijamy.eu^$all
 ||wydarzenia24.you2.pl^$all
 ||wydarzeniaroku020.site^$all
 ||wydarzenia-24.dfirma.pl^$all
@@ -7172,6 +7192,7 @@
 ||zone-telechargement-albums.com^$all
 ||zorajka.pl^$all
 ||zorganizowanie-sie.eu^$all
+||zrzadzenie-losu.eu^$all
 ||zumodi.com^$all
 ||zw578376khsds.com.ng^$all
 ||zweryfikujmojekontoowa.moonfruit.com^$all
