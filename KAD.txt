@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 18 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.18.2
+! Last modified: Fri, 19 Feb 2021, 12:05 UTC+01
+! Version: 2021.2.19.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -953,6 +953,7 @@
 ||lutra.pl^$all
 ||lyconet.com^$all
 ||lyke.pl^$all
+||maciejbieniek.pl^$all
 ||madagascaroasis.org^$all
 ||madeinprl.pl^$all
 ||madum.pl^$all
@@ -2278,7 +2279,7 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?[\d]{1,2}\.live\/[\d]{10}\/.*\?/$document
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
@@ -2312,6 +2313,7 @@
 ||4office.pl^$all
 ||4stronyzdrowia.com^$all
 ||5kplayer.pl^$all
+||6c2453dabd3776274.temporary.link^$all
 ||6m.pl^$all
 ||7demka24h7.live^$all
 ||7dot.cn^$all
@@ -2320,6 +2322,7 @@
 ||24ekspres.online^$all
 ||24gazeta.eu^$all
 ||24lite.eu^$all
+||24xforex.com^$all
 ||24-biznes.eu^$all
 ||24.daily-news-24.com^$all
 ||24.eu^$document,domain=~www.24.eu
@@ -2379,6 +2382,7 @@
 ||agencja-aspro.pl^$all
 ||agikurier.org^$all
 ||agipasesores.com^$all
+||agmar-zdg.pl^$all
 ||agroniezapominajka.com.pl^$all
 ||aiegro-lokainle.xyz^$all
 ||aierudkaqwertyuiopski.xyz^$all
@@ -2664,6 +2668,7 @@
 ||bilans-glosow.eu^$all
 ||binvesting.com^$all
 ||bioperfect.pl^$all
+||birdwatcher.pl^$all
 ||bitbayinvest.net^$all
 ||bitbay-net.com^$all
 ||bitcoincodesverigerecension.com^$all
@@ -2684,12 +2689,15 @@
 ||bitcointodaynews.me^$all
 ||bitcointrustoptions.com^$all
 ||bitcoinup.io^$all
+||bitcoinup.trade^$all
 ||bitcoin-storm.com^$all
 ||bitcoin-trader-app.com^$all
 ||bitoptionfx.com^$all
 ||bitsends.space^$all
 ||bitworldfx.com^$all
 ||bit-capitals.com^$all
+||biuropraski.pl^$all
+||biuro-detektywi.eu^$all
 ||biuro-kandydatow.eu^$all
 ||biuro-wyborow.eu^$all
 ||biuro-wynikowe.eu^$all
@@ -2802,6 +2810,7 @@
 ||cdgame.kgb.pl^$all
 ||cdpa.pl^$all
 ||cdsp.pl^$all
+||ceeqa.pl^$all
 ||cengizguler.com.tr^$all
 ||cennik-paczki-24.xyz^$all
 ||cennik-paczki.live^$all
@@ -2822,6 +2831,7 @@
 ||centrumkrakowska.com.pl^$all
 ||centrumofert24.com^$all
 ||centrumplay.pl^$all
+||centrumsitodruku.pl^$all
 ||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
 ||ceresiontest.c0.pl^$all
 ||cezaevinegonder.com^$all
@@ -2984,6 +2994,7 @@
 ||d26sio54efdz72.cloudfront.net^$all
 ||d34rr3edznjsj6.cloudfront.net^$all
 ||dachbud.slask.pl^$all
+||dalsari.com^$all
 ||damianek24.eu^$all
 ||damulki.online^$all
 ||danangluxury.com^$all
@@ -3032,6 +3043,7 @@
 ||delivery-safe.name^$all
 ||delivery-safe.org^$all
 ||delivery.olx-pl.*^$all
+||delivery.olx.checkid.store^$all
 ||delivery.olx.oferta.*^$all
 ||delivery.olx.pl-oferta.*^$all
 ||delivery.olx.pl-receive.link^$all
@@ -3170,6 +3182,7 @@
 ||dostawa-szybka.com^$all
 ||dostawa-w.pl^$all
 ||dostawa.tech^$all
+||dostawcze.net.pl^$all
 ||dostawe-olx.pl^$all
 ||dostawowo.com^$all
 ||dostawpack.com^$all
@@ -3836,6 +3849,7 @@
 ||hosting2139479.online.pro^$all
 ||hosting2142718.online.pro^$all
 ||hosting2181629.online.pro^$all
+||hosting2192940.online.pro^$all
 ||hosting*.online.pro^$document
 ||hostkrd.ovh^$all
 ||hostplik.pl^$all
@@ -3892,6 +3906,7 @@
 ||iidl-plus.com^$all
 ||ikino24.pl^$all
 ||ikoronawirusnews.pl^$all
+||ilink.bar^$all
 ||ilink.cx^$all
 ||ilink.fun^$all
 ||ilink.icu^$all
@@ -4033,9 +4048,15 @@
 ||inpost.pl-safeway.shop^$all
 ||inpost.pl-safe.casa^$all
 ||inpost.pl-safe.shop^$all
+||inpost.pl-savecash.casa^$all
 ||inpost.pl-savecash.life^$all
 ||inpost.pl-savecash.live^$all
+||inpost.pl-savedelivery.casa^$all
+||inpost.pl-savemoney.casa^$all
+||inpost.pl-saveorder.casa^$all
 ||inpost.pl-saveorder.life^$all
+||inpost.pl-savepay.casa^$all
+||inpost.pl-save.casa^$all
 ||inpost.pl-zakupy.work^$all
 ||inpost.tech^$all
 ||inpost.us^$all
@@ -4061,6 +4082,7 @@
 ||interpathlaboratories.com^$all
 ||intersujaceopolskie.online^$all
 ||interwencja.you2.pl^$all
+||interwro.pl^$all
 ||inteza.pl^$all
 ||investactive.cc^$all
 ||investchambers.com^$all
@@ -4155,11 +4177,13 @@
 ||kalendarzdnia23.online^$all
 ||kalendarzdnia23.site^$all
 ||kalendarzyk.org^$all
+||kamienicabytow.pl^$all
 ||kamilapaczka.org^$all
 ||kamilbadnareklivecash.blogspot.com^$all
 ||kamilszymanski.com.pl^$all
 ||kandydujmy-wszyscy.eu^$all
 ||karencupp.com^$all
+||karolbus.pl^$all
 ||kartawire.pl^$all
 ||karta-swiateczna.eu^$all
 ||karta-wyboru.eu^$all
@@ -4732,6 +4756,7 @@
 ||ninjavpn.xyz^$all
 ||njb-gmbh.com^$all
 ||nlublin.pl^$all
+||noclegi-kozienice.pl^$all
 ||noclegnadmorzemgdansk.pl^$all
 ||nomadztruck.com^$all
 ||nominacja-mistrza.eu^$all
@@ -4748,6 +4773,7 @@
 ||nowapolskaa.xyz^$all
 ||noweinformacje.icu^$all
 ||nowinki.blog-online.eu^$all
+||nowoczesnemuzeum.pl^$all
 ||nowosci-sprawdz.eu^$all
 ||nowy-regulamin.com^$all
 ||nowy-regulamin.pl^$all
@@ -5142,7 +5168,9 @@
 ||olx.pl-get.work^$all
 ||olx.pl-id907290.site^$all
 ||olx.pl-konto.biz^$all
+||olx.pl-konto.casa^$all
 ||olx.pl-konto.co^$all
+||olx.pl-konto.cyou^$all
 ||olx.pl-konto.life^$all
 ||olx.pl-konto.ltd^$all
 ||olx.pl-konto.shop^$all
@@ -5157,6 +5185,12 @@
 ||olx.pl-receive.casa^$all
 ||olx.pl-safecash.casa^$all
 ||olx.pl-safe.oferta-payment.me^$all
+||olx.pl-savecash.casa^$all
+||olx.pl-savedelivery.casa^$all
+||olx.pl-savemoney.casa^$all
+||olx.pl-saveorder.casa^$all
+||olx.pl-savepay.casa^$all
+||olx.pl-save.casa^$all
 ||olx.pl-shop.club^$all
 ||olx.pl-shop.cyou^$all
 ||olx.pl-shop.ltd^$all
@@ -5190,6 +5224,7 @@
 ||omega.best^$all
 ||omrolsztyn.neostrada.pl^$all
 ||onclickbright.com^$all
+||onemed.com.pl^$all
 ||onet24pl.pvi.pl^$all
 ||onet24polska.eu^$all
 ||onet24.dkonto.pl^$all
@@ -5249,7 +5284,9 @@
 ||online-cda.pl^$all
 ||online-film.pl^$all
 ||online-kurier.pl^$all
+||online-mbakiing-pl.com^$all
 ||online-olx.com^$all
+||online-payu2442311.pl^$all
 ||online-platnosci.services^$all
 ||online-platnosc.services^$all
 ||online-platnosc.site^$all
@@ -5907,6 +5944,7 @@
 ||pozwalajmy-glosowac.eu^$all
 ||pozyczkatotu.pl^$all
 ||pozyczkikredyty.pl^$all
+||pozyczkiwroclaw.com.pl^$all
 ||pozytywne-wybieranie.eu^$all
 ||po.fyybox.com^$all
 ||ppay.site^$all
@@ -6198,6 +6236,7 @@
 ||security-update-required.com^$all
 ||security.weblogin-contact-form-instagram.com^$all
 ||segregations.xyz^$all
+||sekon.com.pl^$all
 ||sekret.online^$all
 ||seks-telefon.com^$all
 ||selfieshop.ga^$all
@@ -6214,6 +6253,7 @@
 ||serialowo.pl^$all
 ||server031290.nazwa.pl^$all
 ||server167147.nazwa.pl^$all
+||server522523.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
 ||server634288.nazwa.pl^$all
 ||server*.nazwa.pl/weryfikacja/$all
@@ -6267,6 +6307,7 @@
 ||skleptaniebuty.pl^$all
 ||skleptus.pl^$all
 ||sklepygucci.pl^$all
+||sklep-bobas.pl^$all
 ||sklep-online.xyz^$all
 ||sklep-play.cc^$all
 ||sknrtel.com^$all
@@ -6357,6 +6398,7 @@
 ||sprawdz-swoje-iq.pl^$all
 ||sprnr*.net^$all
 ||sprzeadazonilne.xyz^$all
+||sprzedamkoszty.com^$all
 ||sprzedaz-aiiegro-094814.xyz^$all
 ||sprzedaz-aiiegro.xyz^$all
 ||sprzedaz-nr-497417.in.net^$all
@@ -6425,7 +6467,9 @@
 ||strstudio.pl^$all
 ||structures-made-easy.co.uk^$all
 ||stsroyal.com^$all
+||studiocleo.pl^$all
 ||studiofantazja.com.pl^$all
+||studiofryzurroza.pl^$all
 ||sub3.blocked-site-hole-cert.pl^$all
 ||subtim-outlook.com^$all
 ||success-jezyki.pl^$all
@@ -7024,6 +7068,7 @@
 ||xn--pasaer-spb.pl^$all
 ||xn--polskagwat24-*.*^$all
 ||xpressoptions247.com^$all
+||x-alp.pl^$all
 ||x-hosepl2.com^$all
 ||yellowskin.top^$all
 ||yellowstudio.pl^$all
@@ -7119,11 +7164,13 @@
 ||znaneleki.pl^$all
 ||znany-lekarz.dfirma.pl^$all
 ||znany-lekarz.pl^$all
+||znieslawienie.pl^$all
 ||zobaczfilm.com^$all
 ||zobaczfotki.eu^$all
 ||zobaczmy-sprawe.eu^$all
 ||zobacz-film.pl^$all
 ||zone-telechargement-albums.com^$all
+||zorajka.pl^$all
 ||zorganizowanie-sie.eu^$all
 ||zumodi.com^$all
 ||zw578376khsds.com.ng^$all
