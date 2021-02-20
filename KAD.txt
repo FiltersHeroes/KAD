@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 20 Feb 2021, 12:06 UTC+01
-! Version: 2021.2.20.0
+! Last modified: Sat, 20 Feb 2021, 16:05 UTC+01
+! Version: 2021.2.20.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3417,6 +3417,7 @@
 ||faceboobko.*.*^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
+||facebook-ads.pl^$all
 ||facebook-pl.eu^$all
 ||facebook.biz.pl^$all
 ||facebook.m918kiss.my^$all
@@ -3829,6 +3830,7 @@
 ||hannawolska1.co.pl^$all
 ||happyfotobox.pl^$all
 ||happy-pods-pl.com^$all
+||hazel-projektowanie.com.pl^$all
 ||hbonicovideo.over-blog.com^$all
 ||hdmedia.pl^$all
 ||hd-online.skyrock.com^$all
@@ -4054,6 +4056,7 @@
 ||inpost.pl-getcash.link^$all
 ||inpost.pl-getdelivery.shop^$all
 ||inpost.pl-getmoney.casa^$all
+||inpost.pl-getmoney.icu^$all
 ||inpost.pl-getmoney.life^$all
 ||inpost.pl-getpayment.online^$all
 ||inpost.pl-getpay.life^$all
@@ -4797,6 +4800,7 @@
 ||niemozemyznalezc.website^$all
 ||niepokonane-dzieciaki.eu^$all
 ||nieradzimysobie.seohost.com.pl^$all
+||niezabardzowiadomo.online^$all
 ||niezalezna.dfirma.pl^$all
 ||nieziemskie-rabaty.com^$all
 ||niezmarnujzycia.pl^$all
@@ -5211,6 +5215,7 @@
 ||olx.pl-delivery.work^$all
 ||olx.pl-dostawa.icu^$all
 ||olx.pl-getcash.casa^$all
+||olx.pl-getcash.icu^$all
 ||olx.pl-getcash.work^$all
 ||olx.pl-getdelivery.work^$all
 ||olx.pl-getmoney.casa^$all
@@ -5221,12 +5226,14 @@
 ||olx.pl-id907290.site^$all
 ||olx.pl-konto.biz^$all
 ||olx.pl-konto.casa^$all
+||olx.pl-konto.com^$all
 ||olx.pl-konto.co^$all
 ||olx.pl-konto.cyou^$all
 ||olx.pl-konto.life^$all
 ||olx.pl-konto.ltd^$all
 ||olx.pl-konto.shop^$all
 ||olx.pl-konto.website^$all
+||olx.pl-orders.link^$all
 ||olx.pl-order.icu^$all
 ||olx.pl-order.work^$all
 ||olx.pl-paycash.surf^$all
@@ -6631,6 +6638,7 @@
 ||szybkieinfo.pl^$all
 ||szybkiezycie1.online^$all
 ||szybkie-dodanie.eu^$all
+||szybkie-nadanja.in.net^$all
 ||szybkie-przesylki.xyz^$all
 ||szybkie-punktowanie.eu^$all
 ||szybkie-wysylki.online^$all
