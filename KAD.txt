@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 20 Feb 2021, 16:05 UTC+01
-! Version: 2021.2.20.1
+! Last modified: Sat, 20 Feb 2021, 20:04 UTC+01
+! Version: 2021.2.20.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2346,6 +2346,7 @@
 ||acceuil-serviceclient.com^$all
 ||account-mail.quarantine.kitabdigital.com^$all
 ||account.login.appid.customer.online.curriculumvitae.live^$all
+||activation-netflix.com^$all
 ||activesports.com.pl^$all
 ||actualizarelect.890m.com^$all
 ||adament.c0.pl^$all
@@ -3170,6 +3171,7 @@
 ||dostawapost24.pl^$all
 ||dostawa-bezpieczny.pl^$all
 ||dostawa-dhl.net^$all
+||dostawa-do-domu.pl^$all
 ||dostawa-olx-pl.*^$all
 ||dostawa-olx-poland.info^$all
 ||dostawa-olx.app^$all
@@ -3935,6 +3937,7 @@
 ||ilink.cx^$all
 ||ilink.fun^$all
 ||ilink.icu^$all
+||ilink.monster^$all
 ||ilink.services^$all
 ||ilink.surf^$all
 ||ilovemobi.com^$all
@@ -5201,6 +5204,8 @@
 ||olx.new-payment.space^$all
 ||olx.new-payment.store^$all
 ||olx.oplata-is.com^$all
+||olx.order-pl.contact^$all
+||olx.order-pl.io^$all
 ||olx.order-pl.life^$all
 ||olx.order-pl.shop^$all
 ||olx.order-pl.store^$all
@@ -5233,6 +5238,7 @@
 ||olx.pl-konto.ltd^$all
 ||olx.pl-konto.shop^$all
 ||olx.pl-konto.website^$all
+||olx.pl-logowanie.group^$all
 ||olx.pl-orders.link^$all
 ||olx.pl-order.icu^$all
 ||olx.pl-order.work^$all
@@ -5259,6 +5265,7 @@
 ||olx.pl-shop.club^$all
 ||olx.pl-shop.cyou^$all
 ||olx.pl-shop.ltd^$all
+||olx.pl-zakupy.icu^$all
 ||olx.pl-zakupy.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
@@ -5537,6 +5544,7 @@
 ||payment-olx.000webhostapp.com^$all
 ||payment-olx.pl^$all
 ||paynazwa-pl-*.*.*^$all
+||payolx.pl^$all
 ||payoner.club^$all
 ||payones.net^$all
 ||payonklik.online^$all
@@ -6317,6 +6325,7 @@
 ||searchwinner.site^$all
 ||secure167.servconfig.com^$all
 ||secureclick20.com^$all
+||securescout.de^$all
 ||securetradeapp.com^$all
 ||secure-bank-getin.xyz^$all
 ||secure-getinbank.com^$all
@@ -6850,6 +6859,7 @@
 ||urleddrug.at^$all
 ||urywek-glosu.eu^$all
 ||urzad-gov.net^$all
+||users-netflix.com^$all
 ||user-paypal.com^$all
 ||useslithogra.xyz^$all
 ||uslugatel.net^$all
