@@ -1,5 +1,4 @@
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
-||hazel-projektowanie.com.pl^$all
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1165,6 +1164,7 @@
 ||faceboobko.*.*^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
+||facebook-ads.pl^$all
 ||facebook-pl.eu^$all
 ||facebook.biz.pl^$all
 ||facebook.m918kiss.my^$all
@@ -1577,6 +1577,7 @@
 ||hannawolska1.co.pl^$all
 ||happyfotobox.pl^$all
 ||happy-pods-pl.com^$all
+||hazel-projektowanie.com.pl^$all
 ||hbonicovideo.over-blog.com^$all
 ||hdmedia.pl^$all
 ||hd-online.skyrock.com^$all
@@ -1802,6 +1803,7 @@
 ||inpost.pl-getcash.link^$all
 ||inpost.pl-getdelivery.shop^$all
 ||inpost.pl-getmoney.casa^$all
+||inpost.pl-getmoney.icu^$all
 ||inpost.pl-getmoney.life^$all
 ||inpost.pl-getpayment.online^$all
 ||inpost.pl-getpay.life^$all
@@ -2545,6 +2547,7 @@
 ||niemozemyznalezc.website^$all
 ||niepokonane-dzieciaki.eu^$all
 ||nieradzimysobie.seohost.com.pl^$all
+||niezabardzowiadomo.online^$all
 ||niezalezna.dfirma.pl^$all
 ||nieziemskie-rabaty.com^$all
 ||niezmarnujzycia.pl^$all
@@ -2959,6 +2962,7 @@
 ||olx.pl-delivery.work^$all
 ||olx.pl-dostawa.icu^$all
 ||olx.pl-getcash.casa^$all
+||olx.pl-getcash.icu^$all
 ||olx.pl-getcash.work^$all
 ||olx.pl-getdelivery.work^$all
 ||olx.pl-getmoney.casa^$all
@@ -2969,12 +2973,14 @@
 ||olx.pl-id907290.site^$all
 ||olx.pl-konto.biz^$all
 ||olx.pl-konto.casa^$all
+||olx.pl-konto.com^$all
 ||olx.pl-konto.co^$all
 ||olx.pl-konto.cyou^$all
 ||olx.pl-konto.life^$all
 ||olx.pl-konto.ltd^$all
 ||olx.pl-konto.shop^$all
 ||olx.pl-konto.website^$all
+||olx.pl-orders.link^$all
 ||olx.pl-order.icu^$all
 ||olx.pl-order.work^$all
 ||olx.pl-paycash.surf^$all
@@ -4379,6 +4385,7 @@
 ||szybkieinfo.pl^$all
 ||szybkiezycie1.online^$all
 ||szybkie-dodanie.eu^$all
+||szybkie-nadanja.in.net^$all
 ||szybkie-przesylki.xyz^$all
 ||szybkie-punktowanie.eu^$all
 ||szybkie-wysylki.online^$all
@@ -5064,10 +5071,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||facebook-ads.pl^$all
-||inpost.pl-getmoney.icu^$all
-||niezabardzowiadomo.online^$all
-||olx.pl-getcash.icu^$all
-||olx.pl-konto.com^$all
-||olx.pl-orders.link^$all
-||szybkie-nadanja.in.net^$all
