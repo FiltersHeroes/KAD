@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 21 Feb 2021, 12:05 UTC+01
-! Version: 2021.2.21.0
+! Last modified: Sun, 21 Feb 2021, 16:05 UTC+01
+! Version: 2021.2.21.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2448,6 +2448,7 @@
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
+||allegrolokalnie.bar^$all
 ||allegrolokalnie.casa^$all
 ||allegrolokalnie.cloud^$all
 ||allegrolokalnie.cyou^$all
@@ -5219,6 +5220,7 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-0rder.club^$all
 ||olx.pl-cash.icu^$all
 ||olx.pl-delivery.work^$all
 ||olx.pl-dostawa.icu^$all
@@ -5229,6 +5231,7 @@
 ||olx.pl-getmoney.casa^$all
 ||olx.pl-getmoney.work^$all
 ||olx.pl-getorder.casa^$all
+||olx.pl-getpay.icu^$all
 ||olx.pl-get.casa^$all
 ||olx.pl-get.work^$all
 ||olx.pl-id652925.site^$all
