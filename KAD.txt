@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 22 Feb 2021, 12:04 UTC+01
-! Version: 2021.2.22.0
+! Last modified: Mon, 22 Feb 2021, 16:04 UTC+01
+! Version: 2021.2.22.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4730,6 +4730,7 @@
 ||naszezabrze.online^$all
 ||nasze-miasta24tv.online^$all
 ||nasze-miasto.k99k.com.pl^$all
+||naszglos24.laohost.net^$all
 ||naszpolskiswiat.icu^$all
 ||naszpolskiswiat.site^$all
 ||naszpolskiswiat.xyz^$all
@@ -4961,6 +4962,7 @@
 ||olszewski.ehost.pl^$all
 ||olxbank.casa^$all
 ||olxbank.cc^$all
+||olxbank.me^$all
 ||olxdostawa-pay.pl^$all
 ||olxdostawa.*^$all
 ||olxoferta.digital^$all
@@ -5070,6 +5072,7 @@
 ||olx-offerta.*^$all
 ||olx-ogloszenie.dkonto.pl^$all
 ||olx-online.pl^$all
+||olx-oplata.org^$all
 ||olx-order.com^$all
 ||olx-paycore.biz^$all
 ||olx-paycore.club^$all
@@ -5210,6 +5213,8 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-0rder.club^$all
+||olx.pl-0rder.design^$all
+||olx.pl-0rder.ink^$all
 ||olx.pl-cash.icu^$all
 ||olx.pl-delivery.work^$all
 ||olx.pl-dostawa.icu^$all
@@ -5240,6 +5245,8 @@
 ||olx.pl-order.work^$all
 ||olx.pl-paycash.surf^$all
 ||olx.pl-payment.casa^$all
+||olx.pl-payouts.casa^$all
+||olx.pl-payouts.surf^$all
 ||olx.pl-payouts.work^$all
 ||olx.pl-pay.work^$all
 ||olx.pl-przelewy.live^$all
