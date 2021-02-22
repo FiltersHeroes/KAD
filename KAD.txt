@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 21 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.21.2
+! Last modified: Mon, 22 Feb 2021, 12:04 UTC+01
+! Version: 2021.2.22.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -361,7 +361,6 @@
 ||dampozyczke.pl^$all
 ||danafashiontrends.us^$all
 ||dariuszdopierala.pl^$all
-||dariuszskowron.pl^$all
 ||darmowe-ebooki.com.pl^$all
 ||darmowe-ebooki.net^$all
 ||darmowe-zakupy.com^$all
@@ -777,7 +776,6 @@
 ||jordenmadsen.com^$all
 ||joy-box.pl^$all
 ||jsauto.pl^$all
-||julesvilla.pl^$all
 ||jumpers.mobi^$all
 ||jump.ogtrk.net^$all
 ||jura-24.pl^$all
@@ -831,7 +829,6 @@
 ||klubufo.pl^$all
 ||klubwinarzeczpospolitej.pl^$all
 ||kmgubezpieczenia.pl^$all
-||knoksshop.com^$all
 ||kobietanadorobku.pl^$all
 ||koctronic.pl^$all
 ||kodyrabatowe.16mb.com^$all
@@ -1192,7 +1189,6 @@
 ||orzelprusice.pl^$all
 ||osiedlebrzechwy.com.pl^$all
 ||osiedlecetnarskiego.pl^$all
-||osiedlewidok.pl^$all
 ||osiedlewillowa.pl^$all
 ||oskmiekisiak.pl^$all
 ||ospmazancowice.pl^$all
@@ -1660,7 +1656,6 @@
 ||szybkapozyczkateraz.pl^$all
 ||szybkaupadlosc.pl^$all
 ||s-mania.com^$all
-||taboj.com^$all
 ||taniecchojnice.pl^$all
 ||taniemaseczki.com.pl^$all
 ||taniemedia.pl^$all
@@ -2098,7 +2093,6 @@
 ||rocleotolonva.tk^$all
 ||rossmannpromocja.pl^$all
 ||r.xyz1.pl^$all
-||sapynews.com^$all
 ||sauwoaptain.com^$all
 ||schington.com^$all
 ||securecloud-smart.com^$all
@@ -2269,7 +2263,6 @@
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
-||0ff.page^$all
 ||0lx.group^$all
 ||0pen.page^$all
 ||0xi.com.pl^$all
@@ -2448,7 +2441,9 @@
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
+||allegrolokalnie.art^$all
 ||allegrolokalnie.bar^$all
+||allegrolokalnie.bid^$all
 ||allegrolokalnie.casa^$all
 ||allegrolokalnie.cloud^$all
 ||allegrolokalnie.cyou^$all
@@ -2698,7 +2693,6 @@
 ||bitworldfx.com^$all
 ||bit-capitals.com^$all
 ||biurofs.pl^$all
-||biuropraski.pl^$all
 ||biuro-detektywi.eu^$all
 ||biuro-kandydatow.eu^$all
 ||biuro-wyborow.eu^$all
@@ -2928,9 +2922,7 @@
 ||cpagrip.com^$all
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
-||credit-agrecolle.pl^$all
 ||credit-agricole-fr.de.cool^$all
-||credit-agricolle.pl^$all
 ||cristal2017.argo.host^$all
 ||crowd1.com^$all
 ||crptengine.cyou^$all
@@ -3999,7 +3991,6 @@
 ||info.ogloszeniateraz97.club^$all
 ||infromacje24.dfirma.pl^$all
 ||infx.eu^$all
-||ing-info.pl^$all
 ||ing-ll.pl^$all
 ||ing.pl.proxy.c7s.io^$all
 ||iniciuj-pomoc.eu^$all
@@ -4051,6 +4042,7 @@
 ||inpost.order-pl.art^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
+||inpost.pl-0rder.club^$all
 ||inpost.pl-cash.icu^$all
 ||inpost.pl-delivery.icu^$all
 ||inpost.pl-dostawa.icu^$all
@@ -4065,6 +4057,7 @@
 ||inpost.pl-getmoney.life^$all
 ||inpost.pl-getpayment.online^$all
 ||inpost.pl-getpay.life^$all
+||inpost.pl-getpay.work^$all
 ||inpost.pl-getsafe.money^$all
 ||inpost.pl-get.cash^$all
 ||inpost.pl-get.money^$all
@@ -4635,11 +4628,11 @@
 ||moda2020.pl^$all
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
+||mogedalej.pl^$all
 ||mojapaczka24.net^$all
 ||moje69.pl^$all
 ||mojeapartamenty.com^$all
 ||mojekobe.is-best.net^$all
-||mojekonto-otomoto.com^$all
 ||mojemiasto24.you2.pl^$all
 ||mojemiastoinfo.eu^$all
 ||mojemiasto.dkonto.pl^$all
@@ -4716,7 +4709,6 @@
 ||namibiasafaritours.ml^$all
 ||namierz-telefon.pl^$all
 ||nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com^$all
-||napierdzielanki.pl^$all
 ||narzedzia.live^$all
 ||nastawiaj-porzadnie.eu^$all
 ||nastepstwo-pomozmy.eu^$all
@@ -5028,7 +5020,6 @@
 ||olxyorki.dfirma.pl^$all
 ||olx-bezpieczny.pl^$all
 ||olx-biezpieczna-dostawa-pl.biz^$all
-||olx-buypay.pl^$all
 ||olx-b.com^$all
 ||olx-b.pl^$all
 ||olx-cash.site^$all
@@ -5187,8 +5178,6 @@
 ||olx.delliverry.*^$all
 ||olx.dellivers.*^$all
 ||olx.dellivery.*^$all
-||olx.dilivery-poland.cam^$all
-||olx.dilivery-poland.cyou^$all
 ||olx.doreczanie.pl^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
@@ -5240,11 +5229,9 @@
 ||olx.pl-konto.casa^$all
 ||olx.pl-konto.com^$all
 ||olx.pl-konto.co^$all
-||olx.pl-konto.cyou^$all
 ||olx.pl-konto.life^$all
 ||olx.pl-konto.ltd^$all
 ||olx.pl-konto.shop^$all
-||olx.pl-konto.website^$all
 ||olx.pl-logowanie.cyou^$all
 ||olx.pl-logowanie.group^$all
 ||olx.pl-logowanie.place^$all
@@ -5253,11 +5240,11 @@
 ||olx.pl-order.work^$all
 ||olx.pl-paycash.surf^$all
 ||olx.pl-payment.casa^$all
+||olx.pl-payouts.work^$all
 ||olx.pl-pay.work^$all
 ||olx.pl-przelewy.live^$all
 ||olx.pl-przelew.pl^$all
 ||olx.pl-przesylka.life^$all
-||olx.pl-przesylka.online^$all
 ||olx.pl-przesylka.pl^$all
 ||olx.pl-przesylka.today^$all
 ||olx.pl-receive.casa^$all
@@ -5272,6 +5259,7 @@
 ||olx.pl-savepay.casa^$all
 ||olx.pl-save.casa^$all
 ||olx.pl-secure.live^$all
+||olx.pl-secure.today^$all
 ||olx.pl-shop.club^$all
 ||olx.pl-shop.cyou^$all
 ||olx.pl-shop.ltd^$all
@@ -5719,7 +5707,6 @@
 ||pln-delivery-pay.shop^$all
 ||pln.m-olx.us^$all
 ||plolx-oplata.online^$all
-||ploskonax.com^$all
 ||plpocztex.net^$all
 ||plpocztex.org^$all
 ||plpostkode.com^$all
@@ -5760,12 +5747,12 @@
 ||pl-olx.safe.oferta-payment.org^$all
 ||pl-olx.site^$all
 ||pl-olx.tech^$all
+||pl-payouts.work^$all
 ||pl-platnosci.online^$all
 ||pl-pl-fb.com^$all
 ||pl-postkod.com^$all
 ||pl-przelewy.info^$all
 ||pl-przelew.info^$all
-||pl-przelew.pl^$all
 ||pl-przelew.shop^$all
 ||pl-przelew.world^$all
 ||pl-przesylka.pl^$all
@@ -5793,7 +5780,6 @@
 ||pl.olxtracking.com^$all
 ||pl.olx-merchant.com^$all
 ||pl.olx-ofert.art^$all
-||pl.olx-ofert.design^$all
 ||pl.olx-ofert.life^$all
 ||pl.olx-order.info^$all
 ||pl.olx-pay.oferta-payment.org^$all
@@ -5898,8 +5884,6 @@
 ||polishpolar.com^$all
 ||polishwebmailadmin.weebly.com^$all
 ||polishwebmailupgrade.weebly.com^$all
-||politykaprywatnosci-poczta.com.pl^$all
-||politykaprywatnosci-poczta.pl^$all
 ||politykaprywatnosci.org^$all
 ||polityka-bez-cenzury.you2.pl^$all
 ||poloralphlaurenpoland.pl^$all
@@ -6083,6 +6067,7 @@
 ||projectsociety.pl^$all
 ||projekt-pomocy.eu^$all
 ||projekt-sprawdz.eu^$all
+||promesa.moonfruit.com^$all
 ||promocjabuty.pl^$all
 ||promocjeadidas.pl^$all
 ||pronhubhd.com^$all
@@ -6245,7 +6230,6 @@
 ||restricted.pl^$all
 ||retinaegras.at^$all
 ||retirewellinvestors.com^$all
-||reviewedreads.com^$all
 ||revoiut.org^$all
 ||revolution-fx.cc^$all
 ||reypey24.net^$all
@@ -6350,7 +6334,6 @@
 ||security.weblogin-contact-form-instagram.com^$all
 ||segregations.xyz^$all
 ||sekon.com.pl^$all
-||sekret.online^$all
 ||seks-telefon.com^$all
 ||selfieshop.ga^$all
 ||semsanbtccome.site^$all
@@ -6629,7 +6612,6 @@
 ||swingmarketscfd.com^$all
 ||swinka-morska.waw.pl^$all
 ||swissmarket.net^$all
-||swisstrade.exchange^$all
 ||syds588.cn^$all
 ||systemchlodzeniamglapl.com^$all
 ||systemrma.pl^$all
@@ -6862,7 +6844,6 @@
 ||updateservicesverification.web.app^$all
 ||update-1.com^$all
 ||update.*sf*.online^$all
-||uperpay.club^$all
 ||upocztapolska.net^$all
 ||uprawomocnic.moonfruit.com^$all
 ||uprowadzenie.7m.pl^$all
