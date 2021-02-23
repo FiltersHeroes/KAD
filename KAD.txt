@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 22 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.22.2
+! Last modified: Tue, 23 Feb 2021, 12:05 UTC+01
+! Version: 2021.2.23.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -315,6 +315,7 @@
 ||clikolis.com^$all
 ||cloudtokenwallet.com^$all
 ||club4you.pl^$all
+||clubitaliano.pl^$all
 ||club-cynamon.pl^$all
 ||coachhouseballarat.com^$all
 ||cocokissy.com^$all
@@ -1401,6 +1402,7 @@
 ||reducelant.com^$all
 ||reebokploutlet.com^$all
 ||reebokskleppl.pl^$all
+||reebok-polska.pl^$all
 ||refundacjeregionalne.pl^$all
 ||regionalnyportal.eu^$all
 ||registrationofaccount.com^$all
@@ -4075,6 +4077,8 @@
 ||inpost.pl-safecash.surf^$all
 ||inpost.pl-safemoney.surf^$all
 ||inpost.pl-safeorder.live^$all
+||inpost.pl-safepayouts.store^$all
+||inpost.pl-safepayouts.surf^$all
 ||inpost.pl-safeway.cash^$all
 ||inpost.pl-safeway.link^$all
 ||inpost.pl-safeway.shop^$all
@@ -4092,6 +4096,7 @@
 ||inpost.pl-save.casa^$all
 ||inpost.pl-zakupy.icu^$all
 ||inpost.pl-zakupy.work^$all
+||inpost.poland-orders.life^$all
 ||inpost.pw^$all
 ||inpost.tech^$all
 ||inpost.us^$all
@@ -4866,6 +4871,7 @@
 ||oddaj-glosow.eu^$all
 ||oddaj-glosy.eu^$all
 ||oddaj-kampania.eu^$all
+||oddaj-zwyciestwo.eu^$all
 ||oddam-kotki17.microhost.com.pl^$all
 ||oddam-yorki.dfirma.pl^$all
 ||odebranie-punktu.eu^$all
@@ -5248,10 +5254,12 @@
 ||olx.pl-paycash.surf^$all
 ||olx.pl-payment.casa^$all
 ||olx.pl-payouts.casa^$all
+||olx.pl-payouts.shop^$all
 ||olx.pl-payouts.surf^$all
 ||olx.pl-payouts.work^$all
 ||olx.pl-pay.work^$all
 ||olx.pl-przelewy.live^$all
+||olx.pl-przelewy.today^$all
 ||olx.pl-przelew.pl^$all
 ||olx.pl-przesylka.life^$all
 ||olx.pl-przesylka.pl^$all
@@ -5259,6 +5267,7 @@
 ||olx.pl-receive.casa^$all
 ||olx.pl-receive.icu^$all
 ||olx.pl-safecash.casa^$all
+||olx.pl-safepayouts.work^$all
 ||olx.pl-safe.icu^$all
 ||olx.pl-safe.oferta-payment.me^$all
 ||olx.pl-savecash.casa^$all
@@ -5285,8 +5294,10 @@
 ||olx.pl.oferta-payment.today^$all
 ||olx.pl.order3ds.online^$all
 ||olx.pl.paysend.work^$all
+||olx.pl.safepay.icu^$all
 ||olx.pl.safe.oferta-payment.me^$all
 ||olx.pl.*.*^$document
+||olx.poland-orders.shop^$all
 ||olx.product-secure.ru^$all
 ||olx.przesylki-secure.com^$all
 ||olx.przesylki.*^$all
@@ -5719,6 +5730,7 @@
 ||plpocztex.net^$all
 ||plpocztex.org^$all
 ||plpostkode.com^$all
+||plszukamy.space^$all
 ||plus500.ltd^$all
 ||plusiidi.com^$all
 ||pluspromocje.pl^$all
@@ -5776,6 +5788,7 @@
 ||pl.bitcoin*.track*.com^$all
 ||pl.bitcoin*.t*track*.com^$all
 ||pl.centrumoferty.com^$all
+||pl.de-livery.su^$all
 ||pl.dlawasteraz*.*^$all
 ||pl.earncash.press^$all
 ||pl.etrackings.net^$all
@@ -5962,6 +5975,7 @@
 ||pomagamy-razem.club^$all
 ||pomagamy.xip.pl^$all
 ||pomagam-dzisiaj.eu^$all
+||pomaganie-sieciowe.eu^$all
 ||pomoc24.site^$all
 ||pomoc48.you2.pl^$all
 ||pomocdlafranka.pl^$all
