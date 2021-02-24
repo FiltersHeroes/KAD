@@ -1,3 +1,4 @@
+!||delivery.olx.pl-oferta.*^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -202,6 +203,7 @@
 ||allegrolokalnie.cyou^$all
 ||allegrolokalnie.euweb.cz^$all
 ||allegrolokalnie.info^$all
+||allegrolokalnie.news^$all
 ||allegrolokalnie.pw^$all
 ||allegrolokalnie.surf^$all
 ||allegrolokalnie.tk^$all
@@ -289,9 +291,11 @@
 ||aplikacjeplay.com^$all
 ||aplsolutionsonline.com^$all
 ||append.pl^$all
+||appie.com-id-my.com^$all
 ||appinp0st.com^$all
 ||appiq.mobi^$all
 ||appleidworld.com^$all
+||appleid.com-local-id.com^$all
 ||apple-*.deviceoffergiveaways.icu^$all
 ||apple.com-*.*^$all,domain=live|xyz
 ||apple.*.top^$all,domain=top
@@ -714,6 +718,7 @@
 ||czarna-lista.k99k.pl^$all
 ||czarna-lista.m44m.eu^$all
 ||czarna-lista.m44m.pl^$all
+||czarna-lista.o99o.cloud^$all
 ||czarne-chmury.k99k.com.pl^$all
 ||czarownica-online-pl.5v.pl^$all
 ||czasnajablko.pl^$all
@@ -803,7 +808,6 @@
 ||delivery.olx-pl.*^$all
 ||delivery.olx.checkid.store^$all
 ||delivery.olx.oferta.*^$all
-!||delivery.olx.pl-oferta.*^$all
 ||delivery.olx.pl.oferta.accountant^$all
 ||delivery.olx.pl.receivement.me^$all
 ||delivery.olx.pl.safepayment.link^$all
@@ -937,9 +941,11 @@
 ||dostawa-poland.pl^$all
 ||dostawa-polska.com^$all
 ||dostawa-safety.biz^$all
+||dostawa-safety.com^$all
 ||dostawa-safe.info^$all
 ||dostawa-safe.net^$all
 ||dostawa-safe.org^$all
+||dostawa-safe.su^$all
 ||dostawa-save.com^$all
 ||dostawa-security.com^$all
 ||dostawa-szybka.com^$all
@@ -2992,7 +2998,10 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
-
+||olx.pl-safepays.work^$all
+||olx.pl-weryfikacja.capital^$all
+||olx.pl-weryfikacja.digital^$all
+||olx.pl-weryfikacja.tel^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
 ||olx.pl.bezpieczenstwo24.site^$all
@@ -3128,6 +3137,7 @@
 ||organizacja-spoleczna.eu^$all
 ||organizuj-konkursy.eu^$all
 ||orkisz24.pl^$all
+||orlnpacifica.pw^$all
 ||ortezanakolano-pl.com^$all
 ||orteza-na-kolano-pl.com^$all
 ||oryginalnebutynike.pl^$all
@@ -3696,6 +3706,7 @@
 ||pomoc-fakty24.pl^$all
 ||pomoc-o2.online^$all
 ||pomoc-o2.site^$all
+||pomoc-odrobic.eu^$all
 ||pomoc-online24.xyz^$all
 ||pomoc-poczta-regulamin.com.pl^$all
 ||pomoc-poczta-regulamin.pl^$all
@@ -5079,15 +5090,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||allegrolokalnie.news^$all
-||appie.com-id-my.com^$all
-||appleid.com-local-id.com^$all
-||czarna-lista.o99o.cloud^$all
-||dostawa-safe.su^$all
-||dostawa-safety.com^$all
-||olx.pl-safepays.work^$all
-||olx.pl-weryfikacja.capital^$all
-||olx.pl-weryfikacja.digital^$all
-||olx.pl-weryfikacja.tel^$all
-||orlnpacifica.pw^$all
-||pomoc-odrobic.eu^$all
