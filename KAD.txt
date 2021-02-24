@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 24 Feb 2021, 16:06 UTC+01
-! Version: 2021.2.24.1
+! Last modified: Wed, 24 Feb 2021, 20:05 UTC+01
+! Version: 2021.2.24.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -952,7 +952,6 @@
 ||magiaperspektywy.pl^$all
 ||magicpockets.shop^$all
 ||magiel.com.pl^$all
-||magiskmanager.com^$all
 ||majcioch.pl^$all
 ||majus-centrum.pl^$all
 ||makarenagaski.pl^$all
@@ -2248,6 +2247,7 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
+!||delivery.olx.pl-oferta.*^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -2452,6 +2452,7 @@
 ||allegrolokalnie.cyou^$all
 ||allegrolokalnie.euweb.cz^$all
 ||allegrolokalnie.info^$all
+||allegrolokalnie.news^$all
 ||allegrolokalnie.pw^$all
 ||allegrolokalnie.surf^$all
 ||allegrolokalnie.tk^$all
@@ -2539,9 +2540,11 @@
 ||aplikacjeplay.com^$all
 ||aplsolutionsonline.com^$all
 ||append.pl^$all
+||appie.com-id-my.com^$all
 ||appinp0st.com^$all
 ||appiq.mobi^$all
 ||appleidworld.com^$all
+||appleid.com-local-id.com^$all
 ||apple-*.deviceoffergiveaways.icu^$all
 ||apple.com-*.*^$all,domain=live|xyz
 ||apple.*.top^$all,domain=top
@@ -2964,6 +2967,7 @@
 ||czarna-lista.k99k.pl^$all
 ||czarna-lista.m44m.eu^$all
 ||czarna-lista.m44m.pl^$all
+||czarna-lista.o99o.cloud^$all
 ||czarne-chmury.k99k.com.pl^$all
 ||czarownica-online-pl.5v.pl^$all
 ||czasnajablko.pl^$all
@@ -3053,9 +3057,6 @@
 ||delivery.olx-pl.*^$all
 ||delivery.olx.checkid.store^$all
 ||delivery.olx.oferta.*^$all
-||delivery.olx.pl-oferta.*^$all
-||delivery.olx.pl-receive.link^$all
-||delivery.olx.pl-safecash.us^$all
 ||delivery.olx.pl.oferta.accountant^$all
 ||delivery.olx.pl.receivement.me^$all
 ||delivery.olx.pl.safepayment.link^$all
@@ -3189,9 +3190,11 @@
 ||dostawa-poland.pl^$all
 ||dostawa-polska.com^$all
 ||dostawa-safety.biz^$all
+||dostawa-safety.com^$all
 ||dostawa-safe.info^$all
 ||dostawa-safe.net^$all
 ||dostawa-safe.org^$all
+||dostawa-safe.su^$all
 ||dostawa-save.com^$all
 ||dostawa-security.com^$all
 ||dostawa-szybka.com^$all
@@ -5244,75 +5247,10 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
-||olx.pl-0rder.club^$all
-||olx.pl-0rder.design^$all
-||olx.pl-0rder.ink^$all
-||olx.pl-cash.icu^$all
-||olx.pl-delivery.work^$all
-||olx.pl-dostawa.icu^$all
-||olx.pl-getcash.casa^$all
-||olx.pl-getcash.icu^$all
-||olx.pl-getcash.work^$all
-||olx.pl-getdelivery.work^$all
-||olx.pl-getmoney.casa^$all
-||olx.pl-getmoney.work^$all
-||olx.pl-getorder.casa^$all
-||olx.pl-getpay.icu^$all
-||olx.pl-get.casa^$all
-||olx.pl-get.work^$all
-||olx.pl-id652925.site^$all
-||olx.pl-id907290.site^$all
-||olx.pl-konto.biz^$all
-||olx.pl-konto.casa^$all
-||olx.pl-konto.com^$all
-||olx.pl-konto.co^$all
-||olx.pl-konto.life^$all
-||olx.pl-konto.ltd^$all
-||olx.pl-konto.shop^$all
-||olx.pl-logowanie.cyou^$all
-||olx.pl-logowanie.group^$all
-||olx.pl-logowanie.place^$all
-||olx.pl-orders.link^$all
-||olx.pl-order.icu^$all
-||olx.pl-order.work^$all
-||olx.pl-paycash.surf^$all
-||olx.pl-payment.casa^$all
-||olx.pl-payouts.casa^$all
-||olx.pl-payouts.shop^$all
-||olx.pl-payouts.surf^$all
-||olx.pl-payouts.work^$all
-||olx.pl-pay.work^$all
-||olx.pl-portal.cam^$all
-||olx.pl-przekierowanie.xyz^$all
-||olx.pl-przelewy.live^$all
-||olx.pl-przelewy.today^$all
-||olx.pl-przelew.pl^$all
-||olx.pl-przesylka.life^$all
-||olx.pl-przesylka.pl^$all
-||olx.pl-przesylka.today^$all
-||olx.pl-receive.casa^$all
-||olx.pl-receive.icu^$all
-||olx.pl-safecash.casa^$all
-||olx.pl-safepayouts.work^$all
-||olx.pl-safe.icu^$all
-||olx.pl-safe.oferta-payment.me^$all
-||olx.pl-savecash.casa^$all
-||olx.pl-savedelivery.casa^$all
-||olx.pl-savemoney.casa^$all
-||olx.pl-saveorder.casa^$all
-||olx.pl-savepay.casa^$all
-||olx.pl-savepay.cyou^$all
-||olx.pl-savepay.icu^$all
-||olx.pl-savepay.work^$all
-||olx.pl-save.casa^$all
-||olx.pl-secure.live^$all
-||olx.pl-secure.today^$all
-||olx.pl-shop.club^$all
-||olx.pl-shop.cyou^$all
-||olx.pl-shop.ltd^$all
-||olx.pl-weryfikacja.bid^$all
-||olx.pl-zakupy.icu^$all
-||olx.pl-zakupy.work^$all
+||olx.pl-safepays.work^$all
+||olx.pl-weryfikacja.capital^$all
+||olx.pl-weryfikacja.digital^$all
+||olx.pl-weryfikacja.tel^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
 ||olx.pl.bezpieczenstwo24.site^$all
@@ -5448,6 +5386,7 @@
 ||organizacja-spoleczna.eu^$all
 ||organizuj-konkursy.eu^$all
 ||orkisz24.pl^$all
+||orlnpacifica.pw^$all
 ||ortezanakolano-pl.com^$all
 ||orteza-na-kolano-pl.com^$all
 ||oryginalnebutynike.pl^$all
@@ -6016,6 +5955,7 @@
 ||pomoc-fakty24.pl^$all
 ||pomoc-o2.online^$all
 ||pomoc-o2.site^$all
+||pomoc-odrobic.eu^$all
 ||pomoc-online24.xyz^$all
 ||pomoc-poczta-regulamin.com.pl^$all
 ||pomoc-poczta-regulamin.pl^$all
