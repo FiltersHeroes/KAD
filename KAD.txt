@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 23 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.23.2
+! Last modified: Wed, 24 Feb 2021, 12:06 UTC+01
+! Version: 2021.2.24.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2516,6 +2516,7 @@
 ||antonresidential.com^$all
 ||antyszczepionkowo.you2.pl^$all
 ||anuskurier.org^$all
+||anynewdomain.xyz^$all
 ||anyonecanhelp.club^$all
 ||aowadczdfkcd4kl9dk.et.r.appspot.com^$all
 ||aoxcapitals.com^$all
@@ -3186,6 +3187,7 @@
 ||dostawa-poland.pl^$all
 ||dostawa-polska.com^$all
 ||dostawa-safe.info^$all
+||dostawa-safe.net^$all
 ||dostawa-safe.org^$all
 ||dostawa-save.com^$all
 ||dostawa-security.com^$all
@@ -3271,6 +3273,7 @@
 ||eclass47.duckdns.org^$all
 ||edland.pro^$all
 ||edotpay.pl^$all
+||edziennik.xyz^$all
 ||eforsa.pl^$all
 ||efza.net^$all
 ||egazetka24.pl^$all
@@ -3373,6 +3376,7 @@
 ||e-capitaloption.com^$all
 ||e-childalert.*^$all
 ||e-dpd.pl^$all
+||e-dziennik.xyz^$all
 ||e-fakt24.eu^$all
 ||e-fakty24.com.pl^$all
 ||e-fakty24.eu^$all
@@ -3386,6 +3390,7 @@
 ||e-kurier24.net^$all
 ||e-mailprywatnosc.online^$all
 ||e-mailprywatnosc.site^$all
+||e-mail-pomoc.pl^$all
 ||e-mail-regulamin.online^$all
 ||e-mail-regulamin.site^$all
 ||e-mojemiasto.eu^$all
@@ -3420,6 +3425,7 @@
 ||facebook*.7m.pl^$all
 ||facebook-ads.pl^$all
 ||facebook-pl.eu^$all
+||facebook-regulamin.pl^$all
 ||facebook.biz.pl^$all
 ||facebook.m918kiss.my^$all
 ||facebook.podpisz-petycje.*^$all
@@ -5216,6 +5222,8 @@
 ||olx.new-payment.space^$all
 ||olx.new-payment.store^$all
 ||olx.oplata-is.com^$all
+||olx.orderpl.club^$all
+||olx.orders-pls.biz^$all
 ||olx.order-pl.contact^$all
 ||olx.order-pl.io^$all
 ||olx.order-pl.life^$all
@@ -5268,6 +5276,7 @@
 ||olx.pl-payouts.work^$all
 ||olx.pl-pay.work^$all
 ||olx.pl-portal.cam^$all
+||olx.pl-przekierowanie.xyz^$all
 ||olx.pl-przelewy.live^$all
 ||olx.pl-przelewy.today^$all
 ||olx.pl-przelew.pl^$all
@@ -5287,6 +5296,7 @@
 ||olx.pl-savepay.casa^$all
 ||olx.pl-savepay.cyou^$all
 ||olx.pl-savepay.icu^$all
+||olx.pl-savepay.work^$all
 ||olx.pl-save.casa^$all
 ||olx.pl-secure.live^$all
 ||olx.pl-secure.today^$all
@@ -5618,6 +5628,7 @@
 ||pelnizycialudzie.co.pl^$all
 ||pelpey.net^$all
 ||pemberitahuanfb.weebly.com^$all
+||pendingdelivery212.s3.us-east.cloud-object-storage.appdomain.cloud^$all
 ||penelopekurier.com^$all
 ||penetrator-szans.com^$all
 ||penir.org^$all
@@ -5998,8 +6009,11 @@
 ||pomoc-o2.online^$all
 ||pomoc-o2.site^$all
 ||pomoc-online24.xyz^$all
+||pomoc-poczta-regulamin.com.pl^$all
+||pomoc-poczta-regulamin.pl^$all
 ||pomoc-poczta.online^$all
 ||pomoc-poczta.org.pl^$all
+||pomoc-poczta.waw.pl^$all
 ||pomoc-regulamin.online^$all
 ||pomoc-rodzinom.website^$all
 ||pomoc-windykacja.pl^$all
@@ -6237,6 +6251,7 @@
 ||regulamin-akceptacja.icu^$all
 ||regulamin-email.online^$all
 ||regulamin-email.site^$all
+||regulamin-facebook.pl^$all
 ||regulamin-interia.com^$all
 ||regulamin-mail.online^$all
 ||regulamin-mail.site^$all
@@ -6424,6 +6439,7 @@
 ||showsplash.com^$all
 ||show-auctions.pl^$all
 ||shutadds.w.of.pl^$all
+||sieciowe-potyczki.eu^$all
 ||siedziskozelowe-pl.com^$all
 ||sie-pomaga.net^$all
 ||signifyteleprompt-expired.firebaseapp.com^$all
@@ -6448,6 +6464,7 @@
 ||sklep-bobas.pl^$all
 ||sklep-online.xyz^$all
 ||sklep-play.cc^$all
+||sklep-play.net.pl^$all
 ||sknrtel.com^$all
 ||skrill-assets.com.pl^$all
 ||skuter.c0.pl^$all
