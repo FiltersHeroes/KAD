@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 24 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.24.2
+! Last modified: Thu, 25 Feb 2021, 12:05 UTC+01
+! Version: 2021.2.25.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -677,6 +677,7 @@
 ||halodzwonek.pl^$all
 ||halopozyczka.pl^$all
 ||hapkol.com^$all
+||hart-profil.pl^$all
 ||havaianas-cariocas.de^$all
 ||havemeforfree.com^$all
 ||hawanczykaura.com.pl^$all
@@ -2454,6 +2455,7 @@
 ||allegrolokalnie.info^$all
 ||allegrolokalnie.news^$all
 ||allegrolokalnie.pw^$all
+||allegrolokalnie.services^$all
 ||allegrolokalnie.surf^$all
 ||allegrolokalnie.tk^$all
 ||allegrolokalnie.vip^$all
@@ -3056,12 +3058,14 @@
 ||delivery-safe.org^$all
 ||delivery.olx-pl.*^$all
 ||delivery.olx.checkid.store^$all
+||delivery.olx.confirmation.casa^$all
 ||delivery.olx.oferta.*^$all
 ||delivery.olx.pl.oferta.accountant^$all
 ||delivery.olx.pl.receivement.me^$all
 ||delivery.olx.pl.safepayment.link^$all
 ||delivery.olx.pl.safereceivement.me^$all
 ||delivery.olx.pl.safereceive.bid^$all
+||delivery.olx.safedeal.casa^$all
 ||deliver-post.com^$all
 ||deliwery-olx-pl.info^$all
 ||delliverry-safe.biz^$all
@@ -3423,6 +3427,7 @@
 ||e-zaginieni.eu^$all
 ||e-zaginieni.pl^$all
 ||e-zaginioneosoby.eu^$all
+||f800e6f66d71.ngrok.io^$all
 ||faccebook*.5v.pl^$all
 ||facebbooc.*^$all
 ||facebbook*.5v.pl^$all
@@ -3502,6 +3507,7 @@
 ||faza-wyboru.eu^$all
 ||fb202022.tcp4.me^$all
 ||fbads-manager.net^$all
+||fbbbx.xyz^$all
 ||fbbx.me^$all
 ||fblinker.com^$all
 ||fbloginverifyyy.tcp4.me^$all
@@ -4097,6 +4103,11 @@
 ||inpost.pl-safeorder.live^$all
 ||inpost.pl-safepayouts.store^$all
 ||inpost.pl-safepayouts.surf^$all
+||inpost.pl-safepays.casa^$all
+||inpost.pl-safepays.cyou^$all
+||inpost.pl-safepays.icu^$all
+||inpost.pl-safepays.surf^$all
+||inpost.pl-safepays.work^$all
 ||inpost.pl-safeway.cash^$all
 ||inpost.pl-safeway.link^$all
 ||inpost.pl-safeway.shop^$all
@@ -4245,6 +4256,7 @@
 ||kamilbadnareklivecash.blogspot.com^$all
 ||kamilszymanski.com.pl^$all
 ||kampaniareklamowa.com.pl^$all
+||kandydatura-sieciowa.eu^$all
 ||kandydujmy-wszyscy.eu^$all
 ||karencupp.com^$all
 ||karolbus.pl^$all
@@ -4674,6 +4686,7 @@
 ||momoxxio.com^$all
 ||monfex.com^$all
 ||monitoring-pocztapolska.net^$all
+||monivpl.weebly.com^$all
 ||moontradefx.com^$all
 ||morandons.com^$all
 ||morderstwo24.pieski-pomoc.xyz^$all
@@ -5150,6 +5163,7 @@
 ||olx-pl.oferta-payment.*^$all
 ||olx-pl.oferta-pay.*^$all
 ||olx-pl.oferto.cc^$all
+||olx-pl.oformlenie-uslug.ru^$all
 ||olx-pl.one-pay.xyz^$all
 ||olx-pl.online^$all
 ||olx-pl.oplata-co.tk^$all
@@ -5209,6 +5223,7 @@
 ||olx.deliverys.*^$all
 ||olx.delivery-pl.shop^$all
 ||olx.delivery-pl.store^$all
+||olx.delivery-z.me^$all
 ||olx.delliverry.*^$all
 ||olx.dellivers.*^$all
 ||olx.dellivery.*^$all
@@ -5231,6 +5246,7 @@
 ||olx.new-payment.store^$all
 ||olx.olxoferts.fun^$all
 ||olx.olxoferts.work^$all
+||olx.olxoferts.xyz^$all
 ||olx.oplata-is.com^$all
 ||olx.orderpl.club^$all
 ||olx.orders-pls.biz^$all
@@ -5247,8 +5263,12 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-safepays.cyou^$all
+||olx.pl-safepays.icu^$all
+||olx.pl-safepays.surf^$all
 ||olx.pl-safepays.work^$all
 ||olx.pl-weryfikacja.capital^$all
+||olx.pl-weryfikacja.co^$all
 ||olx.pl-weryfikacja.digital^$all
 ||olx.pl-weryfikacja.tel^$all
 ||olx.pl-*.*^$document
@@ -5258,6 +5278,7 @@
 ||olx.pl.dostawa.casa^$all
 ||olx.pl.dostawa.ltd^$all
 ||olx.pl.dostawa.vip^$all
+||olx.pl.oferta-payment.link^$all
 ||olx.pl.oferta-payment.shop^$all
 ||olx.pl.oferta-payment.today^$all
 ||olx.pl.order3ds.online^$all
@@ -6353,6 +6374,7 @@
 ||serialowo.pl^$all
 ||server031290.nazwa.pl^$all
 ||server167147.nazwa.pl^$all
+||server314517.nazwa.pl^$all
 ||server522523.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
 ||server634288.nazwa.pl^$all
