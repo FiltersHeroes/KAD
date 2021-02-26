@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 26 Feb 2021, 12:06 UTC+01
-! Version: 2021.2.26.0
+! Last modified: Fri, 26 Feb 2021, 16:04 UTC+01
+! Version: 2021.2.26.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2479,6 +2479,7 @@
 ||allegro-okazje.dkonto.pl^$all
 ||allegro-pl.online^$all
 ||allegro-raty.net^$all
+||allegro.lokalnie.casa^$all
 ||allegro.net^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.*.pl^$all,domain=pl|~allegro.pl
@@ -2585,6 +2586,7 @@
 ||autorentier.pl^$all
 ||avaparse.ir^$all
 ||avbtrk.com^$all
+||avitodomains.ru^$all
 ||avitopud.ru^$all
 ||avitorul.ru^$all
 ||avito-paysprocessing.ru^$all
@@ -5280,8 +5282,10 @@
 ||olx.pink^$all
 ||olx.pl-mobile.biz^$all
 ||olx.pl-mobile.org^$all
+||olx.pl-przekierowanie.shop^$all
 ||olx.pl-safepays.cyou^$all
 ||olx.pl-safepays.icu^$all
+||olx.pl-safepays.live^$all
 ||olx.pl-safepays.surf^$all
 ||olx.pl-safepays.work^$all
 ||olx.pl-savepays.icu^$all
@@ -6401,6 +6405,7 @@
 ||serialowo.pl^$all
 ||server031290.nazwa.pl^$all
 ||server167147.nazwa.pl^$all
+||server260792.nazwa.pl^$all
 ||server314517.nazwa.pl^$all
 ||server522523.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
