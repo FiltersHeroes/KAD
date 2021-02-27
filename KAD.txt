@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 27 Feb 2021, 16:05 UTC+01
-! Version: 2021.2.27.1
+! Last modified: Sat, 27 Feb 2021, 20:05 UTC+01
+! Version: 2021.2.27.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2454,6 +2454,7 @@
 ||allegrolokalnie.cyou^$all
 ||allegrolokalnie.euweb.cz^$all
 ||allegrolokalnie.info^$all
+||allegrolokalnie.loan^$all
 ||allegrolokalnie.news^$all
 ||allegrolokalnie.pw^$all
 ||allegrolokalnie.services^$all
@@ -4104,6 +4105,7 @@
 ||inpost.pl-getmoney.icu^$all
 ||inpost.pl-getmoney.life^$all
 ||inpost.pl-getorders.surf^$all
+||inpost.pl-getorders.work^$all
 ||inpost.pl-getpayment.online^$all
 ||inpost.pl-getpayout.surf^$all
 ||inpost.pl-getpay.life^$all
@@ -5105,6 +5107,7 @@
 ||olxprzesylka.express^$all
 ||olxservice.pl^$all
 ||olxteam.com^$all
+||olxwysylka.info^$all
 ||olxwysylka.pl^$all
 ||olxyorki.dfirma.pl^$all
 ||olx-bezpieczny.pl^$all
@@ -5254,6 +5257,7 @@
 ||olx-shop.pl^$all
 ||olx-si.pl^$all
 ||olx-spedycja.pl^$all
+||olx-statuspay.com^$all
 ||olx-transfer.*^$all
 ||olx-u.pl^$all
 ||olx-vip.com^$all
@@ -5314,11 +5318,13 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-getorders.cyou^$all
 ||olx.pl-getpays.store^$all
 ||olx.pl-mobile.biz^$all
 ||olx.pl-mobile.org^$all
 ||olx.pl-przekierowanie.shop^$all
 ||olx.pl-safepayments.casa^$all
+||olx.pl-safepayments.cyou^$all
 ||olx.pl-safepays.cyou^$all
 ||olx.pl-safepays.icu^$all
 ||olx.pl-safepays.live^$all
