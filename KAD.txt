@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 28 Feb 2021, 20:05 UTC+01
-! Version: 2021.2.28.2
+! Last modified: Mon, 01 Mar 2021, 12:06 UTC+01
+! Version: 2021.3.1.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1387,6 +1387,7 @@
 ||ralplauran.com^$all
 ||ramissio.com^$all
 ||randki-sex.com^$all
+||rankingimprez.pl^$all
 ||ratilis.com^$all
 ||rbfrh.com^$all
 ||rbghu.com^$all
@@ -2441,25 +2442,6 @@
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
-||allegrolokalnie.art^$all
-||allegrolokalnie.bar^$all
-||allegrolokalnie.bid^$all
-||allegrolokalnie.casa^$all
-||allegrolokalnie.cloud^$all
-||allegrolokalnie.com.de^$all
-||allegrolokalnie.co.in^$all
-||allegrolokalnie.cyou^$all
-||allegrolokalnie.euweb.cz^$all
-||allegrolokalnie.guru^$all
-||allegrolokalnie.info^$all
-||allegrolokalnie.loan^$all
-||allegrolokalnie.news^$all
-||allegrolokalnie.pw^$all
-||allegrolokalnie.services^$all
-||allegrolokalnie.surf^$all
-||allegrolokalnie.tk^$all
-||allegrolokalnie.vip^$all
-||allegrolokalnie.work^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegroloklinie-oferta*.xyz^$all
 ||allegrosklep.online^$all
@@ -2479,6 +2461,7 @@
 ||allegro-pl.online^$all
 ||allegro-raty.net^$all
 ||allegro.lokalnie.casa^$all
+||allegro.lokalnie.digital^$all
 ||allegro.lokalnie.work^$all
 ||allegro.net^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
@@ -3056,6 +3039,7 @@
 ||deliverry-safe.info^$all
 ||deliverry-safe.org^$all
 ||delivery2you.page.link^$all
+||deliverysecure.club^$all
 ||deliverysecure.org^$all
 ||delivery-olx-polska.000webhostapp.com^$all
 ||delivery-olx.ml^$all
@@ -3440,6 +3424,7 @@
 ||facebbooc.*^$all
 ||facebbook*.5v.pl^$all
 ||faceboobko.*.*^$all
+||facebookcom-43632337.techsso.com^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-pl.eu^$all
@@ -4085,8 +4070,9 @@
 ||inpost.orders-pls.live^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
-||inpost.pl-*.*^$doc
+||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
+||inpost.polska-dostawa.digital^$all
 ||inpost.pw^$all
 ||inpost.tech^$all
 ||inpost.us^$all
@@ -4608,6 +4594,9 @@
 ||millionways.duckdns.org^$all
 ||milobrowns-company.com^$all
 ||milosc.co^$all
+||ministerstwofinans.wixsite.com^$all
+||ministerstwo-finan5.wixsite.com^$all
+||ministerstwo-finan.wixsite.com^$all
 ||miroslawklos.pl^$all
 ||miserableoverall.com^$all
 ||mitoteam.com^$all
@@ -5061,6 +5050,7 @@
 ||olx-deliver.*^$all
 ||olx-dostava.*^$all
 ||olx-dostawa792.top^$all
+||olx-dostawa.art^$all
 ||olx-dostawa.*^$all
 ||olx-dostawke.pl^$all
 ||olx-dostawk.pl^$all
@@ -5243,8 +5233,11 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-getdeliveries.icu^$all
+||olx.pl-getdeliveries.work^$all
 ||olx.pl-getorders.cyou^$all
 ||olx.pl-getpays.store^$all
+||olx.pl-id43261.me^$all
 ||olx.pl-mobile.biz^$all
 ||olx.pl-mobile.org^$all
 ||olx.pl-przekierowanie.shop^$all
@@ -5275,6 +5268,7 @@
 ||olx.pl.order3ds.online^$all
 ||olx.pl.paysend.work^$all
 ||olx.pl.safepay.icu^$all
+||olx.pl.safety.oferta-payment.link^$all
 ||olx.pl.safe.oferta-payment.me^$all
 ||olx.pl.*.*^$document
 ||olx.poland-orders.shop^$all
@@ -5325,6 +5319,7 @@
 ||onet-news.you2.pl^$all
 ||onet-nowosci.xyz^$all
 ||onet-nowosc.xyz^$all
+||onet-o24.herokuapp.com^$all
 ||onet-online.pl^$all
 ||onet-poznan.xyz^$all
 ||onet-praca.online^$all
@@ -5895,6 +5890,7 @@
 ||poland-dostawa.com^$all
 ||poland-oferta.live^$all
 ||poland-oferta.shop^$all
+||polarizeshop.com^$all
 ||policja24info.pl.d103wh.d2.cz^$all
 ||policy-secure-account.com^$all
 ||policzmy-glosujemy.eu^$all
@@ -6485,6 +6481,7 @@
 ||sne.bydgoszcz.pl^$all
 ||sniadaniowaklasa.pl^$all
 ||socksonclick.com^$all
+||sofaprojekt.pl^$all
 ||soft4click.com^$all
 ||softmania.pl^$all
 ||softsmart.mobi^$all
@@ -6889,6 +6886,7 @@
 ||unlimited.movies.and.series.netflix.irsa-art.ir^$all
 ||unnathimilk.com^$all
 ||unsubscribe.vomeo8wflpty52u.neyazco.ir^$all
+||upcty2.wixsite.com^$all
 ||updatepolishwebmail.weebly.com^$all
 ||updateservicesverification.web.app^$all
 ||update-1.com^$all
