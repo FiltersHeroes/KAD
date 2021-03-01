@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 01 Mar 2021, 16:04 UTC+01
-! Version: 2021.3.1.1
+! Last modified: Mon, 01 Mar 2021, 20:06 UTC+01
+! Version: 2021.3.1.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3051,6 +3051,7 @@
 ||delivery.olx.confirmation.casa^$all
 ||delivery.olx.oferta.*^$all
 ||delivery.olx.pl-confirmation.digital^$all
+||delivery.olx.pl-confirmation.services^$all
 ||delivery.olx.pl.oferta.accountant^$all
 ||delivery.olx.pl.receivement.me^$all
 ||delivery.olx.pl.safepayment.link^$all
@@ -3239,6 +3240,7 @@
 ||dtmx.pl^$all
 ||dulawa.pl^$all
 ||dultrasolutions.duckdns.org^$all
+||dutchaparel.com^$all
 ||duzysklep.com^$all
 ||dworzec2.webd.pro^$all
 ||dworzecfakt.*^$all
@@ -3698,6 +3700,7 @@
 ||gartoninvest.co^$all
 ||gastrohurt.neostrada.pl^$all
 ||gazetabracka.eu^$all
+||gazetalegnicka.xyz^$all
 ||gazetalublin.pl^$all
 ||gazetalubuski.pl^$all
 ||gazetamazowska.eu^$all
@@ -3707,6 +3710,7 @@
 ||gazetapolska.org.pl^$all
 ||gazetapucka.pl^$all
 ||gazetasasiedzka.eu^$all
+||gazetaswietokrzyska.xyz^$all
 ||gazetatymczasem77.online^$all
 ||gazetawyborcza24.eu^$all
 ||gazetawyborcza.com.pl^$all
@@ -4071,6 +4075,7 @@
 ||inpost.orders-pls.live^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
+||inpost.pl-savepayout.work^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polska-dostawa.digital^$all
@@ -4684,6 +4689,7 @@
 ||m-facebook.ct8.pl^$all
 ||m-instagram.org^$all
 ||m-olx-oferta.name^$all
+||m.delivery.olx.pl-confirmation.services^$all
 ||m.delivery.olx.pl.oferta.accountant^$all
 ||nabijaj-internetowo.eu^$all
 ||nachrichten24de.dfirma.pl^$all
@@ -5262,6 +5268,7 @@
 ||olx.pl.bezpieczenstwo24.info^$all
 ||olx.pl.bezpieczenstwo24.site^$all
 ||olx.pl.delivery-transit.xyz^$all
+||olx.pl.delivery.oferta-payment.link^$all
 ||olx.pl.dostawa.casa^$all
 ||olx.pl.dostawa.ltd^$all
 ||olx.pl.dostawa.vip^$all
@@ -5277,6 +5284,7 @@
 ||olx.poland-orders.shop^$all
 ||olx.polska-dostawa.biz^$all
 ||olx.polska-dostawa.ink^$all
+||olx.polska-dostawa.wiki^$all
 ||olx.polska-oferta.cyou^$all
 ||olx.polska-oferta.fun^$all
 ||olx.polska-oferta.icu^$all
@@ -5836,6 +5844,7 @@
 ||pocztapolski.com^$all
 ||pocztapomoc.com.pl^$all
 ||pocztaregulamin.link^$all
+||pocztasecurityadminunit.moonfruit.com^$all
 ||pocztasecurityunit.moonfruit.com^$all
 ||pocztasystemhelpdesk2098.000webhostapp.com^$all
 ||pocztasystem-adminhelpdesk990.000webhostapp.com^$all
@@ -7257,6 +7266,7 @@
 ||your-movies.pl^$all
 ||yrehrher.001www.com^$all
 ||yuppipuppy.com^$all
+||z0o.cc^$all
 ||za10groszy.pl^$all
 ||zadecyduj-ustalaj.eu^$all
 ||zaginieni24.pl^$all
