@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 01 Mar 2021, 20:06 UTC+01
-! Version: 2021.3.1.2
+! Last modified: Tue, 02 Mar 2021, 12:06 UTC+01
+! Version: 2021.3.2.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1736,6 +1736,7 @@
 ||trychologos.pl^$all
 ||tuchos.pl^$all
 ||tukociel.pl^$all
+||tunele-sklep.com^$all
 ||turboostrowiec.pl^$all
 ||turystyczne-suwalki.pl^$all
 ||turystykapolska.com.pl^$all
@@ -2458,6 +2459,7 @@
 ||allegro-m.pl^$all
 ||allegro-ogloszenia.you2.pl^$all
 ||allegro-okazje.dkonto.pl^$all
+||allegro-pl.lokalnie.digital^$all
 ||allegro-pl.online^$all
 ||allegro-raty.net^$all
 ||allegro.lokalnie.casa^$all
@@ -2489,6 +2491,7 @@
 ||ampglobalfx.com^$all
 ||amu-edu-pl.ew.r.appspot.com^$all
 ||amzhedgefund.com^$all
+||amzstudy.com^$all
 ||anabim.com^$all
 ||andekkurier.org^$all
 ||androidsecurityplus.com^$all
@@ -2723,6 +2726,7 @@
 ||bozenan.swk.vectranet.pl^$all
 ||bqtsystemapp.com^$all
 ||bramka-sms-za-darmo.pl^$all
+||brand.olxbank.bar^$all
 ||brightfinance.co^$all
 ||brikee.com^$all
 ||britneyspears.website.pl^$all
@@ -3621,6 +3625,7 @@
 ||folia-hydrofobowa-pl.com^$all
 ||followergods.com^$all
 ||follow-service-your-account-pages.my.id^$all
+||food-eng.online^$all
 ||food-voucher.com^$all
 ||fooledbeer.xyz^$all
 ||forcetowerinvestors.com^$all
@@ -3962,6 +3967,7 @@
 ||ilink.monster^$all
 ||ilink.services^$all
 ||ilink.surf^$all
+||ilink.uno^$all
 ||ilovemobi.com^$all
 ||iluzja.pl^$all
 ||imetinyang.za.pl^$all
@@ -4075,10 +4081,12 @@
 ||inpost.orders-pls.live^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
+||inpost.pl-savepayouts.shop^$all
 ||inpost.pl-savepayout.work^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polska-dostawa.digital^$all
+||inpost.polska-dostawa.life^$all
 ||inpost.pw^$all
 ||inpost.tech^$all
 ||inpost.us^$all
@@ -4701,6 +4709,7 @@
 ||nadhirotultaqwa.com^$all
 ||nadziejjaniegasnie.seohost.com.pl^$all
 ||nagrania-absurdalne.dfirma.pl^$all
+||nagrania-informacje24.eu^$all
 ||nagranie-tvn.dfirma.pl^$all
 ||nagranie-tv.dfirma.pl^$all
 ||nagroda-sms.pl^$all
@@ -4804,6 +4813,7 @@
 ||niemozemyznalezc.website^$all
 ||niepokonane-dzieciaki.eu^$all
 ||nieradzimysobie.seohost.com.pl^$all
+||nieuciekaj.online^$all
 ||niezabardzowiadomo.online^$all
 ||niezalezna.dfirma.pl^$all
 ||nieziemskie-rabaty.com^$all
@@ -5031,6 +5041,7 @@
 ||olxpol.info^$all
 ||olxpotwierdzenie.pl^$all
 ||olxprzesylka.express^$all
+||olxsafepay.pl^$all
 ||olxservice.pl^$all
 ||olxteam.com^$all
 ||olxwysylka.info^$all
@@ -5256,6 +5267,7 @@
 ||olx.pl-safepays.surf^$all
 ||olx.pl-safepays.work^$all
 ||olx.pl-safety.oferta-payment.link^$all
+||olx.pl-savepayouts.shop^$all
 ||olx.pl-savepayouts.surf^$all
 ||olx.pl-savepays.icu^$all
 ||olx.pl-savepays.surf^$all
@@ -6433,6 +6445,7 @@
 ||showsplash.com^$all
 ||show-auctions.pl^$all
 ||shutadds.w.of.pl^$all
+||sieciowe-losy.eu^$all
 ||sieciowe-potyczki.eu^$all
 ||sieciowe-wygrane.eu^$all
 ||siedziskozelowe-pl.com^$all
@@ -6591,6 +6604,7 @@
 ||start.webdesignersclub.net^$all
 ||staryspichrz.pl^$all
 ||star-m.shop^$all
+||stational-danger.000webhostapp.com^$all
 ||status24.5p.pl^$all
 ||status.xn.pl^$all
 ||steamcammunity.com^$all
@@ -6851,6 +6865,7 @@
 ||twoja-decyzjnosc.eu^$all
 ||twoja-fota.p33p.eu^$all
 ||twojebony.com.pl^$all
+||twoje-fakty.online^$all
 ||twoje-foty.eu^$all
 ||twoje-miasto.dfirma.pl^$all
 ||twoje-miasto.k99k.com.pl^$all
