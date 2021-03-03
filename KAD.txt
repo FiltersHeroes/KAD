@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 02 Mar 2021, 20:05 UTC+01
-! Version: 2021.3.2.2
+! Last modified: Wed, 03 Mar 2021, 12:06 UTC+01
+! Version: 2021.3.3.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3123,6 +3123,7 @@
 ||dnmultiglobal.duckdns.org^$all
 ||dnsfordomains.ru^$all
 ||dnw5n74x7xkb4qg.surrterreproperties.com^$all
+||do8o0dvcbq05l.cloudfront.net^$all
 ||do59b9xbeli3i.cloudfront.net^$all
 ||dobierajmy-wygranych.eu^$all
 ||dobrapolozna.pl^$all
@@ -3715,6 +3716,7 @@
 ||gazetamazowska.eu^$all
 ||gazetamazowska.pl^$all
 ||gazetamazowsze.eu^$all
+||gazetaopolska.xyz^$all
 ||gazetapolska.hoste.pl^$all
 ||gazetapolska.org.pl^$all
 ||gazetapucka.pl^$all
@@ -3722,6 +3724,7 @@
 ||gazetaswietokrzyska.xyz^$all
 ||gazetaszczecinska.xyz^$all
 ||gazetatymczasem77.online^$all
+||gazetawroclawska.xyz^$all
 ||gazetawyborcza24.eu^$all
 ||gazetawyborcza.com.pl^$all
 ||gazeta-ciekawostki.xyz^$all
@@ -3908,6 +3911,7 @@
 ||hosting2192940.online.pro^$all
 ||hosting*.online.pro^$document
 ||hostkrd.ovh^$all
+||hostname24.eu^$all
 ||hostplik.pl^$all
 ||hostujmy.pl^$all
 ||hotball.top^$all
@@ -4062,6 +4066,7 @@
 ||inpostkode-pl.com^$all
 ||inpostkode.com^$all
 ||inpostmobile.net^$all
+||inpostmobile.org^$all
 ||inpostodbior.com^$all
 ||inpostodkaz.net^$all
 ||inpost-app.me^$all
@@ -5298,6 +5303,7 @@
 ||olx.pl.dostawa.casa^$all
 ||olx.pl.dostawa.ltd^$all
 ||olx.pl.dostawa.vip^$all
+||olx.pl.oferta-payment.club^$all
 ||olx.pl.oferta-payment.link^$all
 ||olx.pl.oferta-payment.shop^$all
 ||olx.pl.oferta-payment.today^$all
@@ -5307,6 +5313,7 @@
 ||olx.pl.safety.oferta-payment.link^$all
 ||olx.pl.safe.oferta-payment.me^$all
 ||olx.pl.*.*^$document
+||olx.poland-ofer.me^$all
 ||olx.poland-orders.shop^$all
 ||olx.polska-dostawa.biz^$all
 ||olx.polska-dostawa.ink^$all
@@ -5436,6 +5443,7 @@
 ||optimalpoland.pl^$all
 ||optminers.com^$all
 ||orange-kodzik.890m.com^$all
+||order-secure.biz^$all
 ||organicmediasolution.com^$all
 ||organizacja-spoleczna.eu^$all
 ||organizuj-konkursy.eu^$all
@@ -5506,6 +5514,7 @@
 ||paczkomat24.uno^$all
 ||paczkomatmobile.com^$all
 ||paczkomatyapp.com^$all
+||paczkomatymobile.net^$all
 ||paczkomaty-inpost.com^$all
 ||paczkomaty-pl.tk^$all
 ||paczkomaty.app^$all
@@ -5825,6 +5834,7 @@
 ||pl.medic-reporters.com^
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
+||pl.oferta-olx.net^$all
 ||pl.oferto.cc^$all
 ||pl.oferto.org^$all
 ||pl.oix-pay.com^$all
@@ -5956,6 +5966,7 @@
 ||polska24.eu^$all
 ||polska24.serwerplus.pl^$all
 ||polskadziennik.pl^$all
+||polskagazeta.xyz^$all
 ||polskainfo.co.pl^$all
 ||polskainfo.nbhost.pl^$all
 ||polskanews.eu^$all
@@ -6407,6 +6418,7 @@
 ||secure-order.info^$all
 ||secure-order.org^$all
 ||secure-payuser01.serveirc.com^$all
+||secure-safety.su^$all
 ||secure.mwwi.pl^$all
 ||securityadminhelpunit.moonfruit.com^$all
 ||security-update-required.com^$all
@@ -7400,6 +7412,7 @@
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
 ||zwieksz-rozmiar.com^$all
+||zyzlk.com^$all
 ||z-kraju.co.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
