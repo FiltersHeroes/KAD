@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 04 Mar 2021, 20:05 UTC+01
-! Version: 2021.3.4.2
+! Last modified: Thu, 04 Mar 2021, 22:31 UTC+00
+! Version: 2021.3.4.3
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -392,7 +392,6 @@
 ||dlagier.com^$all
 ||dlaturystow.com.pl^$all
 ||dlmyfile.com^$all
-||dlx.com.pl^$all
 ||dnirownosci.pl^$all
 ||dobraplota.pl^$all
 ||dobrapraktykakk.pl^$all
@@ -490,6 +489,7 @@
 ||erunner.pl^$all
 ||esamochod.pl^$all
 ||esa-ochrona.pl^$all
+||essonne11.com^$all
 ||estelaz.pl^$all
 ||esthetiquebazaar.pl^$all
 ||esyfloresyonline.pl^$all
@@ -625,9 +625,12 @@
 ||geodeta-lodz.pl^$all
 ||geokomp.com.pl^$all
 ||geovisionpolska.pl^$all
+||geoxpolska.com^$all
+||geoxsklep.com^$all
 ||gepard-mobilian.pl^$all
 ||getcouponsfast.com^$all
 ||gethc.pl^$all
+||ggetlbd.com^$all
 ||gikon.pl^$all
 ||gim2olkusz.pl^$all
 ||gim6-rzeszow.pl^$all
@@ -686,6 +689,7 @@
 ||health-partner.net^$all
 ||hejdeals.pl^$all
 ||hellbellas.pl^$all
+||henhaokanq.com^$all
 ||herbabyqba.pl^$all
 ||herbalife.pl^$all
 ||herinstastyle.com^$all
@@ -963,6 +967,7 @@
 ||mandldental.com^$all
 ||mania-perfum.pl^$all
 ||manufakturazmyslow.pl^$all
+||maralago-pl.com^$all
 ||marebalticum.pl^$all
 ||marekporwol.pl^$all
 ||marian-wasilewski.pl^$all
@@ -1068,6 +1073,7 @@
 ||musika.pl^$all
 ||muverbo.pl^$all
 ||mydates.com^$all
+||myrobotboy.com^$all
 ||myroomdesign.pl^$all
 ||mysafemarket.com^$all
 ||myway.com^$all
@@ -1244,6 +1250,7 @@
 ||pinapple.pl^$all
 ||pinka.com.pl^$all
 ||pinkies.pl^$all
+||piotrautoserwis.pl^$all
 ||piritto5.com^$all
 ||pitbull.ek1.pl^$all
 ||piwiarniagdynia.pl^$all
@@ -1607,6 +1614,7 @@
 ||stopkomornikowi.pl^$all
 ||stoppodzialom.pl^$all
 ||stop-gmo.pl^$all
+||stores.smobyttl.cc^$all
 ||storq.pl^$all
 ||stotom.pl^$all
 ||strefaucznia.com.pl^$all
@@ -1738,7 +1746,6 @@
 ||trychologos.pl^$all
 ||tuchos.pl^$all
 ||tukociel.pl^$all
-||tunele-sklep.com^$all
 ||turboostrowiec.pl^$all
 ||turystyczne-suwalki.pl^$all
 ||turystykapolska.com.pl^$all
@@ -1768,6 +1775,7 @@
 ||uksstrzalwodzislaw.pl^$all
 ||ukssvida.pl^$all
 ||ultratrck.com^$all
+||umelong.pl^$all
 ||unhallowed.pl^$all
 ||unipics.pl^$all
 ||unmillondeutilidades.com^$all
@@ -2355,7 +2363,6 @@
 ||add-ssl.com^$all
 ||adestudio.w8w.pl^$all
 ||adkokurier.org^$all
-||admwarszawa.pl^$all
 ||adobe.5v.pl^$all
 ||adopting.vot.pl^$all
 ||adoptuj.edl.pl^$all
@@ -4702,7 +4709,6 @@
 ||moontradefx.com^$all
 ||morandons.com^$all
 ||morderstwo24.pieski-pomoc.xyz^$all
-||moto-agro.pl^$all
 ||mountainhotel.it^$all
 ||moviemediaz.com^$all
 ||movienet.pl^$all
@@ -5299,45 +5305,6 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
-||olx.pl-1514632861.site^$all
-||olx.pl-cash.cyou^$all
-||olx.pl-cash.work^$all
-||olx.pl-cash.xyz^$all
-||olx.pl-getdeliveries.icu^$all
-||olx.pl-getdeliveries.work^$all
-||olx.pl-getorders.cyou^$all
-||olx.pl-getpays.store^$all
-||olx.pl-id43261.me^$all
-||olx.pl-id64781.me^$all
-||olx.pl-mobile.biz^$all
-||olx.pl-mobile.org^$all
-||olx.pl-przekierowanie.shop^$all
-||olx.pl-safecash.cyou^$all
-||olx.pl-safepayments.casa^$all
-||olx.pl-safepayments.cyou^$all
-||olx.pl-safepayments.icu^$all
-||olx.pl-safepayments.surf^$all
-||olx.pl-safepayments.work^$all
-||olx.pl-safepays.cyou^$all
-||olx.pl-safepays.icu^$all
-||olx.pl-safepays.live^$all
-||olx.pl-safepays.surf^$all
-||olx.pl-safepays.work^$all
-||olx.pl-safety.oferta-payment.link^$all
-||olx.pl-safe.cyou^$all
-||olx.pl-safe.xyz^$all
-||olx.pl-savepayouts.shop^$all
-||olx.pl-savepayouts.surf^$all
-||olx.pl-savepays.icu^$all
-||olx.pl-savepays.surf^$all
-||olx.pl-save.work^$all
-||olx.pl-save.xyz^$all
-||olx.pl-weryfikacja.capital^$all
-||olx.pl-weryfikacja.co^$all
-||olx.pl-weryfikacja.digital^$all
-||olx.pl-weryfikacja.tel^$all
-||olx.pl-wyjazd.club^$all
-||olx.pl-zaplata.site^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
 ||olx.pl.bezpieczenstwo24.site^$all
@@ -7366,6 +7333,7 @@
 ||xn--pasaer-spb.pl^$all
 ||xn--polskagwat24-*.*^$all
 ||xpressoptions247.com^$all
+||xref.icu^$all
 ||x-alp.pl^$all
 ||x-hosepl2.com^$all
 ||yellownet.pl^$all
