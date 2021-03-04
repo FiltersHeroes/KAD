@@ -16,6 +16,7 @@
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
+||xref.icu^$all
 ||0lx.group^$all
 ||0pen.page^$all
 ||0xi.com.pl^$all
@@ -2452,7 +2453,6 @@
 ||moontradefx.com^$all
 ||morandons.com^$all
 ||morderstwo24.pieski-pomoc.xyz^$all
-
 ||mountainhotel.it^$all
 ||moviemediaz.com^$all
 ||movienet.pl^$all
