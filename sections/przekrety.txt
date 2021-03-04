@@ -16,7 +16,6 @@
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
-||xref.icu^$all
 ||0lx.group^$all
 ||0pen.page^$all
 ||0xi.com.pl^$all
@@ -106,7 +105,6 @@
 ||add-ssl.com^$all
 ||adestudio.w8w.pl^$all
 ||adkokurier.org^$all
-
 ||adobe.5v.pl^$all
 ||adopting.vot.pl^$all
 ||adoptuj.edl.pl^$all
@@ -3049,7 +3047,6 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
-
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
 ||olx.pl.bezpieczenstwo24.site^$all
@@ -5078,6 +5075,7 @@
 ||xn--pasaer-spb.pl^$all
 ||xn--polskagwat24-*.*^$all
 ||xpressoptions247.com^$all
+||xref.icu^$all
 ||x-alp.pl^$all
 ||x-hosepl2.com^$all
 ||yellownet.pl^$all
