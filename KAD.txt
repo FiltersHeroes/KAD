@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 04 Mar 2021, 16:06 UTC+01
-! Version: 2021.3.4.1
+! Last modified: Thu, 04 Mar 2021, 20:05 UTC+01
+! Version: 2021.3.4.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3066,6 +3066,7 @@
 ||delivery.olx.confirmation.casa^$all
 ||delivery.olx.oferta.*^$all
 ||delivery.olx.pl-confirmation.digital^$all
+||delivery.olx.pl-confirmation.link^$all
 ||delivery.olx.pl-confirmation.services^$all
 ||delivery.olx.pl.oferta.accountant^$all
 ||delivery.olx.pl.receivement.me^$all
@@ -5181,6 +5182,7 @@
 ||olx-pl.bezpieczenstwo24.com^$all
 ||olx-pl.cc^$all
 ||olx-pl.com-*.*^$all
+||olx-pl.depget.com^$all
 ||olx-pl.epayments-bank.ml^$all
 ||olx-pl.eupay.website^$all
 ||olx-pl.eu^$all
@@ -5298,6 +5300,8 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-1514632861.site^$all
+||olx.pl-cash.cyou^$all
+||olx.pl-cash.work^$all
 ||olx.pl-cash.xyz^$all
 ||olx.pl-getdeliveries.icu^$all
 ||olx.pl-getdeliveries.work^$all
@@ -5308,6 +5312,7 @@
 ||olx.pl-mobile.biz^$all
 ||olx.pl-mobile.org^$all
 ||olx.pl-przekierowanie.shop^$all
+||olx.pl-safecash.cyou^$all
 ||olx.pl-safepayments.casa^$all
 ||olx.pl-safepayments.cyou^$all
 ||olx.pl-safepayments.icu^$all
@@ -5359,6 +5364,7 @@
 ||olx.polska-dostawa.biz^$all
 ||olx.polska-dostawa.ink^$all
 ||olx.polska-dostawa.wiki^$all
+||olx.polska-oferda.xyz^$all
 ||olx.polska-oferta.cyou^$all
 ||olx.polska-oferta.fun^$all
 ||olx.polska-oferta.icu^$all
@@ -5631,6 +5637,7 @@
 ||pay01-olx.pl^$all
 ||pay2me.pl^$all
 ||pay04-olx.pl^$all
+||pay05-olx.pl^$all
 ||pay24.com.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -5988,6 +5995,7 @@
 ||pogotowie.pcserwis.c0.pl^$all
 ||pojadetam.pl^$all
 ||pojmujmy-wszystko.eu^$all
+||pokaz-lojalnosc.eu^$all
 ||polaczenie.xn.pl^$all
 ||poland-dostawa.com^$all
 ||poland-oferta.live^$all
@@ -6832,6 +6840,7 @@
 ||temperaturnik.com^$all
 ||tempogody.com^$all
 ||temporary.nsx.pl^$all
+||teologianaweb.com.br^$all
 ||tepey.net^$all
 ||tepremoe.mypi.co^$all
 ||termin-odbioru.fun^$all
