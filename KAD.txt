@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 05 Mar 2021, 16:05 UTC+01
-! Version: 2021.3.5.1
+! Last modified: Fri, 05 Mar 2021, 20:05 UTC+01
+! Version: 2021.3.5.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2293,6 +2293,7 @@
 ||2supermocna-tasma-klejaca-pl.com^$all
 ||2-remove-virus.com^$all
 ||02-wiadomosci.com.pl^$all
+||03e1i.csb.app^$all
 ||3fazowa-ostrzalka-do-nozy-pl.com^$all
 ||3filmy.com^$all
 ||3w2k701z6i94wgr.choobin-co.ir^$all
@@ -3371,6 +3372,7 @@
 ||eska-tv.dfirma.pl^$all
 ||espaylink.net^$all
 ||esterakoty.pl^$all
+||etap-konkursiku.eu^$all
 ||euroausili.it^$all
 ||eurocarsped.com^$all
 ||eurosprinthiker.pl^$all
@@ -3894,6 +3896,7 @@
 ||haidangviet.vn^$all
 ||hajoopteg.com^$all
 ||hanabishi.net^$all
+||handel24.cal24.pl^$all
 ||handelpro.com^$all
 ||handelpro.vip^$all
 ||handel-pro.site^$all
@@ -4130,6 +4133,14 @@
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
 ||inpost.pl-cash.xyz^$all
+||inpost.pl-getcash.cyou^$all
+||inpost.pl-getcash.xyz^$all
+||inpost.pl-getmoney.cyou^$all
+||inpost.pl-receive.cyou^$all
+||inpost.pl-receive.store^$all
+||inpost.pl-receive.work^$all
+||inpost.pl-receive.xyz^$all
+||inpost.pl-savecash.store^$all
 ||inpost.pl-savepayouts.shop^$all
 ||inpost.pl-savepayouts.store^$all
 ||inpost.pl-savepayout.work^$all
@@ -4137,6 +4148,7 @@
 ||inpost.poland-orders.life^$all
 ||inpost.polska-dostawa.digital^$all
 ||inpost.polska-dostawa.life^$all
+||inpost.polska-oferda.store^$all
 ||inpost.pw^$all
 ||inpost.tech^$all
 ||inpost.us^$all
@@ -5044,6 +5056,7 @@
 ||olxbank.bid^$all
 ||olxbank.casa^$all
 ||olxbank.cc^$all
+||olxbank.co^$all
 ||olxbank.me^$all
 ||olxdostawa-pay.pl^$all
 ||olxdostawa.*^$all
@@ -5318,6 +5331,13 @@
 ||olx.pink^$all
 ||olx.pl-1614874633.site^$all
 ||olx.pl-1614874634.site^$all
+||olx.pl-getcash.cyou^$all
+||olx.pl-getcash.xyz^$all
+||olx.pl-getmoney.cyou^$all
+||olx.pl-receive.cyou^$all
+||olx.pl-receive.store^$all
+||olx.pl-receive.work^$all
+||olx.pl-receive.xyz^$all
 ||olx.pl-savecash.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
@@ -5346,6 +5366,7 @@
 ||olx.polska-dostawa.ink^$all
 ||olx.polska-dostawa.wiki^$all
 ||olx.polska-oferda.site^$all
+||olx.polska-oferda.store^$all
 ||olx.polska-oferda.xyz^$all
 ||olx.polska-oferta.cyou^$all
 ||olx.polska-oferta.fun^$all
@@ -5942,6 +5963,13 @@
 ||poczta.pl-dostawa.life^$all
 ||poczta.pl-dostawa.live^$all
 ||poczta.pl-dostawa.shop^$all
+||poczta.pl-getcash.cyou^$all
+||poczta.pl-getcash.xyz^$all
+||poczta.pl-getmoney.cyou^$all
+||poczta.pl-receive.cyou^$all
+||poczta.pl-receive.store^$all
+||poczta.pl-receive.work^$all
+||poczta.pl-receive.xyz^$all
 ||poczta.pl-safepayments.icu^$all
 ||poczta.pl-safepayments.surf^$all
 ||poczta.pl-safepayments.work^$all
@@ -6034,6 +6062,7 @@
 ||polska-raport.tk^$all
 ||polska-teraz*.idl.pl^$all
 ||polska--wiadomosci24h.x9.eu^$all
+||polska.wiwi.dev^$all
 ||polskiagazeta24.serwerplus.pl^$all
 ||polskidziennik.dkonto.pl^$all
 ||polskidziennik.pl^$all
@@ -6487,6 +6516,7 @@
 ||server260792.nazwa.pl^$all
 ||server314517.nazwa.pl^$all
 ||server328095.nazwa.pl^$all
+||server401169.nazwa.pl^$all
 ||server410209.nazwa.pl^$all
 ||server517854.nazwa.pl^$all
 ||server522523.nazwa.pl^$all
