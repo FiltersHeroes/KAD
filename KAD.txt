@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 06 Mar 2021, 16:06 UTC+01
-! Version: 2021.3.6.1
+! Last modified: Sat, 06 Mar 2021, 20:06 UTC+01
+! Version: 2021.3.6.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2479,6 +2479,7 @@
 ||allegro-raty.net^$all
 ||allegro.lokalnie.casa^$all
 ||allegro.lokalnie.digital^$all
+||allegro.lokalnie.fun^$all
 ||allegro.lokalnie.work^$all
 ||allegro.net^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
@@ -5341,6 +5342,7 @@
 ||olx.pl-receive.work^$all
 ||olx.pl-receive.xyz^$all
 ||olx.pl-savecash.work^$all
+||olx.pl-savepay.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
 ||olx.pl.bezpieczenstwo24.site^$all
@@ -7336,6 +7338,7 @@
 ||wydzielic-dobroc.eu^$all
 ||wygeneruj.net^$all
 ||wygraj-iphone-x.tujest.pl^$all
+||wygranego-losu.eu^$all
 ||wygrania.com^$all
 ||wygrywa.pl^$all
 ||wyjatek-glosik.eu^$all
