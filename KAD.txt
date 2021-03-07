@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 06 Mar 2021, 20:06 UTC+01
-! Version: 2021.3.6.2
+! Last modified: Sun, 07 Mar 2021, 12:05 UTC+01
+! Version: 2021.3.7.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2480,6 +2480,7 @@
 ||allegro.lokalnie.casa^$all
 ||allegro.lokalnie.digital^$all
 ||allegro.lokalnie.fun^$all
+||allegro.lokalnie.icu^$all
 ||allegro.lokalnie.work^$all
 ||allegro.net^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
@@ -3230,6 +3231,7 @@
 ||dostawa-security.com^$all
 ||dostawa-szybka.com^$all
 ||dostawa-w.pl^$all
+||dostawa.id5271441.biz^$all
 ||dostawa.tech^$all
 ||dostawcze.net.pl^$all
 ||dostawe-olx.pl^$all
@@ -4131,6 +4133,7 @@
 ||inpost.live^$all
 ||inpost.ltd^$all
 ||inpost.orders-pls.live^$all
+||inpost.order-pl.art^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
 ||inpost.pl-cash.xyz^$all
@@ -4146,6 +4149,7 @@
 ||inpost.pl-savepayouts.shop^$all
 ||inpost.pl-savepayouts.store^$all
 ||inpost.pl-savepayout.work^$all
+||inpost.pl-savepays.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polska-dostawa.digital^$all
@@ -5342,6 +5346,7 @@
 ||olx.pl-receive.work^$all
 ||olx.pl-receive.xyz^$all
 ||olx.pl-savecash.work^$all
+||olx.pl-saveorder.work^$all
 ||olx.pl-savepay.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.bezpieczenstwo24.info^$all
@@ -5870,6 +5875,7 @@
 ||pl-olx.safe.oferta-payment.org^$all
 ||pl-olx.site^$all
 ||pl-olx.tech^$all
+||pl-papajohns.fun^$all
 ||pl-payouts.work^$all
 ||pl-platnosci.online^$all
 ||pl-pl-fb.com^$all
@@ -5903,6 +5909,7 @@
 ||pl.oferto.org^$all
 ||pl.oix-pay.com^$all
 ||pl.olxtracking.com^$all
+||pl.olx-deliveri.com^$all
 ||pl.olx-merchant.com^$all
 ||pl.olx-mobil.site^$all
 ||pl.olx-ofert.art^$all
@@ -6139,6 +6146,7 @@
 ||posciele.za.pl^$all
 ||postadzz.000webhostapp.com^$all
 ||postanowienie-wyboru.eu^$all
+||postaraj-pomoc.eu^$all
 ||postbox-24.site^$all
 ||postid-79348548.justgreece.org^$all
 ||postkod.org^$all
@@ -6732,6 +6740,7 @@
 ||steampoweredtrade.com^$all
 ||steam-wallet-gifts.com^$all
 ||steam-wallet-money.com^$all
+||steawcomnunity.com^$all
 ||stefanstrzalkowski.pl^$all
 ||stevemadenpolska.com^$all
 ||stg.charoll.org^$all
