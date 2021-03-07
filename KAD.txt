@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 07 Mar 2021, 16:04 UTC+01
-! Version: 2021.3.7.1
+! Last modified: Sun, 07 Mar 2021, 20:05 UTC+01
+! Version: 2021.3.7.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1274,6 +1274,7 @@
 ||pl.lucybreeze.com^$all
 ||pl.melaleuca.com^$all
 ||pl.store2021.net^$all
+||pl.whokeys.com^$all
 ||pmanager.pl^$all
 ||pobierznet.pl^$all
 ||pobierz-online.co.pl^$all
@@ -3232,6 +3233,7 @@
 ||dostawa-szybka.com^$all
 ||dostawa-w.pl^$all
 ||dostawa.id5271441.biz^$all
+||dostawa.id17356006.info^$all
 ||dostawa.tech^$all
 ||dostawcze.net.pl^$all
 ||dostawe-olx.pl^$all
@@ -5341,6 +5343,8 @@
 ||olx.pl-getcash.cyou^$all
 ||olx.pl-getcash.xyz^$all
 ||olx.pl-getmoney.cyou^$all
+||olx.pl-getorder.cyou^$all
+||olx.pl-oferta.surf^$all
 ||olx.pl-receive.cyou^$all
 ||olx.pl-receive.store^$all
 ||olx.pl-receive.work^$all
@@ -5500,6 +5504,7 @@
 ||oplaty24-kurier.com^$all
 ||opliaty.com^$all
 ||opowiadajmy-glosy.eu^$all
+||oppofregifts.blogspot.com^$all
 ||optimalpoland.pl^$all
 ||optminers.com^$all
 ||orange-kodzik.890m.com^$all
@@ -5653,6 +5658,7 @@
 ||pay04-olx.pl^$all
 ||pay05-olx.pl^$all
 ||pay06-olx.pl^$all
+||pay07-olx.pl^$all
 ||pay24.com.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -5920,6 +5926,7 @@
 ||pl.olx-safe.oferta-payment.org^$all
 ||pl.olx-ship.eu^$all
 ||pl.olx.fsb-pays.tk^$all
+||pl.olx.oferta-payment.cc^$all
 ||pl.olx.oferta-payment.link^$all
 ||pl.olx.oferta-pay.cc^$all
 ||pl.olx.oferta-pay.fun^$all
