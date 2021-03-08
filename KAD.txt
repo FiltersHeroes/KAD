@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 07 Mar 2021, 20:05 UTC+01
-! Version: 2021.3.7.2
+! Last modified: Mon, 08 Mar 2021, 12:05 UTC+01
+! Version: 2021.3.8.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2479,6 +2479,7 @@
 ||allegro-pl.online^$all
 ||allegro-raty.net^$all
 ||allegro.lokalnie.casa^$all
+||allegro.lokalnie.cash^$all
 ||allegro.lokalnie.digital^$all
 ||allegro.lokalnie.fun^$all
 ||allegro.lokalnie.icu^$all
@@ -2720,6 +2721,7 @@
 ||biznesinpro.pl^$all
 ||biznesoweinfo.media.pl^$all
 ||biznesoweinfo.miasta.pl^$all
+||blablocar-pl.site^$all
 ||blackstone500.com^$all
 ||blankiet-wspieraj.eu^$all
 ||blockchainjoblist.com^$all
@@ -3083,6 +3085,7 @@
 ||delivery.olx.oferta.*^$all
 ||delivery.olx.pl-confirmation.digital^$all
 ||delivery.olx.pl-confirmation.link^$all
+||delivery.olx.pl-confirmation.live^$all
 ||delivery.olx.pl-confirmation.services^$all
 ||delivery.olx.pl.oferta.accountant^$all
 ||delivery.olx.pl.receivement.me^$all
@@ -3298,6 +3301,7 @@
 ||dzienniktutaj.site^$all
 ||dziennikuprowadzono.online^$all
 ||dziennikuprowadzono.pl^$all
+||dziennikwirtualny.cal24.pl^$all
 ||dziennik-inf.xyz^$all
 ||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
@@ -4139,14 +4143,22 @@
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
 ||inpost.pl-cash.xyz^$all
+||inpost.pl-deals.surf^$all
+||inpost.pl-dostawa.cyou^$all
 ||inpost.pl-getcash.cyou^$all
 ||inpost.pl-getcash.xyz^$all
 ||inpost.pl-getmoney.cyou^$all
+||inpost.pl-getorder.store^$all
+||inpost.pl-oferta.cyou^$all
+||inpost.pl-oferta.surf^$all
 ||inpost.pl-receive.cyou^$all
 ||inpost.pl-receive.store^$all
 ||inpost.pl-receive.work^$all
 ||inpost.pl-receive.xyz^$all
+||inpost.pl-safely.store^$all
 ||inpost.pl-savecash.store^$all
+||inpost.pl-saveorder.cyou^$all
+||inpost.pl-saveorder.icu^$all
 ||inpost.pl-saveorder.work^$all
 ||inpost.pl-savepayouts.shop^$all
 ||inpost.pl-savepayouts.store^$all
@@ -5132,6 +5144,7 @@
 ||olxwysylka.info^$all
 ||olxwysylka.pl^$all
 ||olxyorki.dfirma.pl^$all
+||olx-banking.me^$all
 ||olx-bezpieczny.pl^$all
 ||olx-biezpieczna-dostawa-pl.biz^$all
 ||olx-b.com^$all
@@ -5143,6 +5156,7 @@
 ||olx-center.me^$all
 ||olx-check.pl^$all
 ||olx-com-id-7211982.online^$all
+||olx-czek.pl^$all
 ||olx-c.pl^$all
 ||olx-delivering.pl^$all
 ||olx-deliverry.info^$all
@@ -5340,16 +5354,30 @@
 ||olx.pink^$all
 ||olx.pl-1614874633.site^$all
 ||olx.pl-1614874634.site^$all
+||olx.pl-deals.surf^$all
+||olx.pl-deals.work^$all
+||olx.pl-deals.xyz^$all
+||olx.pl-dostawa.cyou^$all
 ||olx.pl-getcash.cyou^$all
 ||olx.pl-getcash.xyz^$all
 ||olx.pl-getmoney.cyou^$all
+||olx.pl-getmoney.xyz^$all
 ||olx.pl-getorder.cyou^$all
+||olx.pl-getorder.store^$all
+||olx.pl-getorder.xyz^$all
+||olx.pl-oferta.cyou^$all
 ||olx.pl-oferta.surf^$all
 ||olx.pl-receive.cyou^$all
 ||olx.pl-receive.store^$all
 ||olx.pl-receive.work^$all
 ||olx.pl-receive.xyz^$all
+||olx.pl-safely.cyou^$all
+||olx.pl-safely.store^$all
+||olx.pl-safely.work^$all
+||olx.pl-safely.xyz^$all
 ||olx.pl-savecash.work^$all
+||olx.pl-saveorder.cyou^$all
+||olx.pl-saveorder.icu^$all
 ||olx.pl-saveorder.work^$all
 ||olx.pl-savepay.xyz^$all
 ||olx.pl-*.*^$document
@@ -5986,15 +6014,18 @@
 ||poczta.pl-getcash.cyou^$all
 ||poczta.pl-getcash.xyz^$all
 ||poczta.pl-getmoney.cyou^$all
+||poczta.pl-getorder.store^$all
 ||poczta.pl-receive.cyou^$all
 ||poczta.pl-receive.store^$all
 ||poczta.pl-receive.work^$all
 ||poczta.pl-receive.xyz^$all
+||poczta.pl-safely.store^$all
 ||poczta.pl-safepayments.icu^$all
 ||poczta.pl-safepayments.surf^$all
 ||poczta.pl-safepayments.work^$all
 ||poczta.pl-safeway.live^$all
 ||poczta.pl-safe.surf^$all
+||poczta.pl-saveorder.icu^$all
 ||poczta.pl-zakupy.work^$all
 ||poczta.ron-mil-pl.site^$all
 ||poczta.wp-pl.eu^$all
@@ -6322,6 +6353,7 @@
 ||puypey.net^$all
 ||pwrk.eu^$all
 ||pzutrasyzdrowia.pl^$all
+||qqqqttt.weebly.com^$all
 ||quartexindustries.com^$all
 ||qubble.com^$all
 ||qubittech.ai^$all
@@ -6520,6 +6552,7 @@
 ||seks-telefon.com^$all
 ||selfieshop.ga^$all
 ||sellrvice.com^$all
+||semmesco.clickrevolver.com^$all
 ||semsanbtccome.site^$all
 ||semsanbtccome.website^$all
 ||send-post.fun^$all
