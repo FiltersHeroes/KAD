@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 08 Mar 2021, 12:05 UTC+01
-! Version: 2021.3.8.0
+! Last modified: Mon, 08 Mar 2021, 16:05 UTC+01
+! Version: 2021.3.8.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2483,9 +2483,11 @@
 ||allegro.lokalnie.digital^$all
 ||allegro.lokalnie.fun^$all
 ||allegro.lokalnie.icu^$all
+||allegro.lokalnie.me^$all
 ||allegro.lokalnie.work^$all
 ||allegro.net^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
+||allegro.pl.lokalnie.me^$all
 ||allegro.pl.*.pl^$all,domain=pl|~allegro.pl
 ||allegro.su^$all
 ||allegro.to^$all
@@ -3160,6 +3162,7 @@
 ||dobrapraca*.ct8.pl^$all
 ||dobra-bramka-sms.pl^$all
 ||dobra-notka.eu^$all
+||dobreplany.com^$all
 ||dobreprogramy.pro^$all
 ||dobre-filmy.pl^$all
 ||dobre-programy.xyz^$all
@@ -3237,6 +3240,7 @@
 ||dostawa-w.pl^$all
 ||dostawa.id5271441.biz^$all
 ||dostawa.id17356006.info^$all
+||dostawa.id63418494.info^$all
 ||dostawa.tech^$all
 ||dostawcze.net.pl^$all
 ||dostawe-olx.pl^$all
@@ -4618,6 +4622,7 @@
 ||marginelite.com^$all
 ||margohack.za.pl^$all
 ||marialoechert.pl^$all
+||mariapolska.pl^$all
 ||marketing-messenger.com^$all
 ||marketplace-olx.pl^$all
 ||marketpluse.com^$all
@@ -5349,6 +5354,7 @@
 ||olx.payment-otrymac.*^$all
 ||olx.paysend.space^$all
 ||olx.pay-euro.eu^$all
+||olx.pay-id65473.me^$all
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
