@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 08 Mar 2021, 16:05 UTC+01
-! Version: 2021.3.8.1
+! Last modified: Mon, 08 Mar 2021, 20:04 UTC+01
+! Version: 2021.3.8.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -5222,6 +5222,7 @@
 ||olx-paysera.pro^$all
 ||olx-paysera.shop^$all
 ||olx-paysera.site^$all
+||olx-paystatus.com^$all
 ||olx-pays.pl^$all
 ||olx-pay-pl.su^$all
 ||olx-pay-system.tk^$all
@@ -5391,6 +5392,7 @@
 ||olx.pl.bezpieczenstwo24.site^$all
 ||olx.pl.delivery-transit.xyz^$all
 ||olx.pl.delivery.oferta-payment.link^$all
+||olx.pl.dostava.store^$all
 ||olx.pl.dostawa.casa^$all
 ||olx.pl.dostawa.ltd^$all
 ||olx.pl.dostawa.vip^$all
@@ -7373,6 +7375,7 @@
 ||wybierz-nagrode.pl^$all
 ||wybierz-wyborce.eu^$all
 ||wyborcy-sprawiedliwi.eu^$all
+||wyborcza.live^$all
 ||wyboru-dokonaj.eu^$all
 ||wybor-podpunktu.eu^$all
 ||wybor-reprezentanta.eu^$all
