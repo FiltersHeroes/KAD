@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 08 Mar 2021, 20:04 UTC+01
-! Version: 2021.3.8.2
+! Last modified: Tue, 09 Mar 2021, 12:05 UTC+01
+! Version: 2021.3.9.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2366,12 +2366,14 @@
 ||add-ssl.com^$all
 ||adestudio.w8w.pl^$all
 ||adkokurier.org^$all
+||adminuprageunit.moonfruit.com^$all
 ||adobe.5v.pl^$all
 ||adopting.vot.pl^$all
 ||adoptuj.edl.pl^$all
 ||adoptuj.pvi.pl^$all
 ||adoutletpl.pl^$all
 ||ads-fb.co^$all
+||adventurous-shrouded-llama.glitch.me^$all
 ||adwokaci-24.pl^$all
 ||adworks.cat^$all
 ||affingindustries.com^$all
@@ -2482,6 +2484,7 @@
 ||allegro.lokalnie.cash^$all
 ||allegro.lokalnie.digital^$all
 ||allegro.lokalnie.fun^$all
+||allegro.lokalnie.holdings^$all
 ||allegro.lokalnie.icu^$all
 ||allegro.lokalnie.me^$all
 ||allegro.lokalnie.work^$all
@@ -2823,6 +2826,7 @@
 ||cats.ugu.pl^$all
 ||cbdnewsdirect.com^$all
 ||cbd-and-seizures.com^$all
+||cco0.cc^$all
 ||ccpgotofuture.ru^$all
 ||ccredits-agricole.com^$all
 ||ccswpsvc.com^$all
@@ -2952,6 +2956,7 @@
 ||coviplex.pl^$all
 ||cowpolsce.xyz^$all
 ||cpagrip.com^$all
+||cr99797.tmweb.ru^$all
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
 ||credit-agricole-fr.de.cool^$all
@@ -3276,6 +3281,7 @@
 ||drapart.org^$all
 ||dreamwoman-finder*.com^$all
 ||drift-innovation.pl^$all
+||droga-dalej.ml^$all
 ||drogeriesms.net^$all
 ||drogowe-akcje.ct8.pl^$all
 ||drunkenboyz.za.pl^$all
@@ -4022,6 +4028,7 @@
 ||ikohs.com^$all
 ||ikoronawirusnews.pl^$all
 ||ilink.bar^$all
+||ilink.cam^$all
 ||ilink.cx^$all
 ||ilink.fun^$all
 ||ilink.icu^$all
@@ -4086,6 +4093,7 @@
 ||info-fakty24.pl^$all
 ||info-inpost.pl^$all
 ||info-miastowe24.club^$all
+||info-sms.su^$all
 ||info.ogloszeniateraz97.club^$all
 ||infromacje24.dfirma.pl^$all
 ||infx.eu^$all
@@ -4370,6 +4378,7 @@
 ||kolor.oq.pl^$all
 ||kolporter24.net^$all
 ||komatireddy.net^$all
+||komendapolska.site^$all
 ||komenda-polska.site^$all
 ||kominkisupra.pl^$all
 ||kommornik.pl^$all
@@ -5378,10 +5387,12 @@
 ||olx.pl-receive.store^$all
 ||olx.pl-receive.work^$all
 ||olx.pl-receive.xyz^$all
+||olx.pl-safedeals.work^$all
 ||olx.pl-safely.cyou^$all
 ||olx.pl-safely.store^$all
 ||olx.pl-safely.work^$all
 ||olx.pl-safely.xyz^$all
+||olx.pl-safe.oferta-payment.cc^$all
 ||olx.pl-savecash.work^$all
 ||olx.pl-saveorder.cyou^$all
 ||olx.pl-saveorder.icu^$all
@@ -5578,6 +5589,7 @@
 ||otube.pl^$document,domain=otube.pl|~uwaga-natretne-reklamy
 ||otymsiemowi.com.pl^$all
 ||ouruk880.cyou^$all
+||outl00k.mfs.gg^$all
 ||overcreative.com^$all
 ||owocny-awansik.eu^$all
 ||owocny-awans.eu^$all
@@ -5695,6 +5707,7 @@
 ||pay05-olx.pl^$all
 ||pay06-olx.pl^$all
 ||pay07-olx.pl^$all
+||pay08-olx.pl^$all
 ||pay24.com.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -5986,6 +5999,7 @@
 ||pobierz-inpost.com^$all
 ||pochwal-glosami.eu^$all
 ||pocketmyponstar.com^$all
+||pockztresmde.cabanova.com^$all
 ||poczta24.me^$all
 ||poczta24.uno^$all
 ||pocztaadminhelpdeskcenter.moonfruit.com^$all
@@ -7568,6 +7582,7 @@
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
 ||zwieksz-rozmiar.com^$all
+||zwrocsluch.site^$all
 ||zyzlk.com^$all
 ||z-kraju.co.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
