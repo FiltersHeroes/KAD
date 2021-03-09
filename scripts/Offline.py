@@ -29,7 +29,6 @@ import urllib3
 import sys
 import re
 import time
-import requests
 
 # specify the url
 subdomains_file = sys.argv[1]
@@ -55,7 +54,7 @@ with open(subdomains_file, "r") as a_file:
             else:
                 data = "Off"
 
-            text = r'Strona zablokowana|Домен припаркован|Blocked|you found a glitch|Nie  znaleziono obiektu|Strona jest zablokowana|Blokada administracyjna|jest utrzymywana na serwerach'
+            text = r'Strona zablokowana|Домен припаркован|Blocked|you found a glitch|Nie znaleziono obiektu|Strona jest zablokowana|Blokada administracyjna|jest utrzymywana na serwerach'
             if re.findall(text, data, flags=re.IGNORECASE):
                 print(line_page.strip()+" | ", data)
             elif page.status == 404:
