@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 09 Mar 2021, 16:05 UTC+01
-! Version: 2021.3.9.1
+! Last modified: Wed, 10 Mar 2021, 12:05 UTC+01
+! Version: 2021.3.10.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1000,6 +1000,7 @@
 ||meblenazamowieniereda.pl^$all
 ||meble-smolec.pl^$all
 ||medcomcenter.pl^$all
+||mediasam.net^$all
 ||mediaserwis24.com^$all
 ||medicalclinic-eu.com^$all
 ||medicare4b.com^$all
@@ -2482,6 +2483,7 @@
 ||allegro-raty.net^$all
 ||allegro.lokalnie.casa^$all
 ||allegro.lokalnie.cash^$all
+||allegro.lokalnie.cyou^$all
 ||allegro.lokalnie.digital^$all
 ||allegro.lokalnie.fun^$all
 ||allegro.lokalnie.holdings^$all
@@ -2685,6 +2687,7 @@
 ||bhpipoz.pl^$all
 ||bidenhascovid19.co^$all
 ||bideronka.is-best.net^$all
+||biedronka2020x1room.pl^$all
 ||biedronka-promocje.eu^$all
 ||bielpak.pl^$all
 ||bignamestanfree.wixsite.com^$all
@@ -3325,6 +3328,7 @@
 ||ebd-cda.pl^$all
 ||ebokpge.live^$all
 ||ebok-poczta.pl^$all
+||ebonplus.com^$all
 ||ebookeo.pl^$all
 ||ecampuskbds.com^$all
 ||eccooutletbuty.pl^$all
@@ -3776,6 +3780,7 @@
 ||gazetapucka.pl^$all
 ||gazetasasiedzka.eu^$all
 ||gazetaslaska.xyz^$all
+||gazetaswidnicka.xyz^$all
 ||gazetaswietokrzyska.xyz^$all
 ||gazetaszczecinska.xyz^$all
 ||gazetatymczasem77.online^$all
@@ -4145,6 +4150,7 @@
 ||inpost.casa^$all
 ||inpost.club^$all
 ||inpost.dev^$all
+||inpost.digital^$all
 ||inpost.getorder-pl.store^$all
 ||inpost.help^$all
 ||inpost.life^$all
@@ -4156,6 +4162,10 @@
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
 ||inpost.pl-cash.xyz^$all
+||inpost.pl-deals.casa^$all
+||inpost.pl-deals.club^$all
+||inpost.pl-deals.cyou^$all
+||inpost.pl-deals.icu^$all
 ||inpost.pl-deals.surf^$all
 ||inpost.pl-dostawa.cyou^$all
 ||inpost.pl-getcash.cyou^$all
@@ -4185,6 +4195,9 @@
 ||inpost.pl-safely.store^$all
 ||inpost.pl-safely.work^$all
 ||inpost.pl-savecash.store^$all
+||inpost.pl-savedeals.store^$all
+||inpost.pl-savedeals.work^$all
+||inpost.pl-savedeals.xyz^$all
 ||inpost.pl-saveorder.cyou^$all
 ||inpost.pl-saveorder.icu^$all
 ||inpost.pl-saveorder.work^$all
@@ -4202,6 +4215,7 @@
 ||inpost.us^$all
 ||inprost24.net^$all
 ||inqost.net^$all
+||instagarm.pl^$all
 ||instagramrule.com^$all
 ||instagramverification-center.com^$all
 ||install.pdfconverterhd.com^$all
@@ -4685,6 +4699,7 @@
 ||medical-library.org^$all
 ||medycyna-naturalna24.com^$all
 ||medycznapolska.pl^$all
+||meet-me-here3.com^$all
 ||megadown.net^$all
 ||megadown.us^$all
 ||megapak24h.pl^$all
@@ -4773,6 +4788,7 @@
 ||moj-olx.me^$all
 ||mokpkovaj-kok.xyz^$all
 ||momoxxio.com^$all
+||money-for-you-*.ru^$all
 ||monfex.com^$all
 ||monitoring-pocztapolska.net^$all
 ||monivpl.weebly.com^$all
@@ -5175,6 +5191,7 @@
 ||olxwysylka.pl^$all
 ||olxyorki.dfirma.pl^$all
 ||olx-banking.me^$all
+||olx-banking.page^$all
 ||olx-bezpieczny.pl^$all
 ||olx-biezpieczna-dostawa-pl.biz^$all
 ||olx-b.com^$all
@@ -5387,6 +5404,10 @@
 ||olx.pink^$all
 ||olx.pl-1614874633.site^$all
 ||olx.pl-1614874634.site^$all
+||olx.pl-deals.casa^$all
+||olx.pl-deals.club^$all
+||olx.pl-deals.cyou^$all
+||olx.pl-deals.icu^$all
 ||olx.pl-deals.surf^$all
 ||olx.pl-deals.work^$all
 ||olx.pl-deals.xyz^$all
@@ -5420,6 +5441,10 @@
 ||olx.pl-safely.xyz^$all
 ||olx.pl-safe.oferta-payment.cc^$all
 ||olx.pl-savecash.work^$all
+||olx.pl-savedeals.store^$all
+||olx.pl-savedeals.surf^$all
+||olx.pl-savedeals.work^$all
+||olx.pl-savedeals.xyz^$all
 ||olx.pl-saveorder.cyou^$all
 ||olx.pl-saveorder.icu^$all
 ||olx.pl-saveorder.work^$all
@@ -5487,6 +5512,7 @@
 ||onetmailsupportsystemnetworks.tk^$all
 ||onetporwanie.*^$all
 ||onetposzukiwani.*^$all
+||onet-24.space^$all
 ||onet-biznesmeni.xyz^$all
 ||onet-biznes.online^$all
 ||onet-biznes.xyz^$all
@@ -6058,6 +6084,10 @@
 ||poczta.interia-pl.online^$all
 ||poczta.interia-pl.site^$all
 ||poczta.interia-pl.space^$all
+||poczta.pl-deals.casa^$all
+||poczta.pl-deals.club^$all
+||poczta.pl-deals.cyou^$all
+||poczta.pl-deals.icu^$all
 ||poczta.pl-dostawa.life^$all
 ||poczta.pl-dostawa.live^$all
 ||poczta.pl-dostawa.shop^$all
@@ -6069,6 +6099,12 @@
 ||poczta.pl-receive.store^$all
 ||poczta.pl-receive.work^$all
 ||poczta.pl-receive.xyz^$all
+||poczta.pl-safedeals.surf^$all
+||poczta.pl-safedeals.work^$all
+||poczta.pl-safedeal.cyou^$all
+||poczta.pl-safedeal.shop^$all
+||poczta.pl-safedeal.surf^$all
+||poczta.pl-safedeal.xyz^$all
 ||poczta.pl-safely.store^$all
 ||poczta.pl-safepayments.icu^$all
 ||poczta.pl-safepayments.surf^$all
@@ -6509,6 +6545,7 @@
 ||rounaut-634f9.web.app^$all
 ||roundcube.pl^$all
 ||round-cub1.web.app^$all
+||rowery-bieznie.com^$all
 ||rozakurier.com^$all
 ||rozakurier.org^$all
 ||rozgrywanie-konkursu.eu^$all
@@ -6593,6 +6630,7 @@
 ||secure-order.org^$all
 ||secure-payuser01.serveirc.com^$all
 ||secure-safety.su^$all
+||secure.bankofamreica-online.helpsuite.kamilogistics.com^$all
 ||secure.mwwi.pl^$all
 ||securityadminhelpunit.moonfruit.com^$all
 ||security-update-required.com^$all
@@ -6727,6 +6765,7 @@
 ||smushgame.com^$all
 ||sne.bydgoszcz.pl^$all
 ||sniadaniowaklasa.pl^$all
+||socialclub55.xyz^$all
 ||socksonclick.com^$all
 ||sofaprojekt.pl^$all
 ||soft4click.com^$all
@@ -6737,6 +6776,7 @@
 ||solarmass.space^$all
 ||solarna-lampa-pl.com^$all
 ||solidinvest.co^$all
+||solny-inhalator-pl.com^$all
 ||somelandingpage.com^$all
 ||songsrsuper.com^$all
 ||sopot-fakt24.pl^$all
@@ -6832,6 +6872,7 @@
 ||steampoweredtrade.com^$all
 ||steam-wallet-gifts.com^$all
 ||steam-wallet-money.com^$all
+||steanccmmunity.com^$all
 ||steawcomnunity.com^$all
 ||stefanstrzalkowski.pl^$all
 ||stevemadenpolska.com^$all
