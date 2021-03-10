@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 10 Mar 2021, 16:04 UTC+01
-! Version: 2021.3.10.1
+! Last modified: Wed, 10 Mar 2021, 20:05 UTC+01
+! Version: 2021.3.10.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4173,6 +4173,14 @@
 ||inpost.pl-dostawa.cyou^$all
 ||inpost.pl-getcash.cyou^$all
 ||inpost.pl-getcash.xyz^$all
+||inpost.pl-getdeal.casa^$all
+||inpost.pl-getdeal.club^$all
+||inpost.pl-getdeal.cyou^$all
+||inpost.pl-getdeal.icu^$all
+||inpost.pl-getdeal.store^$all
+||inpost.pl-getdeal.surf^$all
+||inpost.pl-getdeal.work^$all
+||inpost.pl-getdeal.xyz^$all
 ||inpost.pl-getmoney.cyou^$all
 ||inpost.pl-getorder.store^$all
 ||inpost.pl-oferta.cyou^$all
@@ -5166,6 +5174,7 @@
 ||olxpl.delivery-o.me^$all
 ||olxpl.delivery-pay.fun^$all
 ||olxpl.delivery-pay.pw^$all
+||olxpl.delivery-w.me^$all
 ||olxpl.delivery-z.me^$all
 ||olxpl.deli-very.su^$all
 ||olxpl.e-tracking.net^$all
