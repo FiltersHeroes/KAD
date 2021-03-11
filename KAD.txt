@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 11 Mar 2021, 12:05 UTC+01
-! Version: 2021.3.11.0
+! Last modified: Thu, 11 Mar 2021, 16:05 UTC+01
+! Version: 2021.3.11.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2465,6 +2465,7 @@
 ||allegrolokalnie.club^$all
 ||allegrolokalnie.shop^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
+||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
 ||allegrosklep.online^$all
 ||allegrowork.site^$all
@@ -3802,6 +3803,7 @@
 ||gazeta-polska24.99e.pl^$all
 ||gazeta-polska24.vdl.pl^$all
 ||gazeta-potwierdz.co.pl^$all
+||gazeta.kutno.pl^$all
 ||gazeta.pl.com.bz^$all
 ||gazetka24.laohost.net^$all
 ||gazetkamazowsze.pl^$all
@@ -4098,6 +4100,7 @@
 ||informator-reg.site^$all
 ||informujemy.eu^$all
 ||inform*.is-best.net^$all
+||inform-sms.pw^$all
 ||infosandiego.wixsite.com^$all
 ||infoswiat.hekko24.pl^$all
 ||infoszybkie.eu^$all
@@ -4145,6 +4148,7 @@
 ||inpostodbior.com^$all
 ||inpostodkaz.net^$all
 ||inpost-app.me^$all
+||inpost-dostawa.pl^$all
 ||inpost-generator.net^$all
 ||inpost-kody.net^$all
 ||inpost-kod.com^$all
@@ -4232,6 +4236,7 @@
 ||inpost.polska-oferda.store^$all
 ||inpost.pw^$all
 ||inpost.services^$all
+||inpost.surf^$all
 ||inpost.tech^$all
 ||inpost.us^$all
 ||inprost24.net^$all
@@ -5495,6 +5500,7 @@
 ||olx.pl.dostawa.vip^$all
 ||olx.pl.oferta-payment.club^$all
 ||olx.pl.oferta-payment.link^$all
+||olx.pl.oferta-payment.pro^$all
 ||olx.pl.oferta-payment.shop^$all
 ||olx.pl.oferta-payment.today^$all
 ||olx.pl.order3ds.online^$all
@@ -6708,6 +6714,7 @@
 ||seriale.best^$all
 ||serialosy.pl^$all
 ||serialowo.pl^$all
+||server777.shared-lvps01.com^$all
 ||server031290.nazwa.pl^$all
 ||server041990.nazwa.pl^$all
 ||server167147.nazwa.pl^$all
@@ -6805,6 +6812,7 @@
 ||smartcitylab.com.pl^$all
 ||smartconnect.duckdns.org^$all
 ||smartfomania.pl^$all
+||smartnhealthydogs.net^$all
 ||smartpl.fmailjoin.com^$all
 ||smiechawa-pl.eu^$all
 ||smiechawka.eu^$all
