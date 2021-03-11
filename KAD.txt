@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 10 Mar 2021, 20:05 UTC+01
-! Version: 2021.3.10.2
+! Last modified: Thu, 11 Mar 2021, 12:05 UTC+01
+! Version: 2021.3.11.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1017,6 +1017,7 @@
 ||mezczyzna-trendy.pl^$all
 ||mgid.com^$all
 ||mgrallygroup.pl^$all
+||mialamaborcje.pl^$all
 ||michalfigura.pl^$all
 ||michalkansy.pl^$all
 ||micromix.pl^$all
@@ -3104,6 +3105,7 @@
 ||delivery.olx.pl.safereceivement.me^$all
 ||delivery.olx.pl.safereceive.bid^$all
 ||delivery.olx.safedeal.casa^$all
+||delivery.olx.shipment.casa^$all
 ||delivery.olx.umowa.live^$all
 ||deliver-post.com^$all
 ||deliwery-olx-pl.info^$all
@@ -3122,6 +3124,7 @@
 ||dephantomz.duckdns.org^$all
 ||depozyt24.net^$all
 ||deqqvg74uu6kk.cloudfront.net^$all
+||despas.net^$all
 ||destgrena.at^$all
 ||detoxic.net^$all
 ||developer.team1global.com.au^$all
@@ -3777,12 +3780,14 @@
 ||gazetamazowska.pl^$all
 ||gazetamazowsze.eu^$all
 ||gazetaopolska.xyz^$all
+||gazetapolska.cal24.pl^$all
 ||gazetapolska.hoste.pl^$all
 ||gazetapolska.org.pl^$all
 ||gazetapucka.pl^$all
 ||gazetaradomska.xyz^$all
 ||gazetasasiedzka.eu^$all
 ||gazetaslaska.xyz^$all
+||gazetaslupska.xyz^$all
 ||gazetaswidnicka.xyz^$all
 ||gazetaswietokrzyska.xyz^$all
 ||gazetaszczecinska.xyz^$all
@@ -4173,6 +4178,10 @@
 ||inpost.pl-dostawa.cyou^$all
 ||inpost.pl-getcash.cyou^$all
 ||inpost.pl-getcash.xyz^$all
+||inpost.pl-getdeals.store^$all
+||inpost.pl-getdeals.surf^$all
+||inpost.pl-getdeals.work^$all
+||inpost.pl-getdeals.xyz^$all
 ||inpost.pl-getdeal.casa^$all
 ||inpost.pl-getdeal.club^$all
 ||inpost.pl-getdeal.cyou^$all
@@ -4222,6 +4231,7 @@
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-oferda.store^$all
 ||inpost.pw^$all
+||inpost.services^$all
 ||inpost.tech^$all
 ||inpost.us^$all
 ||inprost24.net^$all
@@ -5323,6 +5333,7 @@
 ||olx-pl.payment-banka.online^$all
 ||olx-pl.payment-banks.ga^$all
 ||olx-pl.payment-bank.ga^$all
+||olx-pl.pay-id57438.me^$all
 ||olx-pl.pay-id74553.me^$all
 ||olx-pl.pay-secure.com.ru^$all
 ||olx-pl.pl^$all
@@ -5417,6 +5428,7 @@
 ||olx.pink^$all
 ||olx.pl-1614874633.site^$all
 ||olx.pl-1614874634.site^$all
+||olx.pl-1615317504.online^$all
 ||olx.pl-deals.casa^$all
 ||olx.pl-deals.club^$all
 ||olx.pl-deals.cyou^$all
@@ -5427,11 +5439,20 @@
 ||olx.pl-dostawa.cyou^$all
 ||olx.pl-getcash.cyou^$all
 ||olx.pl-getcash.xyz^$all
+||olx.pl-getdeals.store^$all
+||olx.pl-getdeals.surf^$all
+||olx.pl-getdeals.work^$all
+||olx.pl-getdeals.xyz^$all
+||olx.pl-getdeal.casa^$all
+||olx.pl-getdeal.cyou^$all
 ||olx.pl-getmoney.cyou^$all
 ||olx.pl-getmoney.xyz^$all
 ||olx.pl-getorder.cyou^$all
 ||olx.pl-getorder.store^$all
 ||olx.pl-getorder.xyz^$all
+||olx.pl-id1615399102.online^$all
+||olx.pl-id1615399104.online^$all
+||olx.pl-id1615399105.online^$all
 ||olx.pl-oferta.cyou^$all
 ||olx.pl-oferta.surf^$all
 ||olx.pl-receive.cyou^$all
@@ -5777,6 +5798,15 @@
 ||pay07-olx.pl^$all
 ||pay08-olx.pl^$all
 ||pay09-olx.pl^$all
+||pay10-olx.pl^$all
+||pay11-olx.pl^$all
+||pay12-olx.pl^$all
+||pay13-olx.pl^$all
+||pay14-olx.pl^$all
+||pay15-olx.pl^$all
+||pay16-olx.pl^$all
+||pay17-olx.pl^$all
+||pay18-olx.pl^$all
 ||pay24.com.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -6109,6 +6139,9 @@
 ||poczta.pl-dostawa.shop^$all
 ||poczta.pl-getcash.cyou^$all
 ||poczta.pl-getcash.xyz^$all
+||poczta.pl-getdeals.store^$all
+||poczta.pl-getdeals.work^$all
+||poczta.pl-getdeals.xyz^$all
 ||poczta.pl-getmoney.cyou^$all
 ||poczta.pl-getorder.store^$all
 ||poczta.pl-receive.cyou^$all
@@ -6311,6 +6344,7 @@
 ||poszukuiwania24.dkonto.pl^$all
 ||potezny-wynik.eu^$all
 ||potwierdzeniawiekowe.xyz^$all
+||potwierdzenie-dodania.lskdp.co.pl^$all
 ||potwierdzenie-dostawy.biz^$all
 ||potwierdzenie-dostawy.com^$all
 ||potwierdzenie-dostawy.net^$all
@@ -6342,10 +6376,13 @@
 ||ppay.site^$all
 ||ppl-puls.gloryft.com^$all
 ||pracaonline.co.pl^$all
+||praca-dla-ciebie.co.pl^$all
+||praca-info.co.pl^$all
 ||praca-logowanie-4.ct8.pl^$all
 ||praca-zaloguj-2.ct8.pl^$all
 ||praca-zaloguj-3.ct8.pl^$all
 ||praca-zaloguj.ct8.pl^$all
+||pracuj-w-domu.co.pl^$all
 ||praize19791.duckdns.org^$all
 ||pramodkumarsingh.000webhostapp.com^$all
 ||pranksduck.xyz^$all
