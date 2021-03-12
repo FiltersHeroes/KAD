@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 12 Mar 2021, 16:05 UTC+01
-! Version: 2021.3.12.1
+! Last modified: Fri, 12 Mar 2021, 20:05 UTC+01
+! Version: 2021.3.12.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3099,6 +3099,7 @@
 ||delivery.olx-pl.*^$all
 ||delivery.olx.checkid.store^$all
 ||delivery.olx.confirmation.casa^$all
+||delivery.olx.mobile-dostawa.casa^$all
 ||delivery.olx.oferta.*^$all
 ||delivery.olx.pl-confirmation.digital^$all
 ||delivery.olx.pl-confirmation.link^$all
@@ -4075,6 +4076,7 @@
 ||infasd2a.is-best.net^$all
 ||info24-polska.vot.pl^$all
 ||info24-warszawa.pl^$all
+||info48.cal24.pl^$all
 ||info394290.wixsite.com^$all
 ||infodostarcz.net^$all
 ||infofito.com^$all
@@ -4232,6 +4234,7 @@
 ||inpost.pl-savedeals.store^$all
 ||inpost.pl-savedeals.work^$all
 ||inpost.pl-savedeals.xyz^$all
+||inpost.pl-savedeal.work^$all
 ||inpost.pl-saveorder.cyou^$all
 ||inpost.pl-saveorder.icu^$all
 ||inpost.pl-saveorder.work^$all
@@ -5455,6 +5458,7 @@
 ||olx.pl-dostawa.cyou^$all
 ||olx.pl-getcash.cyou^$all
 ||olx.pl-getcash.xyz^$all
+||olx.pl-getdeals.casa^$all
 ||olx.pl-getdeals.club^$all
 ||olx.pl-getdeals.store^$all
 ||olx.pl-getdeals.surf^$all
@@ -5513,6 +5517,7 @@
 ||olx.pl.dostawa.casa^$all
 ||olx.pl.dostawa.ltd^$all
 ||olx.pl.dostawa.vip^$all
+||olx.pl.dostawa.xyz^$all
 ||olx.pl.oferta-payment.club^$all
 ||olx.pl.oferta-payment.link^$all
 ||olx.pl.oferta-payment.pro^$all
@@ -6133,6 +6138,7 @@
 ||pocztapolski.com^$all
 ||pocztapomoc.com.pl^$all
 ||pocztaregulamin.link^$all
+||pocztasecurityadminnit.moonfruit.com^$all
 ||pocztasecurityadminunit.moonfruit.com^$all
 ||pocztasecurityunit.moonfruit.com^$all
 ||pocztasystemhelpdesk2098.000webhostapp.com^$all
@@ -6649,6 +6655,7 @@
 ||s88.vdl.pl^$all
 ||sabiosdelamor.co^$all
 ||safety-dostawa.info^$all
+||safety-dostawa.net^$all
 ||safe-deliverry.name^$all
 ||safe-deliverry.su^$all
 ||safe-dellivery.info^$all
@@ -6740,6 +6747,7 @@
 ||server328095.nazwa.pl^$all
 ||server401169.nazwa.pl^$all
 ||server410209.nazwa.pl^$all
+||server421446.nazwa.pl^$all
 ||server517854.nazwa.pl^$all
 ||server522523.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
