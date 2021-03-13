@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 13 Mar 2021, 16:05 UTC+01
-! Version: 2021.3.13.1
+! Last modified: Sat, 13 Mar 2021, 20:05 UTC+01
+! Version: 2021.3.13.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2339,6 +2339,7 @@
 ||7228.eu^$all
 ||26159-dot-custom-history-301500.appspot.com^$all
 ||156256.allegro.casa^$all
+||741847.allegrolokalnie.gifts^$all
 ||1809175.na397463.web.hosting-test.net^$all
 ||1809176.kb397464.web.hosting-test.net^$all
 ||1809798.sy397546.web.hosting-test.net^$all
@@ -4212,6 +4213,7 @@
 ||inpost.pl-getdeal.xyz^$all
 ||inpost.pl-getmoney.cyou^$all
 ||inpost.pl-getorder.store^$all
+||inpost.pl-getpay.xyz^$all
 ||inpost.pl-oferta.cyou^$all
 ||inpost.pl-oferta.surf^$all
 ||inpost.pl-receive.cyou^$all
@@ -5480,6 +5482,8 @@
 ||olx.pl-getorder.cyou^$all
 ||olx.pl-getorder.store^$all
 ||olx.pl-getorder.xyz^$all
+||olx.pl-getpay.cyou^$all
+||olx.pl-getpay.xyz^$all
 ||olx.pl-id1615399102.online^$all
 ||olx.pl-id1615399104.online^$all
 ||olx.pl-id1615399105.online^$all
