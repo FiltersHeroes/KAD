@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 14 Mar 2021, 09:16 UTC+00
-! Version: 2021.3.14.0
+! Last modified: Sun, 14 Mar 2021, 12:05 UTC+01
+! Version: 2021.3.14.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2337,7 +2337,7 @@
 ||7228.eu^$all
 ||26159-dot-custom-history-301500.appspot.com^$all
 ||156256.allegro.casa^$all
-||741847.allegrolokalnie.gifts^$all
+||388275.allegro.casa^$all
 ||1809175.na397463.web.hosting-test.net^$all
 ||1809176.kb397464.web.hosting-test.net^$all
 ||1809798.sy397546.web.hosting-test.net^$all
@@ -2463,11 +2463,6 @@
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
-||allegrolokalnie.cam^$all
-||allegrolokalnie.club^$all
-||allegrolokalnie.codes^$all
-||allegrolokalnie.deals^$all
-||allegrolokalnie.shop^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
@@ -3855,7 +3850,7 @@
 ||getimmediateedge.com^$all
 ||getin-secure-bank.xyz^$all
 ||getin-secure.com.pl^$all
-||getlnbank.website^$all
+||getlnbank.*^$document
 ||getmyfreetraffic.com^$all
 ||gettheflow.pl^$all
 ||get.bestdeal2060.info^$all
@@ -5480,6 +5475,8 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-safedealing.work^$all
+||olx.pl-safedealing.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
