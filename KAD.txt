@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 15 Mar 2021, 12:08 UTC+01
-! Version: 2021.3.15.0
+! Last modified: Mon, 15 Mar 2021, 16:05 UTC+01
+! Version: 2021.3.15.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -5474,6 +5474,7 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-getpays.xyz^$all
+||olx.pl-id619285.space^$all
 ||olx.pl-safedealing.cyou^$all
 ||olx.pl-safedealing.work^$all
 ||olx.pl-safedealing.xyz^$all
@@ -5482,6 +5483,7 @@
 ||olx.pl-safeorders.icu^$all
 ||olx.pl-safeorders.surf^$all
 ||olx.pl-safeorders.work^$all
+||olx.pl-saveorders.surf^$all
 ||olx.pl-*.*^$document
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
@@ -7169,6 +7171,7 @@
 ||tv-maniak.pl^$all
 ||tv.gorzow.pl^$all
 ||twenty-wishes.000webhostapp.com^$all
+||twilight-pointed-plant.glitch.me^$all
 ||twojaenea.pl^$all
 ||twojagazetka.xyz^$all
 ||twojanagroda.co.pl^$all
