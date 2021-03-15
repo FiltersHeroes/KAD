@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 15 Mar 2021, 16:05 UTC+01
-! Version: 2021.3.15.1
+! Last modified: Mon, 15 Mar 2021, 20:05 UTC+01
+! Version: 2021.3.15.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3781,6 +3781,7 @@
 ||gastrohurt.neostrada.pl^$all
 ||gazetabracka.eu^$all
 ||gazetagdynia.xyz^$all
+||gazetakrakow.xyz^$all
 ||gazetalegnicka.xyz^$all
 ||gazetalodzka.xyz^$all
 ||gazetalubelska.xyz^$all
@@ -5416,6 +5417,7 @@
 ||olx-spedycja.pl^$all
 ||olx-statuspay.com^$all
 ||olx-transfer.*^$all
+||olx-uzyskiwaniie.pl^$all
 ||olx-u.pl^$all
 ||olx-vip.com^$all
 ||olx-weryfikacja.pl^$all
@@ -5483,7 +5485,9 @@
 ||olx.pl-safeorders.icu^$all
 ||olx.pl-safeorders.surf^$all
 ||olx.pl-safeorders.work^$all
+||olx.pl-savedealing.store^$all
 ||olx.pl-saveorders.surf^$all
+||olx.pl-saveorders.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
@@ -6711,6 +6715,7 @@
 ||server522523.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
 ||server634288.nazwa.pl^$all
+||server655635.nazwa.pl^$all
 ||server742538.nazwa.pl^$all
 ||server805487.nazwa.pl^$all
 ||server954031.nazwa.pl^$all
@@ -7498,12 +7503,14 @@
 ||wwwareshop.pl^$all
 ||wwww-olx.pl^$all
 ||www-inpostapl.xyz^$all
+||www-olxpldilivery.club^$all
 ||www-olxpll-safe.xyz^$all
 ||www-olxpl-safe.website^$all
 ||www-olxpl.online^$all
 ||www-olxpoland.site^$all
 ||www-olx-dostawa.pl^$all
 ||www-olx.pl^$all
+||www-plnsafedeal.link^$all
 ||ww.kowdent.pl^$all
 ||ww.paczkjups.com^$all
 ||wx-xcx.xyz^$all
