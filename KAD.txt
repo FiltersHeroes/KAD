@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 14 Mar 2021, 20:05 UTC+01
-! Version: 2021.3.14.3
+! Last modified: Mon, 15 Mar 2021, 12:08 UTC+01
+! Version: 2021.3.15.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3807,6 +3807,7 @@
 ||gazetawroclawska.xyz^$all
 ||gazetawyborcza24.eu^$all
 ||gazetawyborcza.com.pl^$all
+||gazetazakopane.xyz^$all
 ||gazeta-ciekawostki.xyz^$all
 ||gazeta-informacja.xyz^$all
 ||gazeta-lodz24.herokuapp.com^$all
@@ -4086,6 +4087,7 @@
 ||info48.cal24.pl^$all
 ||info394290.wixsite.com^$all
 ||infodostarcz.net^$all
+||infoee.gitlab.io^$all
 ||infofito.com^$all
 ||infofpolska.online^$all
 ||infokrk.co.pl^$all
@@ -4237,6 +4239,10 @@
 ||inpost.pl-safedeal.xyz^$all
 ||inpost.pl-safely.store^$all
 ||inpost.pl-safely.work^$all
+||inpost.pl-safeorders.casa^$all
+||inpost.pl-safeorders.cyou^$all
+||inpost.pl-safeorders.store^$all
+||inpost.pl-safeorders.xyz^$all
 ||inpost.pl-savecash.store^$all
 ||inpost.pl-savedeals.casa^$all
 ||inpost.pl-savedeals.store^$all
@@ -5420,6 +5426,7 @@
 ||olx-zaplata.pl^$all
 ||olx-z.pl^$all
 ||olx--pl.online^$all
+||olx.3ds-paymenting.pl^$all
 ||olx.blue^$all
 ||olx.com-id381949.xyz^$all
 ||olx.deliverry.*^$all
@@ -5467,8 +5474,14 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-getpays.xyz^$all
+||olx.pl-safedealing.cyou^$all
 ||olx.pl-safedealing.work^$all
 ||olx.pl-safedealing.xyz^$all
+||olx.pl-safeorders.casa^$all
+||olx.pl-safeorders.club^$all
+||olx.pl-safeorders.icu^$all
+||olx.pl-safeorders.surf^$all
+||olx.pl-safeorders.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
@@ -6596,6 +6609,7 @@
 ||safety-dostawa.net^$all
 ||safety-dostaw.com^$all
 ||safety-dostaw.info^$all
+||safety-dostaw.name^$all
 ||safe-deliverry.name^$all
 ||safe-deliverry.su^$all
 ||safe-dellivery.info^$all
@@ -6795,6 +6809,7 @@
 ||sms-info.net^$all
 ||sms-info.su^$all
 ||sms-za-darmo.pl^$all
+||sms.mba^$all
 ||smushgame.com^$all
 ||sne.bydgoszcz.pl^$all
 ||sniadaniowaklasa.pl^$all
