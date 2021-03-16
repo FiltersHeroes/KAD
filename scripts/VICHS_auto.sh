@@ -47,7 +47,7 @@ if [[ -n $(search "sections/przekrety.txt") ]]; then
 fi
 
 $SCRIPT_PATH/VICHS.sh ./KAD.txt
-cd ..
+cd $SCRIPT_PATH/../../
 
 if [[ "$CI" = "true" ]] && [[ -z "$CIRCLECI" ]] ; then
     git clone https://github.com/PolishFiltersTeam/KADhosts.git
