@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 15 Mar 2021, 20:05 UTC+01
-! Version: 2021.3.15.2
+! Last modified: Tue, 16 Mar 2021, 12:06 UTC+01
+! Version: 2021.3.16.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2322,8 +2322,10 @@
 ||123movies.my.id^$all
 ||137-74-148-87.cprapid.com^$all
 ||198-58-119-23.cprapid.com^$all
+||433.mobile-allegrolokalnie.shop^$all
 ||777marketer.cyou^$all
 ||778t799e9e77e7ewwqqww.sport357.com^$all
+||972.mobile-allegrolokalnie.store^$all
 ||4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com^$all
 ||7228.eu^$all
 ||26159-dot-custom-history-301500.appspot.com^$all
@@ -3563,6 +3565,7 @@
 ||fakty-onet48.*^$all
 ||fakty-online48.eu^$all
 ||fakty-polska24.eu^$all
+||fakty.cal24.pl^$all
 ||fakt*.is-best.net^$all
 ||fakt-news24.eu^$all
 ||fakt-online24.eu^$all
@@ -4190,6 +4193,7 @@
 ||inpost.link^$all
 ||inpost.live^$all
 ||inpost.ltd^$all
+||inpost.oferda-pl.space^$all
 ||inpost.orders-pls.live^$all
 ||inpost.order-pl.art^$all
 ||inpost.order-pl.store^$all
@@ -4245,6 +4249,7 @@
 ||inpost.pl-safeorders.store^$all
 ||inpost.pl-safeorders.xyz^$all
 ||inpost.pl-savecash.store^$all
+||inpost.pl-savedealing.casa^$all
 ||inpost.pl-savedeals.casa^$all
 ||inpost.pl-savedeals.store^$all
 ||inpost.pl-savedeals.work^$all
@@ -5452,6 +5457,7 @@
 ||olx.manager.name^$all
 ||olx.merchant-b.me^$all
 ||olx.merch-pays.ru^$all
+||olx.moe^$all
 ||olx.my-payment.online^$all
 ||olx.my-pay.info^$all
 ||olx.new-payment.space^$all
@@ -5477,6 +5483,7 @@
 ||olx.pink^$all
 ||olx.pl-getpays.xyz^$all
 ||olx.pl-id619285.space^$all
+||olx.pl-portal.life^$all
 ||olx.pl-safedealing.cyou^$all
 ||olx.pl-safedealing.work^$all
 ||olx.pl-safedealing.xyz^$all
@@ -5485,7 +5492,9 @@
 ||olx.pl-safeorders.icu^$all
 ||olx.pl-safeorders.surf^$all
 ||olx.pl-safeorders.work^$all
+||olx.pl-savedealing.casa^$all
 ||olx.pl-savedealing.store^$all
+||olx.pl-savedealing.surf^$all
 ||olx.pl-saveorders.surf^$all
 ||olx.pl-saveorders.xyz^$all
 ||olx.pl-*.*^$document
