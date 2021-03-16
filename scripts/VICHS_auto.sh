@@ -47,8 +47,11 @@ if [[ -n $(search "sections/przekrety.txt") ]]; then
 fi
 NO_PUSH="true" $SCRIPT_PATH/VICHS.sh ./KAD.txt
 cd ..
-if [ "$CI" = "true" ] ; then
+if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "false" ]] ; then
     git clone https://github.com/PolishFiltersTeam/KADhosts.git
+fi
+if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "true" ]] ; then
+    git clone git@github.com:PolishFiltersTeam/KADhosts.git
 fi
 cd ./KADhosts
 NO_PUSH="true" ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt

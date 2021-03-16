@@ -8,6 +8,10 @@ jobs:
     - run: ./scripts/ADD_NOVELTIES_FROM_CERT.sh
     - store_artifacts:
         path: sections/przekrety.txt
+    - persist_to_workspace:
+        root: ./
+        paths:
+          - sections/przekrety.txt
   LWS:
     docker:
     - image: polishfiltersteam/kad_image:latest
@@ -16,11 +20,17 @@ jobs:
     - run: ./scripts/ADD_NOVELTIES_FROM_LWS.sh
     - store_artifacts:
         path: sections/podejrzane_inne_oszustwa.txt
+    - persist_to_workspace:
+        root: ./
+        paths:
+          - sections/podejrzane_inne_oszustwa.txt
   build:
     docker:
     - image: polishfiltersteam/kad_image:latest
     steps:
     - checkout
+    - attach_workspace:
+        at: ./
     - run: ./scripts/VICHS_auto.sh
 workflows:
   version: 2
