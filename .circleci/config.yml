@@ -25,13 +25,13 @@ jobs:
 workflows:
   version: 2
   workflow:
-    triggers:
-    - schedule:
-        cron: 0 11,15,19 * * *
-        filters:
-          branches:
-            only:
-            - master
+    # triggers:
+    # - schedule:
+    #     cron: 0 11,15,19 * * *
+    #     filters:
+    #       branches:
+    #         only:
+    #         - master
     jobs:
       - CERT
       - LWS
