@@ -11,11 +11,15 @@ cd $SCRIPT_PATH/..
 #$SCRIPT_PATH/ADD_NOVELTIES_FROM_LWS.sh
 #$SCRIPT_PATH/ADD_NOVELTIES_FROM_CSMI.sh
 
-rm -rf ./sections/podejrzane_inne_oszustwa.txt
-mv ./sections/LWS/podejrzane_inne_oszustwa.txt ./sections/
+if [ -f "./sections/LWS/podejrzane_inne_oszustwa.txt" ]; then
+    rm -rf ./sections/podejrzane_inne_oszustwa.txt
+    mv ./sections/LWS/podejrzane_inne_oszustwa.txt ./sections/
+fi
 
-rm -rf ./sections/przekrety.txt
-mv ./sections/CERT/przekrety.txt ./sections/
+if [ -f "./sections/CERT/przekrety.txt" ]; then
+    rm -rf ./sections/przekrety.txt
+    mv ./sections/CERT/przekrety.txt ./sections/
+fi
 
 ost_plik=$(git diff --name-only --pretty=format: | sort | uniq)
 function search() {
