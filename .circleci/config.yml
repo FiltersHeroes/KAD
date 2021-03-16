@@ -3,6 +3,7 @@ jobs:
   CERT:
     docker:
     - image: polishfiltersteam/kad_image:latest
+    working_directory: ~/git/KAD
     steps:
     - checkout
     - run: ./scripts/ADD_NOVELTIES_FROM_CERT.sh
@@ -13,6 +14,7 @@ jobs:
   LWS:
     docker:
     - image: polishfiltersteam/kad_image:latest
+    working_directory: ~/git/KAD
     steps:
     - checkout
     - run: ./scripts/ADD_NOVELTIES_FROM_LWS.sh
@@ -23,11 +25,15 @@ jobs:
   Aktualizacja:
     docker:
     - image: polishfiltersteam/kad_image:latest
+    working_directory: ~/git/KAD
     steps:
     - checkout
     - attach_workspace:
         at: ./
     - run: ./scripts/VICHS_auto.sh
+    - store_artifacts:
+        path: ../KADhosts/KADhosts.txt
+        destination: ./artifact-file
 workflows:
   version: 2
   workflow:
