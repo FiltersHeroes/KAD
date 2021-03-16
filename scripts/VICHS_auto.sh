@@ -7,9 +7,6 @@ SCRIPT_PATH=$(dirname "$(realpath -s "$0")")
 MAIN_PATH="$SCRIPT_PATH"/..
 
 cd $SCRIPT_PATH/..
-#$SCRIPT_PATH/ADD_NOVELTIES_FROM_CERT.sh
-#$SCRIPT_PATH/ADD_NOVELTIES_FROM_LWS.sh
-#$SCRIPT_PATH/ADD_NOVELTIES_FROM_CSMI.sh
 
 if [ -f "./sections/LWS/podejrzane_inne_oszustwa.txt" ]; then
     rm -rf ./sections/podejrzane_inne_oszustwa.txt
@@ -46,7 +43,7 @@ if [[ -n $(search "sections/przekrety.txt") ]]; then
     git commit -m "Nowości z listy CERT"
 fi
 
-NO_PUSH="true" $SCRIPT_PATH/VICHS.sh ./KAD.txt
+$SCRIPT_PATH/VICHS.sh ./KAD.txt
 cd $SCRIPT_PATH/../../
 
 if [[ "$CI" = "true" ]] && [[ -z "$CIRCLECI" ]] ; then
@@ -57,4 +54,4 @@ if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "true" ]] ; then
 fi
 
 cd ./KADhosts
-NO_PUSH="true" ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
+./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt

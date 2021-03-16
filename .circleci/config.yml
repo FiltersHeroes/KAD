@@ -31,19 +31,16 @@ jobs:
     - attach_workspace:
         at: ./
     - run: ./scripts/VICHS_auto.sh
-    - store_artifacts:
-        path: ../KADhosts/KADhosts.txt
-        destination: ./artifact-file
 workflows:
   version: 2
   workflow:
-    # triggers:
-    # - schedule:
-    #     cron: 0 11,15,19 * * *
-    #     filters:
-    #       branches:
-    #         only:
-    #         - master
+    triggers:
+    - schedule:
+        cron: 0 11,15,19 * * *
+        filters:
+          branches:
+            only:
+            - master
     jobs:
       - CERT
       - LWS
