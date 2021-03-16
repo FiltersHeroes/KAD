@@ -15,7 +15,7 @@ jobs:
     - checkout
     - run: ./scripts/ADD_NOVELTIES_FROM_LWS.sh
     - store_artifacts:
-        path: sections/przekrety.txt
+        path: sections/podejrzane_inne_oszustwa.txt
   build:
     docker:
     - image: polishfiltersteam/kad_image:latest
