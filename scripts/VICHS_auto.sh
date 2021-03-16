@@ -45,13 +45,16 @@ if [[ -n $(search "sections/przekrety.txt") ]]; then
     git add "$MAIN_PATH"/sections/przekrety.txt
     git commit -m "Nowości z listy CERT"
 fi
-NO_PUSH="true" $SCRIPT_PATH/VICHS.sh ./KAD.txt
+
+$SCRIPT_PATH/VICHS.sh ./KAD.txt
 cd ..
-if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "false" ]] ; then
+
+if [[ "$CI" = "true" ]] && [[ -z "$CIRCLECI" ]] ; then
     git clone https://github.com/PolishFiltersTeam/KADhosts.git
 fi
 if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "true" ]] ; then
     git clone git@github.com:PolishFiltersTeam/KADhosts.git
 fi
+
 cd ./KADhosts
-NO_PUSH="true" ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
+./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt

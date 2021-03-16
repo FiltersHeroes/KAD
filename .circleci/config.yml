@@ -6,8 +6,6 @@ jobs:
     steps:
     - checkout
     - run: ./scripts/ADD_NOVELTIES_FROM_CERT.sh
-    - store_artifacts:
-        path: sections/przekrety.txt
     - persist_to_workspace:
         root: ./
         paths:
@@ -18,13 +16,11 @@ jobs:
     steps:
     - checkout
     - run: ./scripts/ADD_NOVELTIES_FROM_LWS.sh
-    - store_artifacts:
-        path: sections/podejrzane_inne_oszustwa.txt
     - persist_to_workspace:
         root: ./
         paths:
           - sections/podejrzane_inne_oszustwa.txt
-  build:
+  Aktualizacja:
     docker:
     - image: polishfiltersteam/kad_image:latest
     steps:
@@ -45,7 +41,7 @@ workflows:
     jobs:
       - CERT
       - LWS
-      - build:
+      - Aktualizacja:
           context: org-global
           requires:
             - CERT

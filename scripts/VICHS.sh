@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.18
+# v2.19
 
 # MIT License
 
@@ -540,8 +540,8 @@ for i in "$@"; do
     do
         PH_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@PHinclude \K.*' "$FINAL").txt
         PH_TEMP=$SECTIONS_DIR/ph.temp
-        grep -o '^||.*\*.*^$' "$PH_FILE" > "$PH_TEMP"
-        grep -o '^||.*^$all$' "$PH_FILE" > "$PH_TEMP"
+        grep -o '\||.*\*.*^$' "$PH_FILE" > "$PH_TEMP"
+        grep -o '\||.*\*.*^$all$' "$PH_FILE" > "$PH_TEMP"
         convertToPihole "$PH_TEMP"
         sort -uV -o "$PH_TEMP" "$PH_TEMP"
         sed -e '0,/^@PHinclude/!b; /@PHinclude/{ r '"$PH_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
