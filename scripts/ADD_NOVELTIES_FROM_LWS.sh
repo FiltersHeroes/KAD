@@ -82,7 +82,7 @@ rm -rf "$TEMP"
 
 cd "$MAIN_PATH" || exit
 
-if [[ $(git diff --stat) != '' ]]; then
-    git add "$MAIN_PATH"/sections/podejrzane_inne_oszustwa.txt
-    git commit -m "Nowości z LWS"
-fi
+# if [[ $(git diff --stat) != '' ]]; then
+#     git add "$MAIN_PATH"/sections/podejrzane_inne_oszustwa.txt
+#     git commit -m "Nowości z LWS"
+# fi

@@ -83,7 +83,7 @@ rm -rf "$TEMP"
 
 cd "$MAIN_PATH" || exit
 
-if [[ $(git diff --stat) != '' ]]; then
-    git add "$MAIN_PATH"/sections/przekrety.txt
-    git commit -m "Nowości z listy CERT"
-fi
+# if [[ $(git diff --stat) != '' ]]; then
+#     git add "$MAIN_PATH"/sections/przekrety.txt
+#     git commit -m "Nowości z listy CERT"
+# fi

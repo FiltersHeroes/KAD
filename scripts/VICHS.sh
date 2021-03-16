@@ -708,7 +708,7 @@ done
 
 # Wysyłanie zmienionych plików do repozytorium git
 commited=$(git cherry -v)
-if [ "$commited" ]; then
+if [[ "$commited" ]] && [[ "$NO_PUSH" != "true" ]]; then
     if [ "$CI" = "true" ] ; then
         GIT_SLUG=$(git ls-remote --get-url | sed "s|https://||g" | sed "s|git@||g" | sed "s|:|/|g")
         git push https://"${CI_USERNAME}":"${GIT_TOKEN}"@"${GIT_SLUG}" > /dev/null 2>&1
