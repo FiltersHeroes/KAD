@@ -2,8 +2,8 @@ name: Aktualizacja listy
 
 on:
     workflow_dispatch:
-    schedule:
-        - cron: "0 11,15,19 * * *"
+    # schedule:
+    #     - cron: "0 11,15,19 * * *"
 
 jobs:
     CERT:

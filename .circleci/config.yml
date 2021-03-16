@@ -1,5 +1,21 @@
 version: 2
 jobs:
+  CERT:
+    docker:
+    - image: polishfiltersteam/kad_image:latest
+    steps:
+    - checkout
+    - run: ./scripts/ADD_NOVELTIES_FROM_CERT.sh
+    - store_artifacts:
+        path: sections/przekrety.txt
+  LWS:
+    docker:
+    - image: polishfiltersteam/kad_image:latest
+    steps:
+    - checkout
+    - run: ./scripts/ADD_NOVELTIES_FROM_LWS.sh
+    - store_artifacts:
+        path: sections/przekrety.txt
   build:
     docker:
     - image: polishfiltersteam/kad_image:latest
@@ -17,5 +33,10 @@ workflows:
             only:
             - master
     jobs:
+      - CERT
+      - LWS
       - build:
           context: org-global
+          requires:
+            - CERT
+            - LWS

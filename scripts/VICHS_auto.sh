@@ -21,6 +21,18 @@ ost_plik=$(git diff --name-only --pretty=format: | sort | uniq)
 function search() {
     echo "$ost_plik" | grep "$1"
 }
+
+# Lokalizacja pliku konfiguracyjnego
+CONFIG=$SCRIPT_PATH/VICHS.config
+
+# Konfiguracja nazwy użytkownika i maila dla CI
+if [ "$CI" = "true" ] ; then
+    CI_USERNAME=$(grep -oP -m 1 '@CIusername \K.*' "$CONFIG")
+    CI_EMAIL=$(grep -oP -m 1 '@CIemail \K.*' "$CONFIG")
+    git config --global user.name "${CI_USERNAME}"
+    git config --global user.email "${CI_EMAIL}"
+fi
+
 if [[ -n $(search "sections/podejrzane_inne_oszustwa.txt") ]]; then
     git add "$MAIN_PATH"/sections/podejrzane_inne_oszustwa.txt
     git commit -m "Nowości z LWS"
@@ -35,4 +47,4 @@ if [ "$CI" = "true" ] ; then
     git clone https://github.com/PolishFiltersTeam/KADhosts.git
 fi
 cd ./KADhosts
-NO_PUSH="true" ./scripts/VICHS.sh ./KADhosts.txt /KADhole.txt ./KADomains.txt
+NO_PUSH="true" ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt

@@ -7,19 +7,6 @@ MAIN_PATH="$SCRIPT_PATH"/..
 
 TEMP="$MAIN_PATH"/temp
 
-
-# Lokalizacja pliku konfiguracyjnego
-CONFIG=$SCRIPT_PATH/VICHS.config
-
-# Konfiguracja nazwy użytkownika i maila dla CI
-if [ "$CI" = "true" ] ; then
-    CI_USERNAME=$(grep -oP -m 1 '@CIusername \K.*' "$CONFIG")
-    CI_EMAIL=$(grep -oP -m 1 '@CIemail \K.*' "$CONFIG")
-    git config --global user.name "${CI_USERNAME}"
-    git config --global user.email "${CI_EMAIL}"
-fi
-
-
 mkdir -p "$TEMP"
 
 cd "$TEMP" || exit
@@ -82,8 +69,3 @@ cat "$TEMP"/LIST.temp >> "$MAIN_PATH"/sections/przekrety.txt
 rm -rf "$TEMP"
 
 cd "$MAIN_PATH" || exit
-
-if [[ $(git diff --stat) != '' ]]; then
-    git add "$MAIN_PATH"/sections/przekrety.txt
-    git commit -m "Nowości z listy CSMI"
-fi
