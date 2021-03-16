@@ -39,12 +39,8 @@ jobs:
             - uses: actions/download-artifact@v2
               with:
                   path: sections
-            - run: ls -R
             - name: Aktualizacja całej listy
               env:
                   GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
               run: |
                   ./scripts/VICHS_auto.sh
-            - uses: actions/upload-artifact@v2
-              with:
-                  path: KAD.txt
