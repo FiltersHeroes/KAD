@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 18 Mar 2021, 12:04 UTC+01
-! Version: 2021.3.18.0
+! Last modified: Thu, 18 Mar 2021, 16:04 UTC+01
+! Version: 2021.3.18.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1942,6 +1942,7 @@
 ||zarowkideco.pl^$all
 ||zazynek.pl^$all
 ||zdaj-to.pl^$all
+||zdrowasfera.pl^$all
 ||zebraneo.com^$all
 ||zebrapozyczki.pl^$all
 ||zegarki.sklep24.org^$all
@@ -2342,13 +2343,16 @@
 ||96b4d58e213077161.temporary.link^$all
 ||100sport.tv^$all
 ||123movies.my.id^$all
+||123.allegro-lokalnie.club^$all
 ||137-74-148-87.cprapid.com^$all
 ||198-58-119-23.cprapid.com^$all
 ||253.express-inpost.online^$all
+||287.allegro-lokalnie.club^$all
 ||433.mobile-allegrolokalnie.shop^$all
 ||777marketer.cyou^$all
 ||778t799e9e77e7ewwqqww.sport357.com^$all
 ||857.allegro-lokalnie.cyou^$all
+||919.allegro-lokalnie.club^$all
 ||972.mobile-allegrolokalnie.store^$all
 ||4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com^$all
 ||7228.eu^$all
@@ -4325,6 +4329,7 @@
 ||inpost.polska-dostawa.digital^$all
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-oferda.store^$all
+||inpost.polska-oferla.shop^$all
 ||inpost.polsko-oferta.life^$all
 ||inpost.pw^$all
 ||inpost.services^$all
@@ -4737,6 +4742,7 @@
 ||lowiskowoliczno.pl^$all
 ||lowpay.net^$all
 ||lp24.eu^$all
+||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||lubicplacki.is-best.net^$all
 ||lubiego.is-best.net^$all
 ||lubiszto.is-best.net^$all
@@ -5537,6 +5543,7 @@
 ||olx.order-pl.shop^$all
 ||olx.order-pl.store^$all
 ||olx.payersend.info^$all
+||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all
 ||olx.paysend.space^$all
 ||olx.pay-euro.eu^$all
@@ -5578,6 +5585,7 @@
 ||olx.pl-sms.surf^$all
 ||olx.pl-sprzedaz.xyz^$all
 ||olx.pl-*.*^$document
+||olx.pl.oferta-payment.biz^$all
 ||olx.pl.oferta-payment.live^$all
 ||olx.pl.pays-complete.com^$all
 ||olx.pl.*.*^$document
@@ -5589,7 +5597,9 @@
 ||olx.polska-dostawa.*^$all
 ||olx.polska-oferda.*^$all
 ||olx.polska-oferd.*^$all
+||olx.polska-oferla.shop^$all
 ||olx.polska-oferta.*^$all
+||olx.polsko-oferta.link^$all
 ||olx.polsko-oferta.live^$all
 ||olx.product-secure.ru^$all
 ||olx.przesylki-secure.com^$all
@@ -5860,6 +5870,7 @@
 ||pascolii.com^$all
 ||paskicrestpolska.com^$all
 ||passivetrading.co.uk^$all
+||pasticcerialonghitano.it^$all
 ||paterashop.pl^$all
 ||patrolprzygody.pl^$all
 ||patrzonline.pl^$all
