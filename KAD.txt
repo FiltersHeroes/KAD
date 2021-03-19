@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 18 Mar 2021, 20:04 UTC+01
-! Version: 2021.3.18.2
+! Last modified: Fri, 19 Mar 2021, 12:04 UTC+01
+! Version: 2021.3.19.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3870,6 +3870,8 @@
 ||gazeta-polska24.99e.pl^$all
 ||gazeta-polska24.vdl.pl^$all
 ||gazeta-potwierdz.co.pl^$all
+||gazeta-radom.xyz^$all
+||gazeta-sosnowiec.xyz^$all
 ||gazeta.kutno.pl^$all
 ||gazeta.pl.com.bz^$all
 ||gazetka24.laohost.net^$all
@@ -4257,6 +4259,7 @@
 ||inpost.pl-deals.icu^$all
 ||inpost.pl-deals.surf^$all
 ||inpost.pl-dostawa.cyou^$all
+||inpost.pl-getcash.club^$all
 ||inpost.pl-getcash.cyou^$all
 ||inpost.pl-getcash.xyz^$all
 ||inpost.pl-getdeals.store^$all
@@ -4305,12 +4308,15 @@
 ||inpost.pl-safedeal.shop^$all
 ||inpost.pl-safedeal.surf^$all
 ||inpost.pl-safedeal.xyz^$all
+||inpost.pl-safelypay.cyou^$all
+||inpost.pl-safelypay.xyz^$all
 ||inpost.pl-safely.store^$all
 ||inpost.pl-safely.work^$all
 ||inpost.pl-safeorders.casa^$all
 ||inpost.pl-safeorders.cyou^$all
 ||inpost.pl-safeorders.store^$all
 ||inpost.pl-safeorders.xyz^$all
+||inpost.pl-safepay.xyz^$all
 ||inpost.pl-savecash.store^$all
 ||inpost.pl-savedealing.casa^$all
 ||inpost.pl-savedeals.casa^$all
@@ -4318,6 +4324,7 @@
 ||inpost.pl-savedeals.work^$all
 ||inpost.pl-savedeals.xyz^$all
 ||inpost.pl-savedeal.work^$all
+||inpost.pl-savemoney.xyz^$all
 ||inpost.pl-saveorder.cyou^$all
 ||inpost.pl-saveorder.icu^$all
 ||inpost.pl-saveorder.work^$all
@@ -4332,11 +4339,13 @@
 ||inpost.polska-dostawa.digital^$all
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-oferda.store^$all
+||inpost.polska-oferla.live^$all
 ||inpost.polska-oferla.shop^$all
 ||inpost.polsko-oferta.life^$all
 ||inpost.pw^$all
 ||inpost.services^$all
 ||inpost.surf^$all
+||inpost.su^$all
 ||inpost.tech^$all
 ||inpost.us^$all
 ||inprost24.net^$all
@@ -5555,6 +5564,7 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-getcash.club^$all
 ||olx.pl-getordered.casa^$all
 ||olx.pl-getordered.club^$all
 ||olx.pl-getordered.cyou^$all
@@ -5576,18 +5586,25 @@
 ||olx.pl-safedealing.cyou^$all
 ||olx.pl-safedealing.work^$all
 ||olx.pl-safedealing.xyz^$all
+||olx.pl-safelypay.cyou^$all
+||olx.pl-safelypay.xyz^$all
 ||olx.pl-safeorders.casa^$all
 ||olx.pl-safeorders.club^$all
 ||olx.pl-safeorders.icu^$all
 ||olx.pl-safeorders.surf^$all
 ||olx.pl-safeorders.work^$all
+||olx.pl-safepay.xyz^$all
+||olx.pl-savecash.club^$all
 ||olx.pl-savedealing.casa^$all
 ||olx.pl-savedealing.store^$all
 ||olx.pl-savedealing.surf^$all
+||olx.pl-savemoney.xyz^$all
 ||olx.pl-saveorders.surf^$all
 ||olx.pl-saveorders.xyz^$all
 ||olx.pl-smsinfo.surf^$all
 ||olx.pl-sms.surf^$all
+||olx.pl-sprzedaz.club^$all
+||olx.pl-sprzedaz.shop^$all
 ||olx.pl-sprzedaz.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.biz^$all
@@ -5602,6 +5619,7 @@
 ||olx.polska-dostawa.*^$all
 ||olx.polska-oferda.*^$all
 ||olx.polska-oferd.*^$all
+||olx.polska-oferla.club^$all
 ||olx.polska-oferla.shop^$all
 ||olx.polska-oferta.*^$all
 ||olx.polsko-oferta.link^$all
@@ -6239,6 +6257,7 @@
 ||poczta.pl-dostawa.life^$all
 ||poczta.pl-dostawa.live^$all
 ||poczta.pl-dostawa.shop^$all
+||poczta.pl-getcash.club^$all
 ||poczta.pl-getcash.cyou^$all
 ||poczta.pl-getcash.xyz^$all
 ||poczta.pl-getdeals.store^$all
@@ -6264,15 +6283,20 @@
 ||poczta.pl-safedeal.shop^$all
 ||poczta.pl-safedeal.surf^$all
 ||poczta.pl-safedeal.xyz^$all
+||poczta.pl-safelypay.cyou^$all
+||poczta.pl-safelypay.xyz^$all
 ||poczta.pl-safely.store^$all
 ||poczta.pl-safepayments.icu^$all
 ||poczta.pl-safepayments.surf^$all
 ||poczta.pl-safepayments.work^$all
+||poczta.pl-safepay.xyz^$all
 ||poczta.pl-safeway.live^$all
 ||poczta.pl-safe.surf^$all
+||poczta.pl-savecash.club^$all
 ||poczta.pl-savedeals.store^$all
 ||poczta.pl-savedeals.work^$all
 ||poczta.pl-savedeals.xyz^$all
+||poczta.pl-savemoney.xyz^$all
 ||poczta.pl-saveorder.icu^$all
 ||poczta.pl-smsinfo.surf^$all
 ||poczta.pl-sms.surf^$all
@@ -7031,6 +7055,7 @@
 ||ssll-payu.com^$all
 ||sslpayu.com^$all
 ||sslplatnosc.online^$all
+||ssl-allegrro.net^$all
 ||ssl-cert.pl^$all
 ||ssl.dfirma.pl^$all
 ||sso-cloud-idea-bank.at^$all
