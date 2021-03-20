@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.21
+# v2.22
 
 # MIT License
 
@@ -66,27 +66,17 @@ for i in "$@"; do
         sed -i "s|^! |!@ |g" "$EXTERNAL_TEMP"
     }
 
-    function revertWhenDownloadError {
-        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
-            printf "%s\n" "$(gettext "Error during file download")"
-            git checkout "$FINAL"
-            rm -r "$EXTERNAL_TEMP"
-            exit 0
-        fi
-    }
-
     function getOrDownloadExternal {
     # Zakładamy, że katalog zawierający inne sklonowane repozytorium znajduje się wyżej niż katalog naszej własnej listy
-        if [ -n "$CLONED_EXTERNAL" ]; then
-            if [ -f "$MAIN_PATH/../$CLONED_EXTERNAL".txt ]; then
-                EXTERNAL_TEMP="$MAIN_PATH/../$CLONED_EXTERNAL".txt
-            else
-                wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-                revertWhenDownloadError
-            fi
+        if [[ -n "$CLONED_EXTERNAL" ]] && [[ -f "$MAIN_PATH/../$CLONED_EXTERNAL" ]]; then
+            EXTERNAL_TEMP="$MAIN_PATH/../$CLONED_EXTERNAL"
         else
-            wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-            revertWhenDownloadError
+            if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
+                printf "%s\n" "$(gettext "Error during file download")"
+                git checkout "$FINAL"
+                rm -r "$EXTERNAL_TEMP"
+                exit 0
+            fi
         fi
     }
 
@@ -122,10 +112,17 @@ for i in "$@"; do
         mv "$1.2" "$1"
     }
 
-    # FILTERLIST to nazwa pliku, który chcemy zbudować
-    FILTERLIST=$(basename "$i" .txt)
+    # FILTERLIST to nazwa pliku (bez rozszerzenia), który chcemy zbudować
+    FILTERLIST_FILE=$(basename "$i")
+    FILTERLIST="${FILTERLIST_FILE%.*}"
 
-    TEMPLATE=$MAIN_PATH/templates/${FILTERLIST}.template
+    # Ustalanie ścieżki do szablonów
+    if grep -q "@templatesPath" "$CONFIG"; then
+        TEMPLATE=$MAIN_PATH/$(grep -oP -m 1 '@templatesPath \K.*' "$CONFIG")/${FILTERLIST}.template
+    else
+        TEMPLATE=$MAIN_PATH/templates/${FILTERLIST}.template
+    fi
+
     FINAL=$i
     FINAL_B=$MAIN_PATH/${FILTERLIST}.backup
     TEMPORARY=$MAIN_PATH/${FILTERLIST}.temp
@@ -150,6 +147,15 @@ for i in "$@"; do
         SECTIONS_DIR=$MAIN_PATH/sections/$FILTERLIST
     fi
 
+    # Ustalanie rozszerzenia plików sekcji
+    if grep -q "@sectionsExt" "$FINAL"; then
+        SECTIONS_EXT="$(grep -oP -m 1 '@sectionsExt \K.*' "$FINAL")"
+    elif grep -q "@sectionsExt" "$CONFIG"; then
+        SECTIONS_EXT="$(grep -oP -m 1 '@sectionsExt \K.*' "$CONFIG")"
+    else
+        SECTIONS_EXT="txt"
+    fi
+
     if [ -d "${SECTIONS_DIR}" ]; then
         # Usuwanie pustych linii z sekcji
         find "${SECTIONS_DIR}" -type f -exec sed -i '/^$/d' {} \;
@@ -171,13 +177,13 @@ for i in "$@"; do
     # Doklejanie sekcji w odpowiednie miejsca
     for (( n=1; n<=END; n++ ))
     do
-        SECTION=${SECTIONS_DIR}/$(awk '$1 == "@include" { print $2; exit }' "$FINAL").txt
+        SECTION=${SECTIONS_DIR}/$(awk '$1 == "@include" { print $2; exit }' "$FINAL").${SECTIONS_EXT}
         EXTERNAL=$(awk '$1 == "@include" { print $2; exit }' "$FINAL")
         EXTERNAL_TEMP="$SECTIONS_DIR"/external.temp
         CLONED_EXTERNAL=$(awk '$1 == "@include" { print $3; exit }' "$FINAL")
         if [[ "$EXTERNAL" =~ ^(http(s):|ftp:) ]]; then
             getOrDownloadExternal
-            if [ -n "$CLONED_EXTERNAL" ]; then
+            if [[ -n "$CLONED_EXTERNAL" ]] && [[ -f "$MAIN_PATH/../$CLONED_EXTERNAL" ]]; then
                 touch "$SECTIONS_DIR"/external.temp
                 cp "$EXTERNAL_TEMP" "$SECTIONS_DIR"/external.temp
                 EXTERNAL_TEMP="$SECTIONS_DIR"/external.temp
@@ -201,7 +207,7 @@ for i in "$@"; do
     # Doklejanie sekcji w odpowiednie miejsca i zamiana na wyjątki
     for (( n=1; n<=END_NWL; n++ ))
     do
-        SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@NWLinclude \K.*' "$FINAL").txt
+        SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@NWLinclude \K.*' "$FINAL").${SECTIONS_EXT}
         EXTERNAL=$(awk '$1 == "@NWLinclude" { print $2; exit }' "$FINAL")
         EXTERNAL_TEMP="$SECTIONS_DIR"/external.temp
         CLONED_EXTERNAL=$(awk '$1 == "@NWLinclude" { print $3; exit }' "$FINAL")
@@ -226,7 +232,7 @@ for i in "$@"; do
     # Doklejanie sekcji w odpowiednie miejsca i zamiana na wyjątki
     for (( n=1; n<=END_BNWL; n++ ))
     do
-        SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@BNWLinclude \K.*' "$FINAL").txt
+        SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@BNWLinclude \K.*' "$FINAL").${SECTIONS_EXT}
         EXTERNAL=$(awk '$1 == "@BNWLinclude" { print $2; exit }' "$FINAL")
         EXTERNAL_TEMP="$SECTIONS_DIR"/external.temp
         CLONED_EXTERNAL=$(awk '$1 == "@BNWLinclude" { print $3; exit }' "$FINAL")
@@ -256,7 +262,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
         CLONED_EXTERNAL=$(awk '$1 == "@URLUinclude" { print $3; exit }' "$FINAL")
         getOrDownloadExternal
-        if [ -n "$CLONED_EXTERNAL" ]; then
+        if [[ -n "$CLONED_EXTERNAL" ]] && [[ -f "$MAIN_PATH/../$CLONED_EXTERNAL" ]]; then
             touch "$SECTIONS_DIR"/external.temp
             cp "$EXTERNAL_TEMP" "$SECTIONS_DIR"/external.temp
             EXTERNAL_TEMP="$SECTIONS_DIR"/external.temp
@@ -286,7 +292,7 @@ for i in "$@"; do
     # Łączenie lokalnych i zewnętrznych sekcji w jedno oraz doklejanie ich w odpowiednie miejsca
     for (( n=1; n<=END_COMBINE; n++ ))
     do
-        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEinclude" { print $2; exit }' "$FINAL").txt
+        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEinclude" { print $2; exit }' "$FINAL").${SECTIONS_EXT}
         EXTERNAL=$(awk '$1 == "@COMBINEinclude" { print $3; exit }' "$FINAL")
         SECTIONS_TEMP=${SECTIONS_DIR}/temp/
         mkdir "$SECTIONS_TEMP"
@@ -294,7 +300,7 @@ for i in "$@"; do
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         CLONED_EXTERNAL=$(awk '$1 == "@COMBINEinclude" { print $4; exit }' "$FINAL")
         getOrDownloadExternal
-        if [ -n "$CLONED_EXTERNAL" ]; then
+        if [[ -n "$CLONED_EXTERNAL" ]] && [[ -f "$MAIN_PATH/../$CLONED_EXTERNAL" ]]; then
             touch "$SECTIONS_DIR"/external.temp
             cp "$EXTERNAL_TEMP" "$SECTIONS_DIR"/external.temp
             EXTERNAL_TEMP=${SECTIONS_DIR}/external.temp
@@ -325,7 +331,7 @@ for i in "$@"; do
     # Konwertowanie na hosts i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
     for (( n=1; n<=END_HOSTS; n++ ))
     do
-        HOSTS_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@HOSTSinclude \K.*' "$FINAL").txt
+        HOSTS_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@HOSTSinclude \K.*' "$FINAL").${SECTIONS_EXT}
         HOSTS_TEMP=$SECTIONS_DIR/hosts.temp
         EXTERNAL=$(awk '$1 == "@HOSTSinclude" { print $2; exit }' "$FINAL")
         EXTERNAL_TEMP="$SECTIONS_DIR"/external.temp
@@ -366,7 +372,7 @@ for i in "$@"; do
     # Łączenie lokalnych i zewnętrznych sekcji w jedno oraz doklejanie ich w odpowiednie miejsca
     for (( n=1; n<=END_HOSTSCOMBINE; n++ ))
     do
-        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEHOSTSinclude" { print $2; exit }' "$FINAL").txt
+        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEHOSTSinclude" { print $2; exit }' "$FINAL").${SECTIONS_EXT}
         EXTERNAL=$(awk '$1 == "@COMBINEHOSTSinclude" { print $3; exit }' "$FINAL")
         SECTIONS_TEMP=${SECTIONS_DIR}/temp/
         mkdir "$SECTIONS_TEMP"
@@ -375,7 +381,7 @@ for i in "$@"; do
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         CLONED_EXTERNAL=$(awk '$1 == "@COMBINEHOSTSinclude" { print $4; exit }' "$FINAL")
         getOrDownloadExternal
-        if [ -n "$CLONED_EXTERNAL" ]; then
+        if [[ -n "$CLONED_EXTERNAL" ]] && [[ -f "$MAIN_PATH/../$CLONED_EXTERNAL" ]]; then
             touch "${SECTIONS_DIR}"/external.temp
             cp "$EXTERNAL_TEMP" "${SECTIONS_DIR}"/external.temp
             EXTERNAL_TEMP=${SECTIONS_DIR}/external.temp
@@ -434,7 +440,7 @@ for i in "$@"; do
     # Konwertowanie na domeny i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
     for (( n=1; n<=END_DOMAINS; n++ ))
     do
-        DOMAINS_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@DOMAINSinclude \K.*' "$FINAL").txt
+        DOMAINS_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@DOMAINSinclude \K.*' "$FINAL").${SECTIONS_EXT}
         DOMAINS_TEMP=$SECTIONS_DIR/domains.temp
         EXTERNAL=$(awk '$1 == "@DOMAINSinclude" { print $2; exit }' "$FINAL")
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
@@ -476,7 +482,7 @@ for i in "$@"; do
     # Łączenie lokalnych i zewnętrznych sekcji w jedno oraz doklejanie ich w odpowiednie miejsca
     for (( n=1; n<=END_DOMAINSCOMBINE; n++ ))
     do
-        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEDOMAINSinclude" { print $2; exit }' "$FINAL").txt
+        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEDOMAINSinclude" { print $2; exit }' "$FINAL").${SECTIONS_EXT}
         EXTERNAL=$(awk '$1 == "@COMBINEDOMAINSinclude" { print $3; exit }' "$FINAL")
         SECTIONS_TEMP=${SECTIONS_DIR}/temp/
         mkdir "$SECTIONS_TEMP"
@@ -485,7 +491,7 @@ for i in "$@"; do
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         CLONED_EXTERNAL=$(awk '$1 == "@COMBINEDOMAINSinclude" { print $4; exit }' "$FINAL")
         getOrDownloadExternal
-        if [ -n "$CLONED_EXTERNAL" ]; then
+        if [[ -n "$CLONED_EXTERNAL" ]] && [[ -f "$MAIN_PATH/../$CLONED_EXTERNAL" ]]; then
             touch "${SECTIONS_DIR}"/external.temp
             cp "$EXTERNAL_TEMP" "${SECTIONS_DIR}"/external.temp
             EXTERNAL_TEMP=${SECTIONS_DIR}/external.temp
@@ -543,7 +549,7 @@ for i in "$@"; do
     # Konwertowanie na format regex zgodny z PiHole i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
     for (( n=1; n<=END_PH; n++ ))
     do
-        PH_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@PHinclude \K.*' "$FINAL").txt
+        PH_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@PHinclude \K.*' "$FINAL").${SECTIONS_EXT}
         PH_TEMP=$SECTIONS_DIR/ph.temp
         EXTERNAL=$(awk '$1 == "@PHinclude" { print $2; exit }' "$FINAL")
         EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
@@ -574,7 +580,7 @@ for i in "$@"; do
     # Konwertowanie na format regex zgodny z PiHole oraz łączenie lokalnych i zewnętrznych sekcji w jedno oraz doklejanie ich w odpowiednie miejsca
     for (( n=1; n<=END_PHCOMBINE; n++ ))
     do
-        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@PHCOMBINEinclude" { print $2; exit }' "$FINAL").txt
+        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@PHCOMBINEinclude" { print $2; exit }' "$FINAL").${SECTIONS_EXT}
         EXTERNAL=$(awk '$1 == "@PHCOMBINEinclude" { print $3; exit }' "$FINAL")
         SECTIONS_TEMP=${SECTIONS_DIR}/temp/
         mkdir "$SECTIONS_TEMP"
@@ -583,7 +589,7 @@ for i in "$@"; do
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         CLONED_EXTERNAL=$(awk '$1 == "@PHCOMBINEinclude" { print $4; exit }' "$FINAL")
         getOrDownloadExternal
-        if [ -n "$CLONED_EXTERNAL" ]; then
+        if [[ -n "$CLONED_EXTERNAL" ]] && [[ -f "$MAIN_PATH/../$CLONED_EXTERNAL" ]]; then
             touch "${SECTIONS_DIR}"/external.temp
             cp "$EXTERNAL_TEMP" "${SECTIONS_DIR}"/external.temp
             EXTERNAL_TEMP=${SECTIONS_DIR}/external.temp
@@ -622,7 +628,7 @@ for i in "$@"; do
     if grep -q "! Codename" "$i"; then
         filter=$(grep -oP -m 1 '! Codename: \K.*' "$i");
     else
-        filter=$(basename "$i" .txt);
+        filter="$FILTERLIST"
     fi
 
     # Dodawanie zmienionych sekcji do repozytorium git
