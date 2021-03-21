@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 21 Mar 2021, 16:03 UTC+01
-! Version: 2021.3.21.1
+! Last modified: Sun, 21 Mar 2021, 20:04 UTC+01
+! Version: 2021.3.21.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -363,6 +363,7 @@
 ||dersay.pl^$all
 ||desin.pl^$all
 ||diabakter.pl^$all
+||diamentowamozaika.com^$all
 ||diapress.pl^$all
 ||dietasouthbeach.com.pl^$all
 ||dietetykawyszkow.pl^$all
@@ -2199,6 +2200,7 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
+zmiananalepsze.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -2673,8 +2675,10 @@
 ||bitcointrustoptions.com^$all
 ||bitcoinup.io^$all
 ||bitcoinup.trade^$all
+||bitcoin-loophole.io^$all
 ||bitcoin-storm.com^$all
 ||bitcoin-trader-app.com^$all
+||bitgenises.com^$all
 ||bitoptionfx.com^$all
 ||bitsends.space^$all
 ||bit-capitals.com^$all
@@ -2685,6 +2689,7 @@
 ||biznesinpro.pl^$all
 ||biznesoweinfo.media.pl^$all
 ||biznesoweinfo.miasta.pl^$all
+||blablacar-pay.cc^$all
 ||blablocar-pl.site^$all
 ||blackstone500.com^$all
 ||blankiet-wspieraj.eu^$all
@@ -2776,6 +2781,7 @@
 ||buz2mobile.com^$all
 ||buzzlace.cf^$all
 ||bycmama-gabi.pl^$all
+||byszewski.pl^$all
 ||bzn.c0.pl^$all
 ||b-s500.com^$all
 ||c39b126b5cec.ngrok.io^$all
@@ -3032,6 +3038,7 @@
 ||davekurier.org^$all
 ||davidcandy.website.pl^$all
 ||daxioma.com^$all
+||daxkapital.com^$all
 ||daydesigners.igutek.pl^$all
 ||dbzbwpin45yzaprezvut6i5gjy--online-mbank-pl.translate.goog^$all
 ||dc5zdxob07xpk.cloudfront.net^$all
@@ -3040,6 +3047,7 @@
 ||debie.pl^$all
 ||debki-klara.pl^$all
 ||decodom.com.pl^$all
+||decydujace-starcie.eu^$all
 ||decydujmy-razem.eu^$all
 ||decydujmy-wspolnie.eu^$all
 ||decyzie-podejmj.eu^$all
@@ -3398,6 +3406,7 @@
 ||exmsolution.com^$all
 ||expertfxt.com^$all
 ||expertfx.net^$all
+||expertoptions.in^$all
 ||expresovo.com^$all
 ||expresscash.pl^$all
 ||expresspaczki.com^$all
@@ -3455,6 +3464,7 @@
 ||e-wiadomosc24.eu^$all
 ||e-wiadomosci24.eu^$all
 ||e-wtryskarki.pl^$all
+||e-wymiana.com^$all
 ||e-yourmovies.com^$all
 ||e-yourmovies.pl^$all
 ||e-zaginieni.eu^$all
@@ -3640,6 +3650,7 @@
 ||findwfriends.net.ht^$all
 ||findyourlovenow*.com^$all
 ||find-best-profits.com^$all
+||finexics.com^$all
 ||finishdeska.com.pl^$all
 ||finmaxfx.com^$all
 ||finoverview.space^$all
@@ -3846,6 +3857,7 @@
 ||ghostpay.pw^$all
 ||gift19.club^$all
 ||giftcardbouns.com^$all
+||ginebrafx.com^$all
 ||girstories.com^$all
 ||giuatpzhd9dytiw.choobin-co.ir^$all
 ||giuliakurier.org^$all
@@ -4267,6 +4279,7 @@
 ||inpost.pl-sms.surf^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
+||inpost.polska-dastawka.casa^$all
 ||inpost.polska-dostawa.digital^$all
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-oferda.store^$all
@@ -4895,6 +4908,7 @@
 ||mycoinology.com^$all
 ||mydnssbox.gleeze.com^$all
 ||myeforsa.pl^$all
+||mynetcoin.com^$all
 ||mysexdating*.club^$all
 ||mytopoffers.net^$all
 ||mytraffic.pl^$all
@@ -5033,6 +5047,7 @@
 ||niezwykle.online^$all
 ||nildenaksoy.com^$all
 ||ninjavpn.xyz^$all
+||nirotrade.com^$all
 ||njb-gmbh.com^$all
 ||nlublin.pl^$all
 ||noclegi-kozienice.pl^$all
@@ -5380,6 +5395,7 @@
 ||olx-pl.ml^$all
 ||olx-pl.moneta.world^$all
 ||olx-pl.net^$all
+||olx-pl.oferta-payment.cloud^$all
 ||olx-pl.oferta-payment.link^$all
 ||olx-pl.oferta-payment.live^$all
 ||olx-pl.oferta-payment.org^$all
@@ -5499,6 +5515,8 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-blog.help^$all
+||olx.pl-confirm.casa^$all
+||olx.pl-confirm.icu^$all
 ||olx.pl-getcash.club^$all
 ||olx.pl-getordered.casa^$all
 ||olx.pl-getordered.club^$all
@@ -5804,6 +5822,7 @@
 ||pakownia.net^$all
 ||pakunek-pl.xyz^$all
 ||palenate.com^$all
+||palmera.pl^$all
 ||paloki-pl.com^$all
 ||pamelambarnettcounseling.com^$all
 ||panaceum-poznan.pl^$all
@@ -6043,6 +6062,7 @@
 ||plikson.pl^$all
 ||pliks.pl^$all
 ||plmoda24.com^$all
+||plnn.in^$all
 ||pln-delivery-pay.shop^$all
 ||pln.m-olx.us^$all
 ||plolx-oplata.online^$all
@@ -6484,6 +6504,7 @@
 ||prize-program.club^$all
 ||procars-shoppl*.com^$all
 ||procoches.areadirecta.es^$all
+||producent-witaczy.pl^$all
 ||profitgems.co^$all
 ||profitmaximum.pl^$all
 ||profitrevolution.live^$all
@@ -6584,6 +6605,8 @@
 ||quartexindustries.com^$all
 ||qubble.com^$all
 ||qubittech.ai^$all
+||qubittech.dev^$all
+||qubit.life^$all
 ||quebocalyalbum.byethost6.com^$all
 ||quiz-fun.com.my^$all
 ||r3gnow.wixsite.com^$all
@@ -6672,6 +6695,7 @@
 ||rikardesie.shop^$all
 ||rinpey.net^$all
 ||risingindianews.com^$all
+||rivafinancialsystems.com^$all
 ||riverislandpl.com^$all
 ||rmycevre.com^$all
 ||robinpriest.co.uk^$all
@@ -6710,6 +6734,7 @@
 ||s8powazkowska-modlinska.pl^$all
 ||s88.vdl.pl^$all
 ||sabiosdelamor.co^$all
+||safetrade365.com^$all
 ||safety-dostawa.info^$all
 ||safety-dostawa.net^$all
 ||safety-dostaw.com^$all
@@ -6843,6 +6868,7 @@
 ||shaverbasics.com^$all
 ||shift-holdings.com^$all
 ||shinden-anime.info^$all
+||shipgratis.eu^$all
 ||shippuden.com.pl^$all
 ||sholtem.pl^$all
 ||shopshop-pl.com^$all
@@ -7046,6 +7072,7 @@
 ||streamfilme.xyz^$all
 ||strefakina.pl^$all
 ||strefamlodych.pl^$all
+||strefamycia.com.pl^$all
 ||strefavod.online^$all
 ||strefa-medycyny-naturalnej.com^$all
 ||strefa-vod.pl^$all
@@ -7101,6 +7128,7 @@
 ||swingmarketscfd.com^$all
 ||swinka-morska.waw.pl^$all
 ||swissmarket.net^$all
+||swiss-finest.com^$all
 ||syds588.cn^$all
 ||systemchlodzeniamglapl.com^$all
 ||systemrma.pl^$all
@@ -7184,6 +7212,7 @@
 ||themarketriser.com^$all
 ||themovienation.com^$all
 ||thepacificagroup.com^$all
+||thepacifica-group.com^$all
 ||thepermanenttruth.com^$all
 ||thereimbursement.us^$all
 ||the-bitcoins-code.com^$all
@@ -7226,6 +7255,7 @@
 ||trade360.com^$all
 ||traderking.cc^$all
 ||traderschain.com^$all
+||tradesboost.net^$all
 ||tradezone247.com^$all
 ||trafisz.com^$all
 ||trampolina.biz^$all
@@ -7655,6 +7685,7 @@
 ||wyliczenia-sprawdzaj.eu^$all
 ||wynik-pomoc.eu^$all
 ||wypadki24.e-kei.pl^$all
+||wyplacamy.pl^$all
 ||wyposazeniedomow.com.pl^$all
 ||wypozycz-film.pl^$all
 ||wyraz-pomoc.eu^$all
