@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 20 Mar 2021, 20:04 UTC+01
-! Version: 2021.3.20.2
+! Last modified: Sun, 21 Mar 2021, 12:04 UTC+01
+! Version: 2021.3.21.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3208,6 +3208,7 @@
 ||dostawa-olx.life^$all
 ||dostawa-olx.news^$all
 ||dostawa-olx.page^$all
+||dostawa-olx.store^$all
 ||dostawa-olx.website^$all
 ||dostawa-olx.*^$all
 ||dostawa-paczki.com^$all
@@ -4074,6 +4075,7 @@
 ||infoee.gitlab.io^$all
 ||infofito.com^$all
 ||infofpolska.online^$all
+||infokrk.co.pl^$all
 ||infolokalne24.pl^$all
 ||infomiasto24.pl^$all
 ||infonet.dfirma.pl^$all
@@ -4109,6 +4111,7 @@
 ||infoszybkie.eu^$all
 ||infozkraju.eu^$all
 ||info-24.cloud^$all
+||info-centrum.co.pl^$all
 ||info-fakty24.pl^$all
 ||info-inpost.pl^$all
 ||info-miastowe24.club^$all
@@ -4142,6 +4145,7 @@
 ||inpostapp.net^$all
 ||inposta.pl^$all
 ||inposta.pw^$all
+||inposta.su^$all
 ||inpostdoplata.net^$all
 ||inpostkode-pl.com^$all
 ||inpostkode.com^$all
@@ -4206,6 +4210,8 @@
 ||inpost.pl-getordered.xyz^$all
 ||inpost.pl-getorders.casa^$all
 ||inpost.pl-getorder.store^$all
+||inpost.pl-getpayed.casa^$all
+||inpost.pl-getpayed.icu^$all
 ||inpost.pl-getpay.xyz^$all
 ||inpost.pl-oferta.cyou^$all
 ||inpost.pl-oferta.surf^$all
@@ -4264,6 +4270,7 @@
 ||inpost.polska-dostawa.digital^$all
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-oferda.store^$all
+||inpost.polska-oferla.link^$all
 ||inpost.polska-oferla.live^$all
 ||inpost.polska-oferla.shop^$all
 ||inpost.polsko-oferta.life^$all
@@ -4679,6 +4686,7 @@
 ||lubiszto.is-best.net^$all
 ||luczko.pl^$all
 ||ludzieprawa.pl^$all
+||ludzkimokiem.hekko24.pl^$all
 ||lukaszuk.com.pl^$all
 ||lukaszurbanczyk.pl^$all
 ||luknijfilm.pl^$all
@@ -5493,6 +5501,8 @@
 ||olx.pl-getordered.xyz^$all
 ||olx.pl-getorders.casa^$all
 ||olx.pl-getorders.xyz^$all
+||olx.pl-getpayed.cyou^$all
+||olx.pl-getpayed.icu^$all
 ||olx.pl-getpayed.work^$all
 ||olx.pl-getpayed.xyz^$all
 ||olx.pl-getpays.xyz^$all
@@ -6130,6 +6140,7 @@
 ||pl.pcviruscare.com^$all
 ||pl.potwierdzenie.cc^$all
 ||pl.profitmaximizer-app.com^$all
+||pl.safe-olx.casa^$all
 ||pl.tradenewsinvesting.com^$all
 ||pl.tvplusnewtab.com^$all
 ||pl.*bitcoin*.tiptopko*.com^$all
@@ -6797,6 +6808,7 @@
 ||server621416.nazwa.pl^$all
 ||server634288.nazwa.pl^$all
 ||server655635.nazwa.pl^$all
+||server658571.nazwa.pl^$all
 ||server742538.nazwa.pl^$all
 ||server805487.nazwa.pl^$all
 ||server954031.nazwa.pl^$all
@@ -7125,6 +7137,7 @@
 ||tajnespotkania.eu^$all
 ||tajskimasazsopot.pl^$all
 ||takaprawda.icu^$all
+||takegifft.net.pl^$all
 ||tankhoi.vn^$all
 ||tarcza24.net^$all
 ||tarczakryzysowa.net^$all
