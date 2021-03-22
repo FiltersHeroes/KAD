@@ -4,9 +4,9 @@
 SCRIPT_PATH=$(dirname "$(realpath -s "$0")")
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium
-MAIN_PATH="$SCRIPT_PATH"/..
+MAIN_PATH=$(git -C "$SCRIPT_PATH" rev-parse --show-toplevel)
 
-cd $SCRIPT_PATH/..
+cd "$MAIN_PATH" || exit
 
 if [ -f "./sections/LWS/podejrzane_inne_oszustwa.txt" ]; then
     rm -rf ./sections/podejrzane_inne_oszustwa.txt
@@ -44,7 +44,7 @@ if [[ -n $(search "sections/przekrety.txt") ]]; then
 fi
 
 $SCRIPT_PATH/VICHS.sh ./KAD.txt
-cd $SCRIPT_PATH/../../
+cd $MAIN_PATH/..
 
 if [[ "$CI" = "true" ]] && [[ -z "$CIRCLECI" ]] ; then
     git clone https://github.com/PolishFiltersTeam/KADhosts.git
