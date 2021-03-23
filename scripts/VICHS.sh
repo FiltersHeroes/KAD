@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.26.2
+# v2.26.3
 
 # MIT License
 
@@ -350,13 +350,14 @@ for i in "$@"; do
                 externalCleanup
                 sort -u -o "$EXTERNAL_TEMP" "$EXTERNAL_TEMP"
             fi
+            EXTERNAL_CTEMP="$EXTERNAL_TEMP"
         else
-            EXTERNAL_TEMP=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEinclude" { print $3; exit }' "$FINAL").${SECTIONS_EXT}
+            EXTERNAL_CTEMP=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEinclude" { print $3; exit }' "$FINAL").${SECTIONS_EXT}
         fi
         SECTIONS_TEMP=${SECTIONS_DIR}/temp/
         mkdir -p "$SECTIONS_TEMP"
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
-        cat "$LOCAL" "$EXTERNAL_TEMP" >>"$MERGED_TEMP"
+        cat "$LOCAL" "$EXTERNAL_CTEMP" >>"$MERGED_TEMP"
         if [ -f "$FOP" ]; then
             python3 "${FOP}" --d "${SECTIONS_TEMP}"
         fi
