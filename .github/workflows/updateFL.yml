@@ -1,46 +1,45 @@
 name: Aktualizacja listy
 
-on:
-    workflow_dispatch:
-    # schedule:
-    #     - cron: "0 11,15,19 * * *"
+on: workflow_dispatch
+  # schedule:
+  #     - cron: "0 11,15,19 * * *"
 
 jobs:
-    CERT:
-        runs-on: ubuntu-latest
-        container: ghcr.io/polishfiltersteam/kad_image:latest
-        steps:
-            - uses: actions/checkout@v2
-            - name: Dodawanie nowości z CERT
-              run: |
-                  ./scripts/ADD_NOVELTIES_FROM_CERT.sh
-            - uses: actions/upload-artifact@v2
-              with:
-                  name: CERT
-                  path: sections/przekrety.txt
-    LWS:
-        runs-on: ubuntu-latest
-        container: ghcr.io/polishfiltersteam/kad_image:latest
-        steps:
-            - uses: actions/checkout@v2
-            - name: Dodawanie nowości z LWS
-              run: |
-                  ./scripts/ADD_NOVELTIES_FROM_LWS.sh
-            - uses: actions/upload-artifact@v2
-              with:
-                  name: LWS
-                  path: sections/podejrzane_inne_oszustwa.txt
-    Aktualizacja:
-        needs: [CERT, LWS]
-        runs-on: ubuntu-latest
-        container: ghcr.io/polishfiltersteam/vichs_image:latest
-        steps:
-            - uses: actions/checkout@v2
-            - uses: actions/download-artifact@v2
-              with:
-                  path: sections
-            - name: Aktualizacja całej listy
-              env:
-                  GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
-              run: |
-                  ./scripts/VICHS_auto.sh
+  CERT:
+    runs-on: ubuntu-latest
+    container: ghcr.io/polishfiltersteam/kad_image:latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Dodawanie nowości z CERT
+        run: |
+          ./scripts/ADD_NOVELTIES_FROM_CERT.sh
+      - uses: actions/upload-artifact@v2
+        with:
+          name: CERT
+          path: sections/przekrety.txt
+  LWS:
+    runs-on: ubuntu-latest
+    container: ghcr.io/polishfiltersteam/kad_image:latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Dodawanie nowości z LWS
+        run: |
+          ./scripts/ADD_NOVELTIES_FROM_LWS.sh
+      - uses: actions/upload-artifact@v2
+        with:
+          name: LWS
+          path: sections/podejrzane_inne_oszustwa.txt
+  Aktualizacja:
+    needs: [CERT, LWS]
+    runs-on: ubuntu-latest
+    container: ghcr.io/polishfiltersteam/vichs_image:latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          path: sections
+      - name: Aktualizacja całej listy
+        env:
+          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+        run: |
+          ./scripts/build.sh

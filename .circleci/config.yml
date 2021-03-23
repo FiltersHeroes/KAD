@@ -30,7 +30,7 @@ jobs:
     - checkout
     - attach_workspace:
         at: ./
-    - run: ./scripts/VICHS_auto.sh
+    - run: ./scripts/build.sh
 workflows:
   version: 2
   workflow:
