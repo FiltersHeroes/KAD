@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 24 Mar 2021, 12:04 UTC+01
-! Version: 2021.3.24.0
+! Last modified: Wed, 24 Mar 2021, 16:04 UTC+01
+! Version: 2021.3.24.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2165,6 +2165,7 @@
 ||1npost.net^$all
 ||2i4.eu^$all
 ||2remove.guide^$all
+||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^$all
 ||2supermocna-tasma-klejaca-pl.com^$all
 ||2-remove-virus.com^$all
 ||02-wiadomosci.com.pl^$all
@@ -2509,6 +2510,7 @@
 ||axes.co^$all
 ||azawebspace.com^$all
 ||b17-sklep.pl^$all
+||b24-m8zer1.bitrix24.site^$all
 ||babyelephant.com.pl^$all
 ||bacuskurier.com^$all
 ||badaxx.za.pl^$all
@@ -3731,6 +3733,7 @@
 ||gazeta-olsztyn.xyz^$all
 ||gazeta-opole.xyz^$all
 ||gazeta-polska24.vdl.pl^$all
+||gazeta-potwierdz.co.pl^$all
 ||gazeta-poznan.xyz^$all
 ||gazeta-radom.xyz^$all
 ||gazeta-rybnik.xyz^$all
@@ -3914,6 +3917,7 @@
 ||hondamarket.pl^$all
 ||honorowy-konkurs.eu^$all
 ||horse-strenght.com^$all
+||hor.orlninwest.pw^$all
 ||host1.5v.pl^$all
 ||hostfeboe.n4t.co^$all
 ||hosting2051245.online.pro^$all
@@ -4023,6 +4027,7 @@
 ||informacje24-alert.eu^$all
 ||informacje24.dkonto.pl^$all
 ||informacje24.eu^$all
+||informacjeczestochowa.xyz^$all
 ||informacjepolakow.online^$all
 ||informacjepolska.you2.pl^$all
 ||informacjezkraju.eu^$all
@@ -4167,6 +4172,7 @@
 ||inpost.pl-getpayed.casa^$all
 ||inpost.pl-getpayed.icu^$all
 ||inpost.pl-getpay.xyz^$all
+||inpost.pl-getpost.casa^$all
 ||inpost.pl-getpost.xyz^$all
 ||inpost.pl-oferta.cyou^$all
 ||inpost.pl-oferta.surf^$all
@@ -4982,6 +4988,7 @@
 ||nextlevelprize.com^$all
 ||nfbio.com^$all
 ||nicesliders.top^$all
+||niecodziennahistoria.co.pl^$all
 ||niedlich.pl^$all
 ||niemozemyznalezc.website^$all
 ||niepokonane-dzieciaki.eu^$all
@@ -5424,6 +5431,7 @@
 ||olx.dellivers.*^$all
 ||olx.dellivery.*^$all
 ||olx.doreczanie.pl^$all
+||olx.doreczenie.online^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
@@ -5445,6 +5453,7 @@
 ||olx.oferda-pl.biz^$all
 ||olx.oferda-pl.fun^$all
 ||olx.oferda-pl.life^$all
+||olx.oferda-pl.live^$all
 ||olx.olxoferts.work^$all
 ||olx.oplata-is.com^$all
 ||olx.orderpl.club^$all
@@ -5475,11 +5484,13 @@
 ||olx.pl-confirm.cyou^$all
 ||olx.pl-confirm.work^$all
 ||olx.pl-confirm.xyz^$all
+||olx.pl-getpost.club^$all
 ||olx.pl-getpost.cyou^$all
 ||olx.pl-id1616242901.site^$all
 ||olx.pl-id1616242902.site^$all
 ||olx.pl-id1616242904.site^$all
 ||olx.pl-kwota.info^$all
+||olx.pl-post.casa^$all
 ||olx.pl-post.cyou^$all
 ||olx.pl-post.work^$all
 ||olx.pl-safety.oferta-payment.cloud^$all
@@ -6129,6 +6140,7 @@
 ||poczta-mobile.pl^$all
 ||poczta-o2.pl^$all
 ||poczta-pay.com^$all
+||poczta-polska-pl.us^$all
 ||poczta-polska.eu^$all
 ||poczta-polska.me^$all
 ||poczta-regulamin.com^$all
