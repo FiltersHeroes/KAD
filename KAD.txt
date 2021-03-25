@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 25 Mar 2021, 20:04 UTC+01
-! Version: 2021.3.25.2
+! Last modified: Thu, 25 Mar 2021, 21:24 UTC+01
+! Version: 2021.3.25.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -256,6 +256,7 @@
 ||cbldc.io^$all
 ||cda-bez-limitu.pl^$all
 ||cda-filmy.com.pl^$all
+||cdsportadapte91.fr^$all
 ||centrummedia.com.pl^$all
 ||centrummedycyny.pl^$all
 ||centrumnaukowe.eu^$all
@@ -1853,11 +1854,13 @@
 ||0n.click^$all
 ||abihpopihigh.tk^$all
 ||abrakasba.space^$all
+||academy-bitcoin.com^$all
 ||adaranth.com^$all
 ||adsbtrack.com^$all
 ||adservd.com^$all
 ||alatcommu.gq^$all
 ||alfik-fik.com^$all
+||allgo.xyz^$all
 ||all-tube.pl^$all
 ||arcicalonetal.pro^$all
 ||ascraftan.com^$all
@@ -1881,6 +1884,7 @@
 ||buytondiacyrid.tk^$all
 ||cerine-posals.icu^$all
 ||claimyourprizes*.life^$all
+||clck-now.com^$all
 ||cld4r.com^$all
 ||clickjump.biz^$all
 ||clickpush.biz^$all
@@ -1888,9 +1892,11 @@
 ||clip.today^$all
 ||coma.com.pl/userfiles/*.xml$document
 ||commanods.xyz^$all
+||cr-toptom.com^$all
 ||d8x.pl^$all
 ||decynsire.com^$all
 ||developfirstline.com^$all
+||ecurewealthygains.com^$all
 ||eeu.pl^$all
 ||elinladpati.tk^$all
 ||eworldtrack.com^$all
@@ -1910,8 +1916,10 @@
 ||gamefiles.pl^$all
 ||gaming001.site^$all
 ||getalinkandshare.com^$all
+||ggljjk.cc^$all
 ||giftprizewinner.com^$all
 ||global-mobile-apps-repository.life^$all
+||go2internal.com^$all
 ||gogorihc.space^$all
 ||go-rilla.offerstrack.net^$all
 ||go.0o.click^$all
@@ -1963,6 +1971,7 @@
 ||nqslmtuswqdz.com^$all
 ||nsstudio.in^$all
 ||nu7.pl^$all
+||oav4trk.com^$all
 ||okna-lesnik.pl^$all
 ||oo.waw.pl^$all
 ||outerdobancha.tk^$all
@@ -1976,6 +1985,7 @@
 ||qwer3.pl^$all
 ||raucomtodentketp.cf^$all
 ||recepta.com.pl^$all
+||redirectsys.online^$all
 ||rescatecili.ml^$all
 ||rfv.pl^$all
 ||riestudanfreebcotee.tk^$all
@@ -2134,6 +2144,7 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
+!||torrentos.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -2180,6 +2191,7 @@
 ||4office.pl^$all
 ||4stronyzdrowia.com^$all
 ||5kplayer.pl^$all
+||5tysiecy.pl^$all
 ||6c2453dabd3776274.temporary.link^$all
 ||6m.pl^$all
 ||7demka24h7.live^$all
@@ -2302,6 +2314,7 @@
 ||akcjasamsung.e-kei.pl^$all
 ||akcja-glosowanko.eu^$all
 ||akcja-marzenie.eu^$all
+||aktienboard.com^$all
 ||aktpl.com^$all
 ||aktualizacjamessanger.blogspot.com^$all
 ||aktualizacja-poczty.online^$all
@@ -2551,6 +2564,7 @@
 ||bbcnews.pl^$all
 ||beasybd.com^$all
 ||beauty-direct.pl^$all
+||become-a-millionaire.info^$all
 ||begin.digitabook.net^$all
 ||behlenjoiner.com^$all
 ||beka.pl^$all
@@ -2558,6 +2572,7 @@
 ||benlandscaping.co.uk^$all
 ||bentyluses.com^$all
 ||benzkartel.duckdns.org^$all
+||berich.eu^$all
 ||bestcheats.cba.pl^$all
 ||bestforbikers.com^$all
 ||bestsale2021.net^$all
@@ -2595,16 +2610,23 @@
 ||birdwatcher.pl^$all
 ||bitbayinvest.net^$all
 ||bitbay-net.com^$all
+||bitcoeraappl.com^$all
+||bitcoinchampion.io^$all
+||bitcoinchampion.site^$all
 ||bitcoincodesverigerecension.com^$all
+||bitcoineranew.com^$all
 ||bitcoinerapro.com^$all
 ||bitcoinera-system.co^$all
 ||bitcoinera.app^$all
+||bitcoinera.io^$all
 ||bitcoingemini.club^$all
 ||bitcoinig.com^$all
 ||bitcoinlifestyle.io^$all
 ||bitcoinprime.net^$all
+||bitcoinprofitpro.com^$all
 ||bitcoinrevolutiontheprojectreview.com^$all
 ||bitcoinrevolution.org^$all
+||bitcoinset.pl^$all
 ||bitcoinsunrise.com^$all
 ||bitcoins-profit.com^$all
 ||bitcointime.biz^$all
@@ -2613,7 +2635,10 @@
 ||bitcointrustoptions.com^$all
 ||bitcoinup.io^$all
 ||bitcoinup.trade^$all
+||bitcoin-champion.app^$all
+||bitcoin-era.pro^$all
 ||bitcoin-loophole.io^$all
+||bitcoin-profit.org^$all
 ||bitcoin-storm.com^$all
 ||bitcoin-trader-app.com^$all
 ||bitgenises.com^$all
@@ -2685,6 +2710,7 @@
 ||bsonus.xyz^$all
 ||btcbillionaire-app.com^$all
 ||btcduke.com^$all
+||btchampsapps.com^$all
 ||btcprofitnow.club^$all
 ||btc-billionaire.com^$all
 ||btc-era.com^$all
@@ -2773,6 +2799,7 @@
 ||cennnik.in.net^$all
 ||centralmovies.network^$all
 ||centram24.pl^$all
+||centre.com.pl^$all
 ||centrolinguisticorobert.com^$all
 ||centrum24.santanber.pl^$all
 ||centrumofert24.com^$all
@@ -2825,6 +2852,7 @@
 ||cloud-idea.at^$all
 ||cloud-sso-idea.at^$all
 ||cloud-sso-idea.pl^$all
+||clpfoundation.org^$all
 ||clubedoestudante.net.br^$all
 ||cmcxxmarket.com^$all
 ||cmentosrl.com^$all
@@ -2836,6 +2864,7 @@
 ||coincasso.com^$all
 ||coincasso.io^$all
 ||coindeskoption.com^$all
+||coininsider.com^$all
 ||coinmaximalist.com^$all
 ||coinpayhub.ltd^$all
 ||collinsink.cabanova.com^$all
@@ -2871,13 +2900,18 @@
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
 ||credit-agricole-fr.de.cool^$all
+||criptoeconomia.com.br^$all
+||cripto-valuta.net^$all
 ||cristal2017.argo.host^$all
 ||crowd1.com^$all
 ||crptengine.cyou^$all
 ||crtum.top^$all
+||cryplister.com^$all
+||cryptobest.eu^$all
 ||cryptofundfx.com^$all
 ||cryptolegacypro.com^$all
 ||cryptolimited.net^$all
+||cryptoprofit.pl^$all
 ||crypto-engine.pl^$all
 ||crypto-genius.privatecatalog.pro^$all
 ||crypto-worldinvestments.com^$all
@@ -2917,6 +2951,7 @@
 ||czlonkow-wybieraj.eu^$all
 ||czyn-pomocy.eu^$all
 ||czyscidlo.pl^$all
+||czytooszustwo.pl^$all
 ||c*.tmweb.ru/weryfikacja/$all
 ||c.pl^$document,domain=~www.c.pl
 ||d0stawadhi.com^$all
@@ -3271,6 +3306,7 @@
 ||ekskluzywneapartamenty.com^$all
 ||ekspresovvo.com^$all
 ||electroenchufe.com^$all
+||electro-house.com.pl^$all
 ||electrumltc.org^$all
 ||elektromax-serwis.pl^$all
 ||elektronicze-poszukiwania.eu^$all
@@ -3572,6 +3608,8 @@
 ||film-vod.pl^$all
 ||filser.co^$all
 ||financesucceed.webador.com^$all
+||financexbt.net^$all
+||financialmarketsworld.com^$all
 ||financial-times-appp.github.io^$all
 ||financial.org^$all
 ||finansoweswiry.pl^$all
@@ -3635,6 +3673,7 @@
 ||fraktal-trader.pl^$all
 ||frankkoch.club^$all
 ||frankokurier.com^$all
+||frau-margarete.de^$all
 ||fra-netflix.com^$all
 ||freecoronavirusoffer.com^$all
 ||freefollower.eu^$all
@@ -3859,6 +3898,7 @@
 ||granolamogleys.com^$all
 ||graotron.biz^$all
 ||grazefoot.com^$all
+||greenfinanceinitiative.org^$all
 ||greenoil.top^$all
 ||grill200.com^$all
 ||grille.biz^$all
@@ -3915,6 +3955,7 @@
 ||homelake.pl^$all
 ||homepaiement-pl-*.*.*^$all,domain=at|com
 ||homepay-pl-*.*.*^$all,domain=at|com
+||homeserver.com.pl^$all
 ||hondamarket.pl^$all
 ||honorowy-konkurs.eu^$all
 ||horse-strenght.com^$all
@@ -4295,6 +4336,7 @@
 ||ippko.fun^$all
 ||ippko.site^$all
 ||ippko.website^$all
+||ipsnews.net^$all
 ||ip-64-202-189-152.ip.secureserver.net^$all
 ||ip-148-72-215-214.ip.secureserver.net^$all
 ||ip-208-109-15-233.ip.secureserver.net^$all
@@ -4461,6 +4503,7 @@
 ||koopon.pl^$all
 ||koordynatorbhp.pl^$all
 ||kopalniaskarbow.com.pl^$all
+||kopaniebitcoin.pl^$all
 ||koronawirusnews.com.pl^$all
 ||koronawirusnews.net.pl^$all
 ||kosmetyczne-wow.co.pl^$all
@@ -4478,6 +4521,7 @@
 ||kronika-miasta.website^$all
 ||kryptointeres.pl^$all
 ||kryptono.exchange^$all
+||kryptoportal.pl^$all
 ||krzysztofa.com.pl^$all
 ||ksado.com^$all
 ||ksero-krosno.pl^$all
@@ -4530,6 +4574,7 @@
 ||latarkapowerstyle-pl.com^$all
 ||lauraboerci.com^$all
 ||ld-netflix.com^$all
+||leaderstandard.com^$all
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
 ||learn-to-observe.co.pl^$all
@@ -4538,6 +4583,7 @@
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl
 ||legioncrest.com^$all
 ||lena-moda.shop^$all
+||lending-for-europe.eu^$all
 ||lepszeoceny.pl^$all
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
@@ -4621,6 +4667,7 @@
 ||login.platnosci-ntf.jumonix.co.pl^$all
 ||login.unlimited.serials.movies.tv.shows.ganjrss.ir^$all
 ||logononfb.n4t.co^$all
+||logowanie-bnpparibas.at^$all
 ||logowanie-bnpparibas.xyz^$all
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-play-pl.selfip.net^$all
@@ -4701,6 +4748,7 @@
 ||margohack.za.pl^$all
 ||marialoechert.pl^$all
 ||mariapolska.pl^$all
+||marina-warszawa.pl^$all
 ||marketing-messenger.com^$all
 ||marketplace-olx.pl^$all
 ||marketpluse.com^$all
@@ -4831,6 +4879,7 @@
 ||momoxxio.com^$all
 ||money-for-you-*.ru^$all
 ||monfex.com^$all
+||monitorfx.pl^$all
 ||monitoring-pocztapolska.net^$all
 ||monivpl.weebly.com^$all
 ||monpay.site^$all
@@ -4975,6 +5024,7 @@
 ||newsleter.you2.pl^$all
 ||newspl.gq^$all
 ||newspolska.online^$all
+||newsspypro.com^$all
 ||newsweekpl.gq^$all
 ||newsweeks.xyz^$all
 ||newsyintera24.medianewsonline.com^$all
@@ -4990,6 +5040,7 @@
 ||new-message.co^$all
 ||new-online.xyz^$all
 ||nextlevelprize.com^$all
+||nextnewaction.com^$all
 ||nfbio.com^$all
 ||nicesliders.top^$all
 ||niecodziennahistoria.co.pl^$all
@@ -5802,6 +5853,7 @@
 ||parkhiker.com^$all
 ||parkingairport.com.pl^$all
 ||parkodkrywcow.pl^$all
+||partizanlab.com^$all
 ||partneralior.pl^$all
 ||partsurmissdick.gq^$all
 ||pascolii.com^$all
@@ -6081,6 +6133,7 @@
 ||pl.bitcoinup-app.co^$all
 ||pl.bitcoin*.track*.com^$all
 ||pl.bitcoin*.t*track*.com^$all
+||pl.btcprofit.cyou^$all
 ||pl.cash-pays.live^$all
 ||pl.centrumoferty.com^$all
 ||pl.de-livery.su^$all
@@ -6459,6 +6512,8 @@
 ||preblogs.com^$all
 ||pregierzrozumu.pl^$all
 ||premacc.pl^$all
+||premieroffr.com^$all
+||premieroffr.org^$all
 ||premiumtradecapital.co.uk^$all
 ||presidioinvestmentsltd.com^$all
 ||prevski.com^$all
@@ -6692,6 +6747,7 @@
 ||runda-stronnicza.eu^$all
 ||runda-wygranych.eu^$all
 ||run-germany.com^$all
+||rynekbitcoin.pl^$all
 ||rywalizacja-ludzi.eu^$all
 ||rzemieslnikpilzno.pl^$all
 ||s0o.cc^$all
@@ -6760,6 +6816,7 @@
 ||secureclick20.com^$all
 ||securescout.de^$all
 ||securetradeapp.com^$all
+||securewealthygains.com^$all
 ||secure-bank-getin.xyz^$all
 ||secure-getinbank.com^$all
 ||secure-getinbank.xyz^$all
@@ -6945,6 +7002,7 @@
 ||specjalservice.pl^$all
 ||spectralanddotech.com^$all
 ||specyfika.xn.pl^$all
+||speedkredyt.pl^$all
 ||speed-dates.pl^$all
 ||sperrypolska.com^$all
 ||spillerfanside.com^$all
@@ -7074,6 +7132,7 @@
 ||sunflagsteel.com^$all
 ||sunlight177.wixsite.com^$all
 ||sunrisedvdrentals.com^$all
+||supaflyvos.net^$all
 ||superchance-forwin*.life^$all
 ||superdrypolska.com^$all
 ||supergra2020.wixsite.com^$all
@@ -7181,6 +7240,7 @@
 ||tewiadomosci.online^$all
 ||tfks19yr6ykp3ud.likemyish.com^$all
 ||thebiggestpromotiononearth.com^$all
+||thebitqtapp.com^$all
 ||thecrypto-genius.net^$all
 ||thefortunatenutrition.com^$all
 ||thehonorgold.com^$all
@@ -7194,6 +7254,7 @@
 ||the-bitcoins-evolution.net^$all
 ||the-bitcoin-profit.com^$all
 ||the-newse.com^$all
+||the-news-spy.info^$all
 ||thinhvuongmedia.com^$all
 ||think1.com^$all
 ||timepizza.fun^$all
@@ -7209,6 +7270,7 @@
 ||toe-corrector-pl.com^$all
 ||tojestnewsprawdziwy.xyz^$all
 ||tojestto.is-best.net^$all
+||tokeny.pl^$all
 ||tolerujmy-ludzi.eu^$all
 ||tomorrowcrypto.vip^$all
 ||tomypolacy.online^$all
@@ -7332,6 +7394,7 @@
 ||ukradzione-zdjecia.vot.pl^$all
 ||ukryte-dane.v07.pl^$all
 ||ultimate-opportunities.com^$all
+||ultraonlinepl.com^$all
 ||ultra-cda.pl^$all
 ||ulubioneoferty.com^$all
 ||umariki.pl^$all
