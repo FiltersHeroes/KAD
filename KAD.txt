@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 25 Mar 2021, 16:04 UTC+01
-! Version: 2021.3.25.1
+! Last modified: Thu, 25 Mar 2021, 20:04 UTC+01
+! Version: 2021.3.25.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4212,6 +4212,7 @@
 ||inpost.pl-safeorders.store^$all
 ||inpost.pl-safeorders.xyz^$all
 ||inpost.pl-safepay.xyz^$all
+||inpost.pl-safepost.surf^$all
 ||inpost.pl-savecash.store^$all
 ||inpost.pl-savedealing.casa^$all
 ||inpost.pl-savedeals.casa^$all
@@ -5505,6 +5506,7 @@
 ||olx.pl-post.cyou^$all
 ||olx.pl-post.work^$all
 ||olx.pl-safepost.icu^$all
+||olx.pl-safepost.surf^$all
 ||olx.pl-safety.oferta-payment.cloud^$all
 ||olx.pl-sklep.club^$all
 ||olx.pl-sklep.live^$all
@@ -5515,6 +5517,7 @@
 ||olx.pl.oferta-payment.design^$all
 ||olx.pl.oferta-payment.fun^$all
 ||olx.pl.oferta-payment.live^$all
+||olx.pl.oferta-payment.website^$all
 ||olx.pl.pays-complete.com^$all
 ||olx.pl.safe-deal.top^$all
 ||olx.pl.safe-payment.top^$all
@@ -6698,6 +6701,7 @@
 ||sabiosdelamor.co^$all
 ||safedealpln.link^$all
 ||safetrade365.com^$all
+||safety-dellivery.online^$all
 ||safety-dellivery.site^$all
 ||safety-dostawa.info^$all
 ||safety-dostawa.net^$all
@@ -7801,6 +7805,7 @@
 ||zlecaj-wybory.eu^$all
 ||zlecone.xn.pl^$all
 ||zloty-lider.eu^$all
+||zlot.me^$all
 ||zmiananalepsze.pl^$all
 ||zmiltraf.website^$all
 ||znajdziemy.icu^$all
