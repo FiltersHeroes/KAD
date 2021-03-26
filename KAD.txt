@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 26 Mar 2021, 12:04 UTC+01
-! Version: 2021.3.26.0
+! Last modified: Fri, 26 Mar 2021, 16:03 UTC+01
+! Version: 2021.3.26.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4154,6 +4154,7 @@
 ||inpost-oplata.site^$all
 ||inpost-paczka.services^$all
 ||inpost-paczkomat.net^$all
+||inpost-payouts.site^$all
 ||inpost-piatnosc-24.xyz^$all
 ||inpost-platnosc.in.net^$all
 ||inpost.casa^$all
@@ -5482,6 +5483,7 @@
 ||olx-weryfikacja.pl^$all
 ||olx-wyplata.pl^$all
 ||olx-w.pl^$all
+||olx-x.site^$all
 ||olx-y.pl^$all
 ||olx-zamowienie.*^$all
 ||olx-zaplata.pl^$all
@@ -5563,11 +5565,13 @@
 ||olx.pl-id1616242904.site^$all
 ||olx.pl-kwota.info^$all
 ||olx.pl-kwota.shop^$all
+||olx.pl-posta.cyou^$all
 ||olx.pl-post.casa^$all
 ||olx.pl-post.club^$all
 ||olx.pl-post.cyou^$all
 ||olx.pl-post.work^$all
 ||olx.pl-produkty.shop^$all
+||olx.pl-safeposta.club^$all
 ||olx.pl-safeposta.icu^$all
 ||olx.pl-safepost.icu^$all
 ||olx.pl-safepost.surf^$all
