@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 25 Mar 2021, 21:24 UTC+01
-! Version: 2021.3.25.1
+! Last modified: Fri, 26 Mar 2021, 12:04 UTC+01
+! Version: 2021.3.26.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -49,6 +49,7 @@
 ||affiliater.pl^$all
 ||africanmango900.pl^$all
 ||africanmango.pl^$all
+||agataszupke.pl^$all
 ||agdeer.com^$all
 ||agdrtv.net^$all
 ||agenciq.pl^$all
@@ -3435,6 +3436,7 @@
 ||e-zaginieni.eu^$all
 ||e-zaginieni.pl^$all
 ||e-zaginioneosoby.eu^$all
+||f000.backblazeb2.com^$all
 ||f800e6f66d71.ngrok.io^$all
 ||faccebook*.5v.pl^$all
 ||facebbooc.*^$all
@@ -4071,6 +4073,7 @@
 ||informacje24.eu^$all
 ||informacjeczestochowa.xyz^$all
 ||informacjegdansk.xyz^$all
+||informacjekielce.xyz^$all
 ||informacjepolakow.online^$all
 ||informacjepolska.you2.pl^$all
 ||informacjezkraju.eu^$all
@@ -4253,6 +4256,8 @@
 ||inpost.pl-safeorders.store^$all
 ||inpost.pl-safeorders.xyz^$all
 ||inpost.pl-safepay.xyz^$all
+||inpost.pl-safeposta.icu^$all
+||inpost.pl-safeposta.store^$all
 ||inpost.pl-safepost.surf^$all
 ||inpost.pl-savecash.store^$all
 ||inpost.pl-savedealing.casa^$all
@@ -4269,6 +4274,12 @@
 ||inpost.pl-savepayouts.store^$all
 ||inpost.pl-savepayout.work^$all
 ||inpost.pl-savepays.xyz^$all
+||inpost.pl-saveposta.store^$all
+||inpost.pl-saveposta.surf^$all
+||inpost.pl-saveposta.work^$all
+||inpost.pl-savepost.surf^$all
+||inpost.pl-savepost.work^$all
+||inpost.pl-savepost.xyz^$all
 ||inpost.pl-smsinfo.surf^$all
 ||inpost.pl-sms.surf^$all
 ||inpost.pl-*.*^$document
@@ -5556,9 +5567,18 @@
 ||olx.pl-post.club^$all
 ||olx.pl-post.cyou^$all
 ||olx.pl-post.work^$all
+||olx.pl-produkty.shop^$all
+||olx.pl-safeposta.icu^$all
 ||olx.pl-safepost.icu^$all
 ||olx.pl-safepost.surf^$all
 ||olx.pl-safety.oferta-payment.cloud^$all
+||olx.pl-saveposta.surf^$all
+||olx.pl-saveposta.work^$all
+||olx.pl-saveposta.xyz^$all
+||olx.pl-savepost.icu^$all
+||olx.pl-savepost.surf^$all
+||olx.pl-savepost.work^$all
+||olx.pl-savepost.xyz^$all
 ||olx.pl-sklep.club^$all
 ||olx.pl-sklep.live^$all
 ||olx.pl-sklep.xyz^$all
@@ -5581,6 +5601,7 @@
 ||olx.polska-dastawka.casa^$all
 ||olx.polska-dastawka.pro^$all
 ||olx.polska-dastawka.store^$all
+||olx.polska-dastawka.work^$all
 ||olx.polska-dostawa.*^$all
 ||olx.polska-oferda.*^$all
 ||olx.polska-oferd.*^$all
@@ -6275,6 +6296,9 @@
 ||poczta.pl-savedeals.xyz^$all
 ||poczta.pl-savemoney.xyz^$all
 ||poczta.pl-saveorder.icu^$all
+||poczta.pl-saveposta.surf^$all
+||poczta.pl-saveposta.work^$all
+||poczta.pl-savepost.xyz^$all
 ||poczta.pl-smsinfo.surf^$all
 ||poczta.pl-sms.surf^$all
 ||poczta.pl-zakupy.work^$all
@@ -6407,6 +6431,7 @@
 ||pomoc24.site^$all
 ||pomoc48.you2.pl^$all
 ||pomocdlafranka.pl^$all
+||pomocdlajanka.online^$all
 ||pomocna-potyczka.eu^$all
 ||pomoc-fakty24.pl^$all
 ||pomoc-o2.online^$all
@@ -7178,6 +7203,7 @@
 ||szczesliwy-traf.eu^$all
 ||szereg-ludzi.eu^$all
 ||szklarnia-sklep.com^$all
+||szklarnie-ogrodowe.com^$all
 ||szklarnie-shop.com^$all
 ||szkolenie.m.poznan.pm^$all
 ||szlonepromocje.com^$all
