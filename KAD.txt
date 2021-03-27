@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 27 Mar 2021, 12:04 UTC+01
-! Version: 2021.3.27.0
+! Last modified: Sat, 27 Mar 2021, 16:04 UTC+01
+! Version: 2021.3.27.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -5462,6 +5462,7 @@
 ||olx-pl.eupay.website^$all
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.eu^$all
+||olx-pl.ez-pays.ru^$all
 ||olx-pl.getc.icu^$all
 ||olx-pl.id*.ru^$all
 ||olx-pl.info^$all
@@ -5629,6 +5630,7 @@
 ||olx.pl-produkty.shop^$all
 ||olx.pl-safeposta.club^$all
 ||olx.pl-safeposta.icu^$all
+||olx.pl-safeposta.surf^$all
 ||olx.pl-safepost.icu^$all
 ||olx.pl-safepost.surf^$all
 ||olx.pl-safety.oferta-payment.cloud^$all
@@ -5644,6 +5646,7 @@
 ||olx.pl-sklep.xyz^$all
 ||olx.pl-sprzedaz.shop^$all
 ||olx.pl-*.*^$document
+||olx.pl.oferta-payment.art^$all
 ||olx.pl.oferta-payment.biz^$all
 ||olx.pl.oferta-payment.design^$all
 ||olx.pl.oferta-payment.fun^$all
@@ -5814,6 +5817,7 @@
 ||osobyzagionione.eu^$all
 ||ospkrutyn.pl^$all
 ||ostatniachwila.freekru.pl^$all
+||ostatniaminutapl.online^$all
 ||ostatnia-faza.eu^$all
 ||oszczedzanie-na-ekranie.pl^$all
 ||oszczepionkach.you2.pl^$all
@@ -6118,6 +6122,7 @@
 ||platnosci.netflix.kutuasetat.com^$all
 ||platnosci.xyz^$all
 ||platnosc-kurier.com^$all
+||platnosc-online.in.net^$all
 ||platnosc-online.website^$all
 ||platnosc-paczkomat.online^$all
 ||platnosc-paczkomat.space^$all
