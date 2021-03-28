@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 27 Mar 2021, 16:04 UTC+01
-! Version: 2021.3.27.1
+! Last modified: Sun, 28 Mar 2021, 13:04 UTC+02
+! Version: 2021.3.28.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4249,6 +4249,7 @@
 ||inpost.pl-ordered.store^$all
 ||inpost.pl-ordered.work^$all
 ||inpost.pl-ordered.xyz^$all
+||inpost.pl-posta.casa^$all
 ||inpost.pl-post.club^$all
 ||inpost.pl-receive.cyou^$all
 ||inpost.pl-receive.store^$all
@@ -4296,6 +4297,7 @@
 ||inpost.pl-savepayouts.store^$all
 ||inpost.pl-savepayout.work^$all
 ||inpost.pl-savepays.xyz^$all
+||inpost.pl-saveposta.icu^$all
 ||inpost.pl-saveposta.store^$all
 ||inpost.pl-saveposta.surf^$all
 ||inpost.pl-saveposta.work^$all
@@ -4475,6 +4477,7 @@
 ||kaszubskidomek.pl^$all
 ||katallog.pl^$all
 ||katastrofa.eu^$all
+||kazdyjakoszaczyna.online^$all
 ||kazdymozepomocitv.club^$all
 ||kebhbn.com^$all
 ||kedzierzyn-kozle.tonasze-miasto.co.pl^$all
@@ -5628,6 +5631,7 @@
 ||olx.pl-post.cyou^$all
 ||olx.pl-post.work^$all
 ||olx.pl-produkty.shop^$all
+||olx.pl-safelypost.casa^$all
 ||olx.pl-safeposta.club^$all
 ||olx.pl-safeposta.icu^$all
 ||olx.pl-safeposta.surf^$all
@@ -5981,6 +5985,7 @@
 ||pay29-olx.pl^$all
 ||pay30-olx.pl^$all
 ||pay31-olx.pl^$all
+||pay32-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -7659,6 +7664,7 @@
 ||wersow-gola24.mypressonline.com^$all
 ||weryfikacja-kosmetyczki.biz^$all
 ||weryfikacja-kosmetyczki.com^$all
+||weryfikacja-paczki-24.xyz^$all
 ||weryfikacja-paczki.in.net^$all
 ||weryfikacja-weryfikacja.pl^$all
 ||weryfikacja.xyz^$all
@@ -8025,6 +8031,7 @@
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
 ||zweryfikuj-platnosc.in.net^$all
+||zweryflkuj-platnosc24.xyz^$all
 ||zwieksz-rozmiar.com^$all
 ||zwierzoszop.com^$all
 ||zwrocsluch.site^$all
