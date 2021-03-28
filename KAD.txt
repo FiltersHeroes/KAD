@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 28 Mar 2021, 17:03 UTC+02
-! Version: 2021.3.28.1
+! Last modified: Sun, 28 Mar 2021, 21:04 UTC+02
+! Version: 2021.3.28.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1956,6 +1956,7 @@
 ||miresnahapsi.pro^$all
 ||mobile*-global-apps-stor*.life^$all
 ||mobile-app-vault.life^$all
+||mobile-productplace.net^$all
 ||mobile-redirection.com^$all
 ||mobstarr.com^$all
 ||monetizer.info^$all
@@ -1996,6 +1997,7 @@
 ||sauwoaptain.com^$all
 ||schington.com^$all
 ||securecloud-smart.com^$all
+||sepa-wissen.de^$all
 ||shopsneakers.pl^$all
 ||skroc-link.ga^$all
 ||sm4ll.in^$all
@@ -2006,7 +2008,7 @@
 ||t1ny.in^$all
 ||tankescape.com^$all
 ||tedsaliesdirekt.info^$all
-||thisisclicksecured.page.link^^$all
+||thisisclicksecured.page.link^$all
 ||togetherforwine.com^$all
 ||torchscor.com^$all
 ||track-enable.com^$all
@@ -2160,7 +2162,7 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{4,30}\d{3}[a-z]{4,30}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{4,30}\d{2,3}[a-z]{4,30}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$document,domain=~facebook.com
@@ -2767,6 +2769,7 @@
 ||cardinalholdingsltd.com^$all
 ||catbuty.pl^$all
 ||catsplit.net.pl^$all
+||catsplit.pl^$all
 ||cats.ugu.pl^$all
 ||cbdnewsdirect.com^$all
 ||cbd-and-seizures.com^$all
@@ -3138,6 +3141,7 @@
 ||dobrapraca*.ct8.pl^$all
 ||dobra-bramka-sms.pl^$all
 ||dobra-notka.eu^$all
+||dobregry.com^$all
 ||dobreplany.com^$all
 ||dobreprogramy.pro^$all
 ||dobre-filmy.pl^$all
@@ -3858,6 +3862,7 @@
 ||gkpge.click^$all
 ||gkpge.link^$all
 ||gladkie-glosowanko.eu^$all
+||globalelectronics.pl^$all
 ||globalmaxis.com^$all
 ||globalmodels.pl^$all
 ||glob-markets.net^$all
@@ -3974,6 +3979,7 @@
 ||hlestersmith.com^$all
 ||hodowlafanaberia.pl^$all
 ||holylamaoffers.com^$all
+||homearena.pl^$all
 ||homelake.pl^$all
 ||homepaiement-pl-*.*.*^$all,domain=at|com
 ||homepay-pl-*.*.*^$all,domain=at|com
@@ -5101,6 +5107,7 @@
 ||nextlevelprize.com^$all
 ||nextnewaction.com^$all
 ||nfbio.com^$all
+||niapublications.org^$all
 ||nicesliders.top^$all
 ||niecodziennahistoria.co.pl^$all
 ||niedlich.pl^$all
@@ -5474,6 +5481,7 @@
 ||olx-pl.ml^$all
 ||olx-pl.moneta.world^$all
 ||olx-pl.net^$all
+||olx-pl.oferta-payment.art^$all
 ||olx-pl.oferta-payment.cloud^$all
 ||olx-pl.oferta-payment.link^$all
 ||olx-pl.oferta-payment.live^$all
@@ -5620,6 +5628,7 @@
 ||olx.pl-id1616242901.site^$all
 ||olx.pl-id1616242902.site^$all
 ||olx.pl-id1616242904.site^$all
+||olx.pl-id1616762403.site^$all
 ||olx.pl-kwota.info^$all
 ||olx.pl-kwota.shop^$all
 ||olx.pl-posta.casa^$all
@@ -5640,6 +5649,7 @@
 ||olx.pl-safepost.icu^$all
 ||olx.pl-safepost.surf^$all
 ||olx.pl-safety.oferta-payment.cloud^$all
+||olx.pl-saveposta.club^$all
 ||olx.pl-saveposta.surf^$all
 ||olx.pl-saveposta.work^$all
 ||olx.pl-saveposta.xyz^$all
@@ -6725,6 +6735,7 @@
 ||pulsbihzdnmnesu.info^$all
 ||pulsoksymetr*pl.com^$all
 ||pumaoutletpl.pl^$all
+||pumarsxpl.com^$all
 ||pumarsxpolska.com^$all
 ||pumashoppl.pl^$all
 ||pumeksy.pl^$all
@@ -7437,6 +7448,7 @@
 ||trotamundos.com.pl^$all
 ||trsmarkets.com^$all
 ||truegamers.ga^$all
+||trzymajpoziom.pl^$all
 ||tujestpolska.icu^$all
 ||tunaszapolska.xyz^$all
 ||tunehub247shop.com^$all
@@ -8005,6 +8017,7 @@
 ||zhaoyouxiu.com^$all
 ||zimbramail1111.000webhostapp.com^$all
 ||zimowewyzwanie.pl^$all
+||zlatski.pl^$all
 ||zlecaj-wybory.eu^$all
 ||zlecone.xn.pl^$all
 ||zloty-lider.eu^$all
