@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 28 Mar 2021, 13:04 UTC+02
-! Version: 2021.3.28.0
+! Last modified: Sun, 28 Mar 2021, 17:03 UTC+02
+! Version: 2021.3.28.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4600,6 +4600,7 @@
 ||kurier-naieznosc.host^$all
 ||kurier-naleznosc.in.net^$all
 ||kurier-naleznosc.life^$all
+||kurier-oczekuiacy.in.net^$all
 ||kurier-platnosci.services^$all
 ||kurier-pocztex24.com^$all
 ||kurjerzy-pl.cyou^$all
@@ -5632,6 +5633,7 @@
 ||olx.pl-post.work^$all
 ||olx.pl-produkty.shop^$all
 ||olx.pl-safelypost.casa^$all
+||olx.pl-safelypost.store^$all
 ||olx.pl-safeposta.club^$all
 ||olx.pl-safeposta.icu^$all
 ||olx.pl-safeposta.surf^$all
@@ -6359,6 +6361,7 @@
 ||poczta.pl-safedeal.xyz^$all
 ||poczta.pl-safelypay.cyou^$all
 ||poczta.pl-safelypay.xyz^$all
+||poczta.pl-safelypost.surf^$all
 ||poczta.pl-safely.store^$all
 ||poczta.pl-safepayments.icu^$all
 ||poczta.pl-safepayments.surf^$all
@@ -7961,6 +7964,7 @@
 ||zapisy-akceptuj.eu^$all
 ||zapisy.fractaltrader.pl^$all
 ||zapisz-kompendium.eu^$all
+||zaplac-paczkomat24.xyz^$all
 ||zaplac-teraz-24.site^$all
 ||zaplac-teraz.live^$all
 ||zaplac-za-paczke.space^$all
