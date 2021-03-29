@@ -3946,7 +3946,7 @@
 ||pekano.xyz^$all
 ||pekaobank.ru^$all
 ||pekaocalbank.com^$all
-||pekao.*^$document,domain=~pekao.pl|~pekao.com.pl
+!||pekao.*^$document,domain=~pekao.pl|~pekao.com.pl
 ||pelie.pl^$all
 ||pelnizycialudzie.co.pl^$all
 ||pelpey.net^$all
