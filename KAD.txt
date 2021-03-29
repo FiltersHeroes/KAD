@@ -4,7 +4,7 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 29 Mar 2021, 21:38 UTC+02
+! Last modified: Mon, 29 Mar 2021, 23:22 UTC+02
 ! Version: 2021.3.29.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -85,7 +85,6 @@
 ||am-med.com^$all
 ||androidgameshacks.com^$all
 ||andrzejniemczyk.pl^$all
-||andrzej-adryan.pl^$all
 ||anetakonik.pl^$all
 ||angelclassy.com^$all
 ||animi2.com^$all
@@ -599,7 +598,6 @@
 ||glams.pl^$all
 ||glinkss.com^$all
 ||gliwicekomornik.com.pl^$all
-||glodni.com.pl^$all
 ||gmagazyn.pl^$all
 ||gojiberry500.pl^$all
 ||gokano.com^$all
@@ -1043,7 +1041,6 @@
 ||newpassporn.com^$all
 ||nicolosi.pl^$all
 ||niechoruje.pl^$all
-||nieruchomosci-kalisz.com.pl^$all
 ||nightclubpalma.pl^$all
 ||nikedctstore.pl^$all
 ||nikeoutlet.pl^$all
@@ -1599,7 +1596,6 @@
 ||tomaszrabinski.pl^$all
 ||tomasz-madej.pl^$all
 ||tomekwrosole.pl^$all
-||tomojbiznes.pl^$all
 ||tootu.pl^$all
 ||topbateria.pl^$all
 ||topceny.pl^$all
@@ -1625,12 +1621,10 @@
 ||tresurapsow.com.pl^$all
 ||triggerinstalls.com^$all
 ||trionz.pl^$all
-||tropik.com.pl^$all
 ||trusttastic.com^$all
 ||trybikowo.pl^$all
 ||trychologos.pl^$all
 ||tuchos.pl^$all
-||tukociel.pl^$all
 ||turboostrowiec.pl^$all
 ||turystyczne-suwalki.pl^$all
 ||turystykapolska.com.pl^$all
@@ -1638,7 +1632,6 @@
 ||twojakawa24.pl^$all
 ||twojalaweta.com.pl^$all
 ||twoja-kariera.pl^$all
-||twoja-pozyczka.com^$all
 ||twoja-wygrana.com^$all
 ||twojekwatery.com.pl^$all
 ||twojewakacje.com.pl^$all
@@ -1670,7 +1663,6 @@
 ||urwijnagrody.pl^$all
 ||urzadzeniawgastro.com.pl^$all
 ||usunwirusa.pl^$all
-||uswiadomieni.pl^$all
 ||vabank.org.pl^$all
 ||vadecorso.pl^$all
 ||vanhanzdach.pl^$all
@@ -1691,7 +1683,6 @@
 ||veryvoga.pl^$all
 ||vewvwm.myshopify.com^$all
 ||vfastdownload.com^$all
-||vibbo.pl^$all
 ||vidaxl.pl^$all
 ||videodownloadconverter.com^$all
 ||vipcheats.us^$all
@@ -1765,7 +1756,6 @@
 ||wszystkomamy.pl^$all
 ||wwinvestgroup.pl^$all
 ||wybierzgdansk.pl^$all
-||wycenamaszyn-wgn.pl^$all
 ||wyciag-gwarek.pl^$all
 ||wydawnictwo-systherm.pl^$all
 ||wyjasniamy.eu^$all
@@ -1774,7 +1764,6 @@
 ||wypoczywajunas.pl^$all
 ||wyremontujklinike.pl^$all
 ||wyspaofert.com^$all
-||wytfforniaglosu.pl^$all
 ||wytypowany-zwyciezca.com^$all
 ||wytypowany-zwyciezca.pl^$all
 ||xamak10.com^$all
@@ -1831,7 +1820,6 @@
 ||zielonydizajn.pl^$all
 ||zielony-bazarek.pl^$all
 ||ziololecznictwo.pl^$all
-||zirconart.pl^$all
 ||zkotami.pl^$all
 ||zmall.pl^$all
 ||zmotoryzowani24.pl^$all
@@ -1848,12 +1836,9 @@
 ||zspbytonia.pl^$all
 ||zspkoscielec.pl^$all
 ||zsporchowo.pl^$all
-||zszzarnow.pl^$all
 ||zukiewicz.com^$all
-||zupaskarbow.pl^$all
 ||zurtchojnice.pl^$all
 ||zwiekszycsprzedaz.pl^$all
-||zwierzynieckrakowski.pl^$all
 ||z-promo.com^$all
 !
 ! Przekierowują do innych stron z przekrętami
@@ -2154,6 +2139,7 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
+!||pekao.*^$document,domain=~pekao.pl|~pekao.com.pl
 !||torrentos.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
@@ -2597,7 +2583,6 @@
 ||best-ones.website^$all
 ||best-sales.top^$all
 ||betbyt.com^$all
-||bezbig.pl^$all
 ||bezpieczenstwo.wp-pl.eu^$all
 ||bezpieczna-dostawa.biz^$all
 ||bezpieczna-dostawa.org^$all
@@ -2689,7 +2674,6 @@
 ||bony-sportowe.com.pl^$all
 ||bon-wow.co.pl^$all
 ||bookbugg.com^$all
-||bookofoffers.com^$all
 ||bookplanet.pl^$all
 ||boonbon.club^$all
 ||bootspolska.pl^$all
@@ -2772,7 +2756,6 @@
 ||caeiriolskiaopazertyiop.xyz^$all
 ||caldai.com^$all
 ||calyfilmhd.over-blog.com^$all
-||calyfilmonline.pl^$all
 ||calyfilm-onlinepl.over-blog.com^$all
 ||campaign-olx.pl^$all
 ||caneserve.com^$all
@@ -2891,7 +2874,6 @@
 ||coinpayhub.ltd^$all
 ||collinsink.cabanova.com^$all
 ||colorking.es^$all
-||communicazioni.kpi1hit5ficscvn.neysanbartehran.com^$all
 ||complainerscla.xyz^$all
 ||confusingcontact.com^$all
 ||connessionedati.com^$all
@@ -3133,7 +3115,6 @@
 ||djmateo.pl^$all
 ||djrooby.pl^$all
 ||dkonto.dkonto.pl^$all
-||dlaciebieonline.pl^$all
 ||dlaczegoniezacznniesz.space^$all
 ||dladomu.biz^$all
 ||dlaogrodu.biz^$all
@@ -3394,7 +3375,6 @@
 ||eu.nextah.com^$all
 ||evaave12.nazwa.pl^$all
 ||evekurier.org^$all
-||eventmarketing-institute.pl^$all
 ||everyday-news.you2.pl^$all
 ||every-onebritish.club^$all
 ||ewciakurier.com^$all
@@ -4268,6 +4248,7 @@
 ||inpost.pl-getpay.xyz^$all
 ||inpost.pl-getposts.club^$all
 ||inpost.pl-getposts.icu^$all
+||inpost.pl-getposts.work^$all
 ||inpost.pl-getpost.casa^$all
 ||inpost.pl-getpost.xyz^$all
 ||inpost.pl-oferta.cyou^$all
@@ -4590,7 +4571,6 @@
 ||kosmetyczne-wow.co.pl^$all
 ||kosmetyki24.eu^$all
 ||kowdent.pl^$all
-||kppsppruszczgdanski.pl^$all
 ||kproject.pl^$all
 ||kraj24.eu^$all
 ||krajpolska24.eu^$all
@@ -5220,7 +5200,6 @@
 ||odbierz.fun^$all
 ||odblerz-przesyike.xyz^$all
 ||odchudzaniewielotorowe.pl^$all
-||odchudzanie-ranking2020.com^$all
 ||oddajmy-glosujmy.eu^$all
 ||oddaj-glosiki.eu^$all
 ||oddaj-glosow.eu^$all
@@ -5552,7 +5531,6 @@
 ||olx-polland.com^$all
 ||olx-polska.com^$all
 ||olx-polska.live^$all
-||olx-polska.ml^$all
 ||olx-polska.pl^$all
 ||olx-potwierdzenie.xyz^$all
 ||olx-protection.pl^$all
@@ -5642,83 +5620,10 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
-||olx.pl-confirmed.casa^$all
-||olx.pl-confirmed.club^$all
-||olx.pl-confirmed.cyou^$all
-||olx.pl-confirmed.icu^$all
-||olx.pl-confirmed.store^$all
-||olx.pl-confirmed.surf^$all
-||olx.pl-confirmed.work^$all
-||olx.pl-confirmed.xyz^$all
-||olx.pl-confirms.casa^$all
-||olx.pl-confirms.xyz^$all
-||olx.pl-confirm.cyou^$all
-||olx.pl-confirm.work^$all
-||olx.pl-confirm.xyz^$all
-||olx.pl-getposts.casa^$all
-||olx.pl-getposts.club^$all
-||olx.pl-getposts.icu^$all
-||olx.pl-getpost.club^$all
-||olx.pl-getpost.cyou^$all
-||olx.pl-getpost.work^$all
-||olx.pl-id295982.me^$all
-||olx.pl-id1616242901.site^$all
-||olx.pl-id1616242902.site^$all
-||olx.pl-id1616242904.site^$all
-||olx.pl-id1616762403.site^$all
-||olx.pl-kwota.info^$all
-||olx.pl-kwota.shop^$all
-||olx.pl-posta.casa^$all
-||olx.pl-posta.cyou^$all
-||olx.pl-posta.icu^$all
-||olx.pl-posta.work^$all
-||olx.pl-posta.xyz^$all
-||olx.pl-posts.casa^$all
-||olx.pl-posts.club^$all
-||olx.pl-posts.cyou^$all
-||olx.pl-posts.icu^$all
-||olx.pl-posts.store^$all
-||olx.pl-posts.surf^$all
-||olx.pl-posts.work^$all
-||olx.pl-posts.xyz^$all
-||olx.pl-post.casa^$all
-||olx.pl-post.club^$all
-||olx.pl-post.cyou^$all
-||olx.pl-post.work^$all
-||olx.pl-produkty.shop^$all
-||olx.pl-safelypost.casa^$all
-||olx.pl-safelypost.store^$all
-||olx.pl-safeposta.club^$all
-||olx.pl-safeposta.icu^$all
-||olx.pl-safeposta.surf^$all
-||olx.pl-safepost.icu^$all
-||olx.pl-safepost.surf^$all
-||olx.pl-safety.oferta-payment.cloud^$all
-||olx.pl-saveposta.club^$all
-||olx.pl-saveposta.cyou^$all
-||olx.pl-saveposta.surf^$all
-||olx.pl-saveposta.work^$all
-||olx.pl-saveposta.xyz^$all
-||olx.pl-savepost.icu^$all
-||olx.pl-savepost.surf^$all
-||olx.pl-savepost.work^$all
-||olx.pl-savepost.xyz^$all
-||olx.pl-sklep.club^$all
-||olx.pl-sklep.live^$all
-||olx.pl-sklep.xyz^$all
-||olx.pl-sprzedaz.shop^$all
-||olx.pl-weryfikacja.life^$all
+||olx.pl-id1616950803.site^$all
+||olx.pl-potwierdzenie.club^$all
+||olx.pl-potwierdzenie.live^$all
 ||olx.pl-*.*^$document
-||olx.pl.oferta-payment.art^$all
-||olx.pl.oferta-payment.biz^$all
-||olx.pl.oferta-payment.design^$all
-||olx.pl.oferta-payment.fun^$all
-||olx.pl.oferta-payment.live^$all
-||olx.pl.oferta-payment.website^$all
-||olx.pl.pays-complete.com^$all
-||olx.pl.pay-information.com^$all
-||olx.pl.safe-deal.top^$all
-||olx.pl.safe-payment.top^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-ofer.me^$all
@@ -6074,6 +5979,7 @@
 ||paypal.smarthelp-115.com^$all
 ||payples.net^$all
 ||payplticket619054.info^$all
+||payrots.net^$all
 ||pays-olx.gq^$all
 ||payulink.click^$all
 ||payu-24.pl^$all
@@ -6102,7 +6008,8 @@
 ||pekano.xyz^$all
 ||pekaobank.ru^$all
 ||pekaocalbank.com^$all
-||pekao.*^$document,domain=~pekao.pl|~pekao.com.pl
+||pekao.icu^$all
+||pekao.life^$all
 ||pelie.pl^$all
 ||pelnizycialudzie.co.pl^$all
 ||pelpey.net^$all
@@ -6841,7 +6748,6 @@
 ||rangreality.com^$all
 ||ranslitera.xyz^$all
 ||raportpobierz.com^$all
-||ravlw.nearbysluts.net^$all
 ||razeleague.com^$all
 ||razempomagamy.xyz^$all
 ||razor-blade.pl^$all
@@ -7103,15 +7009,12 @@
 ||shinden-anime.info^$all
 ||shipgratis.eu^$all
 ||shippuden.com.pl^$all
-||sholtem.pl^$all
 ||shopshop-pl.com^$all
 ||shortx.in^$all
 ||showltem.pl^$all
-||showlten.pl^$all
 ||showmeflix.com^$all
 ||showmovies.pl^$all
 ||showsplash.com^$all
-||show-auctions.pl^$all
 ||shutadds.w.of.pl^$all
 ||sieciowe-losy.eu^$all
 ||sieciowe-potyczki.eu^$all
@@ -7389,7 +7292,6 @@
 ||szkolenie.m.poznan.pm^$all
 ||szlonepromocje.com^$all
 ||szokujace-nagrania.dfirma.pl^$all
-||szoten.pl^$all
 ||szpitalepolska24.dkonto.pl^$all
 ||szukajmysie.eu^$all
 ||szukammysuckesu.online^$all
@@ -7416,7 +7318,6 @@
 ||tajnespotkania.eu^$all
 ||tajskimasazsopot.pl^$all
 ||takaprawda.icu^$all
-||takegifft.net.pl^$all
 ||takjakwszyscyy.site^$all
 ||tamjuzktosbyl.cyou^$all
 ||tankhoi.vn^$all
@@ -7555,7 +7456,6 @@
 ||tvp-info.xyz^$all
 ||tvp-info.you2.pl^$all
 ||tvp-polska.dfirma.pl^$all
-||tv-internetowa.pl^$all
 ||tv-maniak.pl^$all
 ||tv.gorzow.pl^$all
 ||twenty-wishes.000webhostapp.com^$all
@@ -7679,7 +7579,6 @@
 ||vidplayer.pl^$all
 ||vikingradom.freehost.pl^$all
 ||vikmar.com.pl^$all
-||vip-agd.pl^$all
 ||viralka.pl^$all
 ||visa-payment.sytes.net^$all
 ||visitoronearthxrussellathletic.xyz^$all
@@ -7807,7 +7706,6 @@
 ||wieszzemozzesz.space^$all
 ||wiiadomoscizkrajuu.live^$all
 ||wiktorek140.cba.pl^$all
-||willapawelpogorzelica.pl^$all
 ||willa-marina.pl^$all
 ||wimaj.pl^$all
 ||wincleanerpro.com^$all
@@ -7952,7 +7850,6 @@
 ||wymierneeffekty.site^$all
 ||wynik-pomoc.eu^$all
 ||wypadki24.e-kei.pl^$all
-||wyplacamy.pl^$all
 ||wyposazeniedomow.com.pl^$all
 ||wypozycz-film.pl^$all
 ||wyraz-pomoc.eu^$all
@@ -7974,7 +7871,6 @@
 ||wysylka-olx.me^$all
 ||wysylka-olx.pl^$all
 ||wysylki.net^$all
-||wysylkowogeisparc.pl^$all
 ||wysymdhl.com^$all
 ||wysyndhl.com^$all
 ||wysysdhl.com^$all
@@ -8114,7 +8010,6 @@
 ||znaneleki.pl^$all
 ||znany-lekarz.dfirma.pl^$all
 ||znany-lekarz.pl^$all
-||znieslawienie.pl^$all
 ||zobaczfotki.eu^$all
 ||zobaczmy-sprawe.eu^$all
 ||zobacz-film.pl^$all
