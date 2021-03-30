@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 29 Mar 2021, 23:22 UTC+02
-! Version: 2021.3.29.1
+! Last modified: Tue, 30 Mar 2021, 13:03 UTC+02
+! Version: 2021.3.30.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -222,6 +222,7 @@
 ||butybrookspolska.com^$all
 ||butychukka.com^$all
 ||butyconversesklep.com^$all
+||butycrocspolska.com^$all
 ||butyeccosale.com^$all
 ||butygellyte.com^$all
 ||butyjordansklep.pl^$all
@@ -233,6 +234,7 @@
 ||butypremium.pl^$all
 ||butyreebokonline.pl^$all
 ||butyreebokpolska.com^$all
+||butyrockport.pl^$all
 ||butysalomonpolska.com^$all
 ||butysportowepolska.pl^$all
 ||butysuperstar.pl^$all
@@ -662,6 +664,7 @@
 ||humanverify.net^$all
 ||hunterkaloszeoutlet.pl^$all
 ||hunterstyle24.com^$all
+||hunterwarszawa.pl^$all
 ||hurtbuty.top^$all
 ||hurtowniagmf.pl^$all
 ||ibrainer.net^$all
@@ -937,6 +940,7 @@
 ||menshealthweb.co^$all
 ||mercuryshop-pl.com^$all
 ||merrellbuty.com^$all
+||merrelleobuwie.com^$all
 ||merrellloja.com^$all
 ||merrellpl.com^$all
 ||metaankieta.pl^$all
@@ -1044,6 +1048,7 @@
 ||nightclubpalma.pl^$all
 ||nikedctstore.pl^$all
 ||nikeoutlet.pl^$all
+||nikewarszawa.com^$all
 ||nilco.pl^$all
 ||ninawertz.pl^$all
 ||niskamaskincare.pl^$all
@@ -1302,6 +1307,7 @@
 ||reebokbutypolska.com^$all
 ||reebokploutlet.com^$all
 ||reebokskleppl.pl^$all
+||reebokwarsaw.com^$all
 ||reebok-polska.pl^$all
 ||refundacjeregionalne.pl^$all
 ||regionalnyportal.eu^$all
@@ -1587,6 +1593,7 @@
 ||tilido.com^$all
 ||timberlandpromocja.pl^$all
 ||timberlandtanio.pl^$all
+||timberlandwarszawa.pl^$all
 ||tipanddonation.com^$all
 ||tlvmw.top^$all
 ||tnfclothed.top^$all
@@ -3066,6 +3073,7 @@
 ||delivery.olx.safedeal.casa^$all
 ||delivery.olx.shipment.casa^$all
 ||delivery.olx.umowa.live^$all
+||deliver-line.ru^$all
 ||deliver-post.com^$all
 ||deliwery-olx-pl.info^$all
 ||delliverry-safe.biz^$all
@@ -3288,6 +3296,7 @@
 ||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
 ||dziewczyn.pl^$all
+||dziiendobrypollska.xyz^$all
 ||dzisiejszewywiadypl.cyou^$all
 ||dzisiejszymaterialtv.online^$all
 ||earnyourcash.net^$all
@@ -3992,6 +4001,7 @@
 ||hosting2051245.online.pro^$all
 ||hosting2108230.online.pro^$all
 ||hosting2119326.online.pro^$all
+||hosting2127385.online.pro^$all
 ||hosting2129536.online.pro^$all
 ||hosting2139479.online.pro^$all
 ||hosting2139860.online.pro^$all
@@ -4199,126 +4209,7 @@
 ||inpost.order-pl.art^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
-||inpost.pl-cash.xyz^$all
-||inpost.pl-confirmed.casa^$all
-||inpost.pl-confirmed.club^$all
-||inpost.pl-confirmed.icu^$all
-||inpost.pl-confirmed.store^$all
-||inpost.pl-confirmed.surf^$all
-||inpost.pl-confirmed.work^$all
-||inpost.pl-confirmed.xyz^$all
-||inpost.pl-confirms.icu^$all
-||inpost.pl-confirms.xyz^$all
-||inpost.pl-confirm.club^$all
-||inpost.pl-confirm.cyou^$all
-||inpost.pl-confirm.surf^$all
-||inpost.pl-confirm.work^$all
-||inpost.pl-confirm.xyz^$all
-||inpost.pl-deals.casa^$all
-||inpost.pl-deals.club^$all
-||inpost.pl-deals.cyou^$all
-||inpost.pl-deals.icu^$all
-||inpost.pl-deals.surf^$all
-||inpost.pl-dostawa.cyou^$all
-||inpost.pl-getcash.club^$all
-||inpost.pl-getcash.cyou^$all
-||inpost.pl-getcash.xyz^$all
-||inpost.pl-getdeals.store^$all
-||inpost.pl-getdeals.surf^$all
-||inpost.pl-getdeals.work^$all
-||inpost.pl-getdeals.xyz^$all
-||inpost.pl-getdeal.casa^$all
-||inpost.pl-getdeal.club^$all
-||inpost.pl-getdeal.cyou^$all
-||inpost.pl-getdeal.icu^$all
-||inpost.pl-getdeal.store^$all
-||inpost.pl-getdeal.surf^$all
-||inpost.pl-getdeal.work^$all
-||inpost.pl-getdeal.xyz^$all
-||inpost.pl-getmoney.cyou^$all
-||inpost.pl-getordered.casa^$all
-||inpost.pl-getordered.club^$all
-||inpost.pl-getordered.cyou^$all
-||inpost.pl-getordered.icu^$all
-||inpost.pl-getordered.xyz^$all
-||inpost.pl-getorders.casa^$all
-||inpost.pl-getorder.store^$all
-||inpost.pl-getpayed.casa^$all
-||inpost.pl-getpayed.icu^$all
-||inpost.pl-getpay.xyz^$all
-||inpost.pl-getposts.club^$all
-||inpost.pl-getposts.icu^$all
-||inpost.pl-getposts.work^$all
-||inpost.pl-getpost.casa^$all
-||inpost.pl-getpost.xyz^$all
-||inpost.pl-oferta.cyou^$all
-||inpost.pl-oferta.surf^$all
-||inpost.pl-ordered.casa^$all
-||inpost.pl-ordered.icu^$all
-||inpost.pl-ordered.store^$all
-||inpost.pl-ordered.work^$all
-||inpost.pl-ordered.xyz^$all
-||inpost.pl-posta.casa^$all
-||inpost.pl-posts.casa^$all
-||inpost.pl-posts.club^$all
-||inpost.pl-posts.cyou^$all
-||inpost.pl-posts.store^$all
-||inpost.pl-post.club^$all
-||inpost.pl-receive.cyou^$all
-||inpost.pl-receive.store^$all
-||inpost.pl-receive.work^$all
-||inpost.pl-receive.xyz^$all
-||inpost.pl-safedeals.casa^$all
-||inpost.pl-safedeals.cyou^$all
-||inpost.pl-safedeals.icu^$all
-||inpost.pl-safedeals.store^$all
-||inpost.pl-safedeals.surf^$all
-||inpost.pl-safedeals.work^$all
-||inpost.pl-safedeals.xyz^$all
-||inpost.pl-safedeal.casa^$all
-||inpost.pl-safedeal.club^$all
-||inpost.pl-safedeal.cyou^$all
-||inpost.pl-safedeal.icu^$all
-||inpost.pl-safedeal.shop^$all
-||inpost.pl-safedeal.surf^$all
-||inpost.pl-safedeal.xyz^$all
-||inpost.pl-safelypay.cyou^$all
-||inpost.pl-safelypay.icu^$all
-||inpost.pl-safelypay.xyz^$all
-||inpost.pl-safely.store^$all
-||inpost.pl-safely.work^$all
-||inpost.pl-safeorders.casa^$all
-||inpost.pl-safeorders.cyou^$all
-||inpost.pl-safeorders.store^$all
-||inpost.pl-safeorders.xyz^$all
-||inpost.pl-safepay.xyz^$all
-||inpost.pl-safeposta.icu^$all
-||inpost.pl-safeposta.store^$all
-||inpost.pl-safepost.surf^$all
-||inpost.pl-savecash.store^$all
-||inpost.pl-savedealing.casa^$all
-||inpost.pl-savedeals.casa^$all
-||inpost.pl-savedeals.store^$all
-||inpost.pl-savedeals.work^$all
-||inpost.pl-savedeals.xyz^$all
-||inpost.pl-savedeal.work^$all
-||inpost.pl-savemoney.xyz^$all
-||inpost.pl-saveorder.cyou^$all
-||inpost.pl-saveorder.icu^$all
-||inpost.pl-saveorder.work^$all
-||inpost.pl-savepayouts.shop^$all
-||inpost.pl-savepayouts.store^$all
-||inpost.pl-savepayout.work^$all
-||inpost.pl-savepays.xyz^$all
-||inpost.pl-saveposta.icu^$all
-||inpost.pl-saveposta.store^$all
-||inpost.pl-saveposta.surf^$all
-||inpost.pl-saveposta.work^$all
-||inpost.pl-savepost.surf^$all
-||inpost.pl-savepost.work^$all
-||inpost.pl-savepost.xyz^$all
-||inpost.pl-smsinfo.surf^$all
-||inpost.pl-sms.surf^$all
+||inpost.pl-ofert0.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polska-dastawka.casa^$all
@@ -4565,6 +4456,8 @@
 ||koordynatorbhp.pl^$all
 ||kopalniaskarbow.com.pl^$all
 ||kopaniebitcoin.pl^$all
+||korespodencja-online.xyz^$all
+||korespodencja-platnosc.xyz^$all
 ||korespondencja.in.net^$all
 ||koronawirusnews.com.pl^$all
 ||koronawirusnews.net.pl^$all
@@ -5620,7 +5513,9 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-getposts.xyz^$all
 ||olx.pl-id1616950803.site^$all
+||olx.pl-ofert0.casa^$all
 ||olx.pl-potwierdzenie.club^$all
 ||olx.pl-potwierdzenie.live^$all
 ||olx.pl-*.*^$document
@@ -5962,6 +5857,8 @@
 ||pay32-olx.pl^$all
 ||pay33-olx.pl^$all
 ||pay34-olx.pl^$all
+||pay35-olx.pl^$all
+||pay36-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -6094,6 +5991,7 @@
 ||pko-bp.pl^$all
 ||pl2021.online^$all
 ||placidocn.com^$all
+||placowka-pocztowa.xyz^$all
 ||plast-chem.com.pl^$all
 ||platinumtradeinvestment.com^$all
 ||platnik*.online^$all
@@ -6378,6 +6276,7 @@
 ||pocztomix.pl^$all
 ||pocztowa24.net^$all
 ||pocztower.pl^$all
+||pocztowyonline.com^$all
 ||pocztowysa.pl^$all
 ||poczty24.net^$all
 ||poczty-24.net^$all
@@ -7532,6 +7431,7 @@
 ||uprawomocnic.moonfruit.com^$all
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
+||up-eazy1.xyz^$all
 ||urleddrug.at^$all
 ||url-rdconline7webdhglobal.blogspot.com^$all
 ||urywek-glosu.eu^$all
