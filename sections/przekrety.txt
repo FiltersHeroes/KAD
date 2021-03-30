@@ -1,6 +1,5 @@
 !||pekao.*^$document,domain=~pekao.pl|~pekao.com.pl
 !||torrentos.pl^$all
-||inpost.pl-*.*^$document
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -926,6 +925,7 @@
 ||delivery.olx.safedeal.casa^$all
 ||delivery.olx.shipment.casa^$all
 ||delivery.olx.umowa.live^$all
+||deliver-line.ru^$all
 ||deliver-post.com^$all
 ||deliwery-olx-pl.info^$all
 ||delliverry-safe.biz^$all
@@ -1148,6 +1148,7 @@
 ||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
 ||dziewczyn.pl^$all
+||dziiendobrypollska.xyz^$all
 ||dzisiejszewywiadypl.cyou^$all
 ||dzisiejszymaterialtv.online^$all
 ||earnyourcash.net^$all
@@ -1852,6 +1853,7 @@
 ||hosting2051245.online.pro^$all
 ||hosting2108230.online.pro^$all
 ||hosting2119326.online.pro^$all
+||hosting2127385.online.pro^$all
 ||hosting2129536.online.pro^$all
 ||hosting2139479.online.pro^$all
 ||hosting2139860.online.pro^$all
@@ -2059,8 +2061,8 @@
 ||inpost.order-pl.art^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
+||inpost.pl-ofert0.xyz^$all
 ||inpost.pl-*.*^$document
-
 ||inpost.poland-orders.life^$all
 ||inpost.polska-dastawka.casa^$all
 ||inpost.polska-dostawa.digital^$all
@@ -2306,6 +2308,8 @@
 ||koordynatorbhp.pl^$all
 ||kopalniaskarbow.com.pl^$all
 ||kopaniebitcoin.pl^$all
+||korespodencja-online.xyz^$all
+||korespodencja-platnosc.xyz^$all
 ||korespondencja.in.net^$all
 ||koronawirusnews.com.pl^$all
 ||koronawirusnews.net.pl^$all
@@ -3361,7 +3365,9 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-getposts.xyz^$all
 ||olx.pl-id1616950803.site^$all
+||olx.pl-ofert0.casa^$all
 ||olx.pl-potwierdzenie.club^$all
 ||olx.pl-potwierdzenie.live^$all
 ||olx.pl-*.*^$document
@@ -3703,6 +3709,8 @@
 ||pay32-olx.pl^$all
 ||pay33-olx.pl^$all
 ||pay34-olx.pl^$all
+||pay35-olx.pl^$all
+||pay36-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -3835,6 +3843,7 @@
 ||pko-bp.pl^$all
 ||pl2021.online^$all
 ||placidocn.com^$all
+||placowka-pocztowa.xyz^$all
 ||plast-chem.com.pl^$all
 ||platinumtradeinvestment.com^$all
 ||platnik*.online^$all
@@ -4119,6 +4128,7 @@
 ||pocztomix.pl^$all
 ||pocztowa24.net^$all
 ||pocztower.pl^$all
+||pocztowyonline.com^$all
 ||pocztowysa.pl^$all
 ||poczty24.net^$all
 ||poczty-24.net^$all
@@ -5273,6 +5283,7 @@
 ||uprawomocnic.moonfruit.com^$all
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
+||up-eazy1.xyz^$all
 ||urleddrug.at^$all
 ||url-rdconline7webdhglobal.blogspot.com^$all
 ||urywek-glosu.eu^$all
@@ -5807,16 +5818,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||deliver-line.ru^$all
-||dziiendobrypollska.xyz^$all
-||hosting2127385.online.pro^$all
-||inpost.pl-ofert0.xyz^$all
-||korespodencja-online.xyz^$all
-||korespodencja-platnosc.xyz^$all
-||olx.pl-getposts.xyz^$all
-||olx.pl-ofert0.casa^$all
-||pay35-olx.pl^$all
-||pay36-olx.pl^$all
-||placowka-pocztowa.xyz^$all
-||pocztowyonline.com^$all
-||up-eazy1.xyz^$all
