@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 31 Mar 2021, 17:03 UTC+02
-! Version: 2021.3.31.1
+! Last modified: Wed, 31 Mar 2021, 21:03 UTC+02
+! Version: 2021.3.31.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3701,6 +3701,7 @@
 ||fotos.vote-in.eu^$all
 ||foto-cloud.o99o.net.pl^$all
 ||foto-cloud.org^$all
+||found-iphone.com^$all
 ||fpagro.com.pl^$all
 ||fraktaltrader.eu^$all
 ||fraktal-trader.pl^$all
@@ -4223,6 +4224,7 @@
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polska-dastawka.casa^$all
+||inpost.polska-dastawka.xyz^$all
 ||inpost.polska-dostawa.digital^$all
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-oferda.store^$all
@@ -4837,6 +4839,7 @@
 ||moje69.pl^$all
 ||mojeapartamenty.com^$all
 ||mojekobe.is-best.net^$all
+||mojekonto-otomoto.com^$all
 ||mojemiasto24.you2.pl^$all
 ||mojemiastoinfo.eu^$all
 ||mojemiasto.dkonto.pl^$all
@@ -5545,6 +5548,7 @@
 ||olx.pl-safelyway.club^$all
 ||olx.pl-safelyway.cyou^$all
 ||olx.pl-safelyway.icu^$all
+||olx.pl-safelyway.work^$all
 ||olx.pl-safeway.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.surf^$all
@@ -5563,6 +5567,7 @@
 ||olx.polska-dastawka.pro^$all
 ||olx.polska-dastawka.store^$all
 ||olx.polska-dastawka.work^$all
+||olx.polska-dastawka.xyz^$all
 ||olx.polska-dostawa.*^$all
 ||olx.polska-dostawka.club^$all
 ||olx.polska-dostawka.life^$all
@@ -6014,6 +6019,7 @@
 ||piotrprzewozy.pl^$all
 ||pipey.net^$all
 ||pipizhanzhang.com^$all
+||pismo-online.xyz^$all
 ||pitonswerder.work^$all
 ||pizzarewal.pl^$all
 ||pkobp.online^$all
@@ -6701,6 +6707,7 @@
 ||regionalne-wydarzenia.co.pl^$all
 ||region-24wydarzenia.pl^$all
 ||registrycertificates.ga^$all
+||regulacja-platnosci.xyz^$all
 ||regulamin24poczta.art^$all
 ||regulamin24poczta.click^$all
 ||regulamin24.cyou^$all
