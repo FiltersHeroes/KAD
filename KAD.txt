@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 31 Mar 2021, 21:03 UTC+02
-! Version: 2021.3.31.2
+! Last modified: Thu, 01 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.1.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -43,6 +43,7 @@
 ||addays.pl^$all
 ||adeptia.pl^$all
 ||adidaspolskasklep.com^$all
+||adidaspromocje.com^$all
 ||adidas-polska.com^$all
 ||adworkmedia.com^$all
 ||aerosneakers.pl^$all
@@ -223,6 +224,7 @@
 ||butychukka.com^$all
 ||butyconversesklep.com^$all
 ||butycrocspolska.com^$all
+||butydroutlet.com^$all
 ||butyeccosale.com^$all
 ||butygellyte.com^$all
 ||butyjordansklep.pl^$all
@@ -268,6 +270,7 @@
 ||certyfikatyit.pl^$all
 ||cgoutletpolska.com^$all
 ||championclub.pl^$all
+||championsklep.com^$all
 ||chceszogred.pl^$all
 ||chceszogrod.pl^$all
 ||cheaptronic.pl^$all
@@ -1581,6 +1584,7 @@
 ||theangelblankets.co^$all
 ||thebillizm.pl^$all
 ||thenestersband.com^$all
+||thenorthfacesklep.com^$all
 ||thermomix.vorwerk.pl^$all
 ||theultimatebeds.com^$all
 ||the-titanium.com^$all
@@ -3466,7 +3470,6 @@
 ||e-zaginieni.eu^$all
 ||e-zaginieni.pl^$all
 ||e-zaginioneosoby.eu^$all
-||f000.backblazeb2.com^$all
 ||f800e6f66d71.ngrok.io^$all
 ||faccebook*.5v.pl^$all
 ||facebbooc.*^$all
@@ -4217,12 +4220,25 @@
 ||inpost.order-pl.art^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
+||inpost.pl-getpayments.casa^$all
+||inpost.pl-getpayments.icu^$all
+||inpost.pl-getpayments.surf^$all
+||inpost.pl-getpayments.xyz^$all
+||inpost.pl-getpayment.casa^$all
+||inpost.pl-getpayment.club^$all
+||inpost.pl-getpayment.cyou^$all
+||inpost.pl-getpayment.icu^$all
+||inpost.pl-getpayment.xyz^$all
+||inpost.pl-makepay.casa^$all
+||inpost.pl-makepay.club^$all
 ||inpost.pl-newdeal.cyou^$all
 ||inpost.pl-ofert0.xyz^$all
+||inpost.pl-safelyway.work^$all
 ||inpost.pl-safeway.work^$all
 ||inpost.pl-safeway.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
+||inpost.polka-oferta.cyou^$all
 ||inpost.polska-dastawka.casa^$all
 ||inpost.polska-dastawka.xyz^$all
 ||inpost.polska-dostawa.digital^$all
@@ -5435,6 +5451,7 @@
 ||olx-pl.su^$all
 ||olx-pl.today^$all
 ||olx-pl.track-pay.info^$all
+||olx-pl.you-pay.online^$all
 ||olx-polands.*^$all
 ||olx-poland.site^$all
 ||olx-poland.*^$all
@@ -5531,9 +5548,20 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-dane.shop^$all
+||olx.pl-getpayments.casa^$all
+||olx.pl-getpayments.icu^$all
+||olx.pl-getpayments.surf^$all
+||olx.pl-getpayments.xyz^$all
+||olx.pl-getpayment.casa^$all
+||olx.pl-getpayment.club^$all
+||olx.pl-getpayment.cyou^$all
+||olx.pl-getpayment.icu^$all
+||olx.pl-getpayment.xyz^$all
 ||olx.pl-getposts.xyz^$all
 ||olx.pl-id1616950803.site^$all
 ||olx.pl-info.site^$all
+||olx.pl-makepay.casa^$all
+||olx.pl-makepay.club^$all
 ||olx.pl-newdeal.casa^$all
 ||olx.pl-newdeal.club^$all
 ||olx.pl-newdeal.icu^$all
@@ -5893,6 +5921,7 @@
 ||pay34-olx.pl^$all
 ||pay35-olx.pl^$all
 ||pay36-olx.pl^$all
+||pay37-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -6044,6 +6073,7 @@
 ||platnosc-paczkomat.online^$all
 ||platnosc-paczkomat.space^$all
 ||platnosc-payu24.com^$all
+||platnosc-posylka.host^$all
 ||play18ok.info^$all
 ||play24sklep.com^$all
 ||playallthis.com^$all
@@ -6071,6 +6101,7 @@
 ||plikownik2015.wordpress.com^$all
 ||plikson.pl^$all
 ||pliks.pl^$all
+||pll.inv-pge.site^$all
 ||plmoda24.com^$all
 ||plnn.in^$all
 ||pln-delivery-pay.shop^$all
@@ -6258,6 +6289,11 @@
 ||poczta.pl-getordered.xyz^$all
 ||poczta.pl-getorders.casa^$all
 ||poczta.pl-getorder.store^$all
+||poczta.pl-getpayment.casa^$all
+||poczta.pl-getpayment.club^$all
+||poczta.pl-getpayment.cyou^$all
+||poczta.pl-getpayment.icu^$all
+||poczta.pl-getpayment.xyz^$all
 ||poczta.pl-getposts.club^$all
 ||poczta.pl-getposts.icu^$all
 ||poczta.pl-ordered.casa^$all
@@ -7410,6 +7446,7 @@
 ||twojanatura.com^$all
 ||twojapaczka.services^$all
 ||twojapaka.com^$all
+||twojazdobyczbiznes.cyou^$all
 ||twoja-decyzje.eu^$all
 ||twoja-decyzjnosc.eu^$all
 ||twoja-fota.p33p.eu^$all
@@ -7976,6 +8013,7 @@
 ||zwierzoszop.com^$all
 ||zwrocsluch.site^$all
 ||zycienieuslaneluksusem.website^$all
+||zyciezdnianadzien.cyou^$all
 ||zyzlk.com^$all
 ||z-kraju.co.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
