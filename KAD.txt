@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 01 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.1.0
+! Last modified: Thu, 01 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.1.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2668,6 +2668,7 @@
 ||biznesoweinfo.media.pl^$all
 ||biznesoweinfo.miasta.pl^$all
 ||blablacar-pay.cc^$all
+||blablacar-pay.pl^$all
 ||blablacar.media^$all
 ||blablocar-pl.site^$all
 ||blackstone500.com^$all
@@ -3751,6 +3752,7 @@
 ||g0oo.me^$all
 ||g0o.cc^$all
 ||g0o.me^$all
+||g0o.org^$all
 ||gackokurier.com^$all
 ||gaczynski.pl^$all
 ||gaduczat.pl^$all
@@ -4220,6 +4222,7 @@
 ||inpost.order-pl.art^$all
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
+||inpost.pay-pl.site^$all
 ||inpost.pl-getpayments.casa^$all
 ||inpost.pl-getpayments.icu^$all
 ||inpost.pl-getpayments.surf^$all
@@ -5549,8 +5552,11 @@
 ||olx.pink^$all
 ||olx.pl-dane.shop^$all
 ||olx.pl-getpayments.casa^$all
+||olx.pl-getpayments.club^$all
+||olx.pl-getpayments.cyou^$all
 ||olx.pl-getpayments.icu^$all
 ||olx.pl-getpayments.surf^$all
+||olx.pl-getpayments.work^$all
 ||olx.pl-getpayments.xyz^$all
 ||olx.pl-getpayment.casa^$all
 ||olx.pl-getpayment.club^$all
@@ -5558,10 +5564,12 @@
 ||olx.pl-getpayment.icu^$all
 ||olx.pl-getpayment.xyz^$all
 ||olx.pl-getposts.xyz^$all
+||olx.pl-id831733.me^$all
 ||olx.pl-id1616950803.site^$all
 ||olx.pl-info.site^$all
 ||olx.pl-makepay.casa^$all
 ||olx.pl-makepay.club^$all
+||olx.pl-makepay.icu^$all
 ||olx.pl-newdeal.casa^$all
 ||olx.pl-newdeal.club^$all
 ||olx.pl-newdeal.icu^$all
@@ -7170,6 +7178,7 @@
 ||status.xn.pl^$all
 ||steamcammunity.com^$all
 ||steamcammunnity.ru.com^$all
+||steamcommunjty.com^$all
 ||steamcomnenity.ru.com^$all
 ||steamconmumity.ru^$all
 ||steamco.de^$all
@@ -7957,6 +7966,7 @@
 ||zawieszone.5p.pl^$all
 ||zawody-geniuszy.eu^$all
 ||zbigniewbiernat.pl^$all
+||zbiorka-joanna.com.pl^$all
 ||zbyk.drl.pl^$all
 ||zdjecia-fotki.pl^$all
 ||zdjecieciownia.net^$all
