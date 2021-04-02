@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 01 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.1.2
+! Last modified: Fri, 02 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.2.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2918,6 +2918,7 @@
 ||covid-polska.dfirma.pl^$all
 ||coviplex.pl^$all
 ||cowpolsce.xyz^$all
+||cp45362.tmweb.ru^$all
 ||cpagrip.com^$all
 ||cr99797.tmweb.ru^$all
 ||crazygarden.pl^$all
@@ -3475,6 +3476,7 @@
 ||faccebook*.5v.pl^$all
 ||facebbooc.*^$all
 ||facebbook*.5v.pl^$all
+||facebcok.com.pl^$all
 ||faceboobko.*.*^$all
 ||facebookcom-43632337.techsso.com^$all
 ||facebookcom-49851167.techsso.com^$all
@@ -4208,6 +4210,7 @@
 ||inpost-payouts.site^$all
 ||inpost-piatnosc-24.xyz^$all
 ||inpost-platnosc.in.net^$all
+||inpost-pl.online^$all
 ||inpost.casa^$all
 ||inpost.club^$all
 ||inpost.dev^$all
@@ -4226,15 +4229,30 @@
 ||inpost.pay-pl.site^$all
 ||inpost.pl-getpayments.casa^$all
 ||inpost.pl-getpayments.icu^$all
+||inpost.pl-getpayments.store^$all
 ||inpost.pl-getpayments.surf^$all
 ||inpost.pl-getpayments.xyz^$all
 ||inpost.pl-getpayment.casa^$all
 ||inpost.pl-getpayment.club^$all
 ||inpost.pl-getpayment.cyou^$all
 ||inpost.pl-getpayment.icu^$all
+||inpost.pl-getpayment.surf^$all
+||inpost.pl-getpayment.work^$all
 ||inpost.pl-getpayment.xyz^$all
+||inpost.pl-makedeal.club^$all
+||inpost.pl-makedeal.cyou^$all
+||inpost.pl-makepays.casa^$all
+||inpost.pl-makepays.club^$all
+||inpost.pl-makepays.cyou^$all
+||inpost.pl-makepays.icu^$all
+||inpost.pl-makepays.surf^$all
+||inpost.pl-makepays.work^$all
+||inpost.pl-makepays.xyz^$all
 ||inpost.pl-makepay.casa^$all
 ||inpost.pl-makepay.club^$all
+||inpost.pl-makepay.cyou^$all
+||inpost.pl-makepay.work^$all
+||inpost.pl-makepay.xyz^$all
 ||inpost.pl-newdeal.cyou^$all
 ||inpost.pl-ofert0.xyz^$all
 ||inpost.pl-safelyway.work^$all
@@ -4488,6 +4506,7 @@
 ||koordynatorbhp.pl^$all
 ||kopalniaskarbow.com.pl^$all
 ||kopaniebitcoin.pl^$all
+||korespodencja-online.link^$all
 ||korespodencja-online.xyz^$all
 ||korespodencja-platnosc.xyz^$all
 ||korespondencja.in.net^$all
@@ -5050,6 +5069,7 @@
 ||nicesliders.top^$all
 ||niecodziennahistoria.co.pl^$all
 ||niedlich.pl^$all
+||niedoplata.ru^$all
 ||niemozemyznalezc.website^$all
 ||niemozeszuddawac.site^$all
 ||niepokonane-dzieciaki.eu^$all
@@ -5288,6 +5308,7 @@
 ||olxpl.deli-very.su^$all
 ||olxpl.e-tracking.net^$all
 ||olxpl.id83892.online^$all
+||olxpl.id84884043.mba^$all
 ||olxpl.me^$all
 ||olxpl.moneta.world^$all
 ||olxpl.oferta-payed.pw^$all
@@ -5556,6 +5577,7 @@
 ||olx.pl-getpayments.club^$all
 ||olx.pl-getpayments.cyou^$all
 ||olx.pl-getpayments.icu^$all
+||olx.pl-getpayments.store^$all
 ||olx.pl-getpayments.surf^$all
 ||olx.pl-getpayments.work^$all
 ||olx.pl-getpayments.xyz^$all
@@ -5563,14 +5585,28 @@
 ||olx.pl-getpayment.club^$all
 ||olx.pl-getpayment.cyou^$all
 ||olx.pl-getpayment.icu^$all
+||olx.pl-getpayment.surf^$all
+||olx.pl-getpayment.work^$all
 ||olx.pl-getpayment.xyz^$all
 ||olx.pl-getposts.xyz^$all
 ||olx.pl-id831733.me^$all
 ||olx.pl-id1616950803.site^$all
 ||olx.pl-info.site^$all
+||olx.pl-makedeal.club^$all
+||olx.pl-makedeal.cyou^$all
+||olx.pl-makepays.casa^$all
+||olx.pl-makepays.club^$all
+||olx.pl-makepays.cyou^$all
+||olx.pl-makepays.icu^$all
+||olx.pl-makepays.surf^$all
+||olx.pl-makepays.work^$all
+||olx.pl-makepays.xyz^$all
 ||olx.pl-makepay.casa^$all
 ||olx.pl-makepay.club^$all
+||olx.pl-makepay.cyou^$all
 ||olx.pl-makepay.icu^$all
+||olx.pl-makepay.work^$all
+||olx.pl-makepay.xyz^$all
 ||olx.pl-newdeal.casa^$all
 ||olx.pl-newdeal.club^$all
 ||olx.pl-newdeal.icu^$all
@@ -5931,6 +5967,7 @@
 ||pay35-olx.pl^$all
 ||pay36-olx.pl^$all
 ||pay37-olx.pl^$all
+||pay38-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -6090,6 +6127,7 @@
 ||playaplikacje.com^$all
 ||playery.pl^$all
 ||player-cda.pl^$all
+||playesea.pl^$all
 ||playproz.com^$all
 ||playsklep24.com^$all
 ||playsklep.net^$all
@@ -6140,6 +6178,7 @@
 ||pl-konto.mobi^$all
 ||pl-m.xyz^$all
 ||pl-nadaj.online^$all
+||pl-obecny.shop^$all
 ||pl-oferta.info^$all
 ||pl-offerta.pro^$all
 ||pl-olxsafedeal.xyz^$all
@@ -6303,9 +6342,25 @@
 ||poczta.pl-getpayment.club^$all
 ||poczta.pl-getpayment.cyou^$all
 ||poczta.pl-getpayment.icu^$all
+||poczta.pl-getpayment.work^$all
 ||poczta.pl-getpayment.xyz^$all
 ||poczta.pl-getposts.club^$all
 ||poczta.pl-getposts.icu^$all
+||poczta.pl-makedeal.casa^$all
+||poczta.pl-makedeal.club^$all
+||poczta.pl-makedeal.cyou^$all
+||poczta.pl-makedeal.icu^$all
+||poczta.pl-makedeal.surf^$all
+||poczta.pl-makepays.casa^$all
+||poczta.pl-makepays.cyou^$all
+||poczta.pl-makepays.icu^$all
+||poczta.pl-makepays.surf^$all
+||poczta.pl-makepays.work^$all
+||poczta.pl-makepays.xyz^$all
+||poczta.pl-makepay.cyou^$all
+||poczta.pl-makepay.icu^$all
+||poczta.pl-makepay.work^$all
+||poczta.pl-makepay.xyz^$all
 ||poczta.pl-ordered.casa^$all
 ||poczta.pl-ordered.icu^$all
 ||poczta.pl-ordered.work^$all
@@ -6381,6 +6436,7 @@
 ||pogodasms.net^$all
 ||pogodasub.com^$all
 ||pogotowie.pcserwis.c0.pl^$all
+||poinformowanni.cyou^$all
 ||pojadetam.pl^$all
 ||pojmujmy-wszystko.eu^$all
 ||pokaz-lojalnosc.eu^$all
@@ -7814,6 +7870,7 @@
 ||wycieczkihurghada.pl^$all
 ||wyciekizdjec24.pl^$all
 ||wyczyn-pobijamy.eu^$all
+||wydajesienam.cyou^$all
 ||wydarzenia24.you2.pl^$all
 ||wydarzeniaroku020.site^$all
 ||wydarzenia-24.dfirma.pl^$all
