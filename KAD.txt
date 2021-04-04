@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 04 Apr 2021, 17:03 UTC+02
-! Version: 2021.4.4.0
+! Last modified: Sun, 04 Apr 2021, 21:04 UTC+02
+! Version: 2021.4.4.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2499,6 +2499,7 @@
 ||arek135.pl^$all
 ||arek313.civ.pl^$all
 ||argen0.weebly.com^$all
+||ariatsklep.pl^$all
 ||arlento.pl^$all
 ||artistidelpane.it^$all
 ||artx.strefa.pl^$all
@@ -2769,6 +2770,7 @@
 ||bylismyjuuzwszedize.site^$all
 ||byszewski.pl^$all
 ||bzn.c0.pl^$all
+||b-mobile.pl^$all
 ||b-s500.com^$all
 ||c39b126b5cec.ngrok.io^$all
 ||caeiriolskiaopazertyiop.xyz^$all
@@ -2833,6 +2835,7 @@
 ||challhawseholer.com^$all
 ||charisministries.id^$all
 ||chcemyschudnac.pl^$all
+||cheaps.shopsales2021.com^$all
 ||checkoutbase.com^$all
 ||checkoutwins.com^$all
 ||checkthatdeals.com^$all
@@ -2987,6 +2990,7 @@
 ||d0stawadhi.com^$all
 ||d1b42iaez29svr.cloudfront.net^$all
 ||d1biit4cku48wr.cloudfront.net^$all
+||d1fjbm89xo24p6.cloudfront.net^$all
 ||d1k5vgf76yp8wa.cloudfront.net^$all
 ||d1nrc70vcbb0d6.cloudfront.net^$all
 ||d1ogtekyfob10l.cloudfront.net^$all
@@ -3183,6 +3187,7 @@
 ||domowe-kino.pl^$all
 ||dont.pl^$all
 ||doplac-online.xyz^$all
+||doplac-teraz24.xyz^$all
 ||doplac-teraz.xyz^$all
 ||dopowiedzenie-sobie.eu^$all
 ||doradzaj-znajomym.eu^$all
@@ -3928,6 +3933,7 @@
 ||goadvert.pk^$all
 ||goallineembroidery.com^$all
 ||gogameportal.com^$all
+||goku-sklep.pl^$all
 ||goldcarf.com^$all
 ||goldflame.com^$all
 ||gold-barber.pl^$all
@@ -3977,6 +3983,7 @@
 ||handel-pro.site^$all
 ||hannawolska1.co.pl^$all
 ||happy-pods-pl.com^$all
+||harry-thompson-pl.com^$all
 ||hasproject.pl^$all
 ||hazel-projektowanie.com.pl^$all
 ||hbonicovideo.over-blog.com^$all
@@ -4168,6 +4175,7 @@
 ||info.ogloszeniateraz97.club^$all
 ||infromacje24.dfirma.pl^$all
 ||infx.eu^$all
+||ingoinvest.com^$all
 ||ing-ll.pl^$all
 ||ing.pl.proxy.c7s.io^$all
 ||iniciuj-pomoc.eu^$all
@@ -4272,6 +4280,8 @@
 ||inpost.pl-safes.casa^$all
 ||inpost.pl-safeway.work^$all
 ||inpost.pl-safeway.xyz^$all
+||inpost.pl-sale.icu^$all
+||inpost.pl-saves.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polka-oferta.cyou^$all
@@ -4340,7 +4350,6 @@
 ||ippko.fun^$all
 ||ippko.site^$all
 ||ippko.website^$all
-||ipsnews.net^$all
 ||ip-64-202-189-152.ip.secureserver.net^$all
 ||ip-148-72-215-214.ip.secureserver.net^$all
 ||ip-208-109-15-233.ip.secureserver.net^$all
@@ -4422,6 +4431,7 @@
 ||jvccourier.com^$all
 ||kaborun.com^$all
 ||kafle.net.pl^$all
+||kagomei.com^$all
 ||kalendarzdnia23.online^$all
 ||kalendarzdnia23.site^$all
 ||kalendarzyk.org^$all
@@ -4670,6 +4680,7 @@
 ||lnpost-paczkomaty.com^$all
 ||lnpost.kody-odbioru.*^$all
 ||lnpost.*^$document
+||lnstagram.pp.ru^$all
 ||localdates*.com^$all
 ||localinformation.site^$all
 ||localnewshere.site^$all
@@ -4706,6 +4717,7 @@
 ||lokalna-941866.in.net^$all
 ||lokalneinformacje*.vot.pl^$all
 ||lokalneinformacje.pl^$all
+||lokalneinfo.co.pl^$all
 ||lokalnieaiiegro.xyz^$all
 ||lokalnieallegro-094213.xyz^$all
 ||lokalnie-ploferta-057126.tech^$all
@@ -4923,6 +4935,7 @@
 ||mountainhotel.it^$all
 ||moviemediaz.com^$all
 ||movienet.pl^$all
+||movieprojector.pl^$all
 ||moviesearchcenter.com^$all
 ||moviestarplanethackers.co^$all
 ||movipax.com^$all
@@ -5657,7 +5670,9 @@
 ||olx.pl-safelyway.work^$all
 ||olx.pl-safes.cyou^$all
 ||olx.pl-safeway.work^$all
+||olx.pl-sale.casa^$all
 ||olx.pl-sale.club^$all
+||olx.pl-saves.store^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.buzz^$all
 ||olx.pl.oferta-payment.surf^$all
@@ -6978,6 +6993,7 @@
 ||santander24.online^$all
 ||santanderbank.pl.insertafricamedia.com^$all
 ||santanderbank.pl.prestigehome.ir^$all
+||santanderinvest.com^$all
 ||santandertransfer.ru^$all
 ||santander-accountpayments.com^$all
 ||santander-bank-polska.braceletluck.com^$all
@@ -7266,6 +7282,7 @@
 ||stanowic-wybor.eu^$all
 ||stanowisko-duze.eu^$all
 ||starmach.com.pl^$all
+||startech-rj.com.br^$all
 ||starti.pl^$all
 ||startrainst.com^$all
 ||startupforbusiness.com^$all
@@ -7499,8 +7516,10 @@
 ||traderschain.com^$all
 ||tradesboost.net^$all
 ||tradezone247.com^$all
+||trade-labs.com^$all
 ||trade-olx.pl^$all
 ||trafisz.com^$all
+||tragediawmoimmiescie.site^$all
 ||trampolina.biz^$all
 ||trampolina.live^$all
 ||trampoliny-sklep.com^$all
