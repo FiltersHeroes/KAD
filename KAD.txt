@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 04 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.4.1
+! Last modified: Mon, 05 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.5.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2225,6 +2225,7 @@
 ||123movies.my.id^$all
 ||123.allegro-lokalnie.club^$all
 ||137-74-148-87.cprapid.com^$all
+||144.allegrolokaline.club^$all
 ||198-58-119-23.cprapid.com^$all
 ||253.express-inpost.online^$all
 ||287.allegro-lokalnie.club^$all
@@ -2678,6 +2679,7 @@
 ||blockchainjoblist.com^$all
 ||blog.lalalalala.club^$all
 ||bmillenhome.com^$all
+||bncoposta.com^$all
 ||bnpparibas-poland.co^$all
 ||bnpparibas-secure-biznes.at^$all
 ||bn-allorbank.com^$all
@@ -3762,6 +3764,7 @@
 ||fxpb.us^$all
 ||fxtime.io^$all
 ||g0oo.me^$all
+||g0oo.net^$all
 ||g0o.cc^$all
 ||g0o.me^$all
 ||g0o.org^$all
@@ -4281,6 +4284,7 @@
 ||inpost.pl-safeway.work^$all
 ||inpost.pl-safeway.xyz^$all
 ||inpost.pl-sale.icu^$all
+||inpost.pl-saves.surf^$all
 ||inpost.pl-saves.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
@@ -5353,6 +5357,7 @@
 ||olxpl.payment-online.online^$all
 ||olxpl.qr3ds.online^$all
 ||olxpl.securepays.pw^$all
+||olxpl.secure-pay.icu^$all
 ||olxpl.site^$all
 ||olxpl.zapowiedz.site^$all
 ||olxpoland.delivery-z.me^$all
@@ -5672,7 +5677,10 @@
 ||olx.pl-safeway.work^$all
 ||olx.pl-sale.casa^$all
 ||olx.pl-sale.club^$all
+||olx.pl-saves.casa^$all
 ||olx.pl-saves.store^$all
+||olx.pl-saves.surf^$all
+||olx.pl-saves.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.buzz^$all
 ||olx.pl.oferta-payment.surf^$all
@@ -5838,6 +5846,7 @@
 ||organizacja-spoleczna.eu^$all
 ||organizuj-konkursy.eu^$all
 ||orkisz24.pl^$all
+||orlinwestpl.pw^$all
 ||orlnpacifica.pw^$all
 ||ortezanakolano-pl.com^$all
 ||orteza-na-kolano-pl.com^$all
@@ -6020,6 +6029,9 @@
 ||pay36-olx.pl^$all
 ||pay37-olx.pl^$all
 ||pay38-olx.pl^$all
+||pay39-olx.pl^$all
+||pay40-olx.pl^$all
+||pay41-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -6263,6 +6275,7 @@
 ||pl-przelew.info^$all
 ||pl-przelew.shop^$all
 ||pl-przelew.world^$all
+||pl-saves.surf^$all
 ||pl-univest.life^$all
 ||pl-wejscie.shop^$all
 ||pl-weryfikacja.world^$all
@@ -6294,6 +6307,7 @@
 ||pl.oferto.cc^$all
 ||pl.oferto.org^$all
 ||pl.oix-pay.com^$all
+||pl.olxdelivery.com^$all
 ||pl.olxtracking.com^$all
 ||pl.olx-deliveri.com^$all
 ||pl.olx-merchant.com^$all
@@ -7300,6 +7314,7 @@
 ||steamcommunjty.com^$all
 ||steamcomnenity.ru.com^$all
 ||steamconmumity.ru^$all
+||steamconmunuity.com^$all
 ||steamco.de^$all
 ||steampoweredtrade.com^$all
 ||steam-wallet-gifts.com^$all
@@ -7571,6 +7586,7 @@
 ||tv.gorzow.pl^$all
 ||twenty-wishes.000webhostapp.com^$all
 ||twilight-pointed-plant.glitch.me^$all
+||twojadecyzjacozrobisz.site^$all
 ||twojaenea.pl^$all
 ||twojagazetka.xyz^$all
 ||twojanagroda.co.pl^$all
