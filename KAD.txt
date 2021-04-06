@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 06 Apr 2021, 17:04 UTC+02
-! Version: 2021.4.6.1
+! Last modified: Tue, 06 Apr 2021, 21:04 UTC+02
+! Version: 2021.4.6.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1864,6 +1864,7 @@
 ||adsbtrack.com^$all
 ||adservd.com^$all
 ||alatcommu.gq^$all
+||alfaiztech.com.dk^$all
 ||alfik-fik.com^$all
 ||allgo.xyz^$all
 ||all-tube.pl^$all
@@ -1935,6 +1936,7 @@
 ||great-prizes-here.info^$all
 ||heckcallohertons.info^$all
 ||hemesyqydy.space^$all
+||hybriddistribution.dk^$all
 ||igcecsrrt.site^$all
 ||ildexremusli.tk^$all
 ||interia-24-pl.livejournal.com^$all
@@ -2168,7 +2170,7 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{4,30}\d{2,3}[a-z]{4,30}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{4,30}\d{1,3}[a-z]{4,30}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$document,domain=~facebook.com
@@ -3340,6 +3342,7 @@
 ||eccooutletbuty.pl^$all
 ||ecco-pl.com^$all
 ||eclass47.duckdns.org^$all
+||ecoblast.pl^$all
 ||edland.pro^$all
 ||edotpay.pl^$all
 ||edziennik.xyz^$all
@@ -3437,6 +3440,7 @@
 ||eyupp.com^$all
 ||eyxspmbjxh.web.app^$all
 ||ezalukaj*.*^$document
+||eznicz.pl^$all
 ||ezoliniawrozby.com^$all
 ||e-bazaosobzaginionych.eu^$all
 ||e-bazaosobzaginionych.online^$all
@@ -3620,6 +3624,7 @@
 ||filmbest.video.blog^$all
 ||filmdopobraniacbd92.ek1.pl^$all
 ||filmhit.pl^$all
+||filmiksy.pl^$all
 ||filmline.pl^$all
 ||filmofon.pl^$all
 ||filmonlinebezlimitufot51.ek1.pl^$all
@@ -3955,6 +3960,7 @@
 ||gooso.org^$all
 ||gorisemarkets.com^$all
 ||gospodarstwo-rolne.com.pl^$all
+||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||gov-24.com^$all
 ||gov-warszawa.pl^$all
@@ -4066,6 +4072,7 @@
 ||huebner.com.pl^$all
 ||hugetradingincome.com^$all
 ||hugobosspl.pl^$all
+||hungpol.pl^$all
 ||hurreu.store^$all
 ||hypertechz.com^$all
 ||hyut.000webhostapp.com^$all
@@ -4251,57 +4258,7 @@
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
 ||inpost.pay-pl.site^$all
-||inpost.pl-getpayments.casa^$all
-||inpost.pl-getpayments.icu^$all
-||inpost.pl-getpayments.store^$all
-||inpost.pl-getpayments.surf^$all
-||inpost.pl-getpayments.xyz^$all
-||inpost.pl-getpayment.casa^$all
-||inpost.pl-getpayment.club^$all
-||inpost.pl-getpayment.cyou^$all
-||inpost.pl-getpayment.icu^$all
-||inpost.pl-getpayment.surf^$all
-||inpost.pl-getpayment.work^$all
-||inpost.pl-getpayment.xyz^$all
-||inpost.pl-makedeals.work^$all
-||inpost.pl-makedeals.xyz^$all
-||inpost.pl-makedeal.casa^$all
-||inpost.pl-makedeal.club^$all
-||inpost.pl-makedeal.cyou^$all
-||inpost.pl-makedeal.store^$all
-||inpost.pl-makedeal.work^$all
-||inpost.pl-makepays.casa^$all
-||inpost.pl-makepays.club^$all
-||inpost.pl-makepays.cyou^$all
-||inpost.pl-makepays.icu^$all
-||inpost.pl-makepays.surf^$all
-||inpost.pl-makepays.work^$all
-||inpost.pl-makepays.xyz^$all
-||inpost.pl-makepay.casa^$all
-||inpost.pl-makepay.club^$all
-||inpost.pl-makepay.cyou^$all
-||inpost.pl-makepay.work^$all
-||inpost.pl-makepay.xyz^$all
-||inpost.pl-newdeal.cyou^$all
-||inpost.pl-ofert0.xyz^$all
-||inpost.pl-payed.casa^$all
-||inpost.pl-payed.cyou^$all
-||inpost.pl-payed.icu^$all
-||inpost.pl-payed.surf^$all
-||inpost.pl-payed.work^$all
-||inpost.pl-payed.xyz^$all
-||inpost.pl-safelyway.work^$all
-||inpost.pl-safes.casa^$all
-||inpost.pl-safeway.work^$all
-||inpost.pl-safeway.xyz^$all
-||inpost.pl-sale.icu^$all
-||inpost.pl-saves.surf^$all
-||inpost.pl-saves.work^$all
-||inpost.pl-saves.xyz^$all
-||inpost.pl-sold.casa^$all
-||inpost.pl-sold.store^$all
-||inpost.pl-sold.work^$all
-||inpost.pl-sold.xyz^$all
+||inpost.pl-sold.icu^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polka-oferta.cyou^$all
@@ -4313,6 +4270,7 @@
 ||inpost.polska-oferla.link^$all
 ||inpost.polska-oferla.live^$all
 ||inpost.polska-oferla.shop^$all
+||inpost.polska-oterfa.live^$all
 ||inpost.polska-oterfa.store^$all
 ||inpost.polsko-oferta.life^$all
 ||inpost.pw^$all
@@ -4621,6 +4579,7 @@
 ||labersa.com^$all
 ||labmedica.pl^$all
 ||lander.pl^$all
+||laptopyinfo.pl^$all
 ||laptop-tamirgah.ir^$all
 ||larissalinhares.com.br^$all
 ||lasportivapolska.pl^$all
@@ -4858,6 +4817,7 @@
 ||mega-gry.com^$all
 ||mega-wpadki.m44m.cloud^$all
 ||meldujemy.gmina.pl^$all
+||memex.com.pl^$all
 ||mendeluweb-cz.000webhostapp.com^$all
 ||mephisto.nd.e-wro.pl^$all
 ||mercuryo.co.com^$all
@@ -4929,6 +4889,7 @@
 ||mojeapartamenty.com^$all
 ||mojekobe.is-best.net^$all
 ||mojekonto-otomoto.com^$all
+||mojemail.pl^$all
 ||mojemiasto24.you2.pl^$all
 ||mojemiastoinfo.eu^$all
 ||mojemiasto.dkonto.pl^$all
@@ -5156,6 +5117,7 @@
 ||nota-przyjaciela.eu^$all
 ||notowanie-szczescie.eu^$all
 ||notowani.pl^$all
+||not-zamosc.pl^$all
 ||novvvaggazetapolska.cyou^$all
 ||nowadecyzjanowezycie.website^$all
 ||nowakowski-znaki.pl^$all
@@ -5587,6 +5549,7 @@
 ||olx.dellivery.*^$all
 ||olx.doreczanie.pl^$all
 ||olx.doreczenie.online^$all
+||olx.doreczenle.pl^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
@@ -5628,90 +5591,9 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
-||olx.pl-dane.shop^$all
-||olx.pl-getpayments.casa^$all
-||olx.pl-getpayments.club^$all
-||olx.pl-getpayments.cyou^$all
-||olx.pl-getpayments.icu^$all
-||olx.pl-getpayments.store^$all
-||olx.pl-getpayments.surf^$all
-||olx.pl-getpayments.work^$all
-||olx.pl-getpayments.xyz^$all
-||olx.pl-getpayment.casa^$all
-||olx.pl-getpayment.club^$all
-||olx.pl-getpayment.cyou^$all
-||olx.pl-getpayment.icu^$all
-||olx.pl-getpayment.surf^$all
-||olx.pl-getpayment.work^$all
-||olx.pl-getpayment.xyz^$all
-||olx.pl-getposts.xyz^$all
-||olx.pl-id831733.me^$all
-||olx.pl-id1616950803.site^$all
-||olx.pl-id1617214203.site^$all
-||olx.pl-info.site^$all
-||olx.pl-makedeals.casa^$all
-||olx.pl-makedeals.icu^$all
-||olx.pl-makedeals.work^$all
-||olx.pl-makedeals.xyz^$all
-||olx.pl-makedeal.club^$all
-||olx.pl-makedeal.cyou^$all
-||olx.pl-makedeal.store^$all
-||olx.pl-makedeal.work^$all
-||olx.pl-makedeal.xyz^$all
-||olx.pl-makepays.casa^$all
-||olx.pl-makepays.club^$all
-||olx.pl-makepays.cyou^$all
-||olx.pl-makepays.icu^$all
-||olx.pl-makepays.surf^$all
-||olx.pl-makepays.work^$all
-||olx.pl-makepays.xyz^$all
-||olx.pl-makepay.casa^$all
-||olx.pl-makepay.club^$all
-||olx.pl-makepay.cyou^$all
-||olx.pl-makepay.icu^$all
-||olx.pl-makepay.work^$all
-||olx.pl-makepay.xyz^$all
-||olx.pl-newdeal.casa^$all
-||olx.pl-newdeal.club^$all
-||olx.pl-newdeal.icu^$all
-||olx.pl-newdeal.surf^$all
-||olx.pl-newdeal.work^$all
-||olx.pl-newdeal.xyz^$all
-||olx.pl-oferfa.club^$all
-||olx.pl-oferfa.cyou^$all
-||olx.pl-oferfa.gifts^$all
-||olx.pl-oferfa.icu^$all
-||olx.pl-oferfa.xyz^$all
-||olx.pl-ofert0.casa^$all
-||olx.pl-ofert0.icu^$all
-||olx.pl-payed.casa^$all
-||olx.pl-payed.icu^$all
-||olx.pl-payed.surf^$all
-||olx.pl-payed.work^$all
-||olx.pl-payed.xyz^$all
-||olx.pl-potwierdzenie.club^$all
-||olx.pl-potwierdzenie.live^$all
-||olx.pl-safelyway.casa^$all
-||olx.pl-safelyway.club^$all
-||olx.pl-safelyway.cyou^$all
-||olx.pl-safelyway.icu^$all
-||olx.pl-safelyway.work^$all
-||olx.pl-safes.cyou^$all
-||olx.pl-safes.surf^$all
-||olx.pl-safes.work^$all
-||olx.pl-safes.xyz^$all
-||olx.pl-safeway.work^$all
-||olx.pl-sale.casa^$all
-||olx.pl-sale.club^$all
-||olx.pl-saves.casa^$all
-||olx.pl-saves.store^$all
-||olx.pl-saves.surf^$all
-||olx.pl-saves.work^$all
-||olx.pl-saves.xyz^$all
-||olx.pl-upowaznienie.xyz^$all
+||olx.pl-sold.club^$all
+||olx.pl-sold.work^$all
 ||olx.pl-*.*^$document
-||olx.pl.oferta-payment.buzz^$all
-||olx.pl.oferta-payment.surf^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-ofer.me^$all
@@ -5740,6 +5622,7 @@
 ||olx.polska-oferla.shop^$all
 ||olx.polska-oferla.vip^$all
 ||olx.polska-oferta.*^$all
+||olx.polska-oterfa.live^$all
 ||olx.polska-oterfa.store^$all
 ||olx.polska-oterfa.work^$all
 ||olx.polsko-oferta.link^$all
@@ -6122,6 +6005,7 @@
 ||peopeyo.net^$all
 ||performancevitality.net^$all
 ||perlaibracia.pl^$all
+||perlowo.pl^$all
 ||perspektywa2012.za.pl^$all
 ||pewiendzienzmieniazycie.site^$all
 ||pey24pey.net^$all
@@ -6841,6 +6725,7 @@
 ||przesylki.store^$all
 ||przewazanie-glosuj.eu^$all
 ||przewozinik.online^$all
+||przewozy-pegaz.pl^$all
 ||przezwyciezenie-leku.eu^$all
 ||przyciagaj-glosami.eu^$all
 ||przygarnijplakat.pl^$all
@@ -7241,6 +7126,7 @@
 ||smieszne-zdjecia.eu^$all
 ||smsiaki.eu^$all
 ||smsiak.pl^$all
+||smsinf.org^$all
 ||smsy24.pl^$all
 ||sms-info.app^$all
 ||sms-info.net^$all
@@ -7282,6 +7168,7 @@
 ||spisek.freehost.pl^$all
 ||spkoszewo.strefa.pl^$all
 ||splac-dlug.com^$all
+||spoleczniak.pl^$all
 ||spolszczenia4you.net^$all
 ||spolszczenia-gier.com.pl^$all
 ||sportowebutyas.pl^$all
@@ -7533,6 +7420,7 @@
 ||the-bitcoins-code.com^$all
 ||the-bitcoins-evolution.net^$all
 ||the-bitcoin-profit.com^$all
+||the-butik.com^$all
 ||the-newse.com^$all
 ||the-news-spy.info^$all
 ||thinhvuongmedia.com^$all
@@ -7565,6 +7453,7 @@
 ||torrentu.pl^$all
 ||torrenty-org.pl^$all
 ||torrenty--org.pl^$all
+||torysmeble.pl^$all
 ||towiemy.online^$all
 ||towlasciwadroga.website^$all
 ||tpc.hu^$all
@@ -7601,6 +7490,7 @@
 ||trsmarkets.com^$all
 ||truegamers.ga^$all
 ||trzymajpoziom.pl^$all
+||tsarina.pl^$all
 ||tujestpolska.icu^$all
 ||tunaszapolska.xyz^$all
 ||tunehub247shop.com^$all
@@ -7647,6 +7537,7 @@
 ||twoje-miasto.dfirma.pl^$all
 ||twoje-miasto.k99k.com.pl^$all
 ||twoje-seriale.tv^$all
+||twojfilm.online^$all
 ||twojglos-warszawa.vot.pl^$all
 ||twojkurier-dhl.*^$all
 ||twoj-inipost.com^$all
@@ -7815,6 +7706,7 @@
 ||wczorajszagazeta.online^$all
 ||wdrodzeposukkces.website^$all
 ||weartexhibitions.com^$all
+||webfabric.pl^$all
 ||weblancer.pl^$all
 ||webmail93949840839.com.ng^$all
 ||webmailpolishadmin.weebly.com^$all
@@ -8116,6 +8008,7 @@
 ||zajonc.de^$all
 ||zaktualizuj-konto.zaktualizuj4562.co.pl^$all
 ||zaktualizuj.neftlix.tajbirds.com^$all
+||zakupshop.com^$all
 ||zakupy-domowe.glosowanie-konkurs.eu^$all
 ||zakup-olx.pl^$all
 ||zalbani.is-best.net^$all
