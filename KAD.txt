@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 06 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.6.0
+! Last modified: Tue, 06 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.6.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2832,6 +2832,7 @@
 ||centrum24.santanber.pl^$all
 ||centrumofert24.com^$all
 ||centrumplay.pl^$all
+||centrum-pomocy.waw.pl^$all
 ||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
 ||ceresiontest.c0.pl^$all
 ||cezaevinegonder.com^$all
@@ -3951,6 +3952,7 @@
 ||google-*.*offer*.icu^$all
 ||google-*.*present*.icu^$all
 ||goosms.in^$all
+||gooso.org^$all
 ||gorisemarkets.com^$all
 ||gospodarstwo-rolne.com.pl^$all
 ||gotowedlakazdego.website^$all
@@ -4231,6 +4233,7 @@
 ||inpost-piatnosc-24.xyz^$all
 ||inpost-platnosc.in.net^$all
 ||inpost-pl.online^$all
+||inpost.bond^$all
 ||inpost.casa^$all
 ||inpost.cc^$all
 ||inpost.club^$all
@@ -4295,6 +4298,10 @@
 ||inpost.pl-saves.surf^$all
 ||inpost.pl-saves.work^$all
 ||inpost.pl-saves.xyz^$all
+||inpost.pl-sold.casa^$all
+||inpost.pl-sold.store^$all
+||inpost.pl-sold.work^$all
+||inpost.pl-sold.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polka-oferta.cyou^$all
@@ -6243,6 +6250,7 @@
 ||pln-delivery-pay.shop^$all
 ||pln.m-olx.us^$all
 ||plolx-oplata.online^$all
+||plpaysoffer.site^$all
 ||plpocztex.net^$all
 ||plpocztex.org^$all
 ||plpostkode.com^$all
@@ -6516,6 +6524,7 @@
 ||pocztowa24.net^$all
 ||pocztower.pl^$all
 ||pocztowyonline.com^$all
+||pocztowypl.com^$all
 ||pocztowysa.pl^$all
 ||poczty24.net^$all
 ||poczty-24.net^$all
@@ -6634,6 +6643,7 @@
 ||pomagamy-razem.club^$all
 ||pomagamy.xip.pl^$all
 ||pomagam-dzisiaj.eu^$all
+||pomagam-joannie.com.pl^$all
 ||pomaganie-sieciowe.eu^$all
 ||pomoc24.site^$all
 ||pomoc48.you2.pl^$all
@@ -7007,6 +7017,7 @@
 ||safetrade365.com^$all
 ||safety-dellivery.com^$all
 ||safety-dellivery.online^$all
+||safety-dellivery.pw^$all
 ||safety-dellivery.site^$all
 ||safety-dostawa.info^$all
 ||safety-dostawa.net^$all
@@ -7111,6 +7122,7 @@
 ||server041990.nazwa.pl^$all
 ||server132024.nazwa.pl^$all
 ||server167147.nazwa.pl^$all
+||server180815.nazwa.pl^$all
 ||server181678.nazwa.pl^$all
 ||server260792.nazwa.pl^$all
 ||server314517.nazwa.pl^$all
@@ -7693,6 +7705,7 @@
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
 ||up-eazy1.xyz^$all
+||uregulowanie-naleznosci-24.xyz^$all
 ||urleddrug.at^$all
 ||url-rdconline7webdhglobal.blogspot.com^$all
 ||urywek-glosu.eu^$all
@@ -7974,6 +7987,7 @@
 ||wybierz-nagrode.pl^$all
 ||wybierz-wyborce.eu^$all
 ||wyborcy-sprawiedliwi.eu^$all
+||wyborcza-7.cleverapps.io^$all
 ||wyborcza.live^$all
 ||wyboru-dokonaj.eu^$all
 ||wybor-podpunktu.eu^$all
