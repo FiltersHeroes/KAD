@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Mon, 05 Apr 2021, 21:03 UTC+02
-! Version: 2021.4.5.2
+! Last modified: Tue, 06 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.6.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2212,6 +2212,7 @@
 ||24fakty.pl^$all
 ||24forum.pl^$all
 ||24gazeta.eu^$all
+||24godzinynapomoc.site^$all
 ||24lite.eu^$all
 ||24xforex.com^$all
 ||24-biznes.eu^$all
@@ -2369,6 +2370,7 @@
 ||allegro6.pl^$all
 ||allegro7.pl^$all
 ||allegroapk.net^$all
+||allegrolokaline.club^$all
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
@@ -4279,12 +4281,19 @@
 ||inpost.pl-makepay.xyz^$all
 ||inpost.pl-newdeal.cyou^$all
 ||inpost.pl-ofert0.xyz^$all
+||inpost.pl-payed.casa^$all
+||inpost.pl-payed.cyou^$all
+||inpost.pl-payed.icu^$all
+||inpost.pl-payed.surf^$all
+||inpost.pl-payed.work^$all
+||inpost.pl-payed.xyz^$all
 ||inpost.pl-safelyway.work^$all
 ||inpost.pl-safes.casa^$all
 ||inpost.pl-safeway.work^$all
 ||inpost.pl-safeway.xyz^$all
 ||inpost.pl-sale.icu^$all
 ||inpost.pl-saves.surf^$all
+||inpost.pl-saves.work^$all
 ||inpost.pl-saves.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
@@ -4297,6 +4306,7 @@
 ||inpost.polska-oferla.link^$all
 ||inpost.polska-oferla.live^$all
 ||inpost.polska-oferla.shop^$all
+||inpost.polska-oterfa.store^$all
 ||inpost.polsko-oferta.life^$all
 ||inpost.pw^$all
 ||inpost.services^$all
@@ -5667,6 +5677,11 @@
 ||olx.pl-oferfa.xyz^$all
 ||olx.pl-ofert0.casa^$all
 ||olx.pl-ofert0.icu^$all
+||olx.pl-payed.casa^$all
+||olx.pl-payed.icu^$all
+||olx.pl-payed.surf^$all
+||olx.pl-payed.work^$all
+||olx.pl-payed.xyz^$all
 ||olx.pl-potwierdzenie.club^$all
 ||olx.pl-potwierdzenie.live^$all
 ||olx.pl-safelyway.casa^$all
@@ -5677,12 +5692,14 @@
 ||olx.pl-safes.cyou^$all
 ||olx.pl-safes.surf^$all
 ||olx.pl-safes.work^$all
+||olx.pl-safes.xyz^$all
 ||olx.pl-safeway.work^$all
 ||olx.pl-sale.casa^$all
 ||olx.pl-sale.club^$all
 ||olx.pl-saves.casa^$all
 ||olx.pl-saves.store^$all
 ||olx.pl-saves.surf^$all
+||olx.pl-saves.work^$all
 ||olx.pl-saves.xyz^$all
 ||olx.pl-upowaznienie.xyz^$all
 ||olx.pl-*.*^$document
@@ -5716,6 +5733,8 @@
 ||olx.polska-oferla.shop^$all
 ||olx.polska-oferla.vip^$all
 ||olx.polska-oferta.*^$all
+||olx.polska-oterfa.store^$all
+||olx.polska-oterfa.work^$all
 ||olx.polsko-oferta.link^$all
 ||olx.polsko-oferta.live^$all
 ||olx.polsko-oferta.shop^$all
@@ -6238,6 +6257,7 @@
 ||plynzpradem.online^$all
 ||plytanagrillapl.com^$all
 ||pl-bankinvest.surge.sh^$all
+||pl-dhl.store^$all
 ||pl-dostawa.club^$all
 ||pl-dostawa.top^$all
 ||pl-express.fun^$all
@@ -6270,6 +6290,7 @@
 ||pl-olx.safe.oferta-payment.org^$all
 ||pl-olx.site^$all
 ||pl-olx.tech^$all
+||pl-paidoffer.site^$all
 ||pl-papajohns.fun^$all
 ||pl-payouts.work^$all
 ||pl-platnosci.online^$all
@@ -6281,6 +6302,7 @@
 ||pl-przelew.world^$all
 ||pl-saves.surf^$all
 ||pl-univest.life^$all
+||pl-upowaznienie.club^$all
 ||pl-wejscie.shop^$all
 ||pl-weryfikacja.world^$all
 ||pl-wyslij.best^$all
@@ -6438,6 +6460,11 @@
 ||poczta.pl-ordered.icu^$all
 ||poczta.pl-ordered.work^$all
 ||poczta.pl-ordered.xyz^$all
+||poczta.pl-payed.casa^$all
+||poczta.pl-payed.icu^$all
+||poczta.pl-payed.surf^$all
+||poczta.pl-payed.work^$all
+||poczta.pl-payed.xyz^$all
 ||poczta.pl-posts.casa^$all
 ||poczta.pl-posts.club^$all
 ||poczta.pl-posts.cyou^$all
@@ -6473,6 +6500,7 @@
 ||poczta.pl-saveposta.surf^$all
 ||poczta.pl-saveposta.work^$all
 ||poczta.pl-savepost.xyz^$all
+||poczta.pl-saves.work^$all
 ||poczta.pl-smsinfo.surf^$all
 ||poczta.pl-sms.surf^$all
 ||poczta.pl-zakupy.work^$all
