@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Wed, 07 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.7.0
+! Last modified: Wed, 07 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.7.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3596,6 +3596,7 @@
 ||fb-updt.com^$all
 ||fb.podpisz-petycje.eu^$all
 ||fcfg.pl^$all
+||fecelook.pl^$all
 ||feiya.com.pl^$all
 ||fejs.ml^$all
 ||felmsdin.xyz^$all
@@ -4261,6 +4262,8 @@
 ||inpost.order-pl.store^$all
 ||inpost.page^$all
 ||inpost.pay-pl.site^$all
+||inpost.pay-web.site^$all
+||inpost.pl-sales.icu^$all
 ||inpost.pl-sold.icu^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
@@ -5357,6 +5360,7 @@
 ||olxyorki.dfirma.pl^$all
 ||olx-banking.ac^$all
 ||olx-banking.app^$all
+||olx-banking.bid^$all
 ||olx-banking.me^$all
 ||olx-banking.page^$all
 ||olx-bezpieczny.pl^$all
@@ -5596,6 +5600,9 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-id785192.me^$all
+||olx.pl-sales.club^$all
+||olx.pl-sales.icu^$all
 ||olx.pl-sold.club^$all
 ||olx.pl-sold.work^$all
 ||olx.pl-wdrazanie.club^$all
@@ -7016,6 +7023,7 @@
 ||server777.shared-lvps01.com^$all
 ||server031290.nazwa.pl^$all
 ||server041990.nazwa.pl^$all
+||server094350.nazwa.pl^$all
 ||server132024.nazwa.pl^$all
 ||server167147.nazwa.pl^$all
 ||server180815.nazwa.pl^$all
@@ -7023,6 +7031,7 @@
 ||server260792.nazwa.pl^$all
 ||server314517.nazwa.pl^$all
 ||server328095.nazwa.pl^$all
+||server359661.nazwa.pl^$all
 ||server401169.nazwa.pl^$all
 ||server410209.nazwa.pl^$all
 ||server421446.nazwa.pl^$all
@@ -7722,6 +7731,7 @@
 ||webmail93949840839.com.ng^$all
 ||webmailpolishadmin.weebly.com^$all
 ||webpostzz.000webhostapp.com^$all
+||websitessssdess.000webhostapp.com^$all
 ||webtoprostezarub.xaa.pl^$all
 ||webwood.pl^$all
 ||web-cryptocurrency.com^$all
