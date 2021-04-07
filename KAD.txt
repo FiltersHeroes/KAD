@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Tue, 06 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.6.2
+! Last modified: Wed, 07 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.7.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -654,6 +654,7 @@
 ||hodowlaskalia.pl^$all
 ||hokaoneonepolska.com^$all
 ||hokaoneshop.com^$all
+||hokapolska.com^$all
 ||holdenavenue.pl^$all
 ||hollyposlka.com^$all
 ||homejailbreak.com^$all
@@ -1139,6 +1140,7 @@
 ||parletta.pl^$all
 ||partnergroupe.com^$all
 ||partylite.pl^$all
+||patagoniaskleppolska.com^$all
 ||patagoniawyprzedaz.com^$all
 ||patiavo.com^$all
 ||pato.pl^$all
@@ -1689,6 +1691,7 @@
 ||veclaim.com^$all
 ||vegatestsklep.pl^$all
 ||vegeella.pl^$all
+||vejapolska.com^$all
 ||vejapolska.pl^$all
 ||veltocars.com.pl^$all
 ||verifycaptcha.com^$all
@@ -5007,6 +5010,8 @@
 ||naszewiadomosci.site^$all
 ||naszewiadomosci.xyz^$all
 ||naszezabrze.online^$all
+||nasze-info-pl.pl^$all
+||nasze-info.pl^$all
 ||nasze-miasta24tv.online^$all
 ||nasze-miasto.k99k.com.pl^$all
 ||nasze-usg.pl^$all
@@ -5593,7 +5598,9 @@
 ||olx.pink^$all
 ||olx.pl-sold.club^$all
 ||olx.pl-sold.work^$all
+||olx.pl-wdrazanie.club^$all
 ||olx.pl-*.*^$document
+||olx.pl.mercnants.pw^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-ofer.me^$all
@@ -5725,6 +5732,7 @@
 ||openwrt.com^$all
 ||open-roll.com^$all
 ||operatorgsm.pl^$all
+||operator-24.xyz^$all
 ||operator-gsm.pl^$all
 ||operator-platnosci.click^$all
 ||opertor24.net^$all
@@ -5945,6 +5953,7 @@
 ||pay39-olx.pl^$all
 ||pay40-olx.pl^$all
 ||pay41-olx.pl^$all
+||pay42-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -6195,6 +6204,7 @@
 ||pl-saves.surf^$all
 ||pl-univest.life^$all
 ||pl-upowaznienie.club^$all
+||pl-wdrazanie.xyz^$all
 ||pl-wejscie.shop^$all
 ||pl-weryfikacja.world^$all
 ||pl-wyslij.best^$all
@@ -6301,6 +6311,7 @@
 ||poczta.interia-pl.online^$all
 ||poczta.interia-pl.site^$all
 ||poczta.interia-pl.space^$all
+||poczta.interia-pl.website^$all
 ||poczta.pl-confirmed.casa^$all
 ||poczta.pl-confirmed.club^$all
 ||poczta.pl-confirmed.icu^$all
