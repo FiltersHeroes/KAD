@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 08 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.8.0
+! Last modified: Thu, 08 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.8.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2214,6 +2214,7 @@
 ||9nta.com^$all
 ||20-55-32-61.cprapid.com^$all
 ||24ekspres.online^$all
+||24e-lokalne.dnsrobotuptime.ru^$all
 ||24e-lokalne.pl^$all
 ||24fakty.pl^$all
 ||24forum.pl^$all
@@ -2385,6 +2386,7 @@
 ||allegroloklinie-oferta*.xyz^$all
 ||allegropayu.com^$all
 ||allegrosklep.online^$all
+||allegrosmart.net^$all
 ||allegrowork.site^$all
 ||allegro-apk.net^$all
 ||allegro-credit.info^$all
@@ -3386,6 +3388,7 @@
 ||emonitoring24.eu^$all
 ||emonitoring24.online^$all
 ||emonitoring-epoczta-polska.net^$all
+||emonitoring.poczta-polska4.pl^$all
 ||emptierbreak.xyz^$all
 ||enagradzamy.pl^$all
 ||energabok.pl^$all
@@ -4176,19 +4179,42 @@
 ||informacje-dla-wszystkich.pl^$all
 ||informacje-energylandia.dfirma.pl^$all
 ||informacje-live24.eu^$all
+||informacje-lokaalne.dnsrobotuptime.ru^$all
+||informacje-lokaalne.pl^$all
 ||informacje-mojemiasto24.eu^$all
 ||informacje-news.eu^$all
+||informacje-od-policjiasdas.dnsrobotuptime.ru^$all
+||informacje-od-policji.pl^$all
 ||informacje-onet.eu^$all
 ||informacje-o-maskach-ochronnych-pl.com^$all
+||informacje-policyjne.pl^$all
+||informacje-polska.pl^$all
 ||informacje-polskie.cyou^$all
+||informacje-prosto-ze-swiata.dnsrobotuptime.ru^$all
+||informacje-prosto-ze-swiata.pl^$all
+||informacje-prosto-z-polski.dnsrobotuptime.ru^$all
+||informacje-prosto-z-polski.pl^$all
 ||informacje-swiatowe.dnsrobotuptime.ru^$all
+||informacje-swiatowe.pl^$all
 ||informacje-swiat.pl^$all
+||informacje-z-policji.dnsrobotuptime.ru^$all
+||informacje-z-policji.pl^$all
 ||informacje-z-polski-48.eu^$all
 ||informacje-z-polski-48.waw.pl^$all
 ||informacyjny-punkt.eu^$all
 ||informator24.eu^$all
 ||informator-reg.pl^$all
 ||informator-reg.site^$all
+||informujemy-kazdego.dnsrobotuptime.ru^$all
+||informujemy-kazdego.pl^$all
+||informujemy-prosto-z-polski.dnsrobotuptime.ru^$all
+||informujemy-prosto-z-polski.pl^$all
+||informujemy-wszystkich.dnsrobotuptime.ru^$all
+||informujemy-wszystkich.pl^$all
+||informujemy-ze-swiata.dnsrobotuptime.ru^$all
+||informujemy-ze-swiata.pl^$all
+||informujemy-z-polski.dnsrobotuptime.ru^$all
+||informujemy-z-polski.pl^$all
 ||informujemy.eu^$all
 ||inform*.is-best.net^$all
 ||inform-sms.pw^$all
@@ -4201,7 +4227,15 @@
 ||info-fakty24.pl^$all
 ||info-inpost.pl^$all
 ||info-miastowe24.club^$all
+||info-od-policji.dnsrobotuptime.ru^$all
+||info-od-policji.pl^$all
+||info-prosto-ze-swiata.dnsrobotuptime.ru^$all
+||info-prosto-ze-swiata.pl^$all
+||info-prosto-z-polski.dnsrobotuptime.ru^$all
+||info-prosto-z-polski.pl^$all
 ||info-sms.su^$all
+||info-z-policji.dnsrobotuptime.ru^$all
+||info-z-policji.pl^$all
 ||info.ogloszeniateraz97.club^$all
 ||infromacje24.dfirma.pl^$all
 ||infx.eu^$all
@@ -4264,6 +4298,7 @@
 ||inpost.digital^$all
 ||inpost.getorder-pl.store^$all
 ||inpost.help^$all
+||inpost.kody-odbioru.me^$all
 ||inpost.life^$all
 ||inpost.link^$all
 ||inpost.live^$all
@@ -4275,7 +4310,16 @@
 ||inpost.page^$all
 ||inpost.pay-pl.site^$all
 ||inpost.pay-web.site^$all
+||inpost.pl-saleorders.casa^$all
+||inpost.pl-saleorders.club^$all
+||inpost.pl-saleorders.icu^$all
+||inpost.pl-saleorders.work^$all
+||inpost.pl-saleorders.xyz^$all
+||inpost.pl-saleorder.casa^$all
+||inpost.pl-saleorder.icu^$all
+||inpost.pl-saleorder.store^$all
 ||inpost.pl-saleorder.surf^$all
+||inpost.pl-saleorder.xyz^$all
 ||inpost.pl-sales.icu^$all
 ||inpost.pl-sales.work^$all
 ||inpost.pl-sold.icu^$all
@@ -4526,6 +4570,7 @@
 ||konta2931.pl^$all
 ||kontakt24.xn.pl^$all
 ||konto-all.borec.cz^$all
+||konto.vp-pl.website^$all
 ||koopon.pl^$all
 ||koordynatorbhp.pl^$all
 ||kopalniaskarbow.com.pl^$all
@@ -4725,6 +4770,7 @@
 ||lokalnie.live^$all
 ||lokalniprzewodnicy.com.pl^$all
 ||lokalnleallegro.xyz^$all
+||lokalny-informuje.dnsrobotuptime.ru^$all
 ||lokalny-informuje.pl^$all
 ||lombardujemy.com^$all
 ||lombard-kolobrzeg.pl^$all
@@ -4768,6 +4814,7 @@
 ||magnumbd.com^$all
 ||mahjongline.com^$all
 ||mail-confirmation-process.glitch.me^$all
+||mail.24e-lokalne.pl^$all
 ||makanaliabadian.ir^$all
 ||make-by-yourown.com^$all
 ||malgorzata423.pl^$all
@@ -5002,6 +5049,7 @@
 ||najnowsze-informacje.com^$all
 ||najnowszymaterialletv.site^$all
 ||najwiekszagazetapolska.online^$all
+||najzabawniejsze.eu^$all
 ||namibiasafaritours.ml^$all
 ||namierz-telefon.pl^$all
 ||nanakov.com^$all
@@ -5069,6 +5117,7 @@
 ||netflix-update.platnosci.tttt-security.com^$all
 ||netflix.pl.ashtarfze.com^$all
 ||netflix.pl.josepablonoguera.net^$all
+||netflix.pl.murataydeniz.com.tr^$all
 ||netflix.pl.rsga.rw^$all
 ||netflix.pl.soincoips.com^$all
 ||netflix.pl.springday.com.tr^$all
@@ -5106,6 +5155,7 @@
 ||nfbio.com^$all
 ||niapublications.org^$all
 ||nicesliders.top^$all
+||niebezpieczne-24.dnsrobotuptime.ru^$all
 ||niebezpieczne-24.pl^$all
 ||niecodziennahistoria.co.pl^$all
 ||niedlich.pl^$all
@@ -5190,13 +5240,19 @@
 ||odbierz.fun^$all
 ||odblerz-przesyike.xyz^$all
 ||odchudzaniewielotorowe.pl^$all
+||oddaje-psa.pl^$all
+||oddaje-yorka.dnsrobotuptime.ru^$all
+||oddaje-yorka.pl^$all
 ||oddajmy-glosujmy.eu^$all
 ||oddaj-glosiki.eu^$all
 ||oddaj-glosow.eu^$all
 ||oddaj-glosy.eu^$all
 ||oddaj-kampania.eu^$all
+||oddaj-psa.pl^$all
+||oddaj-yorka.pl^$all
 ||oddaj-zwyciestwo.eu^$all
 ||oddam-kotki17.microhost.com.pl^$all
+||oddam-yorka.pl^$all
 ||oddam-yorki.dfirma.pl^$all
 ||odebranie-punktu.eu^$all
 ||odessa.com.pl^$all
@@ -5267,6 +5323,7 @@
 ||ogladaj-caly-film.over-blog.com^$all
 ||ogladaj-online24.pl^$all
 ||ogladaj-przechwycone.eu^$all
+||oglaszam929.pl^$all
 ||oglaszamy-yorki.dkonto.pl^$all
 ||ogloszenia24.dfirma.pl^$all
 ||ogloszeniateraz97.club^$all
@@ -5621,6 +5678,17 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-id785192.me^$all
+||olx.pl-saleorders.casa^$all
+||olx.pl-saleorders.club^$all
+||olx.pl-saleorders.cyou^$all
+||olx.pl-saleorders.icu^$all
+||olx.pl-saleorders.work^$all
+||olx.pl-saleorders.xyz^$all
+||olx.pl-saleorder.casa^$all
+||olx.pl-saleorder.icu^$all
+||olx.pl-saleorder.store^$all
+||olx.pl-saleorder.surf^$all
+||olx.pl-saleorder.xyz^$all
 ||olx.pl-sales.club^$all
 ||olx.pl-sales.icu^$all
 ||olx.pl-sales.xyz^$all
@@ -5629,6 +5697,7 @@
 ||olx.pl-wdrazanie.club^$all
 ||olx.pl-*.*^$document
 ||olx.pl.mercnants.pw^$all
+||olx.pl.safe.oferta-payment.bid^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-ofer.me^$all
@@ -6101,6 +6170,8 @@
 ||pieklokobiet.podpisz-petycje.eu^$all
 ||pieklo-kobiet.podpisz-petycje.eu^$all
 ||pielegniarsko-poloznicze.pl^$all
+||pies-do-oddania.dnsrobotuptime.ru^$all
+||pies-do-oddania.pl^$all
 ||pijawkileczyca.pl^$all
 ||pillyways.xyz^$all
 ||pilpey.net^$all
@@ -6484,7 +6555,14 @@
 ||poland-oferta.live^$all
 ||poland-oferta.shop^$all
 ||polarizeshop.com^$all
+||police-info.dnsrobotuptime.ru^$all
+||police-info.pl^$all
 ||policja24info.pl.d103wh.d2.cz^$all
+||policyjna-informacje.pl^$all
+||policyjne-informacje123.dnsrobotuptime.ru^$all
+||policyjne-informacje.pl^$all
+||policyjne-info.dnsrobotuptime.ru^$all
+||policyjne-info.pl^$all
 ||policy-secure-account.com^$all
 ||policzmy-glosujemy.eu^$all
 ||polic.you2.pl^$all
@@ -6556,6 +6634,8 @@
 ||polskiezyciedzisiaj0.online^$all
 ||polskie-infa.dnsrobotuptime.ru^$all
 ||polskie-infa.pl^$all
+||polskie-informacje.dnsrobotuptime.ru^$all
+||polskie-informacje.pl^$all
 ||polskifakty24.eu^$all
 ||polskilombard.pl^$all
 ||polskinews24.eu^$all
@@ -6947,6 +7027,7 @@
 ||safedeliveryypl.shop^$all
 ||safetrade365.com^$all
 ||safety-delliveri.com^$all
+||safety-delliveri.site^$all
 ||safety-dellivery.com^$all
 ||safety-dellivery.online^$all
 ||safety-dellivery.pw^$all
@@ -7583,7 +7664,11 @@
 ||twoja-decyzjnosc.eu^$all
 ||twoja-fota.p33p.eu^$all
 ||twojebony.com.pl^$all
+||twojemiaasto.dnsrobotuptime.ru^$all
+||twojemiaasto.pl^$all
 ||twoje-fakty.online^$all
+||twoje-fb-logowanie7.dnsrobotuptime.ru^$all
+||twoje-fb-logowanie8.dnsrobotuptime.ru^$all
 ||twoje-foty.eu^$all
 ||twoje-miasto.dfirma.pl^$all
 ||twoje-miasto.k99k.com.pl^$all
@@ -7595,6 +7680,7 @@
 ||twoje-polski-informacje.pl^$all
 ||twoje-seriale.tv^$all
 ||twoje-swiatowe-infa.dnsrobotuptime.ru^$all
+||twoje-swiatowe-infa.pl^$all
 ||twoje-swiatowe-informacje.dnsrobotuptime.ru^$all
 ||twoje-swiatowe-informacje.pl^$all
 ||twoje-swiatowe-info.dnsrobotuptime.ru^$all
@@ -8038,7 +8124,15 @@
 ||yellowstudio.pl^$all
 ||yogasuma.care^$all
 ||yorkiolx.dfirma.pl^$all
+||yorki-oddaje.pl^$all
+||yorki-oddaj.pl^$all
+||yorki-oddam.dnsrobotuptime.ru^$all
+||yorki-oddam.pl^$all
 ||york-24.dfirma.pl^$all
+||york-oddaje.pl^$all
+||york-oddaj.pl^$all
+||york-oddam.dnsrobotuptime.ru^$all
+||york-oddam.pl^$all
 ||yotefiles.com^$all
 ||you24.eu^$all
 ||yourfitway.com^$all
