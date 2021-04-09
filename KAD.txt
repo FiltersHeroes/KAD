@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 09 Apr 2021, 13:03 UTC+02
-! Version: 2021.4.9.0
+! Last modified: Fri, 09 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.9.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2232,12 +2232,14 @@
 ||96b4d58e213077161.temporary.link^$all
 ||100sport.tv^$all
 ||123movies.my.id^$all
+||123plays.com^$all
 ||123.allegro-lokalnie.club^$all
 ||137-74-148-87.cprapid.com^$all
 ||144.allegrolokaline.club^$all
 ||198-58-119-23.cprapid.com^$all
 ||253.express-inpost.online^$all
 ||287.allegro-lokalnie.club^$all
+||411medias.com^$all
 ||433.mobile-allegrolokalnie.shop^$all
 ||777marketer.cyou^$all
 ||778t799e9e77e7ewwqqww.sport357.com^$all
@@ -2975,6 +2977,7 @@
 ||csz1-amzzzsrvceupdayters.com^$all
 ||ctizuhvdko.web.app^$all
 ||ctxholdings.com^$all
+||cullgame.com^$all
 ||cuorl.top^$all
 ||cuosdemakadi.gq^$all
 ||curryhouse.com.pl^$all
@@ -3707,6 +3710,7 @@
 ||firmy24.j.pl^$all
 ||firstclick.pro^$all
 ||firtpey.net^$all
+||fitcenterz.com^$all
 ||fitchciapara.com^$all
 ||fitfloppolska.pl^$all
 ||fitnesssklep.com^$all
@@ -3978,8 +3982,11 @@
 ||google-*.*giveaway*.xyz^$all
 ||google-*.*offer*.icu^$all
 ||google-*.*present*.icu^$all
+||goonline.bnpparlbas-pl.com^$all
+||goonline.bnp-paribaspl.com^$all
 ||goosms.in^$all
 ||gooso.org^$all
+||goplayz.com^$all
 ||gorisemarkets.com^$all
 ||gospodarstwo-rolne.com.pl^$all
 ||goths.store^$all
@@ -4514,6 +4521,7 @@
 ||kandydatura-sieciowa.eu^$all
 ||kandydujmy-wszyscy.eu^$all
 ||karencupp.com^$all
+||karnesprawy.net^$all
 ||karolbus.pl^$all
 ||kartawire.pl^$all
 ||karta-swiateczna.eu^$all
@@ -5713,6 +5721,8 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-buyed.club^$all
+||olx.pl-buyed.cyou^$all
 ||olx.pl-buyorder.casa^$all
 ||olx.pl-buyorder.club^$all
 ||olx.pl-buyorder.cyou^$all
@@ -6265,6 +6275,7 @@
 ||playallthis.com^$all
 ||playapk24.com^$all
 ||playaplikacje.com^$all
+||playcapt.com^$all
 ||playery.pl^$all
 ||player-cda.pl^$all
 ||playesea.pl^$all
@@ -7389,6 +7400,7 @@
 ||sprawdz-dzialanosc.eu^$all
 ||sprawdz-orzeczenie.eu^$all
 ||sprawdz-swoje-iq.pl^$all
+||sprawykarne.net^$all
 ||sprnr*.net^$all
 ||sprobujazdobedziiesz.club^$all
 ||sprobujzarobicjakon.site^$all
@@ -7707,6 +7719,7 @@
 ||tvjovem.net^$all
 ||tvn24polska.eu^$all
 ||tvn24polska.you2.pl^$all
+||tvn24.club^$all
 ||tvn24.dfirma.pl^$all
 ||tvnowapp.net^$all
 ||tvn-uwaga.dfirma.pl^$all
@@ -8031,6 +8044,7 @@
 ||worlds-news.org^$all
 ||worthlessness.xyz^$all
 ||wp1login.waw.pl^$all
+||wp24.work^$all
 ||wpadkowo.pl^$all
 ||wpelnizadowoleni.site^$all
 ||wpiata-paczkomat.host^$all
