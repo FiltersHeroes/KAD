@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Thu, 08 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.8.2
+! Last modified: Fri, 09 Apr 2021, 13:03 UTC+02
+! Version: 2021.4.9.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -864,6 +864,7 @@
 ||lorete.pl^$all
 ||lossal.pl^$all
 ||lottoland.pl^$all
+||lottosportpolska.pl^$all
 ||loveaholics.com^$all
 ||loverlywigs.com^$all
 ||lovett5.com^$all
@@ -2264,6 +2265,7 @@
 ||a2plvcpnl308307.prod.iad2.secureserver.net^$all
 ||a0502529.xsph.ru^$all
 ||abandasy.com^$all
+||abcdietz.com^$all
 ||abc.amaretto.xja.pl^$all
 ||abikurier.com^$all
 ||abomfartrdsgdf.webcindario.com^$all
@@ -2611,6 +2613,7 @@
 ||best-ones.website^$all
 ||best-sales.top^$all
 ||betbyt.com^$all
+||bezdyskusyjniedobre.cyou^$all
 ||bezpieczenstwo.wp-pl.eu^$all
 ||bezpieczna-dostawa.biz^$all
 ||bezpieczna-dostawa.org^$all
@@ -2790,6 +2793,7 @@
 ||c39b126b5cec.ngrok.io^$all
 ||caeiriolskiaopazertyiop.xyz^$all
 ||caldai.com^$all
+||calyczasotymmowimy.cyou^$all
 ||calyfilmhd.over-blog.com^$all
 ||calyfilm-onlinepl.over-blog.com^$all
 ||campaign-olx.pl^$all
@@ -2863,6 +2867,7 @@
 ||chicharito14.c0.pl^$all
 ||childalertfakt.*^$all
 ||childinfo.eu^$all
+||chodzimiiotoze.site^$all
 ||chomik24.com.pl^$all
 ||chomikuj*.opx.pl^$all,domain=pl
 ||chomikuj.*^$document,domain=~chomikuj.pl
@@ -2927,6 +2932,7 @@
 ||coronavirustestkit.co.za^$all
 ||cosanostra.com.pl^$all
 ||cosdasiezrobbic.site^$all
+||cosdlapollakkow.site^$all
 ||cossdlakazdego.website^$all
 ||coswtymmusibyc.online^$all
 ||cotamsiestaloo.site^$all
@@ -3077,6 +3083,7 @@
 ||dedykowac-wygrana.eu^$all
 ||deepikarai.com^$all
 ||definicjabiznesu.online^$all
+||deklaracjjabiznes24.club^$all
 ||delibrium.pl^$all
 ||deliverry-safe.biz^$all
 ||deliverry-safe.com^$all
@@ -3310,6 +3317,7 @@
 ||dulawa.pl^$all
 ||dultrasolutions.duckdns.org^$all
 ||dutchaparel.com^$all
+||duzoprobzmianyzycia.club^$all
 ||duzysklep.com^$all
 ||dworzec2.webd.pro^$all
 ||dworzecfakt.*^$all
@@ -3814,6 +3822,7 @@
 ||gazetamazowska.pl^$all
 ||gazetamazowsze.eu^$all
 ||gazetaopolska.xyz^$all
+||gazetapl.alte.pl^$all
 ||gazetapolska.cal24.pl^$all
 ||gazetapolska.hoste.pl^$all
 ||gazetapolska.org.pl^$all
@@ -3864,6 +3873,7 @@
 ||gazeta-zabrze.xyz^$all
 ||gazeta.kutno.pl^$all
 ||gazeta.pl.com.bz^$all
+||gazetka24.alte.pl^$all
 ||gazetka24.laohost.net^$all
 ||gazetkamazowsze.pl^$all
 ||gazetkawarszawa.eu^$all
@@ -4208,10 +4218,12 @@
 ||informator24.eu^$all
 ||informator-reg.pl^$all
 ||informator-reg.site^$all
+||informujemyswiat.pl^$all
 ||informujemy-kazdego.dnsrobotuptime.ru^$all
 ||informujemy-kazdego.pl^$all
 ||informujemy-prosto-z-polski.dnsrobotuptime.ru^$all
 ||informujemy-prosto-z-polski.pl^$all
+||informujemy-swiat.pl^$all
 ||informujemy-wszystkich.dnsrobotuptime.ru^$all
 ||informujemy-wszystkich.pl^$all
 ||informujemy-ze-swiata.dnsrobotuptime.ru^$all
@@ -4219,6 +4231,8 @@
 ||informujemy-z-polski.dnsrobotuptime.ru^$all
 ||informujemy-z-polski.pl^$all
 ||informujemy.eu^$all
+||informujswiat.pl^$all
+||informuj-swiat.pl^$all
 ||inform*.is-best.net^$all
 ||inform-sms.pw^$all
 ||infosandiego.wixsite.com^$all
@@ -4280,6 +4294,7 @@
 ||inpostmobile.org^$all
 ||inpostodbior.com^$all
 ||inpostodkaz.net^$all
+||inpostpl.com^$all
 ||inpost-app.me^$all
 ||inpost-dostawa.pl^$all
 ||inpost-generator.net^$all
@@ -4315,6 +4330,10 @@
 ||inpost.page^$all
 ||inpost.pay-pl.site^$all
 ||inpost.pay-web.site^$all
+||inpost.pl-buyorder.club^$all
+||inpost.pl-buyorder.cyou^$all
+||inpost.pl-buy.work^$all
+||inpost.pl-buy.xyz^$all
 ||inpost.pl-saleorders.casa^$all
 ||inpost.pl-saleorders.club^$all
 ||inpost.pl-saleorders.icu^$all
@@ -4365,6 +4384,7 @@
 ||interia24.dfirma.pl^$all
 ||interianewsy24.medianewsonline.com^$all
 ||interia-poczta.email^$all
+||interia.cyou^$all
 ||interneip.org^$all
 ||internetowe-potyczki.eu^$all
 ||internetowe-wybory.eu^$all
@@ -4460,6 +4480,7 @@
 ||jednadecyzzja.site^$all
 ||jednoczesnysuckess.space^$all
 ||jednosc.online^$all
+||jednotrzebapodkreslic.site^$all
 ||jesliwidzieliscie.online^$all
 ||jestemnatak.dkonto.pl^$all
 ||jesttosprawa.online^$all
@@ -4567,6 +4588,7 @@
 ||komputery-szczytno.pl^$all
 ||komunikaty24.net^$all
 ||koniec500plus.eu^$all
+||koniecikroppka.website^$all
 ||konkurencje-kliknij.eu^$all
 ||konkursowa-reakcja.eu^$all
 ||konkursowy-wybor.eu^$all
@@ -4608,6 +4630,7 @@
 ||kserwis.pl^$all
 ||ksiazka-telefoniczna-online.pl^$all
 ||ktobysiespodziewal.site^$all
+||ktobyssiespodzieawl.website^$all
 ||ktopodgladamnienafacebooku.wordpress.com^$all
 ||ktpay.site^$all
 ||kulalusramag.net^$all
@@ -4999,6 +5022,8 @@
 ||movipax.com^$all
 ||movipex.com^$all
 ||mowmihache.pl^$all
+||mozebyctak.site^$all
+||mozeszosiagnacwszystko.cyou^$all
 ||mozeszsiedoczekac.cyou^$all
 ||mpestudios.pt^$all
 ||msphackonline.com^$all
@@ -5060,8 +5085,11 @@
 ||namierz-telefon.pl^$all
 ||nanakov.com^$all
 ||nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com^$all
+||napewnosieopplaci.website^$all
 ||napierdzielanki.pl^$all
+||napoczatekpopatrztutaj.club^$all
 ||naprawdesiedzieje.space^$all
+||naprawdetozmienn.club^$all
 ||naprzeciwkoludziom.online^$all
 ||narzedzia.live^$all
 ||nastawiaj-porzadnie.eu^$all
@@ -5163,6 +5191,7 @@
 ||nicesliders.top^$all
 ||niebezpieczne-24.dnsrobotuptime.ru^$all
 ||niebezpieczne-24.pl^$all
+||niebojsieryzykowacc.website^$all
 ||niecodziennahistoria.co.pl^$all
 ||niedlich.pl^$all
 ||niedoplata.ru^$all
@@ -5354,6 +5383,7 @@
 ||oix-pl-safe.website^$all
 ||oix-zaplata.com^$all
 ||okazja2021.online^$all
+||okazja.cyou^$all
 ||okaz-wspomnienie.eu^$all
 ||okshoespoland.com^$all
 ||okularypowiekszajace-pl.com^$all
@@ -5683,6 +5713,15 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-buyorder.casa^$all
+||olx.pl-buyorder.club^$all
+||olx.pl-buyorder.cyou^$all
+||olx.pl-buyorder.icu^$all
+||olx.pl-buy.casa^$all
+||olx.pl-buy.shop^$all
+||olx.pl-buy.surf^$all
+||olx.pl-buy.work^$all
+||olx.pl-buy.xyz^$all
 ||olx.pl-id785192.me^$all
 ||olx.pl-saleorders.casa^$all
 ||olx.pl-saleorders.club^$all
@@ -5702,6 +5741,7 @@
 ||olx.pl-sold.work^$all
 ||olx.pl-wdrazanie.club^$all
 ||olx.pl-*.*^$document
+||olx.pl.deliveres.pw^$all
 ||olx.pl.mercnants.pw^$all
 ||olx.pl.safe.oferta-payment.bid^$all
 ||olx.pl.*.*^$document
@@ -5760,6 +5800,7 @@
 ||onet24pl.pvi.pl^$all
 ||onet24polska.eu^$all
 ||onet24.dkonto.pl^$all
+||onet24.live^$all
 ||onet1111.webd.pro^$all
 ||onetfakt24.eu^$all
 ||onetmailsupportsystemnetworks.tk^$all
@@ -6059,6 +6100,7 @@
 ||pay41-olx.pl^$all
 ||pay42-olx.pl^$all
 ||pay43-olx.pl^$all
+||pay44-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -6195,6 +6237,7 @@
 ||pitonswerder.work^$all
 ||pizzarewal.pl^$all
 ||pkobp.online^$all
+||pkopl.com^$all
 ||pko-bp.pl^$all
 ||pl2021.online^$all
 ||placidocn.com^$all
@@ -6225,6 +6268,7 @@
 ||playery.pl^$all
 ||player-cda.pl^$all
 ||playesea.pl^$all
+||playkull.com^$all
 ||playproz.com^$all
 ||playsklep24.com^$all
 ||playsklep.net^$all
@@ -6236,6 +6280,7 @@
 ||plcnvz.weebly.com^$all
 ||plc-68630294.hgps.ie^$all
 ||plc-74471327.hgps.ie^$all
+||pldostawa-safe.shop^$all
 ||plebiscyt-krakow.eu^$all
 ||plebiscyt-krakow.v00.pl^$all
 ||plebiscyt-lublin.vot.pl^$all
@@ -6393,6 +6438,7 @@
 ||pocztaadminhelpdeskunit3.moonfruit.com^$all
 ||pocztaadminhelpdeskunit.moonfruit.com^$all
 ||pocztaadminhelpdesk.moonfruit.com^$all
+||pocztaadminhelpunit.moonfruit.com^$all
 ||pocztaadminunit.moonfruit.com^$all
 ||pocztabox24.xyz^$all
 ||pocztainteria-regulamin.net^$all
@@ -6422,6 +6468,13 @@
 ||poczta.interia-pl.site^$all
 ||poczta.interia-pl.space^$all
 ||poczta.interia-pl.website^$all
+||poczta.pl-buyorder.casa^$all
+||poczta.pl-buyorder.club^$all
+||poczta.pl-buyorder.cyou^$all
+||poczta.pl-buyorder.icu^$all
+||poczta.pl-buy.surf^$all
+||poczta.pl-buy.work^$all
+||poczta.pl-buy.xyz^$all
 ||poczta.pl-confirmed.casa^$all
 ||poczta.pl-confirmed.club^$all
 ||poczta.pl-confirmed.icu^$all
@@ -6707,6 +6760,7 @@
 ||postanowienie-wyboru.eu^$all
 ||postaraj-pomoc.eu^$all
 ||postawnaswojetv.website^$all
+||postawnatowszystko.site^$all
 ||postawsobiepytanie.online^$all
 ||postbox-24.site^$all
 ||postid-79348548.justgreece.org^$all
@@ -7336,6 +7390,7 @@
 ||sprawdz-orzeczenie.eu^$all
 ||sprawdz-swoje-iq.pl^$all
 ||sprnr*.net^$all
+||sprobujazdobedziiesz.club^$all
 ||sprobujzarobicjakon.site^$all
 ||sprzeadazonilne.xyz^$all
 ||sprzedamkoszty.com^$all
@@ -7457,6 +7512,10 @@
 ||swiat24.dkonto.pl^$all
 ||swiateczne-zamieszanie.eu^$all
 ||swiatfilmikow.pl^$all
+||swiatowagazeta.pl^$all
+||swiatowagazetka.pl^$all
+||swiatowa-gazeta.pl^$all
+||swiatowa-gazetka.pl^$all
 ||swiatpilne.eu^$all
 ||swiatwiadomosci.xyz^$all
 ||swiat-inaczej.you2.pl^$all
@@ -7513,6 +7572,7 @@
 ||tajskimasazsopot.pl^$all
 ||takaprawda.icu^$all
 ||takjakwszyscyy.site^$all
+||taktooceniamypolacy.club^$all
 ||tamjuzktosbyl.cyou^$all
 ||tankhoi.vn^$all
 ||tarcza24.net^$all
@@ -7582,6 +7642,8 @@
 ||tolerujmy-ludzi.eu^$all
 ||tomorrowcrypto.vip^$all
 ||tomypolacy.online^$all
+||tonapewnowyjdzie.space^$all
+||toniemusibycsen.club^$all
 ||topgryusluga.5p.pl^$all
 ||topnotchtradefx.com^$all
 ||topparcelservices.com^$all
@@ -7629,6 +7691,7 @@
 ||trotamundos.com.pl^$all
 ||trsmarkets.com^$all
 ||truegamers.ga^$all
+||trzebasiezstegoutrzymac.cyou^$all
 ||trzymajpoziom.pl^$all
 ||tsarina.pl^$all
 ||tujestpolska.icu^$all
@@ -7756,6 +7819,7 @@
 ||uregulowanie-naleznosci-24.xyz^$all
 ||urleddrug.at^$all
 ||url-rdconline7webdhglobal.blogspot.com^$all
+||urmediaz.com^$all
 ||urywek-glosu.eu^$all
 ||urzad-gov.net^$all
 ||usdsy.com^$all
@@ -7921,6 +7985,7 @@
 ||widget-eforsa.pl^$all
 ||wiecejeniemam.site^$all
 ||wiecejpolski.icu^$all
+||wiecejztegowyjmij.club^$all
 ||wiecej.online^$all
 ||wiedzacodziennatv.info^$all
 ||wieliczka-pl.tk^$all
@@ -7999,6 +8064,7 @@
 ||wstrzymana-paczka.in.net^$all
 ||wstrzymana-paczka.xyz^$all
 ||wszyscyoglladaja.online^$all
+||wszyscyotymgadaja24.website^$all
 ||wszyscy-dopingujmy.eu^$all
 ||wszyscy-wybieramy.eu^$all
 ||wszystkodokuchni.pl^$all
@@ -8084,6 +8150,7 @@
 ||wys24h.eu^$all
 ||wyscig-wygranych.eu^$all
 ||wystarczydziallac.website^$all
+||wystarczypamietac.cyou^$all
 ||wystarczypooszukkac.online^$all
 ||wysybdhl.com^$all
 ||wysycdhl.com^$all
@@ -8242,6 +8309,7 @@
 ||zmiennswojezzycie.cyou^$all
 ||zmiltraf.website^$all
 ||znajdziemy.icu^$all
+||znajdzwspolnyjezyk.site^$all
 ||znajdz-paczke-24.xyz^$all
 ||znakkommiterezultaty.space^$all
 ||znamcie.pl^$all
@@ -8250,6 +8318,7 @@
 ||znany-lekarz.pl^$all
 ||zobaczfotki.eu^$all
 ||zobaczmy-sprawe.eu^$all
+||zobaczymyczyjjeszczesieuad.space^$all
 ||zobacz-film.pl^$all
 ||zognia.pl^$all
 ||zone-telechargement-albums.com^$all
