@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 09 Apr 2021, 21:03 UTC+02
-! Version: 2021.4.9.2
+! Last modified: Sat, 10 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.10.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1422,6 +1422,7 @@
 ||sklepbuty.top^$all
 ||sklepcolumbia.com^$all
 ||sklephollisterpl.com^$all
+||sklepkjl.com^$all
 ||sklepnorthface.com^$all
 ||sklepszkolen.pl^$all
 ||sklep-bio.pl^$all
@@ -2302,6 +2303,7 @@
 ||adwokaci-24.pl^$all
 ||adworks.cat^$all
 ||affingindustries.com^$all
+||affinityfinancenews.com^$all
 ||agencja-aspro.pl^$all
 ||agikurier.org^$all
 ||agipasesores.com^$all
@@ -2854,6 +2856,7 @@
 ||centrum-pomocy.waw.pl^$all
 ||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
 ||ceresiontest.c0.pl^$all
+||cevik01supermarkt.nl^$all
 ||cezaevinegonder.com^$all
 ||cgiergate.com^$all
 ||challhawseholer.com^$all
@@ -4340,6 +4343,7 @@
 ||inpost.page^$all
 ||inpost.pay-pl.site^$all
 ||inpost.pay-web.site^$all
+||inpost.pl-buyorders.cyou^$all
 ||inpost.pl-buyorder.club^$all
 ||inpost.pl-buyorder.cyou^$all
 ||inpost.pl-buy.work^$all
@@ -5733,6 +5737,7 @@
 ||olx.pink^$all
 ||olx.pl-buyed.club^$all
 ||olx.pl-buyed.cyou^$all
+||olx.pl-buyorders.xyz^$all
 ||olx.pl-buyorder.casa^$all
 ||olx.pl-buyorder.club^$all
 ||olx.pl-buyorder.cyou^$all
@@ -5764,6 +5769,7 @@
 ||olx.pl-*.*^$document
 ||olx.pl.deliveres.pw^$all
 ||olx.pl.mercnants.pw^$all
+||olx.pl.safe.mercnant-id.pw^$all
 ||olx.pl.safe.oferta-payment.bid^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
@@ -6123,6 +6129,7 @@
 ||pay43-olx.pl^$all
 ||pay44-olx.pl^$all
 ||pay45-olx.pl^$all
+||pay46-olx.pl^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payment24-online.org^$all
@@ -6630,6 +6637,8 @@
 ||pogodasub.com^$all
 ||pogotowie.pcserwis.c0.pl^$all
 ||poinformowanni.cyou^$all
+||poinformujswiat.pl^$all
+||poinformuj-swiat.pl^$all
 ||pojadetam.pl^$all
 ||pojmujmy-wszystko.eu^$all
 ||pokaz-lojalnosc.eu^$all
@@ -7548,6 +7557,10 @@
 ||swiatowagazetka.pl^$all
 ||swiatowa-gazeta.pl^$all
 ||swiatowa-gazetka.pl^$all
+||swiatoweinformacje.pl^$all
+||swiatoweinfo.pl^$all
+||swiatowe-informacje.pl^$all
+||swiatowe-info.pl^$all
 ||swiatpilne.eu^$all
 ||swiatwiadomosci.xyz^$all
 ||swiat-inaczej.you2.pl^$all
