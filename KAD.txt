@@ -3,9 +3,9 @@
 !
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
-! Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe. Oprócz własnego zestawu, zawierają one również wpisy z list stworzonych przez takie zespoły jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 10 Apr 2021, 17:04 UTC+02
-! Version: 2021.4.10.1
+! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
+! Last modified: Sat, 10 Apr 2021, 21:04 UTC+02
+! Version: 2021.4.10.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4324,6 +4324,7 @@
 ||inpost-piatnosc-24.xyz^$all
 ||inpost-platnosc.in.net^$all
 ||inpost-pl.online^$all
+||inpost-zamowienie.pl^$all
 ||inpost.bond^$all
 ||inpost.casa^$all
 ||inpost.cc^$all
@@ -4337,6 +4338,7 @@
 ||inpost.link^$all
 ||inpost.live^$all
 ||inpost.ltd^$all
+||inpost.name^$all
 ||inpost.oferda-pl.space^$all
 ||inpost.orders-pls.live^$all
 ||inpost.order-pl.art^$all
@@ -4347,6 +4349,7 @@
 ||inpost.pl-buyorders.cyou^$all
 ||inpost.pl-buyorder.club^$all
 ||inpost.pl-buyorder.cyou^$all
+||inpost.pl-buypost.icu^$all
 ||inpost.pl-buy.work^$all
 ||inpost.pl-buy.xyz^$all
 ||inpost.pl-saleorders.casa^$all
@@ -4370,6 +4373,7 @@
 ||inpost.polska-dostawa.digital^$all
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-oferda.store^$all
+||inpost.polska-oferdo.work^$all
 ||inpost.polska-oferla.link^$all
 ||inpost.polska-oferla.live^$all
 ||inpost.polska-oferla.shop^$all
@@ -4500,6 +4504,7 @@
 ||jestemnatak.dkonto.pl^$all
 ||jestnatoczass.club^$all
 ||jesttosprawa.online^$all
+||jeszczepolacyprobuja.cyou^$all
 ||jexchange.ga^$all
 ||jezuschytrus.pl^$all
 ||jezykobcywdomu.eu^$all
@@ -4678,6 +4683,7 @@
 ||kurier-naleznosc.in.net^$all
 ||kurier-naleznosc.life^$all
 ||kurier-oczekuiacy.in.net^$all
+||kurier-plata.digital^$all
 ||kurier-platnosci.services^$all
 ||kurier-pocztex24.com^$all
 ||kurjerzy-pl.cyou^$all
@@ -4874,6 +4880,8 @@
 ||manager-paczek.fun^$all
 ||manager-paczek.in.net^$all
 ||manager-paczelk.in.net^$all
+||mandat8471.net^$all
+||mandat9582.net^$all
 ||mandatoplac.net^$all
 ||manistan.com^$all
 ||manvspixel.pl^$all
@@ -5744,6 +5752,8 @@
 ||olx.pl-buyorder.club^$all
 ||olx.pl-buyorder.cyou^$all
 ||olx.pl-buyorder.icu^$all
+||olx.pl-buypost.club^$all
+||olx.pl-buypost.icu^$all
 ||olx.pl-buy.casa^$all
 ||olx.pl-buy.shop^$all
 ||olx.pl-buy.surf^$all
@@ -5795,6 +5805,7 @@
 ||olx.polska-dostawka.live^$all
 ||olx.polska-dostawka.xyz^$all
 ||olx.polska-oferda.*^$all
+||olx.polska-oferdo.work^$all
 ||olx.polska-oferd.*^$all
 ||olx.polska-oferla.club^$all
 ||olx.polska-oferla.link^$all
@@ -6274,6 +6285,7 @@
 ||pl2021.online^$all
 ||placidocn.com^$all
 ||placimy24.net^$all
+||placowka-pocztowa.site^$all
 ||placowka-pocztowa.xyz^$all
 ||plast-chem.com.pl^$all
 ||platinumtradeinvestment.com^$all
@@ -6957,6 +6969,7 @@
 ||przygarnijplakat.pl^$all
 ||przyjacielskie-wybieranie.eu^$all
 ||przyjmujelekiczybierze.pl^$all
+||przypadkiroznnychrodzin.site^$all
 ||przypisanie-ludzi.eu^$all
 ||przypisek-ludzi.eu^$all
 ||przysluga-ludziom.eu^$all
@@ -7490,6 +7503,7 @@
 ||steam-wallet-gifts.com^$all
 ||steam-wallet-money.com^$all
 ||steanccmmunity.com^$all
+||stearncommumiity.com^$all
 ||steawcomnunity.com^$all
 ||stefanstrzalkowski.pl^$all
 ||stevemadenpolska.com^$all
