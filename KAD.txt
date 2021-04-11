@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 11 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.11.0
+! Last modified: Sun, 11 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.11.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -245,7 +245,6 @@
 ||cavotel.com^$all
 ||cbldc.io^$all
 ||cda-bez-limitu.pl^$all
-||cdsportadapte91.fr^$all
 ||centrummedia.com.pl^$all
 ||centrummedycyny.pl^$all
 ||centrumnaukowe.eu^$all
@@ -1136,7 +1135,6 @@
 ||pl.gvgmall.com^$all
 ||pl.lucybreeze.com^$all
 ||pl.melaleuca.com^$all
-||pl.store2021.net^$all
 ||pl.whokeys.com^$all
 ||pmanager.pl^$all
 ||pobierznet.pl^$all
@@ -1439,6 +1437,7 @@
 ||stooree.com^$all
 ||stopkomornikowi.pl^$all
 ||stop-gmo.pl^$all
+||store2021.net^$all
 ||stores.smobyttl.cc^$all
 ||storq.pl^$all
 ||stotom.pl^$all
@@ -2036,7 +2035,6 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
-!||pekao.*^$document,domain=~pekao.pl|~pekao.com.pl
 !||torrentos.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
@@ -2502,6 +2500,7 @@
 ||bitcoinera-system.co^$all
 ||bitcoinera.app^$all
 ||bitcoinera.io^$all
+||bitcoinevolutiondeutscherfahrungen.com^$all
 ||bitcoingemini.club^$all
 ||bitcoinig.com^$all
 ||bitcoinlifestyle.io^$all
@@ -2824,6 +2823,7 @@
 ||cullgame.com^$all
 ||cuorl.top^$all
 ||cuosdemakadi.gq^$all
+||cure.milon-fit.ru^$all
 ||curryhouse.com.pl^$all
 ||customernoble.com^$all
 ||cutdoor.top^$all
@@ -2833,6 +2833,7 @@
 ||cyber-punk-2077.eu^$all
 ||cyfrowepotwory.pl^$all
 ||cyfrowypolsate.com^$all
+||cyxos.kosmonadrova.ru^$all
 ||czajkowski.cba.pl^$all
 ||czarna-lista.k99k.com.pl^$all
 ||czarna-lista.k99k.eu^$all
@@ -3146,6 +3147,7 @@
 ||drunt.at^$all
 ||dsads123a.is-best.net^$all
 ||dsora.com^$all
+||dtech.host^$all
 ||dtmx.pl^$all
 ||dulawa.pl^$all
 ||dultrasolutions.duckdns.org^$all
@@ -3158,6 +3160,7 @@
 ||dworzecporwanie.*^$all
 ||dyfuzor-do-aromaterapii-pl.com^$all
 ||dyskonto.store^$all
+||dys.tyom.ru^$all
 ||dzieckoalert.*^$all
 ||dziendobrybarrdzo.site^$all
 ||dziennewiadomosci24.pl^$all
@@ -3178,6 +3181,7 @@
 ||dziiendobrypollska.xyz^$all
 ||dzisiejszewywiadypl.cyou^$all
 ||dzisiejszymaterialtv.online^$all
+||earncash.press^$all
 ||earnyourcash.net^$all
 ||easybuyfashion.takedrop.pl^$all
 ||easydownload.pl^$all
@@ -3588,7 +3592,6 @@
 ||frembud.pl^$all
 ||freshiuz.com^$all
 ||frieman.pl^$all
-||frntfx.link^$all
 ||fr-ntfx.com^$all
 ||fss.neostrada.pl^$all
 ||ftp-reklama.gpd24.pl^$all
@@ -3612,6 +3615,7 @@
 ||fxglobe.international^$all
 ||fxpb.us^$all
 ||fxtime.io^$all
+||fygoko.avesnsk.ru^$all
 ||g0oo.me^$all
 ||g0oo.net^$all
 ||g0o.cc^$all
@@ -3847,6 +3851,7 @@
 ||helploginn.moonfruit.com^$all
 ||herngell-our.web.app^$all
 ||herrola.com^$all
+||heto.krym-print.ru^$all
 ||hexistrading.com^$all
 ||heyisitmefriend.tcp4.me^$all
 ||hgssa.browla.com^$all
@@ -4111,6 +4116,7 @@
 ||inpost-payouts.site^$all
 ||inpost-piatnosc-24.xyz^$all
 ||inpost-platnosc.in.net^$all
+||inpost-pl.com^$all
 ||inpost-pl.online^$all
 ||inpost-zamowienie.pl^$all
 ||inpost.bond^$all
@@ -4129,7 +4135,6 @@
 ||inpost.orders-pls.live^$all
 ||inpost.order-pl.art^$all
 ||inpost.page^$all
-||inpost.pay-pl.site^$all
 ||inpost.pay-web.site^$all
 ||inpost.pl-buyorders.shop^$all
 ||inpost.pl-buyorders.work^$all
@@ -4145,7 +4150,6 @@
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-oferda.store^$all
 ||inpost.polska-oferdo.work^$all
-||inpost.polska-oferla.link^$all
 ||inpost.polska-oterfa.live^$all
 ||inpost.polska-oterfa.store^$all
 ||inpost.pw^$all
@@ -4255,12 +4259,14 @@
 ||jakwidacwprogramie.site^$all
 ||jamba.pl^$all
 ||jamster.pl^$all
+||jamu.kundalinisam.ru^$all
 ||janekpaczka.org^$all
 ||jannahqu.org^$all
 ||jannatkhah.ir^$all
 ||januszsobo.online^$all
 ||janzwolinski.freehost.pl^$all
 ||jasna2c.pl^$all
+||jas.upmanagement.ru^$all
 ||jbfilmyseriale.pl^$all
 ||jeansylee.pl^$all
 ||jednadecyzzja.site^$all
@@ -4394,11 +4400,13 @@
 ||kopaniebitcoin.pl^$all
 ||korespodencja-online.link^$all
 ||korespodencja-online.xyz^$all
+||korespodencja-piatnosc.xyz^$all
 ||korespodencja-platnosc.xyz^$all
 ||korespondencja.in.net^$all
 ||korespondencja.xyz^$all
 ||kosmetyczne-wow.co.pl^$all
 ||kosmetyki24.eu^$all
+||kovyky.mykubik.ru^$all
 ||kowdent.pl^$all
 ||kproject.pl^$all
 ||kraj24.eu^$all
@@ -4465,7 +4473,6 @@
 ||lack-pearl.pl^$all
 ||lander.pl^$all
 ||laptopyinfo.pl^$all
-||laptop-tamirgah.ir^$all
 ||larissalinhares.com.br^$all
 ||lasportivapolska.pl^$all
 ||latarkacreeledpl.com^$all
@@ -4556,12 +4563,10 @@
 ||login-paribas.info^$all
 ||login-planet-paribas.info^$all
 ||login.microsoftorline.com^$all
-||login.unlimited.serials.movies.tv.shows.ganjrss.ir^$all
 ||logononfb.n4t.co^$all
 ||logowanie-bnpparibas.at^$all
 ||logowanie-bnpparibas.xyz^$all
 ||logowanie-facebook.mcjust.pl^$all
-||logowanie-play-pl.selfip.net^$all
 ||logowanie-potwierdz.xyz^$all
 ||logowanie-wieku.xyz^$all
 ||logowanie.dkonto.pl^$all
@@ -4700,6 +4705,7 @@
 ||megatradestation.com^$all
 ||mega-gry.com^$all
 ||mega-wpadki.m44m.cloud^$all
+||melahu.epionaspravka.ru^$all
 ||meldujemy.gmina.pl^$all
 ||memex.com.pl^$all
 ||mendeluweb-cz.000webhostapp.com^$all
@@ -4937,8 +4943,6 @@
 ||netflix-mail.info^$all
 ||netflix-update.platnosci.tttt-security.com^$all
 ||netflix.pl.josepablonoguera.net^$all
-||netflix.pl.murataydeniz.com.tr^$all
-||netflix.pl.rsga.rw^$all
 ||netflix.pl.soincoips.com^$all
 ||netflix.pl.springday.com.tr^$all
 ||netflix.pl.sri-india.com^$all
@@ -4969,6 +4973,7 @@
 ||newthemforthink.site^$all
 ||new-message.co^$all
 ||new-online.xyz^$all
+||new-payment.space^$all
 ||nextlevelprize.com^$all
 ||nextnewaction.com^$all
 ||nfbio.com^$all
@@ -5034,6 +5039,7 @@
 ||numer-lidera.eu^$all
 ||nvisionpropl*.com^$all
 ||nvod.pl^$all
+||nytopu.dm-progress.ru^$all
 ||n-mobile.net^$all
 ||o2news.you2.pl^$all
 ||o2-online.pl^$all
@@ -5121,6 +5127,9 @@
 ||oferta987567.xyz^$all
 ||oferta999555.xyz^$all
 ||oferta-olx.eu^$all
+||oferta-payment.art^$all
+||oferta-payment.cloud^$all
+||oferta-payment.org^$all
 ||oferta-payment.shop^$all
 ||oferta-payment.us^$all
 ||oferta-pay.net^$all
@@ -5194,7 +5203,6 @@
 ||olxoferta.site^$all
 ||olxoferta.vip^$all
 ||olxoplata.pl^$all
-||olxpayment.link^$all
 ||olxpayment.pw^$all
 ||olxpaymet.xyz^$all
 ||olxpaypl.pl^$all
@@ -5217,23 +5225,14 @@
 ||olxpl.bank-payment.com^$all
 ||olxpl.co^$all
 ||olxpl.deals^$all
-||olxpl.deliveryinfo.pw^$all
-||olxpl.delivery-b.site^$all
-||olxpl.delivery-pay.fun^$all
-||olxpl.delivery-pay.pw^$all
-||olxpl.deli-very.su^$all
-||olxpl.e-tracking.net^$all
 ||olxpl.id84884043.mba^$all
 ||olxpl.id-173056.com^$all
 ||olxpl.me^$all
 ||olxpl.moneta.world^$all
-||olxpl.oferta-payed.pw^$all
 ||olxpl.online^$all
-||olxpl.onlypays.su^$all
 ||olxpl.org^$all
 ||olxpl.page^$all
 ||olxpl.payment-online.online^$all
-||olxpl.securepays.pw^$all
 ||olxpl.secure-pay.icu^$all
 ||olxpl.site^$all
 ||olxpl.zapowiedz.site^$all
@@ -5338,7 +5337,6 @@
 ||olx-pl-id.*^$all
 ||olx-pl-mobile.site^$all
 ||olx-pl-oferta.eu^$all
-||olx-pl-offerts.news^$all
 ||olx-pl-platnosci.info^$all
 ||olx-pl.cc^$all
 ||olx-pl.com-*.*^$all
@@ -5353,10 +5351,6 @@
 ||olx-pl.ml^$all
 ||olx-pl.moneta.world^$all
 ||olx-pl.net^$all
-||olx-pl.oferta-payment.art^$all
-||olx-pl.oferta-payment.cloud^$all
-||olx-pl.oferta-payment.link^$all
-||olx-pl.oferta-payment.org^$all
 ||olx-pl.oferta-payment.*^$all
 ||olx-pl.oferta-pay.*^$all
 ||olx-pl.oferto.cc^$all
@@ -5368,14 +5362,12 @@
 ||olx-pl.payment-banks.ga^$all
 ||olx-pl.payment-bank.ga^$all
 ||olx-pl.pay-id66129.site^$all
-||olx-pl.pay-id73541.site^$all
 ||olx-pl.pay-id74553.me^$all
 ||olx-pl.pay-secure.com.ru^$all
 ||olx-pl.pl^$all
 ||olx-pl.pro^$all
 ||olx-pl.pw^$all
 ||olx-pl.ru-*.*^$all
-||olx-pl.secure-code.site^$all
 ||olx-pl.su^$all
 ||olx-pl.today^$all
 ||olx-polands.*^$all
@@ -5439,7 +5431,6 @@
 ||olx.livrare-ro.info^$all
 ||olx.manager.name^$all
 ||olx.moe^$all
-||olx.new-payment.space^$all
 ||olx.new-payment.store^$all
 ||olx.oferda-pl.biz^$all
 ||olx.oferda-pl.fun^$all
@@ -5454,7 +5445,6 @@
 ||olx.order-pl.io^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all
-||olx.paysend.space^$all
 ||olx.pay-euro.eu^$all
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
@@ -5464,11 +5454,9 @@
 ||olx.pl-*.*^$document
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
-||olx.poland-ofer.services^$all
 ||olx.poland-orders.shop^$all
 ||olx.polka-oferta.club^$all
 ||olx.polka-oferta.cyou^$all
-||olx.polka-oferta.site^$all
 ||olx.polka-oferta.work^$all
 ||olx.polka-oferta.xyz^$all
 ||olx.polska-dastawka.casa^$all
@@ -5482,15 +5470,13 @@
 ||olx.polska-dostawka.xyz^$all
 ||olx.polska-oferda.*^$all
 ||olx.polska-oferdo.fit^$all
+||olx.polska-oferdo.vision^$all
 ||olx.polska-oferdo.work^$all
 ||olx.polska-oferd.*^$all
-||olx.polska-oferla.link^$all
-||olx.polska-oferla.vip^$all
 ||olx.polska-oferta.*^$all
 ||olx.polska-oterfa.cyou^$all
 ||olx.polska-oterfa.live^$all
 ||olx.polska-oterfa.store^$all
-||olx.polsko-oferta.link^$all
 ||olx.przesylki-secure.com^$all
 ||olx.przesylki.*^$all
 ||olx.przesylk.*^$all
@@ -5826,6 +5812,7 @@
 ||payples.net^$all
 ||payplticket619054.info^$all
 ||payrots.net^$all
+||paysend.space^$all
 ||pays-olx.gq^$all
 ||payulink.click^$all
 ||payu-24.pl^$all
@@ -5840,6 +5827,7 @@
 ||pay-olxdostawa.pl^$all
 ||pay-olx.cf^$all
 ||pay-olx.gq^$all
+||pay-pl.site^$all
 ||pay-u24.net^$all
 ||pbshop.pl^$all
 ||pc-sklep.com^$all
@@ -5868,6 +5856,7 @@
 ||perlowo.pl^$all
 ||perspektywa2012.za.pl^$all
 ||pewiendzienzmieniazycie.site^$all
+||pewyz.paraplandv.ru^$all
 ||pey24pey.net^$all
 ||peyblokady.net^$all
 ||peyernet.net^$all
@@ -6057,11 +6046,9 @@
 ||pl-olx.live^$all
 ||pl-olx.men^$all
 ||pl-olx.news^$all
-||pl-olx.oferta-payment.org^$all
 ||pl-olx.page^$all
 ||pl-olx.payment-bank.tk^$all
 ||pl-olx.pl^$all
-||pl-olx.safe.oferta-payment.org^$all
 ||pl-olx.site^$all
 ||pl-olx.tech^$all
 ||pl-ordered.xyz^$all
@@ -6102,10 +6089,7 @@
 ||pl.btcprofit.cyou^$all
 ||pl.cash-pays.live^$all
 ||pl.centrumoferty.com^$all
-||pl.de-livery.su^$all
 ||pl.dlawasteraz*.*^$all
-||pl.earncash.press^$all
-||pl.etrackings.net^$all
 ||pl.get-money.live^$all
 ||pl.g-pay.me^$all
 ||pl.inpost-oferta.su^$all
@@ -6119,22 +6103,14 @@
 ||pl.olxdelivery.com^$all
 ||pl.olx-deliveri.com^$all
 ||pl.olx-merchant.com^$all
-||pl.olx-mobil.site^$all
 ||pl.olx-ofert.art^$all
 ||pl.olx-ofert.life^$all
-||pl.olx-pay.oferta-payment.org^$all
-||pl.olx-safe.oferta-payment.org^$all
 ||pl.olx-ship.eu^$all
 ||pl.olx.fsb-pays.tk^$all
-||pl.olx.oferta-payment.link^$all
-||pl.olx.oferta-payment.pro^$all
-||pl.olx.oferta-pay.fun^$all
-||pl.olx.oferta.design^$all
 ||pl.paysouts.com^$all
 ||pl.pcviruscare.com^$all
 ||pl.profitmaximizer-app.com^$all
 ||pl.safe-olx.casa^$all
-||pl.suluklima.com.tr^$all
 ||pl.tradenewsinvesting.com^$all
 ||pl.tvplusnewtab.com^$all
 ||pl.*bitcoin*.tiptopko*.com^$all
@@ -6188,7 +6164,6 @@
 ||poczta.pl-safeway.live^$all
 ||poczta.ron-mil-pl.site^$all
 ||poczta.wp-pl.eu^$all
-||poczta.wp-pl.site^$all
 ||poczteks24.net^$all
 ||poczteks.net^$all
 ||pocztexpolska.*^$all
@@ -6888,6 +6863,7 @@
 ||signvomitorium.com^$all
 ||siliconpants.top^$all
 ||silstop.pl^$all
+||simopy.comfort-plate.ru^$all
 ||siodemka24h7.click^$all
 ||siodemkawysyl24h.info^$all
 ||sitegiant.info^$all
@@ -7383,6 +7359,7 @@
 ||twoj-portal.k99k.com.pl^$all
 ||twoj-portal.p33p.eu^$all
 ||twoj-sennik.pl^$all
+||tykazy.boxing-club-legenda-ufa.ru^$all
 ||typowanie-glosuj.eu^$all
 ||typuj-wyniki.eu^$all
 ||tytfgn688hceb.web.app^$all
@@ -7523,6 +7500,7 @@
 ||water-heater-pl.com^$all
 ||waust.at^$all
 ||wawa-info.pl^$all
+||wawi.birysinkahotel.ru^$all
 ||waytorich.xyz^$all
 ||wazneesprawy.online^$all
 ||waznesprawypolakkow.space^$all
@@ -7544,6 +7522,7 @@
 ||webwood.pl^$all
 ||web-cryptocurrency.com^$all
 ||web-vb3.web.app^$all
+||wecopa.avtopodbor-profinn.ru^$all
 ||weekend24.online^$all
 ||wejdzmy-masowo.eu^$all
 ||wellbeingworganizacji.pl^$all
@@ -7651,6 +7630,7 @@
 ||wp-plugin.site^$all
 ||wp-plzysk.online^$all
 ||wp-pl.online^$all
+||wp-pl.site^$all
 ||wp-politykaprywatnosci.email^$all
 ||wp-regulamin.com^$all
 ||wp.*.top^$document,domain=top
@@ -7908,6 +7888,7 @@
 ||zgwalconadziewczyna.*^$all
 ||zhaoyouxiu.com^$all
 ||zimbramail1111.000webhostapp.com^$all
+||zisyq.proftools-online.ru^$all
 ||zlatski.pl^$all
 ||zlecaj-wybory.eu^$all
 ||zlecone.xn.pl^$all
