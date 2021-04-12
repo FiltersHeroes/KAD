@@ -1,5 +1,4 @@
 !||torrentos.pl^$all
-||opiekanadpsami.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -782,6 +781,7 @@
 ||crypto-worldinvestments.com^$all
 ||crysmawatches.com^$all
 ||csgomvpseries.com^$all
+||csmatchgo.com^$all
 ||csprocup.com^$all
 ||csz1-amzzzsrvceupdayters.com^$all
 ||ctizuhvdko.web.app^$all
@@ -1273,6 +1273,7 @@
 ||e-faktyonet24.eu^$all
 ||e-faktypolska24.eu^$all
 ||e-filmy24.pl^$all
+||e-gliwice.xyz^$all
 ||e-informacje24.eu^$all
 ||e-kinomaniak.pl^$all
 ||e-mailprywatnosc.online^$all
@@ -1768,6 +1769,7 @@
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||gov-24.com^$all
+||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
 ||gov-warszawa.pl^$all
 ||grafdruk.com.pl^$all
 ||grafian.pl^$all
@@ -2102,6 +2104,10 @@
 ||inpost.order-pl.art^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
+||inpost.pl-buyordered.club^$all
+||inpost.pl-buyordered.icu^$all
+||inpost.pl-buyordered.surf^$all
+||inpost.pl-buyordered.work^$all
 ||inpost.pl-buyorders.shop^$all
 ||inpost.pl-buyorders.work^$all
 ||inpost.pl-buypost.cyou^$all
@@ -3192,6 +3198,7 @@
 ||olxpl.bank-payment.com^$all
 ||olxpl.co^$all
 ||olxpl.deals^$all
+||olxpl.delivery-b.com^$all
 ||olxpl.id84884043.mba^$all
 ||olxpl.id-173056.com^$all
 ||olxpl.me^$all
@@ -3416,7 +3423,18 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-buyordered.casa^$all
+||olx.pl-buyordered.club^$all
+||olx.pl-buyordered.cyou^$all
+||olx.pl-buyordered.icu^$all
+||olx.pl-buyordered.shop^$all
+||olx.pl-buyordered.surf^$all
+||olx.pl-buyordered.work^$all
+||olx.pl-buyordered.xyz^$all
+||olx.pl-payorder.casa^$all
 ||olx.pl-*.*^$document
+||olx.pl.merchants-pay.pw^$all
+||olx.pl.pay-mercnant.pw^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -3542,6 +3560,7 @@
 ||operator-platnosci.click^$all
 ||opertor24.net^$all
 ||opiata-lnpost.icu^$all
+||opiekanadpsami.pl^$all
 ||opieka.info.pl^$all
 ||opineo.pw^$all
 ||oplackuriera.com^$all
@@ -4340,6 +4359,7 @@
 ||poszukiwana.cyou^$all
 ||poszukiwani24.dkonto.pl^$all
 ||poszukiwani24.pl^$all
+||poszukiwanialludzi.site^$all
 ||poszukiwaniaonline.eu^$all
 ||poszukiwaniaonline.you2.pl^$all
 ||poszukiwaniaosobzaginionych.you2.pl^$all
@@ -4706,7 +4726,6 @@
 ||sasiedzkagazeta.eu^$all
 ||sasiedzkagazeta.pl^$all
 ||sasiedzkiportal.eu^$all
-
 ||sauny-finskie.com.pl^$all
 ||savinek-pl.com^$all
 ||saxtorph.net^$all
@@ -4799,7 +4818,6 @@
 ||serwis.you2.pl^$all
 ||setforconfigplease.com^$all
 ||seveninsta-lady1.com^$all
-
 ||sfeamcommunity.com^$all
 ||sgb24.at^$all
 ||sgb-24.at^$all
@@ -4968,6 +4986,7 @@
 ||srv36319.seohost.com.pl^$all
 ||srv36320.seohost.com.pl^$all
 ||srv36321.seohost.com.pl^$all
+||srv37325.seohost.com.pl^$all
 ||ssll-payu.com^$all
 ||sslpayu.com^$all
 ||sslplatnosc.online^$all
@@ -5142,7 +5161,6 @@
 ||tankhoi.vn^$all
 ||tarcza24.net^$all
 ||tarczakryzysowa.net^$all
-
 ||tarocardsfornoobs.top^$all
 ||taylorspub.com^$all
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
@@ -5411,6 +5429,7 @@
 ||verifyotofb.n4t.co^$all
 ||verify-updatebfkmhgshgs.moonfruit.com^$all
 ||verify.libertrust.com^$all
+||verino.co.pl^$all
 ||vgdny.com^$all
 ||vidalyasociados.com^$all
 ||videoplanet.pl^$all
@@ -5634,7 +5653,6 @@
 ||wvw-olx.pl^$all
 ||wwa-24.dkonto.pl^$all
 ||wwv-olx.pl^$all
-
 ||wwww-olx.pl^$all
 ||www-inpostapl.xyz^$all
 ||www-olxpldilivery.club^$all
@@ -5805,6 +5823,7 @@
 ||zalecic-wygrywanie.eu^$all
 ||zalukaj*.*^$document,domain=~zalukaj.com
 ||zamknij.you2.pl^$all
+||zamowienie761265261.pl^$all
 ||zap588693-1.plesk10.zap-webspace.com^$all
 ||zapakowane.net^$all
 ||zapiac-teraz24.tech^$all
@@ -5931,26 +5950,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||csmatchgo.com^$all
-||e-gliwice.xyz^$all
-||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
-||inpost.pl-buyordered.club^$all
-||inpost.pl-buyordered.icu^$all
-||inpost.pl-buyordered.surf^$all
-||inpost.pl-buyordered.work^$all
-||olx.pl-buyordered.casa^$all
-||olx.pl-buyordered.club^$all
-||olx.pl-buyordered.cyou^$all
-||olx.pl-buyordered.icu^$all
-||olx.pl-buyordered.shop^$all
-||olx.pl-buyordered.surf^$all
-||olx.pl-buyordered.work^$all
-||olx.pl-buyordered.xyz^$all
-||olxpl.delivery-b.com^$all
-||olx.pl.merchants-pay.pw^$all
-||olx.pl.pay-mercnant.pw^$all
-||olx.pl-payorder.casa^$all
-||poszukiwanialludzi.site^$all
-||srv37325.seohost.com.pl^$all
-||verino.co.pl^$all
-||zamowienie761265261.pl^$all
