@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 12 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.12.2
+! Last modified: Tue, 13 Apr 2021, 13:05 UTC+02
+! Version: 2021.4.13.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -236,6 +236,7 @@
 ||butysportowepolska.pl^$all
 ||butysuprassklep.com^$all
 ||butyvanspolska.com^$all
+||butyvibram.pl^$all
 ||buzzonclick.com^$all
 ||byagadget.com^$all
 ||bynajmniej4.pl^$all
@@ -1478,6 +1479,7 @@
 ||sug.com.pl^$all
 ||sukces.pl^$all
 ||superemail.pl^$all
+||supergabuty.com^$all
 ||supergapolska.pl^$all
 ||superswieto.pl^$all
 ||suprabuty.pl^$all
@@ -2575,6 +2577,7 @@
 ||biznesinpro.pl^$all
 ||biznesoweinfo.media.pl^$all
 ||biznesoweinfo.miasta.pl^$all
+||blablacarpl.paydinfo.online^$all
 ||blablacar-pay.cc^$all
 ||blablacar.media^$all
 ||blablocar-pl.site^$all
@@ -2910,6 +2913,7 @@
 ||d1ud788mmh5bcn.cloudfront.net^$all
 ||d1wp11q15apzub.cloudfront.net^$all
 ||d2obhr6r5fzecl.cloudfront.net^$all
+||d2og2sydog5nql.cloudfront.net^$all
 ||d2z5qakd2ama3r.cloudfront.net^$all
 ||d3a3j770jgc81v.cloudfront.net^$all
 ||d3djra8xuxrarl.cloudfront.net^$all
@@ -3368,8 +3372,10 @@
 ||e-porwanienatalki.*^$all
 ||e-poszukiwania.*^$all
 ||e-poszukiwanie.*^$all
+||e-poznan.xyz^$all
 ||e-przesylki.com^$all
 ||e-przysietnica.pl^$all
+||e-radom.xyz^$all
 ||e-support.xyz^$all
 ||e-wiadomosc24.eu^$all
 ||e-wiadomosci24.eu^$all
@@ -3957,6 +3963,7 @@
 ||hurreu.store^$all
 ||hypertechz.com^$all
 ||hyut.000webhostapp.com^$all
+||hzoponkarz.j.pl^$all
 ||i8i.eu^$all
 ||i24.dfirma.pl^$all
 ||iapartamentydeluxe.pl^$all
@@ -4192,6 +4199,7 @@
 ||inpost.pl-buypost.cyou^$all
 ||inpost.pl-buypost.surf^$all
 ||inpost.pl-buypost.xyz^$all
+||inpost.pl-paydeals.casa^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polka-oferta.cyou^$all
@@ -4201,8 +4209,15 @@
 ||inpost.polska-dostawa.life^$all
 ||inpost.polska-ofer1o.work^$all
 ||inpost.polska-oferda.store^$all
+||inpost.polska-oferdo.biz^$all
+||inpost.polska-oferdo.cc^$all
+||inpost.polska-oferdo.design^$all
+||inpost.polska-oferdo.name^$all
 ||inpost.polska-oferdo.site^$all
+||inpost.polska-oferdo.vision^$all
 ||inpost.polska-oferdo.work^$all
+||inpost.polska-oferdo.xyz^$all
+||inpost.polska-oferdo.zone^$all
 ||inpost.polska-oterfa.live^$all
 ||inpost.polska-oterfa.store^$all
 ||inpost.pw^$all
@@ -5477,6 +5492,7 @@
 ||olx.dellivery.*^$all
 ||olx.doreczanie.pl^$all
 ||olx.doreczenle.pl^$all
+||olx.dostawa-pl.fun^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
@@ -5506,6 +5522,7 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-buydeal.casa^$all
 ||olx.pl-buyordered.casa^$all
 ||olx.pl-buyordered.club^$all
 ||olx.pl-buyordered.cyou^$all
@@ -5514,8 +5531,12 @@
 ||olx.pl-buyordered.surf^$all
 ||olx.pl-buyordered.work^$all
 ||olx.pl-buyordered.xyz^$all
+||olx.pl-paydeals.casa^$all
+||olx.pl-paydeals.cyou^$all
+||olx.pl-paydeals.icu^$all
 ||olx.pl-payorder.casa^$all
 ||olx.pl-*.*^$document
+||olx.pl.dostawa.oferta-payment.bid^$all
 ||olx.pl.merchants-pay.pw^$all
 ||olx.pl.pay-mercnant.pw^$all
 ||olx.pl.*.*^$document
@@ -5542,10 +5563,15 @@
 ||olx.polska-ofer1o.work^$all
 ||olx.polska-ofer1o.xyz^$all
 ||olx.polska-oferda.*^$all
+||olx.polska-oferdo.biz^$all
+||olx.polska-oferdo.cc^$all
+||olx.polska-oferdo.design^$all
 ||olx.polska-oferdo.fit^$all
+||olx.polska-oferdo.name^$all
 ||olx.polska-oferdo.site^$all
 ||olx.polska-oferdo.vision^$all
 ||olx.polska-oferdo.work^$all
+||olx.polska-oferdo.xyz^$all
 ||olx.polska-oferdo.zone^$all
 ||olx.polska-oferd.*^$all
 ||olx.polska-oferta.*^$all
@@ -5737,6 +5763,7 @@
 ||paczka-doplata.net^$all
 ||paczka-gls.com^$all
 ||paczka-inpost.com^$all
+||paczka-naleznosc.link^$all
 ||paczka-naleznosc.live^$all
 ||paczkdups.com^$all
 ||paczkedhl.com^$all
@@ -5875,6 +5902,7 @@
 ||pay45-olx.pl^$all
 ||pay46-olx.pl^$all
 ||pay47-olx.pl^$all
+||pay48-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -6007,6 +6035,7 @@
 ||piotrprzewozy.pl^$all
 ||pipey.net^$all
 ||pipizhanzhang.com^$all
+||pismo-online.link^$all
 ||pismo-online.xyz^$all
 ||pismo-platnosc.site^$all
 ||pitonswerder.work^$all
@@ -7004,6 +7033,7 @@
 ||smsiaki.eu^$all
 ||smsiak.pl^$all
 ||smsinf.org^$all
+||smsxx.in^$all
 ||smsy24.pl^$all
 ||sms-info.app^$all
 ||sms-info.net^$all
@@ -7861,6 +7891,7 @@
 ||xawqerklewq.myartsonline.com^$all
 ||xiaoml.ru^$all
 ||xn*gwatpolska24*.*^$all
+||xn--adres-wysyki-mcc.pl^$all
 ||xn--c3ca7brwp8cb5a8bdr7kqe.com^$all
 ||xn--efaktygwat-i0b.pl^$all
 ||xn--eonetgwat-xub.pl^$all
@@ -7947,6 +7978,7 @@
 ||zaplac-za-paczke.space^$all
 ||zaplata*.tk^$all
 ||zaplaty.net^$all
+||zapllac-teraz-inpost.xyz^$all
 ||zapunktuj-znajomego.eu^$all
 ||zarabativaisazartom.net^$all
 ||zarabiajwsieci.5v.pl^$all
