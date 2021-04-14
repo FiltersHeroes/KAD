@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 14 Apr 2021, 13:05 UTC+02
-! Version: 2021.4.14.0
+! Last modified: Wed, 14 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.14.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2149,10 +2149,12 @@
 ||123movies.my.id^$all
 ||123plays.com^$all
 ||137-74-148-87.cprapid.com^$all
+||171.allegrolokolnie.cc^$all
 ||198-58-119-23.cprapid.com^$all
 ||224niemarnujswojegoczassu.cyou^$all
 ||411medias.com^$all
 ||464.allegrolokolnie.com^$all
+||474.inpost.cash^$all
 ||777marketer.cyou^$all
 ||778t799e9e77e7ewwqqww.sport357.com^$all
 ||4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com^$all
@@ -2337,6 +2339,7 @@
 ||allonline.pl^$all
 ||allphones.pl^$all
 ||allplayer.pl^$all
+||allsms.shortest.name^$all
 ||alltube.com.pl^$all,domain=~alltube.tv|~alltube.pl
 ||all-player.pl^$all
 ||almuradtiles.zohosites.com^$all
@@ -2517,6 +2520,7 @@
 ||bezironigazetta.site^$all
 ||bezpieczenstwo.wp-pl.eu^$all
 ||bezpieczna-dostawa.biz^$all
+||bezpieczna-dostawa.com.pl^$all
 ||bezpieczna-dostawa.org^$all
 ||bezpieczna-okazja.pl^$all
 ||bezpieczne-zakupy.name^$all
@@ -2583,6 +2587,7 @@
 ||bitsends.space^$all
 ||bit-capitals.com^$all
 ||biurko.cyou^$all
+||biuro-detektywa.waw.pl^$all
 ||biuro-detektywi.eu^$all
 ||biuro-kandydatow.eu^$all
 ||biuro-wyborow.eu^$all
@@ -2749,6 +2754,7 @@
 ||centrum24.santanber.pl^$all
 ||centrumofert24.com^$all
 ||centrumplay.pl^$all
+||centrum-osob.waw.pl^$all
 ||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
 ||ceresiontest.c0.pl^$all
 ||cevik01supermarkt.nl^$all
@@ -2910,6 +2916,7 @@
 ||czasnakino.pl^$all
 ||czasnazmianywzyciu.online^$all
 ||czaspolaka.eu^$all
+||czekam-nawas.waw.pl^$all
 ||czemarserwis.home.pl^$all
 ||czlonkowska-decyzji.eu^$all
 ||czlonkow-wybieraj.eu^$all
@@ -3040,6 +3047,7 @@
 ||deqqvg74uu6kk.cloudfront.net^$all
 ||despas.net^$all
 ||destgrena.at^$all
+||detektywi-polska.waw.pl^$all
 ||detka.com.pl^$all
 ||detoxic.net^$all
 ||developer.team1global.com.au^$all
@@ -3339,6 +3347,7 @@
 ||evekurier.org^$all
 ||everyday-news.you2.pl^$all
 ||every-onebritish.club^$all
+||ewiadomosci2021.waw.pl^$all
 ||ewiadomosci.eu^$all
 ||ewiadomosc.online^$all
 ||ewills.access.ly^$all
@@ -3954,6 +3963,7 @@
 ||homelake.pl^$all
 ||homepaiement-pl-*.*.*^$all,domain=at|com
 ||homepay-pl-*.*.*^$all,domain=at|com
+||homepl.waw.pl^$all
 ||homeserver.com.pl^$all
 ||hondamarket.pl^$all
 ||honorowy-konkurs.eu^$all
@@ -4221,6 +4231,7 @@
 ||inpost.live^$all
 ||inpost.ltd^$all
 ||inpost.name^$all
+||inpost.new-pl-oferta.xyz^$all
 ||inpost.oferda-pl.space^$all
 ||inpost.oferta-polka.xyz^$all
 ||inpost.orders-pls.live^$all
@@ -4237,6 +4248,10 @@
 ||inpost.pl-buypost.surf^$all
 ||inpost.pl-buypost.xyz^$all
 ||inpost.pl-paydeals.casa^$all
+||inpost.pl-paydelivery.casa^$all
+||inpost.pl-paydelivery.cyou^$all
+||inpost.pl-paydelivery.work^$all
+||inpost.pl-paydelivery.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polka-oferta.cyou^$all
@@ -4714,12 +4729,14 @@
 ||loudmatch.com^$all
 ||louyanx.pl^$all
 ||lovemydress.pl^$all
+||lowcy-porywaczy.waw.pl^$all
 ||lowiskowoliczno.pl^$all
 ||lowpay.net^$all
 ||lp24.eu^$all
 ||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||lubicplacki.is-best.net^$all
 ||lubiego.is-best.net^$all
+||lubie-pomagac.waw.pl^$all
 ||lubiszto.is-best.net^$all
 ||luczko.pl^$all
 ||ludziepolaczenizesoba.cyou^$all
@@ -4832,6 +4849,7 @@
 ||memex.com.pl^$all
 ||mendeluweb-cz.000webhostapp.com^$all
 ||mephisto.nd.e-wro.pl^$all
+||merchant.loyal-pay.com^$all
 ||merch-pays.ru^$all
 ||mercuryo.co.com^$all
 ||mergedocsnow.com^$all
@@ -5223,6 +5241,7 @@
 ||odkazinpost.net^$all
 ||odlbieraj-paczke.in.net^$all
 ||odlbieram.in.net^$all
+||odnajdziemy.waw.pl^$all
 ||odnasdlawaspolska.cyou^$all
 ||odnasdokladniedlawas.website^$all
 ||odniesieniedozycia.online^$all
@@ -5296,9 +5315,12 @@
 ||oglaszam929.pl^$all
 ||oglaszamy-yorki.dkonto.pl^$all
 ||ogloszenia24.dfirma.pl^$all
+||ogloszenia2021.waw.pl^$all
 ||ogloszeniateraz97.club^$all
 ||ogloszenia-24.cba.pl^$all
 ||ogloszenia-olx.you2.pl^$all
+||ogloszenie01.waw.pl^$all
+||ogloszenie02.waw.pl^$all
 ||ogloszenie24.in.net^$all
 ||ogloszenie156712.xyz^$all
 ||ogloszenie348293.space^$all
@@ -5628,6 +5650,7 @@
 ||olx.pl.merchants-pay.pw^$all
 ||olx.pl.pay-mercnant.pw^$all
 ||olx.pl.safety.oferta-payment.bid^$all
+||olx.pl.transfers-id.space^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -5997,6 +6020,7 @@
 ||pay47-olx.pl^$all
 ||pay48-olx.pl^$all
 ||pay49-olx.pl^$all
+||pay50-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -6235,6 +6259,7 @@
 ||pl-getpayment.xyz^$all
 ||pl-id737962.info^$all
 ||pl-inpost.com^$all
+||pl-inpost.online^$all
 ||pl-konto.mobi^$all
 ||pl-makedeal.casa^$all
 ||pl-makedeal.club^$all
@@ -6519,13 +6544,18 @@
 ||pomagamy24.dkonto.pl^$all
 ||pomagamy-fakty24.pl^$all
 ||pomagamy-onet.eu^$all
+||pomagamy-polska.waw.pl^$all
 ||pomagamy-razem.club^$all
 ||pomagamy.xip.pl^$all
 ||pomagam-dzisiaj.eu^$all
 ||pomagam-joannie.com.pl^$all
 ||pomaganie-sieciowe.eu^$all
 ||pomoc24.site^$all
+||pomoc24.waw.pl^$all
 ||pomoc48.you2.pl^$all
+||pomoc212.waw.pl^$all
+||pomoc3555.waw.pl^$all
+||pomoc3773.waw.pl^$all
 ||pomocdlafranka.pl^$all
 ||pomocdlajanka.online^$all
 ||pomocna-potyczka.eu^$all
@@ -6556,6 +6586,10 @@
 ||porl.weebly.com^$all
 ||pornmania.pl^$all
 ||portalmiejski.eu^$all
+||portalowo.gmina.pl^$all
+||portalowo.sos.pl^$all
+||portalowo.waw.pl^$all
+||portalowo.zagan.pl^$all
 ||portalsasiedzki.eu^$all
 ||portalwiadomosci.eu^$all
 ||portalwiadomosci.pl^$all
@@ -6581,7 +6615,9 @@
 ||post-send.life^$all
 ||post-track.al-awa2el.com^$all
 ||post-track.poczta-polska.al-awa2el.com^$all
+||poszukiwacze.waw.pl^$all
 ||poszukiwana.cyou^$all
+||poszukiwana.waw.pl^$all
 ||poszukiwani24.dkonto.pl^$all
 ||poszukiwani24.pl^$all
 ||poszukiwanialludzi.site^$all
@@ -6589,6 +6625,8 @@
 ||poszukiwaniaonline.you2.pl^$all
 ||poszukiwaniaosobzaginionych.you2.pl^$all
 ||poszukiwania*.com.pl^$all
+||poszukiwania-osob.waw.pl^$all
+||poszukiwania.waw.pl^$all
 ||poszukiwanipolska24.eu^$all
 ||poszukuiwania24.dkonto.pl^$all
 ||potencjalnaszannsa.site^$all
@@ -7379,6 +7417,7 @@
 ||szpitalepolska24.dkonto.pl^$all
 ||szukajmysie.eu^$all
 ||szukammysuckesu.online^$all
+||szukamypolska.waw.pl^$all
 ||szybcyiwscielki7.wordpress.com^$all
 ||szybka7demka24h7.click^$all
 ||szybka-dostawa.pl^$all
@@ -7752,6 +7791,8 @@
 ||waznesprawy.online^$all
 ||waznesprawy.site^$all
 ||wazne-informacje.pl^$all
+||wazne-informacje.waw.pl^$all
+||wazne-info.waw.pl^$all
 ||wbok.pl^$all
 ||wczasywegry.pl^$all
 ||wczorajszagazeta.online^$all
@@ -8010,6 +8051,7 @@
 ||w-paczkomacie24.in.net^$all
 ||w-paczkomaciie.in.net^$all
 ||w-sieci-piszczy.o99o.com.pl^$all
+||w-szpitalu.gmina.pl^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xawqerklewq.myartsonline.com^$all
 ||xiaoml.ru^$all
@@ -8151,6 +8193,7 @@
 ||zmiltraf.website^$all
 ||znaczysiezenatak.space^$all
 ||znajdziemy.icu^$all
+||znajdziemy.waw.pl^$all
 ||znajdzwspolnyjezyk.site^$all
 ||znajdz-paczke-24.xyz^$all
 ||znakkommiterezultaty.space^$all
