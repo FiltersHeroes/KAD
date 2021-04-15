@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 15 Apr 2021, 21:07 UTC+02
-! Version: 2021.4.15.2
+! Last modified: Fri, 16 Apr 2021, 00:15 UTC+02
+! Version: 2021.4.16.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -167,7 +167,6 @@
 ||bestofelektro.pl^$all
 ||bestphoneapps.mobi^$all
 ||bestpromocenter.com^$all
-||bestsale2021.net^$all
 ||bezpieczne-nieruchomosci.pl^$all
 ||bezpytan.pl^$all
 ||be-wild.pl^$all
@@ -199,7 +198,6 @@
 ||bootstraplugin.com^$all
 ||borowkalubuskie.pl^$all
 ||boryskowalski.pl^$all
-||boteco.pl^$all
 ||botifiles.com^$all
 ||boutiqwie.com^$all
 ||bpgzawady.pl^$all
@@ -244,7 +242,6 @@
 ||caffeepolit.pl^$all
 ||cairn-westie.com.pl^$all
 ||calcionostra.pl^$all
-||caldai.com^$all
 ||calistenix.pl^$all
 ||calzini.org^$all
 ||camiliana.pl^$all
@@ -352,7 +349,6 @@
 ||diapress.pl^$all
 ||dietasouthbeach.com.pl^$all
 ||dietstars.pro^$all
-||differept.com^$all
 ||discount2021.ru^$all
 ||dkgraf.pl^$all
 ||dlagier.com^$all
@@ -601,7 +597,6 @@
 ||gratyfikantgt.info^$all
 ||greenbarleyplus.pl^$all
 ||greenfit24.pl^$all
-||grill200.com^$all
 ||grnpower.io^$all
 ||grosfillex.com.pl^$all
 ||gryfkietrz.pl^$all
@@ -616,7 +611,6 @@
 ||havaianas-cariocas.de^$all
 ||havemeforfree.com^$all
 ||hawanczykaura.com.pl^$all
-||hazel-projektowanie.com.pl^$all
 ||hdmovies.pl^$all
 ||headjordan.com^$all
 ||healthy-news.biz^$all
@@ -677,7 +671,6 @@
 ||inwestujwrozwoj.pl^$all
 ||iperfumeriatestery.pl^$all
 ||ipzd.pl^$all
-||irelandl.com^$all
 ||isabellstudio.com.pl^$all
 ||itcity.pl^$all
 ||itpesthetique.pl^$all
@@ -691,7 +684,6 @@
 ||jacekfuchs.pl^$all
 ||jacketoutlet.pl^$all
 ||jacketspolska.cn^$all
-||jackwolfskinpolska.com^$all
 ||jadwigawrzesinska.pl^$all
 ||jagof.com.pl^$all
 ||jakpodrywacnatinderze.pl^$all
@@ -782,7 +774,6 @@
 ||kredytybezbik.eu^$all
 ||kredytynasms.pl^$all
 ||kremidzem.pl^$all
-||kristen.store^$all
 ||kryzyspolska.pl^$all
 ||krzycztrybson.pl^$all
 ||ksiazkatunele.pl^$all
@@ -1243,7 +1234,6 @@
 ||ptmedia.com.pl^$all
 ||pubtechpoland.com^$all
 ||pumaprzeceny.pl^$all
-||pumarsxpl.com^$all
 ||pumatanio.com^$all
 ||puna.pl^$all
 ||purething.pl^$all
@@ -1310,7 +1300,6 @@
 ||roomdeco.pl^$all
 ||rosalieeve.pl^$all
 ||rosa-wypoczynek.pl^$all
-||roseiiy.com^$all
 ||rossbergpl.com^$all
 ||roswell47.pl^$all
 ||roulettenumber.com^$all
@@ -1363,7 +1352,6 @@
 ||shidokan-lodz.pl^$all
 ||shihtzumaniak.pl^$all
 ||shiporama.com^$all
-||shippuden.com.pl^$all
 ||shoestyle.pl^$all
 ||shoesvclub.com^$all
 ||shopine4.com^$all
@@ -1577,7 +1565,6 @@
 ||trusttastic.com^$all
 ||trybikowo.pl^$all
 ||trychologos.pl^$all
-||trzymajpoziom.pl^$all
 ||tuchos.pl^$all
 ||turboostrowiec.pl^$all
 ||turystyczne-suwalki.pl^$all
@@ -1604,7 +1591,6 @@
 ||ukskrokus.pl^$all
 ||ukssvida.pl^$all
 ||ultracolors.pl^$all
-||ultraonlinepl.com^$all
 ||ultratrck.com^$all
 ||umelong.pl^$all
 ||unhallowed.pl^$all
@@ -1761,9 +1747,7 @@
 ||zielony-bazarek.pl^$all
 ||ziololecznictwo.pl^$all
 ||zkotami.pl^$all
-||zlatski.pl^$all
 ||zmall.pl^$all
-||zmiananalepsze.pl^$all
 ||znajdzprzetargi.pl^$all
 ||znajdz-numer.pl^$all
 ||zobacz24.pl^$all
@@ -1779,7 +1763,6 @@
 ||zsporchowo.pl^$all
 ||zukiewicz.com^$all
 ||zurtchojnice.pl^$all
-||zwierzoszop.com^$all
 ||z-promo.com^$all
 !
 ! Przekierowują do innych stron z przekrętami
@@ -2074,13 +2057,15 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
+!/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
+!/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
-/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
+/^https?:\/\/([\w]{1,4}\.)?inwestpoland\d+\.site/$all
 /^https?:\/\/([\w]{1,4}\.)?(probablerootport)-?[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -2089,8 +2074,9 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{4,30}\d{1,3}[a-z]{4,30}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{4,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
@@ -2217,6 +2203,7 @@
 ||agmar-zdg.pl^$all
 ||agness.com.pl^$all
 ||agricoxq.com^$all
+||agris.com.pl^$all
 ||agroniezapominajka.com.pl^$all
 ||aiegro-lokainle.xyz^$all
 ||aierudkaqwertyuiopski.xyz^$all
@@ -2622,6 +2609,7 @@
 ||bnpparibas-poland.co^$all
 ||bnpparibas-secure-biznes.at^$all
 ||bn-allorbank.com^$all
+||bobigny24.com^$all
 ||bohemian-rhapsody-2018-online-napisy-pl-cda.over-blog.com^$all
 ||bok-poczta.pl^$all
 ||bonares.pl^$all
@@ -2664,6 +2652,7 @@
 ||brzezinska.com.pl^$all
 ||bsetuserexperience.wixsite.com^$all
 ||bslcorporationltd.co^$all
+||bsmadwokaci.pl^$all
 ||bsonus.xyz^$all
 ||btcbillionaire-app.com^$all
 ||btcduke.com^$all
@@ -2683,6 +2672,7 @@
 ||businnewsnow.site^$all
 ||businnewsnow.space^$all
 ||businnews.space^$all
+||butyaldopolska.com^$all
 ||butyasicsoutlet.com^$all
 ||butybrooks.pl^$all
 ||butycamper.pl^$all
@@ -3001,6 +2991,7 @@
 ||dating-heart*.com^$all
 ||davekurier.com^$all
 ||davekurier.org^$all
+||davepracownia.pl^$all
 ||davidcandy.website.pl^$all
 ||daxioma.com^$all
 ||daxkapital.com^$all
@@ -3982,6 +3973,7 @@
 ||hitprodukt.pl^$all
 ||hlestersmith.com^$all
 ||hodowlafanaberia.pl^$all
+||hokasklep.com^$all
 ||holylamaoffers.com^$all
 ||homearena.pl^$all
 ||homelake.pl^$all
@@ -4368,6 +4360,7 @@
 ||irbf.com^$all
 ||irelandl.com^$all
 ||irismal.com^$all
+||irotradex.com^$all
 ||irpost.net^$all
 ||islandmob.com^$all
 ||issl-cert.pl^$all
@@ -4638,6 +4631,8 @@
 ||lander.pl^$all
 ||laptopyinfo.pl^$all
 ||larissalinhares.com.br^$all
+||larson.store^$all
+||laserpoz.com.pl^$all
 ||lasportivapolska.pl^$all
 ||latarkacreeledpl.com^$all
 ||latarkapowerstyle-pl.com^$all
@@ -5191,6 +5186,7 @@
 ||niezmarnujzycia.pl^$all
 ||niezwykle.online^$all
 ||nildenaksoy.com^$all
+||nimiko.pl^$all
 ||ninjavpn.xyz^$all
 ||nirotrade.com^$all
 ||njb-gmbh.com^$all
@@ -5343,6 +5339,7 @@
 ||officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com^$all
 ||officexwednbbagmemzmlpepjxspud.nn.r.appspot.com^$all
 ||offside2.000webhostapp.com^$all
+||oficjalny-sklep.com^$all
 ||ogarniaj-ludzi.eu^$all
 ||ogarniamy-rzeczy.eu^$all
 ||ogarniamy-sprawe.eu^$all
@@ -5882,6 +5879,7 @@
 ||organicmediasolution.com^$all
 ||organizacja-spoleczna.eu^$all
 ||organizuj-konkursy.eu^$all
+||ori-sfera.pl^$all
 ||orkisz24.pl^$all
 ||orlinwestpl.pw^$all
 ||orlnpacifica.pw^$all
@@ -6743,6 +6741,7 @@
 ||pramodkumarsingh.000webhostapp.com^$all
 ||pranksduck.xyz^$all
 ||prano-pl.com^$all
+||prawaczlowieka.com.pl^$all
 ||prawdaboli.site^$all
 ||prawdziwebiznessypolska.online^$all
 ||prawojazdy-poznan.com.pl^$all
@@ -7126,6 +7125,7 @@
 ||server401169.nazwa.pl^$all
 ||server410209.nazwa.pl^$all
 ||server421446.nazwa.pl^$all
+||server454171.nazwa.pl^$all
 ||server517854.nazwa.pl^$all
 ||server522523.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
@@ -7139,6 +7139,7 @@
 ||server805487.nazwa.pl^$all
 ||server838343.nazwa.pl^$all
 ||server907938.nazwa.pl^$all
+||server915845.nazwa.pl^$all
 ||server937428.nazwa.pl^$all
 ||server945465.nazwa.pl^$all
 ||server946404.nazwa.pl^$all
@@ -7204,7 +7205,10 @@
 ||skippyfile.com^$all
 ||skladmagiczny.pl^$all
 ||sklep300.com^$all
+||sklep500.com^$all
 ||sklep843289.shoparena.pl^$all
+||sklepasicstanie.com^$all
+||sklepfilapolska.com^$all
 ||sklepplay.net^$all
 ||sklepsalomon.com^$all
 ||skleptaniebuty.pl^$all
@@ -7355,6 +7359,7 @@
 ||stanowisko-duze.eu^$all
 ||starajsieotozebybylo.site^$all
 ||starmach.com.pl^$all
+||staroil.pl^$all
 ||startech-rj.com.br^$all
 ||starti.pl^$all
 ||startrainst.com^$all
@@ -7478,6 +7483,7 @@
 ||szczesliwca-wybierz.eu^$all
 ||szczesliwy-traf.eu^$all
 ||szereg-ludzi.eu^$all
+||szkjpackaging.com^$all
 ||szklarnia-sklep.com^$all
 ||szklarnie300.com^$all
 ||szklarnie-ogrodowe.com^$all
@@ -7568,6 +7574,7 @@
 ||the-news-spy.info^$all
 ||thinhvuongmedia.com^$all
 ||think1.com^$all
+||timelapsedulich.com^$all
 ||timepizza.fun^$all
 ||times49-uk.xyz^$all
 ||times50-uk.xyz^$all
@@ -8177,6 +8184,7 @@
 ||yrehrher.001www.com^$all
 ||yuan-online.com^$all
 ||yuppipuppy.com^$all
+||yxceermovfotgsh.su^$all
 ||z0o.cc^$all
 ||za10groszy.pl^$all
 ||zabawkowo.fun^$all
