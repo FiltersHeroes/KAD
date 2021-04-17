@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 16 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.16.3
+! Last modified: Sat, 17 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.17.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2077,6 +2077,7 @@
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{4,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
@@ -2183,6 +2184,7 @@
 ||activation-netflix.com^$all
 ||activesports.com.pl^$all
 ||actualizarelect.890m.com^$all
+||adalo.pl^$all
 ||adament.c0.pl^$all
 ||adamjarekelk.freehost.pl^$all
 ||adampaczka.com^$all
@@ -2812,6 +2814,7 @@
 ||city-news.dkonto.pl^$all
 ||clamart24.com^$all
 ||class.xstarmovie21.com^$all
+||cleanchelmno.pl^$all
 ||clever-trade.com^$all
 ||closetalk.ca^$all
 ||cloud-ideabank.at^$all
@@ -3104,6 +3107,7 @@
 ||dlhpjqv3sbm68.cloudfront.net^$all
 ||dliugahistoriapolakkow.site^$all
 ||dlsplate.com^$all
+||dlugierozmowyobiznesach.cyou^$all
 ||dlugosiieootymmowi.space^$all
 ||dluzniku.com^$all
 ||dm5s33kpu5h5p.cloudfront.net^$all
@@ -3213,6 +3217,7 @@
 ||dostaw-safety.com^$all
 ||dostwpack.com^$all
 ||doswedh.com^$all
+||doswiadczbiznzesu24.site^$all
 ||dotpay1.pl^$all
 ||dotpay.e-dpd.pl^$all
 ||downloadfiles.pl^$all
@@ -4078,6 +4083,7 @@
 ||imnpost.net^$all
 ||imonellipizzeria.pl^$all
 ||importdopolski.pl^$all
+||im-sb.com^$all
 ||inaz-sklep.com^$all
 ||inaz-sport.com^$all
 ||inclusivetrading.biz^$all
@@ -4284,6 +4290,7 @@
 ||inpost.pl-paydelivery.cyou^$all
 ||inpost.pl-paydelivery.work^$all
 ||inpost.pl-paydelivery.xyz^$all
+||inpost.pl-sellorders.casa^$all
 ||inpost.pl-sellorder.casa^$all
 ||inpost.pl-sellorder.club^$all
 ||inpost.pl-sellorder.cyou^$all
@@ -4601,6 +4608,7 @@
 ||ksiazka-telefoniczna-online.pl^$all
 ||ktobyotympommyslal.cyou^$all
 ||ktobysiespodziewal.site^$all
+||ktobysietegospoodziewall.space^$all
 ||ktobyssiespodzieawl.website^$all
 ||ktopodgladamnienafacebooku.wordpress.com^$all
 ||ktoryznichzarobil.cyou^$all
@@ -4802,6 +4810,7 @@
 ||lutz-blades.pl^$all
 ||luxeeforex.com^$all
 ||lvgrowmarkets.com^$all
+||lytkarino.com^$all
 ||mabanque-bnpparibas-ref-31-fr.web.app^$all
 ||mabanque-bnpparibas-ref-34-fr.web.app^$all
 ||maceju.com^$all
@@ -4938,6 +4947,7 @@
 ||ministerstwofinans.wixsite.com^$all
 ||ministerstwo-finan5.wixsite.com^$all
 ||ministerstwo-finan.wixsite.com^$all
+||miraclle.site^$all
 ||miroslawklos.pl^$all
 ||miserableoverall.com^$all
 ||mitoteam.com^$all
@@ -5031,6 +5041,7 @@
 ||musiszotmwiedziecc24.cyou^$all
 ||mutlukadinlarakademisi.com^$all
 ||muzeum.cyou^$all
+||mvpaoe.com^$all
 ||mycoinology.com^$all
 ||mydnssbox.gleeze.com^$all
 ||mydreamholidaysandresorts.com^$all
@@ -5234,6 +5245,7 @@
 ||notowani.pl^$all
 ||not-zamosc.pl^$all
 ||novapolskasensnacja.website^$all
+||novveullubionerzeczy.cyou^$all
 ||novvvaggazetapolska.cyou^$all
 ||nowadecyzjanowezycie.website^$all
 ||nowaformullabizznesu24.space^$all
@@ -5242,6 +5254,7 @@
 ||nowapolskaa.xyz^$all
 ||noweciezarowe.pl^$all
 ||noweinformacje.icu^$all
+||nowemysliobizznseise24.website^$all
 ||nowezyciezarogiem.site^$all
 ||nowinki.blog-online.eu^$all
 ||nowoczesnemuzeum.pl^$all
@@ -5723,7 +5736,9 @@
 ||olx.pl-payorder.casa^$all
 ||olx.pl-reklamy.space^$all
 ||olx.pl-sellorders.casa^$all
+||olx.pl-sellorders.cyou^$all
 ||olx.pl-sellorders.icu^$all
+||olx.pl-sellorders.shop^$all
 ||olx.pl-sellorders.xyz^$all
 ||olx.pl-sellorder.casa^$all
 ||olx.pl-sellorder.club^$all
@@ -6542,6 +6557,7 @@
 ||pokazimwszysstkim.space^$all
 ||pokaz-lojalnosc.eu^$all
 ||pokicotodzialaiok.cyou^$all
+||pokrakowice.digital^$all
 ||polaczenie.xn.pl^$all
 ||polakczytellnik.cyou^$all
 ||poland-dostawa.com^$all
@@ -6762,6 +6778,7 @@
 ||poypin24.net^$all
 ||poyspey.net^$all
 ||poznaj3miasto.pl^$all
+||pozostalospoorroczasu.cyou^$all
 ||pozwalajmy-glosowac.eu^$all
 ||pozyczkatotu.pl^$all
 ||pozyczkikredyty.pl^$all
@@ -7277,7 +7294,9 @@
 ||slimerix.pl^$all
 ||slonce-deszcz.net^$all
 ||sluchawka-prysznicowa-wellness.com^$all
+||slyszlelisciejuzotymgdzies.cyou^$all
 ||smaki-polski.pl^$all
+||smakovanova.online^$all
 ||smartarenatrek.com^$all
 ||smartcare.xja.pl^$all
 ||smartcitylab.com.pl^$all
@@ -7440,6 +7459,7 @@
 ||stolica-info.pl^$all
 ||stomatologia-w.lublin.lu^$all
 ||stopcodex.pl^$all
+||stoprocentpollskatv.cyou^$all
 ||stopspam.pl^$all
 ||strangefullthiggngs.com^$all
 ||streamcomunniti.ru^$all
@@ -7596,6 +7616,7 @@
 ||termometr-na-podczerwien-pl.com^$all
 ||terntraveller.com^$all
 ||terpay.net^$all
+||testcompetence.pl^$all
 ||testeryperfum.fcg.org.pl^$all
 ||test.maciejdudek.com.pl^$all
 ||tewiadomosci.online^$all
@@ -7627,9 +7648,11 @@
 ||tinyfileshost.com^$all
 ||tiomarkets.com^$all
 ||tlanddissipate.at^$all
+||tobylodzisranowtvv.cyou^$all
 ||tobylowczoraj.xyz^$all
 ||today-topnews.com^$all
 ||todolize.com^$all
+||todosiebiiepassuje.club^$all
 ||toe-corrector-pl.com^$all
 ||tojestnewsprawdziwy.xyz^$all
 ||tojestto.is-best.net^$all
@@ -7637,6 +7660,7 @@
 ||tojuzsiezaczello.site^$all
 ||tokeny.pl^$all
 ||tolerujmy-ludzi.eu^$all
+||tomatocoswssobie.cyou^$all
 ||tomisiepoddobalotv.site^$all
 ||tomorrowcrypto.vip^$all
 ||tomypolacy.online^$all
@@ -7816,6 +7840,7 @@
 ||urzadkarny.net^$all
 ||urzadpl.net^$all
 ||urzadskb.net^$all
+||urzadzamy.click^$all
 ||urzad-gov.net^$all
 ||urzedy9.net^$all
 ||usdsy.com^$all
@@ -8027,10 +8052,12 @@
 ||wolaklosza.is-best.net^$all
 ||wolski.med.pl^$all
 ||wolyncalyfilm.wordpress.com^$all
+||wordpresszapocetnike.com^$all
 ||worldmarkets.com^$all
 ||worldmovie21.site^$all
 ||worldprize.pl^$all
 ||worlds-news.org^$all
+||world-flags.cn^$all
 ||worthlessness.xyz^$all
 ||wp24.work^$all
 ||wpadkowo.pl^$all
