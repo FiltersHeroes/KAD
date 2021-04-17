@@ -1,7 +1,7 @@
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
 *$document,domain=104.248.94.172
 *$doc,domain=104.248.94.172
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{4,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup
