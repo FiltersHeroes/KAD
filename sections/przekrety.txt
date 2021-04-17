@@ -3,6 +3,7 @@
 ||adalo.pl^$all
 ||mvpaoe.com^$all
 ||cleanchelmno.pl^$all
+||testcompetence.pl^$all
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup,domain=life|live
 !||torrentos.pl^$all
