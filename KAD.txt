@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 17 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.17.0
+! Last modified: Sat, 17 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.17.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2429,6 +2429,7 @@
 ||art-invest.com.pl^$all
 ||asdream.pl^$all
 ||aseanlegaltech.com^$all
+||asimov.academy^$all
 ||askzkoflds.web.app^$all
 ||aspenholding.com^$all
 ||aspenholding.co^$all
@@ -4290,12 +4291,15 @@
 ||inpost.pl-paydelivery.cyou^$all
 ||inpost.pl-paydelivery.work^$all
 ||inpost.pl-paydelivery.xyz^$all
+||inpost.pl-savesell.cyou^$all
 ||inpost.pl-sellorders.casa^$all
 ||inpost.pl-sellorder.casa^$all
 ||inpost.pl-sellorder.club^$all
 ||inpost.pl-sellorder.cyou^$all
 ||inpost.pl-sellorder.shop^$all
 ||inpost.pl-sellorder.xyz^$all
+||inpost.pl-soldorders.work^$all
+||inpost.pl-soldorders.xyz^$all
 ||inpost.pl-soldorder.casa^$all
 ||inpost.pl-soldorder.club^$all
 ||inpost.pl-soldorder.icu^$all
@@ -4385,6 +4389,7 @@
 ||iqko.xyz^$all
 ||irbf.com^$all
 ||irelandl.com^$all
+||irelso.ir^$all
 ||irismal.com^$all
 ||irotradex.com^$all
 ||irpost.net^$all
@@ -5720,6 +5725,8 @@
 ||olx.pl-buyordered.work^$all
 ||olx.pl-buyordered.xyz^$all
 ||olx.pl-deliverybuy.casa^$all
+||olx.pl-id.site^$all
+||olx.pl-official-dostawa.cyou^$all
 ||olx.pl-orderbuy.cyou^$all
 ||olx.pl-paydeals.casa^$all
 ||olx.pl-paydeals.cyou^$all
@@ -5735,6 +5742,8 @@
 ||olx.pl-paydelivery.xyz^$all
 ||olx.pl-payorder.casa^$all
 ||olx.pl-reklamy.space^$all
+||olx.pl-savesell.cyou^$all
+||olx.pl-savesell.me^$all
 ||olx.pl-sellorders.casa^$all
 ||olx.pl-sellorders.cyou^$all
 ||olx.pl-sellorders.icu^$all
@@ -5745,6 +5754,7 @@
 ||olx.pl-sellorder.cyou^$all
 ||olx.pl-sellorder.shop^$all
 ||olx.pl-sellorder.xyz^$all
+||olx.pl-soldorders.life^$all
 ||olx.pl-soldorder.casa^$all
 ||olx.pl-soldorder.club^$all
 ||olx.pl-soldorder.cyou^$all
@@ -6134,6 +6144,7 @@
 ||pay49-olx.pl^$all
 ||pay50-olx.pl^$all
 ||pay51-olx.pl^$all
+||pay52-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
