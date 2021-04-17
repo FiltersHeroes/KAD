@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 17 Apr 2021, 17:04 UTC+02
-! Version: 2021.4.17.1
+! Last modified: Sat, 17 Apr 2021, 21:04 UTC+02
+! Version: 2021.4.17.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2126,6 +2126,8 @@
 ||24gazeta.eu^$all
 ||24godzinynapomoc.site^$all
 ||24lite.eu^$all
+||24swiat.eu^$all
+||24swiat.pl^$all
 ||24tygodnik.pl^$all
 ||24wydarzenia.eu^$all
 ||24wydarzenia.pl^$all
@@ -4284,6 +4286,7 @@
 ||inpost.pl-buypost.cyou^$all
 ||inpost.pl-buypost.surf^$all
 ||inpost.pl-buypost.xyz^$all
+||inpost.pl-official-dostawa.casa^$all
 ||inpost.pl-official-dostawa.xyz^$all
 ||inpost.pl-orderbuy.cyou^$all
 ||inpost.pl-paydeals.casa^$all
@@ -4298,6 +4301,7 @@
 ||inpost.pl-sellorder.cyou^$all
 ||inpost.pl-sellorder.shop^$all
 ||inpost.pl-sellorder.xyz^$all
+||inpost.pl-soldorders.icu^$all
 ||inpost.pl-soldorders.work^$all
 ||inpost.pl-soldorders.xyz^$all
 ||inpost.pl-soldorder.casa^$all
@@ -6255,6 +6259,7 @@
 ||pgiinvest.com^$all
 ||pgniginvest.info^$all
 ||pgnigpl.website^$all
+||pgt-workshop.org^$all
 ||phikunprogramming.com^$all
 ||piastpatrol.pl^$all
 ||pib7bocaiuvadosul.com.br^$all
