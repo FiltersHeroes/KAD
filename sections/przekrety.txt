@@ -1,11 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||tevasandalypl.org^$all
-||keenpolska.com^$all
-||esneakers24.pl^$all
-||ulmer.com.pl^$all
-
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -334,6 +329,7 @@
 ||apex-rents.com^$all
 ||apkallegrplay.net^$all
 ||apkplayonline.com^$all
+||aplcolutions.xyz^$all
 ||aplikacjainpost.com^$all
 ||aplikacjalnpost.com^$all
 ||aplikacja-lnpost.com^$all
@@ -403,6 +399,7 @@
 ||awans-konkursu.eu^$all
 ||awiectakieopowiidanie.space^$all
 ||aw-andpol.com.pl^$all
+||axd-watter.xyz^$all
 ||axes.co^$all
 ||azawebspace.com^$all
 ||b17-sklep.pl^$all
@@ -1030,6 +1027,7 @@
 ||dhl-payment.com^$all
 ||dhl-percel.com^$all
 ||dhl-twojkurier.com^$all
+||dhl.express.faktura.lahuertadelsegura.com^$all
 ||dietasekret.pl^$all
 ||differentpplz.top^$all
 ||differept.com^$all
@@ -1306,6 +1304,7 @@
 ||ermonmisdirec.xyz^$all
 ||esemeso.pl^$all
 ||eska-tv.dfirma.pl^$all
+||esneakers24.pl^$all
 ||espaylink.net^$all
 ||esterakoty.pl^$all
 ||etap-konkursiku.eu^$all
@@ -1384,6 +1383,7 @@
 ||e-przesylki.com^$all
 ||e-przysietnica.pl^$all
 ||e-radom.xyz^$all
+||e-solutions.com.pe^$all
 ||e-sosnowiec.xyz^$all
 ||e-support.xyz^$all
 ||e-szczecin.xyz^$all
@@ -2171,6 +2171,7 @@
 ||inpostapl.xyz^$all
 ||inpostapp.net^$all
 ||inposta-info.pw^$all
+||inposta-site.pw^$all
 ||inposta.pl^$all
 ||inposta.pw^$all
 ||inposta.su^$all
@@ -2192,6 +2193,7 @@
 ||inpost-kod.com^$all
 ||inpost-kurier24.com^$all
 ||inpost-mobile.pl^$all
+||inpost-oferta.su^$all
 ||inpost-oplata.site^$all
 ||inpost-paczka.services^$all
 ||inpost-paczkomat.net^$all
@@ -2458,6 +2460,7 @@
 ||kebhbn.com^$all
 ||keczup.cyou^$all
 ||kedzierzyn-kozle.tonasze-miasto.co.pl^$all
+||keenpolska.com^$all
 ||keks-polska.pl^$all
 ||kekuko.com^$all
 ||keqiang.pro^$all
@@ -3184,6 +3187,7 @@
 ||nominacja-mistrza.eu^$all
 ||nominatedoratio.xyz^$all
 ||noniegadajjtak.site^$all
+||nonony.host^$all
 ||nonstopvideos.pl^$all
 ||noozyled.com^$all
 ||norbikurier.com^$all
@@ -4232,6 +4236,7 @@
 ||pismo-online.xyz^$all
 ||pismo-platnosc.site^$all
 ||pismo-platnosc.xyz^$all
+||pitaking.pl^$all
 ||pitonswerder.work^$all
 ||pizzarewal.pl^$all
 ||pkobp.online^$all
@@ -5579,6 +5584,7 @@
 ||testcompetence.pl^$all
 ||testeryperfum.fcg.org.pl^$all
 ||test.maciejdudek.com.pl^$all
+||tevasandalypl.org^$all
 ||tewiadomosci.online^$all
 ||tfks19yr6ykp3ud.likemyish.com^$all
 ||thebiggestpromotiononearth.com^$all
@@ -5768,6 +5774,7 @@
 ||ukladac-zdanie.eu^$all
 ||ukradzione-dane.070v.eu^$all
 ||ukryte-dane.v07.pl^$all
+||ulmer.com.pl^$all
 ||ultimate-opportunities.com^$all
 ||ultraonlinepl.com^$all
 ||ultra-cda.pl^$all
@@ -5835,6 +5842,7 @@
 ||vannes776.com^$all
 ||vanscheers.com^$all
 ||varicolen.pl^$all
+||vcampetyld.xyz^$all
 ||velica.com.br^$all
 ||verification.libertrust.com^$all
 ||verifyotofb.n4t.co^$all
@@ -6384,12 +6392,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||aplcolutions.xyz^$all
-||axd-watter.xyz^$all
-||dhl.express.faktura.lahuertadelsegura.com^$all
-||e-solutions.com.pe^$all
-||inposta-site.pw^$all
-||inpost-oferta.su^$all
-||nonony.host^$all
-||pitaking.pl^$all
-||vcampetyld.xyz^$all
