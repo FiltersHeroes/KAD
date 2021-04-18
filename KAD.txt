@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 18 Apr 2021, 17:04 UTC+02
-! Version: 2021.4.18.1
+! Last modified: Sun, 18 Apr 2021, 21:04 UTC+02
+! Version: 2021.4.18.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2069,7 +2069,7 @@
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
-/^https?:\/\/([\w]{1,4}\.)?inwestpoland\d+\.site/$all
+/^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl)\d+\.(site|space)/$all
 /^https?:\/\/([\w]{1,4}\.)?(probablerootport)-?[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -3750,6 +3750,7 @@
 ||gaczynski.pl^$all
 ||gaduczat.pl^$all
 ||gajakurier.org^$all
+||galaxystore.pl^$all
 ||galeriaweb.pl^$all
 ||gamingpolska.pl^$all
 ||gang-fajniakow.you2.pl^$all
@@ -4310,6 +4311,7 @@
 ||inpost.pl-sellorder.cyou^$all
 ||inpost.pl-sellorder.shop^$all
 ||inpost.pl-sellorder.xyz^$all
+||inpost.pl-sells.xyz^$all
 ||inpost.pl-soldorders.icu^$all
 ||inpost.pl-soldorders.work^$all
 ||inpost.pl-soldorders.xyz^$all
@@ -5757,6 +5759,7 @@
 ||olx.pl-paydelivery.xyz^$all
 ||olx.pl-payorder.casa^$all
 ||olx.pl-reklamy.space^$all
+||olx.pl-rek-id.pw^$all
 ||olx.pl-savesell.cyou^$all
 ||olx.pl-savesell.me^$all
 ||olx.pl-sellorders.casa^$all
@@ -5778,6 +5781,7 @@
 ||olx.pl-soldorder.shop^$all
 ||olx.pl-soldorder.work^$all
 ||olx.pl-soldorder.xyz^$all
+||olx.pl-solds.icu^$all
 ||olx.pl-*.*^$document
 ||olx.pl.dostawa.oferta-payment.bid^$all
 ||olx.pl.merchants-pay.pw^$all
@@ -7740,6 +7744,7 @@
 ||trsmarkets.com^$all
 ||trudneokreslenie.site^$all
 ||truegamers.ga^$all
+||truyenthongbatdiet.online^$all
 ||trzebasiezstegoutrzymac.cyou^$all
 ||trzebasiezztympogodzic.cyou^$all
 ||trzymajpoziom.pl^$all
