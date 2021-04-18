@@ -6,7 +6,7 @@
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
-/^https?:\/\/([\w]{1,4}\.)?inwestpoland\d+\.site/$all
+/^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl)\d+\.(site|space)/$all
 /^https?:\/\/([\w]{1,4}\.)?(probablerootport)-?[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
