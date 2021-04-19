@@ -1,9 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||xianyujc.com^$all
-||begalleo.com^$all
-||perfectbrush360.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -449,6 +446,7 @@
 ||beauty-direct.pl^$all
 ||become-a-millionaire.info^$all
 ||bedacjuzprzytym.cyou^$all
+||begalleo.com^$all
 ||begin.digitabook.net^$all
 ||behlenjoiner.com^$all
 ||beka.pl^$all
@@ -4154,6 +4152,7 @@
 ||penir.org^$all
 ||pensjonatsportowy.pl^$all
 ||peopeyo.net^$all
+||perfectbrush360.pl^$all
 ||performancevitality.net^$all
 ||perlaibracia.pl^$all
 ||perlowo.pl^$all
@@ -6172,6 +6171,7 @@
 ||w-szpitalu.gmina.pl^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xawqerklewq.myartsonline.com^$all
+||xianyujc.com^$all
 ||xiaoml.ru^$all
 ||xn*gwatpolska24*.*^$all
 ||xn--adres-wysyki-mcc.pl^$all
