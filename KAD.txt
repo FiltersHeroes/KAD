@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 18 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.18.2
+! Last modified: Mon, 19 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.19.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -41,6 +41,7 @@
 ||adblock-listefr.com^$all
 ||addays.pl^$all
 ||adeptia.pl^$all
+||adidasbutywyprzedaz.pl^$all
 ||adidaspolskasklep.com^$all
 ||adidaspolska.com^$all
 ||adidaspromocje.com^$all
@@ -51,7 +52,6 @@
 ||africanmango900.pl^$all
 ||africanmango.pl^$all
 ||agataszupke.pl^$all
-||agdeer.com^$all
 ||agdrtv.net^$all
 ||agenciq.pl^$all
 ||agencjaart44.pl^$all
@@ -143,7 +143,6 @@
 ||baq24.pl^$all
 ||bartekzukiewicz.pl^$all
 ||bartelik-brukarstwo.pl^$all
-||bartozziproject.com^$all
 ||barwin4.com^$all
 ||baseny.club^$all
 ||baskar8.com^$all
@@ -195,6 +194,7 @@
 ||boobi.biz^$all
 ||bookeria.pl^$all
 ||bookowa.pl^$all
+||bootspoland.com^$all
 ||bootstraplugin.com^$all
 ||borowkalubuskie.pl^$all
 ||boryskowalski.pl^$all
@@ -233,6 +233,7 @@
 ||butyrockport.pl^$all
 ||butysalomonpolska.com^$all
 ||butysklepnkpl.com^$all
+||butysorelpolska.com^$all
 ||butysportowepolska.pl^$all
 ||butysuprassklep.com^$all
 ||butyvanspolska.com^$all
@@ -288,7 +289,6 @@
 ||club4you.pl^$all
 ||clubitaliano.pl^$all
 ||club-cynamon.pl^$all
-||coachhouseballarat.com^$all
 ||cocokissy.com^$all
 ||coconi.pl^$all
 ||cocoopt.com^$all
@@ -407,7 +407,6 @@
 ||eccobuty.co^$all
 ||eccoeustore.com^$all
 ||eccopoland.com^$all
-||eccopolska.pl^$all
 ||ecco-polska.pl^$all
 ||ecolife-home.com.pl^$all
 ||ecoslimmer.pro^$all
@@ -654,7 +653,6 @@
 ||icopywriter.pl^$all
 ||idealnybuty.top^$all
 ||ideatur.pl^$all
-||idgarin.com^$all
 ||ielektronik.pl^$all
 ||ihydroflaskshop.com^$all
 ||ilearnex.pl^$all
@@ -686,7 +684,6 @@
 ||jacekfuchs.pl^$all
 ||jacketoutlet.pl^$all
 ||jacketspolska.cn^$all
-||jadwigawrzesinska.pl^$all
 ||jagof.com.pl^$all
 ||jakpodrywacnatinderze.pl^$all
 ||jaksiereklamowac.pl^$all
@@ -733,6 +730,7 @@
 ||kayastylowetorebki.pl^$all
 ||kddz.pl^$all
 ||kebabnisko.pl^$all
+||kedspolska.com^$all
 ||keepitavocado.com^$all
 ||keykong.eu^$all
 ||kingland.pl^$all
@@ -858,7 +856,6 @@
 ||madum.pl^$all
 ||maendo.tv^$all
 ||magicpockets.shop^$all
-||magiel.com.pl^$all
 ||majus-centrum.pl^$all
 ||makarenagaski.pl^$all
 ||maksymrzeminski.pl^$all
@@ -1007,6 +1004,7 @@
 ||nazwa5.pl^$all
 ||nbbuty.pl^$all
 ||nbpolska.pl^$all
+||nb-sklep.com^$all
 ||neocam.pl^$all
 ||neo-market.pl^$all
 ||nestandland.com^$all
@@ -1161,6 +1159,7 @@
 ||pojzn.pl^$all
 ||pokolorujfb*.glt.pl^$all
 ||polaki.shop^$all
+||polandskechers.com^$all
 ||poland.fizzyslim.biz^$all
 ||polenboeller-deutschland.com^$all
 ||polichrom.pl^$all
@@ -1234,7 +1233,6 @@
 ||psiasfora.pl^$all
 ||psydotcom.com^$all
 ||ptmedia.com.pl^$all
-||pubtechpoland.com^$all
 ||pumaprzeceny.pl^$all
 ||pumatanio.com^$all
 ||puna.pl^$all
@@ -1260,7 +1258,6 @@
 ||rankingimprez.pl^$all
 ||ratilis.com^$all
 ||rbfrh.com^$all
-||rbghu.com^$all
 ||rbn-pl.net^$all
 ||rbxfree.com^$all
 ||recommendedlab.com^$all
@@ -1288,7 +1285,6 @@
 ||rep.privatesearch.club^$all
 ||resov.pl^$all
 ||restauracjagracja.pl^$all
-||revitib.com^$all
 ||rewersart.pl^$all
 ||rikoo.pl^$all
 ||riverbed.pl^$all
@@ -1377,7 +1373,6 @@
 ||sklep466452.shoparena.pl^$all
 ||sklep917219.shoparena.pl^$all
 ||sklepbuty.top^$all
-||sklepeccoonline.pl^$all
 ||sklephollisterpl.com^$all
 ||sklepkjl.com^$all
 ||sklepnorthface.com^$all
@@ -1409,7 +1404,6 @@
 ||sneakerpassion.eu^$all
 ||sneakersshop.pl^$all
 ||sneakersworld.eu^$all
-||sneakervclub.com^$all
 ||sobotka24.com.pl^$all
 ||sockshock.com^$all
 ||sofia-sstyle.com^$all
@@ -1559,6 +1553,7 @@
 ||track.adsfast.com^$all
 ||tradecompany.pl^$all
 ||trampkiconverse.com^$all
+||trampkisuperga.pl^$all
 ||trampkitanie.pl^$all
 ||transeuropaferries.pl^$all
 ||trapez-sc.pl^$all
@@ -1663,7 +1658,6 @@
 ||wielkaniespodzianka.pl^$all
 ||wielosztuka.pl^$all
 ||wifiprotector.com^$all
-||wiktoriamila.pl^$all
 ||wilanowskibiegkrolewski.pl^$all
 ||wilkiewicz.pl^$all
 ||windgrojec.pl^$all
@@ -1809,7 +1803,6 @@
 ||clic-douaisis.fr^$all
 ||clip.today^$all
 ||coma.com.pl/userfiles/*.xml$document
-||commanods.xyz^$all
 ||cr-toptom.com^$all
 ||d8x.pl^$all
 ||decynsire.com^$all
@@ -1848,7 +1841,6 @@
 ||heckcallohertons.info^$all
 ||hemesyqydy.space^$all
 ||hybriddistribution.dk^$all
-||igcecsrrt.site^$all
 ||interia-24-pl.livejournal.com^$all
 ||interia-info.livejournal.com^$all
 ||iphone-za-darmo.over-blog.com^$all
@@ -1939,7 +1931,6 @@
 ||vnotrk.com^$all
 ||vuebwxc.cn^$all
 ||weyewweg.mypi.co^$all
-||wosemd.site^$all
 ||xn--21955-gya.biz^$all
 ||xn--30986-udb.biz^$all
 ||xtroglobal.com^$all
@@ -2415,7 +2406,6 @@
 ||apptrader.com^$all
 ||app*.kromtech.net^$all,domain=net
 ||app-messenger-lite.com^$all
-||app-netflix.ratedyork.tk^$all
 ||app.uniswap.info-tokens.com^$all
 ||aptecznypunkt.pl^$all
 ||aqsati.com^$all
@@ -2671,7 +2661,6 @@
 ||btcduke.com^$all
 ||btchampsapps.com^$all
 ||btcooinssappls.com^$all
-||btcprofitnow.club^$all
 ||btc-billionaire.com^$all
 ||btc-era.com^$all
 ||btc-evo.com^$all
@@ -3463,9 +3452,6 @@
 ||facebbook*.5v.pl^$all
 ||facebcok.com.pl^$all
 ||faceboobko.*.*^$all
-||facebookcom-43632337.techsso.com^$all
-||facebookcom-49851167.techsso.com^$all
-||facebookweryfikacja.tk^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-pl.eu^$all
@@ -3549,7 +3535,6 @@
 ||fbtoken.evai.pl^$all
 ||fbvetu.n4t.co^$all
 ||fbvverifier.mypi.co^$all
-||fbweryfikacja.tk^$all
 ||fb-ads-business.com^$all
 ||fb-ads.me^$all
 ||fb-business.net^$all
@@ -4000,7 +3985,6 @@
 ||hokasklep.com^$all
 ||holylamaoffers.com^$all
 ||homearena.pl^$all
-||homelake.pl^$all
 ||homepaiement-pl-*.*.*^$all,domain=at|com
 ||homepay-pl-*.*.*^$all,domain=at|com
 ||homepl.waw.pl^$all
@@ -4163,6 +4147,7 @@
 ||informacje-z-polski-48.waw.pl^$all
 ||informacje.icu^$all
 ||informacje.life^$all
+||informacje.radom.pl^$all
 ||informacje.work^$all
 ||informacyjny-punkt.eu^$all
 ||informator24.eu^$all
@@ -4552,7 +4537,6 @@
 ||klubfiatstilo.pl^$all
 ||klubpopstar.pl^$all
 ||klucze.cyou^$all
-||knefelkurier.com^$all
 ||kobiece-sprawy.eu^$all
 ||kobietazaszczepiona.co.pl^$all
 ||kobiety.podpisz-petycje.eu^$all
@@ -4577,7 +4561,6 @@
 ||kolorfun.pl^$all
 ||kolor.oq.pl^$all
 ||kolporter24.net^$all
-||komatireddy.net^$all
 ||komendapolska.site^$all
 ||komenda-polska.site^$all
 ||kommornik.pl^$all
@@ -4602,7 +4585,6 @@
 ||kopaniebitcoin.pl^$all
 ||korespodencja-online.link^$all
 ||korespodencja-online.xyz^$all
-||korespodencja-piatnosc.xyz^$all
 ||korespodencja-platnosc.xyz^$all
 ||korespondencja.in.net^$all
 ||korespondencja.xyz^$all
@@ -4661,7 +4643,6 @@
 ||kurier-oczekuiacy.in.net^$all
 ||kurier-plata.digital^$all
 ||kurier-platnosci.services^$all
-||kurier-pocztex24.com^$all
 ||kurier-wpiata.online^$all
 ||kurjerzy-pl.cyou^$all
 ||kursjezykowy.eu^$all
@@ -4675,7 +4656,6 @@
 ||labarre.com.pl^$all
 ||labersa.com^$all
 ||labmedica.pl^$all
-||lack-pearl.pl^$all
 ||lander.pl^$all
 ||laptopyinfo.pl^$all
 ||larissalinhares.com.br^$all
@@ -4741,7 +4721,6 @@
 ||liversely.com^$all
 ||living2winning.com^$all
 ||lldi.pl^$all
-||llog-allegro.net^$all
 ||lnfo.web-chat.eu^$all
 ||lngbusiness-start.com^$all
 ||lngstart-business.com^$all
@@ -4886,7 +4865,6 @@
 ||marmotpolskas.com^$all
 ||martynk.biz.pl^$all
 ||maska-oddechowa-kn95-pl.com^$all
-||massners.pl^$all
 ||mastertradeinvestments.com^$all
 ||mastilo.pl^$all
 ||matchlesssanctity.org^$all
@@ -5084,6 +5062,7 @@
 ||nabijaj-internetowo.eu^$all
 ||nachrichten24de.dfirma.pl^$all
 ||naciskaj-przycisk.eu^$all
+||nadajemyyynazywoo.cyou^$all
 ||nadania-onliine.xyz^$all
 ||nadania-online.in.net^$all
 ||nadania-onlline.in.net^$all
@@ -5156,7 +5135,6 @@
 ||naukaunlimited.pl^$all
 ||nauka-angielskiego.com.pl^$all
 ||naukowcydlaniepodleglej.pl^$all
-||nautcoins.com^$all
 ||navistuff.me^$all
 ||navi-esport.com^$all
 ||navi-free2020.org.ru^$all
@@ -5271,7 +5249,6 @@
 ||novvvaggazetapolska.cyou^$all
 ||nowadecyzjanowezycie.website^$all
 ||nowaformullabizznesu24.space^$all
-||nowakowski-znaki.pl^$all
 ||nowapolskaa.cyou^$all
 ||nowapolskaa.xyz^$all
 ||noweciezarowe.pl^$all
@@ -5487,6 +5464,7 @@
 ||olxpl.co^$all
 ||olxpl.deals^$all
 ||olxpl.delivery-b.com^$all
+||olxpl.delivery-c.com^$all
 ||olxpl.id84884043.mba^$all
 ||olxpl.id-173056.com^$all
 ||olxpl.me^$all
@@ -5536,6 +5514,7 @@
 ||olx-delivery-*.*^$all
 ||olx-delivery.*^$all
 ||olx-deliver.*^$all
+||olx-doreczenie.pl^$all
 ||olx-dosstawa.pl^$all
 ||olx-dostava.*^$all
 ||olx-dostawa792.top^$all
@@ -5701,13 +5680,8 @@
 ||olx.new-payment.store^$all
 ||olx.new-polska-oferta.cloud^$all
 ||olx.new-polska-oferta.club^$all
-||olx.new-polska-oferta.fun^$all
 ||olx.new-polska-oferta.life^$all
 ||olx.new-polska-oferta.live^$all
-||olx.new-polska-oferta.online^$all
-||olx.new-polska-oferta.space^$all
-||olx.new-polska-oferta.store^$all
-||olx.new-polska-oferta.xyz^$all
 ||olx.oferda-pl.biz^$all
 ||olx.oferda-pl.fun^$all
 ||olx.oferda-pl.life^$all
@@ -5743,6 +5717,13 @@
 ||olx.pl-buyordered.xyz^$all
 ||olx.pl-deliverybuy.casa^$all
 ||olx.pl-id.site^$all
+||olx.pl-konto-orders.biz^$all
+||olx.pl-konto-orders.club^$all
+||olx.pl-konto-orders.life^$all
+||olx.pl-konto-orders.live^$all
+||olx.pl-konto-orders.me^$all
+||olx.pl-konto-orders.shop^$all
+||olx.pl-konto-orders.xyz^$all
 ||olx.pl-official-dostawa.cyou^$all
 ||olx.pl-orderbuy.cyou^$all
 ||olx.pl-paydeals.casa^$all
@@ -5758,6 +5739,7 @@
 ||olx.pl-paydelivery.work^$all
 ||olx.pl-paydelivery.xyz^$all
 ||olx.pl-payorder.casa^$all
+||olx.pl-reklamy-id.space^$all
 ||olx.pl-reklamy.space^$all
 ||olx.pl-rek-id.pw^$all
 ||olx.pl-savesell.cyou^$all
@@ -5807,11 +5789,7 @@
 ||olx.polska-dostawka.xyz^$all
 ||olx.polska-ofer1o.casa^$all
 ||olx.polska-ofer1o.club^$all
-||olx.polska-ofer1o.cyou^$all
-||olx.polska-ofer1o.monster^$all
-||olx.polska-ofer1o.store^$all
 ||olx.polska-ofer1o.work^$all
-||olx.polska-ofer1o.xyz^$all
 ||olx.polska-oferda.*^$all
 ||olx.polska-oferdo.biz^$all
 ||olx.polska-oferdo.cc^$all
@@ -5827,7 +5805,6 @@
 ||olx.polska-oferta.*^$all
 ||olx.polska-ofertl.club^$all
 ||olx.polska-ofertl.store^$all
-||olx.polska-ofertl.xyz^$all
 ||olx.polska-oterfa.cyou^$all
 ||olx.polska-oterfa.live^$all
 ||olx.polska-oterfa.store^$all
@@ -5938,7 +5915,6 @@
 ||opineo.pw^$all
 ||oplackuriera.com^$all
 ||oplac-abonament24.com^$all
-||oplac-paczka24.com^$all
 ||oplac-paczke.com^$all
 ||oplat1y.com^$all
 ||oplataolx.pl^$all
@@ -6002,7 +5978,6 @@
 ||oxford-centrum.com.pl^$all
 ||o-l-x.com^$all
 ||p0czta.net^$all
-||p0rtal-register.tk^$all
 ||pacificinvestmentsltd.com^$all
 ||pacuskurier.org^$all
 ||paczinfo.com^$all
@@ -6164,6 +6139,7 @@
 ||pay50-olx.pl^$all
 ||pay51-olx.pl^$all
 ||pay52-olx.pl^$all
+||pay53-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -6202,6 +6178,7 @@
 ||pay-olx.gq^$all
 ||pay-pl.site^$all
 ||pay-u24.net^$all
+||pay.olx.pl.link-secure.net.ru^$all
 ||pbshop.pl^$all
 ||pc-sklep.com^$all
 ||pc-soft.pl^$all
@@ -6659,7 +6636,6 @@
 ||polska-raport.tk^$all
 ||polska-teraz*.idl.pl^$all
 ||polska--wiadomosci24h.x9.eu^$all
-||polska.wiwi.dev^$all
 ||polskiagazeta24.serwerplus.pl^$all
 ||polskidziennik.dkonto.pl^$all
 ||polskidziennik.pl^$all
@@ -6841,7 +6817,6 @@
 ||premacc.pl^$all
 ||premieroffr.com^$all
 ||premieroffr.org^$all
-||premiumtradecapital.co.uk^$all
 ||presidioinvestmentsltd.com^$all
 ||prevski.com^$all
 ||prezent-kumplowi.eu^$all
@@ -7186,8 +7161,6 @@
 ||security-update-required.com^$all
 ||security.weblogin-contact-form-instagram.com^$all
 ||seewhochecked.com^$all
-||segregations.xyz^$all
-||sekon.com.pl^$all
 ||seks-telefon.com^$all
 ||selfieshop.ga^$all
 ||sellrvice.com^$all
@@ -7278,7 +7251,6 @@
 ||sie-pomaga.net^$all
 ||signifyteleprompt-expired.firebaseapp.com^$all
 ||signin-ea.com^$all
-||signvomitorium.com^$all
 ||sikorka.cyou^$all
 ||siliconpants.top^$all
 ||silstop.pl^$all
@@ -7315,7 +7287,6 @@
 ||skunks.cyou^$all
 ||skuter.c0.pl^$all
 ||slaweklenart.pl^$all
-||slawianka.com.pl^$all
 ||sledzenie-24.xyz^$all
 ||sledzenie-paczki.in.net^$all
 ||sledzenie-paczki.store^$all
@@ -7359,6 +7330,7 @@
 ||socialclub55.xyz^$all
 ||socksonclick.com^$all
 ||soft4click.com^$all
+||softagesolution.com^$all
 ||softmania.pl^$all
 ||softsmart.mobi^$all
 ||sohohealthsolutions.com^$all
@@ -7438,8 +7410,6 @@
 ||srv37325.seohost.com.pl^$all
 ||ssll-payu.com^$all
 ||sslpayu.com^$all
-||sslplatnosc.online^$all
-||ssl-allegrro.net^$all
 ||ssl-cert.pl^$all
 ||ssl.dfirma.pl^$all
 ||sso-cloud-idea-bank.at^$all
@@ -7542,7 +7512,6 @@
 ||sureyouwillloveit.com^$all
 ||sustainablecities.net^$all
 ||suwalskieprzytulisko.pl^$all
-||svd-warszawa.pl^$all
 ||sv-forum.com^$all
 ||swapgg.pl^$all
 ||swiat24.dkonto.pl^$all
@@ -7662,7 +7631,6 @@
 ||themovienation.com^$all
 ||thepacificagroup.com^$all
 ||thepacifica-group.com^$all
-||thepermanenttruth.com^$all
 ||thereimbursement.us^$all
 ||thermocook.pl^$all
 ||the-bitcoins-code.com^$all
@@ -7695,6 +7663,7 @@
 ||tolerujmy-ludzi.eu^$all
 ||tomatocoswssobie.cyou^$all
 ||tomisiepoddobalotv.site^$all
+||tomojaszansanazzycie.cyou^$all
 ||tomorrowcrypto.vip^$all
 ||tomypolacy.online^$all
 ||tonapewnowyjdzie.space^$all
@@ -7828,7 +7797,6 @@
 ||u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app^$all
 ||u19432194.ct.sendgrid.net^$all
 ||uatesnicknam.xyz^$all
-||ubgroupbk.com^$all
 ||ubranienapapijri.pl^$all
 ||uchwalenie-zwyciezcy.eu^$all
 ||uczestnika-wybieraj.eu^$all
@@ -8043,7 +8011,6 @@
 ||wiadomotv24.info^$all
 ||widget-eforsa.pl^$all
 ||wiecejeniemam.site^$all
-||wiecejpolski.icu^$all
 ||wiecejztegowyjmij.club^$all
 ||wiecej.online^$all
 ||wiedzacodziennatv.info^$all
@@ -8057,7 +8024,6 @@
 ||wieszzemozzesz.space^$all
 ||wiiadomoscizkrajuu.live^$all
 ||wiktorek140.cba.pl^$all
-||wild-deneme123.tk^$all
 ||willa-marina.pl^$all
 ||wimaj.pl^$all
 ||wincleanerpro.com^$all
@@ -8212,7 +8178,6 @@
 ||wymierneeffekty.site^$all
 ||wynik-pomoc.eu^$all
 ||wypadki24.e-kei.pl^$all
-||wyplata-olx-pl.tk^$all
 ||wyposazeniedomow.com.pl^$all
 ||wypozycz-film.pl^$all
 ||wyraz-pomoc.eu^$all
@@ -8234,7 +8199,6 @@
 ||wysylka24.online^$all
 ||wysylka-olx.me^$all
 ||wysylka-olx.pl^$all
-||wysylki.net^$all
 ||wysymdhl.com^$all
 ||wysyndhl.com^$all
 ||wysysdhl.com^$all
@@ -8385,7 +8349,6 @@
 ||zlecone.xn.pl^$all
 ||zloty-lider.eu^$all
 ||zlot.me^$all
-||zmiananalepsze.pl^$all
 ||zmiana.cyou^$all
 ||zmiennswojezzycie.cyou^$all
 ||zmienswojbizznes24.space^$all
@@ -8411,9 +8374,9 @@
 ||zorganizowanie-sie.eu^$all
 ||zorientujsiewtemacie.site^$all
 ||zrzadzenie-losu.eu^$all
+||zrzuta.com.pl^$all
 ||ztejstronnytwojeradio.website^$all
 ||zumodi.com^$all
-||zus-wyplata.tk^$all
 ||zw578376khsds.com.ng^$all
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
