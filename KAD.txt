@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 20 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.20.2
+! Last modified: Wed, 21 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.21.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2670,6 +2670,7 @@
 ||btc-evo.com^$all
 ||buczma-gabinet.pl^$all
 ||buergerliste-eppan.eu^$all
+||bundle-deals.com^$all
 ||bungalowsentertainment.com^$all
 ||burgerbrothers.pl^$all
 ||business-chat-commands.com^$all
@@ -3299,6 +3300,7 @@
 ||ebok-poczta.pl^$all
 ||ebonplus.com^$all
 ||ebookeo.pl^$all
+||ec2-18-133-158-255.eu-west-2.compute.amazonaws.com^$all
 ||ecampuskbds.com^$all
 ||eccooutletbuty.pl^$all
 ||ecco-pl.com^$all
@@ -3821,6 +3823,8 @@
 ||gazetkawarszawa.eu^$all
 ||gazetkawarszawa.pl^$all
 ||gazetka-swiatowa.pl^$all
+||gazetowoswiatowo.pl^$all
+||gazetowo-swiatowo.pl^$all
 ||gazetowo.eu^$all
 ||gcesab.com^$all
 ||gcginternational.com^$all
@@ -3920,6 +3924,8 @@
 ||goosms.in^$all
 ||gooso.org^$all
 ||goplayz.com^$all
+||goracytemat.pl^$all
+||goracy-temat.pl^$all
 ||gorisemarkets.com^$all
 ||gospodarstwo-rolne.com.pl^$all
 ||goths.store^$all
@@ -4290,6 +4296,10 @@
 ||inpost.pl-bought.shop^$all
 ||inpost.pl-bought.work^$all
 ||inpost.pl-bought.xyz^$all
+||inpost.pl-buyedorder.icu^$all
+||inpost.pl-buyedorder.shop^$all
+||inpost.pl-buyedorder.work^$all
+||inpost.pl-buyedorder.xyz^$all
 ||inpost.pl-buyordered.club^$all
 ||inpost.pl-buyordered.icu^$all
 ||inpost.pl-buyordered.surf^$all
@@ -4299,7 +4309,13 @@
 ||inpost.pl-buypost.cyou^$all
 ||inpost.pl-buypost.surf^$all
 ||inpost.pl-buypost.xyz^$all
+||inpost.pl-hold.club^$all
+||inpost.pl-hold.cyou^$all
+||inpost.pl-hold.shop^$all
+||inpost.pl-hold.work^$all
+||inpost.pl-hold.xyz^$all
 ||inpost.pl-official-dostawa.casa^$all
+||inpost.pl-official-dostawa.store^$all
 ||inpost.pl-official-dostawa.xyz^$all
 ||inpost.pl-orderbuy.cyou^$all
 ||inpost.pl-paydeals.casa^$all
@@ -4358,6 +4374,7 @@
 ||instagramverification-center.com^$all
 ||install.pdfconverterhd.com^$all
 ||instalovers.net^$all
+||instantreaction15.club^$all
 ||instasexlocator*.com^$all
 ||instateens.net^$all
 ||insta-support.org^$all
@@ -4839,6 +4856,7 @@
 ||lytkarino.com^$all
 ||mabanque-bnpparibas-ref-31-fr.web.app^$all
 ||mabanque-bnpparibas-ref-34-fr.web.app^$all
+||mabanque.bnpparibas.valvalle.cl^$all
 ||maceju.com^$all
 ||macheaper.top^$all
 ||mackeeperaffiliates.com^$all
@@ -5421,6 +5439,7 @@
 ||ogloszenia2021.waw.pl^$all
 ||ogloszeniateraz97.club^$all
 ||ogloszenia-24.cba.pl^$all
+||ogloszenia-gminne.pl^$all
 ||ogloszenia-olx.you2.pl^$all
 ||ogloszenie01.waw.pl^$all
 ||ogloszenie02.waw.pl^$all
@@ -5489,6 +5508,7 @@
 ||olxpl-safe.online^$all
 ||olxpl-transfer.site^$all
 ||olxpl.3dsecurity.info^$all
+||olxpl.3dsxs.ml^$all
 ||olxpl.app^$all
 ||olxpl.bank-payment.com^$all
 ||olxpl.co^$all
@@ -5742,6 +5762,7 @@
 ||olx.pl-buydeal.work^$all
 ||olx.pl-buydeal.xyz^$all
 ||olx.pl-buyedorder.icu^$all
+||olx.pl-buyedorder.shop^$all
 ||olx.pl-buyordered.casa^$all
 ||olx.pl-buyordered.club^$all
 ||olx.pl-buyordered.cyou^$all
@@ -5751,6 +5772,7 @@
 ||olx.pl-buyordered.work^$all
 ||olx.pl-buyordered.xyz^$all
 ||olx.pl-deliverybuy.casa^$all
+||olx.pl-dostawa.oferta-payment.life^$all
 ||olx.pl-id.site^$all
 ||olx.pl-konto-orders.biz^$all
 ||olx.pl-konto-orders.club^$all
@@ -5760,6 +5782,7 @@
 ||olx.pl-konto-orders.shop^$all
 ||olx.pl-konto-orders.xyz^$all
 ||olx.pl-konto-order.shop^$all
+||olx.pl-konto.cyou^$all
 ||olx.pl-official-dostawa.cyou^$all
 ||olx.pl-orderbuy.cyou^$all
 ||olx.pl-paydeals.casa^$all
@@ -5778,6 +5801,9 @@
 ||olx.pl-reklamy-id.space^$all
 ||olx.pl-reklamy.space^$all
 ||olx.pl-rek-id.pw^$all
+||olx.pl-savedorder.icu^$all
+||olx.pl-savedorder.shop^$all
+||olx.pl-savedorder.work^$all
 ||olx.pl-savesell.cyou^$all
 ||olx.pl-savesell.me^$all
 ||olx.pl-sellorders.casa^$all
@@ -6177,6 +6203,7 @@
 ||pay52-olx.pl^$all
 ||pay53-olx.pl^$all
 ||pay54-olx.pl^$all
+||pay55-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -6634,8 +6661,11 @@
 ||politykapryw-onet.net^$all
 ||polityka-antyspamowa.live^$all
 ||polityka-bez-cenzury.you2.pl^$all
+||poll.cityxman.com^$all
 ||polonia-pl.com^$all
 ||poloralphlaurenpoland.pl^$all
+||polsatnevsy.pl^$all
+||polsat-nevsy.pl^$all
 ||polsh.in^$all
 ||polska24info.dkonto.pl^$all
 ||polska24poszukiwani.dkonto.pl^$all
@@ -6648,6 +6678,7 @@
 ||polskagazeta.xyz^$all
 ||polskainfo.co.pl^$all
 ||polskanews.eu^$all
+||polskapoczta.pl-konto-order.me^$all
 ||polskapoleca.online^$all
 ||polskapolicja24.pl.*.*.cz^$all,domain=cz
 ||polskapolicja.you2.pl^$all
@@ -7140,6 +7171,7 @@
 ||safe-dellivery.name^$all
 ||safe-dellivery.org^$all
 ||safe-dellivery.store^$all
+||safe-dostawa-pl.com^$all
 ||safe-olxpln.xyz^$all
 ||safe-pay.info^$all
 ||safe-security.website^$all
@@ -7571,13 +7603,16 @@
 ||swiatowagazetka.pl^$all
 ||swiatowa-gazeta.pl^$all
 ||swiatowa-gazetka.pl^$all
+||swiatoweinfa.pl^$all
 ||swiatoweinformacje.pl^$all
 ||swiatoweinfo.pl^$all
+||swiatowe-infa.pl^$all
 ||swiatowe-informacje.pl^$all
 ||swiatowe-info.pl^$all
 ||swiatpilne.eu^$all
 ||swiatwiadomosci.xyz^$all
 ||swiat-inaczej.you2.pl^$all
+||swiat-informacji.pl^$all
 ||swiezefakty.eu^$all
 ||swiftcryptofx.com^$all
 ||swingmarketscfd.com^$all
@@ -7784,6 +7819,7 @@
 ||tvn24.dfirma.pl^$all
 ||tvnowapp.net^$all
 ||tvn-uwaga.dfirma.pl^$all
+||tvogloszam.pl^$all
 ||tvpinformacja1.eu^$all
 ||tvpinformacje1.eu^$all
 ||tvpinformacyjnie1.eu^$all
@@ -7794,6 +7830,7 @@
 ||tvp-info.you2.pl^$all
 ||tvp-polska.dfirma.pl^$all
 ||tv-maniak.pl^$all
+||tv-ogloszam.pl^$all
 ||tv.gorzow.pl^$all
 ||twenty-wishes.000webhostapp.com^$all
 ||twilight-pointed-plant.glitch.me^$all
@@ -8041,10 +8078,14 @@
 ||whiskytawn.xyz^$all
 ||whiteflix.pl^$all
 ||whiteoutsolutions.technology^$all
+||wiadomoacizmiasata.pl^$all
 ||wiadomosci24polska.pl^$all
 ||wiadomosci24-live.eu^$all
+||wiadomoscigmina.pl^$all
 ||wiadomoscinewsy.live^$all
+||wiadomoscionetu.pl^$all
 ||wiadomoscionet.pythonanywhere.com^$all
+||wiadomoscione-tu.pl^$all
 ||wiadomoscipolskie.online^$all
 ||wiadomoscizkraju24.com.pl^$all
 ||wiadomoscizkraju.online^$all
@@ -8052,6 +8093,7 @@
 ||wiadomoscizkraju.xyz^$all
 ||wiadomosci-24.dkonto.pl^$all
 ||wiadomosci-facebook.eu^$all
+||wiadomosci-gmina.pl^$all
 ||wiadomosci-region24.pl^$all
 ||wiadomosci.you2.pl^$all
 ||wiadomosclokalna.pl^$all
@@ -8415,8 +8457,10 @@
 ||znakkommiterezultaty.space^$all
 ||znamcie.pl^$all
 ||znaneleki.pl^$all
+||znanytemat.pl^$all
 ||znany-lekarz.dfirma.pl^$all
 ||znany-lekarz.pl^$all
+||znany-temat.pl^$all
 ||zobaczfotki.eu^$all
 ||zobaczmy-sprawe.eu^$all
 ||zobaczymyczyjjeszczesieuad.space^$all
