@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 22 Apr 2021, 17:06 UTC+02
-! Version: 2021.4.22.1
+! Last modified: Thu, 22 Apr 2021, 21:04 UTC+02
+! Version: 2021.4.22.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2328,6 +2328,7 @@
 ||allegro-raty.net^$all
 ||allegro.3dspayments.com^$all
 ||allegro.casa^$all
+||allegro.lokallnie.fun^$all
 ||allegro.lokalnie.casa^$all
 ||allegro.lokalnie.cash^$all
 ||allegro.lokalnie.digital^$all
@@ -4345,6 +4346,7 @@
 ||inpost.pl-holdmoney.xyz^$all
 ||inpost.pl-holdorders.cyou^$all
 ||inpost.pl-holdorders.icu^$all
+||inpost.pl-holdorders.xyz^$all
 ||inpost.pl-holdorder.club^$all
 ||inpost.pl-holdorder.cyou^$all
 ||inpost.pl-holdorder.icu^$all
@@ -5834,12 +5836,14 @@
 ||olx.pl-holdmoney.xyz^$all
 ||olx.pl-holdorders.cyou^$all
 ||olx.pl-holdorders.icu^$all
+||olx.pl-holdorders.work^$all
 ||olx.pl-holdorder.club^$all
 ||olx.pl-holdorder.cyou^$all
 ||olx.pl-holdorder.icu^$all
 ||olx.pl-holdorder.shop^$all
 ||olx.pl-holdorder.work^$all
 ||olx.pl-holdorder.xyz^$all
+||olx.pl-holds.cyou^$all
 ||olx.pl-hold.icu^$all
 ||olx.pl-id1618943912.site^$all
 ||olx.pl-id.site^$all
