@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 21 Apr 2021, 21:04 UTC+02
-! Version: 2021.4.21.2
+! Last modified: Thu, 22 Apr 2021, 13:04 UTC+02
+! Version: 2021.4.22.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -160,7 +160,6 @@
 ||berryen.com^$all
 ||berutiful.com^$all
 ||best2018games.com^$all
-||bestagd.eu^$all
 ||bestbook-library.com^$all
 ||bestcena.pl^$all
 ||bestofelektro.pl^$all
@@ -269,6 +268,7 @@
 ||checkerboardpl.top^$all
 ||chicladdy.com^$all
 ||chicmica.com^$all
+||chloepolska.pl^$all
 ||chocoslim.pro^$all
 ||choengmon-beach.com^$all
 ||chris-jasnowidz.pl^$all
@@ -628,6 +628,7 @@
 ||hobbitowa.pl^$all
 ||hodowlaskalia.pl^$all
 ||hokaoneonepolska.com^$all
+||hokaoneonespeedgoat.pl^$all
 ||hokaoneshop.com^$all
 ||hokapolska.com^$all
 ||holdenavenue.pl^$all
@@ -669,6 +670,7 @@
 ||intergsm.pl^$all
 ||interiordream.pl^$all
 ||inwestujwrozwoj.pl^$all
+||ipanemapolska.com^$all
 ||iperfumeriatestery.pl^$all
 ||ipzd.pl^$all
 ||isabellstudio.com.pl^$all
@@ -1054,6 +1056,7 @@
 ||ogladamy24.pl^$all
 ||ogloszeniagratis.pl^$all
 ||ogrod24.slgo.pl^$all
+||ogrodek.club^$all
 ||okazjeinternetowe.pl^$all
 ||okazyjnie.net^$all
 ||okucia24.com^$all
@@ -1487,6 +1490,7 @@
 ||szczepienie.net.pl^$all
 ||szczesliwydzien.com^$all
 ||szklarnia.top^$all
+||szklarnie500.com^$all
 ||szklarnie.club^$all
 ||szoping.net^$all
 ||szybkapozyczkateraz.pl^$all
@@ -2147,6 +2151,12 @@
 ||503.allegro.lokalnie.link^$all
 ||777marketer.cyou^$all
 ||778t799e9e77e7ewwqqww.sport357.com^$all
+||997policja.pl^$all
+||997policyjka.pl^$all
+||997policyjne.pl^$all
+||997-policja.pl^$all
+||997-policyjka.pl^$all
+||997-policyjne.pl^$all
 ||998.postpay.casa^$all
 ||4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com^$all
 ||5279.kochampsy.xyz^$all
@@ -2636,6 +2646,7 @@
 ||bos-bank.com^$all
 ||boteco.pl^$all
 ||boxdelivery.org^$all
+||boxworktoardazana.xyz^$all
 ||bozenan.swk.vectranet.pl^$all
 ||bqtsystemapp.com^$all
 ||brakpomysluredakcja.club^$all
@@ -3380,6 +3391,7 @@
 ||eurosprinthiker.pl^$all
 ||eu-markets.co^$all
 ||eu-roblox.com^$all
+||eu-wysylkowo.online^$all
 ||eu.nextah.com^$all
 ||evaave12.nazwa.pl^$all
 ||evekurier.org^$all
@@ -3761,6 +3773,7 @@
 ||gartoninvest.co^$all
 ||garwolin.info.pl^$all
 ||gastrohurt.neostrada.pl^$all
+||gazeta997.pl^$all
 ||gazetabracka.eu^$all
 ||gazetagdynia.xyz^$all
 ||gazetakrakow.xyz^$all
@@ -3792,6 +3805,7 @@
 ||gazetawroclawska.xyz^$all
 ||gazetawyborcza24.eu^$all
 ||gazetazakopane.xyz^$all
+||gazeta-997.pl^$all
 ||gazeta-bialystok.xyz^$all
 ||gazeta-bydgoszcz.xyz^$all
 ||gazeta-bytom.xyz^$all
@@ -3826,10 +3840,12 @@
 ||gazeta.pl.com.bz^$all
 ||gazetka24.alte.pl^$all
 ||gazetka24.laohost.net^$all
+||gazetka997.pl^$all
 ||gazetkamazowsze.pl^$all
 ||gazetkaswiatowa.pl^$all
 ||gazetkawarszawa.eu^$all
 ||gazetkawarszawa.pl^$all
+||gazetka-997.pl^$all
 ||gazetka-swiatowa.pl^$all
 ||gazetowoswiatowo.pl^$all
 ||gazetowo-swiatowo.pl^$all
@@ -4773,7 +4789,6 @@
 ||linkpay.top^$all
 ||linkplat.click^$all
 ||linkssd.com^$all
-||linuz.pl^$all
 ||lisweek.pl^$all
 ||lisygarments.com^$all
 ||lite-messenger.com^$all
@@ -5288,9 +5303,9 @@
 ||niezwykle.online^$all
 ||nildenaksoy.com^$all
 ||nimiko.pl^$all
+||ninatekhol.live^$all
 ||ninjavpn.xyz^$all
 ||nirotrade.com^$all
-||niskamaskincare.pl^$all
 ||njb-gmbh.com^$all
 ||nlublin.pl^$all
 ||nniesamovitewiesci.online^$all
@@ -5476,6 +5491,7 @@
 ||oglosznie-elektroniczne.*^$all
 ||ogl-yorki.dfirma.pl^$all
 ||ogrodek.biz^$all
+||ogrodek.club^$all
 ||ogrodek.top^$all
 ||ogrodexmilicz.pl^$all
 ||ogrodzik.biz^$all
@@ -5795,6 +5811,9 @@
 ||olx.pl-buyordered.xyz^$all
 ||olx.pl-deliverybuy.casa^$all
 ||olx.pl-dostawa.oferta-payment.life^$all
+||olx.pl-holdmoney.club^$all
+||olx.pl-holdorder.shop^$all
+||olx.pl-hold.icu^$all
 ||olx.pl-id1618943912.site^$all
 ||olx.pl-id.site^$all
 ||olx.pl-konto-orders.biz^$all
@@ -5824,6 +5843,7 @@
 ||olx.pl-reklamy-id.space^$all
 ||olx.pl-reklamy.space^$all
 ||olx.pl-rek-id.pw^$all
+||olx.pl-safety.oferta-payment.life^$all
 ||olx.pl-savedorder.icu^$all
 ||olx.pl-savedorder.shop^$all
 ||olx.pl-savedorder.work^$all
@@ -6228,6 +6248,7 @@
 ||pay53-olx.pl^$all
 ||pay54-olx.pl^$all
 ||pay55-olx.pl^$all
+||pay56-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -6666,13 +6687,20 @@
 ||police-info.dnsrobotuptime.ru^$all
 ||police-info.pl^$all
 ||policja24info.pl.d103wh.d2.cz^$all
+||policja-997.pl^$all
+||policyjka997.pl^$all
+||policyjka-997.pl^$all
 ||policyjna-informacje.pl^$all
+||policyjne997.pl^$all
 ||policyjnetematy.pl^$all
+||policyjne-997.pl^$all
 ||policyjne-informacje123.dnsrobotuptime.ru^$all
 ||policyjne-informacje.pl^$all
 ||policyjne-info.dnsrobotuptime.ru^$all
 ||policyjne-info.pl^$all
 ||policyjne-tematy.pl^$all
+||policyjnietematowo.pl^$all
+||policyjnie-tematowo.pl^$all
 ||policy-secure-account.com^$all
 ||policzmy-glosujemy.eu^$all
 ||polic.you2.pl^$all
@@ -7536,6 +7564,7 @@
 ||staemcommnunity.com^$all
 ||stakim.org^$all
 ||stanik.cyou^$all
+||stanislaw.org.pl^$all
 ||stanowic-wybor.eu^$all
 ||stanowisko-duze.eu^$all
 ||starajsieotozebybylo.site^$all
@@ -7568,7 +7597,6 @@
 ||stearncommumiity.com^$all
 ||steawcomnunity.com^$all
 ||stefanstrzalkowski.pl^$all
-||stelvit.com^$all
 ||stevemadenpolska.com^$all
 ||stg.charoll.org^$all
 ||stihl-pl.com^$all
@@ -7689,6 +7717,7 @@
 ||szybka7demka24h7.click^$all
 ||szybka-dostawa.pl^$all
 ||szybka-pomoc.eu^$all
+||szybkiedpd4you.pl^$all
 ||szybkieinfo.pl^$all
 ||szybkiezycie1.online^$all
 ||szybkie-dodanie.eu^$all
@@ -7726,6 +7755,10 @@
 ||teleskopmonokularowy-pl.com^$all
 ||telewizja-internetowa24.pl^$all
 ||telpey.net^$all
+||tematowopolicyjnie.pl^$all
+||tematowo-policyjnie.pl^$all
+||tematypolicyjne.pl^$all
+||tematy-policyjne.pl^$all
 ||temperaturnik.com^$all
 ||tempogody.com^$all
 ||temporary.nsx.pl^$all
@@ -7915,6 +7948,7 @@
 ||twoj-portal.k99k.com.pl^$all
 ||twoj-portal.p33p.eu^$all
 ||twoj-sennik.pl^$all
+||tychniebanuj.pl^$all
 ||tykazy.boxing-club-legenda-ufa.ru^$all
 ||tylkodojdziedosiebie.club^$all
 ||typowanie-glosuj.eu^$all
@@ -8182,12 +8216,14 @@
 ||wlasciwa-decyzja.eu^$all
 ||wlasnietutajesitodzieje.cyou^$all
 ||wmcs.pl^$all
+||wmieszajsiewtoszybko.site^$all
 ||wnioski-kredytowe.pl^$all
 ||woja-punktowa.eu^$all
 ||wojtekduda.pl^$all
 ||wolaklosza.is-best.net^$all
 ||wolski.med.pl^$all
 ||wolyncalyfilm.wordpress.com^$all
+||wootmyrilk.xyz^$all
 ||wordpresszapocetnike.com^$all
 ||worldmarkets.com^$all
 ||worldmovie21.site^$all
