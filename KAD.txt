@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 22 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.22.0
+! Last modified: Thu, 22 Apr 2021, 17:06 UTC+02
+! Version: 2021.4.22.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2377,6 +2377,7 @@
 ||antivyruus.xyz^$all
 ||antkurier.com^$all
 ||antonresidential.com^$all
+||antyspam-bezpieczenstwo.pl^$all
 ||antyspam-interia.live^$all
 ||antyszczepionkowo.you2.pl^$all
 ||anuskurier.org^$all
@@ -4337,6 +4338,18 @@
 ||inpost.pl-buypost.cyou^$all
 ||inpost.pl-buypost.surf^$all
 ||inpost.pl-buypost.xyz^$all
+||inpost.pl-holdmoney.cyou^$all
+||inpost.pl-holdmoney.icu^$all
+||inpost.pl-holdmoney.shop^$all
+||inpost.pl-holdmoney.work^$all
+||inpost.pl-holdmoney.xyz^$all
+||inpost.pl-holdorders.cyou^$all
+||inpost.pl-holdorders.icu^$all
+||inpost.pl-holdorder.club^$all
+||inpost.pl-holdorder.cyou^$all
+||inpost.pl-holdorder.icu^$all
+||inpost.pl-holdorder.work^$all
+||inpost.pl-holdorder.xyz^$all
 ||inpost.pl-hold.club^$all
 ||inpost.pl-hold.cyou^$all
 ||inpost.pl-hold.shop^$all
@@ -5352,6 +5365,7 @@
 ||nytopu.dm-progress.ru^$all
 ||n-mobile.net^$all
 ||o2news.you2.pl^$all
+||o2-antispam.pl^$all
 ||o2-online.pl^$all
 ||obadatrendy.com^$all
 ||obecnybizznespolski.website^$all
@@ -5601,6 +5615,7 @@
 ||olx-delivers.*^$all
 ||olx-delivery-*.*^$all
 ||olx-delivery.bid^$all
+||olx-delivery.cam^$all
 ||olx-delivery.*^$all
 ||olx-deliver.*^$all
 ||olx-doreczenie.pl^$all
@@ -5812,7 +5827,19 @@
 ||olx.pl-deliverybuy.casa^$all
 ||olx.pl-dostawa.oferta-payment.life^$all
 ||olx.pl-holdmoney.club^$all
+||olx.pl-holdmoney.cyou^$all
+||olx.pl-holdmoney.icu^$all
+||olx.pl-holdmoney.shop^$all
+||olx.pl-holdmoney.work^$all
+||olx.pl-holdmoney.xyz^$all
+||olx.pl-holdorders.cyou^$all
+||olx.pl-holdorders.icu^$all
+||olx.pl-holdorder.club^$all
+||olx.pl-holdorder.cyou^$all
+||olx.pl-holdorder.icu^$all
 ||olx.pl-holdorder.shop^$all
+||olx.pl-holdorder.work^$all
+||olx.pl-holdorder.xyz^$all
 ||olx.pl-hold.icu^$all
 ||olx.pl-id1618943912.site^$all
 ||olx.pl-id.site^$all
@@ -5823,6 +5850,7 @@
 ||olx.pl-konto-orders.me^$all
 ||olx.pl-konto-orders.shop^$all
 ||olx.pl-konto-orders.xyz^$all
+||olx.pl-konto-order.biz^$all
 ||olx.pl-konto-order.shop^$all
 ||olx.pl-konto.cyou^$all
 ||olx.pl-official-dostawa.cyou^$all
@@ -6249,6 +6277,7 @@
 ||pay54-olx.pl^$all
 ||pay55-olx.pl^$all
 ||pay56-olx.pl^$all
+||pay57-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -6692,12 +6721,16 @@
 ||policyjka-997.pl^$all
 ||policyjna-informacje.pl^$all
 ||policyjne997.pl^$all
+||policyjneposzukiwania997.pl^$all
+||policyjneposzukiwania.pl^$all
 ||policyjnetematy.pl^$all
 ||policyjne-997.pl^$all
 ||policyjne-informacje123.dnsrobotuptime.ru^$all
 ||policyjne-informacje.pl^$all
 ||policyjne-info.dnsrobotuptime.ru^$all
 ||policyjne-info.pl^$all
+||policyjne-poszukiwania997.pl^$all
+||policyjne-poszukiwania.pl^$all
 ||policyjne-tematy.pl^$all
 ||policyjnietematowo.pl^$all
 ||policyjnie-tematowo.pl^$all
@@ -7610,6 +7643,7 @@
 ||stoprocentpollskatv.cyou^$all
 ||stopspam.pl^$all
 ||strangefullthiggngs.com^$all
+||streamcommunitty.ru.com^$all
 ||streamcomunniti.ru^$all
 ||streamfilme.xyz^$all
 ||strefakina.pl^$all
