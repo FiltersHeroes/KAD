@@ -1,6 +1,9 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
+||pl.centrumoferty.com^$all
+||pl.centrumoferty24.com^$all
+||metoda-poliglotow.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -4599,7 +4602,7 @@
 ||pl.bitcoin*.t*track*.com^$all
 ||pl.btcprofit.cyou^$all
 ||pl.cash-pays.live^$all
-||pl.centrumoferty.com^$all
+
 ||pl.dlawasteraz*.*^$all
 ||pl.get-money.live^$all
 ||pl.g-pay.me^$all
