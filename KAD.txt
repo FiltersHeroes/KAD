@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 23 Apr 2021, 17:04 UTC+02
-! Version: 2021.4.23.1
+! Last modified: Fri, 23 Apr 2021, 21:04 UTC+02
+! Version: 2021.4.23.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -462,6 +462,7 @@
 ||extragenerators.xyz^$all
 ||exw-wallet.com^$all
 ||e-cda.pl^$all
+||e-smartly.com^$all
 ||f4u.pl^$all
 ||fabryka-nagrod.com^$all
 ||facedesign.pl^$all
@@ -1425,6 +1426,7 @@
 ||sp2mzc.pl^$all
 ||spamtitan.pl^$all
 ||sparkleis.com^$all
+||spark-agd.pl^$all
 ||spdobropole.pl^$all
 ||speedcrossbuty.com^$all
 ||speedyshare.com^$all
@@ -1793,6 +1795,7 @@
 ||beyourbest.pl^$all
 ||bigdater.me^$all
 ||bigprize-place.info^$all
+||bitcoinera.pl^$all
 ||bitgamez.com^$all
 ||bmscooperation.com^$document
 ||bnmjjwinf292.com^$all
@@ -1809,10 +1812,12 @@
 ||clic-douaisis.fr^$all
 ||clip.today^$all
 ||coma.com.pl/userfiles/*.xml$document
+||cryptominded.com^$all
 ||cr-toptom.com^$all
 ||d8x.pl^$all
 ||decynsire.com^$all
 ||developfirstline.com^$all
+||easy-to-read.eu^$all
 ||eeu.pl^$all
 ||elinladpati.tk^$all
 ||eworldtrack.com^$all
@@ -1826,6 +1831,8 @@
 ||findprofile.net.pl^$all
 ||firecpa.com^$all
 ||flixsport.co^$all
+||forexopinia.pl^$all
+||forex-opinie.pl^$all
 ||forfiddstonasac.tk^$all
 ||fres-news.com^$all
 ||g2afse.com^$all
@@ -1847,6 +1854,7 @@
 ||heckcallohertons.info^$all
 ||hemesyqydy.space^$all
 ||hybriddistribution.dk^$all
+||indexuniverse.eu^$all
 ||interia-24-pl.livejournal.com^$all
 ||interia-info.livejournal.com^$all
 ||iphone-za-darmo.over-blog.com^$all
@@ -1895,6 +1903,7 @@
 ||pay.onebip.com^$all
 ||pliki.pw^$all
 ||pobieralnia.com.pl^$all
+||polski-blog-medyczny.pl^$all
 ||poprof.com^$all
 ||prz.fi^$all
 ||prz.tw^$all
@@ -1905,6 +1914,7 @@
 ||rescatecili.ml^$all
 ||rfv.pl^$all
 ||riestudanfreebcotee.tk^$all
+||risecrypto.net^$all
 ||rocleotolonva.tk^$all
 ||rossmannpromocja.pl^$all
 ||r.xyz1.pl^$all
@@ -1914,6 +1924,7 @@
 ||sepa-wissen.de^$all
 ||skroc-link.ga^$all
 ||sm4ll.in^$all
+||specficnz.org^$all
 ||ssl.mmtgo.me^$all
 ||super-1.vip^$all
 ||syndication.exdynsrv.com^$all
@@ -1927,6 +1938,7 @@
 ||traffic-c.com^$all
 ||triumphantplace.com^$all
 ||trkplus.info^$all
+||trusted-invest.com^$all
 ||twojenewsy24pl.livejournal.com^$all
 ||universal-mobileapp-inventory.net^$all
 ||uvy3.pl^$all
@@ -1943,6 +1955,7 @@
 ||yarlnk.com^$all
 ||your-online-profits.life^$all
 ||yyn.us^$all
+||zetreview.com^$all
 !
 ! Szybko wygaszające
 ||4ur.click^$all
@@ -2584,15 +2597,18 @@
 ||bireysele-basvurum-destek-kampanyalar.tk^$all
 ||bitbayinvest.net^$all
 ||bitbay-net.com^$all
+||bitclohiwnenra.info^$all
 ||bitcoeraappl.com^$all
 ||bitcoinchampion.io^$all
 ||bitcoinchampion.site^$all
 ||bitcoincodesverigerecension.com^$all
+||bitcoinerainfo.com^$all
 ||bitcoineranew.com^$all
 ||bitcoinerapro.com^$all
 ||bitcoinera-system.co^$all
 ||bitcoinera.app^$all
 ||bitcoinera.io^$all
+||bitcoinera.site^$all
 ||bitcoinevolutiondeutscherfahrungen.com^$all
 ||bitcoingemini.club^$all
 ||bitcoinig.com^$all
@@ -2601,9 +2617,11 @@
 ||bitcoinprofitpro.com^$all
 ||bitcoinrevolutiontheprojectreview.com^$all
 ||bitcoinrevolutionunitedkingdomreview.com^$all
+||bitcoinrevolution.ai^$all
 ||bitcoinrevolution.org^$all
 ||bitcoinset.pl^$all
 ||bitcoinsunrise.com^$all
+||bitcoins-era.io^$all
 ||bitcoins-profit.com^$all
 ||bitcointime.biz^$all
 ||bitcointime.xyz^$all
@@ -2615,6 +2633,7 @@
 ||bitcoin-era.pro^$all
 ||bitcoin-loophole.io^$all
 ||bitcoin-profit.org^$all
+||bitcoin-revolution.org^$all
 ||bitcoin-storm.com^$all
 ||bitcoin-trader-app.com^$all
 ||bitgenises.com^$all
@@ -2822,6 +2841,7 @@
 ||chicharito14.c0.pl^$all
 ||childalertfakt.*^$all
 ||childinfo.eu^$all
+||chloepolska.pl^$all
 ||chodzcieututajwszyscy.cyou^$all
 ||chodzcieututajwszyscy.xyz^$all
 ||chodzimiiotoze.site^$all
@@ -2915,6 +2935,7 @@
 ||cp45362.tmweb.ru^$all
 ||cpagrip.com^$all
 ||cqsdjxf.com^$all
+||crafton.store^$all
 ||crazygarden.pl^$all
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
@@ -3060,6 +3081,7 @@
 ||deepikarai.com^$all
 ||definicjabiznesu.online^$all
 ||deklaracjjabiznes24.club^$all
+||dekoratos.pl^$all
 ||delfin.cyou^$all
 ||delibrium.pl^$all
 ||deliverry-safe.biz^$all
@@ -3343,9 +3365,11 @@
 ||ec2-18-133-158-255.eu-west-2.compute.amazonaws.com^$all
 ||ecampuskbds.com^$all
 ||eccooutletbuty.pl^$all
+||eccowyprzedazoutlet.com^$all
 ||ecco-pl.com^$all
 ||eclass47.duckdns.org^$all
 ||ecoblast.pl^$all
+||ecomobilni.pl^$all
 ||edland.pro^$all
 ||edotpay.pl^$all
 ||edziennik.xyz^$all
@@ -3423,6 +3447,7 @@
 ||ewiadomosci2021.waw.pl^$all
 ||ewiadomosci.eu^$all
 ||ewiadomosc.online^$all
+||ewieszaczek.pl^$all
 ||ewills.access.ly^$all
 ||ewymiana.com.pl^$all
 ||excentral-int.com^$all
@@ -4051,6 +4076,7 @@
 ||hitprodukt.pl^$all
 ||hlestersmith.com^$all
 ||hodowlafanaberia.pl^$all
+||hokaoneonespeedgoat.pl^$all
 ||hokasklep.com^$all
 ||holylamaoffers.com^$all
 ||homearena.pl^$all
@@ -4099,6 +4125,7 @@
 ||hugetradingincome.com^$all
 ||hugobosspl.pl^$all
 ||hungpol.pl^$all
+||huntercena.com^$all
 ||hurreu.store^$all
 ||hydzpme.com^$all
 ||hypertechz.com^$all
@@ -4221,6 +4248,7 @@
 ||informacje.life^$all
 ||informacje.radom.pl^$all
 ||informacje.work^$all
+||informacyjnie.radom.pl^$all
 ||informacyjny-punkt.eu^$all
 ||informator24.eu^$all
 ||informator-reg.pl^$all
@@ -4498,6 +4526,7 @@
 ||in-pro.xyz^$all
 ||iokalnie-sklep-eiektroniczny.in.net^$all
 ||ionetporwanie.*^$all
+||ipanemapolska.com^$all
 ||ipko-securpl.com^$all
 ||ipko.club^$all
 ||ipko.space^$all
@@ -4802,6 +4831,7 @@
 ||la-novia.pl^$all
 ||ld-netflix.com^$all
 ||leaderstandard.com^$all
+||leadingchannls.com^$all
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
 ||learn-to-observe.co.pl^$all
@@ -5055,9 +5085,11 @@
 ||merch-pays.ru^$all
 ||mercuryo.co.com^$all
 ||mergedocsnow.com^$all
+||merrellsklepolska.com^$all
 ||mesohair.pl^$all
 ||messenger-lite.com^$all
 ||metaltechnics.pl^$all
+||metoda-poliglotow.com^$all
 ||me-olx.com^$all
 ||mgzhgs.com^$all
 ||mianowac-zwyciezcow.eu^$all
@@ -5402,6 +5434,7 @@
 ||nowaformullabizznesu24.space^$all
 ||nowapolskaa.cyou^$all
 ||nowapolskaa.xyz^$all
+||nowa-przyszlosc.com.pl^$all
 ||noweciezarowe.pl^$all
 ||noweinformacje.icu^$all
 ||nowemysliobizznseise24.website^$all
@@ -6659,6 +6692,7 @@
 ||pl.bitcoin*.t*track*.com^$all
 ||pl.btcprofit.cyou^$all
 ||pl.cash-pays.live^$all
+||pl.centrumoferty24.com^$all
 ||pl.centrumoferty.com^$all
 ||pl.dlawasteraz*.*^$all
 ||pl.get-money.live^$all
@@ -7055,6 +7089,7 @@
 ||presidioinvestmentsltd.com^$all
 ||prevski.com^$all
 ||prezent-kumplowi.eu^$all
+||primebit.com^$all
 ||primecanadaccount.ca^$all
 ||primodiagnosis.pl^$all
 ||priorytetovvo.com^$all
@@ -7445,6 +7480,7 @@
 ||server517854.nazwa.pl^$all
 ||server522523.nazwa.pl^$all
 ||server544553.nazwa.pl^$all
+||server589251.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
 ||server634288.nazwa.pl^$all
 ||server655635.nazwa.pl^$all
@@ -7867,6 +7903,7 @@
 ||tarocardsfornoobs.top^$all
 ||taylorspub.com^$all
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
+||teacross-edtechs.xyz^$all
 ||techiwant.com^$all
 ||teenagerchimney.com^$all
 ||tegojeszczeniepowiedziallam.website^$all
@@ -7909,8 +7946,10 @@
 ||thepacifica-group.com^$all
 ||thereimbursement.us^$all
 ||thermocook.pl^$all
+||the-bitcoinrevolution.com^$all
 ||the-bitcoins-code.com^$all
 ||the-bitcoins-evolution.net^$all
+||the-bitcoin-era-pro.com^$all
 ||the-bitcoin-profit.com^$all
 ||the-butik.com^$all
 ||the-newse.com^$all
@@ -7952,6 +7991,7 @@
 ||toniemusibycsen.club^$all
 ||topgryusluga.5p.pl^$all
 ||topnotchtradefx.com^$all
+||topogeo.pl^$all
 ||topparcelservices.com^$all
 ||toptarotist.nl^$all
 ||top-daily-profit.com^$all
@@ -8446,6 +8486,7 @@
 ||wyciekizdjec24.pl^$all
 ||wyczyn-pobijamy.eu^$all
 ||wydajesienam.cyou^$all
+||wydaniefaktypofaktach.xyz^$all
 ||wydaniewiiadomossc24.website^$all
 ||wydarzenia24.eu^$all
 ||wydarzenia24.you2.pl^$all
