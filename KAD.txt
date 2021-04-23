@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 23 Apr 2021, 13:05 UTC+02
-! Version: 2021.4.23.0
+! Last modified: Fri, 23 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.23.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2152,6 +2152,7 @@
 ||503.allegro.lokalnie.link^$all
 ||777marketer.cyou^$all
 ||778t799e9e77e7ewwqqww.sport357.com^$all
+||817.allegro.oferdeals.link^$all
 ||997policja.pl^$all
 ||997policyjka.pl^$all
 ||997policyjne.pl^$all
@@ -2376,6 +2377,7 @@
 ||aniventure.co.uk^$all
 ||annitakurier.org^$all
 ||antares.trade^$all
+||antispam-pro.us^$all
 ||antivyruus.xyz^$all
 ||antkurier.com^$all
 ||antonresidential.com^$all
@@ -2629,6 +2631,7 @@
 ||biznesinpro.pl^$all
 ||biznesoweinfo.media.pl^$all
 ||biznesoweinfo.miasta.pl^$all
+||biznesplanet.bnpparlba.com^$all
 ||blablacarpl.paydinfo.online^$all
 ||blablacar-pay.cc^$all
 ||blablacar.media^$all
@@ -3702,6 +3705,7 @@
 ||flash-player-update.digital^$all
 ||flash-update.digital^$all
 ||flirthits.com^$all
+||flowsrectifie.at^$all
 ||fm-device.eu^$all
 ||fnatic-lol.club^$all
 ||focus24.gpe.pl^$all
@@ -4267,6 +4271,7 @@
 ||iniciuj-pomoc.eu^$all
 ||inipost.net^$all
 ||inipoy.net^$all
+||inlink.casa^$all
 ||innovacja.pl^$all
 ||innowacyjneprzedszkole.pl^$all
 ||innsat.pl^$all
@@ -4360,6 +4365,9 @@
 ||inpost.pl-buypost.cyou^$all
 ||inpost.pl-buypost.surf^$all
 ||inpost.pl-buypost.xyz^$all
+||inpost.pl-holding.shop^$all
+||inpost.pl-holding.work^$all
+||inpost.pl-holding.xyz^$all
 ||inpost.pl-holdmoney.cyou^$all
 ||inpost.pl-holdmoney.icu^$all
 ||inpost.pl-holdmoney.shop^$all
@@ -4374,11 +4382,21 @@
 ||inpost.pl-holdorder.icu^$all
 ||inpost.pl-holdorder.work^$all
 ||inpost.pl-holdorder.xyz^$all
+||inpost.pl-holds.shop^$all
 ||inpost.pl-hold.club^$all
 ||inpost.pl-hold.cyou^$all
 ||inpost.pl-hold.shop^$all
 ||inpost.pl-hold.work^$all
 ||inpost.pl-hold.xyz^$all
+||inpost.pl-kontos-oferta.casa^$all
+||inpost.pl-kontos-oferta.club^$all
+||inpost.pl-kontos-oferta.cyou^$all
+||inpost.pl-kontos-oferta.run^$all
+||inpost.pl-kontos-oferta.shop^$all
+||inpost.pl-kontos-oferta.surf^$all
+||inpost.pl-kontos-oferta.vision^$all
+||inpost.pl-kontos-oferta.work^$all
+||inpost.pl-kontos-oferta.xyz^$all
 ||inpost.pl-konto-order.biz^$all
 ||inpost.pl-official-dostawa.casa^$all
 ||inpost.pl-official-dostawa.store^$all
@@ -5864,6 +5882,7 @@
 ||olx.pl-holding.club^$all
 ||olx.pl-holding.cyou^$all
 ||olx.pl-holding.icu^$all
+||olx.pl-holding.shop^$all
 ||olx.pl-holding.work^$all
 ||olx.pl-holdmoney.club^$all
 ||olx.pl-holdmoney.cyou^$all
@@ -5950,6 +5969,7 @@
 ||olx.pl-solds.icu^$all
 ||olx.pl-*.*^$document
 ||olx.pl.dostawa.oferta-payment.bid^$all
+||olx.pl.item-rec.site^$all
 ||olx.pl.merchants-pay.pw^$all
 ||olx.pl.oferta-payment.life^$all
 ||olx.pl.pay-mercnant.pw^$all
@@ -6329,6 +6349,9 @@
 ||pay55-olx.pl^$all
 ||pay56-olx.pl^$all
 ||pay57-olx.pl^$all
+||pay58-olx.pl^$all
+||pay59-olx.pl^$all
+||pay60-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -7147,6 +7170,7 @@
 ||pycie.com^$all
 ||pyhqjc.com^$all
 ||pzutrasyzdrowia.pl^$all
+||qolx.pl^$all
 ||qqqqttt.weebly.com^$all
 ||quartexindustries.com^$all
 ||qubble.com^$all
@@ -7335,6 +7359,7 @@
 ||santanber.pl^$all
 ||santander24bank.online^$all
 ||santander24.online^$all
+||santanderbank.co.uk-authorization.support^$all
 ||santanderinvest.com^$all
 ||santandertransfer.ru^$all
 ||santander-accountpayments.com^$all
@@ -7345,6 +7370,7 @@
 ||santander-paymentsservice.com^$all
 ||santander.live^$all
 ||santander.muniesbowls.co.za^$all
+||santander.ukonline-prevent.com^$all
 ||sapapartamenty.pl^$all
 ||sasiedzkagazeta.eu^$all
 ||sasiedzkagazeta.pl^$all
