@@ -1,33 +1,6 @@
-||leadingchannls.com^$all
-||bitcoinrevolution.ai^$all
-||bitcoin-revolution.org^$all
-||the-bitcoinrevolution.com^$all
-||bitclohiwnenra.info^$all
-||bitcoins-era.io^$all
-||the-bitcoin-era-pro.com^$all
-||bitcoinera.site^$all
-||bitcoinerainfo.com^$all
-||primebit.com^$all
-
-||chloepolska.pl^$all
-||crafton.store^$all
-||dekoratos.pl^$all
-||eccowyprzedazoutlet.com^$all
-||ecomobilni.pl^$all
-||ewieszaczek.pl^$all
-||hokaoneonespeedgoat.pl^$all
-||huntercena.com^$all
-||ipanemapolska.com^$all
-||merrellsklepolska.com^$all
-||nowa-przyszlosc.com.pl^$all
-||topogeo.pl^$all
-
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||pl.centrumoferty.com^$all
-||pl.centrumoferty24.com^$all
-||metoda-poliglotow.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -551,15 +524,18 @@
 ||bireysele-basvurum-destek-kampanyalar.tk^$all
 ||bitbayinvest.net^$all
 ||bitbay-net.com^$all
+||bitclohiwnenra.info^$all
 ||bitcoeraappl.com^$all
 ||bitcoinchampion.io^$all
 ||bitcoinchampion.site^$all
 ||bitcoincodesverigerecension.com^$all
+||bitcoinerainfo.com^$all
 ||bitcoineranew.com^$all
 ||bitcoinerapro.com^$all
 ||bitcoinera-system.co^$all
 ||bitcoinera.app^$all
 ||bitcoinera.io^$all
+||bitcoinera.site^$all
 ||bitcoinevolutiondeutscherfahrungen.com^$all
 ||bitcoingemini.club^$all
 ||bitcoinig.com^$all
@@ -568,9 +544,11 @@
 ||bitcoinprofitpro.com^$all
 ||bitcoinrevolutiontheprojectreview.com^$all
 ||bitcoinrevolutionunitedkingdomreview.com^$all
+||bitcoinrevolution.ai^$all
 ||bitcoinrevolution.org^$all
 ||bitcoinset.pl^$all
 ||bitcoinsunrise.com^$all
+||bitcoins-era.io^$all
 ||bitcoins-profit.com^$all
 ||bitcointime.biz^$all
 ||bitcointime.xyz^$all
@@ -582,6 +560,7 @@
 ||bitcoin-era.pro^$all
 ||bitcoin-loophole.io^$all
 ||bitcoin-profit.org^$all
+||bitcoin-revolution.org^$all
 ||bitcoin-storm.com^$all
 ||bitcoin-trader-app.com^$all
 ||bitgenises.com^$all
@@ -789,6 +768,7 @@
 ||chicharito14.c0.pl^$all
 ||childalertfakt.*^$all
 ||childinfo.eu^$all
+||chloepolska.pl^$all
 ||chodzcieututajwszyscy.cyou^$all
 ||chodzcieututajwszyscy.xyz^$all
 ||chodzimiiotoze.site^$all
@@ -882,6 +862,7 @@
 ||cp45362.tmweb.ru^$all
 ||cpagrip.com^$all
 ||cqsdjxf.com^$all
+||crafton.store^$all
 ||crazygarden.pl^$all
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
@@ -1027,6 +1008,7 @@
 ||deepikarai.com^$all
 ||definicjabiznesu.online^$all
 ||deklaracjjabiznes24.club^$all
+||dekoratos.pl^$all
 ||delfin.cyou^$all
 ||delibrium.pl^$all
 ||deliverry-safe.biz^$all
@@ -1310,9 +1292,11 @@
 ||ec2-18-133-158-255.eu-west-2.compute.amazonaws.com^$all
 ||ecampuskbds.com^$all
 ||eccooutletbuty.pl^$all
+||eccowyprzedazoutlet.com^$all
 ||ecco-pl.com^$all
 ||eclass47.duckdns.org^$all
 ||ecoblast.pl^$all
+||ecomobilni.pl^$all
 ||edland.pro^$all
 ||edotpay.pl^$all
 ||edziennik.xyz^$all
@@ -1390,6 +1374,7 @@
 ||ewiadomosci2021.waw.pl^$all
 ||ewiadomosci.eu^$all
 ||ewiadomosc.online^$all
+||ewieszaczek.pl^$all
 ||ewills.access.ly^$all
 ||ewymiana.com.pl^$all
 ||excentral-int.com^$all
@@ -2018,6 +2003,7 @@
 ||hitprodukt.pl^$all
 ||hlestersmith.com^$all
 ||hodowlafanaberia.pl^$all
+||hokaoneonespeedgoat.pl^$all
 ||hokasklep.com^$all
 ||holylamaoffers.com^$all
 ||homearena.pl^$all
@@ -2066,6 +2052,7 @@
 ||hugetradingincome.com^$all
 ||hugobosspl.pl^$all
 ||hungpol.pl^$all
+||huntercena.com^$all
 ||hurreu.store^$all
 ||hydzpme.com^$all
 ||hypertechz.com^$all
@@ -2188,6 +2175,7 @@
 ||informacje.life^$all
 ||informacje.radom.pl^$all
 ||informacje.work^$all
+||informacyjnie.radom.pl^$all
 ||informacyjny-punkt.eu^$all
 ||informator24.eu^$all
 ||informator-reg.pl^$all
@@ -2465,6 +2453,7 @@
 ||in-pro.xyz^$all
 ||iokalnie-sklep-eiektroniczny.in.net^$all
 ||ionetporwanie.*^$all
+||ipanemapolska.com^$all
 ||ipko-securpl.com^$all
 ||ipko.club^$all
 ||ipko.space^$all
@@ -2769,6 +2758,7 @@
 ||la-novia.pl^$all
 ||ld-netflix.com^$all
 ||leaderstandard.com^$all
+||leadingchannls.com^$all
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
 ||learn-to-observe.co.pl^$all
@@ -3022,9 +3012,11 @@
 ||merch-pays.ru^$all
 ||mercuryo.co.com^$all
 ||mergedocsnow.com^$all
+||merrellsklepolska.com^$all
 ||mesohair.pl^$all
 ||messenger-lite.com^$all
 ||metaltechnics.pl^$all
+||metoda-poliglotow.com^$all
 ||me-olx.com^$all
 ||mgzhgs.com^$all
 ||mianowac-zwyciezcow.eu^$all
@@ -3369,6 +3361,7 @@
 ||nowaformullabizznesu24.space^$all
 ||nowapolskaa.cyou^$all
 ||nowapolskaa.xyz^$all
+||nowa-przyszlosc.com.pl^$all
 ||noweciezarowe.pl^$all
 ||noweinformacje.icu^$all
 ||nowemysliobizznseise24.website^$all
@@ -4626,7 +4619,8 @@
 ||pl.bitcoin*.t*track*.com^$all
 ||pl.btcprofit.cyou^$all
 ||pl.cash-pays.live^$all
-
+||pl.centrumoferty24.com^$all
+||pl.centrumoferty.com^$all
 ||pl.dlawasteraz*.*^$all
 ||pl.get-money.live^$all
 ||pl.g-pay.me^$all
@@ -5022,6 +5016,7 @@
 ||presidioinvestmentsltd.com^$all
 ||prevski.com^$all
 ||prezent-kumplowi.eu^$all
+||primebit.com^$all
 ||primecanadaccount.ca^$all
 ||primodiagnosis.pl^$all
 ||priorytetovvo.com^$all
@@ -5412,6 +5407,7 @@
 ||server517854.nazwa.pl^$all
 ||server522523.nazwa.pl^$all
 ||server544553.nazwa.pl^$all
+||server589251.nazwa.pl^$all
 ||server621416.nazwa.pl^$all
 ||server634288.nazwa.pl^$all
 ||server655635.nazwa.pl^$all
@@ -5834,6 +5830,7 @@
 ||tarocardsfornoobs.top^$all
 ||taylorspub.com^$all
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
+||teacross-edtechs.xyz^$all
 ||techiwant.com^$all
 ||teenagerchimney.com^$all
 ||tegojeszczeniepowiedziallam.website^$all
@@ -5876,8 +5873,10 @@
 ||thepacifica-group.com^$all
 ||thereimbursement.us^$all
 ||thermocook.pl^$all
+||the-bitcoinrevolution.com^$all
 ||the-bitcoins-code.com^$all
 ||the-bitcoins-evolution.net^$all
+||the-bitcoin-era-pro.com^$all
 ||the-bitcoin-profit.com^$all
 ||the-butik.com^$all
 ||the-newse.com^$all
@@ -5919,6 +5918,7 @@
 ||toniemusibycsen.club^$all
 ||topgryusluga.5p.pl^$all
 ||topnotchtradefx.com^$all
+||topogeo.pl^$all
 ||topparcelservices.com^$all
 ||toptarotist.nl^$all
 ||top-daily-profit.com^$all
@@ -6413,6 +6413,7 @@
 ||wyciekizdjec24.pl^$all
 ||wyczyn-pobijamy.eu^$all
 ||wydajesienam.cyou^$all
+||wydaniefaktypofaktach.xyz^$all
 ||wydaniewiiadomossc24.website^$all
 ||wydarzenia24.eu^$all
 ||wydarzenia24.you2.pl^$all
@@ -6697,7 +6698,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||informacyjnie.radom.pl^$all
-||server589251.nazwa.pl^$all
-||teacross-edtechs.xyz^$all
-||wydaniefaktypofaktach.xyz^$all
