@@ -1,17 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||123goflix.com^$all
-||pelismov.xyz^$all
-||official-netflix.com^$all
-||movieszc.com^$all
-||4kmovies.xyz^$all
-||moviesanywhere.online^$all
-||strefa-filmow.online^$all
-||simovie.net^$all
-||higanbana.store^$all
-||eskluzywne-fotele.ovel.pl^$all
-||archfitpl.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*
@@ -54,6 +43,7 @@
 ||3w2k701z6i94wgr.choobin-co.ir^$all
 ||3-139-92-223.cprapid.com^$all
 ||4afe8b11a52839751.temporary.link^$all
+||4kmovies.xyz^$all
 ||4kplayer.pl^$all
 ||4k.123moviesfox.xyz^$all
 ||4office.pl^$all
@@ -90,6 +80,7 @@
 ||82-118-23-62.cprapid.com^$all
 ||96b4d58e213077161.temporary.link^$all
 ||100sport.tv^$all
+||123goflix.com^$all
 ||123movies.my.id^$all
 ||123plays.com^$all
 ||137-74-148-87.cprapid.com^$all
@@ -384,6 +375,7 @@
 ||aranzujemy.co.pl^$all
 ||arbeiten.pl^$all
 ||arbz.info^$all
+||archfitpl.com^$all
 ||architektkrakow.com.pl^$all
 ||arek135.pl^$all
 ||arek313.civ.pl^$all
@@ -1373,6 +1365,7 @@
 ||ermonmisdirec.xyz^$all
 ||esemeso.pl^$all
 ||eska-tv.dfirma.pl^$all
+||eskluzywne-fotele.ovel.pl^$all
 ||esneakers24.pl^$all
 ||espaylink.net^$all
 ||esterakoty.pl^$all
@@ -1991,6 +1984,7 @@
 ||harry-thompson-pl.com^$all
 ||hasproject.pl^$all
 ||hasztagpomagam.website^$all
+||hautec.live^$all
 ||hazel-projektowanie.com.pl^$all
 ||hbonicovideo.over-blog.com^$all
 ||hdmedia.pl^$all
@@ -2010,6 +2004,7 @@
 ||hexistrading.com^$all
 ||heyisitmefriend.tcp4.me^$all
 ||hgssa.browla.com^$all
+||higanbana.store^$all
 ||higder.weebly.com^$all
 ||highamnet.co.uk^$all
 ||historiaktorychmalo.space^$all
@@ -3135,8 +3130,10 @@
 ||moviemediaz.com^$all
 ||movienet.pl^$all
 ||movieprojector.pl^$all
+||moviesanywhere.online^$all
 ||moviesearchcenter.com^$all
 ||moviestarplanethackers.co^$all
+||movieszc.com^$all
 ||movipax.com^$all
 ||movipex.com^$all
 ||mowmihache.pl^$all
@@ -3504,6 +3501,7 @@
 ||offer.yb0745il6na2zh1.iran-beton.com^$all
 ||officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com^$all
 ||officexwednbbagmemzmlpepjxspud.nn.r.appspot.com^$all
+||official-netflix.com^$all
 ||offside2.000webhostapp.com^$all
 ||oficjalny-sklep.com^$all
 ||ogarniaj-ludzi.eu^$all
@@ -3925,6 +3923,7 @@
 ||olx.pl-reklamy.space^$all
 ||olx.pl-rek-id.pw^$all
 ||olx.pl-safety.oferta-payment.life^$all
+||olx.pl-safe.oferta-payment.digital^$all
 ||olx.pl-savedorder.icu^$all
 ||olx.pl-savedorder.shop^$all
 ||olx.pl-savedorder.work^$all
@@ -4389,6 +4388,7 @@
 ||pekao.icu^$all
 ||pekao.life^$all
 ||pelie.pl^$all
+||pelismov.xyz^$all
 ||pelnizycialudzie.co.pl^$all
 ||pelpey.net^$all
 ||pemberitahuanfb.weebly.com^$all
@@ -5497,6 +5497,7 @@
 ||siliconpants.top^$all
 ||silstop.pl^$all
 ||simopy.comfort-plate.ru^$all
+||simovie.net^$all
 ||siodemka24h7.click^$all
 ||siodemkawysyl24h.info^$all
 ||sitegiant.info^$all
@@ -5719,6 +5720,7 @@
 ||strefamlodych.pl^$all
 ||strefamycia.com.pl^$all
 ||strefavod.online^$all
+||strefa-filmow.online^$all
 ||strefa-medycyny-naturalnej.com^$all
 ||strefa-vod.pl^$all
 ||strikteobizznesie24.cyou^$all
@@ -6726,5 +6728,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||hautec.live^$all
-||olx.pl-safe.oferta-payment.digital^$all
