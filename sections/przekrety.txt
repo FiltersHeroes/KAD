@@ -1,9 +1,20 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
+||123goflix.com^$all
+||pelismov.xyz^$all
+||official-netflix.com^$all
+||movieszc.com^$all
+||4kmovies.xyz^$all
+||moviesanywhere.online^$all
+||strefa-filmow.online^$all
+||simovie.net^$all
+||higanbana.store^$all
+||eskluzywne-fotele.ovel.pl^$all
+||archfitpl.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
-/^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
+/^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl)\d+\.(site|space)/$all
@@ -12,7 +23,7 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?polska(\d+)?-?poczta\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.?poczta-?polska\d+\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
+/^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{4,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup,domain=life|live
@@ -20,7 +31,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
-|http*://*/fb-login/$document,domain=~facebook.com
+|http*://*/fb-login/$document,domain=~facebook.com|~google.*
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
 ||0pen.page^$all
@@ -778,7 +789,7 @@
 ||chodzimiiotoze.site^$all
 ||chomik24.com.pl^$all
 ||chomikuj*.opx.pl^$all,domain=pl
-||chomikuj.*^$document,domain=~chomikuj.pl
+||chomikuj.*^$document,domain=~chomikuj.pl|~google.*
 ||chomlkui.pl^$all
 ||chor-moniuszko.pl^$all
 ||christen-online.at^$all
@@ -2776,7 +2787,7 @@
 ||lecimyasztymdalej.website^$all
 ||leczeniepadaczki.pl^$all
 ||leffler.pl^$all
-||legalniewsieci.*^$document,domain=~legalniewsieci.pl
+||legalniewsieci.*^$document,domain=~legalniewsieci.pl|~google.*
 ||legioncrest.com^$all
 ||legwan.cyou^$all
 ||leidwozyjarodzina.site^$all
@@ -6574,7 +6585,7 @@
 ||zalbani.is-best.net^$all
 ||zalecanie-wyborow.eu^$all
 ||zalecic-wygrywanie.eu^$all
-||zalukaj*.*^$document,domain=~zalukaj.com
+||zalukaj*.*^$document,domain=~zalukaj.com|~google.*
 ||zamknij.you2.pl^$all
 ||zamowienie761265261.pl^$all
 ||zap588693-1.plesk10.zap-webspace.com^$all
