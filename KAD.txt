@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 24 Apr 2021, 17:04 UTC+02
-! Version: 2021.4.24.1
+! Last modified: Sat, 24 Apr 2021, 21:05 UTC+02
+! Version: 2021.4.24.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2076,7 +2076,7 @@
 !||torrentos.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
-/^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
+/^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl)\d+\.(site|space)/$all
@@ -2085,7 +2085,7 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?polska(\d+)?-?poczta\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.?poczta-?polska\d+\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
+/^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{4,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup,domain=life|live
@@ -2093,7 +2093,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
-|http*://*/fb-login/$document,domain=~facebook.com
+|http*://*/fb-login/$document,domain=~facebook.com|~google.*
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
 ||0pen.page^$all
@@ -2116,6 +2116,7 @@
 ||3w2k701z6i94wgr.choobin-co.ir^$all
 ||3-139-92-223.cprapid.com^$all
 ||4afe8b11a52839751.temporary.link^$all
+||4kmovies.xyz^$all
 ||4kplayer.pl^$all
 ||4k.123moviesfox.xyz^$all
 ||4office.pl^$all
@@ -2152,6 +2153,7 @@
 ||82-118-23-62.cprapid.com^$all
 ||96b4d58e213077161.temporary.link^$all
 ||100sport.tv^$all
+||123goflix.com^$all
 ||123movies.my.id^$all
 ||123plays.com^$all
 ||137-74-148-87.cprapid.com^$all
@@ -2446,6 +2448,7 @@
 ||aranzujemy.co.pl^$all
 ||arbeiten.pl^$all
 ||arbz.info^$all
+||archfitpl.com^$all
 ||architektkrakow.com.pl^$all
 ||arek135.pl^$all
 ||arek313.civ.pl^$all
@@ -2851,7 +2854,7 @@
 ||chodzimiiotoze.site^$all
 ||chomik24.com.pl^$all
 ||chomikuj*.opx.pl^$all,domain=pl
-||chomikuj.*^$document,domain=~chomikuj.pl
+||chomikuj.*^$document,domain=~chomikuj.pl|~google.*
 ||chomlkui.pl^$all
 ||chor-moniuszko.pl^$all
 ||christen-online.at^$all
@@ -3435,6 +3438,7 @@
 ||ermonmisdirec.xyz^$all
 ||esemeso.pl^$all
 ||eska-tv.dfirma.pl^$all
+||eskluzywne-fotele.ovel.pl^$all
 ||esneakers24.pl^$all
 ||espaylink.net^$all
 ||esterakoty.pl^$all
@@ -4053,6 +4057,7 @@
 ||harry-thompson-pl.com^$all
 ||hasproject.pl^$all
 ||hasztagpomagam.website^$all
+||hautec.live^$all
 ||hazel-projektowanie.com.pl^$all
 ||hbonicovideo.over-blog.com^$all
 ||hdmedia.pl^$all
@@ -4072,6 +4077,7 @@
 ||hexistrading.com^$all
 ||heyisitmefriend.tcp4.me^$all
 ||hgssa.browla.com^$all
+||higanbana.store^$all
 ||higder.weebly.com^$all
 ||highamnet.co.uk^$all
 ||historiaktorychmalo.space^$all
@@ -4849,7 +4855,7 @@
 ||lecimyasztymdalej.website^$all
 ||leczeniepadaczki.pl^$all
 ||leffler.pl^$all
-||legalniewsieci.*^$document,domain=~legalniewsieci.pl
+||legalniewsieci.*^$document,domain=~legalniewsieci.pl|~google.*
 ||legioncrest.com^$all
 ||legwan.cyou^$all
 ||leidwozyjarodzina.site^$all
@@ -5197,8 +5203,10 @@
 ||moviemediaz.com^$all
 ||movienet.pl^$all
 ||movieprojector.pl^$all
+||moviesanywhere.online^$all
 ||moviesearchcenter.com^$all
 ||moviestarplanethackers.co^$all
+||movieszc.com^$all
 ||movipax.com^$all
 ||movipex.com^$all
 ||mowmihache.pl^$all
@@ -5566,6 +5574,7 @@
 ||offer.yb0745il6na2zh1.iran-beton.com^$all
 ||officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com^$all
 ||officexwednbbagmemzmlpepjxspud.nn.r.appspot.com^$all
+||official-netflix.com^$all
 ||offside2.000webhostapp.com^$all
 ||oficjalny-sklep.com^$all
 ||ogarniaj-ludzi.eu^$all
@@ -5987,6 +5996,7 @@
 ||olx.pl-reklamy.space^$all
 ||olx.pl-rek-id.pw^$all
 ||olx.pl-safety.oferta-payment.life^$all
+||olx.pl-safe.oferta-payment.digital^$all
 ||olx.pl-savedorder.icu^$all
 ||olx.pl-savedorder.shop^$all
 ||olx.pl-savedorder.work^$all
@@ -6451,6 +6461,7 @@
 ||pekao.icu^$all
 ||pekao.life^$all
 ||pelie.pl^$all
+||pelismov.xyz^$all
 ||pelnizycialudzie.co.pl^$all
 ||pelpey.net^$all
 ||pemberitahuanfb.weebly.com^$all
@@ -7559,6 +7570,7 @@
 ||siliconpants.top^$all
 ||silstop.pl^$all
 ||simopy.comfort-plate.ru^$all
+||simovie.net^$all
 ||siodemka24h7.click^$all
 ||siodemkawysyl24h.info^$all
 ||sitegiant.info^$all
@@ -7781,6 +7793,7 @@
 ||strefamlodych.pl^$all
 ||strefamycia.com.pl^$all
 ||strefavod.online^$all
+||strefa-filmow.online^$all
 ||strefa-medycyny-naturalnej.com^$all
 ||strefa-vod.pl^$all
 ||strikteobizznesie24.cyou^$all
@@ -8647,7 +8660,7 @@
 ||zalbani.is-best.net^$all
 ||zalecanie-wyborow.eu^$all
 ||zalecic-wygrywanie.eu^$all
-||zalukaj*.*^$document,domain=~zalukaj.com
+||zalukaj*.*^$document,domain=~zalukaj.com|~google.*
 ||zamknij.you2.pl^$all
 ||zamowienie761265261.pl^$all
 ||zap588693-1.plesk10.zap-webspace.com^$all
