@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 24 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.24.0
+! Last modified: Sat, 24 Apr 2021, 17:04 UTC+02
+! Version: 2021.4.24.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2179,6 +2179,7 @@
 ||26159-dot-custom-history-301500.appspot.com^$all
 ||103585.ostanikrok.xyz^$all
 ||107679.ostanikrok.xyz^$all
+||109222.zalogujkonto-weryfikacja.xyz^$all
 ||120210.ostanikrok.xyz^$all
 ||123403.zaloguj.xyz^$all
 ||131815.zaloguj.xyz^$all
@@ -2253,6 +2254,7 @@
 ||ailegro-pl-lokainie-oferta.live^$all
 ||aintnothingtoit.com^$all
 ||ainvestments.com^$all
+||airsofts.xyz^$all
 ||airycloth.com^$all
 ||airydress.com^$all
 ||akademia-kursow-rozwojowych-app.com^$all
@@ -2332,6 +2334,7 @@
 ||allegro-lokalnie.club^$all
 ||allegro-lokalnie.live^$all
 ||allegro-lokalnie.me^$all
+||allegro-lokalnie.polska-dostawa.online^$all
 ||allegro-lokalnie.shop^$all
 ||allegro-lokalnie.surf^$all
 ||allegro-lokalnie.xyz^$all
@@ -4517,6 +4520,7 @@
 ||investingops.com^$all
 ||investmarket.info^$all
 ||invest-fd.io^$all
+||invp.edealand.pro^$all
 ||inwestujemy.online^$all
 ||inwestujmy.online^$all
 ||inwpgnig.pw^$all
@@ -4650,6 +4654,7 @@
 ||kandydatura-sieciowa.eu^$all
 ||kandydujmy-wszyscy.eu^$all
 ||karencupp.com^$all
+||karnaspr24.net^$all
 ||karnemandaty24.net^$all
 ||karnemandaty.net^$all
 ||karnesprawy.net^$all
@@ -5062,6 +5067,7 @@
 ||mebllegro.pl^$all
 ||mechanikkapusta.pl^$all
 ||mechaonik.nsx.pl^$all
+||mecreative.xyz^$all
 ||mediacje-olsztyn.pl^$all
 ||mediaexpert-sale.pl^$all
 ||mediafile.pl^$all
@@ -5916,6 +5922,7 @@
 ||olx.pl-deliverybuy.casa^$all
 ||olx.pl-dostawa.oferta-payment.life^$all
 ||olx.pl-holded.shop^$all
+||olx.pl-holded.work^$all
 ||olx.pl-holding.club^$all
 ||olx.pl-holding.cyou^$all
 ||olx.pl-holding.icu^$all
@@ -8010,9 +8017,11 @@
 ||tosieznajdujeblisko24.site^$all
 ||towiemy.online^$all
 ||towlasciwadroga.website^$all
+||towszystkobywyjasnialo.website^$all
 ||tpc.hu^$all
 ||tpskp.com^$all
 ||trackandnow.site^$all
+||tracking-order.eu^$all
 ||trade360.com^$all
 ||traderking.cc^$all
 ||traderschain.com^$all
@@ -8357,6 +8366,7 @@
 ||wiedzacodziennatv.info^$all
 ||wieliczka-pl.tk^$all
 ||wielka-prosba.eu^$all
+||wielkopolska.waw.pl^$all
 ||wiellkiezaaangazowanie.cyou^$all
 ||wielulludzitopottrafi.cyou^$all
 ||wiemyto.you2.pl^$all
@@ -8561,6 +8571,7 @@
 ||w-szpitalu.gmina.pl^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xawqerklewq.myartsonline.com^$all
+||xeechy.xyz^$all
 ||xianyujc.com^$all
 ||xiaoml.ru^$all
 ||xn*gwatpolska24*.*^$all
