@@ -5,3 +5,15 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup
+/^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*|~duckduck.*
+/^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*|~duckduck.*
+|http*://*/fb-login/$document,domain=~facebook.com|~google.*|~duckduck.*
+||chomikuj.*^$document,domain=~chomikuj.pl|~google.*|~duckduck.*
+||legalniewsieci.*^$document,domain=~legalniewsieci.pl|~google.*|~duckduck.*
+||zalukaj*.*^$document,domain=~zalukaj.com|~google.*|~duckduck.*
+/^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
+/^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
+|http*://*/fb-login/$document,domain=~facebook.com,badfilter
+||chomikuj.*^$document,domain=~chomikuj.pl,badfilter
+||legalniewsieci.*^$document,domain=~legalniewsieci.pl,badfilter
+||zalukaj*.*^$document,domain=~zalukaj.com,badfilter
