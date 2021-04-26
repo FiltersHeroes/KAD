@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 26 Apr 2021, 13:04 UTC+02
-! Version: 2021.4.26.0
+! Last modified: Mon, 26 Apr 2021, 17:06 UTC+02
+! Version: 2021.4.26.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4443,6 +4443,9 @@
 ||inpost.pl-holdorder.work^$all
 ||inpost.pl-holdorder.xyz^$all
 ||inpost.pl-holdsorder.cyou^$all
+||inpost.pl-holdsorder.icu^$all
+||inpost.pl-holdsorder.shop^$all
+||inpost.pl-holdsorder.work^$all
 ||inpost.pl-holds.shop^$all
 ||inpost.pl-hold.club^$all
 ||inpost.pl-hold.cyou^$all
@@ -4468,6 +4471,10 @@
 ||inpost.pl-paydelivery.cyou^$all
 ||inpost.pl-paydelivery.work^$all
 ||inpost.pl-paydelivery.xyz^$all
+||inpost.pl-safeordering.club^$all
+||inpost.pl-safeordering.cyou^$all
+||inpost.pl-safeordering.icu^$all
+||inpost.pl-safeordering.xyz^$all
 ||inpost.pl-savedorder.cyou^$all
 ||inpost.pl-savedorder.icu^$all
 ||inpost.pl-savedorder.shop^$all
@@ -4512,6 +4519,12 @@
 ||inpost.su^$all
 ||inpost.tech^$all
 ||inpost.us^$all
+||inpost.wyprzedaz-polska.casa^$all
+||inpost.wyprzedaz-polska.cyou^$all
+||inpost.wyprzedaz-polska.life^$all
+||inpost.wyprzedaz-polska.live^$all
+||inpost.wyprzedaz-polska.shop^$all
+||inpost.wyprzedaz-polska.xyz^$all
 ||inprost24.net^$all
 ||inqost.net^$all
 ||instagarm.pl^$all
@@ -5963,6 +5976,8 @@
 ||olx.pl-dostawa.oferta-payment.life^$all
 ||olx.pl-gotordered.xyz^$all
 ||olx.pl-gotorders.icu^$all
+||olx.pl-holdedorder.cyou^$all
+||olx.pl-holdedorder.icu^$all
 ||olx.pl-holdedorder.shop^$all
 ||olx.pl-holdedorder.work^$all
 ||olx.pl-holded.shop^$all
@@ -6035,6 +6050,10 @@
 ||olx.pl-reklamy-id.space^$all
 ||olx.pl-reklamy.space^$all
 ||olx.pl-rek-id.pw^$all
+||olx.pl-safeordering.club^$all
+||olx.pl-safeordering.cyou^$all
+||olx.pl-safeordering.icu^$all
+||olx.pl-safeordering.xyz^$all
 ||olx.pl-safety.oferta-payment.life^$all
 ||olx.pl-safe.oferta-payment.digital^$all
 ||olx.pl-savedorder.icu^$all
@@ -6115,6 +6134,12 @@
 ||olx.secure-dostawa.com^$all
 ||olx.so^$all
 ||olx.transakcja.pw^$all
+||olx.wyprzedaz-polska.casa^$all
+||olx.wyprzedaz-polska.cyou^$all
+||olx.wyprzedaz-polska.life^$all
+||olx.wyprzedaz-polska.live^$all
+||olx.wyprzedaz-polska.shop^$all
+||olx.wyprzedaz-polska.xyz^$all
 ||olx.wysyllka.pl^$all
 ||olx.zamowienie.*^$all
 ||olympusholding.co^$all
@@ -6608,6 +6633,7 @@
 ||placowka-pocztowa.xyz^$all
 ||planujswojezycieibiznes.space^$all
 ||plast-chem.com.pl^$all
+||plata-za-towary-pl.com^$all
 ||platinumtradeinvestment.com^$all
 ||platnik*.online^$all
 ||platnosci24.in.net^$all
@@ -6781,6 +6807,7 @@
 ||pl.olx-ofert.life^$all
 ||pl.olx-ship.eu^$all
 ||pl.olx.fsb-pays.tk^$all
+||pl.paymenton.space^$all
 ||pl.paysouts.com^$all
 ||pl.pcviruscare.com^$all
 ||pl.profitmaximizer-app.com^$all
@@ -8448,6 +8475,7 @@
 ||windpl.org^$all
 ||windykacjajagoda.org^$all
 ||winfreetoday.com^$all
+||winin-spect.xyz^$all
 ||winnertoday.site^$all
 ||winningsidenow.com^$all
 ||winoteka-samiswoi.pl^$all
