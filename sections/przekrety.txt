@@ -1,7 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||puppychain.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -118,6 +117,7 @@
 ||1809798.sy397546.web.hosting-test.net^$all
 ||1821456.dg398993.web.hosting-test.net^$all
 ||66463423.moonfruit.com^$all
+||7867565564.000webhostapp.com^$all
 ||23459867534.000webhostapp.com^$all
 ||82210001244.com^$all
 ||a2btrans.pl^$all
@@ -1035,6 +1035,7 @@
 ||deliverysecure.club^$all
 ||deliverysecure.org^$all
 ||deliverytried.org^$all
+||delivery-merchantpln.shop^$all
 ||delivery-olx-polska.000webhostapp.com^$all
 ||delivery-olx.ml^$all
 ||delivery-pl-olx.site^$all
@@ -1316,6 +1317,7 @@
 ||edland.pro^$all
 ||edotpay.pl^$all
 ||edziennik.xyz^$all
+||eero-systems.xyz^$all
 ||eforsa.pl^$all
 ||efza.net^$all
 ||egda.pl^$all
@@ -1785,6 +1787,7 @@
 ||gazetapl.alte.pl^$all
 ||gazetapolska.hoste.pl^$all
 ||gazetapolska.org.pl^$all
+||gazetapolska.waw.pl^$all
 ||gazetapucka.pl^$all
 ||gazetaradomska.xyz^$all
 ||gazetasasiedzka.eu^$all
@@ -2101,6 +2104,7 @@
 ||idea-logowanie.at^$all
 ||idea-logowanie.live^$all
 ||ide-dalej.pl^$all
+||ididenty.pl^$all
 ||idklever.com^$all
 ||idntfx.link^$all
 ||idoku24.com^$all
@@ -2362,6 +2366,7 @@
 ||inpost.pl-holdorder.icu^$all
 ||inpost.pl-holdorder.work^$all
 ||inpost.pl-holdorder.xyz^$all
+||inpost.pl-holdsorder.cyou^$all
 ||inpost.pl-holds.shop^$all
 ||inpost.pl-hold.club^$all
 ||inpost.pl-hold.cyou^$all
@@ -2439,6 +2444,8 @@
 ||install.pdfconverterhd.com^$all
 ||instalovers.net^$all
 ||instantreaction15.club^$all
+||instantreaction646.cyou^$all
+||instantreaction665.casa^$all
 ||instasexlocator*.com^$all
 ||instateens.net^$all
 ||insta-support.org^$all
@@ -3294,6 +3301,7 @@
 ||nelsondyalkjs.com^$all
 ||nerminyazar.com^$all
 ||nesterowicz.pl^$all
+||netaver.pl^$all
 ||netfilmy.pl^$all
 ||netfilxbillingsupport.top^$all
 ||netflix2021.pl^$all
@@ -3903,6 +3911,7 @@
 ||olx.pl-holdorder.shop^$all
 ||olx.pl-holdorder.work^$all
 ||olx.pl-holdorder.xyz^$all
+||olx.pl-holdsorder.cyou^$all
 ||olx.pl-holdsorder.work^$all
 ||olx.pl-holds.club^$all
 ||olx.pl-holds.cyou^$all
@@ -4363,6 +4372,9 @@
 ||pay58-olx.pl^$all
 ||pay59-olx.pl^$all
 ||pay60-olx.pl^$all
+||pay61-olx.pl^$all
+||pay62-olx.pl^$all
+||pay63-olx.pl^$all
 ||payersend.info^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
@@ -4402,6 +4414,7 @@
 ||pay-pl.site^$all
 ||pay-u24.net^$all
 ||pay.olx.pl.link-secure.net.ru^$all
+||pay.pocztapolska24.com^$all
 ||pbshop.pl^$all
 ||pc-sklep.com^$all
 ||pc-soft.pl^$all
@@ -4720,6 +4733,8 @@
 ||pocztaadminhelpunit3.moonfruit.com^$all
 ||pocztaadminhelpunit.moonfruit.com^$all
 ||pocztaadministrator1.moonfruit.com^$all
+||pocztaadministratorunit5.moonfruit.com^$all
+||pocztaadminsecuritunit.moonfruit.com^$all
 ||pocztaadminunit.moonfruit.com^$all
 ||pocztabox24.xyz^$all
 ||pocztainteria-regulamin.net^$all
@@ -5178,6 +5193,7 @@
 ||pumeksy.pl^$all
 ||puncik-zapisy.eu^$all
 ||punktowanie-konkursu.eu^$all
+||puppychain.pl^$all
 ||purchase-olx.pl^$all
 ||pusiaweb.com^$all
 ||puypey.net^$all
@@ -5876,6 +5892,7 @@
 ||tajnespotkania.eu^$all
 ||tajskimasazsopot.pl^$all
 ||takaprawda.icu^$all
+||takczyinaczejmusibyc.space^$all
 ||takiczasswystarczy.online^$all
 ||takijestnaszkruaj.website^$all
 ||takjakbylopowwiedziane.website^$all
@@ -6761,20 +6778,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||7867565564.000webhostapp.com^$all
-||delivery-merchantpln.shop^$all
-||eero-systems.xyz^$all
-||gazetapolska.waw.pl^$all
-||ididenty.pl^$all
-||inpost.pl-holdsorder.cyou^$all
-||instantreaction646.cyou^$all
-||instantreaction665.casa^$all
-||netaver.pl^$all
-||olx.pl-holdsorder.cyou^$all
-||pay61-olx.pl^$all
-||pay62-olx.pl^$all
-||pay63-olx.pl^$all
-||pay.pocztapolska24.com^$all
-||pocztaadministratorunit5.moonfruit.com^$all
-||pocztaadminsecuritunit.moonfruit.com^$all
-||takczyinaczejmusibyc.space^$all
