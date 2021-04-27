@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 26 Apr 2021, 21:13 UTC+02
-! Version: 2021.4.26.3
+! Last modified: Tue, 27 Apr 2021, 13:14 UTC+02
+! Version: 2021.4.27.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -619,7 +619,6 @@
 ||hksfa.org^$all
 ||hobbitowa.pl^$all
 ||hokaoneonepolska.com^$all
-||hokaoneonespeedgoat.pl^$all
 ||hokaoneshop.com^$all
 ||hokapolska.com^$all
 ||holdenavenue.pl^$all
@@ -661,7 +660,6 @@
 ||intergsm.pl^$all
 ||interiordream.pl^$all
 ||inwestujwrozwoj.pl^$all
-||ipanemapolska.com^$all
 ||iperfumeriatestery.pl^$all
 ||ipzd.pl^$all
 ||isabellstudio.com.pl^$all
@@ -726,6 +724,7 @@
 ||kedspolska.com^$all
 ||keepitavocado.com^$all
 ||keykong.eu^$all
+||kicksyou.pl^$all
 ||kingland.pl^$all
 ||kinoman-tv.pl^$all
 ||kinotek.pl^$all
@@ -908,7 +907,6 @@
 ||merrelleobuwie.com^$all
 ||merrellloja.com^$all
 ||merrellpl.com^$all
-||merrellsklepolska.com^$all
 ||metaankieta.pl^$all
 ||mezczyzna-trendy.pl^$all
 ||mgid.com^$all
@@ -1046,7 +1044,6 @@
 ||ogladamy24.pl^$all
 ||ogloszeniagratis.pl^$all
 ||ogrod24.slgo.pl^$all
-||ogrodek.club^$all
 ||okazjeinternetowe.pl^$all
 ||okazyjnie.net^$all
 ||okucia24.com^$all
@@ -1059,6 +1056,7 @@
 ||onlinerekruter.com^$all
 ||online-ruletka.pl^$all
 ||onlyfutbol.pl^$all
+||onrunningbuty.com^$all
 ||opcje-binarne-strategie.pl^$all
 ||openscotland.pl^$all
 ||opiekapaliatywna2010.pl^$all
@@ -1478,6 +1476,7 @@
 ||szczepienie.net.pl^$all
 ||szczesliwydzien.com^$all
 ||szklarnia.top^$all
+||szklarnie400.com^$all
 ||szklarnie500.com^$all
 ||szklarnie.club^$all
 ||szoping.net^$all
@@ -1492,6 +1491,7 @@
 ||tanie.to^$all
 ||targilotniczetorun.pl^$all
 ||teatromiasto.com.pl^$all
+||techfan.pl^$all
 ||technologiewpodrozy.pl^$all
 ||teespoon.co^$all
 ||teleaudio.pl^$all
@@ -2085,6 +2085,7 @@
 ||1mpost.net^$all
 ||1nposl.net^$all
 ||1npost.net^$all
+||1y8v7s.store^$all
 ||2remove.guide^$all
 ||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^$all
 ||2supermocna-tasma-klejaca-pl.com^$all
@@ -2093,6 +2094,7 @@
 ||03e1i.csb.app^$all
 ||3fazowa-ostrzalka-do-nozy-pl.com^$all
 ||3filmy.com^$all
+||3i0wrsa.store^$all
 ||3w2k701z6i94wgr.choobin-co.ir^$all
 ||3-139-92-223.cprapid.com^$all
 ||4afe8b11a52839751.temporary.link^$all
@@ -2819,7 +2821,6 @@
 ||chicharito14.c0.pl^$all
 ||childalertfakt.*^$all
 ||childinfo.eu^$all
-||chloepolska.pl^$all
 ||chodzcieututajwszyscy.cyou^$all
 ||chodzcieututajwszyscy.xyz^$all
 ||chodzimiiotoze.site^$all
@@ -2828,7 +2829,6 @@
 ||chomikuj.*^$document,domain=~chomikuj.pl
 ||chomlkui.pl^$all
 ||chor-moniuszko.pl^$all
-||christen-online.at^$all
 ||chron-telefon.com^$all
 ||cidadecrista.com.br^$all
 ||ciekawesprawy.online^$all
@@ -3013,6 +3013,7 @@
 ||d32r41fxmnjynu.cloudfront.net^$all
 ||d34rr3edznjsj6.cloudfront.net^$all
 ||d35s76ui8ol8u7.cloudfront.net^$all
+||d03307.top^$all
 ||d3889itag5jgx6.cloudfront.net^$all
 ||dachbud.slask.pl^$all
 ||dalsari.com^$all
@@ -3895,6 +3896,7 @@
 ||getmyfreetraffic.com^$all
 ||gettheflow.pl^$all
 ||get.bestdeal2060.info^$all
+||gfhjkldcfvfg.moonfruit.com^$all
 ||gfxroyal.com^$all
 ||ggewgwegwe.001www.com^$all
 ||ghastlyf.xyz^$all
@@ -4120,6 +4122,7 @@
 ||idea-cloud.xyz^$all
 ||idea-logowanie.at^$all
 ||idea-logowanie.live^$all
+||identyver.link^$all
 ||ide-dalej.pl^$all
 ||ididenty.pl^$all
 ||idklever.com^$all
@@ -4335,6 +4338,10 @@
 ||inpost.pl-buypost.cyou^$all
 ||inpost.pl-buypost.surf^$all
 ||inpost.pl-buypost.xyz^$all
+||inpost.pl-getsells.work^$all
+||inpost.pl-getsell.club^$all
+||inpost.pl-getsell.shop^$all
+||inpost.pl-getsell.xyz^$all
 ||inpost.pl-gotorder.cyou^$all
 ||inpost.pl-gotorder.work^$all
 ||inpost.pl-holdedorder.icu^$all
@@ -4372,6 +4379,9 @@
 ||inpost.pl-kontos-oferta.surf^$all
 ||inpost.pl-kontos-oferta.vision^$all
 ||inpost.pl-kontos-oferta.work^$all
+||inpost.pl-kontos.life^$all
+||inpost.pl-kontos.live^$all
+||inpost.pl-kontos.work^$all
 ||inpost.pl-konto-order.biz^$all
 ||inpost.pl-official-dostawa.casa^$all
 ||inpost.pl-official-dostawa.store^$all
@@ -5737,6 +5747,7 @@
 ||olx-pl.iso-pay.net.ru^$all
 ||olx-pl.ml^$all
 ||olx-pl.moneta.world^$all
+||olx-pl.mpay-fs.info^$all
 ||olx-pl.net^$all
 ||olx-pl.oferta-payment.*^$all
 ||olx-pl.oferta-pay.*^$all
@@ -5844,28 +5855,20 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.pl-bought.icu^$all
-||olx.pl-bought.shop^$all
-||olx.pl-buydeal.casa^$all
-||olx.pl-buydeal.cyou^$all
-||olx.pl-buydeal.icu^$all
-||olx.pl-buydeal.shop^$all
-||olx.pl-buydeal.surf^$all
-||olx.pl-buydeal.work^$all
-||olx.pl-buydeal.xyz^$all
 ||olx.pl-buyedorder.icu^$all
 ||olx.pl-buyedorder.shop^$all
-||olx.pl-buyordered.casa^$all
-||olx.pl-buyordered.club^$all
-||olx.pl-buyordered.cyou^$all
-||olx.pl-buyordered.icu^$all
-||olx.pl-buyordered.shop^$all
-||olx.pl-buyordered.surf^$all
-||olx.pl-buyordered.work^$all
-||olx.pl-buyordered.xyz^$all
-||olx.pl-deliverybuy.casa^$all
 ||olx.pl-dostawa.oferta-payment.life^$all
-||olx.pl-getsells.club^$all
 ||olx.pl-getsells.icu^$all
+||olx.pl-getsells.shop^$all
+||olx.pl-getsells.work^$all
+||olx.pl-getsell.club^$all
+||olx.pl-getsell.cyou^$all
+||olx.pl-getsell.icu^$all
+||olx.pl-getsell.shop^$all
+||olx.pl-getsell.work^$all
+||olx.pl-getsell.xyz^$all
+||olx.pl-getsold.icu^$all
+||olx.pl-getsold.xyz^$all
 ||olx.pl-gotordered.xyz^$all
 ||olx.pl-gotorders.icu^$all
 ||olx.pl-holdedorder.cyou^$all
@@ -5874,77 +5877,38 @@
 ||olx.pl-holdedorder.work^$all
 ||olx.pl-holded.shop^$all
 ||olx.pl-holded.work^$all
-||olx.pl-holding.club^$all
 ||olx.pl-holding.cyou^$all
 ||olx.pl-holding.icu^$all
 ||olx.pl-holding.shop^$all
 ||olx.pl-holding.work^$all
-||olx.pl-holdmoney.club^$all
 ||olx.pl-holdmoney.cyou^$all
 ||olx.pl-holdmoney.icu^$all
 ||olx.pl-holdmoney.shop^$all
 ||olx.pl-holdmoney.work^$all
-||olx.pl-holdmoney.xyz^$all
 ||olx.pl-holdorders.cyou^$all
 ||olx.pl-holdorders.icu^$all
 ||olx.pl-holdorders.work^$all
-||olx.pl-holdorder.club^$all
 ||olx.pl-holdorder.cyou^$all
 ||olx.pl-holdorder.icu^$all
-||olx.pl-holdorder.shop^$all
 ||olx.pl-holdorder.work^$all
-||olx.pl-holdorder.xyz^$all
 ||olx.pl-holdsorder.cyou^$all
 ||olx.pl-holdsorder.work^$all
-||olx.pl-holds.club^$all
 ||olx.pl-holds.cyou^$all
 ||olx.pl-holds.icu^$all
 ||olx.pl-holds.shop^$all
 ||olx.pl-holds.work^$all
-||olx.pl-holds.xyz^$all
 ||olx.pl-hold.icu^$all
-||olx.pl-id85-061-204-81-2.site^$all
-||olx.pl-id85-089-212-30-7.site^$all
-||olx.pl-id85-102-225-44-2.site^$all
-||olx.pl-id1618338670.site^$all
-||olx.pl-id1618926813.site^$all
-||olx.pl-id1618943912.site^$all
-||olx.pl-id1619025954.site^$all
-||olx.pl-id1619211970.site^$all
-||olx.pl-id.site^$all
 ||olx.pl-kontos.life^$all
 ||olx.pl-kontos.live^$all
 ||olx.pl-kontos.shop^$all
 ||olx.pl-kontos.work^$all
-||olx.pl-kontos.xyz^$all
 ||olx.pl-konto-orders.biz^$all
-||olx.pl-konto-orders.club^$all
 ||olx.pl-konto-orders.life^$all
 ||olx.pl-konto-orders.live^$all
 ||olx.pl-konto-orders.me^$all
 ||olx.pl-konto-orders.shop^$all
-||olx.pl-konto-orders.xyz^$all
 ||olx.pl-konto-order.biz^$all
 ||olx.pl-konto-order.shop^$all
-||olx.pl-konto.cyou^$all
-||olx.pl-orderbuy.cyou^$all
-||olx.pl-paydeals.casa^$all
-||olx.pl-paydeals.cyou^$all
-||olx.pl-paydeals.icu^$all
-||olx.pl-paydeliveries.casa^$all
-||olx.pl-paydeliveries.cyou^$all
-||olx.pl-paydeliveries.surf^$all
-||olx.pl-paydeliveries.work^$all
-||olx.pl-paydeliveries.xyz^$all
-||olx.pl-paydelivery.casa^$all
-||olx.pl-paydelivery.cyou^$all
-||olx.pl-paydelivery.work^$all
-||olx.pl-paydelivery.xyz^$all
-||olx.pl-payorder.casa^$all
-||olx.pl-reklamy-id.space^$all
-||olx.pl-reklamy.space^$all
-||olx.pl-rek-id.pw^$all
-||olx.pl-safeordering.club^$all
 ||olx.pl-safeordering.cyou^$all
 ||olx.pl-safeordering.icu^$all
 ||olx.pl-safeordering.xyz^$all
@@ -5953,35 +5917,11 @@
 ||olx.pl-savedorder.icu^$all
 ||olx.pl-savedorder.shop^$all
 ||olx.pl-savedorder.work^$all
-||olx.pl-savesell.cyou^$all
-||olx.pl-savesell.me^$all
-||olx.pl-sellorders.casa^$all
-||olx.pl-sellorders.cyou^$all
-||olx.pl-sellorders.icu^$all
-||olx.pl-sellorders.shop^$all
-||olx.pl-sellorders.xyz^$all
-||olx.pl-sellorder.casa^$all
-||olx.pl-sellorder.club^$all
-||olx.pl-sellorder.cyou^$all
-||olx.pl-sellorder.shop^$all
-||olx.pl-sellorder.xyz^$all
-||olx.pl-soldorders.life^$all
-||olx.pl-soldorder.casa^$all
-||olx.pl-soldorder.club^$all
-||olx.pl-soldorder.cyou^$all
-||olx.pl-soldorder.icu^$all
-||olx.pl-soldorder.me^$all
-||olx.pl-soldorder.shop^$all
-||olx.pl-soldorder.work^$all
-||olx.pl-soldorder.xyz^$all
-||olx.pl-solds.icu^$all
 ||olx.pl-*.*^$document
-||olx.pl.dostawa.oferta-payment.bid^$all
-||olx.pl.item-rec.site^$all
 ||olx.pl.merchants-pay.pw^$all
+||olx.pl.oferta-payment.date^$all
 ||olx.pl.oferta-payment.life^$all
 ||olx.pl.pay-mercnant.pw^$all
-||olx.pl.safety.oferta-payment.bid^$all
 ||olx.pl.transfers-id.space^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
@@ -6043,6 +5983,7 @@
 ||omrolsztyn.neostrada.pl^$all
 ||onatozrobila.xyz^$all
 ||onclickbright.com^$all
+||onedrive-pl.cyou^$all
 ||onemed.com.pl^$all
 ||onet24pl.pvi.pl^$all
 ||onet24polska.eu^$all
@@ -6895,6 +6836,7 @@
 ||polski-styl.shop^$all
 ||polsko-oferta.life^$all
 ||polsko-oferta.shop^$all
+||polsriardrtoihizis.info^$all
 ||pol-news24.pl^$all
 ||pomagajiwspieraj.com^$all
 ||pomagajmypl.*^$all
@@ -7311,6 +7253,7 @@
 ||sabiosdelamor.co^$all
 ||safedealpln.link^$all
 ||safedeliveryypl.shop^$all
+||safeprojectreviews.com^$all
 ||safetrade365.com^$all
 ||safety-delliveri.com^$all
 ||safety-delliveri.site^$all
@@ -7446,7 +7389,6 @@
 ||shopshop-pl.com^$all
 ||shops.2021cheapsale.com^$all
 ||shortx.in^$all
-||showltem.pl^$all
 ||showmeflix.com^$all
 ||showmovies.pl^$all
 ||showsplash.com^$all
@@ -7530,6 +7472,7 @@
 ||smsoo.in^$all
 ||smsxx.in^$all
 ||smsy24.pl^$all
+||smszz.in^$all
 ||sms-info.app^$all
 ||sms-info.net^$all
 ||sms-info.su^$all
@@ -7958,6 +7901,7 @@
 ||tutaj-oddajmy.eu^$all
 ||tv24.dkonto.pl^$all
 ||tvinfo-24.pl^$all
+||tvinfo.katowice.pl^$all
 ||tvjovem.net^$all
 ||tvn24polska.eu^$all
 ||tvn24polska.you2.pl^$all
