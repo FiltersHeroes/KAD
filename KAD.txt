@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 28 Apr 2021, 17:06 UTC+02
-! Version: 2021.4.28.1
+! Last modified: Wed, 28 Apr 2021, 21:05 UTC+02
+! Version: 2021.4.28.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2579,12 +2579,14 @@
 ||bielik.cyou^$all
 ||bielpak.pl^$all
 ||bieznie-rowery.com^$all
+||bigmoviesz.com^$all
 ||bignamestanfree.wixsite.com^$all
 ||bigsklep.com^$all
 ||bilans-glosow.eu^$all
 ||bilard.cyou^$all
 ||binvesting.com^$all
 ||bioperfect.pl^$all
+||biozdrowie.com.pl^$all
 ||birdwatcher.pl^$all
 ||bireysele-basvurum-destek-kampanyalar.tk^$all
 ||bitbayinvest.net^$all
@@ -2687,6 +2689,7 @@
 ||broadwayladies.pl^$all
 ||brohoof.pl^$all
 ||brooklynlilly.com^$all
+||brooksoutletsklep.com^$all
 ||brookspromocja.com^$all
 ||brookswyprzedaz.com^$all
 ||brooks-polska.com^$all
@@ -2723,6 +2726,7 @@
 ||butybrooks.pl^$all
 ||butycamper.pl^$all
 ||butycaterpillaroutlet.pl^$all
+||butyeccopolska.com^$all
 ||butyhokaoneone.com^$all
 ||butyhunter.com.pl^$all
 ||butykeenpolska.pl^$all
@@ -2751,6 +2755,7 @@
 ||c39b126b5cec.ngrok.io^$all
 ||caeiriolskiaopazertyiop.xyz^$all
 ||caldai.com^$all
+||calvinkleinpolska.pl^$all
 ||calyczasotymmowimy.cyou^$all
 ||calyfilmhd.over-blog.com^$all
 ||calyfilm-onlinepl.over-blog.com^$all
@@ -2929,6 +2934,7 @@
 ||criptoeconomia.com.br^$all
 ||cripto-valuta.net^$all
 ||cristal2017.argo.host^$all
+||crocspolska.cc^$all
 ||crowd1.com^$all
 ||crptengine.cyou^$all
 ||crtum.top^$all
@@ -3274,6 +3280,7 @@
 ||dotarlibysmydoniego.cyou^$all
 ||dotpay1.pl^$all
 ||dotpay.e-dpd.pl^$all
+||dotpay.pocztapolska48.com^$all
 ||downloadfiles.pl^$all
 ||downloads-mobile.com^$all
 ||download.inboxace.com^$all
@@ -3283,6 +3290,7 @@
 ||downwhite.com^$all
 ||doxera.biz^$all
 ||do-kuchni.com^$all
+||dpdfast4yuo.pl^$all
 ||dpdoplata.org^$all
 ||dpdpost.net^$all
 ||dpd-paczka.com^$all
@@ -3605,6 +3613,7 @@
 ||fbtoken.evai.pl^$all
 ||fbvetu.n4t.co^$all
 ||fbvverifier.mypi.co^$all
+||fbweryfikacja.tk^$all
 ||fb-ads-business.com^$all
 ||fb-ads.me^$all
 ||fb-business.net^$all
@@ -3800,6 +3809,7 @@
 ||g0o.cc^$all
 ||g0o.me^$all
 ||g0o.org^$all
+||gabinetosteopatii.pl^$all
 ||gabistworkowo.pl^$all
 ||gackokurier.com^$all
 ||gaczynski.pl^$all
@@ -4111,6 +4121,7 @@
 ||hugetradingincome.com^$all
 ||hugobosspl.pl^$all
 ||hungpol.pl^$all
+||hunterbootspoland.com^$all
 ||huntercena.com^$all
 ||hurreu.store^$all
 ||hydzpme.com^$all
@@ -4418,6 +4429,7 @@
 ||inpost.pl-savedorder.shop^$all
 ||inpost.pl-savedorder.work^$all
 ||inpost.pl-savedsells.shop^$all
+||inpost.pl-savescash.cyou^$all
 ||inpost.pl-savesells.cyou^$all
 ||inpost.pl-savesells.icu^$all
 ||inpost.pl-savesells.work^$all
@@ -4613,6 +4625,7 @@
 ||jmbase.my^$all
 ||jolabury.pl^$all
 ||jonakurier.org^$all
+||jordanbuty.pl^$all
 ||jstoppello.com^$all
 ||juicingwell.com^$all
 ||juicywin.pl^$all
@@ -4636,10 +4649,12 @@
 ||kamilapaczka.org^$all
 ||kamilszymanski.com.pl^$all
 ||kampaniareklamowa.com.pl^$all
+||kancelariabaszczyn.pl^$all
 ||kandydatura-sieciowa.eu^$all
 ||kandydujmy-wszyscy.eu^$all
 ||karencupp.com^$all
 ||karnaspr24.net^$all
+||karnasprawa24.net^$all
 ||karnemandaty24.net^$all
 ||karnemandaty.net^$all
 ||karnesprawy.net^$all
@@ -4963,6 +4978,7 @@
 ||lukaszuk.com.pl^$all
 ||lukaszurbanczyk.pl^$all
 ||luknijfilm.pl^$all
+||luknij.video^$all
 ||lula-home.pl^$all
 ||luminnotik.xyz^$all
 ||lutz-blades.pl^$all
@@ -5559,6 +5575,7 @@
 ||ogladajzadarmo.com.pl^$all
 ||ogladaj-caly-film.over-blog.com^$all
 ||ogladaj-online24.pl^$all
+||ogladaj-online.pl^$all
 ||ogladaj-przechwycone.eu^$all
 ||oglaszamy-yorki.dkonto.pl^$all
 ||ogloszenia24.dfirma.pl^$all
@@ -5843,6 +5860,7 @@
 ||olx.dellivery.*^$all
 ||olx.doreczanie.pl^$all
 ||olx.doreczenle.pl^$all
+||olx.dostawa-161334260.site^$all
 ||olx.dostawa-pl.fun^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
@@ -5943,11 +5961,13 @@
 ||olx.pl-safeordering.xyz^$all
 ||olx.pl-safety.oferta-payment.life^$all
 ||olx.pl-safe.oferta-payment.digital^$all
+||olx.pl-safe.oferta-payment.technology^$all
 ||olx.pl-savedorder.icu^$all
 ||olx.pl-savedorder.shop^$all
 ||olx.pl-savedorder.work^$all
 ||olx.pl-savedsells.icu^$all
 ||olx.pl-savedsells.shop^$all
+||olx.pl-savescash.work^$all
 ||olx.pl-savesells.cyou^$all
 ||olx.pl-savesells.icu^$all
 ||olx.pl-savesells.shop^$all
@@ -7329,6 +7349,7 @@
 ||safe-pay.info^$all
 ||safe-security.website^$all
 ||salomonpl.pl^$all
+||salomonpolska.pl^$all
 ||salonfilmowy.pl^$all
 ||salonflorida.pl^$all
 ||salonmotoryzacyjny.lublin.ovh^$all
@@ -7479,6 +7500,7 @@
 ||sklepfilapolska.com^$all
 ||sklepplay.net^$all
 ||sklepsalomon.com^$all
+||sklepsportowe.com^$all
 ||skleptaniebuty.pl^$all
 ||skleptus.pl^$all
 ||sklepygucci.pl^$all
@@ -7550,7 +7572,9 @@
 ||sonyalpha.pl^$all
 ||sopot-fakt24.pl^$all
 ||sorelpl.pl^$all
+||sorelwarszawa.pl^$all
 ||spacexvisitorcenter.xyz^$all
+||spadnijzwagi.com.pl^$all
 ||spainey.weebly.com^$all
 ||special-news.myfreesites.net^$all
 ||specjalniedlaciebie.com^$all
@@ -8105,6 +8129,7 @@
 ||varicolen.pl^$all
 ||vcampetyld.xyz^$all
 ||vdomainwebmgno.ga^$all
+||vejapoland.com^$all
 ||velica.com.br^$all
 ||verification.libertrust.com^$all
 ||verifyotofb.n4t.co^$all
@@ -8112,6 +8137,7 @@
 ||verify.libertrust.com^$all
 ||verino.co.pl^$all
 ||verlinkid.link^$all
+||versacesklep.com^$all
 ||vgdny.com^$all
 ||vidalyasociados.com^$all
 ||videoplanet.pl^$all
@@ -8290,6 +8316,7 @@
 ||wordpresszapocetnike.com^$all
 ||worldmarkets.com^$all
 ||worldmovie21.site^$all
+||worldmoviesz.com^$all
 ||worldprize.pl^$all
 ||worlds-news.org^$all
 ||world-flags.cn^$all
