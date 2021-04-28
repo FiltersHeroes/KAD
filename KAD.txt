@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 27 Apr 2021, 22:26 UTC+02
-! Version: 2021.4.27.1
+! Last modified: Wed, 28 Apr 2021, 13:05 UTC+02
+! Version: 2021.4.28.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -215,6 +215,7 @@
 ||butyconversesklep.com^$all
 ||butycrocspolska.com^$all
 ||butydroutlet.com^$all
+||butyeccopolska.com^$all
 ||butyeccosale.com^$all
 ||butygellyte.com^$all
 ||butyinov-8.com^$all
@@ -1607,6 +1608,7 @@
 ||vejapolska.pl^$all
 ||veltocars.com.pl^$all
 ||verifycaptcha.com^$all
+||versacesklep.com^$all
 ||versalka.pl^$all
 ||veryvoga.pl^$all
 ||vewvwm.myshopify.com^$all
@@ -2159,6 +2161,7 @@
 ||109222.zalogujkonto-weryfikacja.xyz^$all
 ||120210.ostanikrok.xyz^$all
 ||123403.zaloguj.xyz^$all
+||126898.iogowanie.xyz^$all
 ||131815.zaloguj.xyz^$all
 ||1809175.na397463.web.hosting-test.net^$all
 ||1809176.kb397464.web.hosting-test.net^$all
@@ -4409,6 +4412,10 @@
 ||inpost.pl-savedorder.icu^$all
 ||inpost.pl-savedorder.shop^$all
 ||inpost.pl-savedorder.work^$all
+||inpost.pl-savedsells.shop^$all
+||inpost.pl-savesells.cyou^$all
+||inpost.pl-savesells.icu^$all
+||inpost.pl-savesells.work^$all
 ||inpost.pl-savesell.cyou^$all
 ||inpost.pl-sellorders.casa^$all
 ||inpost.pl-sellorder.casa^$all
@@ -5934,7 +5941,11 @@
 ||olx.pl-savedorder.icu^$all
 ||olx.pl-savedorder.shop^$all
 ||olx.pl-savedorder.work^$all
+||olx.pl-savedsells.shop^$all
+||olx.pl-savesells.cyou^$all
+||olx.pl-savesells.icu^$all
 ||olx.pl-savesells.shop^$all
+||olx.pl-savesells.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.merchants-pay.pw^$all
 ||olx.pl.oferta-payment.date^$all
@@ -6672,6 +6683,7 @@
 ||pl.paymenton.space^$all
 ||pl.paysouts.com^$all
 ||pl.pcviruscare.com^$all
+||pl.polskikoncernnaftowy.com^$all
 ||pl.profitmaximizer-app.com^$all
 ||pl.safe-olx.casa^$all
 ||pl.tradenewsinvesting.com^$all
