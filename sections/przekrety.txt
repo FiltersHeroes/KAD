@@ -1,7 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||lacostepoland.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -2776,6 +2775,7 @@
 ||labarre.com.pl^$all
 ||labersa.com^$all
 ||labmedica.pl^$all
+||lacostepoland.pl^$all
 ||lander.pl^$all
 ||laptopyinfo.pl^$all
 ||larissalinhares.com.br^$all
@@ -3823,7 +3823,12 @@
 ||olx.get-pl.shop^$all
 ||olx.get-pl.store^$all
 ||olx.ink^$all
+||olx.kontopl.casa^$all
+||olx.kontopl.link^$all
+||olx.kontopl.monster^$all
 ||olx.kontopl.shop^$all
+||olx.kontopl.work^$all
+||olx.kontopl.xyz^$all
 ||olx.livrare-ro.info^$all
 ||olx.manager.name^$all
 ||olx.moe^$all
@@ -5298,6 +5303,7 @@
 ||safety-dostaw.info^$all
 ||safety-dostaw.name^$all
 ||safety-dostaw.net^$all
+||safety.inpost.cam^$all
 ||safe-deliverry.name^$all
 ||safe-deliverry.su^$all
 ||safe-dellivery.info^$all
@@ -6217,6 +6223,7 @@
 ||wiadomoscizkraju.xyz^$all
 ||wiadomosci-24.dkonto.pl^$all
 ||wiadomosci-facebook.eu^$all
+||wiadomosci-j24.cleverapps.io^$all
 ||wiadomosci-region24.pl^$all
 ||wiadomosci.you2.pl^$all
 ||wiadomosclokalna.pl^$all
@@ -6654,10 +6661,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||olx.kontopl.casa^$all
-||olx.kontopl.link^$all
-||olx.kontopl.monster^$all
-||olx.kontopl.work^$all
-||olx.kontopl.xyz^$all
-||safety.inpost.cam^$all
-||wiadomosci-j24.cleverapps.io^$all
