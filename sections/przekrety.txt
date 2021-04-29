@@ -1,10 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||forexgrowths.com^$all
-||investingstate.com^$all
-||ceramki.pl^$all
-||kopax.com.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -127,6 +123,7 @@
 ||abonament-oplac.com^$all
 ||absolutezeros.duckdns.org^$all
 ||abstractway.top^$all
+||accentpercentage.com^$all
 ||acceuil-serviceclient.com^$all
 ||account.login.appid.customer.online.curriculumvitae.live^$all
 ||activation-netflix.com^$all
@@ -691,6 +688,7 @@
 ||bycmama-gabi.pl^$all
 ||bylismyjuuzwszedize.site^$all
 ||bylozaweszdobrzeetv.club^$all
+||byu.name^$all
 ||bzn.c0.pl^$all
 ||bz.xcv6.cn^$all
 ||b-mobile.pl^$all
@@ -759,6 +757,7 @@
 ||centrumofert24.com^$all
 ||centrumplay.pl^$all
 ||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
+||ceramki.pl^$all
 ||ceresiontest.c0.pl^$all
 ||cevik01supermarkt.nl^$all
 ||cezaevinegonder.com^$all
@@ -1300,9 +1299,9 @@
 ||ebd-cda.pl^$all
 ||ebokpge.live^$all
 ||ebok-poczta.pl^$all
-||ebooks.com.pl^$all
 ||ebonplus.com^$document
 ||ebookeo.pl^$all
+||ebooks.com.pl^$all
 ||ec2-18-133-158-255.eu-west-2.compute.amazonaws.com^$all
 ||ecampuskbds.com^$all
 ||eccooutletbuty.pl^$all
@@ -1688,6 +1687,7 @@
 ||food-voucher.com^$all
 ||fooledbeer.xyz^$all
 ||forcetowerinvestors.com^$all
+||forexgrowths.com^$all
 ||forfollow.net^$all
 ||formanaplus.pl^$all
 ||forma-glosu.eu^$all
@@ -1999,6 +1999,7 @@
 ||hehreerh.001www.com^$all
 ||helianthus.com.pl^$all
 ||helloworld.ddnsking.com^$all
+||helpeachother277.cyou^$all
 ||helploginn.moonfruit.com^$all
 ||herngell-our.web.app^$all
 ||herrola.com^$all
@@ -2374,6 +2375,7 @@
 ||inpost.pl-savedorder.work^$all
 ||inpost.pl-savedsells.shop^$all
 ||inpost.pl-savescash.cyou^$all
+||inpost.pl-savescash.icu^$all
 ||inpost.pl-savesells.cyou^$all
 ||inpost.pl-savesells.icu^$all
 ||inpost.pl-savesells.work^$all
@@ -2458,6 +2460,7 @@
 ||investactive.cc^$all
 ||investchambers.com^$all
 ||investingops.com^$all
+||investingstate.com^$all
 ||investmarket.info^$all
 ||invest-fd.io^$all
 ||invp.edealand.pro^$all
@@ -2694,6 +2697,7 @@
 ||koordynatorbhp.pl^$all
 ||kopalniaskarbow.com.pl^$all
 ||kopaniebitcoin.pl^$all
+||kopax.com.pl^$all
 ||korespodencja-online.link^$all
 ||korespodencja-online.xyz^$all
 ||korespodencja-platnosc.xyz^$all
@@ -3860,6 +3864,7 @@
 ||olx.pl-getsolds.xyz^$all
 ||olx.pl-getsold.icu^$all
 ||olx.pl-getsold.xyz^$all
+||olx.pl-get.oferta-payment.technology^$all
 ||olx.pl-gotordered.xyz^$all
 ||olx.pl-gotorders.icu^$all
 ||olx.pl-holdedorder.cyou^$all
@@ -5499,6 +5504,7 @@
 ||smushgame.com^$all
 ||sne.bydgoszcz.pl^$all
 ||sniadaniowaklasa.pl^$all
+||snohmtegam.xyz^$all
 ||socialclub55.xyz^$all
 ||socksonclick.com^$all
 ||soft4click.com^$all
@@ -5550,6 +5556,7 @@
 ||spravajestjasnsa.club^$all
 ||sprawajestprosta21.online^$all
 ||sprawajestprosta21.site^$all
+||sprawanr035812.net^$all
 ||sprawdzaj-ciekawostki.eu^$all
 ||sprawdzaj-uczestnika.eu^$all
 ||sprawdzaj-wiedze.eu^$all
@@ -6635,10 +6642,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||accentpercentage.com^$all
-||byu.name^$all
-||helpeachother277.cyou^$all
-||inpost.pl-savescash.icu^$all
-||olx.pl-get.oferta-payment.technology^$all
-||snohmtegam.xyz^$all
-||sprawanr035812.net^$all
