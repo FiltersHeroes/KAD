@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 29 Apr 2021, 17:05 UTC+02
-! Version: 2021.4.29.1
+! Last modified: Thu, 29 Apr 2021, 21:05 UTC+02
+! Version: 2021.4.29.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4838,6 +4838,7 @@
 ||labarre.com.pl^$all
 ||labersa.com^$all
 ||labmedica.pl^$all
+||lacostepoland.pl^$all
 ||lander.pl^$all
 ||laptopyinfo.pl^$all
 ||larissalinhares.com.br^$all
@@ -5885,7 +5886,12 @@
 ||olx.get-pl.shop^$all
 ||olx.get-pl.store^$all
 ||olx.ink^$all
+||olx.kontopl.casa^$all
+||olx.kontopl.link^$all
+||olx.kontopl.monster^$all
 ||olx.kontopl.shop^$all
+||olx.kontopl.work^$all
+||olx.kontopl.xyz^$all
 ||olx.livrare-ro.info^$all
 ||olx.manager.name^$all
 ||olx.moe^$all
@@ -7360,6 +7366,7 @@
 ||safety-dostaw.info^$all
 ||safety-dostaw.name^$all
 ||safety-dostaw.net^$all
+||safety.inpost.cam^$all
 ||safe-deliverry.name^$all
 ||safe-deliverry.su^$all
 ||safe-dellivery.info^$all
@@ -8279,6 +8286,7 @@
 ||wiadomoscizkraju.xyz^$all
 ||wiadomosci-24.dkonto.pl^$all
 ||wiadomosci-facebook.eu^$all
+||wiadomosci-j24.cleverapps.io^$all
 ||wiadomosci-region24.pl^$all
 ||wiadomosci.you2.pl^$all
 ||wiadomosclokalna.pl^$all
