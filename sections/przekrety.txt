@@ -1,14 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||lacostepoland.pl^$all
-||caterpillarpolska.top^$all
-||leviswyprzedaz.com^$all
-||promocjasklep.com^$all
-||butysportowepl.com^$all
-||em-car.pl^$all
-||gardenfleks.pl^$all
-||xediatel.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -690,6 +682,7 @@
 ||butypumacena.com^$all
 ||butysportowead.pl^$all
 ||butysportoweoutlet.pl^$all
+||butysportowepl.com^$all
 ||butysuprasklep.net^$all
 ||butyzimowemartens.pl^$all
 ||buylike.pro^$all
@@ -718,6 +711,7 @@
 ||cardinalfx.trade^$all
 ||cardinalholdingsltd.com^$all
 ||catbuty.pl^$all
+||caterpillarpolska.top^$all
 ||catsplit.net.pl^$all
 ||catsplit.pl^$all
 ||cats.ugu.pl^$all
@@ -1364,6 +1358,7 @@
 ||emonitoring24.online^$all
 ||emonitoring-epoczta-polska.net^$all
 ||emptierbreak.xyz^$all
+||em-car.pl^$all
 ||enagradzamy.pl^$all
 ||energabok.pl^$all
 ||energikundservice.se^$all
@@ -1781,6 +1776,7 @@
 ||gang-fajniakow.you2.pl^$all
 ||garazowiec.pl^$all
 ||garbanda.tech^$all
+||gardenfleks.pl^$all
 ||garmulewicz.pl^$all
 ||gartoninvest.co^$all
 ||garwolin.info.pl^$all
@@ -1835,6 +1831,7 @@
 ||gazeta-lublin.xyz^$all
 ||gazeta-olsztyn.xyz^$all
 ||gazeta-opole.xyz^$all
+||gazeta-potwierdz.co.pl^$all
 ||gazeta-poznan.xyz^$all
 ||gazeta-radom.xyz^$all
 ||gazeta-rybnik.xyz^$all
@@ -2390,6 +2387,7 @@
 ||inpost.pl-safeordering.icu^$all
 ||inpost.pl-safeordering.xyz^$all
 ||inpost.pl-savedcashes.cyou^$all
+||inpost.pl-savedcashes.shop^$all
 ||inpost.pl-savedcash.club^$all
 ||inpost.pl-savedcash.work^$all
 ||inpost.pl-savedcash.xyz^$all
@@ -2832,6 +2830,7 @@
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
 ||levioutletpolska.com^$all
+||leviswyprzedaz.com^$all
 ||lewplnews.yolasite.com^$all
 ||lexinfo.com.pl^$all
 ||leyber.fun^$all
@@ -3594,6 +3593,7 @@
 ||olxbank.co^$all
 ||olxbank.me^$all
 ||olxdelivery.pay-out.online^$all
+||olxdelivery.pl^$all
 ||olxdostawa-pay.pl^$all
 ||olxdostawa.*^$all
 ||olxoferta.digital^$all
@@ -5071,6 +5071,7 @@
 ||projekt-sprawdz.eu^$all
 ||promesa.moonfruit.com^$all
 ||promocjabuty.pl^$all
+||promocjasklep.com^$all
 ||promocjeadidas.pl^$all
 ||pronhubhd.com^$all
 ||propdfconverter.com^$all
@@ -6479,6 +6480,7 @@
 ||w-szpitalu.gmina.pl^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xawqerklewq.myartsonline.com^$all
+||xediatel.com^$all
 ||xeechy.xyz^$all
 ||xianyujc.com^$all
 ||xiaoml.ru^$all
@@ -6693,6 +6695,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||gazeta-potwierdz.co.pl^$all
-||inpost.pl-savedcashes.shop^$all
-||olxdelivery.pl^$all
