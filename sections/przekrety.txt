@@ -1,10 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||speedd.net^$all
-||cloudslips.co^$all
-||bajeranckie.pl^$all
-||gimnazjum-zawichost.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -430,6 +426,7 @@
 ||badaxx.za.pl^$all
 ||badyna.pl^$all
 ||badznaptak.pl^$all
+||bajeranckie.pl^$all
 ||bajkowedekoracje.pl^$all
 ||bajkowestokrotki.cba.pl^$all
 ||balkonyitarasy.com.pl^$all
@@ -815,6 +812,7 @@
 ||cleanchelmno.pl^$all
 ||clever-trade.com^$all
 ||closetalk.ca^$all
+||cloudslips.co^$all
 ||cloud-ideabank.at^$all
 ||cloud-idea-bank.xyz^$all
 ||cloud-idea-sso.at^$all
@@ -1894,6 +1892,7 @@
 ||gift19.club^$all
 ||giftcardbouns.com^$all
 ||gimi.co^$all
+||gimnazjum-zawichost.pl^$all
 ||ginebrafx.com^$all
 ||girstories.com^$all
 ||giuatpzhd9dytiw.choobin-co.ir^$all
@@ -2317,6 +2316,8 @@
 ||inpost.order-pl.art^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
+||inpost.pl-savedcashes.club^$all
+||inpost.pl-savedmoney.work^$all
 ||inpost.pl-*.*^$document
 ||inpost.poland-orders.life^$all
 ||inpost.polka-oferta.cyou^$all
@@ -3779,7 +3780,15 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-savedmoney.work^$all
 ||olx.pl-*.*^$document
+||olx.pl.get.oferta-payment.technology^$all
+||olx.pl.merchants-pay.pw^$all
+||olx.pl.oferta-payment.date^$all
+||olx.pl.oferta-payment.life^$all
+||olx.pl.pay-mercnant.pw^$all
+||olx.pl.transfers-id.space^$all
+||olx.pl.transport-pr.pw^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -4108,6 +4117,7 @@
 ||patrolprzygody.pl^$all
 ||patrzonline.pl^$all
 ||pay01-olx.pl^$all
+||pay01-olx.pw^$all
 ||pay2me.pl^$all
 ||pay02-olx.pl^$all
 ||pay04-olx.pl^$all
@@ -5389,6 +5399,7 @@
 ||specjalservice.pl^$all
 ||spectralanddotech.com^$all
 ||specyfika.xn.pl^$all
+||speedd.net^$all
 ||speedkredyt.pl^$all
 ||speed-dates.pl^$all
 ||sperrypolska.com^$all
@@ -6504,14 +6515,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost.pl-savedcashes.club^$all
-||inpost.pl-savedmoney.work^$all
-||olx.pl.get.oferta-payment.technology^$all
-||olx.pl.merchants-pay.pw^$all
-||olx.pl.oferta-payment.date^$all
-||olx.pl.oferta-payment.life^$all
-||olx.pl.pay-mercnant.pw^$all
-||olx.pl-savedmoney.work^$all
-||olx.pl.transfers-id.space^$all
-||olx.pl.transport-pr.pw^$all
-||pay01-olx.pw^$all
