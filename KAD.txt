@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 01 May 2021, 21:44 UTC+02
-! Version: 2021.5.1.1
+! Last modified: Sun, 02 May 2021, 13:05 UTC+02
+! Version: 2021.5.2.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1001,6 +1001,7 @@
 ||nb-sklep.com^$all
 ||neocam.pl^$all
 ||neo-market.pl^$all
+||neo-technologies.fr^$all
 ||nestandland.com^$all
 ||netleaders.com^$all
 ||netoutlet24.com^$all
@@ -2275,6 +2276,7 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
+||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
@@ -2556,6 +2558,7 @@
 ||bioperfect.pl^$all
 ||biozdrowie.com.pl^$all
 ||birdwatcher.pl^$all
+||bireysele-basvurum-destek-kampanyalar.tk^$all
 ||bitbayinvest.net^$all
 ||bitbay-net.com^$all
 ||bitclohiwnenra.info^$all
@@ -2749,6 +2752,7 @@
 ||cdatube.pl^$all
 ||cda-cda.prv.pl^$all
 ||cda-edb.pl^$all
+||cda-film.prv.pl^$all
 ||cda-flix.pl^$all
 ||cda-tube.pl^$all
 ||cda-vod.pl^$all
@@ -3297,6 +3301,7 @@
 ||dziennikuprowadzono.online^$all
 ||dziennikuprowadzono.pl^$all
 ||dziennik-inf.xyz^$all
+||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
 ||dziewczyn.pl^$all
 ||dziiendobrypollska.xyz^$all
@@ -4290,6 +4295,7 @@
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.pl-savedcashes.club^$all
+||inpost.pl-savedmoney.icu^$all
 ||inpost.pl-savedmoney.work^$all
 ||inpost.pl-*.*^$document
 ||inpost.polka-oferta.cyou^$all
@@ -5575,6 +5581,7 @@
 ||olx-pays.pl^$all
 ||olx-pay-dk.online^$all
 ||olx-pay-pl.su^$all
+||olx-pay-system.tk^$all
 ||olx-pay.org^$all
 ||olx-pln.eu^$all
 ||olx-pl-delivery.*^$all
@@ -6125,6 +6132,7 @@
 ||payu.space^$all
 ||pay-home-*.*.*^$all
 ||pay-olxdostawa.pl^$all
+||pay-olx-system.tk^$all
 ||pay-olx.cf^$all
 ||pay-olx.gq^$all
 ||pay-pl.site^$all
@@ -6157,6 +6165,7 @@
 ||pensjonatsportowy.pl^$all
 ||peopeyo.net^$all
 ||perfectbrush360.pl^$all
+||perfect-movies.xyz^all
 ||performancevitality.net^$all
 ||perlaibracia.pl^$all
 ||perlowo.pl^$all
@@ -8509,6 +8518,7 @@
 ||superdupershirt.blogspot.com^$all
 ||sweet-lines-of-books.blogspot.com^$all
 ||sweet-little-chaos.blogspot.com^$all
+||swiatfilmu24.blogspot.com^$all
 ||szokgwalt*.blogspot.com^$all
 ||szokinfo247.blogspot.com^$all
 ||szpilki-na-giewoncie.blogspot.com^$all
