@@ -1,8 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||cda-film.prv.pl^$all
-||perfect-movies.xyz^all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -228,6 +226,7 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
+||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
@@ -509,6 +508,7 @@
 ||bioperfect.pl^$all
 ||biozdrowie.com.pl^$all
 ||birdwatcher.pl^$all
+||bireysele-basvurum-destek-kampanyalar.tk^$all
 ||bitbayinvest.net^$all
 ||bitbay-net.com^$all
 ||bitclohiwnenra.info^$all
@@ -702,6 +702,7 @@
 ||cdatube.pl^$all
 ||cda-cda.prv.pl^$all
 ||cda-edb.pl^$all
+||cda-film.prv.pl^$all
 ||cda-flix.pl^$all
 ||cda-tube.pl^$all
 ||cda-vod.pl^$all
@@ -1250,6 +1251,7 @@
 ||dziennikuprowadzono.online^$all
 ||dziennikuprowadzono.pl^$all
 ||dziennik-inf.xyz^$all
+||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
 ||dziewczyn.pl^$all
 ||dziiendobrypollska.xyz^$all
@@ -2243,6 +2245,7 @@
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.pl-savedcashes.club^$all
+||inpost.pl-savedmoney.icu^$all
 ||inpost.pl-savedmoney.work^$all
 ||inpost.pl-*.*^$document
 ||inpost.polka-oferta.cyou^$all
@@ -3528,6 +3531,7 @@
 ||olx-pays.pl^$all
 ||olx-pay-dk.online^$all
 ||olx-pay-pl.su^$all
+||olx-pay-system.tk^$all
 ||olx-pay.org^$all
 ||olx-pln.eu^$all
 ||olx-pl-delivery.*^$all
@@ -4078,6 +4082,7 @@
 ||payu.space^$all
 ||pay-home-*.*.*^$all
 ||pay-olxdostawa.pl^$all
+||pay-olx-system.tk^$all
 ||pay-olx.cf^$all
 ||pay-olx.gq^$all
 ||pay-pl.site^$all
@@ -4110,6 +4115,7 @@
 ||pensjonatsportowy.pl^$all
 ||peopeyo.net^$all
 ||perfectbrush360.pl^$all
+||perfect-movies.xyz^all
 ||performancevitality.net^$all
 ||perlaibracia.pl^$all
 ||perlowo.pl^$all
@@ -6209,9 +6215,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||allegrolokalnie.tk^$all
-||bireysele-basvurum-destek-kampanyalar.tk^$all
-||dziennik-weryfikacja.tk^$all
-||inpost.pl-savedmoney.icu^$all
-||olx-pay-system.tk^$all
-||pay-olx-system.tk^$all
