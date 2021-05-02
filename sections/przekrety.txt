@@ -1,4 +1,16 @@
-||natrasiekorzysci.pl^$all
+||natrasiekorzysci.pl
+||comfortbra.pl
+||e-kocyki.pl
+||parafiagoscino.pl
+||brzegiemziemi.pl
+||kacwyb.pl
+||parafia-krzymow.pl
+||petrolhub.pl
+||pomagaj-my.pl
+||clubretro.com.pl
+||devstartup.pl
+||rekrutacjaksos.pl
+/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.com)?\.pl/$document,domain=pl
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
