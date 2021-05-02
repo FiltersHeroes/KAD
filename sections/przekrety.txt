@@ -1,10 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||michorzewski.pl^$all
-||mandfs.top^$all
-||konstrukcjewronski.pl^$all
-||pl.pl2021.ru^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -2537,6 +2533,7 @@
 ||konkursowy-wybor.eu^$all
 ||konkursy.de^$all
 ||konsens-investment.com^$all
+||konstrukcjewronski.pl^$all
 ||konta2931.pl^$all
 ||kontakt24.xn.pl^$all
 ||konto-all.borec.cz^$all
@@ -2812,6 +2809,7 @@
 ||mandatoplac.net^$all
 ||mandat-5513.net^$all
 ||mandat-6341.net^$all
+||mandfs.top^$all
 ||manistan.com^$all
 ||manvspixel.pl^$all
 ||maralgel.pro^$all
@@ -2895,6 +2893,7 @@
 ||miastowe24.eu^$all
 ||miastowe24.pl^$all
 ||michasiapaczka.org^$all
+||michorzewski.pl^$all
 ||microsoft-o365-outlook.ts.r.appspot.com^$all
 ||microsoft-secure-online.oa.r.appspot.com^$all
 ||miejskagazeta.online^$all
@@ -3645,6 +3644,7 @@
 ||olx.kontopl.shop^$all
 ||olx.kontopl.work^$all
 ||olx.kontopl.xyz^$all
+||olx.kontospl.cam^$all
 ||olx.livrare-ro.info^$all
 ||olx.manager.name^$all
 ||olx.moe^$all
@@ -4387,6 +4387,7 @@
 ||pl.olx.fsb-pays.tk^$all
 ||pl.paymenton.space^$all
 ||pl.pcviruscare.com^$all
+||pl.pl2021.ru^$all
 ||pl.polskikoncernnaftowy.com^$all
 ||pl.profitmaximizer-app.com^$all
 ||pl.safe-olx.casa^$all
@@ -4923,6 +4924,7 @@
 ||rodi.digital^$all
 ||rodzinnemiassteczkkotv.cyou^$all
 ||roseiiy.com^$all
+||rossmanie.xyz^$all
 ||rossmannbonyzakupowe.grvdc.eu^$all
 ||rossmann-rozdawanie.eu^$all
 ||rotary-wloclawek.pl^$all
@@ -6227,5 +6229,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||olx.kontospl.cam^$all
-||rossmanie.xyz^$all
