@@ -17,3 +17,4 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl|~google.*|~duckduck.*
 ||zalukaj*.*^$document,domain=~zalukaj.com,badfilter
 ||zalukaj*.*^$document,domain=~zalukaj.com|~google.*|~duckduck.*
+/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.com)?\.pl/$document
