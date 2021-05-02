@@ -1,16 +1,3 @@
-||natrasiekorzysci.pl
-||comfortbra.pl
-||e-kocyki.pl
-||parafiagoscino.pl
-||brzegiemziemi.pl
-||kacwyb.pl
-||parafia-krzymow.pl
-||petrolhub.pl
-||pomagaj-my.pl
-||clubretro.com.pl
-||devstartup.pl
-||rekrutacjaksos.pl
-/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.com)?\.pl/$document,domain=pl
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
@@ -33,6 +20,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
+/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.com)?\.pl/$document,domain=pl
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
@@ -628,6 +616,7 @@
 ||browsefeatureaasn31254.buzz^$all
 ||brudne-tajemnice.eu^$all
 ||brudne-tajemnice.pl^$all
+||brzegiemziemi.pl
 ||brzezinska.com.pl^$all
 ||bsetuserexperience.wixsite.com^$all
 ||bslcorporationltd.co^$all
@@ -805,6 +794,7 @@
 ||cloud-sso-idea.pl^$all
 ||clpfoundation.org^$all
 ||clubedoestudante.net.br^$all
+||clubretro.com.pl
 ||cmcxxmarket.com^$all
 ||cmentosrl.com^$all
 ||cmxmarket.com^$all
@@ -822,6 +812,7 @@
 ||coinpayhub.ltd^$all
 ||collinsink.cabanova.com^$all
 ||colorking.es^$all
+||comfortbra.pl
 ||complainerscla.xyz^$all
 ||confusingcontact.com^$all
 ||connessionedati.com^$all
@@ -1054,6 +1045,7 @@
 ||developer.team1global.com.au^$all
 ||devicenowaasn37126.xyz^$all
 ||devicenowaasn51541.xyz^$all
+||devstartup.pl
 ||dgebq.csb.app^$all
 ||dgtmarket.com^$all
 ||dhcouriers.com^$all
@@ -1415,6 +1407,7 @@
 ||e-gliwice.xyz^$all
 ||e-informacje24.eu^$all
 ||e-kinomaniak.pl^$all
+||e-kocyki.pl
 ||e-mailprywatnosc.online^$all
 ||e-mailprywatnosc.site^$all
 ||e-mail-regulamin.online^$all
@@ -2449,6 +2442,7 @@
 ||juzzajakkisczas.site^$all
 ||jvccourier.com^$all
 ||kaborun.com^$all
+||kacwyb.pl
 ||kafle.net.pl^$all
 ||kagomei.com^$all
 ||kalendarzdnia23.online^$all
@@ -3116,6 +3110,7 @@
 ||naszpolskiswiat.xyz^$all
 ||nasz--kraj-info.x9.eu^$all
 ||natoniejjestzapozno.site^$all
+||natrasiekorzysci.pl
 ||naturalnazywnosc.pl^$all
 ||naturalna-selekcja.eu^$all
 ||naukaunlimited.pl^$all
@@ -3971,6 +3966,8 @@
 ||papuga.cyou^$all
 ||paqu24.com^$all
 ||paqu24.org^$all
+||parafiagoscino.pl
+||parafia-krzymow.pl
 ||parcelcredit.com^$all
 ||parcel.gjbx346t33h972c.20design.org^$all
 ||parcel.k7uz6lobkb7jhmu.galexar.com^$all
@@ -4140,6 +4137,7 @@
 ||perlaibracia.pl^$all
 ||perlowo.pl^$all
 ||perspektywa2012.za.pl^$all
+||petrolhub.pl
 ||pewiendzienzmieniazycie.site^$all
 ||pewyz.paraplandv.ru^$all
 ||pey24pey.net^$all
@@ -4594,6 +4592,7 @@
 ||pomagajiwspieraj.com^$all
 ||pomagajmypl.*^$all
 ||pomagajmy-szybko.eu^$all
+||pomagaj-my.pl
 ||pomagamy24.dkonto.pl^$all
 ||pomagamy-fakty24.pl^$all
 ||pomagamy-onet.eu^$all
@@ -4904,6 +4903,7 @@
 ||rejestr24.5p.pl^$all
 ||rejestr.5p.pl^$all
 ||reklamapoznan.com.pl^$all
+||rekrutacjaksos.pl
 ||relaxdom.com.pl^$all
 ||relayimmo.com^$all
 ||remontim.pl^$all
