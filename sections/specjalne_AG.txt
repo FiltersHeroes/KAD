@@ -1,4 +1,5 @@
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
+!/^https?:\/\/([0-9]{4,10}|[a-z0-9]{9,32})\.[a-z-]{6,16}(\.(com|net))?\.pl/$document
 *$document,domain=104.248.94.172
 *$doc,domain=104.248.94.172
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
@@ -9,7 +10,6 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup
-!/^https?:\/\/([0-9]{4,10}|[a-z0-9]{9,32})\.[a-z-]{6,16}(\.(com|net))?\.pl/$document
 |http*://*/fb-login/$document,domain=~facebook.com,badfilter
 |http*://*/fb-login/$document,domain=~facebook.com|~google.*|~duckduck.*
 ||chomikuj.*^$document,domain=~chomikuj.pl,badfilter
