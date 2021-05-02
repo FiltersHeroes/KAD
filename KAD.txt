@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 02 May 2021, 13:05 UTC+02
-! Version: 2021.5.2.0
+! Last modified: Sun, 02 May 2021, 17:05 UTC+02
+! Version: 2021.5.2.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4284,6 +4284,7 @@
 ||inpost.digital^$all
 ||inpost.fit^$all
 ||inpost.help^$all
+||inpost.kontospls.bar^$all
 ||inpost.kontospls.store^$all
 ||inpost.life^$all
 ||inpost.link^$all
@@ -5705,6 +5706,7 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.pl-savedmoney.shop^$all
 ||olx.pl-savedmoney.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.get.oferta-payment.technology^$all
@@ -5774,6 +5776,7 @@
 ||onet24.live^$all
 ||onet1111.webd.pro^$all
 ||onetfakt24.eu^$all
+||onetmailsupportsystemnetworks.tk^$all
 ||onetporwanie.*^$all
 ||onetposzukiwani.*^$all
 ||onet-24.space^$all
@@ -6371,6 +6374,7 @@
 ||pl-olx.men^$all
 ||pl-olx.news^$all
 ||pl-olx.page^$all
+||pl-olx.payment-bank.tk^$all
 ||pl-olx.pl^$all
 ||pl-olx.site^$all
 ||pl-olx.tech^$all
@@ -6589,6 +6593,7 @@
 ||polska-poczta.top^$all
 ||polska-poszukiwania.eu^$all
 ||polska-raport.ml^$all
+||polska-raport.tk^$all
 ||polska-teraz*.idl.pl^$all
 ||polska--wiadomosci24h.x9.eu^$all
 ||polskiagazeta24.serwerplus.pl^$all
@@ -6788,6 +6793,7 @@
 ||prywatne-fotki.mywebcommunity.org^$all
 ||prywatniepolska.online^$all
 ||prywatnosc-onet.pl^$all
+||przechodzdalej.tk^$all
 ||przechowalnia.net^$all
 ||przechowalnie.net^$all
 ||przechowanie.net^$all
@@ -6817,6 +6823,7 @@
 ||przesylki.services^$all
 ||przesylki.store^$all
 ||przewozinik.online^$all
+||przewozybugajczyk.pl^$all
 ||przewozy-pegaz.pl^$all
 ||przezwyciezenie-leku.eu^$all
 ||przygarnijplakat.pl^$all
@@ -7854,6 +7861,7 @@
 ||weryfikacja-paczki.in.net^$all
 ||weryfikacja-weryfikacja.pl^$all
 ||weryfikacja.xyz^$all
+||weryfikujemy.tk^$all
 ||weryfikuj-wynik.eu^$all
 ||weselenet.pl^$all
 ||wesolabiesiada.pl^$all
