@@ -22,7 +22,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
-/^https?:\/\/([0-9]{4,10}|[a-z0-9]{9,32})\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
+
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
