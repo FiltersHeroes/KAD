@@ -3,8 +3,8 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
 *$document,domain=104.248.94.172
 *$doc,domain=104.248.94.172
 /^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document
-/^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
-/^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
+/^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
+/^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{4,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup
@@ -19,3 +19,5 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
 ||zalukaj*.*^$document,domain=~zalukaj.com,badfilter
 ||zalukaj*.*^$document,domain=~zalukaj.com|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
+/^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$doccument,popup
