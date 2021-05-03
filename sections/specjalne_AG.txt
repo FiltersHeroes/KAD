@@ -1,7 +1,8 @@
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
-!/^https?:\/\/([0-9]{4,10}|[a-z0-9]{9,32})\.[a-z-]{6,16}(\.(com|net))?\.pl/$document
+!/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document
 *$document,domain=104.248.94.172
 *$doc,domain=104.248.94.172
+/^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
 /^https?:\/\/([\w]{1,4}\.)(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*|~duckduck.*
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
