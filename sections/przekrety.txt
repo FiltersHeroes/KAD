@@ -1,6 +1,5 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
-||profit4you-now.life^$all
 !||torrentos.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
@@ -262,6 +261,7 @@
 ||allegro.lokalnie.holdings^$all
 ||allegro.lokalnie.me^$all
 ||allegro.lokalnie.work^$all
+||allegro.mojllokalnie.online^$all
 ||allegro.net^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.lokalnie.me^$all
@@ -582,6 +582,7 @@
 ||bos-logowanie-24.com^$all
 ||boteco.pl^$all
 ||boxdelivery.org^$all
+||boxworktoardazana.link^$all
 ||boxworktoardazana.xyz^$all
 ||bozenan.swk.vectranet.pl^$all
 ||bqtsystemapp.com^$all
@@ -1177,6 +1178,7 @@
 ||dotarlibysmydoniego.cyou^$all
 ||dotpay1.pl^$all
 ||dotpay.pocztapolska48.com^$all
+||dotpay.pocztapolska247.com^$all
 ||dotpay.pocztexpolska48.net^$all
 ||dotpay.pocztexpolska.org^$all
 ||dotpay.pocztex-poland.net^$all
@@ -2231,6 +2233,8 @@
 ||inpost.pl-savebuys.cyou^$all
 ||inpost.pl-savebuys.icu^$all
 ||inpost.pl-savebuys.shop^$all
+||inpost.pl-savebuys.work^$all
+||inpost.pl-savebuys.xyz^$all
 ||inpost.pl-savedcashes.club^$all
 ||inpost.pl-savedmoney.icu^$all
 ||inpost.pl-savedmoney.shop^$all
@@ -2730,6 +2734,7 @@
 ||lokalny-informuje.dnsrobotuptime.ru^$all
 ||lombardujemy.com^$all
 ||lombard-kolobrzeg.pl^$all
+||lomino.xyz^$all
 ||londontrade.exchange^$all
 ||longxvisitorcenter.xyz^$all
 ||losca3.wixsite.com^$all
@@ -3647,6 +3652,7 @@
 ||olx.pl-oplata-cash.xyz^$all
 ||olx.pl-safebuyed.icu^$all
 ||olx.pl-safebuyed.shop^$all
+||olx.pl-safebuyed.work^$all
 ||olx.pl-safebuyed.xyz^$all
 ||olx.pl-safebuys.cyou^$all
 ||olx.pl-safebuys.icu^$all
@@ -3654,6 +3660,7 @@
 ||olx.pl-safebuy.shop^$all
 ||olx.pl-safebuy.work^$all
 ||olx.pl-safebuy.xyz^$all
+||olx.pl-safety.oferta-payment.stream^$all
 ||olx.pl-safe.oferta-payment.stream^$all
 ||olx.pl-savebuys.club^$all
 ||olx.pl-savebuys.cyou^$all
@@ -3661,6 +3668,7 @@
 ||olx.pl-savebuys.shop^$all
 ||olx.pl-savebuys.work^$all
 ||olx.pl-savebuys.xyz^$all
+||olx.pl-savebuy.club^$all
 ||olx.pl-savedmoney.shop^$all
 ||olx.pl-savedmoney.work^$all
 ||olx.pl-*.*^$document
@@ -4451,6 +4459,7 @@
 ||poczta.pl-safeway.live^$all
 ||poczta.pl-savedmoney.icu^$all
 ||poczta.ron-mil-pl.site^$all
+||poczta.vp-pl.website^$all
 ||poczta.wp-pl.eu^$all
 ||poczteks24.net^$all
 ||poczteks.net^$all
@@ -4723,6 +4732,7 @@
 ||procars-shoppl*.com^$all
 ||procoches.areadirecta.es^$all
 ||producent-witaczy.pl^$all
+||profit4you-now.life^$all
 ||profitmaximum.pl^$all
 ||profitrevolution.live^$all
 ||projectsociety.pl^$all
@@ -5263,6 +5273,7 @@
 ||sso-cloud-idea.com^$all
 ||sso-ideabank.com^$all
 ||sspbadecz.ugu.pl^$all
+||ss.byu.name^$all
 ||staemcommnunity.com^$all
 ||stakim.org^$all
 ||stanik.cyou^$all
@@ -6220,14 +6231,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||allegro.mojllokalnie.online^$all
-||boxworktoardazana.link^$all
-||dotpay.pocztapolska247.com^$all
-||inpost.pl-savebuys.work^$all
-||inpost.pl-savebuys.xyz^$all
-||lomino.xyz^$all
-||olx.pl-safebuyed.work^$all
-||olx.pl-safety.oferta-payment.stream^$all
-||olx.pl-savebuy.club^$all
-||poczta.vp-pl.website^$all
-||ss.byu.name^$all
