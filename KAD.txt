@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 04 May 2021, 13:05 UTC+02
-! Version: 2021.5.4.0
+! Last modified: Tue, 04 May 2021, 17:08 UTC+02
+! Version: 2021.5.4.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2289,6 +2289,7 @@
 ||allegro.lokalnie.holdings^$all
 ||allegro.lokalnie.me^$all
 ||allegro.lokalnie.work^$all
+||allegro.mojllokalnie.online^$all
 ||allegro.net^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.lokalnie.me^$all
@@ -2609,6 +2610,7 @@
 ||bos-logowanie-24.com^$all
 ||boteco.pl^$all
 ||boxdelivery.org^$all
+||boxworktoardazana.link^$all
 ||boxworktoardazana.xyz^$all
 ||bozenan.swk.vectranet.pl^$all
 ||bqtsystemapp.com^$all
@@ -3204,6 +3206,7 @@
 ||dotarlibysmydoniego.cyou^$all
 ||dotpay1.pl^$all
 ||dotpay.pocztapolska48.com^$all
+||dotpay.pocztapolska247.com^$all
 ||dotpay.pocztexpolska48.net^$all
 ||dotpay.pocztexpolska.org^$all
 ||dotpay.pocztex-poland.net^$all
@@ -4258,6 +4261,8 @@
 ||inpost.pl-savebuys.cyou^$all
 ||inpost.pl-savebuys.icu^$all
 ||inpost.pl-savebuys.shop^$all
+||inpost.pl-savebuys.work^$all
+||inpost.pl-savebuys.xyz^$all
 ||inpost.pl-savedcashes.club^$all
 ||inpost.pl-savedmoney.icu^$all
 ||inpost.pl-savedmoney.shop^$all
@@ -4757,6 +4762,7 @@
 ||lokalny-informuje.dnsrobotuptime.ru^$all
 ||lombardujemy.com^$all
 ||lombard-kolobrzeg.pl^$all
+||lomino.xyz^$all
 ||londontrade.exchange^$all
 ||longxvisitorcenter.xyz^$all
 ||losca3.wixsite.com^$all
@@ -5674,6 +5680,7 @@
 ||olx.pl-oplata-cash.xyz^$all
 ||olx.pl-safebuyed.icu^$all
 ||olx.pl-safebuyed.shop^$all
+||olx.pl-safebuyed.work^$all
 ||olx.pl-safebuyed.xyz^$all
 ||olx.pl-safebuys.cyou^$all
 ||olx.pl-safebuys.icu^$all
@@ -5681,6 +5688,7 @@
 ||olx.pl-safebuy.shop^$all
 ||olx.pl-safebuy.work^$all
 ||olx.pl-safebuy.xyz^$all
+||olx.pl-safety.oferta-payment.stream^$all
 ||olx.pl-safe.oferta-payment.stream^$all
 ||olx.pl-savebuys.club^$all
 ||olx.pl-savebuys.cyou^$all
@@ -5688,6 +5696,7 @@
 ||olx.pl-savebuys.shop^$all
 ||olx.pl-savebuys.work^$all
 ||olx.pl-savebuys.xyz^$all
+||olx.pl-savebuy.club^$all
 ||olx.pl-savedmoney.shop^$all
 ||olx.pl-savedmoney.work^$all
 ||olx.pl-*.*^$document
@@ -6478,6 +6487,7 @@
 ||poczta.pl-safeway.live^$all
 ||poczta.pl-savedmoney.icu^$all
 ||poczta.ron-mil-pl.site^$all
+||poczta.vp-pl.website^$all
 ||poczta.wp-pl.eu^$all
 ||poczteks24.net^$all
 ||poczteks.net^$all
@@ -6750,6 +6760,7 @@
 ||procars-shoppl*.com^$all
 ||procoches.areadirecta.es^$all
 ||producent-witaczy.pl^$all
+||profit4you-now.life^$all
 ||profitmaximum.pl^$all
 ||profitrevolution.live^$all
 ||projectsociety.pl^$all
@@ -7290,6 +7301,7 @@
 ||sso-cloud-idea.com^$all
 ||sso-ideabank.com^$all
 ||sspbadecz.ugu.pl^$all
+||ss.byu.name^$all
 ||staemcommnunity.com^$all
 ||stakim.org^$all
 ||stanik.cyou^$all
