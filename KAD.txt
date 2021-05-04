@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 03 May 2021, 21:05 UTC+02
-! Version: 2021.5.3.3
+! Last modified: Tue, 04 May 2021, 13:05 UTC+02
+! Version: 2021.5.4.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -222,6 +222,7 @@
 ||butykeenpolska.com^$all
 ||butymartensy.com^$all
 ||butymizunopolska.com^$all
+||butyplsklep.com^$all
 ||butypremium.pl^$all
 ||butyreebokonline.pl^$all
 ||butyreebokpolska.com^$all
@@ -1206,6 +1207,7 @@
 ||pumaprzeceny.pl^$all
 ||pumatanio.com^$all
 ||puna.pl^$all
+||pupolskama.pl^$all
 ||purething.pl^$all
 ||px1alsry.com^$all
 ||pynio.pl^$all
@@ -2702,6 +2704,7 @@
 ||cats.ugu.pl^$all
 ||cbdnewsdirect.com^$all
 ||cbd-and-seizures.com^$all
+||cc73817.tmweb.ru^$all
 ||cco0.cc^$all
 ||ccpgotofuture.ru^$all
 ||ccredits-agricole.com^$all
@@ -3201,6 +3204,7 @@
 ||dotarlibysmydoniego.cyou^$all
 ||dotpay1.pl^$all
 ||dotpay.pocztapolska48.com^$all
+||dotpay.pocztexpolska48.net^$all
 ||dotpay.pocztexpolska.org^$all
 ||dotpay.pocztex-poland.net^$all
 ||downloadfiles.pl^$all
@@ -3431,6 +3435,7 @@
 ||e-przesylki.com^$all
 ||e-przysietnica.pl^$all
 ||e-radom.xyz^$all
+||e-rzeszow.xyz^$all
 ||e-solutions.com.pe^$all
 ||e-sosnowiec.xyz^$all
 ||e-support.xyz^$all
@@ -4239,9 +4244,20 @@
 ||inpost.order-pl.art^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
+||inpost.pl-safebuyed.shop^$all
+||inpost.pl-safebuyed.work^$all
+||inpost.pl-safebuyed.xyz^$all
+||inpost.pl-safebuys.club^$all
+||inpost.pl-safebuys.cyou^$all
+||inpost.pl-safebuys.shop^$all
 ||inpost.pl-safebuys.work^$all
+||inpost.pl-safebuy.icu^$all
 ||inpost.pl-safebuy.shop^$all
 ||inpost.pl-safebuy.work^$all
+||inpost.pl-savebuys.club^$all
+||inpost.pl-savebuys.cyou^$all
+||inpost.pl-savebuys.icu^$all
+||inpost.pl-savebuys.shop^$all
 ||inpost.pl-savedcashes.club^$all
 ||inpost.pl-savedmoney.icu^$all
 ||inpost.pl-savedmoney.shop^$all
@@ -4889,6 +4905,7 @@
 ||miastowe24.pl^$all
 ||michasiapaczka.org^$all
 ||michorzewski.pl^$all
+||microsoftserviceautheticationteam.weebly.com^$all
 ||microsoft-o365-outlook.ts.r.appspot.com^$all
 ||microsoft-secure-online.oa.r.appspot.com^$all
 ||miejskagazeta.online^$all
@@ -5656,11 +5673,21 @@
 ||olx.pink^$all
 ||olx.pl-oplata-cash.xyz^$all
 ||olx.pl-safebuyed.icu^$all
+||olx.pl-safebuyed.shop^$all
+||olx.pl-safebuyed.xyz^$all
 ||olx.pl-safebuys.cyou^$all
 ||olx.pl-safebuys.icu^$all
+||olx.pl-safebuy.icu^$all
 ||olx.pl-safebuy.shop^$all
 ||olx.pl-safebuy.work^$all
 ||olx.pl-safebuy.xyz^$all
+||olx.pl-safe.oferta-payment.stream^$all
+||olx.pl-savebuys.club^$all
+||olx.pl-savebuys.cyou^$all
+||olx.pl-savebuys.icu^$all
+||olx.pl-savebuys.shop^$all
+||olx.pl-savebuys.work^$all
+||olx.pl-savebuys.xyz^$all
 ||olx.pl-savedmoney.shop^$all
 ||olx.pl-savedmoney.work^$all
 ||olx.pl-*.*^$document
