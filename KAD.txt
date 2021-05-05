@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 05 May 2021, 17:06 UTC+02
-! Version: 2021.5.5.1
+! Last modified: Wed, 05 May 2021, 21:05 UTC+02
+! Version: 2021.5.5.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2282,6 +2282,7 @@
 ||allegro.2lokallnie.online^$all
 ||allegro.3lokallnie.online^$all
 ||allegro.casa^$all
+||allegro.llokallnie.online^$all
 ||allegro.llokallnie.site^$all
 ||allegro.lokalnie.casa^$all
 ||allegro.lokalnie.cash^$all
@@ -2927,6 +2928,7 @@
 ||czasnazmianywzyciu.online^$all
 ||czaspolaka.eu^$all
 ||czemarserwis.home.pl^$all
+||czemubyniezaczac.website^$all
 ||czymsiezajmujebiznes.cyou^$all
 ||czyn-pomocy.eu^$all
 ||czyscidlo.pl^$all
@@ -4127,6 +4129,7 @@
 ||informacje-energylandia.dfirma.pl^$all
 ||informacje-live24.eu^$all
 ||informacje-lokaalne.dnsrobotuptime.ru^$all
+||informacje-miasto24.eu^$all
 ||informacje-mojemiasto24.eu^$all
 ||informacje-od-policjiasdas.dnsrobotuptime.ru^$all
 ||informacje-onet.eu^$all
@@ -4282,6 +4285,7 @@
 ||inpost.pl-savedmoney.icu^$all
 ||inpost.pl-savedmoney.shop^$all
 ||inpost.pl-savedmoney.work^$all
+||inpost.pl-savesbuy.icu^$all
 ||inpost.pl-*.*^$document
 ||inpost.polska-dastawka.casa^$all
 ||inpost.polska-dastawka.xyz^$all
@@ -5066,6 +5070,7 @@
 ||m-facebook.ct8.pl^$all
 ||m-instagram.org^$all
 ||m-olx-oferta.name^$all
+||m-olx.cam^$all
 ||m-order.fun^$all
 ||m.delivery.olx.pl.oferta.accountant^$all
 ||nabijaj-internetowo.eu^$all
@@ -5408,6 +5413,7 @@
 ||okazja2021.online^$all
 ||okazja.cyou^$all
 ||okaz-wspomnienie.eu^$all
+||okrilno.xyz^$all
 ||okshoespoland.com^$all
 ||okularypowiekszajace-pl.com^$all
 ||olejzus.pl^$all
@@ -5587,6 +5593,7 @@
 ||olx-pl.info^$all
 ||olx-pl.iso-pay.net.ru^$all
 ||olx-pl.ml^$all
+||olx-pl.moja-dostawa.online^$all
 ||olx-pl.moneta.world^$all
 ||olx-pl.mpay-fs.info^$all
 ||olx-pl.net^$all
@@ -6156,6 +6163,7 @@
 ||pay-olx.gq^$all
 ||pay-pl.site^$all
 ||pay-u24.net^$all
+||pay.inpost.cam^$all
 ||pay.olx.pl.link-secure.net.ru^$all
 ||pay.pocztapolska24.com^$all
 ||pay.pocztapolska24.org^$all
@@ -6824,6 +6832,7 @@
 ||przeglosuj-strone.eu^$all
 ||przejdzmy-razem.eu^$all
 ||przejdz.ml^$all
+||przekazujeinformacje.online^$all
 ||przekazy24.net^$all
 ||przekie-owuje.co.pl^$all
 ||przelew24online.site^$all
@@ -7356,6 +7365,7 @@
 ||steamcammunnity.ru.com^$all
 ||steamcommunjty.com^$all
 ||steamcomnenity.ru.com^$all
+||steamcomunjty.com^$all
 ||steamcomunnjty.com^$all
 ||steamconmumity.ru^$all
 ||steamconmunuity.com^$all
@@ -7405,6 +7415,7 @@
 ||sub3.blocked-site-hole-cert.pl^$all
 ||subtim-outlook.com^$all
 ||subtletg.com^$all
+||sub.gyt-ti.online^$all
 ||success-jezyki.pl^$all
 ||sukces-wspolnych.eu^$all
 ||sukhumvithomes.com^$all
