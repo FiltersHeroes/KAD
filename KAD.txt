@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 05 May 2021, 13:05 UTC+02
-! Version: 2021.5.5.0
+! Last modified: Wed, 05 May 2021, 17:06 UTC+02
+! Version: 2021.5.5.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2282,6 +2282,7 @@
 ||allegro.2lokallnie.online^$all
 ||allegro.3lokallnie.online^$all
 ||allegro.casa^$all
+||allegro.llokallnie.site^$all
 ||allegro.lokalnie.casa^$all
 ||allegro.lokalnie.cash^$all
 ||allegro.lokalnie.digital^$all
@@ -2607,6 +2608,7 @@
 ||bootspolska.pl^$all
 ||bos24-login.com^$all
 ||bosbank-24.com^$all
+||bosbnk.pl^$all
 ||bossbank24.com^$all
 ||boss-logowanie-24.com^$all
 ||bos-bank.com^$all
@@ -6402,6 +6404,7 @@
 ||pl-pl-fb.com^$all
 ||pl-postkod.com^$all
 ||pl-posts.xyz^$all
+||pl-proffit.com^$all
 ||pl-receive.xyz^$all
 ||pl-safedeal.shop^$all
 ||pl-safedeal.xyz^$all
