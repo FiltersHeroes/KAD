@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 05 May 2021, 21:05 UTC+02
-! Version: 2021.5.5.2
+! Last modified: Thu, 06 May 2021, 13:09 UTC+02
+! Version: 2021.5.6.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -234,6 +234,7 @@
 ||butysuprassklep.com^$all
 ||butyvanspolska.com^$all
 ||butyvibram.pl^$all
+||buzzihome.com^$all
 ||buzzonclick.com^$all
 ||byagadget.com^$all
 ||bynajmniej4.pl^$all
@@ -325,6 +326,7 @@
 ||daimond.pl^$all
 ||dampozyczke.pl^$all
 ||danafashiontrends.us^$all
+||darekfoks.pl^$all
 ||darmowe-ebooki.com.pl^$all
 ||darmowe-ebooki.net^$all
 ||darmowe-zakupy.com^$all
@@ -397,6 +399,7 @@
 ||easypoele.pl^$all
 ||easy-hc24.pl^$all
 ||ebook4all.com.pl^$all
+||eccobutypolska.com^$all
 ||eccobuty.co^$all
 ||eccoeustore.com^$all
 ||eccopoland.com^$all
@@ -679,6 +682,7 @@
 ||jerzylukaszwalczak.com.pl^$all
 ||jeunesseglobal.com^$all
 ||jf-aesthetic.pl^$all
+||jimmychoopolska.pl^$all
 ||joga-makai.pl^$all
 ||jonizatorsklep.pl^$all
 ||jordenmadsen.com^$all
@@ -1118,6 +1122,7 @@
 ||plik-pobierz.pl^$all
 ||plusmedia.pl^$all
 ||pl-huda.myshopify.com^$all
+||pl.bestsaleonline2021.com^$all
 ||pl.godeal24.com^$all
 ||pl.gvgmall.com^$all
 ||pl.lucybreeze.com^$all
@@ -1355,6 +1360,7 @@
 ||skutecznesrodki-tabletkinapotencje.ovh^$all
 ||skutecznyautokomis.pl^$all
 ||slawop.net^$all
+||slicznydzien.com.pl^$all
 ||slimak-pozyczki.pl^$all
 ||slodkibar.pl^$all
 ||smartmarket.com.pl^$all
@@ -2284,6 +2290,7 @@
 ||allegro.casa^$all
 ||allegro.llokallnie.online^$all
 ||allegro.llokallnie.site^$all
+||allegro.llokalnie.online^$all
 ||allegro.lokalnie.casa^$all
 ||allegro.lokalnie.cash^$all
 ||allegro.lokalnie.digital^$all
@@ -2409,6 +2416,7 @@
 ||atforum.pl^$all
 ||atnimanvilla.com^$all
 ||auger.pl^$all
+||authenticator.signinid-aapppleid.super-host.pl^$all
 ||autorentier.pl^$all
 ||avaparse.ir^$all
 ||avbtrk.com^$all
@@ -3212,6 +3220,7 @@
 ||doswiadczbiznzesu24.site^$all
 ||dotarlibysmydoniego.cyou^$all
 ||dotpay1.pl^$all
+||dotpay.epocztapolska24.net^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
 ||dotpay.pocztexpolska48.net^$all
@@ -3357,6 +3366,7 @@
 ||epiatnosc.com^$all
 ||epicsinvestment.com^$all
 ||eplotery.pl^$all
+||epocztapolska24.net^$all
 ||epoczta-interia.com^$all
 ||eporwanienatalki.*^$all
 ||eqvpismqyp.web.app^$all
@@ -3814,6 +3824,8 @@
 ||gazetkamazowsze.pl^$all
 ||gazetkawarszawa.eu^$all
 ||gazetkawarszawa.pl^$all
+||gazetowoswiatowo.pl^$all
+||gazetowo-swiatowo.pl^$all
 ||gazetowo.eu^$all
 ||gcesab.com^$all
 ||gcginternational.com^$all
@@ -3912,6 +3924,8 @@
 ||goraceinfo.pl^$all
 ||gorace-informacje.pl^$all
 ||gorace-info.pl^$all
+||goracytemat.pl^$all
+||goracy-temat.pl^$all
 ||gorisemarkets.com^$all
 ||gospodarstwo-rolne.com.pl^$all
 ||goths.store^$all
@@ -4234,6 +4248,7 @@
 ||inpost-pay.online^$all
 ||inpost-piatnosc-24.xyz^$all
 ||inpost-platnosc.in.net^$all
+||inpost-pl-pay.site^$all
 ||inpost-pl.com^$all
 ||inpost-pl.online^$all
 ||inpost-zamowienie.pl^$all
@@ -4252,6 +4267,9 @@
 ||inpost.link^$all
 ||inpost.live^$all
 ||inpost.ltd^$all
+||inpost.moferta.life^$all
+||inpost.moferta.live^$all
+||inpost.moferta.xyz^$all
 ||inpost.name^$all
 ||inpost.oferda-pl.space^$all
 ||inpost.order-pl.art^$all
@@ -4281,11 +4299,20 @@
 ||inpost.pl-savebuy.shop^$all
 ||inpost.pl-savebuy.work^$all
 ||inpost.pl-savebuy.xyz^$all
+||inpost.pl-savedbuy.cyou^$all
+||inpost.pl-savedbuy.icu^$all
+||inpost.pl-savedbuy.shop^$all
+||inpost.pl-savedbuy.work^$all
 ||inpost.pl-savedcashes.club^$all
 ||inpost.pl-savedmoney.icu^$all
 ||inpost.pl-savedmoney.shop^$all
 ||inpost.pl-savedmoney.work^$all
+||inpost.pl-savesbuy.club^$all
+||inpost.pl-savesbuy.cyou^$all
 ||inpost.pl-savesbuy.icu^$all
+||inpost.pl-savesbuy.shop^$all
+||inpost.pl-savesbuy.work^$all
+||inpost.pl-savesbuy.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.polska-dastawka.casa^$all
 ||inpost.polska-dastawka.xyz^$all
@@ -4627,6 +4654,7 @@
 ||kupuj-tanio-oferta-578191.xyz^$all
 ||kup-teraz-237401.xyz^$all
 ||kup-teraz-859110.xyz^$all
+||kup.mojlokalnie.site^$all
 ||kuriedh.com^$all
 ||kurierdhl.com^$all
 ||kurierfedex.pl^$all
@@ -4848,6 +4876,7 @@
 ||mandat-5513.net^$all
 ||mandat-6341.net^$all
 ||mandfs.top^$all
+||manio.xyz^$all
 ||manistan.com^$all
 ||manvspixel.pl^$all
 ||marabu.xyz^$all
@@ -4941,6 +4970,7 @@
 ||mientayweb.com^$all
 ||milano.koscian.pl^$all
 ||militanttra.at^$all
+||millano.xyz^$all
 ||millbunss.xyz^$all
 ||millensbank.*^$all
 ||millensbannk.*^$all
@@ -5279,6 +5309,7 @@
 ||obadatrendy.com^$all
 ||obecnybizznespolski.website^$all
 ||obkzrcclean2.az.pl^$all
+||oblesni.vot.pl^$all
 ||obowiazkipolskie.online^$all
 ||obslugakelnerska20.wixsite.com^$all
 ||oceniaj-wygranego.eu^$all
@@ -5390,6 +5421,7 @@
 ||ogloszenia24.dfirma.pl^$all
 ||ogloszeniateraz97.club^$all
 ||ogloszenia-24.cba.pl^$all
+||ogloszenia-gminne.pl^$all
 ||ogloszenia-olx.you2.pl^$all
 ||ogloszenie24.in.net^$all
 ||ogloszenie156712.xyz^$all
@@ -5462,6 +5494,7 @@
 ||olxpl.co^$all
 ||olxpl.deals^$all
 ||olxpl.delivery-c.com^$all
+||olxpl.delivery-u.com^$all
 ||olxpl.id84884043.mba^$all
 ||olxpl.id-173056.com^$all
 ||olxpl.me^$all
@@ -5689,6 +5722,8 @@
 ||olx.manager.name^$all
 ||olx.moe^$all
 ||olx.moferta.life^$all
+||olx.moferta.live^$all
+||olx.moferta.xyz^$all
 ||olx.new-payment.store^$all
 ||olx.oferda-pl.biz^$all
 ||olx.oferda-pl.fun^$all
@@ -5729,8 +5764,15 @@
 ||olx.pl-savebuy.shop^$all
 ||olx.pl-savebuy.work^$all
 ||olx.pl-savebuy.xyz^$all
+||olx.pl-savedbuy.club^$all
+||olx.pl-savedbuy.cyou^$all
+||olx.pl-savedbuy.icu^$all
+||olx.pl-savedbuy.shop^$all
+||olx.pl-savedbuy.work^$all
+||olx.pl-savedbuy.xyz^$all
 ||olx.pl-savedmoney.shop^$all
 ||olx.pl-savedmoney.work^$all
+||olx.pl-savesbuy.club^$all
 ||olx.pl-*.*^$document
 ||olx.pl.get.oferta-payment.technology^$all
 ||olx.pl.merchants-pay.pw^$all
@@ -6062,6 +6104,7 @@
 ||pay06-olx.pl^$all
 ||pay07-olx.pl^$all
 ||pay08-olx.pl^$all
+||pay08-olx.pw^$all
 ||pay10-olx.pl^$all
 ||pay11-olx.pl^$all
 ||pay12-olx.pl^$all
@@ -6521,6 +6564,7 @@
 ||poczta.pl-safebuy.shop^$all
 ||poczta.pl-safeway.live^$all
 ||poczta.pl-savedmoney.icu^$all
+||poczta.pl-savesbuy.xyz^$all
 ||poczta.ron-mil-pl.site^$all
 ||poczta.vp-pl.website^$all
 ||poczta.wp-pl.eu^$all
@@ -6584,6 +6628,8 @@
 ||poll.cityxman.com^$all
 ||polonia-pl.com^$all
 ||poloralphlaurenpoland.pl^$all
+||polsatnevsy.pl^$all
+||polsat-nevsy.pl^$all
 ||polsh.in^$all
 ||polska24info.dkonto.pl^$all
 ||polska24poszukiwani.dkonto.pl^$all
@@ -6792,6 +6838,7 @@
 ||primodiagnosis.pl^$all
 ||priorytetovvo.com^$all
 ||prismaliquid.xyz^$all
+||prismaliquld.xyz^$all
 ||prize-opportunities.com^$all
 ||prize-program.club^$all
 ||procars-shoppl*.com^$all
@@ -6890,6 +6937,7 @@
 ||pzutrasyzdrowia.pl^$all
 ||qolx.pl^$all
 ||qqqqttt.weebly.com^$all
+||qqsms.in^$all
 ||quantro.xyz^$all
 ||quartexindustries.com^$all
 ||qubble.com^$all
@@ -7065,6 +7113,7 @@
 ||samxtrade.com^$all
 ||sancang-movies.com^$all
 ||sandbella.com^$all
+||sandeman.xyz^$all
 ||sandomir.pl^$all
 ||santanber.pl^$all
 ||santander24bank.online^$all
@@ -7341,6 +7390,7 @@
 ||sso-cloud-idea.com^$all
 ||sso-ideabank.com^$all
 ||sspbadecz.ugu.pl^$all
+||ss.beeps.name^$all
 ||ss.byu.name^$all
 ||staemcommnunity.com^$all
 ||stakim.org^$all
@@ -7448,9 +7498,12 @@
 ||swapgg.pl^$all
 ||swiat24.dkonto.pl^$all
 ||swiatfilmikow.pl^$all
+||swiatoweinfa.pl^$all
+||swiatowe-infa.pl^$all
 ||swiatpilne.eu^$all
 ||swiatwiadomosci.xyz^$all
 ||swiat-inaczej.you2.pl^$all
+||swiat-informacji.pl^$all
 ||swiezefakty.eu^$all
 ||swiftcryptofx.com^$all
 ||swingmarketscfd.com^$all
@@ -7667,12 +7720,14 @@
 ||tvn24.dfirma.pl^$all
 ||tvnowapp.net^$all
 ||tvn-uwaga.dfirma.pl^$all
+||tvogloszam.pl^$all
 ||tvpinfo.net.pl^$all
 ||tvp-informacyjna*.eu^$all
 ||tvp-info.xyz^$all
 ||tvp-info.you2.pl^$all
 ||tvp-polska.dfirma.pl^$all
 ||tv-maniak.pl^$all
+||tv-ogloszam.pl^$all
 ||tv.gorzow.pl^$all
 ||twenty-wishes.000webhostapp.com^$all
 ||twilight-pointed-plant.glitch.me^$all
@@ -7793,6 +7848,7 @@
 ||valuesmatter.com.au^$all
 ||vannes776.com^$all
 ||vanscheers.com^$all
+||vardian.xyz^$all
 ||varicolen.pl^$all
 ||vcampetyld.xyz^$all
 ||vdomainwebmgno.ga^$all
@@ -7805,6 +7861,7 @@
 ||verino.co.pl^$all
 ||verlinkid.link^$all
 ||versacesklep.com^$all
+||versales.xyz^$all
 ||vgdny.com^$all
 ||vidalyasociados.com^$all
 ||videoplanet.pl^$all
@@ -7904,10 +7961,14 @@
 ||whiskytawn.xyz^$all
 ||whiteflix.pl^$all
 ||whiteoutsolutions.technology^$all
+||wiadomoacizmiasata.pl^$all
 ||wiadomosci24polska.pl^$all
 ||wiadomosci24-live.eu^$all
+||wiadomoscigmina.pl^$all
 ||wiadomoscinewsy.live^$all
+||wiadomoscionetu.pl^$all
 ||wiadomoscionet.pythonanywhere.com^$all
+||wiadomoscione-tu.pl^$all
 ||wiadomoscipolskie.online^$all
 ||wiadomoscizkraju24.com.pl^$all
 ||wiadomoscizkraju.online^$all
@@ -7915,6 +7976,7 @@
 ||wiadomoscizkraju.xyz^$all
 ||wiadomosci-24.dkonto.pl^$all
 ||wiadomosci-facebook.eu^$all
+||wiadomosci-gmina.pl^$all
 ||wiadomosci-j24.cleverapps.io^$all
 ||wiadomosci-region24.pl^$all
 ||wiadomosci.you2.pl^$all
@@ -8244,8 +8306,10 @@
 ||znakkommiterezultaty.space^$all
 ||znamcie.pl^$all
 ||znaneleki.pl^$all
+||znanytemat.pl^$all
 ||znany-lekarz.dfirma.pl^$all
 ||znany-lekarz.pl^$all
+||znany-temat.pl^$all
 ||zobaczfotki.eu^$all
 ||zobaczymyczyjjeszczesieuad.space^$all
 ||zobacz-film.pl^$all
