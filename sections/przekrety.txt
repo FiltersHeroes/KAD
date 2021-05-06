@@ -1,10 +1,10 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
+!||olx.polska-dostawa.*^$document
+!||olx.polska-oferda.*^$document
+!||olx.polska-oferd.*^$document
+!||olx.polska-oferta.*^$document
 !||torrentos.pl^$all
-||boxshop24.pl^$all
-||obuwiedr.com^$all
-||hunterbootspl.com^$all
-||lombardjanusz.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -605,6 +605,7 @@
 ||bos-logowanie-24.com^$all
 ||boteco.pl^$all
 ||boxdelivery.org^$all
+||boxshop24.pl^$all
 ||boxworktoardazana.link^$all
 ||boxworktoardazana.xyz^$all
 ||bozenan.swk.vectranet.pl^$all
@@ -2034,6 +2035,7 @@
 ||hugetradingincome.com^$all
 ||hugobosspl.pl^$all
 ||hungpol.pl^$all
+||hunterbootspl.com^$all
 ||hunterbootspoland.com^$all
 ||huntercena.com^$all
 ||hurreu.store^$all
@@ -2744,6 +2746,7 @@
 ||lokalniprzewodnicy.com.pl^$all
 ||lokalnleallegro.xyz^$all
 ||lokalny-informuje.dnsrobotuptime.ru^$all
+||lombardjanusz.com^$all
 ||lombardujemy.com^$all
 ||lombard-kolobrzeg.pl^$all
 ||lomino.xyz^$all
@@ -3253,6 +3256,7 @@
 ||oblesni.vot.pl^$all
 ||obowiazkipolskie.online^$all
 ||obslugakelnerska20.wixsite.com^$all
+||obuwiedr.com^$all
 ||oceniaj-wygranego.eu^$all
 ||oceniam.to^$all
 ||ocenzobaczbizznes.cyou^$all
@@ -3691,7 +3695,6 @@
 ||olx.polka-oferta.work^$all
 ||olx.polka-oferta.xyz^$all
 ||olx.polska-*.*^$document
-
 ||olx.przesylki-secure.com^$all
 ||olx.przesylki.*^$all
 ||olx.przesylk.*^$all
@@ -3701,7 +3704,6 @@
 ||olx.so^$all
 ||olx.transakcja.pw^$all
 ||olx.wyprzedaz-*.*^$document
-
 ||olx.wysyllka.pl^$all
 ||olx.zamowienie.*^$all
 ||olympusholding.co^$all
@@ -3734,10 +3736,6 @@
 ||onet-news.you2.pl^$all
 ||onet-nowosci.xyz^$all
 ||onet-nowosc.xyz^$all
-!||olx.polska-oferd.*^$document
-!||olx.polska-oferta.*^$document
-!||olx.polska-oferda.*^$document
-!||olx.polska-dostawa.*^$document
 ||onet-o24.herokuapp.com^$all
 ||onet-online.pl^$all
 ||onet-pomocy.xyz^$all
