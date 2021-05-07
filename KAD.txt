@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 07 May 2021, 13:06 UTC+02
-! Version: 2021.5.7.0
+! Last modified: Fri, 07 May 2021, 17:05 UTC+02
+! Version: 2021.5.7.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2140,9 +2140,13 @@
 ||997policja.pl^$all
 ||997policyjka.pl^$all
 ||997policyjne.pl^$all
+||997policyjni.pl^$all
+||997poszukiwani.pl^$all
 ||997-policja.pl^$all
 ||997-policyjka.pl^$all
 ||997-policyjne.pl^$all
+||997-policyjni.pl^$all
+||997-poszukiwani.pl^$all
 ||4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com^$all
 ||7228.eu^$all
 ||26159-dot-custom-history-301500.appspot.com^$all
@@ -2290,6 +2294,7 @@
 ||allegrosmart.net^$all
 ||allegro-apk.net^$all
 ||allegro-credit.info^$all
+||allegro-lokallnie.site^$all
 ||allegro-lokalnie-095716.xyz^$all
 ||allegro-lokalnie-581927.xyz^$all
 ||allegro-lokalnie.casa^$all
@@ -2901,6 +2906,7 @@
 ||cosdasiezrobbic.site^$all
 ||cosdlapollakkow.site^$all
 ||cossdlakazdego.website^$all
+||cossieniewydarzy.xyz^$all
 ||coswtymmusibyc.online^$all
 ||cotamsiestaloo.site^$all
 ||cotamssiestalo.club^$all
@@ -3261,10 +3267,13 @@
 ||doswiadczbiznzesu24.site^$all
 ||dotarlibysmydoniego.cyou^$all
 ||dotpay1.pl^$all
+||dotpay.emonitoringpoczta.net^$all
+||dotpay.emonitoring-poczta.net^$all
 ||dotpay.emonitoring-polskapoczta.com^$all
 ||dotpay.epocztapolska24.net^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
+||dotpay.poczta-emonitoring.net^$all
 ||dotpay.pocztexpolska48.net^$all
 ||dotpay.pocztexpolska.org^$all
 ||dotpay.pocztex-poland.net^$all
@@ -3395,7 +3404,10 @@
 ||emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud^$all
 ||emonitoring24.eu^$all
 ||emonitoring24.online^$all
+||emonitoringpoczta.net^$all
 ||emonitoring-epoczta-polska.net^$all
+||emonitoring-pocztapolska.com^$all
+||emonitoring-poczta.net^$all
 ||emonitoring-polskapoczta.com^$all
 ||emptierbreak.xyz^$all
 ||em-car.pl^$all
@@ -4330,10 +4342,16 @@
 ||inpost.order-pl.art^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
+||inpost.plskontasa.cyou^$all
 ||inpost.pl-getbuyed.cyou^$all
 ||inpost.pl-getbuyed.icu^$all
 ||inpost.pl-getbuyed.work^$all
 ||inpost.pl-getbuyed.xyz^$all
+||inpost.pl-paid.club^$all
+||inpost.pl-paid.cyou^$all
+||inpost.pl-paid.icu^$all
+||inpost.pl-paid.work^$all
+||inpost.pl-paid.xyz^$all
 ||inpost.pl-*.*^$document
 ||inpost.polska-*.*^$document
 ||inpost.pw^$all
@@ -4906,6 +4924,7 @@
 ||markowyperfum.pl^$all
 ||marmotpolskas.com^$all
 ||martynk.biz.pl^$all
+||masac.xyz^$all
 ||mastertradeinvestments.com^$all
 ||mastilo.pl^$all
 ||matchlesssanctity.org^$all
@@ -5198,6 +5217,7 @@
 ||nazwapay-pl-*.*.*^$all
 ||nbgmarket.com^$all
 ||nbsklepbuty.com^$all
+||nebeska.xyz^$all
 ||needforfile.net^$all
 ||nekkel.pl^$all
 ||nekstra.com^$all
@@ -5761,7 +5781,13 @@
 ||olx.pl-getbuyed.cyou^$all
 ||olx.pl-getbuyed.shop^$all
 ||olx.pl-getbuyed.xyz^$all
+||olx.pl-getdelivery.club^$all
+||olx.pl-getdelivery.cyou^$all
+||olx.pl-getdelivery.icu^$all
+||olx.pl-getdelivery.xyz^$all
+||olx.pl-paid.work^$all
 ||olx.pl-*.*^$document
+||olx.pl.oferta-payment.guru^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -6600,8 +6626,10 @@
 ||policyjne-poszukiwania997.pl^$all
 ||policyjne-poszukiwania.pl^$all
 ||policyjne-tematy.pl^$all
+||policyjni997.pl^$all
 ||policyjnietematowo.pl^$all
 ||policyjnie-tematowo.pl^$all
+||policyjni-997.pl^$all
 ||policy-secure-account.com^$all
 ||polic.you2.pl^$all
 ||polishfashionshops.pl^$all
@@ -6768,12 +6796,14 @@
 ||poszukiwana.cyou^$all
 ||poszukiwani24.dkonto.pl^$all
 ||poszukiwani24.pl^$all
+||poszukiwani997.pl^$all
 ||poszukiwanialludzi.site^$all
 ||poszukiwaniaonline.eu^$all
 ||poszukiwaniaonline.you2.pl^$all
 ||poszukiwaniaosobzaginionych.you2.pl^$all
 ||poszukiwania*.com.pl^$all
 ||poszukiwanipolska24.eu^$all
+||poszukiwani-997.pl^$all
 ||poszukuiwania24.dkonto.pl^$all
 ||potencjalnaszannsa.site^$all
 ||potwierdzeniawiekowe.xyz^$all
@@ -7295,6 +7325,7 @@
 ||smsiaki.eu^$all
 ||smsiak.pl^$all
 ||smsinf.org^$all
+||smsnn.in^$all
 ||smsoo.in^$all
 ||smsxx.in^$all
 ||smsy24.pl^$all
