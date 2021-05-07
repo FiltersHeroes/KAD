@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 07 May 2021, 17:05 UTC+02
-! Version: 2021.5.7.1
+! Last modified: Fri, 07 May 2021, 21:05 UTC+02
+! Version: 2021.5.7.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1606,6 +1606,7 @@
 ||vubu.pl^$all
 ||vulkanvegas-24.com^$all
 ||vulkanvegas-offers.com^$all
+||v-vegas.website^$all
 ||w2mobile.com^$all
 ||w65.pl^$all
 ||wabs.pl^$all
@@ -1911,10 +1912,12 @@
 ||universal-mobileapp-inventory.net^$all
 ||uvy3.pl^$all
 ||vegas777spin.com^$all
+||vegas-redirect.com^$all
 ||vexacion.com^$all
 ||vipnome.tk^$all
 ||vnotrk.com^$all
 ||vuebwxc.cn^$all
+||vulkan-vegas.cc^$all
 ||weyewweg.mypi.co^$all
 ||xn--21955-gya.biz^$all
 ||xn--22455-udb.biz^$all
@@ -1941,6 +1944,8 @@
 ||159.65.193.7^$all
 ||167.99.34.247^$all
 ||185.34.52.4^$all
+||188.240.210.199^$all
+||193.47.69.43^$all
 ||198.98.56.43^$all
 ||198.98.60.136^$all
 ||4332.ws^$all
@@ -2077,6 +2082,7 @@
 ||1mpost.net^$all
 ||1nposl.net^$all
 ||1npost.net^$all
+||1pulsoksymetr-pl.com^$all
 ||1y8v7s.store^$all
 ||2remove.guide^$all
 ||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^$all
@@ -2294,6 +2300,7 @@
 ||allegrosmart.net^$all
 ||allegro-apk.net^$all
 ||allegro-credit.info^$all
+||allegro-llokalnie.site^$all
 ||allegro-lokallnie.site^$all
 ||allegro-lokalnie-095716.xyz^$all
 ||allegro-lokalnie-581927.xyz^$all
@@ -2348,6 +2355,7 @@
 ||allsms.short-service.com^$all
 ||alltube.com.pl^$all,domain=~alltube.tv|~alltube.pl
 ||all-player.pl^$all
+||almighty-offers.com^$all
 ||almuradtiles.zohosites.com^$all
 ||alohasoftware.net^$all
 ||alphahaul.com^$all
@@ -2925,6 +2933,7 @@
 ||coztyymjestnietak.club^$all
 ||cp45362.tmweb.ru^$all
 ||cpagrip.com^$all
+||cpn-offers.live^$all
 ||cqsdjxf.com^$all
 ||crafton.store^$all
 ||crazygarden.pl^$all
@@ -3963,6 +3972,7 @@
 ||glosy-zostawiaj.eu^$all
 ||gls-parcel.com^$all
 ||gmai.com^$all
+||gmediahealth.com^$all
 ||gneoste.mypi.co^$all
 ||go0o.me^$all
 ||goadvert.pk^$all
@@ -4183,6 +4193,7 @@
 ||infoee.gitlab.io^$all
 ||infofito.com^$all
 ||infofpolska.online^$all
+||infokrk.co.pl^$all
 ||infolokalne24.pl^$all
 ||infonet.dfirma.pl^$all
 ||infopolska34.you2.pl^$all
@@ -4241,6 +4252,7 @@
 ||infoswiat.hekko24.pl^$all
 ||infozkraju.eu^$all
 ||info-24.cloud^$all
+||info-centrum.co.pl^$all
 ||info-fakty24.pl^$all
 ||info-inpost.pl^$all
 ||info-miastowe24.club^$all
@@ -4343,10 +4355,15 @@
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontasa.cyou^$all
+||inpost.pl-getbuyed.club^$all
 ||inpost.pl-getbuyed.cyou^$all
 ||inpost.pl-getbuyed.icu^$all
+||inpost.pl-getbuyed.shop^$all
 ||inpost.pl-getbuyed.work^$all
 ||inpost.pl-getbuyed.xyz^$all
+||inpost.pl-getdelivery.club^$all
+||inpost.pl-getpaid.cyou^$all
+||inpost.pl-getpaid.work^$all
 ||inpost.pl-paid.club^$all
 ||inpost.pl-paid.cyou^$all
 ||inpost.pl-paid.icu^$all
@@ -4392,6 +4409,7 @@
 ||interwencja.you2.pl^$all
 ||inteza.pl^$all
 ||investactive.cc^$all
+||investbb.com^$all
 ||investchambers.com^$all
 ||investingops.com^$all
 ||investingstate.com^$all
@@ -5386,6 +5404,7 @@
 ||odnasdokladniedlawas.website^$all
 ||odniesieniedozycia.online^$all
 ||odwaga.cyou^$all
+||odzeradobiznessu.website^$all
 ||oferta000123.xyz^$all
 ||oferta000657.xyz^$all
 ||oferta020202.xyz^$all
@@ -5484,6 +5503,7 @@
 ||okrilno.xyz^$all
 ||okshoespoland.com^$all
 ||okularypowiekszajace-pl.com^$all
+||okulary-zmienna-ostrosc-pl.com^$all
 ||olejzus.pl^$all
 ||olflowdesign.at^$all
 ||oliwiaklos.pl^$all
@@ -5785,6 +5805,12 @@
 ||olx.pl-getdelivery.cyou^$all
 ||olx.pl-getdelivery.icu^$all
 ||olx.pl-getdelivery.xyz^$all
+||olx.pl-getpaid.club^$all
+||olx.pl-getpaid.cyou^$all
+||olx.pl-getpaid.icu^$all
+||olx.pl-getpaid.work^$all
+||olx.pl-getpaid.xyz^$all
+||olx.pl-paid.cyou^$all
 ||olx.pl-paid.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.guru^$all
@@ -5987,6 +6013,7 @@
 ||paczkgls.com^$all
 ||paczki24-pl.live^$all
 ||paczkikk.com^$all
+||paczkik.com^$all
 ||paczkitnt.com^$all
 ||paczkkaups.com^$all
 ||paczkmat.net^$all
@@ -6486,6 +6513,7 @@
 ||pl.medic-reporters.com^$all
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
+||pl.m-inposta.site^$all
 ||pl.oferta-olx.net^$all
 ||pl.oferto.cc^$all
 ||pl.oferto.org^$all
@@ -6551,6 +6579,7 @@
 ||poczta-polska.eu^$all
 ||poczta-polska.me^$all
 ||poczta-regulamin.com^$all
+||poczta-regulamin.us^$all
 ||poczta-umb-edu-pl.yolasite.com^$all
 ||poczta.cyou^$all
 ||poczta.interia-pl.online^$all
@@ -7566,6 +7595,7 @@
 ||szczepionki.000webhostapp.com^$all
 ||szkjpackaging.com^$all
 ||szklarnia-sklep.com^$all
+||szklarnie200.com^$all
 ||szklarnie300.com^$all
 ||szklarnie-ogrodowe.com^$all
 ||szklarnie-shop.com^$all
@@ -7599,6 +7629,7 @@
 ||tajskimasazsopot.pl^$all
 ||takaprawda.icu^$all
 ||takczyinaczejmusibyc.space^$all
+||takczysiakpolska24.website^$all
 ||takiczasswystarczy.online^$all
 ||takijestnaszkruaj.website^$all
 ||takjakbylopowwiedziane.website^$all
@@ -7610,6 +7641,7 @@
 ||tarcza24.net^$all
 ||tarczakryzysowa.net^$all
 ||tarocardsfornoobs.top^$all
+||tasty-gossip.com^$all
 ||taylorspub.com^$all
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
 ||teacriss-edlechs.xyz^$all
@@ -7621,6 +7653,7 @@
 ||teleskopmonokularowy-pl.com^$all
 ||telewizja-internetowa24.pl^$all
 ||telpey.net^$all
+||tematjuzruszony.online^$all
 ||tematowopolicyjnie.pl^$all
 ||tematowo-policyjnie.pl^$all
 ||tematypolicyjne.pl^$all
@@ -8261,6 +8294,7 @@
 ||york-oddam.pl^$all
 ||yotefiles.com^$all
 ||you24.eu^$all
+||yourbestmatch.life^$all
 ||yourfitway.com^$all
 ||yournewcoaching.net^$all
 ||youronline-profits.life^$all
