@@ -2,8 +2,6 @@
 !/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 /^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 ||0n.click^$all
-||vegas-redirect.com^$all
-||vulkan-vegas.cc^$all
 ||abrakasba.space^$all
 ||academy-bitcoin.com^$all
 ||adaranth.com^$all
@@ -176,10 +174,12 @@
 ||universal-mobileapp-inventory.net^$all
 ||uvy3.pl^$all
 ||vegas777spin.com^$all
+||vegas-redirect.com^$all
 ||vexacion.com^$all
 ||vipnome.tk^$all
 ||vnotrk.com^$all
 ||vuebwxc.cn^$all
+||vulkan-vegas.cc^$all
 ||weyewweg.mypi.co^$all
 ||xn--21955-gya.biz^$all
 ||xn--22455-udb.biz^$all

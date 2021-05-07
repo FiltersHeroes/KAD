@@ -1,13 +1,3 @@
-||cpn-offers.live^$all
-||yourbestmatch.life^$all
-||almighty-offers.com^$all
-||investbb.com^$all
-||gmediahealth.com^$all
-||okulary-zmienna-ostrosc-pl.com^$all
-||1pulsoksymetr-pl.com^$all
-
-||tasty-gossip.com^$all
-
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||olx.polska-dostawa.*^$document
@@ -46,6 +36,7 @@
 ||1mpost.net^$all
 ||1nposl.net^$all
 ||1npost.net^$all
+||1pulsoksymetr-pl.com^$all
 ||1y8v7s.store^$all
 ||2remove.guide^$all
 ||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^$all
@@ -263,6 +254,7 @@
 ||allegrosmart.net^$all
 ||allegro-apk.net^$all
 ||allegro-credit.info^$all
+||allegro-llokalnie.site^$all
 ||allegro-lokallnie.site^$all
 ||allegro-lokalnie-095716.xyz^$all
 ||allegro-lokalnie-581927.xyz^$all
@@ -317,6 +309,7 @@
 ||allsms.short-service.com^$all
 ||alltube.com.pl^$all,domain=~alltube.tv|~alltube.pl
 ||all-player.pl^$all
+||almighty-offers.com^$all
 ||almuradtiles.zohosites.com^$all
 ||alohasoftware.net^$all
 ||alphahaul.com^$all
@@ -894,6 +887,7 @@
 ||coztyymjestnietak.club^$all
 ||cp45362.tmweb.ru^$all
 ||cpagrip.com^$all
+||cpn-offers.live^$all
 ||cqsdjxf.com^$all
 ||crafton.store^$all
 ||crazygarden.pl^$all
@@ -1932,6 +1926,7 @@
 ||glosy-zostawiaj.eu^$all
 ||gls-parcel.com^$all
 ||gmai.com^$all
+||gmediahealth.com^$all
 ||gneoste.mypi.co^$all
 ||go0o.me^$all
 ||goadvert.pk^$all
@@ -2152,6 +2147,7 @@
 ||infoee.gitlab.io^$all
 ||infofito.com^$all
 ||infofpolska.online^$all
+||infokrk.co.pl^$all
 ||infolokalne24.pl^$all
 ||infonet.dfirma.pl^$all
 ||infopolska34.you2.pl^$all
@@ -2210,6 +2206,7 @@
 ||infoswiat.hekko24.pl^$all
 ||infozkraju.eu^$all
 ||info-24.cloud^$all
+||info-centrum.co.pl^$all
 ||info-fakty24.pl^$all
 ||info-inpost.pl^$all
 ||info-miastowe24.club^$all
@@ -2312,10 +2309,15 @@
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontasa.cyou^$all
+||inpost.pl-getbuyed.club^$all
 ||inpost.pl-getbuyed.cyou^$all
 ||inpost.pl-getbuyed.icu^$all
+||inpost.pl-getbuyed.shop^$all
 ||inpost.pl-getbuyed.work^$all
 ||inpost.pl-getbuyed.xyz^$all
+||inpost.pl-getdelivery.club^$all
+||inpost.pl-getpaid.cyou^$all
+||inpost.pl-getpaid.work^$all
 ||inpost.pl-paid.club^$all
 ||inpost.pl-paid.cyou^$all
 ||inpost.pl-paid.icu^$all
@@ -2361,6 +2363,7 @@
 ||interwencja.you2.pl^$all
 ||inteza.pl^$all
 ||investactive.cc^$all
+||investbb.com^$all
 ||investchambers.com^$all
 ||investingops.com^$all
 ||investingstate.com^$all
@@ -3355,6 +3358,7 @@
 ||odnasdokladniedlawas.website^$all
 ||odniesieniedozycia.online^$all
 ||odwaga.cyou^$all
+||odzeradobiznessu.website^$all
 ||oferta000123.xyz^$all
 ||oferta000657.xyz^$all
 ||oferta020202.xyz^$all
@@ -3453,6 +3457,7 @@
 ||okrilno.xyz^$all
 ||okshoespoland.com^$all
 ||okularypowiekszajace-pl.com^$all
+||okulary-zmienna-ostrosc-pl.com^$all
 ||olejzus.pl^$all
 ||olflowdesign.at^$all
 ||oliwiaklos.pl^$all
@@ -3754,6 +3759,12 @@
 ||olx.pl-getdelivery.cyou^$all
 ||olx.pl-getdelivery.icu^$all
 ||olx.pl-getdelivery.xyz^$all
+||olx.pl-getpaid.club^$all
+||olx.pl-getpaid.cyou^$all
+||olx.pl-getpaid.icu^$all
+||olx.pl-getpaid.work^$all
+||olx.pl-getpaid.xyz^$all
+||olx.pl-paid.cyou^$all
 ||olx.pl-paid.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.guru^$all
@@ -3956,6 +3967,7 @@
 ||paczkgls.com^$all
 ||paczki24-pl.live^$all
 ||paczkikk.com^$all
+||paczkik.com^$all
 ||paczkitnt.com^$all
 ||paczkkaups.com^$all
 ||paczkmat.net^$all
@@ -4455,6 +4467,7 @@
 ||pl.medic-reporters.com^$all
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
+||pl.m-inposta.site^$all
 ||pl.oferta-olx.net^$all
 ||pl.oferto.cc^$all
 ||pl.oferto.org^$all
@@ -4520,6 +4533,7 @@
 ||poczta-polska.eu^$all
 ||poczta-polska.me^$all
 ||poczta-regulamin.com^$all
+||poczta-regulamin.us^$all
 ||poczta-umb-edu-pl.yolasite.com^$all
 ||poczta.cyou^$all
 ||poczta.interia-pl.online^$all
@@ -5535,6 +5549,7 @@
 ||szczepionki.000webhostapp.com^$all
 ||szkjpackaging.com^$all
 ||szklarnia-sklep.com^$all
+||szklarnie200.com^$all
 ||szklarnie300.com^$all
 ||szklarnie-ogrodowe.com^$all
 ||szklarnie-shop.com^$all
@@ -5568,6 +5583,7 @@
 ||tajskimasazsopot.pl^$all
 ||takaprawda.icu^$all
 ||takczyinaczejmusibyc.space^$all
+||takczysiakpolska24.website^$all
 ||takiczasswystarczy.online^$all
 ||takijestnaszkruaj.website^$all
 ||takjakbylopowwiedziane.website^$all
@@ -5579,6 +5595,7 @@
 ||tarcza24.net^$all
 ||tarczakryzysowa.net^$all
 ||tarocardsfornoobs.top^$all
+||tasty-gossip.com^$all
 ||taylorspub.com^$all
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
 ||teacriss-edlechs.xyz^$all
@@ -5590,6 +5607,7 @@
 ||teleskopmonokularowy-pl.com^$all
 ||telewizja-internetowa24.pl^$all
 ||telpey.net^$all
+||tematjuzruszony.online^$all
 ||tematowopolicyjnie.pl^$all
 ||tematowo-policyjnie.pl^$all
 ||tematypolicyjne.pl^$all
@@ -6230,6 +6248,7 @@
 ||york-oddam.pl^$all
 ||yotefiles.com^$all
 ||you24.eu^$all
+||yourbestmatch.life^$all
 ||yourfitway.com^$all
 ||yournewcoaching.net^$all
 ||youronline-profits.life^$all
@@ -6393,24 +6412,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||allegro-llokalnie.site^$all
-||info-centrum.co.pl^$all
-||infokrk.co.pl^$all
-||inpost.pl-getbuyed.club^$all
-||inpost.pl-getbuyed.shop^$all
-||inpost.pl-getdelivery.club^$all
-||inpost.pl-getpaid.cyou^$all
-||inpost.pl-getpaid.work^$all
-||odzeradobiznessu.website^$all
-||olx.pl-getpaid.club^$all
-||olx.pl-getpaid.cyou^$all
-||olx.pl-getpaid.icu^$all
-||olx.pl-getpaid.work^$all
-||olx.pl-getpaid.xyz^$all
-||olx.pl-paid.cyou^$all
-||paczkik.com^$all
-||pl.m-inposta.site^$all
-||poczta-regulamin.us^$all
-||szklarnie200.com^$all
-||takczysiakpolska24.website^$all
-||tematjuzruszony.online^$all
