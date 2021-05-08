@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 08 May 2021, 17:05 UTC+02
-! Version: 2021.5.8.1
+! Last modified: Sat, 08 May 2021, 21:05 UTC+02
+! Version: 2021.5.8.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2301,6 +2301,7 @@
 ||allegrosmart.net^$all
 ||allegro-apk.net^$all
 ||allegro-credit.info^$all
+||allegro-llokallnie.online^$all
 ||allegro-llokalnie.site^$all
 ||allegro-lokallnie.site^$all
 ||allegro-lokalnie-095716.xyz^$all
@@ -4366,6 +4367,7 @@
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontasa.cyou^$all
+||inpost.plskontas.store^$all
 ||inpost.pl-getbuyed.club^$all
 ||inpost.pl-getbuyed.cyou^$all
 ||inpost.pl-getbuyed.icu^$all
@@ -4380,6 +4382,7 @@
 ||inpost.pl-paid.icu^$all
 ||inpost.pl-paid.work^$all
 ||inpost.pl-paid.xyz^$all
+||inpost.pl-savepaid.shop^$all
 ||inpost.pl-savepaid.work^$all
 ||inpost.pl-*.*^$document
 ||inpost.polska-*.*^$document
@@ -5813,6 +5816,7 @@
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
 ||olx.plskontas.casa^$all
+||olx.plskontas.live^$all
 ||olx.pl-getbuyed.club^$all
 ||olx.pl-getbuyed.cyou^$all
 ||olx.pl-getbuyed.shop^$all
@@ -5828,6 +5832,8 @@
 ||olx.pl-getpaid.xyz^$all
 ||olx.pl-paid.cyou^$all
 ||olx.pl-paid.work^$all
+||olx.pl-safe.oferta-payment.guru^$all
+||olx.pl-savepaid.shop^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.guru^$all
 ||olx.pl.*.*^$document
