@@ -1,15 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||tmbinaryfx.com^$all
-||24onlinetradingcapitals.com^$all
-||royal-trades.com^$all
-
-||nikepolska.top^$all
-||obuwiedrsale.pl^$all
-||fitflopspolska.com^$all
-||palazzi.store^$all
-
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -76,6 +67,7 @@
 ||24forum.pl^$all
 ||24gazeta.eu^$all
 ||24godzinynapomoc.site^$all
+||24onlinetradingcapitals.com^$all
 ||24swiat.pl^$all
 ||24tygodnik.pl^$all
 ||24wydarzenia.pl^$all
@@ -257,10 +249,10 @@
 ||allegro-lokalnie.fun^$all
 ||allegro-lokalnie.live^$all
 ||allegro-lokalnie.me^$all
-||polska-dostawa.online^$all
 ||allegro-lokalnie.shop^$all
 ||allegro-lokalnie.surf^$all
 ||allegro-lokalnie.xyz^$all
+||allegro-lokalniie.fun^$all
 ||allegro-m.pl^$all
 ||allegro-ogloszenia.you2.pl^$all
 ||allegro-okazje.dkonto.pl^$all
@@ -1667,6 +1659,7 @@
 ||firtpey.net^$all
 ||fitcenterz.com^$all
 ||fitchciapara.com^$all
+||fitflopspolska.com^$all
 ||fitnesssklep.com^$all
 ||fitnesstips.pl^$all
 ||fitoffer.top^$all
@@ -1704,6 +1697,7 @@
 ||fotos.vote-in.eu^$all
 ||foto-cloud.o99o.net.pl^$all
 ||foto-cloud.org^$all
+||foty.cleverapps.io^$all
 ||found-iphone.com^$all
 ||fpagro.com.pl^$all
 ||fraktaltrader.eu^$all
@@ -1956,6 +1950,7 @@
 ||gsprzemkow.neostrada.pl^$all
 ||guimaraesconstrutorasjc.com.br^$all
 ||gumka.strefa.pl^$all
+||gunh.xyz^$all
 ||gutfilm.pl^$all
 ||gwiazdaswiecicorazjasniej.space^$all
 ||gwinea.cyou^$all
@@ -2267,8 +2262,6 @@
 ||inpost.digital^$all
 ||inpost.fit^$all
 ||inpost.help^$all
-||kontospls.bar^$all
-||kontospls.store^$all
 ||inpost.life^$all
 ||inpost.link^$all
 ||inpost.live^$all
@@ -2569,6 +2562,12 @@
 ||konsyliumoplakow.club^$all
 ||konta2931.pl^$all
 ||kontakt24.xn.pl^$all
+||kontopl.shop^$all
+||kontopl.work^$all
+||kontopl.xyz^$all
+||kontospls.bar^$all
+||kontospls.store^$all
+||kontospl.cam^$all
 ||konto-all.borec.cz^$all
 ||kontplas.pl^$all
 ||koopon.pl^$all
@@ -2984,6 +2983,7 @@
 ||moda2020.pl^$all
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
+||moferta.xyz^$all
 ||mogejuzsobiesprawdzic.online^$all
 ||moglesnieslyszszec.online^$all
 ||moglobytoooznaczac.website^$all
@@ -3205,6 +3205,7 @@
 ||new-message.co^$all
 ||new-online.xyz^$all
 ||new-payment.space^$all
+||new-payment.store^$all
 ||nextlevelprize.com^$all
 ||nextnewaction.com^$all
 ||nfbio.com^$all
@@ -3234,6 +3235,7 @@
 ||niezmarnujzycia.pl^$all
 ||nieznaszpowoodowdokonca.online^$all
 ||niezwykle.online^$all
+||nikepolska.top^$all
 ||nildenaksoy.com^$all
 ||nimiko.pl^$all
 ||ninatekhol.live^$all
@@ -3287,6 +3289,7 @@
 ||obkzrcclean2.az.pl^$all
 ||obowiazkipolskie.online^$all
 ||obslugakelnerska20.wixsite.com^$all
+||obuwiedrsale.pl^$all
 ||obuwiedr.com^$all
 ||oceniaj-wygranego.eu^$all
 ||oceniam.to^$all
@@ -3689,17 +3692,12 @@
 ||olx.kontopl.casa^$all
 ||olx.kontopl.link^$all
 ||olx.kontopl.monster^$all
-||kontopl.shop^$all
-||kontopl.work^$all
-||kontopl.xyz^$all
 ||olx.livrare-ro.info^$all
 ||olx.manager.name^$all
 ||olx.moe^$all
 ||olx.moferta.life^$all
 ||olx.moferta.live^$all
-||moferta.xyz^$all
 ||olx.m-inposta.site^$all
-||new-payment.store^$all
 ||olx.new-polska-oferta.club^$all
 ||olx.oferda-pl.biz^$all
 ||olx.oferda-pl.fun^$all
@@ -3870,7 +3868,9 @@
 ||organicmediasolution.com^$all
 ||ori-sfera.pl^$all
 ||orkisz24.pl^$all
+||orlen-platform.site^$all
 ||orlen-pl-syst.site^$all
+||orlen-pl.site^$all
 ||orlen.pl.teslinvests.site^$all
 ||orlinwestpl.pw^$all
 ||orlnpacifica.pw^$all
@@ -3976,6 +3976,7 @@
 ||pakafast4you24h.club^$all
 ||pakownia.net^$all
 ||pakunek-pl.xyz^$all
+||palazzi.store^$all
 ||palenate.com^$all
 ||palmera-pl.com^$all
 ||palmera.pl^$all
@@ -4346,6 +4347,7 @@
 ||pl-id737962.info^$all
 ||pl-inpost.com^$all
 ||pl-inpost.online^$all
+||pl-konto-order.me^$all
 ||pl-konto.mobi^$all
 ||pl-makedeal.casa^$all
 ||pl-makedeal.club^$all
@@ -4579,7 +4581,6 @@
 ||polskapoczta.plskontas.life^$all
 ||polskapoczta.plskontas.live^$all
 ||polskapoczta.plskontas.store^$all
-||pl-konto-order.me^$all
 ||polskapoleca.online^$all
 ||polskapolicja24.pl.*.*.cz^$all,domain=cz
 ||polskapolicja.you2.pl^$all
@@ -4595,6 +4596,7 @@
 ||polskayear.pl^$all
 ||polskazobaczy.online^$all
 ||polska-anketierowanie.site^$all
+||polska-dostawa.online^$all
 ||polska-dostawka.club^$all
 ||polska-dzisiaj1.cyou^$all
 ||polska-nasze-info24.x9.eu^$all
@@ -5000,6 +5002,7 @@
 ||roundcube.pl^$all
 ||round-cub1.web.app^$all
 ||rowery-bieznie.com^$all
+||royal-trades.com^$all
 ||rozakurier.com^$all
 ||rozakurier.org^$all
 ||rozbiterodzinyzkraju.cyou^$all
@@ -5583,6 +5586,7 @@
 ||tiomarkets.com^$all
 ||tisls.com^$all
 ||tlanddissipate.at^$all
+||tmbinaryfx.com^$all
 ||tobylodzisranowtvv.cyou^$all
 ||tobylowczoraj.xyz^$all
 ||tobyniczegoniezmienilo.cyou^$all
@@ -6292,7 +6296,6 @@
 ||*iporwania.*^$document
 ||*iporwanie24.*^$document
 ||*iporwanie.*^$document
-
 ||*polskaporwanie.*^$document
 ||*porwaniapolska24*.*^$document
 ||*porwaniapolska48*.*^$document
@@ -6313,9 +6316,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||orlen-pl.site^$all
-||orlen-platform.site^$all
-||kontospl.cam^$all
-||allegro-lokalniie.fun^$all
-||foty.cleverapps.io^$all
-||gunh.xyz^$all
