@@ -1,8 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||cute-gossip.com^$all
-||gossip-round.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -575,9 +573,11 @@
 ||biznesoweinfo.media.pl^$all
 ||biznesoweinfo.miasta.pl^$all
 ||biznesplanet-bnpparlbas.com^$all
+||biznesplanet-bnpparlba.com^$all
 ||biznesplanet.parlbabnp.com^$all
 ||blablacar-pay.cc^$all
 ||blablacar.media^$all
+||blablacar.m-3ds.casa^$all
 ||blablocar-pl.site^$all
 ||blackstone500.com^$all
 ||blankiet-wspieraj.eu^$all
@@ -911,6 +911,7 @@
 ||curryhouse.com.pl^$all
 ||customernoble.com^$all
 ||cutdoor.top^$all
+||cute-gossip.com^$all
 ||cx.money^$all
 ||cybereleague.com^$all
 ||cyberpunk2077mobile.com^$all
@@ -1930,6 +1931,7 @@
 ||gorace-info.pl^$all
 ||gorisemarkets.com^$all
 ||gospodarstwo-rolne.com.pl^$all
+||gossip-round.com^$all
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
@@ -2292,6 +2294,7 @@
 ||inpost.pl-paid.icu^$all
 ||inpost.pl-paid.work^$all
 ||inpost.pl-paid.xyz^$all
+||inpost.pl-receivepaid.work^$all
 ||inpost.pl-savepaid.icu^$all
 ||inpost.pl-savepaid.shop^$all
 ||inpost.pl-savepaid.work^$all
@@ -3492,6 +3495,7 @@
 ||olxpol.info^$all
 ||olxpotwierdzenie.pl^$all
 ||olxprzesylka.express^$all
+||olxp-getpay.work^$all
 ||olxsafepay.pl^$all
 ||olxservice.pl^$all
 ||olxteam.com^$all
@@ -3694,6 +3698,7 @@
 ||olx.kontopl.casa^$all
 ||olx.kontopl.link^$all
 ||olx.kontopl.monster^$all
+||olx.kontopl.work^$all
 ||olx.livrare-ro.info^$all
 ||olx.manager.name^$all
 ||olx.moe^$all
@@ -3705,6 +3710,7 @@
 ||olx.oferda-pl.fun^$all
 ||olx.oferda-pl.life^$all
 ||olx.oferda-pl.live^$all
+||olx.olxkonstos.casa^$all
 ||olx.online-pay.pl^$all
 ||olx.oplata-is.com^$all
 ||olx.orderpl.club^$all
@@ -3731,6 +3737,7 @@
 ||olx.pl-getpaid.xyz^$all
 ||olx.pl-paid.cyou^$all
 ||olx.pl-paid.work^$all
+||olx.pl-receivepaid.work^$all
 ||olx.pl-safe.oferta-payment.guru^$all
 ||olx.pl-savepaid.shop^$all
 ||olx.pl-savepaid.xyz^$all
@@ -5480,6 +5487,7 @@
 ||szkjpackaging.com^$all
 ||szklarnia-sklep.com^$all
 ||szklarnie200.com^$all
+||szklarnie250.com^$all
 ||szklarnie300.com^$all
 ||szklarnie-ogrodowe.com^$all
 ||szklarnie-shop.com^$all
@@ -6318,11 +6326,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||biznesplanet-bnpparlba.com^$all
-||blablacar.m-3ds.casa^$all
-||inpost.pl-receivepaid.work^$all
-||olx.kontopl.work^$all
-||olx.olxkonstos.casa^$all
-||olxp-getpay.work^$all
-||olx.pl-receivepaid.work^$all
-||szklarnie250.com^$all
