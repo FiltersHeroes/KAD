@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 09 May 2021, 17:05 UTC+02
-! Version: 2021.5.9.1
+! Last modified: Sun, 09 May 2021, 21:06 UTC+02
+! Version: 2021.5.9.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2594,9 +2594,11 @@
 ||biznesoweinfo.media.pl^$all
 ||biznesoweinfo.miasta.pl^$all
 ||biznesplanet-bnpparlbas.com^$all
+||biznesplanet-bnpparlba.com^$all
 ||biznesplanet.parlbabnp.com^$all
 ||blablacar-pay.cc^$all
 ||blablacar.media^$all
+||blablacar.m-3ds.casa^$all
 ||blablocar-pl.site^$all
 ||blackstone500.com^$all
 ||blankiet-wspieraj.eu^$all
@@ -2930,6 +2932,7 @@
 ||curryhouse.com.pl^$all
 ||customernoble.com^$all
 ||cutdoor.top^$all
+||cute-gossip.com^$all
 ||cx.money^$all
 ||cybereleague.com^$all
 ||cyberpunk2077mobile.com^$all
@@ -3949,6 +3952,7 @@
 ||gorace-info.pl^$all
 ||gorisemarkets.com^$all
 ||gospodarstwo-rolne.com.pl^$all
+||gossip-round.com^$all
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
@@ -4311,6 +4315,7 @@
 ||inpost.pl-paid.icu^$all
 ||inpost.pl-paid.work^$all
 ||inpost.pl-paid.xyz^$all
+||inpost.pl-receivepaid.work^$all
 ||inpost.pl-savepaid.icu^$all
 ||inpost.pl-savepaid.shop^$all
 ||inpost.pl-savepaid.work^$all
@@ -5511,6 +5516,7 @@
 ||olxpol.info^$all
 ||olxpotwierdzenie.pl^$all
 ||olxprzesylka.express^$all
+||olxp-getpay.work^$all
 ||olxsafepay.pl^$all
 ||olxservice.pl^$all
 ||olxteam.com^$all
@@ -5713,6 +5719,7 @@
 ||olx.kontopl.casa^$all
 ||olx.kontopl.link^$all
 ||olx.kontopl.monster^$all
+||olx.kontopl.work^$all
 ||olx.livrare-ro.info^$all
 ||olx.manager.name^$all
 ||olx.moe^$all
@@ -5724,6 +5731,7 @@
 ||olx.oferda-pl.fun^$all
 ||olx.oferda-pl.life^$all
 ||olx.oferda-pl.live^$all
+||olx.olxkonstos.casa^$all
 ||olx.online-pay.pl^$all
 ||olx.oplata-is.com^$all
 ||olx.orderpl.club^$all
@@ -5750,6 +5758,7 @@
 ||olx.pl-getpaid.xyz^$all
 ||olx.pl-paid.cyou^$all
 ||olx.pl-paid.work^$all
+||olx.pl-receivepaid.work^$all
 ||olx.pl-safe.oferta-payment.guru^$all
 ||olx.pl-savepaid.shop^$all
 ||olx.pl-savepaid.xyz^$all
@@ -7499,6 +7508,7 @@
 ||szkjpackaging.com^$all
 ||szklarnia-sklep.com^$all
 ||szklarnie200.com^$all
+||szklarnie250.com^$all
 ||szklarnie300.com^$all
 ||szklarnie-ogrodowe.com^$all
 ||szklarnie-shop.com^$all
