@@ -1,7 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||gadgetarchive.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1759,6 +1758,7 @@
 ||gabistworkowo.pl^$all
 ||gackokurier.com^$all
 ||gaczynski.pl^$all
+||gadgetarchive.com^$all
 ||gaduczat.pl^$all
 ||gajakurier.org^$all
 ||galaxystore.pl^$all
@@ -2285,6 +2285,7 @@
 ||inpost.moferta.xyz^$all
 ||inpost.name^$all
 ||inpost.oferda-pl.space^$all
+||inpost.olxkonstos.cyou^$all
 ||inpost.order-pl.art^$all
 ||inpost.page^$all
 ||inpost.payouts.xyz^$all
@@ -2398,6 +2399,7 @@
 ||itelefon.org^$all
 ||itorrenty.org^$all
 ||ivenjobber.xyz^$all
+||iverifyids.pl^$all
 ||iwiz-dom.com^$all
 ||izlogin-webmail.web.app^$all
 ||i-apartamenty.pl^$all
@@ -2441,6 +2443,10 @@
 ||janzwolinski.freehost.pl^$all
 ||jasna2c.pl^$all
 ||jas.upmanagement.ru^$all
+||jawneinformacje.pl^$all
+||jawneinfo.pl^$all
+||jawne-informacje.pl^$all
+||jawne-info.pl^$all
 ||jbfilmyseriale.pl^$all
 ||jbpsystembud.pl^$all
 ||jeansylee.pl^$all
@@ -3622,6 +3628,7 @@
 ||olx-pl.depget.com^$all
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.eu^$all
+||olx-pl.ez-pays.ru^$all
 ||olx-pl.getc.icu^$all
 ||olx-pl.id*.ru^$all
 ||olx-pl.info^$all
@@ -3766,6 +3773,7 @@
 ||olx.pl-savepaid.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.guru^$all
+||olx.pl.oferta-payment.team^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -4430,6 +4438,7 @@
 ||pl-savepost.xyz^$all
 ||pl-saves.surf^$all
 ||pl-sendit.club^$all
+||pl-telewizja.pl^$all
 ||pl-univest.life^$all
 ||pl-wyslij.best^$all
 ||pl-wyslij.club^$all
@@ -4778,6 +4787,7 @@
 ||powinnotojuzprzejjsc.website^$all
 ||powinnowystarczyc.online^$all
 ||powolinallepsze.cyou^$all
+||powtowa.xyz^$all
 ||poyents.net^$all
 ||poypeo.net^$all
 ||poypin24.net^$all
@@ -5867,6 +5877,7 @@
 ||verlinkid.link^$all
 ||versacesklep.com^$all
 ||versales.xyz^$all
+||vesen.xyz^$all
 ||vgdny.com^$all
 ||vidalyasociados.com^$all
 ||videoplanet.pl^$all
@@ -6013,6 +6024,7 @@
 ||winoteka-samiswoi.pl^$all
 ||wiochapl.eu^$all
 ||wiocha-pl.eu^$all
+||wiochowisko.eu^$all
 ||wiochowo.eu^$all
 ||wirtualnapolska24.dkonto.pl^$all
 ||wirtualnapolska24.eu^$all
@@ -6360,15 +6372,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost.olxkonstos.cyou^$all
-||iverifyids.pl^$all
-||jawne-info.pl^$all
-||jawneinfo.pl^$all
-||jawne-informacje.pl^$all
-||jawneinformacje.pl^$all
-||olx-pl.ez-pays.ru^$all
-||olx.pl.oferta-payment.team^$all
-||pl-telewizja.pl^$all
-||powtowa.xyz^$all
-||vesen.xyz^$all
-||wiochowisko.eu^$all
