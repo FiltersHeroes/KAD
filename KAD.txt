@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 10 May 2021, 21:05 UTC+02
-! Version: 2021.5.10.3
+! Last modified: Tue, 11 May 2021, 13:05 UTC+02
+! Version: 2021.5.11.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -856,6 +856,7 @@
 ||marketpremium.pl^$all
 ||martens1460.pl^$all
 ||martens1460.top^$all
+||martensbuty.top^$all
 ||martenssklep.com^$all
 ||martensypolska.com^$all
 ||marzectoyoty.pl^$all
@@ -1564,6 +1565,7 @@
 ||vegatestsklep.pl^$all
 ||vejapolska.com^$all
 ||vejapolska.pl^$all
+||vejawarszawa.com^$all
 ||veltocars.com.pl^$all
 ||verifycaptcha.com^$all
 ||versalka.pl^$all
@@ -2636,6 +2638,7 @@
 ||bos-logowanie-24.com^$all
 ||boteco.pl^$all
 ||boxdelivery.org^$all
+||boxsec.org^$all
 ||boxshop24.pl^$all
 ||boxworktoardazana.link^$all
 ||boxworktoardazana.xyz^$all
@@ -3246,6 +3249,7 @@
 ||dotpay.emonitoring-poczta.net^$all
 ||dotpay.emonitoring-polskapoczta.com^$all
 ||dotpay.epocztapolska24.net^$all
+||dotpay.e-monitoring-pocztapolska.net^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
 ||dotpay.poczta-emonitoring.net^$all
@@ -3472,6 +3476,7 @@
 ||e-mail-regulamin.online^$all
 ||e-mail-regulamin.site^$all
 ||e-mojemiasto.eu^$all
+||e-monitoring-pocztapolska.net^$all
 ||e-onet24.eu^$all
 ||e-onetfakty24.eu^$all
 ||e-osobyzagionione.pl^$all
@@ -3887,6 +3892,7 @@
 ||getlnbank.*^$document
 ||getmyfreetraffic.com^$all
 ||gettheflow.pl^$all
+||get-safe.inpost.cam^$all
 ||get.bestdeal2060.info^$all
 ||get.inpost.cam^$all
 ||gfhjkldcfvfg.moonfruit.com^$all
@@ -4332,6 +4338,8 @@
 ||inpost.pl-paid.icu^$all
 ||inpost.pl-paid.work^$all
 ||inpost.pl-paid.xyz^$all
+||inpost.pl-paycash.shop^$all
+||inpost.pl-paycash.work^$all
 ||inpost.pl-receivepaid.work^$all
 ||inpost.pl-savepaid.club^$all
 ||inpost.pl-savepaid.cyou^$all
@@ -5562,6 +5570,7 @@
 ||olx-b.com^$all
 ||olx-b.pl^$all
 ||olx-cash.site^$all
+||olx-cassa.pl^$all
 ||olx-center.com^$all
 ||olx-center.info^$all
 ||olx-center.in^$all
@@ -5781,12 +5790,15 @@
 ||olx.pl-getpaid.club^$all
 ||olx.pl-getpaid.cyou^$all
 ||olx.pl-getpaid.icu^$all
+||olx.pl-getpaid.shop^$all
 ||olx.pl-getpaid.work^$all
 ||olx.pl-getpaid.xyz^$all
 ||olx.pl-paidcash.club^$all
 ||olx.pl-paidcash.shop^$all
 ||olx.pl-paid.cyou^$all
 ||olx.pl-paid.work^$all
+||olx.pl-paycash.shop^$all
+||olx.pl-paycash.work^$all
 ||olx.pl-receivepaid.club^$all
 ||olx.pl-receivepaid.cyou^$all
 ||olx.pl-receivepaid.icu^$all
@@ -6096,6 +6108,7 @@
 ||pay02-olx.pl^$all
 ||pay04-olx.info^$all
 ||pay04-olx.pl^$all
+||pay05-olx.info^$all
 ||pay05-olx.pl^$all
 ||pay06-olx.pl^$all
 ||pay07-olx.pl^$all
@@ -7205,6 +7218,7 @@
 ||serialowo.pl^$all
 ||server012121.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
+||server867898.nazwa.pl^$all
 ||server870179.nazwa.pl^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
@@ -7704,6 +7718,7 @@
 ||torrenty--org.pl^$all
 ||torysmeble.pl^$all
 ||tosieznajdujeblisko24.site^$all
+||tourismoodle.emu.edu.tr^$all
 ||towiemy.online^$all
 ||towlasciwadroga.website^$all
 ||towszystkobywyjasnialo.website^$all
@@ -7743,6 +7758,7 @@
 ||truyenthongbatdiet.online^$all
 ||trzebasiezstegoutrzymac.cyou^$all
 ||trzebasiezztympogodzic.cyou^$all
+||trznadel.icu^$all
 ||trzymajpoziom.pl^$all
 ||tujestpolska.icu^$all
 ||tunaszapolska.xyz^$all
