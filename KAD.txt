@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 12 May 2021, 13:07 UTC+02
-! Version: 2021.5.12.0
+! Last modified: Wed, 12 May 2021, 17:06 UTC+02
+! Version: 2021.5.12.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2281,6 +2281,7 @@
 ||allegro-lokalnie.surf^$all
 ||allegro-lokalnie.xyz^$all
 ||allegro-lokalniie.fun^$all
+||allegro-lokalniie.online^$all
 ||allegro-m.pl^$all
 ||allegro-ogloszenia.you2.pl^$all
 ||allegro-okazje.dkonto.pl^$all
@@ -2723,6 +2724,8 @@
 ||bz.xcv6.cn^$all
 ||b-s500.com^$all
 ||c39b126b5cec.ngrok.io^$all
+||ca24-login.com^$all
+||ca24-online.com^$all
 ||caeiriolskiaopazertyiop.xyz^$all
 ||caldai.com^$all
 ||calvinkleinpolska.pl^$all
@@ -3096,6 +3099,7 @@
 ||dephantomz.duckdns.org^$all
 ||depozyt24.net^$all
 ||deqqvg74uu6kk.cloudfront.net^$all
+||derpost.xyz^$all
 ||despas.net^$all
 ||destgrena.at^$all
 ||detka.com.pl^$all
@@ -3251,7 +3255,9 @@
 ||dotpay.emonitoringpoczta48.net^$all
 ||dotpay.emonitoringpoczta.net^$all
 ||dotpay.emonitoring-poczta48.net^$all
+||dotpay.emonitoring-pocztapolska.org^$all
 ||dotpay.emonitoring-poczta.net^$all
+||dotpay.emonitoring-pocztexpolska.com^$all
 ||dotpay.emonitoring-polskapoczta.com^$all
 ||dotpay.epocztapolska24.net^$all
 ||dotpay.e-monitoring-pocztapolska.net^$all
@@ -3391,7 +3397,9 @@
 ||emonitoringpoczta.net^$all
 ||emonitoring-epoczta-polska.net^$all
 ||emonitoring-pocztapolska.com^$all
+||emonitoring-pocztapolska.org^$all
 ||emonitoring-poczta.net^$all
+||emonitoring-pocztexpolska.com^$all
 ||emonitoring-pocztexpolska.net^$all
 ||emonitoring-polskapoczta.com^$all
 ||emptierbreak.xyz^$all
@@ -5816,6 +5824,12 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.plkonstosa.casa^$all
+||olx.plkonstosa.club^$all
+||olx.plkonstosa.cyou^$all
+||olx.plkonstosa.shop^$all
+||olx.plkonstosa.work^$all
+||olx.plkonstosa.xyz^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
 ||olx.plskontas.store^$all
@@ -7277,6 +7291,7 @@
 ||send-post.host^$all
 ||send-post.space^$all
 ||sennahaus.pl^$all
+||sensetennis.xyz^$all
 ||sensosushi.pl^$all
 ||seolandia.pl^$all
 ||seriale.best^$all
@@ -7398,6 +7413,7 @@
 ||smsoo.in^$all
 ||smsxx.in^$all
 ||smsy24.pl^$all
+||smszo.in^$all
 ||smszz.in^$all
 ||sms-info.app^$all
 ||sms-info.club^$all
@@ -7726,6 +7742,7 @@
 ||thepacificagroup.com^$all
 ||thepacifica-group.com^$all
 ||theplost.xyz^$all
+||thepostowanie.xyz^$all
 ||thereimbursement.us^$all
 ||thermocook.pl^$all
 ||the-bitcoinrevolution.com^$all
