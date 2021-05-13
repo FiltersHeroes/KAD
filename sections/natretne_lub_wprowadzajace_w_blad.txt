@@ -9,8 +9,8 @@ filme.pl#?#.float-xl-left.col-lg-8 > div.mb-3.card:nth-of-type(odd):nth-of-type(
 filme.pl#?#.float-xl-right.col-lg-4 > div.mb-3.card:nth-of-type(2):has(a[href*="http://leadmy.pl/"])
 filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl/"])
 instalki.pl##option[value$="dm=1"]
-instalki.pl#$#A[href*="?dm"] { pointer-events: none !important; font-size: 0 !important }
-instalki.pl#$#A[href*="?dm"]::before { font-size: 23px !important; content: "WYBIERZ Z LISTY" }
+instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
+instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
 kamilassurma.com##^script:has-text(/wwig=.*btoa/)
 kamilassurma.com$$script[wildcard="wwig=*btoa"]
 speedtest.pl,speedtest.com.pl##a[href*="przyspiesz.pl/"]
