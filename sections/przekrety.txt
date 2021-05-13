@@ -1,13 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||autoresdecomic.com^$all
-||tubesmaza.cam^$all
-||vejabuty.org^$all
-||butyonrunning.com^$all
-||btsystemos.com^$all
-||hotgirlforyou.com^$all
-||dmcatime.space^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -149,6 +142,7 @@
 ||affingindustries.com^$all
 ||affinityfinancenews.com^$all
 ||agencja-aspro.pl^$all
+||agileappers.com^$all
 ||agipasesores.com^$all
 ||agmar-zdg.pl^$all
 ||agness.com.pl^$all
@@ -414,6 +408,7 @@
 ||auger.pl^$all
 ||authenticator.signinid-aapppleid.super-host.pl^$all
 ||autorentier.pl^$all
+||autoresdecomic.com^$all
 ||avaparse.ir^$all
 ||avbtrk.com^$all
 ||avitodomains.ru^$all
@@ -663,6 +658,7 @@
 ||btc-billionaire.com^$all
 ||btc-era.com^$all
 ||btc-evo.com^$all
+||btsystemos.com^$all
 ||buczma-gabinet.pl^$all
 ||buergerliste-eppan.eu^$all
 ||bundle-deals.com^$all
@@ -687,6 +683,7 @@
 ||butykuponline.com^$all
 ||butymerrellpl.com^$all
 ||butynowa.com^$all
+||butyonrunning.com^$all
 ||butypalladium.pl^$all
 ||butypumacena.com^$all
 ||butysportowead.pl^$all
@@ -1127,6 +1124,7 @@
 ||dlugosiieootymmowi.space^$all
 ||dluzniku.com^$all
 ||dm5s33kpu5h5p.cloudfront.net^$all
+||dmcatime.space^$all
 ||dnmultiglobal.duckdns.org^$all
 ||dnsfordomains.ru^$all
 ||dnw5n74x7xkb4qg.surrterreproperties.com^$all
@@ -2083,6 +2081,7 @@
 ||hotelkrome.com^$all
 ||hotellwowlublin.lubuskie.lu^$all
 ||hotel-bristol.lu^$all
+||hotgirlforyou.com^$all
 ||hot-agd.pl^$all
 ||hot-stock.live^$all
 ||housedropdeals.com^$all
@@ -2342,6 +2341,9 @@
 ||inpost.pl-getdelivery.club^$all
 ||inpost.pl-getpaid.cyou^$all
 ||inpost.pl-getpaid.work^$all
+||inpost.pl-orderpaid.cyou^$all
+||inpost.pl-orderpaid.icu^$all
+||inpost.pl-orderpaid.work^$all
 ||inpost.pl-orderpaid.xyz^$all
 ||inpost.pl-orderpays.work^$all
 ||inpost.pl-paidcash.club^$all
@@ -2720,6 +2722,7 @@
 ||kup-teraz-859110.xyz^$all
 ||kup.mojlokalnie.site^$all
 ||kuriedh.com^$all
+||kurier24-oplata.com^$all
 ||kurierdhl.com^$all
 ||kurierfedex.pl^$all
 ||kurierlotek.org^$all
@@ -3849,7 +3852,11 @@
 ||olx.pl-getpaid.shop^$all
 ||olx.pl-getpaid.work^$all
 ||olx.pl-getpaid.xyz^$all
+||olx.pl-gotpaid.cyou^$all
+||olx.pl-gotpaid.icu^$all
+||olx.pl-orderpaid.cyou^$all
 ||olx.pl-orderpaid.icu^$all
+||olx.pl-orderpaid.shop^$all
 ||olx.pl-orderpaid.work^$all
 ||olx.pl-orderpaid.xyz^$all
 ||olx.pl-orderpays.cyou^$all
@@ -4098,6 +4105,7 @@
 ||paczkikk.com^$all
 ||paczkik.com^$all
 ||paczkitnt.com^$all
+||paczkiz.net^$all
 ||paczkkaups.com^$all
 ||paczkmat.net^$all
 ||paczkodpd.com^$all
@@ -5864,6 +5872,7 @@
 ||trzebasiezztympogodzic.cyou^$all
 ||trznadel.icu^$all
 ||trzymajpoziom.pl^$all
+||tubesmaza.cam^$all
 ||tujestpolska.icu^$all
 ||tunaszapolska.xyz^$all
 ||tunehub247shop.com^$all
@@ -6025,6 +6034,7 @@
 ||vcampetyld.xyz^$all
 ||vdomainwebmgno.ga^$all
 ||vejabuty.com^$all
+||vejabuty.org^$all
 ||vejapoland.com^$all
 ||vejawarszawa.com^$all
 ||velica.com.br^$all
@@ -6536,13 +6546,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||agileappers.com^$all
-||inpost.pl-orderpaid.cyou^$all
-||inpost.pl-orderpaid.icu^$all
-||inpost.pl-orderpaid.work^$all
-||kurier24-oplata.com^$all
-||olx.pl-gotpaid.cyou^$all
-||olx.pl-gotpaid.icu^$all
-||olx.pl-orderpaid.cyou^$all
-||olx.pl-orderpaid.shop^$all
-||paczkiz.net^$all
