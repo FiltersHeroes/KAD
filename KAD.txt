@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 13 May 2021, 13:06 UTC+02
-! Version: 2021.5.13.0
+! Last modified: Thu, 13 May 2021, 17:05 UTC+02
+! Version: 2021.5.13.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -222,6 +222,7 @@
 ||butykeenpolska.com^$all
 ||butymartensy.com^$all
 ||butymizunopolska.com^$all
+||butyonrunning.com^$all
 ||butyplsklep.com^$all
 ||butypremium.pl^$all
 ||butyreebokonline.pl^$all
@@ -1512,6 +1513,7 @@
 ||tradecompany.pl^$all
 ||trampkiconverse.com^$all
 ||trampkisuperga.pl^$all
+||trampoliny260.com^$all
 ||transeuropaferries.pl^$all
 ||trapez-sc.pl^$all
 ||trella.com.pl^$all
@@ -2260,6 +2262,7 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
+||allegrolokalnie.site^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
@@ -3178,6 +3181,7 @@
 ||doladujfona.org^$all
 ||dolozswojacegiellke.cyou^$all
 ||domain-registration.me^$all
+||domappchecknwas20.web.app^$all
 ||domena-informacyjna.dkonto.pl^$all
 ||domgoralskispa.pl^$all
 ||domki-kopalino.com.pl^$all
@@ -3255,7 +3259,9 @@
 ||dotpay.emonitoringpoczta24.net^$all
 ||dotpay.emonitoringpoczta48.net^$all
 ||dotpay.emonitoringpoczta.net^$all
+||dotpay.emonitoring-poczta24polska.net^$all
 ||dotpay.emonitoring-poczta48.net^$all
+||dotpay.emonitoring-pocztapl24.net^$all
 ||dotpay.emonitoring-pocztapolska.org^$all
 ||dotpay.emonitoring-poczta.net^$all
 ||dotpay.emonitoring-pocztexpolska.com^$all
@@ -3398,9 +3404,12 @@
 ||emonitoring24.online^$all
 ||emonitoringpoczta.net^$all
 ||emonitoring-epoczta-polska.net^$all
+||emonitoring-poczta24polska.net^$all
+||emonitoring-pocztapl24.net^$all
 ||emonitoring-pocztapolska.com^$all
 ||emonitoring-pocztapolska.org^$all
 ||emonitoring-poczta.net^$all
+||emonitoring-pocztex24polska.net^$all
 ||emonitoring-pocztexpolska.com^$all
 ||emonitoring-pocztexpolska.net^$all
 ||emonitoring-polskapoczta.com^$all
@@ -4354,6 +4363,7 @@
 ||inpost.pl-getdelivery.club^$all
 ||inpost.pl-getpaid.cyou^$all
 ||inpost.pl-getpaid.work^$all
+||inpost.pl-orderpaid.xyz^$all
 ||inpost.pl-orderpays.work^$all
 ||inpost.pl-paidcash.club^$all
 ||inpost.pl-paidcash.icu^$all
@@ -5247,11 +5257,13 @@
 ||naszemiasto.dkonto.pl^$all
 ||naszepanstwo.xyz^$all
 ||naszepieknemiasstto.site^$all
+||naszetv.pl^$all
 ||naszewiadomosci.site^$all
 ||naszewiadomosci.xyz^$all
 ||naszezabrze.online^$all
 ||nasze-miasta24tv.online^$all
 ||nasze-miasto.k99k.com.pl^$all
+||nasze-tv.pl^$all
 ||nasze-usg.pl^$all
 ||naszglos24.laohost.net^$all
 ||naszpolskiswiat.icu^$all
@@ -5858,7 +5870,12 @@
 ||olx.pl-getpaid.shop^$all
 ||olx.pl-getpaid.work^$all
 ||olx.pl-getpaid.xyz^$all
+||olx.pl-orderpaid.icu^$all
+||olx.pl-orderpaid.work^$all
+||olx.pl-orderpaid.xyz^$all
 ||olx.pl-orderpays.cyou^$all
+||olx.pl-orderpays.shop^$all
+||olx.pl-orderpays.work^$all
 ||olx.pl-paidcash.club^$all
 ||olx.pl-paidcash.shop^$all
 ||olx.pl-paidmoney.club^$all
@@ -7101,6 +7118,7 @@
 ||realinvestment.pl^$all
 ||realnyzarobek.pl^$all
 ||realsson.com^$all
+||recommendtent.xyz^$all
 ||redakcjadllapommocy.site^$all
 ||redirecting.pl^$all
 ||redquantum.com.pl^$all
@@ -7429,6 +7447,7 @@
 ||smsinf.org^$all
 ||smsnn.in^$all
 ||smsoo.in^$all
+||smsto.in^$all
 ||smsxx.in^$all
 ||smsy24.pl^$all
 ||smszo.in^$all
@@ -8039,6 +8058,7 @@
 ||versacesklep.com^$all
 ||versales.xyz^$all
 ||vesen.xyz^$all
+||vfy-wmail.web.app^$all
 ||vgdny.com^$all
 ||vidalyasociados.com^$all
 ||videoplanet.pl^$all
@@ -8047,6 +8067,7 @@
 ||vidplayer.pl^$all
 ||vikingradom.freehost.pl^$all
 ||vikmar.com.pl^$all
+||vinted.cc^$all
 ||viralka.pl^$all
 ||visa-payment.sytes.net^$all
 ||visitoronearthxrussellathletic.xyz^$all
