@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 13 May 2021, 17:05 UTC+02
-! Version: 2021.5.13.1
+! Last modified: Thu, 13 May 2021, 21:05 UTC+02
+! Version: 2021.5.13.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2044,7 +2044,7 @@
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{4,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup,domain=life|live
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$doccument,popup,domain=vip
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=vip
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
@@ -2170,6 +2170,7 @@
 ||affingindustries.com^$all
 ||affinityfinancenews.com^$all
 ||agencja-aspro.pl^$all
+||agileappers.com^$all
 ||agipasesores.com^$all
 ||agmar-zdg.pl^$all
 ||agness.com.pl^$all
@@ -2435,6 +2436,7 @@
 ||auger.pl^$all
 ||authenticator.signinid-aapppleid.super-host.pl^$all
 ||autorentier.pl^$all
+||autoresdecomic.com^$all
 ||avaparse.ir^$all
 ||avbtrk.com^$all
 ||avitodomains.ru^$all
@@ -2684,6 +2686,7 @@
 ||btc-billionaire.com^$all
 ||btc-era.com^$all
 ||btc-evo.com^$all
+||btsystemos.com^$all
 ||buczma-gabinet.pl^$all
 ||buergerliste-eppan.eu^$all
 ||bundle-deals.com^$all
@@ -2708,6 +2711,7 @@
 ||butykuponline.com^$all
 ||butymerrellpl.com^$all
 ||butynowa.com^$all
+||butyonrunning.com^$all
 ||butypalladium.pl^$all
 ||butypumacena.com^$all
 ||butysportowead.pl^$all
@@ -3148,6 +3152,7 @@
 ||dlugosiieootymmowi.space^$all
 ||dluzniku.com^$all
 ||dm5s33kpu5h5p.cloudfront.net^$all
+||dmcatime.space^$all
 ||dnmultiglobal.duckdns.org^$all
 ||dnsfordomains.ru^$all
 ||dnw5n74x7xkb4qg.surrterreproperties.com^$all
@@ -4104,6 +4109,7 @@
 ||hotelkrome.com^$all
 ||hotellwowlublin.lubuskie.lu^$all
 ||hotel-bristol.lu^$all
+||hotgirlforyou.com^$all
 ||hot-agd.pl^$all
 ||hot-stock.live^$all
 ||housedropdeals.com^$all
@@ -4363,6 +4369,9 @@
 ||inpost.pl-getdelivery.club^$all
 ||inpost.pl-getpaid.cyou^$all
 ||inpost.pl-getpaid.work^$all
+||inpost.pl-orderpaid.cyou^$all
+||inpost.pl-orderpaid.icu^$all
+||inpost.pl-orderpaid.work^$all
 ||inpost.pl-orderpaid.xyz^$all
 ||inpost.pl-orderpays.work^$all
 ||inpost.pl-paidcash.club^$all
@@ -4741,6 +4750,7 @@
 ||kup-teraz-859110.xyz^$all
 ||kup.mojlokalnie.site^$all
 ||kuriedh.com^$all
+||kurier24-oplata.com^$all
 ||kurierdhl.com^$all
 ||kurierfedex.pl^$all
 ||kurierlotek.org^$all
@@ -5870,7 +5880,11 @@
 ||olx.pl-getpaid.shop^$all
 ||olx.pl-getpaid.work^$all
 ||olx.pl-getpaid.xyz^$all
+||olx.pl-gotpaid.cyou^$all
+||olx.pl-gotpaid.icu^$all
+||olx.pl-orderpaid.cyou^$all
 ||olx.pl-orderpaid.icu^$all
+||olx.pl-orderpaid.shop^$all
 ||olx.pl-orderpaid.work^$all
 ||olx.pl-orderpaid.xyz^$all
 ||olx.pl-orderpays.cyou^$all
@@ -6119,6 +6133,7 @@
 ||paczkikk.com^$all
 ||paczkik.com^$all
 ||paczkitnt.com^$all
+||paczkiz.net^$all
 ||paczkkaups.com^$all
 ||paczkmat.net^$all
 ||paczkodpd.com^$all
@@ -7885,6 +7900,7 @@
 ||trzebasiezztympogodzic.cyou^$all
 ||trznadel.icu^$all
 ||trzymajpoziom.pl^$all
+||tubesmaza.cam^$all
 ||tujestpolska.icu^$all
 ||tunaszapolska.xyz^$all
 ||tunehub247shop.com^$all
@@ -8046,6 +8062,7 @@
 ||vcampetyld.xyz^$all
 ||vdomainwebmgno.ga^$all
 ||vejabuty.com^$all
+||vejabuty.org^$all
 ||vejapoland.com^$all
 ||vejawarszawa.com^$all
 ||velica.com.br^$all
@@ -8883,11 +8900,13 @@ filme.pl##a[href*="http://leadmy.pl/"]
 filme.pl#?#.float-xl-left.col-lg-8 > div.mb-3.card:nth-of-type(odd):nth-of-type(-n+3):has(a[href*="http://leadmy.pl/"])
 filme.pl#?#.float-xl-right.col-lg-4 > div.mb-3.card:nth-of-type(2):has(a[href*="http://leadmy.pl/"])
 filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl/"])
+instalki.pl##option[value$="dm=1"]
+instalki.pl#$#A[href*="?dm"] { pointer-events: none !important; font-size: 0 !important }
+instalki.pl#$#A[href*="?dm"]::before { font-size: 23px !important; content: "WYBIERZ Z LISTY" }
 kamilassurma.com##^script:has-text(/wwig=.*btoa/)
 kamilassurma.com$$script[wildcard="wwig=*btoa"]
 speedtest.pl,speedtest.com.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
-!download.komputerswiat.pl##div[id]:has( > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"]))::after:style(content: 'Uwaga aystent pobierania próbuje się załadować' !important;)
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
 /pobierz_*.exe$document
