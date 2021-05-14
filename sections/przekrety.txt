@@ -1,9 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||strona-zdrowia.com^$all
-||invest-flow.io^$all
-||invest-moment.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -434,6 +431,7 @@
 ||b24-m8zer1.bitrix24.site^$all
 ||b668890e52d9.ngrok.io^$all
 ||babcia.cyou^$all
+||babosiki.buzz^$all
 ||babyelephant.com.pl^$all
 ||bacuskurier.com^$all
 ||badaxx.za.pl^$all
@@ -895,6 +893,7 @@
 ||cqsdjxf.com^$all
 ||crafton.store^$all
 ||crazygarden.pl^$all
+||creativedeno.com^$all
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
 ||credit-agricole-fr.de.cool^$all
@@ -2333,6 +2332,12 @@
 ||inpost.moferta.xyz^$all
 ||inpost.name^$all
 ||inpost.oferda-pl.space^$all
+||inpost.olxkonstosx.casa^$all
+||inpost.olxkonstosx.club^$all
+||inpost.olxkonstosx.cyou^$all
+||inpost.olxkonstosx.shop^$all
+||inpost.olxkonstosx.work^$all
+||inpost.olxkonstosx.xyz^$all
 ||inpost.olxkonstos.cyou^$all
 ||inpost.olxkontosos.casa^$all
 ||inpost.olxkontosos.cyou^$all
@@ -2357,6 +2362,10 @@
 ||inpost.pl-gotpaid.club^$all
 ||inpost.pl-gotpaid.work^$all
 ||inpost.pl-gotpaid.xyz^$all
+||inpost.pl-gotpay.club^$all
+||inpost.pl-gotpay.cyou^$all
+||inpost.pl-gotpay.icu^$all
+||inpost.pl-gotpay.work^$all
 ||inpost.pl-orderpaid.cyou^$all
 ||inpost.pl-orderpaid.icu^$all
 ||inpost.pl-orderpaid.work^$all
@@ -2448,6 +2457,8 @@
 ||investing-headlines.com^$all
 ||investmarket.info^$all
 ||invest-fd.io^$all
+||invest-flow.io^$all
+||invest-moment.com^$all
 ||invp.edealand.pro^$all
 ||inwestujemy.online^$all
 ||inwestujmy.online^$all
@@ -2637,6 +2648,7 @@
 ||kladowa.xyz^$all
 ||klikijuz.com^$all
 ||klimalalaryngolog.pl^$all
+||klinko24.xyz^$all
 ||klubfiatstilo.pl^$all
 ||klubpopstar.pl^$all
 ||klub-rossmann.club^$all
@@ -2913,6 +2925,7 @@
 ||louyanx.pl^$all
 ||lovemydress.pl^$all
 ||lowpay.net^$all
+||lpkao.pw^$all
 ||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||lubicplacki.is-best.net^$all
 ||lubiego.is-best.net^$all
@@ -2938,6 +2951,7 @@
 ||macheaper.top^$all
 ||mackeeperaffiliates.com^$all
 ||mackeeperapp.mackeeper.com^$all
+||madamesklep.com.pl^$all
 ||madmulla.duckdns.org^$all
 ||madraglowa.com.pl^$all
 ||madryt.cyou^$all
@@ -3501,6 +3515,7 @@
 ||oferta987567.xyz^$all
 ||oferta999555.xyz^$all
 ||oferta-olx.eu^$all
+||oferta-orlen.club^$all
 ||oferta-payment.art^$all
 ||oferta-payment.cloud^$all
 ||oferta-payment.org^$all
@@ -3885,6 +3900,7 @@
 ||olx.pl-gotpaid.cyou^$all
 ||olx.pl-gotpaid.icu^$all
 ||olx.pl-gotpaid.work^$all
+||olx.pl-gotpay.cyou^$all
 ||olx.pl-orderpaid.cyou^$all
 ||olx.pl-orderpaid.icu^$all
 ||olx.pl-orderpaid.shop^$all
@@ -3894,6 +3910,8 @@
 ||olx.pl-orderpays.shop^$all
 ||olx.pl-orderpays.work^$all
 ||olx.pl-orderspaid.club^$all
+||olx.pl-orderspaid.cyou^$all
+||olx.pl-orderspaid.icu^$all
 ||olx.pl-orderspaid.shop^$all
 ||olx.pl-orderspaid.work^$all
 ||olx.pl-orderspaid.xyz^$all
@@ -5653,6 +5671,7 @@
 ||strikteobizznesie24.cyou^$all
 ||strona2020.dkonto.pl^$all
 ||stronamiasta.dkonto.pl^$all
+||strona-zdrowia.com^$all
 ||strona-zpk.dkonto.pl^$all
 ||strstudio.pl^$all
 ||structures-made-easy.co.uk^$all
@@ -5914,6 +5933,7 @@
 ||trudneokreslenie.site^$all
 ||truegamers.ga^$all
 ||truyenthongbatdiet.online^$all
+||trytogoi.xyz^$all
 ||trzebasiezstegoutrzymac.cyou^$all
 ||trzebasiezztympogodzic.cyou^$all
 ||trznadel.icu^$all
@@ -6593,23 +6613,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||babosiki.buzz^$all
-||creativedeno.com^$all
-||inpost.olxkonstosx.casa^$all
-||inpost.olxkonstosx.club^$all
-||inpost.olxkonstosx.cyou^$all
-||inpost.olxkonstosx.shop^$all
-||inpost.olxkonstosx.work^$all
-||inpost.olxkonstosx.xyz^$all
-||inpost.pl-gotpay.club^$all
-||inpost.pl-gotpay.cyou^$all
-||inpost.pl-gotpay.icu^$all
-||inpost.pl-gotpay.work^$all
-||klinko24.xyz^$all
-||lpkao.pw^$all
-||madamesklep.com.pl^$all
-||oferta-orlen.club^$all
-||olx.pl-gotpay.cyou^$all
-||olx.pl-orderspaid.cyou^$all
-||olx.pl-orderspaid.icu^$all
-||trytogoi.xyz^$all
