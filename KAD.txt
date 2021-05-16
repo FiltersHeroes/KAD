@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 15 May 2021, 21:05 UTC+02
-! Version: 2021.5.15.2
+! Last modified: Sun, 16 May 2021, 13:06 UTC+02
+! Version: 2021.5.16.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2953,6 +2953,7 @@
 ||csmatchgo.com^$all
 ||csprocup.com^$all
 ||csz1-amzzzsrvceupdayters.com^$all
+||cta-ventil.eu^$all
 ||ctizuhvdko.web.app^$all
 ||ctxholdings.com^$all
 ||cullgame.com^$all
@@ -4400,6 +4401,8 @@
 ||inpost.pl-gotpay.cyou^$all
 ||inpost.pl-gotpay.icu^$all
 ||inpost.pl-gotpay.work^$all
+||inpost.pl-orderedpay.shop^$all
+||inpost.pl-orderedpay.xyz^$all
 ||inpost.pl-orderpaid.cyou^$all
 ||inpost.pl-orderpaid.icu^$all
 ||inpost.pl-orderpaid.work^$all
@@ -4819,6 +4822,7 @@
 ||labersa.com^$all
 ||labmedica.pl^$all
 ||lacostepoland.pl^$all
+||ladysklep.com.pl^$all
 ||lander.pl^$all
 ||laptopyinfo.pl^$all
 ||larissalinhares.com.br^$all
@@ -5898,6 +5902,10 @@
 ||olx.oferda-pl.fun^$all
 ||olx.oferda-pl.life^$all
 ||olx.oferda-pl.live^$all
+||olx.olxkonstosx.casa^$all
+||olx.olxkonstosx.club^$all
+||olx.olxkonstosx.cyou^$all
+||olx.olxkonstosx.shop^$all
 ||olx.olxkonstosx.xyz^$all
 ||olx.olxkonstos.casa^$all
 ||olx.olxkonstos.club^$all
@@ -5941,6 +5949,11 @@
 ||olx.pl-gotpaid.icu^$all
 ||olx.pl-gotpaid.work^$all
 ||olx.pl-gotpays.club^$all
+||olx.pl-gotpays.cyou^$all
+||olx.pl-gotpays.icu^$all
+||olx.pl-gotpays.shop^$all
+||olx.pl-gotpays.work^$all
+||olx.pl-gotpays.xyz^$all
 ||olx.pl-gotpay.cyou^$all
 ||olx.pl-orderpaid.cyou^$all
 ||olx.pl-orderpaid.icu^$all
