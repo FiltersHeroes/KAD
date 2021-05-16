@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 16 May 2021, 14:32 UTC+02
-! Version: 2021.5.16.1
+! Last modified: Sun, 16 May 2021, 17:05 UTC+02
+! Version: 2021.5.16.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -220,7 +220,6 @@
 ||butykeenpolska.com^$all
 ||butymartensy.com^$all
 ||butymizunopolska.com^$all
-||butyonrunning.com^$all
 ||butyplsklep.com^$all
 ||butypremium.pl^$all
 ||butyreebokonline.pl^$all
@@ -280,7 +279,6 @@
 ||circlescatfish.com^$all
 ||cityodyssey.com^$all
 ||cksserock.pl^$all
-||clarkssklep.co^$all
 ||clarkswyprzedaz.com^$all
 ||closiv.com^$all
 ||cloudtokenwallet.com^$all
@@ -397,7 +395,6 @@
 ||eccobuty.co^$all
 ||eccoeustore.com^$all
 ||eccopoland.com^$all
-||eccowyprzedaz.com^$all
 ||ecco-polska.pl^$all
 ||ecolife-home.com.pl^$all
 ||ecoslimmer.pro^$all
@@ -1129,7 +1126,6 @@
 ||polmathome.pl^$all
 ||polonialaziska.pl^$all
 ||polskabieda.com^$all
-||polskashoes.top^$all
 ||polska-tv.pl^$all
 ||polskifilm.com.pl^$all
 ||polski-fashionoutlet.com^$all
@@ -1176,7 +1172,6 @@
 ||prokino.pl^$all
 ||promeblemania.pl^$all
 ||promocjaeuro.pl^$all
-||promocjavan.com^$all
 ||proobuwie.pl^$all
 ||protesttaxi.pl^$all
 ||przedszkolefalenty.pl^$all
@@ -1326,7 +1321,6 @@
 ||sklepbuty.top^$all
 ||sklephollisterpl.com^$all
 ||sklepkjl.com^$all
-||sklepyconversepolska.com^$all
 ||sklep-bio.pl^$all
 ||sklep-colway.com^$all
 ||sklep-colway.pl^$all
@@ -1435,6 +1429,7 @@
 ||szczepienie.net.pl^$all
 ||szczesliwydzien.com^$all
 ||szklarnia.top^$all
+||szklarnie270.com^$all
 ||szklarnie400.com^$all
 ||szklarnie500.com^$all
 ||szklarnie.club^$all
@@ -1554,10 +1549,8 @@
 ||vcascc.eu^$all
 ||veclaim.com^$all
 ||vegatestsklep.pl^$all
-||vejabuty.com^$all
 ||vejapolska.com^$all
 ||vejapolska.pl^$all
-||vejawarszawa.com^$all
 ||veltocars.com.pl^$all
 ||verifycaptcha.com^$all
 ||versalka.pl^$all
@@ -2492,6 +2485,7 @@
 ||betbyt.com^$all
 ||bezdyskusyjniedobre.cyou^$all
 ||bezironigazetta.site^$all
+||bezpieczenstwo.wp-pl.eu^$all
 ||bezpieczna-dostawa-pl.com^$all
 ||bezpieczna-dostawa.biz^$all
 ||bezpieczna-dostawa.com.pl^$all
@@ -2984,6 +2978,7 @@
 ||d35s76ui8ol8u7.cloudfront.net^$all
 ||d03307.top^$all
 ||d3889itag5jgx6.cloudfront.net^$all
+||d16026ycio8a62.cloudfront.net^$all
 ||dachbud.slask.pl^$all
 ||dalsari.com^$all
 ||dalsza-droga.tk^$all
@@ -3034,6 +3029,7 @@
 ||deliverry-safe.info^$all
 ||deliverry-safe.org^$all
 ||delivery2you.page.link^$all
+||deliveryme.org^$all
 ||deliverysafely.org^$all
 ||deliverysecure.club^$all
 ||deliverysecure.org^$all
@@ -4362,6 +4358,12 @@
 ||inpost.pl-savepaid.shop^$all
 ||inpost.pl-savepaid.work^$all
 ||inpost.pl-*.*^$document
+||inpost.polskaolerta.art^$all
+||inpost.polskaolerta.casa^$all
+||inpost.polskaolerta.cyou^$all
+||inpost.polskaolerta.shop^$all
+||inpost.polskaolerta.store^$all
+||inpost.polskaolerta.xyz^$all
 ||inpost.polska-*.*^$document
 ||inpost.pw^$all
 ||inpost.services^$all
@@ -5770,6 +5772,7 @@
 ||olx.dellivery.*^$all
 ||olx.doreczanie.pl^$all
 ||olx.doreczenle.pl^$all
+||olx.dostawa-1613762161.site^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
@@ -5828,6 +5831,7 @@
 ||olx.pl-gotpays.work^$all
 ||olx.pl-gotpays.xyz^$all
 ||olx.pl-gotpay.cyou^$all
+||olx.pl-orderedpays.xyz^$all
 ||olx.pl-orderpaid.cyou^$all
 ||olx.pl-orderpaid.icu^$all
 ||olx.pl-orderpaid.shop^$all
