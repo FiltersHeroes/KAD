@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 17 May 2021, 13:05 UTC+02
-! Version: 2021.5.17.0
+! Last modified: Mon, 17 May 2021, 17:06 UTC+02
+! Version: 2021.5.17.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2570,6 +2570,7 @@
 ||biznesoweinfo.miasta.pl^$all
 ||biznesplanet-bnpparlbas.com^$all
 ||biznesplanet-bnpparlba.com^$all
+||biznesplanet-parlbabnp.com^$all
 ||biznesplanet.parlbabnp.com^$all
 ||blablacar-pay.cc^$all
 ||blablacar.media^$all
@@ -3206,6 +3207,8 @@
 ||dotpay.emonitoringpoczta24.net^$all
 ||dotpay.emonitoringpoczta48.net^$all
 ||dotpay.emonitoring-poczta48.net^$all
+||dotpay.emonitoring-pocztex48.net^$all
+||dotpay.emonitoring-polska-poczta.net^$all
 ||dotpay.etracking-pocztex48.net^$all
 ||dotpay.e-monitoring-pocztapolska.net^$all
 ||dotpay.pocztapolska48.com^$all
@@ -3350,6 +3353,7 @@
 ||emonitoring-pocztexpolska.com^$all
 ||emonitoring-pocztexpolska.net^$all
 ||emonitoring-polskapoczta.com^$all
+||emonitoring-polska-poczta.net^$all
 ||emptierbreak.xyz^$all
 ||em-car.pl^$all
 ||enagradzamy.pl^$all
@@ -4766,6 +4770,7 @@
 ||loshtorm.xyz^$all
 ||lotekkurier.com^$all
 ||lotnik.cyou^$all
+||lotosgr-pl.info^$all
 ||loudmatch.com^$all
 ||loutam.xyz^$all
 ||louyanx.pl^$all
@@ -5052,6 +5057,7 @@
 ||my-olx.pl^$all
 ||my-payment.online^$all
 ||my-pay.info^$all
+||my.commbank.com.au.logon.australia.commbankaustralia.aspx.logon.nb.authorization.loginx.lockedintrusted.nmsistemas.com^$all
 ||m-facebook.ct8.pl^$all
 ||m-instagram.org^$all
 ||m-olx-oferta.name^$all
@@ -5712,6 +5718,8 @@
 ||olx.pl-safeordered.cyou^$all
 ||olx.pl-safeordered.icu^$all
 ||olx.pl-safeordered.xyz^$all
+||olx.pl-safepaid.club^$all
+||olx.pl-safepaid.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
@@ -6239,6 +6247,7 @@
 ||pkobp.online^$all
 ||pkopl.com^$all
 ||pko-bp.pl^$all
+||pko-invest.club^$all
 ||pl2021.online^$all
 ||placidocn.com^$all
 ||placimy24.net^$all
@@ -6339,6 +6348,8 @@
 ||pl-inpost.online^$all
 ||pl-konto-order.me^$all
 ||pl-konto.mobi^$all
+||pl-lotos.info^$all
+||pl-lotos.site^$all
 ||pl-makedeal.casa^$all
 ||pl-makedeal.club^$all
 ||pl-makepays.casa^$all
@@ -7064,6 +7075,7 @@
 ||santander-paymentsservice.com^$all
 ||santander.muniesbowls.co.za^$all
 ||sapapartamenty.pl^$all
+||sardynka.site^$all
 ||sasiedzkagazeta.eu^$all
 ||sasiedzkagazeta.pl^$all
 ||sasiedzkiportal.eu^$all
@@ -7115,6 +7127,7 @@
 ||seriale.best^$all
 ||serialosy.pl^$all
 ||serialowo.pl^$all
+||server274.dedicated-webhosting.xyz^$all
 ||server012121.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
@@ -7708,6 +7721,7 @@
 ||twoje-foty.eu^$all
 ||twoje-miasto.dfirma.pl^$all
 ||twoje-miasto.k99k.com.pl^$all
+||twoje-ogloszenia.com^$all
 ||twoje-ogloszenie.com^$all
 ||twoje-polskie-infa.dnsrobotuptime.ru^$all
 ||twoje-polskie-infa.pl^$all
