@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 18 May 2021, 17:05 UTC+02
-! Version: 2021.5.18.1
+! Last modified: Tue, 18 May 2021, 21:07 UTC+02
+! Version: 2021.5.18.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1032,6 +1032,7 @@
 ||opiekapaliatywna2010.pl^$all
 ||oplaca-sie.pl^$all
 ||oponymagcarleszno.pl^$all
+||oranzadaklub.pl^$all
 ||organicmed.pl^$all
 ||organogold.com^$all
 ||orlan77.com^$all
@@ -1548,6 +1549,7 @@
 ||vansj.com^$all
 ||vansoldschool.pl^$all
 ||vansskleppolska.com^$all
+||vapormax.pl^$all
 ||vcascc.eu^$all
 ||veclaim.com^$all
 ||vegatestsklep.pl^$all
@@ -3218,6 +3220,7 @@
 ||dotpay.emonitoring-polska-poczta.net^$all
 ||dotpay.etracking-pocztex48.net^$all
 ||dotpay.e-monitoring-pocztapolska.net^$all
+||dotpay.e-poczta-polska.com^$all
 ||dotpay.e-poczta-polska.net^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
@@ -3329,6 +3332,7 @@
 ||eko-styk.pl^$all
 ||ekskluzywneapartamenty.com^$all
 ||ekspresovvo.com^$all
+||ekspres-sklep.pl^$all
 ||electroenchufe.com^$all
 ||electro-house.com.pl^$all
 ||electrumltc.org^$all
@@ -4274,6 +4278,14 @@
 ||inpost.moferta.life^$all
 ||inpost.moferta.live^$all
 ||inpost.olxkon*.*^$all
+||inpost.olxoferta25.art^$all
+||inpost.olxoferta25.casa^$all
+||inpost.olxoferta25.club^$all
+||inpost.olxoferta25.cyou^$all
+||inpost.olxoferta25.digital^$all
+||inpost.olxoferta25.life^$all
+||inpost.olxoferta25.live^$all
+||inpost.olxoferta25.xyz^$all
 ||inpost.order-pl.art^$all
 ||inpost.page^$all
 ||inpost.payouts.xyz^$all
@@ -4283,6 +4295,7 @@
 ||inpost.pl-givesale.icu^$all
 ||inpost.pl-givesale.shop^$all
 ||inpost.pl-givesale.work^$all
+||inpost.pl-give.icu^$all
 ||inpost.pl-orderedpays.club^$all
 ||inpost.pl-orderedpays.cyou^$all
 ||inpost.pl-orderedpays.icu^$all
@@ -5737,6 +5750,14 @@
 ||olx.olxkontosos.cyou^$all
 ||olx.olxkontosos.shop^$all
 ||olx.olxkontosos.xyz^$all
+||olx.olxoferta25.art^$all
+||olx.olxoferta25.casa^$all
+||olx.olxoferta25.club^$all
+||olx.olxoferta25.cyou^$all
+||olx.olxoferta25.digital^$all
+||olx.olxoferta25.life^$all
+||olx.olxoferta25.live^$all
+||olx.olxoferta25.xyz^$all
 ||olx.online-pay.pl^$all
 ||olx.oplata-is.com^$all
 ||olx.paymenting.pl^$all
@@ -5747,11 +5768,17 @@
 ||olx.pink^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-giveorder.club^$all
 ||olx.pl-givesold.cyou^$all
 ||olx.pl-givesold.icu^$all
 ||olx.pl-givesold.shop^$all
 ||olx.pl-givesold.work^$all
 ||olx.pl-givesold.xyz^$all
+||olx.pl-give.cyou^$all
+||olx.pl-give.icu^$all
+||olx.pl-give.shop^$all
+||olx.pl-give.work^$all
+||olx.pl-give.xyz^$all
 ||olx.pl-ofertbuy.xyz^$all
 ||olx.pl-orderedpays.shop^$all
 ||olx.pl-pay.items-id.site^$all
@@ -5768,6 +5795,7 @@
 ||olx.pl-saleorders.shop^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.blog^$all
+||olx.pl.safety.oferta-payment.blog^$all
 ||olx.pl.safe.oferta-payment.blog^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
@@ -5947,6 +5975,7 @@
 ||oxford-centrum.com.pl^$all
 ||o-l-x.com^$all
 ||p0czta.net^$all
+||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
 ||pacuskurier.org^$all
 ||paczinfo.com^$all
