@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 18 May 2021, 13:07 UTC+02
-! Version: 2021.5.18.0
+! Last modified: Tue, 18 May 2021, 17:05 UTC+02
+! Version: 2021.5.18.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -618,6 +618,7 @@
 ||hunterpolskasklep.com^$all
 ||huntersklep.com^$all
 ||hunterstyle24.com^$all
+||huntertanio.com^$all
 ||hunterwarszawa.pl^$all
 ||hurtbuty.top^$all
 ||hurtowniagmf.pl^$all
@@ -3212,9 +3213,12 @@
 ||dotpay.emonitoringpoczta48.net^$all
 ||dotpay.emonitoring-poczta48.net^$all
 ||dotpay.emonitoring-pocztex48.net^$all
+||dotpay.emonitoring-pocztex.net^$all
+||dotpay.emonitoring-polska48poczta.net^$all
 ||dotpay.emonitoring-polska-poczta.net^$all
 ||dotpay.etracking-pocztex48.net^$all
 ||dotpay.e-monitoring-pocztapolska.net^$all
+||dotpay.e-poczta-polska.net^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
 ||dotpay.poczta-emonitoring.net^$all
@@ -3356,6 +3360,8 @@
 ||emonitoring-pocztex24polska.net^$all
 ||emonitoring-pocztexpolska.com^$all
 ||emonitoring-pocztexpolska.net^$all
+||emonitoring-pocztex.net^$all
+||emonitoring-polska48poczta.net^$all
 ||emonitoring-polskapoczta.com^$all
 ||emonitoring-polska-poczta.net^$all
 ||emptierbreak.xyz^$all
@@ -3455,6 +3461,7 @@
 ||e-payu.online^$all
 ||e-payu.xyz^$all
 ||e-poczta-polska.com^$all
+||e-poczta-polska.net^$all
 ||e-pocztex.pl^$all
 ||e-polskaporwania.*^$all
 ||e-porwanienatalki.*^$all
@@ -3538,6 +3545,7 @@
 ||fakt*.is-best.net^$all
 ||fakt-news24.eu^$all
 ||fakt-online24.eu^$all
+||fakt.pomoz-rozpoznac-sprawce.tk^$all
 ||fakt.you2.pl^$all
 ||faraweel.com^$all
 ||farbybialystok.pl^$all
@@ -4156,7 +4164,16 @@
 ||informator24.eu^$all
 ||informator-reg.pl^$all
 ||informator-reg.site^$all
+||informujemy1.pl^$all
+||informujemy2.pl^$all
 ||informujemy3.pl^$all
+||informujemy4.pl^$all
+||informujemy5.pl^$all
+||informujemy6.pl^$all
+||informujemy7.pl^$all
+||informujemy8.pl^$all
+||informujemy9.pl^$all
+||informujemy10.pl^$all
 ||informujemy-kazdego.dnsrobotuptime.ru^$all
 ||informujemy-prosto-z-polski.dnsrobotuptime.ru^$all
 ||informujemy-wszystkich.dnsrobotuptime.ru^$all
@@ -4790,6 +4807,7 @@
 ||louyanx.pl^$all
 ||lovemydress.pl^$all
 ||lpkao.pw^$all
+||lpkeo.pw^$all
 ||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||lubicplacki.is-best.net^$all
 ||lubiego.is-best.net^$all
@@ -6558,6 +6576,8 @@
 ||pogotowie.pcserwis.c0.pl^$all
 ||poinformowanni.cyou^$all
 ||poinformujemy-swiat.pl^$all
+||poinformujkazdego.pl^$all
+||poinformujwszystkich.pl^$all
 ||poinformuj-wszystkich.pl^$all
 ||pojadetam.pl^$all
 ||pojjeciewzgledne.online^$all
@@ -6988,6 +7008,7 @@
 ||reg-olx.pl^$all
 ||rehabilitant.rzeszow.re^$all
 ||rejestr24.5p.pl^$all
+||rejestracja-dostawy.com^$all
 ||rejestracja-ogloszenia.com^$all
 ||rejestr.5p.pl^$all
 ||reklamapoznan.com.pl^$all
@@ -7479,6 +7500,8 @@
 ||superdrypolska.com^$all
 ||supergra2020.wixsite.com^$all
 ||superhistoria.is-best.net^$all
+||supermakler-pko-online.com^$all
+||supermakler-pko-secure.com^$all
 ||supermocna-tasma-klejaca-pl.com^$all
 ||superoferta.store^$all
 ||superserwisy.pl^$all
@@ -7958,6 +7981,7 @@
 ||weblancer.pl^$all
 ||webmail93949840839.com.ng^$all
 ||webmailpolishadmin.weebly.com^$all
+||webmail.sauthssecure.com^$all
 ||webpostzz.000webhostapp.com^$all
 ||websitessssdess.000webhostapp.com^$all
 ||webwood.pl^$all
