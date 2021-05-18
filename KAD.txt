@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 17 May 2021, 21:05 UTC+02
-! Version: 2021.5.17.2
+! Last modified: Tue, 18 May 2021, 13:07 UTC+02
+! Version: 2021.5.18.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -749,6 +749,7 @@
 ||kremidzem.pl^$all
 ||kryzyspolska.pl^$all
 ||krzycztrybson.pl^$all
+||krzyjahu.pl^$all
 ||ksiazkatunele.pl^$all
 ||ksuniazabkowice.pl^$all
 ||kucharzowanienamaxa.pl^$all
@@ -1549,6 +1550,7 @@
 ||vcascc.eu^$all
 ||veclaim.com^$all
 ||vegatestsklep.pl^$all
+||vejabuty.pl^$all
 ||vejapolska.com^$all
 ||vejapolska.pl^$all
 ||veltocars.com.pl^$all
@@ -2204,6 +2206,7 @@
 ||alegrolokalnie.me^$all
 ||alejastokrotek.pl^$all
 ||alerownieztito.space^$all
+||alertfakty.eu^$all
 ||alert-24-pl.pl^$all
 ||alert-pl.you2.pl^$all
 ||alesmieszne.eu^$all
@@ -2546,6 +2549,7 @@
 ||bitcoinsunrise.com^$all
 ||bitcoins-era.io^$all
 ||bitcoins-profit.com^$all
+||bitcointime.website^$all
 ||bitcointime.xyz^$all
 ||bitcointodaynews.me^$all
 ||bitcointrustoptions.com^$all
@@ -4152,6 +4156,7 @@
 ||informator24.eu^$all
 ||informator-reg.pl^$all
 ||informator-reg.site^$all
+||informujemy3.pl^$all
 ||informujemy-kazdego.dnsrobotuptime.ru^$all
 ||informujemy-prosto-z-polski.dnsrobotuptime.ru^$all
 ||informujemy-wszystkich.dnsrobotuptime.ru^$all
@@ -4257,6 +4262,10 @@
 ||inpost.payouts.xyz^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
+||inpost.pl-givesale.cyou^$all
+||inpost.pl-givesale.icu^$all
+||inpost.pl-givesale.shop^$all
+||inpost.pl-givesale.work^$all
 ||inpost.pl-orderedpays.club^$all
 ||inpost.pl-orderedpays.cyou^$all
 ||inpost.pl-orderedpays.icu^$all
@@ -5720,7 +5729,14 @@
 ||olx.pink^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-givesold.cyou^$all
+||olx.pl-givesold.icu^$all
+||olx.pl-givesold.shop^$all
+||olx.pl-givesold.work^$all
+||olx.pl-givesold.xyz^$all
+||olx.pl-ofertbuy.xyz^$all
 ||olx.pl-orderedpays.shop^$all
+||olx.pl-pay.items-id.site^$all
 ||olx.pl-safeordered.club^$all
 ||olx.pl-safeordered.cyou^$all
 ||olx.pl-safeordered.icu^$all
@@ -5731,8 +5747,10 @@
 ||olx.pl-safepaid.shop^$all
 ||olx.pl-safepaid.work^$all
 ||olx.pl-safepaid.xyz^$all
+||olx.pl-saleorders.shop^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.blog^$all
+||olx.pl.safe.oferta-payment.blog^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -6049,6 +6067,7 @@
 ||pay15-olx.pl^$all
 ||pay16-olx.info^$all
 ||pay16-olx.pl^$all
+||pay17-olx.info^$all
 ||pay17-olx.pl^$all
 ||pay18-olx.pl^$all
 ||pay19-olx.pl^$all
@@ -6400,6 +6419,7 @@
 ||pl-safedeal.shop^$all
 ||pl-safedeal.xyz^$all
 ||pl-safelypay.xyz^$all
+||pl-safepaid.work^$all
 ||pl-safepay.xyz^$all
 ||pl-saleorders.casa^$all
 ||pl-saleorders.xyz^$all
@@ -6538,6 +6558,7 @@
 ||pogotowie.pcserwis.c0.pl^$all
 ||poinformowanni.cyou^$all
 ||poinformujemy-swiat.pl^$all
+||poinformuj-wszystkich.pl^$all
 ||pojadetam.pl^$all
 ||pojjeciewzgledne.online^$all
 ||pokazimwszysstkim.space^$all
@@ -7143,6 +7164,7 @@
 ||serialowo.pl^$all
 ||server274.dedicated-webhosting.xyz^$all
 ||server012121.nazwa.pl^$all
+||server296055.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
 ||server870179.nazwa.pl^$all
@@ -7162,6 +7184,7 @@
 ||sgb24.at^$all
 ||sgb-24.at^$all
 ||sgb-24.com^$all
+||sgb-pageoriginal-online.com^$all
 ||shael.org^$all
 ||sharefoto-*.idl.pl^$all
 ||sharefoto-*.vot.pl^$all
