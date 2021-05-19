@@ -2,6 +2,7 @@
 !/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 /^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 ||limitedprizes.net^$all
+||inwestopinia.pl^$all
 ||bestoffer2021.info^$all
 ||win-extra-box.life^$all
 ||forlumineontor.com^$all
