@@ -6,7 +6,7 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl,badfilter
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{4,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{3,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$document,popup
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document
