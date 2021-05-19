@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 19 May 2021, 13:06 UTC+02
-! Version: 2021.5.19.0
+! Last modified: Wed, 19 May 2021, 17:06 UTC+02
+! Version: 2021.5.19.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3215,11 +3215,15 @@
 ||dotpay.emonitoringpoczta48.net^$all
 ||dotpay.emonitoring-poczta48.net^$all
 ||dotpay.emonitoring-pocztex48.net^$all
+||dotpay.emonitoring-pocztex.com^$all
 ||dotpay.emonitoring-pocztex.net^$all
 ||dotpay.emonitoring-polska48poczta.net^$all
 ||dotpay.emonitoring-polska-poczta.net^$all
+||dotpay.epoczta-polska.com^$all
+||dotpay.epoczta-polska.net^$all
 ||dotpay.etracking-pocztex48.net^$all
 ||dotpay.e-monitoring-pocztapolska.net^$all
+||dotpay.e-pocztapolska.com^$all
 ||dotpay.e-poczta-polska.com^$all
 ||dotpay.e-poczta-polska.net^$all
 ||dotpay.pocztapolska48.com^$all
@@ -3355,6 +3359,7 @@
 ||emonitoring24.online^$all
 ||emonitoringpoczta.net^$all
 ||emonitoring-epoczta-polska.net^$all
+||emonitoring-epocztex24.net^$all
 ||emonitoring-poczta24polska.net^$all
 ||emonitoring-poczta247.net^$all
 ||emonitoring-pocztapl24.net^$all
@@ -3364,6 +3369,7 @@
 ||emonitoring-pocztex24polska.net^$all
 ||emonitoring-pocztexpolska.com^$all
 ||emonitoring-pocztexpolska.net^$all
+||emonitoring-pocztex.com^$all
 ||emonitoring-pocztex.net^$all
 ||emonitoring-polska48poczta.net^$all
 ||emonitoring-polskapoczta.com^$all
@@ -3386,6 +3392,8 @@
 ||eplotery.pl^$all
 ||epocztapolska24.net^$all
 ||epoczta-interia.com^$all
+||epoczta-polska.com^$all
+||epoczta-polska.net^$all
 ||eporwanienatalki.*^$all
 ||eqvpismqyp.web.app^$all
 ||erhherrehhre.n4t.co^$all
@@ -3464,6 +3472,7 @@
 ||e-osobyzagionione.pl^$all
 ||e-payu.online^$all
 ||e-payu.xyz^$all
+||e-pocztapolska.com^$all
 ||e-poczta-polska.com^$all
 ||e-poczta-polska.net^$all
 ||e-pocztex.pl^$all
@@ -4375,6 +4384,7 @@
 ||invest-flow.io^$all
 ||invest-moment.com^$all
 ||invp.edealand.pro^$all
+||invp.pluniland.pro^$all
 ||inwestujemy.online^$all
 ||inwestujmy.online^$all
 ||inwpgnig.pw^$all
@@ -5064,6 +5074,7 @@
 ||mopieflix.com^$all
 ||morandons.com^$all
 ||moreti.pl^$all
+||morev.lv^$all
 ||motelil.com^$all
 ||mottywaccjadozycia.website^$all
 ||mountainhotel.it^$all
@@ -5827,6 +5838,7 @@
 ||olx.przesylki.*^$all
 ||olx.przesylk.*^$all
 ||olx.przewiezienie.pl^$all
+||olx.pt.savedpays.icu^$all
 ||olx.rwpay.ru^$all
 ||olx.secure-dostawa.com^$all
 ||olx.so^$all
@@ -6013,6 +6025,7 @@
 ||paczkedpd.com^$all
 ||paczkgls.com^$all
 ||paczki24-pl.live^$all
+||paczkic.com^$all
 ||paczkidhm.com^$all
 ||paczkidh.com^$all
 ||paczkikk.com^$all
@@ -6103,6 +6116,7 @@
 ||passivetrading.co.uk^$all
 ||pasticcerialonghitano.it^$all
 ||paterashop.pl^$all
+||paterps.pl^$all
 ||patrolprzygody.pl^$all
 ||patrzonline.pl^$all
 ||pay01-olx.info^$all
@@ -6620,6 +6634,11 @@
 ||pogodasub.com^$all
 ||pogotowie.pcserwis.c0.pl^$all
 ||poinformowanni.cyou^$all
+||poinformujemy1.pl^$all
+||poinformujemy2.pl^$all
+||poinformujemy3.pl^$all
+||poinformujemy4.pl^$all
+||poinformujemy5.pl^$all
 ||poinformujemy-swiat.pl^$all
 ||poinformujkazdego.pl^$all
 ||poinformujwszystkich.pl^$all
@@ -7183,6 +7202,7 @@
 ||sauny-finskie.com.pl^$all
 ||savinek-pl.com^$all
 ||saxtorph.net^$all
+||scb-online.co.uk^$all
 ||sculptureco.com.au^$all
 ||sdx.pl^$all
 ||seamcommunlty.com^$all
