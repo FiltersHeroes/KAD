@@ -1,11 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document
 !/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 /^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
-||limitedprizes.net^$all
-||inwestopinia.pl^$all
-||bestoffer2021.info^$all
-||win-extra-box.life^$all
-||forlumineontor.com^$all
 ||0n.click^$all
 ||abrakasba.space^$all
 ||academy-bitcoin.com^$all
@@ -19,6 +14,7 @@
 ||arcicalonetal.pro^$all
 ||ascraftan.com^$all
 ||bestfollowers.org^$all
+||bestoffer2021.info^$all
 ||bestprizeday.life^$all
 ||bestprizesday*.life^$all
 ||bestprize-places-here*.life^$all
@@ -67,6 +63,7 @@
 ||flixsport.co^$all
 ||forexopinia.pl^$all
 ||forex-opinie.pl^$all
+||forlumineontor.com^$all
 ||fres-news.com^$all
 ||g2afse.com^$all
 ||gamefiles.pl^$all
@@ -91,6 +88,7 @@
 ||indexuniverse.eu^$all
 ||interia-24-pl.livejournal.com^$all
 ||interia-info.livejournal.com^$all
+||inwestopinia.pl^$all
 ||iphone-za-darmo.over-blog.com^$all
 ||iyfnzgb.com^$all
 ||kacwyb.pl^$all
@@ -103,6 +101,7 @@
 ||legalsite.pl^$all
 ||lexlale.com.pl^$all
 ||liin.ml^$all
+||limitedprizes.net^$all
 ||luckyducknet.com^$all
 ||masiodls.com^$all
 ||medium24.fr^$all
@@ -185,6 +184,7 @@
 ||vuebwxc.cn^$all
 ||vulkan-vegas.cc^$all
 ||weyewweg.mypi.co^$all
+||win-extra-box.life^$all
 ||xn--21955-gya.biz^$all
 ||xn--22455-udb.biz^$all
 ||xn--30986-udb.biz^$all

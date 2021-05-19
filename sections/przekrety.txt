@@ -2,20 +2,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||lnpost.kody-odbioru.*^$all
 !||torrentos.pl^$all
-||centrum-badan.pl^$all
-||bioslimin.pl^$all
-||tryplaybest.com^$all
-||gotakeyourprofit.com^$all
-||cfxdtrade.com^$all
-||cryptosworld.trade^$all
-||24shares.io^$all
-||admiredebt.info^$all
-||bitcoinrevolutionmirrorreview.com^$all
-||bitcoinseraappl.co^$all
-||worthyincome.pro^$all
-||imposedtocheck.site^$all
-||bitcoineragroup.com^$all
-||poagloqzhis.info^$all
 !||*dworzecporwaniepl.*^$document
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
@@ -84,6 +70,7 @@
 ||24gazeta.eu^$all
 ||24godzinynapomoc.site^$all
 ||24onlinetradingcapitals.com^$all
+||24shares.io^$all
 ||24swiat.pl^$all
 ||24tygodnik.pl^$all
 ||24wydarzenia.pl^$all
@@ -144,6 +131,7 @@
 ||adminhelpdeskunit.moonfruit.com^$all
 ||administratorpocztaunit.moonfruit.com^$all
 ||adminuprageunit.moonfruit.com^$all
+||admiredebt.info^$all
 ||adobe.5v.pl^$all
 ||adoutletpl.pl^$all
 ||ads-fb.co^$all
@@ -524,6 +512,7 @@
 ||bilard.cyou^$all
 ||binvesting.com^$all
 ||bioperfect.pl^$all
+||bioslimin.pl^$all
 ||biozdrowie.com.pl^$all
 ||birdwatcher.pl^$all
 ||bitbayinvest.net^$all
@@ -533,6 +522,7 @@
 ||bitcoinchampion.io^$all
 ||bitcoinchampion.site^$all
 ||bitcoincodesverigerecension.com^$all
+||bitcoineragroup.com^$all
 ||bitcoinerainfo.com^$all
 ||bitcoineranew.com^$all
 ||bitcoinerapro.com^$all
@@ -546,10 +536,12 @@
 ||bitcoinlifestyle.io^$all
 ||bitcoinprime.net^$all
 ||bitcoinprofitpro.com^$all
+||bitcoinrevolutionmirrorreview.com^$all
 ||bitcoinrevolutiontheprojectreview.com^$all
 ||bitcoinrevolutionunitedkingdomreview.com^$all
 ||bitcoinrevolution.ai^$all
 ||bitcoinrevolution.org^$all
+||bitcoinseraappl.co^$all
 ||bitcoinset.pl^$all
 ||bitcoinsunrise.com^$all
 ||bitcoins-era.io^$all
@@ -766,11 +758,13 @@
 ||centrumofert24.com^$all
 ||centrumplay.pl^$all
 ||centrumsprzedawcy.pl^$all
+||centrum-badan.pl^$all
 ||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
 ||ceramki.pl^$all
 ||ceresiontest.c0.pl^$all
 ||cevik01supermarkt.nl^$all
 ||cezaevinegonder.com^$all
+||cfxdtrade.com^$all
 ||cgbanrc.99e.pl^$all
 ||cgiergate.com^$all
 ||challhawseholer.com^$all
@@ -905,6 +899,7 @@
 ||cryptolegacypro.com^$all
 ||cryptolimited.net^$all
 ||cryptoprofit.pl^$all
+||cryptosworld.trade^$all
 ||crypto-engine.pl^$all
 ||crypto-genius.privatecatalog.pro^$all
 ||crypto-worldinvestments.com^$all
@@ -1952,6 +1947,7 @@
 ||gorisemarkets.com^$all
 ||gospodarstwo-rolne.com.pl^$all
 ||gossip-round.com^$all
+||gotakeyourprofit.com^$all
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
@@ -2116,6 +2112,7 @@
 ||imnpost.net^$all
 ||imonellipizzeria.pl^$all
 ||importdopolski.pl^$all
+||imposedtocheck.site^$all
 ||im-sb.com^$all
 ||inaz-sklep.com^$all
 ||inaz-sport.com^$all
@@ -2314,6 +2311,7 @@
 ||inpost.payouts.xyz^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
+||inpost.pl-giveordered.shop^$all
 ||inpost.pl-givesale.cyou^$all
 ||inpost.pl-givesale.icu^$all
 ||inpost.pl-givesale.shop^$all
@@ -3796,6 +3794,11 @@
 ||olx.pink^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-giveordered.cyou^$all
+||olx.pl-giveordered.icu^$all
+||olx.pl-giveordered.shop^$all
+||olx.pl-giveordered.work^$all
+||olx.pl-giveordered.xyz^$all
 ||olx.pl-giveorder.club^$all
 ||olx.pl-givesold.cyou^$all
 ||olx.pl-givesold.icu^$all
@@ -3823,6 +3826,7 @@
 ||olx.pl-saleorders.shop^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.blog^$all
+||olx.pl.oferta-payment.works^$all
 ||olx.pl.safety.oferta-payment.blog^$all
 ||olx.pl.safe.oferta-payment.blog^$all
 ||olx.pl.*.*^$document
@@ -4008,6 +4012,7 @@
 ||pacificinvestmentsltd.com^$all
 ||pacuskurier.org^$all
 ||paczinfo.com^$all
+||paczinfo.net^$all
 ||paczka24h-dhl.com^$all
 ||paczka24-oplata.com^$all
 ||paczkaadam.com^$all
@@ -4020,6 +4025,7 @@
 ||paczka-doplata.net^$all
 ||paczka-gls.com^$all
 ||paczka-inpost.com^$all
+||paczka-kurier24.com^$all
 ||paczka-naleznosc.link^$all
 ||paczka-naleznosc.live^$all
 ||paczkdups.com^$all
@@ -4151,6 +4157,7 @@
 ||pay19-olx.info^$all
 ||pay19-olx.pl^$all
 ||pay20-olx.pl^$all
+||pay21-olx.info^$all
 ||pay21-olx.pl^$all
 ||pay22-olx.pl^$all
 ||pay23-olx.pl^$all
@@ -4228,9 +4235,11 @@
 ||pays-olx.gq^$all
 ||pays-secure-online.xyz^$all
 ||payulink.click^$all
+||payustmp.com^$all
 ||payu-24.pl^$all
 ||payu-bank.com^$all
 ||payu-platnosc943412.pl^$all
+||payu-sa.net^$all
 ||payu-secure.services^$all
 ||payu-zamowienie103234.pl^$all
 ||payu-zamowienie901941.pl^$all
@@ -4370,6 +4379,7 @@
 ||plata-za-towary-pl.com^$all
 ||platinumtradeinvestment.com^$all
 ||platnik*.online^$all
+||platnosc9481.com^$all
 ||platnosci24.in.net^$all
 ||platnoscionline.xyz^$all
 ||platnosci-online.services^$all
@@ -4549,6 +4559,7 @@
 ||pl.tvplusnewtab.com^$all
 ||pl.*bitcoin*.tiptopko*.com^$all
 ||pmlingua.strefa.pl^$all
+||poagloqzhis.info^$all
 ||pobieracz.com.pl^$all
 ||pobierz24.pl^$all
 ||pobierzgo.pl^$all
@@ -4641,6 +4652,11 @@
 ||poinformujemy3.pl^$all
 ||poinformujemy4.pl^$all
 ||poinformujemy5.pl^$all
+||poinformujemy6.pl^$all
+||poinformujemy7.pl^$all
+||poinformujemy8.pl^$all
+||poinformujemy9.pl^$all
+||poinformujemy10.pl^$all
 ||poinformujemy-swiat.pl^$all
 ||poinformujkazdego.pl^$all
 ||poinformujwszystkich.pl^$all
@@ -4701,6 +4717,7 @@
 ||polskapoczta.plskontas.cyou^$all
 ||polskapoczta.plskontas.life^$all
 ||polskapoczta.plskontas.live^$all
+||polskapoczta.polskaolerta.art^$all
 ||polskapoleca.online^$all
 ||polskapolicja24.pl.*.*.cz^$all,domain=cz
 ||polskapolicja.you2.pl^$all
@@ -5168,6 +5185,7 @@
 ||safe-pay.inpost.cam^$all
 ||safe-security.website^$all
 ||safe-service.inpost.cam^$all
+||safe-service.inpost.codes^$all
 ||safe.inpost.codes^$all
 ||salomonpl.pl^$all
 ||salomonpolska.pl^$all
@@ -5259,6 +5277,7 @@
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
 ||servicecheck5.wixsite.com^$all
+||service.inpost.codes^$all
 ||servieckartepayau.com^$all
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
@@ -5798,6 +5817,7 @@
 ||trudneokreslenie.site^$all
 ||truegamers.ga^$all
 ||truyenthongbatdiet.online^$all
+||tryplaybest.com^$all
 ||trytogoi.xyz^$all
 ||trzebasiezstegoutrzymac.cyou^$all
 ||trzebasiezztympogodzic.cyou^$all
@@ -6155,6 +6175,7 @@
 ||worlds-news.org^$all
 ||world-flags.cn^$all
 ||worthlessness.xyz^$all
+||worthyincome.pro^$all
 ||wp24.work^$all
 ||wpadkowo.pl^$all
 ||wpelnizadowoleni.site^$all
@@ -6470,24 +6491,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost.pl-giveordered.shop^$all
-||olx.pl-giveordered.cyou^$all
-||olx.pl-giveordered.icu^$all
-||olx.pl-giveordered.shop^$all
-||olx.pl-giveordered.work^$all
-||olx.pl-giveordered.xyz^$all
-||olx.pl.oferta-payment.works^$all
-||paczinfo.net^$all
-||paczka-kurier24.com^$all
-||pay21-olx.info^$all
-||payu-sa.net^$all
-||payustmp.com^$all
-||platnosc9481.com^$all
-||poinformujemy10.pl^$all
-||poinformujemy6.pl^$all
-||poinformujemy7.pl^$all
-||poinformujemy8.pl^$all
-||poinformujemy9.pl^$all
-||polskapoczta.polskaolerta.art^$all
-||safe-service.inpost.codes^$all
-||service.inpost.codes^$all
