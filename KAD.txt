@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 19 May 2021, 21:06 UTC+02
-! Version: 2021.5.19.2
+! Last modified: Thu, 20 May 2021, 13:06 UTC+02
+! Version: 2021.5.20.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -684,6 +684,7 @@
 ||kalaaps.pl^$all
 ||kaloszehunterpl.com^$all
 ||kaloszehunter.com^$all
+||kalosze-hunter.pl^$all
 ||kaltive.com^$all
 ||kancelariakufieta.pl^$all
 ||kancelariaskawina.pl^$all
@@ -899,6 +900,7 @@
 ||minipensjonatadmiral.pl^$all
 ||missvogues.com^$all
 ||mistrzmotywacji.pl^$all
+||mizunopolska.com^$all
 ||mkzmudzki.pl^$all
 ||mmajerski.pl^$all
 ||mobiapp-games.com^$all
@@ -1498,6 +1500,7 @@
 ||tradecompany.pl^$all
 ||trampkiconverse.com^$all
 ||trampkisuperga.pl^$all
+||trampoliny170.com^$all
 ||trampoliny260.com^$all
 ||transeuropaferries.pl^$all
 ||trapez-sc.pl^$all
@@ -2277,6 +2280,7 @@
 ||allegro-pl.online^$all
 ||allegro-raty.net^$all
 ||allegro.casa^$all
+||allegro.lokalnie-dostawa.fun^$all
 ||allegro.lokalnie.casa^$all
 ||allegro.lokalnie.cash^$all
 ||allegro.lokalnie.digital^$all
@@ -2709,6 +2713,7 @@
 ||b-s500.com^$all
 ||c39b126b5cec.ngrok.io^$all
 ||ca24-login.com^$all
+||ca24-logowanie.com^$all
 ||ca24-online.com^$all
 ||caeiriolskiaopazertyiop.xyz^$all
 ||caldai.com^$all
@@ -3365,6 +3370,7 @@
 ||eletrics.host^$all
 ||elitefxltd.club^$all
 ||elitegadgetinsider.com^$all
+||elon21.net^$all
 ||elprestamo.xyz^$all
 ||elvox.pl^$all
 ||emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud^$all
@@ -4327,7 +4333,11 @@
 ||inpost.payouts.xyz^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
+||inpost.pl-giveordered.cyou^$all
+||inpost.pl-giveordered.icu^$all
 ||inpost.pl-giveordered.shop^$all
+||inpost.pl-giveordered.work^$all
+||inpost.pl-giveordered.xyz^$all
 ||inpost.pl-givesale.cyou^$all
 ||inpost.pl-givesale.icu^$all
 ||inpost.pl-givesale.shop^$all
@@ -4335,6 +4345,7 @@
 ||inpost.pl-give.icu^$all
 ||inpost.pl-give.work^$all
 ||inpost.pl-give.xyz^$all
+||inpost.pl-gotorders.work^$all
 ||inpost.pl-orderedpays.club^$all
 ||inpost.pl-orderedpays.cyou^$all
 ||inpost.pl-orderedpays.icu^$all
@@ -5008,6 +5019,7 @@
 ||microsoft-secure-online.oa.r.appspot.com^$all
 ||miejskagazeta.online^$all
 ||miejskie24.gpe.pl^$all
+||miejskieinformacje.pl^$all
 ||miejskiportal.eu^$all
 ||mielno-baltic.pl^$all
 ||mientayweb.com^$all
@@ -5145,6 +5157,7 @@
 ||my-payment.online^$all
 ||my-pay.info^$all
 ||my.commbank.com.au.logon.australia.commbankaustralia.aspx.logon.nb.authorization.loginx.lockedintrusted.nmsistemas.com^$all
+||mz8gg5.webwave.dev^$all
 ||m-facebook.ct8.pl^$all
 ||m-instagram.org^$all
 ||m-olx-oferta.name^$all
@@ -5697,6 +5710,7 @@
 ||olx-pl.moneta.world^$all
 ||olx-pl.mpay-fs.info^$all
 ||olx-pl.net^$all
+||olx-pl.nfotyjen.tk^$all
 ||olx-pl.oferta-payment.*^$all
 ||olx-pl.oferta-pay.*^$all
 ||olx-pl.oferto.cc^$all
@@ -5765,6 +5779,7 @@
 ||olx.doreczanie.pl^$all
 ||olx.doreczenle.pl^$all
 ||olx.dostawa-1613762161.site^$all
+||olx.dostawa-1618864121.site^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
@@ -5808,6 +5823,7 @@
 ||olx.pay-otrymac.store^$all
 ||olx.pay-safe.store^$all
 ||olx.pink^$all
+||olx.ploferta24.trade^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
 ||olx.pl-giveordered.cyou^$all
@@ -5815,7 +5831,14 @@
 ||olx.pl-giveordered.shop^$all
 ||olx.pl-giveordered.work^$all
 ||olx.pl-giveordered.xyz^$all
+||olx.pl-giveorders.cyou^$all
+||olx.pl-giveorders.icu^$all
+||olx.pl-giveorders.work^$all
+||olx.pl-giveorders.xyz^$all
 ||olx.pl-giveorder.club^$all
+||olx.pl-givesales.club^$all
+||olx.pl-givesales.icu^$all
+||olx.pl-givesales.xyz^$all
 ||olx.pl-givesold.cyou^$all
 ||olx.pl-givesold.icu^$all
 ||olx.pl-givesold.shop^$all
@@ -5829,6 +5852,7 @@
 ||olx.pl-ofertbuy.xyz^$all
 ||olx.pl-orderedpays.shop^$all
 ||olx.pl-pay.items-id.site^$all
+||olx.pl-pay.ro-transcom.site^$all
 ||olx.pl-safeordered.club^$all
 ||olx.pl-safeordered.cyou^$all
 ||olx.pl-safeordered.icu^$all
@@ -6175,6 +6199,7 @@
 ||pay20-olx.pl^$all
 ||pay21-olx.info^$all
 ||pay21-olx.pl^$all
+||pay22-olx.info^$all
 ||pay22-olx.pl^$all
 ||pay23-olx.pl^$all
 ||pay24-olx.pl^$all
@@ -6734,6 +6759,8 @@
 ||polskapoczta.plskontas.life^$all
 ||polskapoczta.plskontas.live^$all
 ||polskapoczta.polskaolerta.art^$all
+||polskapoczta.polskaolerta.shop^$all
+||polskapoczta.polskaolerta.xyz^$all
 ||polskapoleca.online^$all
 ||polskapolicja24.pl.*.*.cz^$all,domain=cz
 ||polskapolicja.you2.pl^$all
@@ -7295,6 +7322,7 @@
 ||servicecheck5.wixsite.com^$all
 ||service.inpost.codes^$all
 ||servieckartepayau.com^$all
+||serwer2108520.home.pl^$all
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
 ||serwis-medyczny24.com^$all
