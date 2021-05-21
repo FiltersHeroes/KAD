@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 20 May 2021, 21:05 UTC+02
-! Version: 2021.5.20.2
+! Last modified: Fri, 21 May 2021, 13:05 UTC+02
+! Version: 2021.5.21.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1556,6 +1556,7 @@
 ||vcascc.eu^$all
 ||veclaim.com^$all
 ||vegatestsklep.pl^$all
+||vejabuty.cc^$all
 ||vejabuty.pl^$all
 ||vejapolska.com^$all
 ||vejapolska.pl^$all
@@ -2111,6 +2112,10 @@
 ||464.allegrolokolnie.com^$all
 ||777marketer.cyou^$all
 ||778t799e9e77e7ewwqqww.sport357.com^$all
+||997policyjni.pl^$all
+||997poszukiwani.pl^$all
+||997-policyjni.pl^$all
+||997-poszukiwani.pl^$all
 ||4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com^$all
 ||7228.eu^$all
 ||26159-dot-custom-history-301500.appspot.com^$all
@@ -3224,6 +3229,7 @@
 ||dostawa-w.pl^$all
 ||dostawa.tech^$all
 ||dostawcze.net.pl^$all
+||dostawdh.com^$all
 ||dostawowo.com^$all
 ||dostawpack.com^$all
 ||dostawyjaros.top^$all
@@ -3246,14 +3252,18 @@
 ||dotpay.epoczta-polska.net^$all
 ||dotpay.etracking-pocztex48.net^$all
 ||dotpay.e-monitoring-pocztapolska.net^$all
+||dotpay.e-monitoring-pocztapolska.org^$all
 ||dotpay.e-pocztapolska.com^$all
 ||dotpay.e-poczta-polska.com^$all
 ||dotpay.e-poczta-polska.net^$all
+||dotpay.ipocztapolska.net^$all
+||dotpay.ipocztexpolska.net^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
 ||dotpay.poczta-emonitoring.net^$all
 ||dotpay.pocztexpolska48.net^$all
 ||dotpay.pocztex-poland.net^$all
+||dotpay.pol-pocztapolska.net^$all
 ||downloadfiles.pl^$all
 ||downloads-mobile.com^$all
 ||download.inboxace.com^$all
@@ -4202,6 +4212,8 @@
 ||informacje.life^$all
 ||informacje.radom.pl^$all
 ||informacje.work^$all
+||informacyjkipl.pl^$all
+||informacyjki-pl.pl^$all
 ||informacyjnie.radom.pl^$all
 ||informacyjny-punkt.eu^$all
 ||informator24.eu^$all
@@ -4436,6 +4448,7 @@
 ||ipko-securpl.com^$all
 ||ipko.club^$all
 ||ipko.space^$all
+||ipocztapolska.net^$all
 ||iporwaniedziecka24.*^$all
 ||ippka.xyz^$all
 ||ippko.fun^$all
@@ -5840,6 +5853,13 @@
 ||olx.ploferta24.xyz^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-givecashes.xyz^$all
+||olx.pl-givecash.club^$all
+||olx.pl-givecash.cyou^$all
+||olx.pl-givecash.icu^$all
+||olx.pl-givecash.shop^$all
+||olx.pl-givecash.work^$all
+||olx.pl-givecash.xyz^$all
 ||olx.pl-giveordered.cyou^$all
 ||olx.pl-giveordered.icu^$all
 ||olx.pl-giveordered.shop^$all
@@ -5892,6 +5912,11 @@
 ||olx.polka-oferta.club^$all
 ||olx.polka-oferta.work^$all
 ||olx.polka-oferta.xyz^$all
+||olx.polskaoferta24.club^$all
+||olx.polskaoferta24.cyou^$all
+||olx.polskaoferta24.me^$all
+||olx.polskaoferta24.work^$all
+||olx.polskaoferta24.xyz^$all
 ||olx.polskaolerta.art^$all
 ||olx.polskaolerta.casa^$all
 ||olx.polskaolerta.shop^$all
@@ -6739,6 +6764,8 @@
 ||policyjne-informacje123.dnsrobotuptime.ru^$all
 ||policyjne-info.dnsrobotuptime.ru^$all
 ||policyjne-tematy.pl^$all
+||policyjni997.pl^$all
+||policyjni-997.pl^$all
 ||policy-secure-account.com^$all
 ||polic.you2.pl^$all
 ||polishfashionshops.pl^$all
@@ -6832,6 +6859,7 @@
 ||polsko-oferta.shop^$all
 ||polsriardrtoihizis.info^$all
 ||pol-news24.pl^$all
+||pol-pocztapolska.net^$all
 ||pomagajiwspieraj.com^$all
 ||pomagajmypl.*^$all
 ||pomagajmy-szybko.eu^$all
@@ -6904,12 +6932,14 @@
 ||poszukiwana.cyou^$all
 ||poszukiwani24.dkonto.pl^$all
 ||poszukiwani24.pl^$all
+||poszukiwani997.pl^$all
 ||poszukiwanialludzi.site^$all
 ||poszukiwaniaonline.eu^$all
 ||poszukiwaniaonline.you2.pl^$all
 ||poszukiwaniaosobzaginionych.you2.pl^$all
 ||poszukiwania*.com.pl^$all
 ||poszukiwanipolska24.eu^$all
+||poszukiwani-997.pl^$all
 ||poszukuiwania24.dkonto.pl^$all
 ||potencjalnaszannsa.site^$all
 ||potwierdzeniawiekowe.xyz^$all
@@ -7332,6 +7362,7 @@
 ||serialowo.pl^$all
 ||server274.dedicated-webhosting.xyz^$all
 ||server012121.nazwa.pl^$all
+||server060728.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
@@ -7750,6 +7781,8 @@
 ||tegosienikktniespodziewal.cyou^$all
 ||teleskopmonokularowy-pl.com^$all
 ||telewizja-internetowa24.pl^$all
+||telewizyjneinfo.pl^$all
+||telewizyjne-info.pl^$all
 ||telpey.net^$all
 ||tematjuzruszony.online^$all
 ||temperaturnik.com^$all
@@ -7780,6 +7813,7 @@
 ||themovienation.com^$all
 ||thepacificagroup.com^$all
 ||thepacifica-group.com^$all
+||thepermanenttruth.com^$all
 ||theplost.xyz^$all
 ||thepostowanie.xyz^$all
 ||thereimbursement.us^$all
@@ -7917,12 +7951,14 @@
 ||twilight-pointed-plant.glitch.me^$all
 ||twojadecyzjacozrobisz.site^$all
 ||twojagazetka.xyz^$all
+||twojainformacyjka.pl^$all
 ||twojanagroda.co.pl^$all
 ||twojanatura.com^$all
 ||twojapaczka.services^$all
 ||twojapaka.com^$all
 ||twojazdobyczbiznes.cyou^$all
 ||twoja-decyzje.eu^$all
+||twoja-informacyjka.pl^$all
 ||twoja-tv.pl^$all
 ||twojebony.com.pl^$all
 ||twojemiaasto.dnsrobotuptime.ru^$all
