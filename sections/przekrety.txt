@@ -2,7 +2,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||lnpost.kody-odbioru.*^$all
 !||torrentos.pl^$all
-||nicebonusbooi7.com^$all
 !||*dworzecporwaniepl.*^$document
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
@@ -138,6 +137,7 @@
 ||adminuprageunit.moonfruit.com^$all
 ||admiredebt.info^$all
 ||adobe.5v.pl^$all
+||adotpuj-rokiego.waw.pl^$all
 ||adoutletpl.pl^$all
 ||ads-fb.co^$all
 ||adventurous-shrouded-llama.glitch.me^$all
@@ -1238,6 +1238,9 @@
 ||dotpay.e-poczta-polska.net^$all
 ||dotpay.ipocztapolska.net^$all
 ||dotpay.ipocztexpolska.net^$all
+||dotpay.kpocztapolska.net^$all
+||dotpay.monitoring-pocztapolska.org^$all
+||dotpay.mpocztapolska.net^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
 ||dotpay.poczta-emonitoring.net^$all
@@ -2350,6 +2353,8 @@
 ||inpost.pl-orderedpays.icu^$all
 ||inpost.pl-orderedpays.shop^$all
 ||inpost.pl-orderedpays.xyz^$all
+||inpost.pl-receivepays.icu^$all
+||inpost.pl-receivepays.work^$all
 ||inpost.pl-safepaid.cyou^$all
 ||inpost.pl-safepaid.icu^$all
 ||inpost.pl-safepaid.shop^$all
@@ -2661,6 +2666,7 @@
 ||kosmetyki24.eu^$all
 ||kovyky.mykubik.ru^$all
 ||kowdent.pl^$all
+||kpocztapolska.net^$all
 ||kproject.pl^$all
 ||kraj24.eu^$all
 ||krajowe24.com^$all
@@ -3124,6 +3130,7 @@
 ||mozeszsiedoczekac.cyou^$all
 ||moznajuzotympowiedziec24.cyou^$all
 ||mpestudios.pt^$all
+||mpocztapolska.net^$all
 ||msphackonline.com^$all
 ||msp-hack.com^$all
 ||ms-gatewayapp.com^$all
@@ -3305,6 +3312,7 @@
 ||nextnewaction.com^$all
 ||nfbio.com^$all
 ||niapublications.org^$all
+||nicebonusbooi7.com^$all
 ||nicesliders.top^$all
 ||nicniemusiszalemozesz.website^$all
 ||niebezpieczne-24.dnsrobotuptime.ru^$all
@@ -3832,6 +3840,8 @@
 ||olx.ploferta24.xyz^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-givecashes.cyou^$all
+||olx.pl-givecashes.icu^$all
 ||olx.pl-givecashes.xyz^$all
 ||olx.pl-givecash.club^$all
 ||olx.pl-givecash.cyou^$all
@@ -3869,6 +3879,10 @@
 ||olx.pl-orderedpays.shop^$all
 ||olx.pl-pay.items-id.site^$all
 ||olx.pl-pay.ro-transcom.site^$all
+||olx.pl-receivepays.cyou^$all
+||olx.pl-receivepays.icu^$all
+||olx.pl-receivepays.work^$all
+||olx.pl-receivepays.xyz^$all
 ||olx.pl-safeordered.club^$all
 ||olx.pl-safeordered.cyou^$all
 ||olx.pl-safeordered.icu^$all
@@ -3885,6 +3899,7 @@
 ||olx.pl.oferta-payment.works^$all
 ||olx.pl.safety.oferta-payment.blog^$all
 ||olx.pl.safe.oferta-payment.blog^$all
+||olx.pl.safe.oferta-payment.works^$all
 ||olx.pl.*.*^$document
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -5193,8 +5208,10 @@
 ||riverislandpl.com^$all
 ||rjefnpvdxrxgmnd.su^$all
 ||rmycevre.com^$all
+||robcie-tak-dalej.pl^$all
 ||robin-hood.com.pl^$all
 ||robotechcity.com^$all
+||rob-to-z-nami.pl^$all
 ||rocket-it.com.au^$all
 ||roddyii.com^$all
 ||rodi.digital^$all
@@ -5317,6 +5334,7 @@
 ||secure-order.org^$all
 ||secure-payuser01.serveirc.com^$all
 ||secure-safety.su^$all
+||secure.inpost.codes^$all
 ||secure.onewestbk.com^$all
 ||securityadminhelpunit.moonfruit.com^$all
 ||security-update-required.com^$all
@@ -5754,6 +5772,7 @@
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
 ||teacriss-edlechs.xyz^$all
 ||teacross-edtechs.xyz^$all
+||teamowa124.weebly.com^$all
 ||techiwant.com^$all
 ||teenagerchimney.com^$all
 ||tegojeszczeniepowiedziallam.website^$all
@@ -5973,6 +5992,7 @@
 ||tykazy.boxing-club-legenda-ufa.ru^$all
 ||tylkodojdziedosiebie.club^$all
 ||tylko-u-nas.pl^$all
+||tylko-z-nami.pl^$all
 ||typowanie-glosuj.eu^$all
 ||typuj-wyniki.eu^$all
 ||tytfgn688hceb.web.app^$all
@@ -6542,6 +6562,7 @@
 ||zyjesiedlatakichhchwil.website^$all
 ||zyzlk.com^$all
 ||z-kraju.co.pl^$all
+||z-nami.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
 ||*dworzeconline24.*^$document
@@ -6572,24 +6593,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||adotpuj-rokiego.waw.pl^$all
-||dotpay.kpocztapolska.net^$all
-||dotpay.monitoring-pocztapolska.org^$all
-||dotpay.mpocztapolska.net^$all
-||inpost.pl-receivepays.icu^$all
-||inpost.pl-receivepays.work^$all
-||kpocztapolska.net^$all
-||mpocztapolska.net^$all
-||olx.pl-givecashes.cyou^$all
-||olx.pl-givecashes.icu^$all
-||olx.pl-receivepays.cyou^$all
-||olx.pl-receivepays.icu^$all
-||olx.pl-receivepays.work^$all
-||olx.pl-receivepays.xyz^$all
-||olx.pl.safe.oferta-payment.works^$all
-||robcie-tak-dalej.pl^$all
-||rob-to-z-nami.pl^$all
-||secure.inpost.codes^$all
-||teamowa124.weebly.com^$all
-||tylko-z-nami.pl^$all
-||z-nami.pl^$all
