@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 21 May 2021, 17:10 UTC+02
-! Version: 2021.5.21.1
+! Last modified: Fri, 21 May 2021, 21:05 UTC+02
+! Version: 2021.5.21.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1354,6 +1354,7 @@
 ||sneakerpassion.eu^$all
 ||sneakersshop.pl^$all
 ||sneakersworld.eu^$all
+||sneakervclub.com^$all
 ||sobotka24.com.pl^$all
 ||sockshock.com^$all
 ||sofia-sstyle.com^$all
@@ -3238,6 +3239,7 @@
 ||dostawyjaros.top^$all
 ||dostawy-dhl.com^$all
 ||dostaw-safety.com^$all
+||dostdhi.com^$all
 ||dostwpack.com^$all
 ||doswedh.com^$all
 ||doswiadczbiznzesu24.site^$all
@@ -4378,12 +4380,24 @@
 ||inpost.pl-orderedpays.xyz^$all
 ||inpost.pl-receivepays.icu^$all
 ||inpost.pl-receivepays.work^$all
+||inpost.pl-receivepay.cyou^$all
+||inpost.pl-receivepay.icu^$all
+||inpost.pl-receivepay.shop^$all
+||inpost.pl-receivepay.work^$all
+||inpost.pl-receivepay.xyz^$all
 ||inpost.pl-safepaid.cyou^$all
 ||inpost.pl-safepaid.icu^$all
 ||inpost.pl-safepaid.shop^$all
 ||inpost.pl-safepaid.work^$all
 ||inpost.pl-safepaid.xyz^$all
 ||inpost.pl-*.*^$document
+||inpost.polskaoferta24.casa^$all
+||inpost.polskaoferta24.club^$all
+||inpost.polskaoferta24.cyou^$all
+||inpost.polskaoferta24.me^$all
+||inpost.polskaoferta24.shop^$all
+||inpost.polskaoferta24.work^$all
+||inpost.polskaoferta24.xyz^$all
 ||inpost.polskaolerta.art^$all
 ||inpost.polskaolerta.casa^$all
 ||inpost.polskaolerta.cyou^$all
@@ -5906,6 +5920,7 @@
 ||olx.pl-receivepays.icu^$all
 ||olx.pl-receivepays.work^$all
 ||olx.pl-receivepays.xyz^$all
+||olx.pl-receivepay.work^$all
 ||olx.pl-safeordered.club^$all
 ||olx.pl-safeordered.cyou^$all
 ||olx.pl-safeordered.icu^$all
@@ -5916,6 +5931,7 @@
 ||olx.pl-safepaid.shop^$all
 ||olx.pl-safepaid.work^$all
 ||olx.pl-safepaid.xyz^$all
+||olx.pl-safety.oferta-payment.works^$all
 ||olx.pl-saleorders.shop^$all
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.blog^$all
@@ -5932,6 +5948,7 @@
 ||olx.polskaoferta24.club^$all
 ||olx.polskaoferta24.cyou^$all
 ||olx.polskaoferta24.me^$all
+||olx.polskaoferta24.shop^$all
 ||olx.polskaoferta24.work^$all
 ||olx.polskaoferta24.xyz^$all
 ||olx.polskaolerta.art^$all
@@ -6686,6 +6703,7 @@
 ||pocztaadminsecurityunit.moonfruit.com^$all
 ||pocztaadminunit.moonfruit.com^$all
 ||pocztabox24.xyz^$all
+||pocztadmnsecurityunit.moonfruit.com^$all
 ||pocztainteria-regulamin.net^$all
 ||pocztain.moonfruit.com^$all
 ||pocztapomoc.com.pl^$all
