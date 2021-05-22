@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 22 May 2021, 13:05 UTC+02
-! Version: 2021.5.22.0
+! Last modified: Sat, 22 May 2021, 21:06 UTC+02
+! Version: 2021.5.22.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4360,6 +4360,11 @@
 ||inpost.payouts.xyz^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
+||inpost.pl-fastorders.cyou^$all
+||inpost.pl-fastorders.icu^$all
+||inpost.pl-fastorders.shop^$all
+||inpost.pl-fastorders.work^$all
+||inpost.pl-fastorders.xyz^$all
 ||inpost.pl-giveordered.cyou^$all
 ||inpost.pl-giveordered.icu^$all
 ||inpost.pl-giveordered.shop^$all
@@ -5879,6 +5884,16 @@
 ||olx.ploferta24.xyz^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-fastordered.cyou^$all
+||olx.pl-fastordered.icu^$all
+||olx.pl-fastordered.shop^$all
+||olx.pl-fastordered.work^$all
+||olx.pl-fastordered.xyz^$all
+||olx.pl-fastordering.cyou^$all
+||olx.pl-fastordering.icu^$all
+||olx.pl-fastordering.shop^$all
+||olx.pl-fastordering.xyz^$all
+||olx.pl-fastorders.shop^$all
 ||olx.pl-fastorder.cyou^$all
 ||olx.pl-fastorder.icu^$all
 ||olx.pl-fastorder.shop^$all
@@ -7951,6 +7966,7 @@
 ||trampolshop.com^$all
 ||transakcja24.com^$all
 ||transakcja-payu.xyz^$all
+||transbox.org^$all
 ||transfer-olx.gq^$all
 ||transportujemy.net^$all
 ||transportuje.net^$all
