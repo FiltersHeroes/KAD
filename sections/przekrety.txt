@@ -2345,6 +2345,10 @@
 ||inpost.pl-fastorders.shop^$all
 ||inpost.pl-fastorders.work^$all
 ||inpost.pl-fastorders.xyz^$all
+||inpost.pl-fastpay.cyou^$all
+||inpost.pl-fastpay.icu^$all
+||inpost.pl-fastpay.shop^$all
+||inpost.pl-fastpay.xyz^$all
 ||inpost.pl-giveordered.cyou^$all
 ||inpost.pl-giveordered.icu^$all
 ||inpost.pl-giveordered.shop^$all
@@ -3866,6 +3870,8 @@
 ||olx.plskontas.live^$all
 ||olx.pl-fastdelivery.cyou^$all
 ||olx.pl-fastdelivery.icu^$all
+||olx.pl-fastdelivery.shop^$all
+||olx.pl-fastdelivery.work^$all
 ||olx.pl-fastordered.cyou^$all
 ||olx.pl-fastordered.icu^$all
 ||olx.pl-fastordered.shop^$all
@@ -3881,6 +3887,7 @@
 ||olx.pl-fastorder.shop^$all
 ||olx.pl-fastorder.work^$all
 ||olx.pl-fastorder.xyz^$all
+||olx.pl-get.safe.oferta-payment.works^$all
 ||olx.pl-givecashes.cyou^$all
 ||olx.pl-givecashes.icu^$all
 ||olx.pl-givecashes.xyz^$all
@@ -4845,6 +4852,8 @@
 ||polskaonline.club^$all
 ||polskapoczta.olxkonstosx.xyz^$all
 ||polskapoczta.olxkontosos.casa^$all
+||polskapoczta.ploferta365.live^$all
+||polskapoczta.ploferta365.xyz^$all
 ||polskapoczta.plskontas.casa^$all
 ||polskapoczta.plskontas.cyou^$all
 ||polskapoczta.plskontas.life^$all
@@ -6649,12 +6658,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost.pl-fastpay.cyou^$all
-||inpost.pl-fastpay.icu^$all
-||inpost.pl-fastpay.shop^$all
-||inpost.pl-fastpay.xyz^$all
-||olx.pl-fastdelivery.shop^$all
-||olx.pl-fastdelivery.work^$all
-||olx.pl-get.safe.oferta-payment.works^$all
-||polskapoczta.ploferta365.live^$all
-||polskapoczta.ploferta365.xyz^$all
