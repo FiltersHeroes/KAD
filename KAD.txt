@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 23 May 2021, 13:06 UTC+02
-! Version: 2021.5.23.0
+! Last modified: Sun, 23 May 2021, 17:05 UTC+02
+! Version: 2021.5.23.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3014,6 +3014,7 @@
 ||d18xeid0tdaswq.cloudfront.net^$all
 ||d22cujgt2tcui6.cloudfront.net^$all
 ||d26sio54efdz72.cloudfront.net^$all
+||d30hbt0rlpewjj.cloudfront.net^$all
 ||d32r41fxmnjynu.cloudfront.net^$all
 ||d34rr3edznjsj6.cloudfront.net^$all
 ||d35s76ui8ol8u7.cloudfront.net^$all
@@ -5887,6 +5888,8 @@
 ||olx.ploferta24.xyz^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-fastdelivery.cyou^$all
+||olx.pl-fastdelivery.icu^$all
 ||olx.pl-fastordered.cyou^$all
 ||olx.pl-fastordered.icu^$all
 ||olx.pl-fastordered.shop^$all
@@ -5952,6 +5955,7 @@
 ||olx.pl-safeordered.cyou^$all
 ||olx.pl-safeordered.icu^$all
 ||olx.pl-safeordered.xyz^$all
+||olx.pl-safeorder.com^$all
 ||olx.pl-safepaid.club^$all
 ||olx.pl-safepaid.cyou^$all
 ||olx.pl-safepaid.icu^$all
@@ -5963,6 +5967,7 @@
 ||olx.pl-*.*^$document
 ||olx.pl.oferta-payment.blog^$all
 ||olx.pl.oferta-payment.works^$all
+||olx.pl.rek-transfer.pw^$all
 ||olx.pl.safety.oferta-payment.blog^$all
 ||olx.pl.safety.oferta-payment.works^$all
 ||olx.pl.safe.oferta-payment.blog^$all
