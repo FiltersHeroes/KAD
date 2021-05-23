@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 23 May 2021, 17:05 UTC+02
-! Version: 2021.5.23.1
+! Last modified: Sun, 23 May 2021, 21:05 UTC+02
+! Version: 2021.5.23.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4369,6 +4369,10 @@
 ||inpost.pl-fastorders.shop^$all
 ||inpost.pl-fastorders.work^$all
 ||inpost.pl-fastorders.xyz^$all
+||inpost.pl-fastpay.cyou^$all
+||inpost.pl-fastpay.icu^$all
+||inpost.pl-fastpay.shop^$all
+||inpost.pl-fastpay.xyz^$all
 ||inpost.pl-giveordered.cyou^$all
 ||inpost.pl-giveordered.icu^$all
 ||inpost.pl-giveordered.shop^$all
@@ -5890,6 +5894,8 @@
 ||olx.plskontas.live^$all
 ||olx.pl-fastdelivery.cyou^$all
 ||olx.pl-fastdelivery.icu^$all
+||olx.pl-fastdelivery.shop^$all
+||olx.pl-fastdelivery.work^$all
 ||olx.pl-fastordered.cyou^$all
 ||olx.pl-fastordered.icu^$all
 ||olx.pl-fastordered.shop^$all
@@ -5905,6 +5911,7 @@
 ||olx.pl-fastorder.shop^$all
 ||olx.pl-fastorder.work^$all
 ||olx.pl-fastorder.xyz^$all
+||olx.pl-get.safe.oferta-payment.works^$all
 ||olx.pl-givecashes.cyou^$all
 ||olx.pl-givecashes.icu^$all
 ||olx.pl-givecashes.xyz^$all
@@ -6869,6 +6876,8 @@
 ||polskaonline.club^$all
 ||polskapoczta.olxkonstosx.xyz^$all
 ||polskapoczta.olxkontosos.casa^$all
+||polskapoczta.ploferta365.live^$all
+||polskapoczta.ploferta365.xyz^$all
 ||polskapoczta.plskontas.casa^$all
 ||polskapoczta.plskontas.cyou^$all
 ||polskapoczta.plskontas.life^$all
