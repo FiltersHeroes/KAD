@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 24 May 2021, 13:05 UTC+02
-! Version: 2021.5.24.0
+! Last modified: Mon, 24 May 2021, 17:06 UTC+02
+! Version: 2021.5.24.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4339,6 +4339,11 @@
 ||inpost.pl-fastorders.shop^$all
 ||inpost.pl-fastorders.work^$all
 ||inpost.pl-fastorders.xyz^$all
+||inpost.pl-fastpaid.cyou^$all
+||inpost.pl-fastpaid.icu^$all
+||inpost.pl-fastpaid.shop^$all
+||inpost.pl-fastpaid.work^$all
+||inpost.pl-fastpaid.xyz^$all
 ||inpost.pl-fastpays.cyou^$all
 ||inpost.pl-fastpays.icu^$all
 ||inpost.pl-fastpays.shop^$all
@@ -4767,6 +4772,7 @@
 ||lasportivapolska.pl^$all
 ||latarkacreeledpl.com^$all
 ||latarkapowerstyle-pl.com^$all
+||latateraz.icu^$all
 ||latwocizaimponowac.site^$all
 ||latwozdobyclatwouzyc.site^$all
 ||lauraboerci.com^$all
@@ -5525,6 +5531,7 @@
 ||ogladaj-online24.pl^$all
 ||ogladaj-online.pl^$all
 ||ogladaj-przechwycone.eu^$all
+||ogladaj.eu^$all
 ||oglaszamy-yorki.dkonto.pl^$all
 ||ogloszenia24.dfirma.pl^$all
 ||ogloszeniateraz97.club^$all
@@ -5734,6 +5741,7 @@
 ||olx-pl.depget.com^$all
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.eu^$all
+||olx-pl.ez-pays.ru^$all
 ||olx-pl.getc.icu^$all
 ||olx-pl.id*.ru^$all
 ||olx-pl.info^$all
@@ -5793,6 +5801,7 @@
 ||olx-u.pl^$all
 ||olx-vip.com^$all
 ||olx-weryfikacja.pl^$all
+||olx-wplata.cards^$all
 ||olx-wplata.today^$all
 ||olx-wyplata.pl^$all
 ||olx-w.pl^$all
@@ -5875,6 +5884,7 @@
 ||olx.pl-fastpays.icu^$all
 ||olx.pl-fastpays.shop^$all
 ||olx.pl-fastpays.work^$all
+||olx.pl-fastpays.xyz^$all
 ||olx.pl-get.safe.oferta-payment.works^$all
 ||olx.pl-givecashes.cyou^$all
 ||olx.pl-givecashes.icu^$all
@@ -5957,6 +5967,7 @@
 ||olx.pt.savedpays.icu^$all
 ||olx.rwpay.ru^$all
 ||olx.secure-dostawa.com^$all
+||olx.shop-delivery.xyz^$all
 ||olx.so^$all
 ||olx.transakcja.pw^$all
 ||olx.wyprzedaz-*.*^$document
@@ -7281,6 +7292,7 @@
 ||s8powazkowska-modlinska.pl^$all
 ||s88.vdl.pl^$all
 ||sabiosdelamor.co^$all
+||sadenly.xyz^$all
 ||safedealpln.link^$all
 ||safedeliveryypl.shop^$all
 ||safeprojectreviews.com^$all
@@ -7377,6 +7389,7 @@
 ||secure.onewestbk.com^$all
 ||securityadminhelpunit.moonfruit.com^$all
 ||security-update-required.com^$all
+||security.get.inpost.codes^$all
 ||security.weblogin-contact-form-instagram.com^$all
 ||seewhochecked.com^$all
 ||seks-telefon.com^$all
@@ -7530,6 +7543,7 @@
 ||sms-info.it^$all
 ||sms-info.net^$all
 ||sms-info.su^$all
+||sms-i.in^$all
 ||sms-za-darmo.pl^$all
 ||sms.mba^$all
 ||smushgame.com^$all
@@ -7942,6 +7956,7 @@
 ||transakcja24.com^$all
 ||transbox.org^$all
 ||transfer-olx.gq^$all
+||transmis.xyz^$all
 ||transportujemy.net^$all
 ||transportuje.net^$all
 ||transporty24.net^$all
