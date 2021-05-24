@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 24 May 2021, 17:06 UTC+02
-! Version: 2021.5.24.1
+! Last modified: Mon, 24 May 2021, 21:04 UTC+02
+! Version: 2021.5.24.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3523,6 +3523,7 @@
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-informacje24.eu^$all
+||facebook-live24.eu^$all
 ||facebook-pl.eu^$all
 ||facebook.biz.pl^$all
 ||facebook.m918kiss.my^$all
@@ -3581,6 +3582,7 @@
 ||faraweel.com^$all
 ||farbybialystok.pl^$all
 ||faryzeusz.pl^$all
+||fasbox.org^$all
 ||fastandfurious7pl.wordpress.com^$all
 ||fastiv.xyz^$all
 ||fb202022.tcp4.me^$all
@@ -5026,6 +5028,7 @@
 ||megadown.net^$all
 ||megadown.us^$all
 ||megapak24h.pl^$all
+||megapakalpd.pl^$all
 ||megatradestation.com^$all
 ||mega-gry.com^$all
 ||mega-wpadki.m44m.cloud^$all
@@ -5834,6 +5837,8 @@
 ||olx.moe^$all
 ||olx.moferta.life^$all
 ||olx.moferta.live^$all
+||olx.myofferta.casa^$all
+||olx.myofferta.cyou^$all
 ||olx.m-inposta.site^$all
 ||olx.oferda-pl.biz^$all
 ||olx.oferda-pl.life^$all
@@ -6845,6 +6850,8 @@
 ||polskanews.eu^$all
 ||polskaolerta.store^$all
 ||polskaonline.club^$all
+||polskapoczta.myofferta.casa^$all
+||polskapoczta.myofferta.cyou^$all
 ||polskapoczta.olxkontosos.casa^$all
 ||polskapoczta.ploferta365.live^$all
 ||polskapoczta.ploferta365.xyz^$all
@@ -7389,6 +7396,7 @@
 ||secure.onewestbk.com^$all
 ||securityadminhelpunit.moonfruit.com^$all
 ||security-update-required.com^$all
+||security.geting.inpost.codes^$all
 ||security.get.inpost.codes^$all
 ||security.weblogin-contact-form-instagram.com^$all
 ||seewhochecked.com^$all
@@ -7413,8 +7421,10 @@
 ||server012121.nazwa.pl^$all
 ||server060728.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
+||server437580.nazwa.pl^$all
 ||server529789.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
+||server800577.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
 ||server870179.nazwa.pl^$all
 ||server*.nazwa.pl/weryfikacja/$all
