@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 25 May 2021, 13:05 UTC+02
-! Version: 2021.5.25.0
+! Last modified: Tue, 25 May 2021, 21:05 UTC+02
+! Version: 2021.5.25.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2012,7 +2012,7 @@
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
-/^https?:\/\/([\w]{1,4}\.)?polandinw\d+\.space/$all
+/^https?:\/\/([\w]{1,4}\.)?polandinw(\w+)?\d+\.space/$all
 /^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl)\d+\.(site|space)/$all
 /^https?:\/\/([\w]{1,4}\.)?(probablerootport)-?[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
@@ -3252,6 +3252,7 @@
 ||dotpay.pocztexpolska48.net^$all
 ||dotpay.pocztex-poland.net^$all
 ||dotpay.pol-pocztapolska.net^$all
+||dotpay.upocztapolska.net^$all
 ||downloads-mobile.com^$all
 ||download.inboxace.com^$all
 ||download.televisionfanatic.com^$all
@@ -5934,6 +5935,7 @@
 ||olx.pl-give.xyz^$all
 ||olx.pl-ofertbuy.xyz^$all
 ||olx.pl-pay.items-id.site^$all
+||olx.pl-pay.payforit-op.site^$all
 ||olx.pl-pay.ro-transcom.site^$all
 ||olx.pl-receivepays.cyou^$all
 ||olx.pl-receivepays.icu^$all
@@ -5954,12 +5956,14 @@
 ||olx.pl-safety.oferta-payment.works^$all
 ||olx.pl-safe.oferta-payment.cards^$all
 ||olx.pl-saleorders.shop^$all
+||olx.pl-successpays.icu^$all
 ||olx.pl-successpay.icu^$all
 ||olx.pl-successpay.xyz^$all
 ||olx.pl-success.cyou^$all
 ||olx.pl-success.icu^$all
 ||olx.pl-success.work^$all
 ||olx.pl-*.*^$document
+||olx.pl.mydostawkapl.casa^$all
 ||olx.pl.oferta-payment.works^$all
 ||olx.pl.rek-transfer.pw^$all
 ||olx.pl.safety.oferta-payment.works^$all
@@ -6312,6 +6316,7 @@
 ||pay29-olx.pl^$all
 ||pay30-olx.pl^$all
 ||pay31-olx.pl^$all
+||pay32-olx.info^$all
 ||pay32-olx.pl^$all
 ||pay33-olx.pl^$all
 ||pay34-olx.pl^$all
@@ -7308,6 +7313,7 @@
 ||roznerowzzwiazania.club^$all
 ||rozpoznaj24.you2.pl^$all
 ||rozpoznaj-go.gq^$all
+||rpocztapolska.net^$all
 ||run-germany.com^$all
 ||rynekbitcoin.pl^$all
 ||rywalizacja-ludzi.eu^$all
@@ -7472,6 +7478,7 @@
 ||sharp-gossip.com^$all
 ||shaverbasics.com^$all
 ||shbsfz.com^$all
+||shein-konkurs.pl^$all
 ||shift-holdings.com^$all
 ||shinden-anime.info^$all
 ||shipgratis.eu^$all
@@ -7995,6 +8002,7 @@
 ||trendingraphs.net^$all
 ||trezbatoogarnnac.site^$all
 ||trofeum-zdobywamy.eu^$all
+||tronte.xyz^$all
 ||trotamundos.com.pl^$all
 ||trsmarkets.com^$all
 ||trudneokreslenie.site^$all
