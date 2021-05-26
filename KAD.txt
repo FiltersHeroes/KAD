@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 26 May 2021, 17:07 UTC+02
-! Version: 2021.5.26.1
+! Last modified: Wed, 26 May 2021, 21:05 UTC+02
+! Version: 2021.5.26.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -336,6 +336,7 @@
 ||dbo2.pl^$all
 ||decodorebasic.pl^$all
 ||deepshoes.pl^$all
+||defrost.pl^$all
 ||dekoracjawesela.pl^$all
 ||dersay.pl^$all
 ||desin.pl^$all
@@ -2128,6 +2129,7 @@
 ||abstractway.top^$all
 ||accentpercentage.com^$all
 ||acceuil-serviceclient.com^$all
+||account-mail.quarantine.kitabdigital.com^$all
 ||account.login.appid.customer.online.curriculumvitae.live^$all
 ||activation-netflix.com^$all
 ||activesports.com.pl^$all
@@ -3186,6 +3188,7 @@
 ||doreczyciele.net^$all
 ||doski.by^$all
 ||dostadh.com^$all
+||dostapaczy.com^$all
 ||dostarcamy.net^$all
 ||dostarczanie.com^$all
 ||dostarczenie.com^$all
@@ -5897,7 +5900,10 @@
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
+||olx.dostawkafpl.cyou^$all
 ||olx.dostawkafpl.me^$all
+||olx.dostawkafpl.shop^$all
+||olx.dostawkafpl.work^$all
 ||olx.dostawwa.pl^$all
 ||olx.dostaw.*^$all
 ||olx.get-pl.shop^$all
@@ -6647,6 +6653,7 @@
 ||plikownik2015.wordpress.com^$all
 ||plikson.pl^$all
 ||pliks.pl^$all
+||plinjo.xyz^$all
 ||plmoda24.com^$all
 ||plnn.in^$all
 ||pln-delivery-pay.shop^$all
