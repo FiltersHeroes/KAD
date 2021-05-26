@@ -1,10 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||lnpost.kody-odbioru.*^$all
-||weblucker.com^$all
-||sztchr.cn^$all
-||br-stone.online^$all
-||traderprof.com^$all
 !||torrentos.pl^$all
 !||*dworzecporwaniepl.*^$document
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
@@ -174,6 +170,7 @@
 ||ainformacje.waw.pl^$all
 ||aintnothingtoit.com^$all
 ||ainvestments.com^$all
+||airpowers.xyz^$all
 ||airsofts.xyz^$all
 ||airycloth.com^$all
 ||airydress.com^$all
@@ -643,6 +640,7 @@
 ||brudne-tajemnice.eu^$all
 ||brudne-tajemnice.pl^$all
 ||brzezinska.com.pl^$all
+||br-stone.online^$all
 ||bsetuserexperience.wixsite.com^$all
 ||bslcorporationltd.co^$all
 ||bsmadwokaci.pl^$all
@@ -968,6 +966,7 @@
 ||d1nrc70vcbb0d6.cloudfront.net^$all
 ||d1ogtekyfob10l.cloudfront.net^$all
 ||d1quu53w0vld5k.cloudfront.net^$all
+||d1rme4jvs62tcn.cloudfront.net^$all
 ||d1t1aszt9orebq.cloudfront.net^$all
 ||d1tk7i92ddxa0d.cloudfront.net^$all
 ||d1ud788mmh5bcn.cloudfront.net^$all
@@ -985,6 +984,7 @@
 ||d3p3m76ag9gj6e.cloudfront.net^$all
 ||d3rzloh6xv2xem.cloudfront.net^$all
 ||d11oogfirpog9g.cloudfront.net^$all
+||d12tfcfyap6494.cloudfront.net^$all
 ||d13p8pjfjewrpo.cloudfront.net^$all
 ||d13ub5kvqkmcvg.cloudfront.net^$all
 ||d18xeid0tdaswq.cloudfront.net^$all
@@ -1245,8 +1245,10 @@
 ||dotpay.e-poczta-polska.net^$all
 ||dotpay.ipocztapolska.net^$all
 ||dotpay.ipoczta-polska.net^$all
+||dotpay.ipoczta-polska.org^$all
 ||dotpay.ipocztexpolska.net^$all
 ||dotpay.kpocztapolska.net^$all
+||dotpay.lpocztapolska.net^$all
 ||dotpay.monitoring-pocztapolska.org^$all
 ||dotpay.mpocztapolska.net^$all
 ||dotpay.opocztapolska.net^$all
@@ -1611,6 +1613,7 @@
 ||fb-business.net^$all
 ||fb-fb-ads-messenger.net^$all
 ||fb-fb-update.com^$all
+||fb-informacje24.pl^$all
 ||fb-manager.net^$all
 ||fb-restrictedcase-6a5fa.web.app^$all
 ||fb-service-login*.you2.pl^$all
@@ -2060,6 +2063,7 @@
 ||hodowlafanaberia.pl^$all
 ||hokaoneonespeedgoat.pl^$all
 ||hokasklep.com^$all
+||holdittight.pl^$all
 ||holylamaoffers.com^$all
 ||homearena.pl^$all
 ||homepaiement-pl-*.*.*^$all,domain=at|com
@@ -2407,6 +2411,10 @@
 ||inpost.pl-successorder.shop^$all
 ||inpost.pl-successorder.work^$all
 ||inpost.pl-successorder.xyz^$all
+||inpost.pl-successpays.cyou^$all
+||inpost.pl-successpays.icu^$all
+||inpost.pl-successpays.work^$all
+||inpost.pl-successpays.xyz^$all
 ||inpost.pl-success.cyou^$all
 ||inpost.pl-success.shop^$all
 ||inpost.pl-success.work^$all
@@ -2953,6 +2961,7 @@
 ||lovemydress.pl^$all
 ||lpkao.pw^$all
 ||lpkeo.pw^$all
+||lpocztapolska.net^$all
 ||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||lubicplacki.is-best.net^$all
 ||lubiego.is-best.net^$all
@@ -3466,6 +3475,7 @@
 ||obkzrcclean2.az.pl^$all
 ||obowiazkipolskie.online^$all
 ||obrazek.icu^$all
+||obserward.xyz^$all
 ||obslugakelnerska20.wixsite.com^$all
 ||obuwiedrsale.pl^$all
 ||obuwiedr.com^$all
@@ -3731,6 +3741,7 @@
 ||olx-epay.pl^$all
 ||olx-express-delivery.pl^$all
 ||olx-e.pl^$all
+||olx-finansowanie.cam^$all
 ||olx-ginza.com^$all
 ||olx-g.pl^$all
 ||olx-h.pl^$all
@@ -3874,6 +3885,7 @@
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
+||olx.dostawkafpl.me^$all
 ||olx.dostawwa.pl^$all
 ||olx.dostaw.*^$all
 ||olx.get-pl.shop^$all
@@ -3996,6 +4008,11 @@
 ||olx.pl-safety.oferta-payment.works^$all
 ||olx.pl-safe.oferta-payment.cards^$all
 ||olx.pl-saleorders.shop^$all
+||olx.pl-successorder.cyou^$all
+||olx.pl-successorder.icu^$all
+||olx.pl-successorder.shop^$all
+||olx.pl-successorder.work^$all
+||olx.pl-successorder.xyz^$all
 ||olx.pl-successpays.cyou^$all
 ||olx.pl-successpays.icu^$all
 ||olx.pl-successpays.shop^$all
@@ -4010,6 +4027,7 @@
 ||olx.pl-success.icu^$all
 ||olx.pl-success.work^$all
 ||olx.pl-*.*^$document
+||olx.pl.dostawkafpl.me^$all
 ||olx.pl.mydostawkapl.casa^$all
 ||olx.pl.oferta-payment.works^$all
 ||olx.pl.rek-transfer.pw^$all
@@ -4368,6 +4386,7 @@
 ||pay31-olx.pl^$all
 ||pay32-olx.info^$all
 ||pay32-olx.pl^$all
+||pay33-olx.info^$all
 ||pay33-olx.pl^$all
 ||pay34-olx.pl^$all
 ||pay35-olx.pl^$all
@@ -5052,6 +5071,7 @@
 ||postid-79348548.justgreece.org^$all
 ||postkod.org^$all
 ||postmaster334.moonfruit.com^$all
+||postmaster-serveremail-update.web.app^$all
 ||post-990094.at^$all
 ||post-sendl.space^$all
 ||post-send.host^$all
@@ -5829,6 +5849,7 @@
 ||superhistoria.is-best.net^$all
 ||supermakler-pko-online.com^$all
 ||supermakler-pko-secure.com^$all
+||supermakler.at^$all
 ||supermocna-tasma-klejaca-pl.com^$all
 ||superoferta.store^$all
 ||superserwisy.pl^$all
@@ -5849,6 +5870,7 @@
 ||swiatwiadomosci.xyz^$all
 ||swiat-inaczej.you2.pl^$all
 ||swiftcryptofx.com^$all
+||swiftinglight.xyz^$all
 ||swingmarketscfd.com^$all
 ||swinka-morska.waw.pl^$all
 ||swissmarket.net^$all
@@ -5881,6 +5903,7 @@
 ||szokujace-nagrania.dfirma.pl^$all
 ||szpieg.cyou^$all
 ||szpitalepolska24.dkonto.pl^$all
+||sztchr.cn^$all
 ||szukajmysie.eu^$all
 ||szukammysuckesu.online^$all
 ||szybcyiwscielki7.wordpress.com^$all
@@ -6032,6 +6055,7 @@
 ||trade360.com^$all
 ||traden365.co^$all
 ||traderking.cc^$all
+||traderprof.com^$all
 ||traderschain.com^$all
 ||tradesboost.net^$all
 ||trade-labs.com^$all
@@ -6320,6 +6344,7 @@
 ||wdrodzeposukkces.website^$all
 ||weartexhibitions.com^$all
 ||weblancer.pl^$all
+||weblucker.com^$all
 ||webmail93949840839.com.ng^$all
 ||webmailpolishadmin.weebly.com^$all
 ||webmail.sauthssecure.com^$all
@@ -6431,6 +6456,7 @@
 ||world-flags.cn^$all
 ||worthlessness.xyz^$all
 ||worthyincome.pro^$all
+||woundred.xyz^$all
 ||wp24.work^$all
 ||wpadkowo.pl^$all
 ||wpelnizadowoleni.site^$all
@@ -6751,29 +6777,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||airpowers.xyz^$all
-||d12tfcfyap6494.cloudfront.net^$all
-||d1rme4jvs62tcn.cloudfront.net^$all
-||dotpay.ipoczta-polska.org^$all
-||dotpay.lpocztapolska.net^$all
-||fb-informacje24.pl^$all
-||holdittight.pl^$all
-||inpost.pl-successpays.cyou^$all
-||inpost.pl-successpays.icu^$all
-||inpost.pl-successpays.work^$all
-||inpost.pl-successpays.xyz^$all
-||lpocztapolska.net^$all
-||obserward.xyz^$all
-||olx.dostawkafpl.me^$all
-||olx-finansowanie.cam^$all
-||olx.pl.dostawkafpl.me^$all
-||olx.pl-successorder.cyou^$all
-||olx.pl-successorder.icu^$all
-||olx.pl-successorder.shop^$all
-||olx.pl-successorder.work^$all
-||olx.pl-successorder.xyz^$all
-||pay33-olx.info^$all
-||postmaster-serveremail-update.web.app^$all
-||supermakler.at^$all
-||swiftinglight.xyz^$all
-||woundred.xyz^$all
