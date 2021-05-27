@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 27 May 2021, 17:05 UTC+02
-! Version: 2021.5.27.1
+! Last modified: Thu, 27 May 2021, 21:05 UTC+02
+! Version: 2021.5.27.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3053,6 +3053,7 @@
 ||dcshoessklep.com^$all
 ||debie.pl^$all
 ||debki-klara.pl^$all
+||declineconcert.com^$all
 ||decodom.com.pl^$all
 ||decydujmy-wspolnie.eu^$all
 ||decyzie-podejmj.eu^$all
@@ -4196,6 +4197,7 @@
 ||infoee.gitlab.io^$all
 ||infofito.com^$all
 ||infofpolska.online^$all
+||infokrk.co.pl^$all
 ||infolokalne24.pl^$all
 ||infonet.dfirma.pl^$all
 ||infopolska34.you2.pl^$all
@@ -4282,6 +4284,7 @@
 ||infoswiat.hekko24.pl^$all
 ||infozkraju.eu^$all
 ||info-24.cloud^$all
+||info-centrum.co.pl^$all
 ||info-inpost.pl^$all
 ||info-od-policji.dnsrobotuptime.ru^$all
 ||info-prosto-ze-swiata.dnsrobotuptime.ru^$all
@@ -4438,6 +4441,8 @@
 ||inpost.pl-savingmoney.xyz^$all
 ||inpost.pl-saving.cyou^$all
 ||inpost.pl-saving.icu^$all
+||inpost.pl-saving.shop^$all
+||inpost.pl-saving.work^$all
 ||inpost.pl-saving.xyz^$all
 ||inpost.pl-successorder.cyou^$all
 ||inpost.pl-successorder.icu^$all
@@ -6442,6 +6447,7 @@
 ||pay35-olx.pl^$all
 ||pay36-olx.info^$all
 ||pay36-olx.pl^$all
+||pay37-olx.info^$all
 ||pay37-olx.pl^$all
 ||pay38-olx.pl^$all
 ||pay39-olx.pl^$all
@@ -7999,6 +8005,7 @@
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
 ||teacriss-edlechs.xyz^$all
 ||teacross-edtechs.xyz^$all
+||teacus.xyz^$all
 ||teamowa124.weebly.com^$all
 ||techiwant.com^$all
 ||teenagerchimney.com^$all
@@ -8090,6 +8097,7 @@
 ||toniejjesjtnonsens.club^$all
 ||toniemusibycsen.club^$all
 ||topgryusluga.5p.pl^$all
+||topinncohe.xyz^$all
 ||topnotchtradefx.com^$all
 ||topogeo.pl^$all
 ||topparcelservices.com^$all
@@ -8639,6 +8647,7 @@
 ||w-sieci-piszczy.o99o.com.pl^$all
 ||w-szpitalu.gmina.pl^$all
 ||x9.eu^$document,domain=~www.x9.eu
+||xabeyangex.xyz^$all
 ||xawqerklewq.myartsonline.com^$all
 ||xcena.xyz^$all
 ||xediatel.com^$all
