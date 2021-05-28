@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 28 May 2021, 13:05 UTC+02
-! Version: 2021.5.28.0
+! Last modified: Fri, 28 May 2021, 17:07 UTC+02
+! Version: 2021.5.28.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3265,6 +3265,8 @@
 ||dotpay.emonitoring-pocztex.net^$all
 ||dotpay.emonitoring-polska48poczta.net^$all
 ||dotpay.emonitoring-polska-poczta.net^$all
+||dotpay.epoczta-polska24.com^$all
+||dotpay.epoczta-polska24.org^$all
 ||dotpay.epoczta-polska.com^$all
 ||dotpay.epoczta-polska.net^$all
 ||dotpay.etracking-pocztex48.net^$all
@@ -3281,6 +3283,7 @@
 ||dotpay.lpocztapolska.net^$all
 ||dotpay.monitoring-pocztapolska.org^$all
 ||dotpay.mpocztapolska.net^$all
+||dotpay.npocztapolska.net^$all
 ||dotpay.opocztapolska.net^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
@@ -3288,6 +3291,8 @@
 ||dotpay.pocztexpolska48.net^$all
 ||dotpay.pocztex-poland.net^$all
 ||dotpay.pol-pocztapolska.net^$all
+||dotpay.spocztapolska.net^$all
+||dotpay.track-pocztapolska.net^$all
 ||dotpay.upocztapolska.net^$all
 ||downloads-mobile.com^$all
 ||download.inboxace.com^$all
@@ -3449,6 +3454,8 @@
 ||eplotery.pl^$all
 ||epocztapolska24.net^$all
 ||epoczta-interia.com^$all
+||epoczta-polska24.com^$all
+||epoczta-polska24.org^$all
 ||epoczta-polska.com^$all
 ||epoczta-polska.net^$all
 ||eporwanienatalki.*^$all
@@ -3494,6 +3501,7 @@
 ||expresspaczki.com^$all
 ||express-delivery.pl^$all
 ||express-dhl.com^$all
+||express-dpd.com^$all
 ||express-inpost.com^$all
 ||express-inpost.online^$all
 ||express-paczka.today^$all
@@ -3945,6 +3953,7 @@
 ||getmyfreetraffic.com^$all
 ||gettheflow.pl^$all
 ||get-safe.inpost.cam^$all
+||get.3dsec.inpost.codes^$all
 ||get.bestdeal2060.info^$all
 ||get.cash.inpost.cam^$all
 ||get.currency.inpost.cam^$all
@@ -4392,6 +4401,7 @@
 ||inpost.payouts.xyz^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
+||inpost.pl-delivery.pw^$all
 ||inpost.pl-fastdelivery.cyou^$all
 ||inpost.pl-fastdelivery.icu^$all
 ||inpost.pl-fastdelivery.shop^$all
@@ -4443,6 +4453,15 @@
 ||inpost.pl-safepaid.shop^$all
 ||inpost.pl-safepaid.work^$all
 ||inpost.pl-safepaid.xyz^$all
+||inpost.pl-savingcash.cyou^$all
+||inpost.pl-savingcash.icu^$all
+||inpost.pl-savingcash.shop^$all
+||inpost.pl-savingcash.work^$all
+||inpost.pl-savingcash.xyz^$all
+||inpost.pl-savingmoney.cyou^$all
+||inpost.pl-savingmoney.icu^$all
+||inpost.pl-savingmoney.shop^$all
+||inpost.pl-savingmoney.work^$all
 ||inpost.pl-savingmoney.xyz^$all
 ||inpost.pl-saving.cyou^$all
 ||inpost.pl-saving.icu^$all
@@ -4747,6 +4766,7 @@
 ||kolege-wspomoz.eu^$all
 ||kolejnyodcinekpolska.space^$all
 ||kolekcjnoerbiznessu.space^$all
+||koleno.store^$all
 ||kolorfun.pl^$all
 ||kolor.oq.pl^$all
 ||kolporter24.net^$all
@@ -5511,6 +5531,7 @@
 ||nowoczesnemuzeum.pl^$all
 ||nowy-regulamin.pl^$all
 ||no-snore-pl.com^$all
+||npocztapolska.net^$all
 ||nvisionpropl*.com^$all
 ||nvod.pl^$all
 ||nytopu.dm-progress.ru^$all
@@ -5931,6 +5952,7 @@
 ||olx.doreczanie.pl^$all
 ||olx.doreczenle.pl^$all
 ||olx.dostawa-1613579853.site^$all
+||olx.dostawa-1619227488.site^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
@@ -6063,6 +6085,8 @@
 ||olx.pl-savingcash.cyou^$all
 ||olx.pl-savingcash.xyz^$all
 ||olx.pl-savingmoney.icu^$all
+||olx.pl-savingmoney.shop^$all
+||olx.pl-savingmoney.work^$all
 ||olx.pl-saving.shop^$all
 ||olx.pl-saving.work^$all
 ||olx.pl-saving.xyz^$all
@@ -7802,6 +7826,10 @@
 ||sprawdzam-dalej.xyz^$all
 ||sprawdzam.is-best.net^$all
 ||sprawdzikk.v0r.org^$all
+||sprawdzjak1.pl^$all
+||sprawdzjak2.pl^$all
+||sprawdzjak3.pl^$all
+||sprawdzjak4.pl^$all
 ||sprawdzony-produkt.pl^$all
 ||sprawdzto.is-best.net^$all
 ||sprawdzto.ml^$all
@@ -8140,6 +8168,7 @@
 ||towszystkobywyjasnialo.website^$all
 ||tpc.hu^$all
 ||trackandnow.site^$all
+||track-pocztapolska.net^$all
 ||trade360.com^$all
 ||traden365.co^$all
 ||traderking.cc^$all
@@ -8529,6 +8558,7 @@
 ||wmcs.pl^$all
 ||wmieszajsiewtoszybko.site^$all
 ||wnioski-kredytowe.pl^$all
+||wnioski-z-obiektywu24.xyz^$all
 ||woja-punktowa.eu^$all
 ||wojtekduda.pl^$all
 ||wolaklosza.is-best.net^$all
