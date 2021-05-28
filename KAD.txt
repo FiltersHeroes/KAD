@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 28 May 2021, 17:07 UTC+02
-! Version: 2021.5.28.1
+! Last modified: Fri, 28 May 2021, 21:05 UTC+02
+! Version: 2021.5.28.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3116,6 +3116,7 @@
 ||dgebq.csb.app^$all
 ||dgtmarket.com^$all
 ||dhcouriers.com^$all
+||dhexpl.com^$all
 ||dhexpres.com^$all
 ||dhl24-paczka.com^$all
 ||dhl-costumers.net^$all
@@ -3282,6 +3283,7 @@
 ||dotpay.kpocztapolska.net^$all
 ||dotpay.lpocztapolska.net^$all
 ||dotpay.monitoring-pocztapolska.org^$all
+||dotpay.monitor-ipocztapolska.net^$all
 ||dotpay.mpocztapolska.net^$all
 ||dotpay.npocztapolska.net^$all
 ||dotpay.opocztapolska.net^$all
@@ -4387,6 +4389,7 @@
 ||inpost.ltd^$all
 ||inpost.moferta.life^$all
 ||inpost.moferta.live^$all
+||inpost.offerta-dostawa.club^$all
 ||inpost.olxkon*.*^$all
 ||inpost.olxoferta25.art^$all
 ||inpost.olxoferta25.casa^$all
@@ -4807,6 +4810,7 @@
 ||korespondencja.xyz^$all
 ||kosmetyczne-wow.co.pl^$all
 ||kosmetyki24.eu^$all
+||kottonlok.space^$all
 ||kovyky.mykubik.ru^$all
 ||kowdent.pl^$all
 ||kpocztapolska.net^$all
@@ -6087,6 +6091,7 @@
 ||olx.pl-savingmoney.icu^$all
 ||olx.pl-savingmoney.shop^$all
 ||olx.pl-savingmoney.work^$all
+||olx.pl-savingpays.icu^$all
 ||olx.pl-saving.shop^$all
 ||olx.pl-saving.work^$all
 ||olx.pl-saving.xyz^$all
@@ -6953,6 +6958,9 @@
 ||poczta.pl-orderpaid.xyz^$all
 ||poczta.pl-receive.work^$all
 ||poczta.pl-safeway.live^$all
+||poczta.pl-savingmoney.cyou^$all
+||poczta.pl-savingmoney.shop^$all
+||poczta.pl-savingmoney.work^$all
 ||poczta.ron-mil-pl.site^$all
 ||poczteks24.net^$all
 ||poczteks.net^$all
@@ -8196,6 +8204,7 @@
 ||transporty24.net^$all
 ||treecutter-procutt.com^$all
 ||trendingraphs.net^$all
+||treyantok.website^$all
 ||trezbatoogarnnac.site^$all
 ||trofeum-zdobywamy.eu^$all
 ||tronte.xyz^$all
