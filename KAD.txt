@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 28 May 2021, 21:05 UTC+02
-! Version: 2021.5.28.2
+! Last modified: Sat, 29 May 2021, 13:05 UTC+02
+! Version: 2021.5.29.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -5955,6 +5955,7 @@
 ||olx.dellivery.*^$all
 ||olx.doreczanie.pl^$all
 ||olx.doreczenle.pl^$all
+||olx.dostawa-1613425096.site^$all
 ||olx.dostawa-1613579853.site^$all
 ||olx.dostawa-1619227488.site^$all
 ||olx.dostawa-pl.*^$all
@@ -6091,7 +6092,10 @@
 ||olx.pl-savingmoney.icu^$all
 ||olx.pl-savingmoney.shop^$all
 ||olx.pl-savingmoney.work^$all
+||olx.pl-savingpays.cyou^$all
 ||olx.pl-savingpays.icu^$all
+||olx.pl-savingpays.shop^$all
+||olx.pl-savingpays.xyz^$all
 ||olx.pl-saving.shop^$all
 ||olx.pl-saving.work^$all
 ||olx.pl-saving.xyz^$all
@@ -7924,6 +7928,7 @@
 ||stopcodex.pl^$all
 ||stoprocentpollskatv.cyou^$all
 ||stopspam.pl^$all
+||stop-szczepionkom.waw.pl^$all
 ||strangefullthiggngs.com^$all
 ||streamcommunitty.ru.com^$all
 ||streamcomunniti.ru^$all
@@ -8082,6 +8087,7 @@
 ||tepey.net^$all
 ||tepremoe.mypi.co^$all
 ||terazdopieroniewierze.space^$all
+||teresfal.site^$all
 ||termin-odbioru.fun^$all
 ||termin-odbioru.life^$all
 ||termin-odbioru.xyz^$all
