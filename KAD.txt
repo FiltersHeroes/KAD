@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 29 May 2021, 13:05 UTC+02
-! Version: 2021.5.29.0
+! Last modified: Sat, 29 May 2021, 17:05 UTC+02
+! Version: 2021.5.29.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -626,6 +626,7 @@
 ||icopywriter.pl^$all
 ||idealnybuty.top^$all
 ||ideatur.pl^$all
+||idgarin.com^$all
 ||ielektronik.pl^$all
 ||ihydroflaskshop.com^$all
 ||ilearnex.pl^$all
@@ -6095,6 +6096,7 @@
 ||olx.pl-savingpays.cyou^$all
 ||olx.pl-savingpays.icu^$all
 ||olx.pl-savingpays.shop^$all
+||olx.pl-savingpays.work^$all
 ||olx.pl-savingpays.xyz^$all
 ||olx.pl-saving.shop^$all
 ||olx.pl-saving.work^$all
@@ -6127,6 +6129,7 @@
 ||olx.pl.dostawkafpl.me^$all
 ||olx.pl.dostawkafpl.shop^$all
 ||olx.pl.mydostawkapl.casa^$all
+||olx.pl.oferta-payment.fit^$all
 ||olx.pl.oferta-payment.works^$all
 ||olx.pl.pay-reg.pw^$all
 ||olx.pl.rek-transfer.pw^$all
@@ -7057,6 +7060,8 @@
 ||polskanews.eu^$all
 ||polskaolerta.store^$all
 ||polskaonline.club^$all
+||polskapoczta.dostawa-orders.casa^$all
+||polskapoczta.dostawa-orders.xyz^$all
 ||polskapoczta.myofferta.casa^$all
 ||polskapoczta.myofferta.cyou^$all
 ||polskapoczta.myofferta.work^$all
