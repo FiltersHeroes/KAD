@@ -16,7 +16,7 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadguard
 |http*://*/fb-login/$document,domain=~facebook.com,badfilter
 |http*://*/fb-login/$document,domain=~facebook.com|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
 ||chomikuj.*^$document,domain=~chomikuj.pl,badfilter
-||chomikuj.*^$document,domain=~chomikuj.pl|~google.*|~duckduck.*
+||chomikuj.*^$document,domain=~chomikuj.pl|~google.*|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl,badfilter
 ||legalniewsieci.*^$document,domain=~legalniewsieci.pl|~google.*|~duckduck.*|~bing.*|~yahoo.*|~startpage.com|~ecosia.org|~qwant.com
 ||zalukaj*.*^$document,domain=~zalukaj.com,badfilter
