@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 29 May 2021, 21:05 UTC+02
-! Version: 2021.5.29.2
+! Last modified: Sun, 30 May 2021, 13:06 UTC+02
+! Version: 2021.5.30.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1155,6 +1155,7 @@
 ||pphumarex.pl^$all
 ||ppuhmarko.com.pl^$all
 ||pracowniaciala.pl^$all
+||pracowniekomputerowe.pl^$all
 ||praleczki.com^$all
 ||prawdziwyrozwoj.pl^$all
 ||premiumqualitybeef.com^$all
@@ -4381,6 +4382,8 @@
 ||inpost.club^$all
 ||inpost.dev^$all
 ||inpost.digital^$all
+||inpost.dostawa-orders.casa^$all
+||inpost.dostawa-orders.xyz^$all
 ||inpost.dostawkafpl.cyou^$all
 ||inpost.dostawkafpl.me^$all
 ||inpost.fit^$all
@@ -4481,6 +4484,7 @@
 ||inpost.pl-saving.shop^$all
 ||inpost.pl-saving.work^$all
 ||inpost.pl-saving.xyz^$all
+||inpost.pl-srodki.xyz^$all
 ||inpost.pl-successorder.cyou^$all
 ||inpost.pl-successorder.icu^$all
 ||inpost.pl-successorder.shop^$all
@@ -4543,6 +4547,7 @@
 ||intersujaceopolskie.online^$all
 ||interwencja.you2.pl^$all
 ||inteza.pl^$all
+||intorstad.store^$all
 ||investactive.cc^$all
 ||investbb.com^$all
 ||investchambers.com^$all
@@ -5119,6 +5124,7 @@
 ||marketpluse.com^$all
 ||markowyperfum.pl^$all
 ||marmotpolskas.com^$all
+||marselosq.site^$all
 ||martynk.biz.pl^$all
 ||masac.xyz^$all
 ||mastertradeinvestments.com^$all
@@ -5968,6 +5974,9 @@
 ||olx.dostawa-1613425096.site^$all
 ||olx.dostawa-1613579853.site^$all
 ||olx.dostawa-1619227488.site^$all
+||olx.dostawa-orders.casa^$all
+||olx.dostawa-orders.store^$all
+||olx.dostawa-orders.xyz^$all
 ||olx.dostawa-pl.*^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
@@ -6112,6 +6121,11 @@
 ||olx.pl-saving.work^$all
 ||olx.pl-saving.xyz^$all
 ||olx.pl-secure.oferta-payment.cards^$all
+||olx.pl-srodki.cyou^$all
+||olx.pl-srodki.icu^$all
+||olx.pl-srodki.shop^$all
+||olx.pl-srodki.work^$all
+||olx.pl-srodki.xyz^$all
 ||olx.pl-successorder.cyou^$all
 ||olx.pl-successorder.icu^$all
 ||olx.pl-successorder.shop^$all
@@ -6550,6 +6564,7 @@
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.postpay-potwierdzenie.xyz^$all
+||paygate.potwierdzenie-postpaid.xyz^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payments-allegro.me^$all
