@@ -2,7 +2,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||lnpost.kody-odbioru.*^$all
 !||torrentos.pl^$all
-||tesla-polskaaa.icu^$all
 !||*dworzecporwaniepl.*^$document
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
@@ -855,6 +854,7 @@
 ||coinpayhub.ltd^$all
 ||collinsink.cabanova.com^$all
 ||colorking.es^$all
+||coltoos.site^$all
 ||come-inside.pl^$all
 ||complainerscla.xyz^$all
 ||confusingcontact.com^$all
@@ -2418,6 +2418,7 @@
 ||inpost.pl-orderedpays.cyou^$all
 ||inpost.pl-orderedpays.icu^$all
 ||inpost.pl-orderedpays.xyz^$all
+||inpost.pl-otrzymac.work^$all
 ||inpost.pl-receivepays.icu^$all
 ||inpost.pl-receivepays.work^$all
 ||inpost.pl-receivepay.cyou^$all
@@ -2642,6 +2643,7 @@
 ||jonakurier.org^$all
 ||jondir.xyz^$all
 ||jordanbuty.pl^$all
+||jorted.site^$all
 ||jstoppello.com^$all
 ||juicingwell.com^$all
 ||juicywin.pl^$all
@@ -3932,6 +3934,7 @@
 ||olx.dostawa-1613579853.site^$all
 ||olx.dostawa-1619227488.site^$all
 ||olx.dostawa-orders.casa^$all
+||olx.dostawa-orders.shop^$all
 ||olx.dostawa-orders.store^$all
 ||olx.dostawa-orders.xyz^$all
 ||olx.dostawa-pl.*^$all
@@ -4037,6 +4040,8 @@
 ||olx.pl-give.work^$all
 ||olx.pl-give.xyz^$all
 ||olx.pl-ofertbuy.xyz^$all
+||olx.pl-otrzymac.shop^$all
+||olx.pl-otrzymac.xyz^$all
 ||olx.pl-pay.items-id.site^$all
 ||olx.pl-pay.payforit-op.site^$all
 ||olx.pl-pay.ro-transcom.site^$all
@@ -4480,6 +4485,7 @@
 ||pay41-olx.pl^$all
 ||pay43-olx.pl^$all
 ||pay44-olx.pl^$all
+||pay45-olx.info^$all
 ||pay45-olx.pl^$all
 ||pay46-olx.pl^$all
 ||pay47-olx.pl^$all
@@ -5037,6 +5043,7 @@
 ||polskapoczta.plskontas.cyou^$all
 ||polskapoczta.plskontas.life^$all
 ||polskapoczta.plskontas.live^$all
+||polskapoczta.pl.dostawa-orders.store^$all
 ||polskapoczta.polskaolerta.art^$all
 ||polskapoczta.polskaolerta.shop^$all
 ||polskapoczta.polskaolerta.xyz^$all
@@ -6067,6 +6074,7 @@
 ||termometr-na-podczerwien-pl.com^$all
 ||terntraveller.com^$all
 ||terpay.net^$all
+||tesla-polskaaa.icu^$all
 ||testcompetence.pl^$all
 ||testeryperfum.fcg.org.pl^$all
 ||test.maciejdudek.com.pl^$all
@@ -6874,12 +6882,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||coltoos.site^$all
-||inpost.pl-otrzymac.work^$all
-||jorted.site^$all
-||legalpl.site^$all
-||olx.dostawa-orders.shop^$all
-||olx.pl-otrzymac.shop^$all
-||olx.pl-otrzymac.xyz^$all
-||pay45-olx.info^$all
-||polskapoczta.pl.dostawa-orders.store^$all
