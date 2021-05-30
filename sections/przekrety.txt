@@ -2,6 +2,8 @@
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||lnpost.kody-odbioru.*^$all
 !||torrentos.pl^$all
+||swietny-organizm.com^$all
+||ketofitpatches.com^$all
 !||*dworzecporwaniepl.*^$document
 ||n95o0fxvvw.top^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
