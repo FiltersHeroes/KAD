@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 31 May 2021, 13:59 UTC+02
-! Version: 2021.5.31.0
+! Last modified: Mon, 31 May 2021, 17:06 UTC+02
+! Version: 2021.5.31.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4471,12 +4471,18 @@
 ||inpost.pl-safelycash.cyou^$all
 ||inpost.pl-safelycash.icu^$all
 ||inpost.pl-safelycash.shop^$all
+||inpost.pl-safelycash.work^$all
 ||inpost.pl-safeorder.com^$all
 ||inpost.pl-safepaid.cyou^$all
 ||inpost.pl-safepaid.icu^$all
 ||inpost.pl-safepaid.shop^$all
 ||inpost.pl-safepaid.work^$all
 ||inpost.pl-safepaid.xyz^$all
+||inpost.pl-savecost.cyou^$all
+||inpost.pl-savecost.icu^$all
+||inpost.pl-savecost.shop^$all
+||inpost.pl-savecost.work^$all
+||inpost.pl-savecost.xyz^$all
 ||inpost.pl-savingcash.cyou^$all
 ||inpost.pl-savingcash.icu^$all
 ||inpost.pl-savingcash.shop^$all
@@ -6172,6 +6178,7 @@
 ||olx.pl-success.icu^$all
 ||olx.pl-success.work^$all
 ||olx.pl-*.*^$document
+||olx.pl.buy-rec.pw^$all
 ||olx.pl.dostawa-orders.shop^$all
 ||olx.pl.dostawa-orders.store^$all
 ||olx.pl.dostawkafpl.me^$all
@@ -6384,9 +6391,13 @@
 ||oxford-centrum.com.pl^$all
 ||o-l-x.com^$all
 ||o-net1.pl^$all
+||o-net1.waw.pl^$all
 ||o-net2.pl^$all
+||o-net2.waw.pl^$all
 ||o-net3.pl^$all
+||o-net3.waw.pl^$all
 ||o-net4.pl^$all
+||o-net4.waw.pl^$all
 ||p0czta.net^$all
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
@@ -7077,6 +7088,7 @@
 ||pokrakowice.digital^$all
 ||polaczenie.xn.pl^$all
 ||polakczytellnik.cyou^$all
+||polandtok.site^$all
 ||polandverification9.wixsite.com^$all
 ||poland-dostawa.com^$all
 ||poland-oferta.live^$all
@@ -7619,6 +7631,7 @@
 ||safe-security.website^$all
 ||safe-service.inpost.cam^$all
 ||safe-service.inpost.codes^$all
+||safe-service.inpost.kim^$all
 ||safe.inpost.codes^$all
 ||salomonpl.pl^$all
 ||salomonpolska.pl^$all
@@ -7989,6 +8002,7 @@
 ||stearncommumiity.com^$all
 ||steawcomnunity.com^$all
 ||stefanstrzalkowski.pl^$all
+||sterlemo.site^$all
 ||stermccommunitty.ru^$all
 ||stevemadenpolska.com^$all
 ||stg.charoll.org^$all
@@ -8735,6 +8749,7 @@
 ||wybierz-nagrode.pl^$all
 ||wybierz-wyborce.eu^$all
 ||wyborcza-7.cleverapps.io^$all
+||wyborcza-24i.cleverapps.io^$all
 ||wyborcza.live^$all
 ||wybor-podpunktu.eu^$all
 ||wybor-reprezentanta.eu^$all
