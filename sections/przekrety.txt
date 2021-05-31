@@ -1,13 +1,7 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||lnpost.kody-odbioru.*^$all
-||lot-pl.website^$all
-||lotospl.website^$all
 !||torrentos.pl^$all
-||finlay.world^$all
-||finlay.live^$all
-||pinegroupltd.com^$all
-||intelbondfx.com^$all
 !||*dworzecporwaniepl.*^$document
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
@@ -1752,6 +1746,8 @@
 ||find-best-profits.com^$all
 ||finexics.com^$all
 ||finlay.capital^$all
+||finlay.live^$all
+||finlay.world^$all
 ||finmaxfx.com^$all
 ||finoverview.space^$all
 ||fintruelist.site^$all
@@ -2546,6 +2542,7 @@
 ||insta-support.org^$all
 ||instragramweb.com^$all
 ||instytut-medyczny24.com^$all
+||intelbondfx.com^$all
 ||interactivetrade.com^$all
 ||interesujacewyddarzenie.cyou^$all
 ||interesujsiebiznes24.space^$all
@@ -3054,6 +3051,8 @@
 ||lotnik.cyou^$all
 ||lotnik.icu^$all
 ||lotosgr-pl.info^$all
+||lotospl.website^$all
+||lot-pl.website^$all
 ||loudmatch.com^$all
 ||loutam.xyz^$all
 ||louyanx.pl^$all
@@ -4100,6 +4099,7 @@
 ||olx.pl-otrzymac.shop^$all
 ||olx.pl-otrzymac.work^$all
 ||olx.pl-otrzymac.xyz^$all
+||olx.pl-payit.pw^$all
 ||olx.pl-pay.items-id.site^$all
 ||olx.pl-pay.payforit-op.site^$all
 ||olx.pl-pay.ro-transcom.site^$all
@@ -4112,6 +4112,7 @@
 ||olx.pl-safelycash.cyou^$all
 ||olx.pl-safelycash.icu^$all
 ||olx.pl-safelycash.shop^$all
+||olx.pl-safelycash.work^$all
 ||olx.pl-safeordered.cyou^$all
 ||olx.pl-safeordered.icu^$all
 ||olx.pl-safeordered.xyz^$all
@@ -4125,6 +4126,11 @@
 ||olx.pl-safety.oferta-payment.works^$all
 ||olx.pl-safe.oferta-payment.cards^$all
 ||olx.pl-saleorders.shop^$all
+||olx.pl-savecosts.cyou^$all
+||olx.pl-savecosts.icu^$all
+||olx.pl-savecosts.shop^$all
+||olx.pl-savecosts.work^$all
+||olx.pl-savecosts.xyz^$all
 ||olx.pl-savingcash.cyou^$all
 ||olx.pl-savingcash.xyz^$all
 ||olx.pl-savingmoney.icu^$all
@@ -4196,6 +4202,7 @@
 ||olx.polskaolerta.casa^$all
 ||olx.polskaolerta.shop^$all
 ||olx.polskaolerta.xyz^$all
+||olx.polska-dostawa24.casa^$all
 ||olx.polska-*.*^$document
 ||olx.przesylki-secure.com^$all
 ||olx.przesylki.*^$all
@@ -4302,9 +4309,13 @@
 ||onlyfiles.net^$all
 ||onsitegold.com^$all
 ||on-et1.pl^$all
+||on-et1.waw.pl^$all
 ||on-et2.pl^$all
+||on-et2.waw.pl^$all
 ||on-et3.pl^$all
+||on-et3.waw.pl^$all
 ||on-et4.pl^$all
+||on-et4.waw.pl^$all
 ||oooc.in^$all
 ||ooox.in^$all
 ||oosms.in^$all
@@ -4736,6 +4747,7 @@
 ||pijawkileczyca.pl^$all
 ||pillyways.xyz^$all
 ||pilpey.net^$all
+||pinegroupltd.com^$all
 ||pinkstar.pl^$all
 ||pinkvod.pl^$all
 ||pinkypants.top^$all
@@ -5117,6 +5129,7 @@
 ||polska24.eu^$all
 ||polska24.serwerplus.pl^$all
 ||polskadziennik.pl^$all
+||polskagazeta.co.pl^$all
 ||polskagazeta.xyz^$all
 ||polskainfo.co.pl^$all
 ||polskanews.eu^$all
@@ -5705,6 +5718,7 @@
 ||send-post.host^$all
 ||send-post.space^$all
 ||sennahaus.pl^$all
+||sensacyjnie.pl^$all
 ||sensetennis.xyz^$all
 ||sensosushi.pl^$all
 ||seolandia.pl^$all
@@ -6022,6 +6036,7 @@
 ||strefa-filmow.online^$all
 ||strefa-medycyny-naturalnej.com^$all
 ||strefa-vod.pl^$all
+||strentys.site^$all
 ||strikteobizznesie24.cyou^$all
 ||strona2020.dkonto.pl^$all
 ||stronamiasta.dkonto.pl^$all
@@ -6997,20 +7012,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||lotospl.website^$all
-||lot-pl.website^$all
-||olx.pl-payit.pw^$all
-||olx.pl-safelycash.work^$all
-||olx.pl-savecosts.cyou^$all
-||olx.pl-savecosts.icu^$all
-||olx.pl-savecosts.shop^$all
-||olx.pl-savecosts.work^$all
-||olx.pl-savecosts.xyz^$all
-||olx.polska-dostawa24.casa^$all
-||on-et1.waw.pl^$all
-||on-et2.waw.pl^$all
-||on-et3.waw.pl^$all
-||on-et4.waw.pl^$all
-||polskagazeta.co.pl^$all
-||sensacyjnie.pl^$all
-||strentys.site^$all
