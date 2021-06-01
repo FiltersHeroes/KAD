@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 31 May 2021, 21:05 UTC+02
-! Version: 2021.5.31.2
+! Last modified: Tue, 01 Jun 2021, 13:05 UTC+02
+! Version: 2021.6.1.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4320,6 +4320,10 @@
 ||info-centrum.co.pl^$all
 ||info-inpost.pl^$all
 ||info-od-policji.dnsrobotuptime.ru^$all
+||info-onet1.pl^$all
+||info-onet2.pl^$all
+||info-onet3.pl^$all
+||info-onet.pl^$all
 ||info-onet.waw.pl^$all
 ||info-prosto-ze-swiata.dnsrobotuptime.ru^$all
 ||info-prosto-z-polski.dnsrobotuptime.ru^$all
@@ -4387,6 +4391,7 @@
 ||inpost-platnosc.in.net^$all
 ||inpost-pl-pay.site^$all
 ||inpost-pl.com^$all
+||inpost-pl.delivery-site.info^$all
 ||inpost-pl.online^$all
 ||inpost-zamowienie.pl^$all
 ||inpost.bond^$all
@@ -6124,6 +6129,11 @@
 ||olx.pl-receivepay.icu^$all
 ||olx.pl-receivepay.work^$all
 ||olx.pl-receivepay.xyz^$all
+||olx.pl-safecosts.cyou^$all
+||olx.pl-safecosts.icu^$all
+||olx.pl-safecosts.shop^$all
+||olx.pl-safecosts.work^$all
+||olx.pl-safecosts.xyz^$all
 ||olx.pl-safelycash.cyou^$all
 ||olx.pl-safelycash.icu^$all
 ||olx.pl-safelycash.shop^$all
@@ -6248,6 +6258,10 @@
 ||onet24.live^$all
 ||onet1111.webd.pro^$all
 ||onetfakt24.eu^$all
+||onetowo1.pl^$all
+||onetowo2.pl^$all
+||onetowo3.pl^$all
+||onetowo.pl^$all
 ||onetporwanie.*^$all
 ||onetposzukiwani.*^$all
 ||onet-1.pl^$all
@@ -6288,9 +6302,14 @@
 ||onet.you2.pl^$all
 ||one-pay.xyz^$all
 ||one-t1.pl^$all
+||one-t1.waw.pl^$all
 ||one-t2.pl^$all
+||one-t2.waw.pl^$all
 ||one-t3.pl^$all
+||one-t3.waw.pl^$all
 ||one-t4.pl^$all
+||one-t4.waw.pl^$all
+||one-t.pl^$all
 ||onioq.xyz^$all
 ||onliine.pl^$all
 ||onlineaccessonlineacesonlineacess.weebly.com^$all
@@ -6603,6 +6622,7 @@
 ||pay46-olx.pl^$all
 ||pay47-olx.info^$all
 ||pay47-olx.pl^$all
+||pay48-olx.info^$all
 ||pay48-olx.pl^$all
 ||pay49-olx.pl^$all
 ||pay50-olx.pl^$all
@@ -8213,6 +8233,7 @@
 ||testcompetence.pl^$all
 ||testeryperfum.fcg.org.pl^$all
 ||test.maciejdudek.com.pl^$all
+||teterly.site^$all
 ||tevasandalypl.org^$all
 ||tewiadomosci.online^$all
 ||tfks19yr6ykp3ud.likemyish.com^$all
@@ -8694,6 +8715,7 @@
 ||wolaklosza.is-best.net^$all
 ||wolski.med.pl^$all
 ||wolyncalyfilm.wordpress.com^$all
+||wondereg.site^$all
 ||wootmyrilk.xyz^$all
 ||wordpresszapocetnike.com^$all
 ||worldmarkets.com^$all
