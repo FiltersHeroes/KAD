@@ -3,6 +3,7 @@
 !||lnpost.kody-odbioru.*^$all
 !||torrentos.pl^$all
 !||*dworzecporwaniepl.*^$document
+||european-news.org^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -6990,7 +6991,7 @@
 ||zakupshop.com^$all
 ||zakup-olx.pl^$all
 ||zalbani.is-best.net^$all
-||zalukaj*.*^$document,domain=~zalukaj.com
+||zalukaj*.*^$document,domain=~zalukaj.vip
 ||zamawianie-ogloszenia.com^$all
 ||zamknij.you2.pl^$all
 ||zap588693-1.plesk10.zap-webspace.com^$all
