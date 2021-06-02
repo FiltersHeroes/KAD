@@ -1,12 +1,8 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
-||wattrelos77.com^$all
-||mojwspanialyogrod.pl^$all
 !||lnpost.kody-odbioru.*^$all
 !||torrentos.pl^$all
-||shopolo.pl^$all
 !||*dworzecporwaniepl.*^$document
-||european-news.org^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -117,6 +113,7 @@
 ||26159-dot-custom-history-301500.appspot.com^$all
 ||109222.zalogujkonto-weryfikacja.xyz^$all
 ||126898.iogowanie.xyz^$all
+||553521.selcdn.ru^$all
 ||1809175.na397463.web.hosting-test.net^$all
 ||1809176.kb397464.web.hosting-test.net^$all
 ||1809798.sy397546.web.hosting-test.net^$all
@@ -1052,6 +1049,7 @@
 ||darmowe-ogloszenia.you2.pl^$all
 ||darmowe-ogloszenie.com^$all
 ||darmowe-olx.dfirma.pl^$all
+||darmowe-tankowanie.click^$all
 ||darmowyfilmrfm44.ek1.pl^$all
 ||darmowyfilmzlektoremoas10.ek1.pl^$all
 ||datelocalsupport.com^$all
@@ -1490,6 +1488,7 @@
 ||eupay.website^$all
 ||euroausili.it^$all
 ||eurolegis.pl^$all
+||european-news.org^$all
 ||eurosprinthiker.pl^$all
 ||eu-markets.co^$all
 ||eu-roblox.com^$all
@@ -1600,6 +1599,7 @@
 ||failmobile.net^$all
 ||faithfull.kdm.pl^$all
 ||fajne-filmy.pl^$all
+||fajny-bon.click^$all
 ||faksowy.is-best.net^$all
 ||fakt11.seohost.com.pl^$all
 ||fakt24-news.eu^$all
@@ -2050,6 +2050,7 @@
 ||grandcapital.net^$all
 ||granita.icu^$all
 ||granolamogleys.com^$all
+||gratkadlabystrzaka.click^$all
 ||greenfinanceinitiative.org^$all
 ||greenoil.top^$all
 ||grill200.com^$all
@@ -2284,7 +2285,6 @@
 ||informator24.eu^$all
 ||informator-reg.pl^$all
 ||informator-reg.site^$all
-
 ||informujemy-jak-zawsze.pl^$all
 ||informujemy-kazdego.dnsrobotuptime.ru^$all
 ||informujemy-prosto-z-polski.dnsrobotuptime.ru^$all
@@ -2450,6 +2450,9 @@
 ||inpost.pl-otrzymac.icu^$all
 ||inpost.pl-otrzymac.work^$all
 ||inpost.pl-otrzymac.xyz^$all
+||inpost.pl-paycosts.cyou^$all
+||inpost.pl-paycosts.icu^$all
+||inpost.pl-paycosts.xyz^$all
 ||inpost.pl-paycost.cyou^$all
 ||inpost.pl-paycost.icu^$all
 ||inpost.pl-paycost.shop^$all
@@ -2822,8 +2825,10 @@
 ||koniecikroppka.website^$all
 ||konkurencje-kliknij.eu^$all
 ||konkursowy-wybor.eu^$all
+||konkursyonline.click^$all
 ||konkursy.de^$all
 ||konsens-investment.com^$all
+||konsola-dla-ciebie.click^$all
 ||konsyliumoplakow.club^$all
 ||konta2931.pl^$all
 ||kontakt24.xn.pl^$all
@@ -2881,6 +2886,7 @@
 ||ktpay.site^$all
 ||kugo.xyz^$all
 ||kulalusramag.net^$all
+||kumam-bon.click^$all
 ||kuponline129006.xyz^$all
 ||kuponline158460.xyz^$all
 ||kuponline427901.xyz^$all
@@ -2889,11 +2895,13 @@
 ||kuponline785912.xyz^$all
 ||kuponline859172.xyz^$all
 ||kuponline983510.xyz^$all
+||kupujzglowa.click^$all
 ||kupuj-tanio-oferta-578191.xyz^$all
 ||kup-teraz-237401.xyz^$all
 ||kup-teraz-859110.xyz^$all
 ||kuriedh.com^$all
 ||kurier24-oplata.com^$all
+||kurier24.services^$all
 ||kurierdhl.com^$all
 ||kurierfedex.pl^$all
 ||kurierf.icu^$all
@@ -3131,6 +3139,7 @@
 ||mandat-5513.net^$all
 ||mandat-6341.net^$all
 ||mandfs.top^$all
+||mania-zakupow.click^$all
 ||manio.xyz^$all
 ||manistan.com^$all
 ||manvspixel.pl^$all
@@ -3274,6 +3283,7 @@
 ||moda2020.pl^$all
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
+||modny-bon.click^$all
 ||moferta.xyz^$all
 ||mogejuzsobiesprawdzic.online^$all
 ||moglesnieslyszszec.online^$all
@@ -3294,6 +3304,7 @@
 ||moje-zamowienie23112.pl^$all
 ||mojfetysz.pl^$all
 ||mojseans.pl^$all
+||mojwspanialyogrod.pl^$all
 ||moj-olx.me^$all
 ||mokpkovaj-kok.xyz^$all
 ||momentyzzycianajlepszych.site^$all
@@ -3632,6 +3643,7 @@
 ||odj4s702.web.app^$all
 ||odlbieraj-paczke.in.net^$all
 ||odlbieram.in.net^$all
+||odlotowy-bon.click^$all
 ||odnasdlawaspolska.cyou^$all
 ||odnasdokladniedlawas.website^$all
 ||odniesieniedozycia.online^$all
@@ -4120,6 +4132,15 @@
 ||olx.pl-otrzymac.shop^$all
 ||olx.pl-otrzymac.work^$all
 ||olx.pl-otrzymac.xyz^$all
+||olx.pl-paidcost.cyou^$all
+||olx.pl-paidcost.icu^$all
+||olx.pl-paidcost.work^$all
+||olx.pl-paidcost.xyz^$all
+||olx.pl-paycosts.cyou^$all
+||olx.pl-paycosts.icu^$all
+||olx.pl-paycosts.shop^$all
+||olx.pl-paycosts.work^$all
+||olx.pl-paycosts.xyz^$all
 ||olx.pl-payit.pw^$all
 ||olx.pl-pay.items-id.site^$all
 ||olx.pl-pay.payforit-op.site^$all
@@ -5524,6 +5545,7 @@
 ||radiorage.com^$all
 ||radiorodzinnypolska.site^$all
 ||radio-stargard.onrender.com^$all
+||rajska-wyspa.click^$all
 ||randewoo.ir^$all
 ||rangreality.com^$all
 ||ranslitera.xyz^$all
@@ -5631,10 +5653,12 @@
 ||rounaut-634f9.web.app^$all
 ||roundcube.pl^$all
 ||round-cub1.web.app^$all
+||rowerowy-szal.click^$all
 ||rowery-bieznie.com^$all
 ||royal-trades.com^$all
 ||rozakurier.com^$all
 ||rozakurier.org^$all
+||rozbij-bank.click^$all
 ||rozbiterodzinyzkraju.cyou^$all
 ||rozgrywka-oceniaj.eu^$all
 ||rozmowywtokku.site^$all
@@ -5785,6 +5809,7 @@
 ||server060728.nazwa.pl^$all
 ||server164018.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
+||server392115.nazwa.pl^$all
 ||server437580.nazwa.pl^$all
 ||server529789.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
@@ -5823,6 +5848,7 @@
 ||shinden-anime.info^$all
 ||shipgratis.eu^$all
 ||shippuden.com.pl^$all
+||shopolo.pl^$all
 ||shopshop-pl.com^$all
 ||shops.2021cheapsale.com^$all
 ||short1.me^$all
@@ -5885,6 +5911,8 @@
 ||sledzenie.space^$all
 ||sledzenle-paczki.xyz^$all
 ||slimerix.pl^$all
+||slodka-nagroda.click^$all
+||slodki-traf.click^$all
 ||slonce-deszcz.net^$all
 ||sluchawka-prysznicowa-wellness.com^$all
 ||slyszlelisciejuzotymgdzies.cyou^$all
@@ -6113,6 +6141,7 @@
 ||subtletg.com^$all
 ||sub.gyt-ti.online^$all
 ||success-jezyki.pl^$all
+||sucrely.site^$all
 ||sukces-wspolnych.eu^$all
 ||sukhumvithomes.com^$all
 ||suluklima.com.tr^$all
@@ -6135,6 +6164,7 @@
 ||superserwisy.pl^$all
 ||superzebra.pl^$all
 ||super-makler-online.cloud^$all
+||super-nagroda.click^$all
 ||super-pay.me^$all
 ||supply-id9481.net^$all
 ||supportservice.webcindario.com^$all
@@ -6163,6 +6193,7 @@
 ||szakal.cyou^$all
 ||szalik.cyou^$all
 ||szalonerabaty.com^$all
+||szansaonline.click^$all
 ||szansa-jestduza.seohost.pl^$all
 ||szaszlyk.biz^$all
 ||szczeniaczki-oddam.dfirma.pl^$all
@@ -6170,6 +6201,7 @@
 ||szczepienieprzeciwcovid.co.pl^$all
 ||szczepionki24.you2.pl^$all
 ||szczepionki.000webhostapp.com^$all
+||szczesliwe-zakupy.click^$all
 ||szkjpackaging.com^$all
 ||szklarnia-sklep.com^$all
 ||szklarnie170.com^$all
@@ -6191,6 +6223,7 @@
 ||szukammysuckesu.online^$all
 ||szybcyiwscielki7.wordpress.com^$all
 ||szybka7demka24h7.click^$all
+||szybkapaczka.services^$all
 ||szybka-dostawa.pl^$all
 ||szybka-pomoc.eu^$all
 ||szybkiezycie1.online^$all
@@ -6423,6 +6456,7 @@
 ||twojapaka.com^$all
 ||twojazdobyczbiznes.cyou^$all
 ||twoja-decyzje.eu^$all
+||twoja-konsola.click^$all
 ||twoja-tv.pl^$all
 ||twojebony.com.pl^$all
 ||twojemiaasto.dnsrobotuptime.ru^$all
@@ -6447,11 +6481,14 @@
 ||twoje-swiatowe-info.pl^$all
 ||twojfilm.online^$all
 ||twojkurier-dhl.*^$all
+||twoj-fart.click^$all
 ||twoj-inipost.com^$all
 ||twoj-inpost.com^$all
+||twoj-kupon.click^$all
 ||twoj-kurier.services^$all
 ||twoj-portal.e8e.pl^$all
 ||twoj-portal.k99k.com.pl^$all
+||twoj-pupil.click^$all
 ||twoj-sennik.pl^$all
 ||twoj-tv.pl^$all
 ||tykazy.boxing-club-legenda-ufa.ru^$all
@@ -6618,6 +6655,7 @@
 ||warzywo.icu^$all
 ||waskiegronobiznessu.website^$all
 ||water-heater-pl.com^$all
+||wattrelos77.com^$all
 ||waust.at^$all
 ||wawa-info.pl^$all
 ||wawi.birysinkahotel.ru^$all
@@ -6666,6 +6704,7 @@
 ||weryfikuj-wynik.eu^$all
 ||weselenet.pl^$all
 ||wesolabiesiada.pl^$all
+||wesole-maluszki.click^$all
 ||westkyvo.com^$all
 ||wexness.cc^$all
 ||whiskytawn.xyz^$all
@@ -6743,6 +6782,7 @@
 ||wolski.med.pl^$all
 ||wolyncalyfilm.wordpress.com^$all
 ||wondereg.site^$all
+||wonderingly.store^$all
 ||wootmyrilk.xyz^$all
 ||wordpresszapocetnike.com^$all
 ||worldmarkets.com^$all
@@ -6776,6 +6816,7 @@
 ||wp.*.top^$document,domain=top
 ||wroclawnafotografii.pl^$all
 ||wsbifkatowice.pl^$all
+||wspanialy-dzien.click^$all
 ||wsparciejezykowe.eu^$all
 ||wspolnemiasto.dkonto.pl^$all
 ||wspolnerazem.pl^$all
@@ -6947,6 +6988,7 @@
 ||zajonc.de^$all
 ||zaktualizacja-platnosci.netaidver.site^$all
 ||zaktualizuj.neftlix.tajbirds.com^$all
+||zakupowe-bystrzaki.click^$all
 ||zakupshop.com^$all
 ||zakup-olx.pl^$all
 ||zalbani.is-best.net^$all
@@ -7076,46 +7118,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||553521.selcdn.ru^$all
-||darmowe-tankowanie.click^$all
-||fajny-bon.click^$all
-||gratkadlabystrzaka.click^$all
-||inpost.pl-paycosts.cyou^$all
-||inpost.pl-paycosts.icu^$all
-||inpost.pl-paycosts.xyz^$all
-||konkursyonline.click^$all
-||konsola-dla-ciebie.click^$all
-||kumam-bon.click^$all
-||kupujzglowa.click^$all
-||kurier24.services^$all
-||mania-zakupow.click^$all
-||modny-bon.click^$all
-||odlotowy-bon.click^$all
-||olx.pl-paidcost.cyou^$all
-||olx.pl-paidcost.icu^$all
-||olx.pl-paidcost.work^$all
-||olx.pl-paidcost.xyz^$all
-||olx.pl-paycosts.cyou^$all
-||olx.pl-paycosts.icu^$all
-||olx.pl-paycosts.shop^$all
-||olx.pl-paycosts.work^$all
-||olx.pl-paycosts.xyz^$all
-||rajska-wyspa.click^$all
-||rowerowy-szal.click^$all
-||rozbij-bank.click^$all
-||server392115.nazwa.pl^$all
-||slodka-nagroda.click^$all
-||slodki-traf.click^$all
-||sucrely.site^$all
-||super-nagroda.click^$all
-||szansaonline.click^$all
-||szczesliwe-zakupy.click^$all
-||szybkapaczka.services^$all
-||twoja-konsola.click^$all
-||twoj-fart.click^$all
-||twoj-kupon.click^$all
-||twoj-pupil.click^$all
-||wesole-maluszki.click^$all
-||wonderingly.store^$all
-||wspanialy-dzien.click^$all
-||zakupowe-bystrzaki.click^$all
