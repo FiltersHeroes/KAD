@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 02 Jun 2021, 19:39 UTC+02
-! Version: 2021.6.2.2
+! Last modified: Wed, 02 Jun 2021, 21:05 UTC+02
+! Version: 2021.6.2.3
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2018,9 +2018,7 @@
 ! Przekręty
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
-!||lnpost.kody-odbioru.*^$all
 !||torrentos.pl^$all
-!||*dworzecporwaniepl.*^$document
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -2701,6 +2699,7 @@
 ||buergerliste-eppan.eu^$all
 ||bundle-deals.com^$all
 ||bungalowsentertainment.com^$all
+||bureaulimited.ltd^$all
 ||burgerbrothers.pl^$all
 ||business-chat-commands.com^$all
 ||business-command.com^$all
@@ -3412,6 +3411,7 @@
 ||eclass47.duckdns.org^$all
 ||ecoblast.pl^$all
 ||ecomobilni.pl^$all
+||eco-paczka24.com^$all
 ||edland.pro^$all
 ||edziennik.xyz^$all
 ||eero-systems.xyz^$all
@@ -4425,6 +4425,7 @@
 ||inpost.payouts.xyz^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
+||inpost.pl-comtrade.site^$all
 ||inpost.pl-delivery.pw^$all
 ||inpost.pl-fastdelivery.cyou^$all
 ||inpost.pl-fastdelivery.icu^$all
@@ -4468,6 +4469,7 @@
 ||inpost.pl-otrzymac.icu^$all
 ||inpost.pl-otrzymac.work^$all
 ||inpost.pl-otrzymac.xyz^$all
+||inpost.pl-paidcosts.icu^$all
 ||inpost.pl-paycosts.cyou^$all
 ||inpost.pl-paycosts.icu^$all
 ||inpost.pl-paycosts.xyz^$all
@@ -5302,6 +5304,7 @@
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
 ||modny-bon.click^$all
+||modred.site^$all
 ||moferta.xyz^$all
 ||mogejuzsobiesprawdzic.online^$all
 ||moglesnieslyszszec.online^$all
@@ -6044,6 +6047,9 @@
 ||olx.dostawa-orders.store^$all
 ||olx.dostawa-orders.xyz^$all
 ||olx.dostawa-pl.*^$all
+||olx.dostawa-polska.biz^$all
+||olx.dostawa-polska.shop^$all
+||olx.dostawa-polska.xyz^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all
 ||olx.dostawkafpl.cyou^$all
@@ -6152,6 +6158,7 @@
 ||olx.pl-otrzymac.xyz^$all
 ||olx.pl-paidcost.cyou^$all
 ||olx.pl-paidcost.icu^$all
+||olx.pl-paidcost.shop^$all
 ||olx.pl-paidcost.work^$all
 ||olx.pl-paidcost.xyz^$all
 ||olx.pl-paycosts.cyou^$all
@@ -6295,6 +6302,9 @@
 ||omrolsztyn.neostrada.pl^$all
 ||onatozrobila.xyz^$all
 ||onclickbright.com^$all
+||onecik1.pl^$all
+||onecik2.pl^$all
+||onecik3.pl^$all
 ||onedrive-pl.cyou^$all
 ||onemed.com.pl^$all
 ||onet24pl.pvi.pl^$all
@@ -6677,6 +6687,7 @@
 ||pay51-olx.pl^$all
 ||pay52-olx.info^$all
 ||pay52-olx.pl^$all
+||pay53-olx.info^$all
 ||pay53-olx.pl^$all
 ||pay55-olx.pl^$all
 ||pay56-olx.pl^$all
@@ -7920,6 +7931,7 @@
 ||skrocto.pl^$all
 ||skunks.cyou^$all
 ||skuter.c0.pl^$all
+||skylineprofits.co.uk^$all
 ||slaweklenart.pl^$all
 ||sledzenie-24.xyz^$all
 ||sledzenie-paczki.in.net^$all
@@ -9489,4 +9501,7 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
 !#endif
 !#if !ext_ublock
 !#include sections/specjalne_AG.txt
+!#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
+!#include sections/specjalne_AG_apps.txt
+!#endif
 !#endif
