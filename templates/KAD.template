@@ -43,4 +43,7 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
 !#endif
 !#if !ext_ublock
 !#include sections/specjalne_AG.txt
+!#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
+!#include sections/specjalne_AG_apps.txt
+!#endif
 !#endif
