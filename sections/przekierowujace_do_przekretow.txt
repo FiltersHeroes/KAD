@@ -1,9 +1,8 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document
 !/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 /^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
-||9dcm.net^$all
-||rosehipsandrhubarb.com^$all
 ||0n.click^$all
+||9dcm.net^$all
 ||34q22.cn^$all
 ||abrakasba.space^$all
 ||academy-bitcoin.com^$all
@@ -158,6 +157,7 @@
 ||rescatecili.ml^$all
 ||rfv.pl^$all
 ||risecrypto.net^$all
+||rosehipsandrhubarb.com^$all
 ||rossmannpromocja.pl^$all
 ||sauwoaptain.com^$all
 ||schington.com^$all

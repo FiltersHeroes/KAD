@@ -1,9 +1,4 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
-||freegift.rfteeeu.cn^$all
-||todaysgift.net^$all
-||onlineluck.net^$all
-||promocja-dla-ciebie.com^$all
-||twojbon.com^$all
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
@@ -1007,6 +1002,7 @@
 ||d1t1aszt9orebq.cloudfront.net^$all
 ||d1tk7i92ddxa0d.cloudfront.net^$all
 ||d1ud788mmh5bcn.cloudfront.net^$all
+||d1w1v3ojv0zhmo.cloudfront.net^$all
 ||d1wp11q15apzub.cloudfront.net^$all
 ||d2ex13hr728klp.cloudfront.net^$all
 ||d2gspr8vzzzo02.cloudfront.net^$all
@@ -1829,6 +1825,7 @@
 ||fra-netflix.com^$all
 ||freefollower.eu^$all
 ||freegiftcode.com^$all
+||freegift.rfteeeu.cn^$all
 ||freehackpl.com^$all
 ||freeminecraftgiftcode.net^$all
 ||freeminecraft.cc^$all
@@ -2113,6 +2110,7 @@
 ||herngell-our.web.app^$all
 ||herrola.com^$all
 ||heto.krym-print.ru^$all
+||heuto.site^$all
 ||hexistrading.com^$all
 ||heyisitmefriend.tcp4.me^$all
 ||hgssa.browla.com^$all
@@ -2680,6 +2678,7 @@
 ||jednosc.online^$all
 ||jednotrzebapodkreslic.site^$all
 ||jejodo.life^$all
+||jeromesto.store^$all
 ||jeslichodziototak.site^$all
 ||jesliwidzieliscie.online^$all
 ||jestemnatak.dkonto.pl^$all
@@ -4143,6 +4142,11 @@
 ||olx.pl-otrzymac.shop^$all
 ||olx.pl-otrzymac.work^$all
 ||olx.pl-otrzymac.xyz^$all
+||olx.pl-paidcosts.cyou^$all
+||olx.pl-paidcosts.icu^$all
+||olx.pl-paidcosts.shop^$all
+||olx.pl-paidcosts.work^$all
+||olx.pl-paidcosts.xyz^$all
 ||olx.pl-paidcost.cyou^$all
 ||olx.pl-paidcost.icu^$all
 ||olx.pl-paidcost.shop^$all
@@ -4239,6 +4243,7 @@
 ||olx.pl-success.work^$all
 ||olx.pl-*.*^$document
 ||olx.pl.buy-rec.pw^$all
+||olx.pl.comtrans-id.site^$all
 ||olx.pl.dostawa-orders.shop^$all
 ||olx.pl.dostawa-orders.store^$all
 ||olx.pl.dostawkafpl.me^$all
@@ -4361,6 +4366,7 @@
 ||onlinegettin-bank.com^$all
 ||onlinehd.pl^$all
 ||onlinekino.pl^$all
+||onlineluck.net^$all
 ||onlinenews72.dfirma.pl^$all
 ||onlineprzelew.online^$all
 ||onlineprzelew.site^$all
@@ -5461,6 +5467,7 @@
 ||promocjabuty.pl^$all
 ||promocjasklep.com^$all
 ||promocjavan.com^$all
+||promocja-dla-ciebie.com^$all
 ||promocjeadidas.pl^$all
 ||pronhubhd.com^$all
 ||propdfconverter.com^$all
@@ -6348,6 +6355,7 @@
 ||tobylodzisranowtvv.cyou^$all
 ||tobylowczoraj.xyz^$all
 ||tobyniczegoniezmienilo.cyou^$all
+||todaysgift.net^$all
 ||today-topnews.com^$all
 ||todolize.com^$all
 ||todosiebiiepassuje.club^$all
@@ -6475,6 +6483,7 @@
 ||twoja-decyzje.eu^$all
 ||twoja-konsola.click^$all
 ||twoja-tv.pl^$all
+||twojbon.com^$all
 ||twojebony.com.pl^$all
 ||twojemiaasto.dnsrobotuptime.ru^$all
 ||twojetv.pl^$all
@@ -7135,12 +7144,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||d1w1v3ojv0zhmo.cloudfront.net^$all
-||heuto.site^$all
-||jeromesto.store^$all
-||olx.pl.comtrans-id.site^$all
-||olx.pl-paidcosts.cyou^$all
-||olx.pl-paidcosts.icu^$all
-||olx.pl-paidcosts.shop^$all
-||olx.pl-paidcosts.work^$all
-||olx.pl-paidcosts.xyz^$all
