@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 04 Jun 2021, 17:05 UTC+02
-! Version: 2021.6.4.1
+! Last modified: Fri, 04 Jun 2021, 21:05 UTC+02
+! Version: 2021.6.4.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3158,6 +3158,7 @@
 ||dhl24-paczka.com^$all
 ||dhltrack.pvi.pl^$all
 ||dhl-costumers.net^$all
+||dhl-dostawa.com^$all
 ||dhl-parcel24.com^$all
 ||dhl-twojkurier.com^$all
 ||dietasekret.pl^$all
@@ -6184,6 +6185,7 @@
 ||olx.pl-livepay.cyou^$all
 ||olx.pl-livepay.icu^$all
 ||olx.pl-livepay.shop^$all
+||olx.pl-livepay.work^$all
 ||olx.pl-livepay.xyz^$all
 ||olx.pl-ofertbuy.xyz^$all
 ||olx.pl-otrzymac.icu^$all
@@ -8489,6 +8491,7 @@
 ||trampolshop.com^$all
 ||transakcja24.com^$all
 ||transbox.org^$all
+||transferpey.com^$all
 ||transfer-olx.gq^$all
 ||transmis.xyz^$all
 ||transportujemy.net^$all
