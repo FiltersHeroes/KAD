@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 05 Jun 2021, 13:09 UTC+02
-! Version: 2021.6.5.0
+! Last modified: Sat, 05 Jun 2021, 17:05 UTC+02
+! Version: 2021.6.5.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -6128,6 +6128,7 @@
 ||olx.pink^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-541069065.site^$all
 ||olx.pl-fastdelivery.cyou^$all
 ||olx.pl-fastdelivery.icu^$all
 ||olx.pl-fastdelivery.shop^$all
@@ -6193,6 +6194,8 @@
 ||olx.pl-livepaid.xyz^$all
 ||olx.pl-livepays.cyou^$all
 ||olx.pl-livepays.icu^$all
+||olx.pl-livepays.shop^$all
+||olx.pl-livepays.work^$all
 ||olx.pl-livepays.xyz^$all
 ||olx.pl-livepay.cyou^$all
 ||olx.pl-livepay.icu^$all
@@ -6319,6 +6322,7 @@
 ||olx.pl.oferta-payment.fit^$all
 ||olx.pl.oferta-payment.works^$all
 ||olx.pl.payfor-id.site^$all
+||olx.pl.paytrans.site^$all
 ||olx.pl.pay-reg.pw^$all
 ||olx.pl.rec-pay.site^$all
 ||olx.pl.rek-transfer.pw^$all
@@ -6760,6 +6764,7 @@
 ||pay58-olx.pl^$all
 ||pay59-olx.pl^$all
 ||pay60-olx.pl^$all
+||pay61-olx.info^$all
 ||pay61-olx.pl^$all
 ||pay62-olx.pl^$all
 ||pay63-olx.pl^$all
