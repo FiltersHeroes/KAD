@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 06 Jun 2021, 21:06 UTC+02
-! Version: 2021.6.6.2
+! Last modified: Mon, 07 Jun 2021, 13:05 UTC+02
+! Version: 2021.6.7.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -218,6 +218,7 @@
 ||butymizunopolska.com^$all
 ||butyplsklep.com^$all
 ||butypremium.pl^$all
+||butypuma.pl^$all
 ||butyreebokonline.pl^$all
 ||butyreebokpolska.com^$all
 ||butyrockport.pl^$all
@@ -349,6 +350,7 @@
 ||dobrepozycje.pl^$all
 ||dobrykredyt.co.pl^$all
 ||dobrzebuty.top^$all
+||docmartenssklep.com^$all
 ||doktorszczescie.pl^$all
 ||dombuczki.pl^$all
 ||domekpoddebami.pl^$all
@@ -1159,6 +1161,7 @@
 ||programyhakerskie.pl^$all
 ||prokino.pl^$all
 ||promeblemania.pl^$all
+||promocjabutynk.com^$all
 ||promocjaeuro.pl^$all
 ||proobuwie.pl^$all
 ||protesttaxi.pl^$all
@@ -1261,6 +1264,7 @@
 ||salomonbuty.com^$all
 ||salomonbuty.pl^$all
 ||salomonpolska.com^$all
+||salomonsklep.pl^$all
 ||salon-adriatyk.pl^$all
 ||sameperelki.shop^$all
 ||samsung-klimatyzacja.pl^$all
@@ -1372,6 +1376,7 @@
 ||spsienno.pl^$all
 ||srkgs.pl^$all
 ||sroka-online.pl^$all
+||ssklep.in.net^$all
 ||stalsrubiarnia.pl^$all
 ||starshipsanctuary.pl^$all
 ||stawiamyslady.pl^$all
@@ -1443,6 +1448,7 @@
 ||testerownia24h.pl^$all
 ||testony.com^$all
 ||tevasandalypolska.pl^$all
+||tevasklep.com^$all
 ||tfaz.pl^$all
 ||theangelblankets.co^$all
 ||thenorthfacesklep.com^$all
@@ -2496,6 +2502,7 @@
 ||beforppl995.club^$all
 ||begalleo.com^$all
 ||begin.digitabook.net^$all
+||begood4ppl95.casa^$all
 ||behlenjoiner.com^$all
 ||beis-media.xyz^$all
 ||beka.pl^$all
@@ -4111,6 +4118,9 @@
 ||helianthus.com.pl^$all
 ||helloworld.ddnsking.com^$all
 ||helpeachother277.cyou^$all
+||helpeachother422.casa^$all
+||helpishere577.casa^$all
+||helpishere577.club^$all
 ||helploginn.moonfruit.com^$all
 ||herngell-our.web.app^$all
 ||herrola.com^$all
@@ -4461,9 +4471,12 @@
 ||inpost.pl-livepay.xyz^$all
 ||inpost.pl-livespaid.cyou^$all
 ||inpost.pl-livespaid.icu^$all
+||inpost.pl-livespaid.shop^$all
+||inpost.pl-livespaid.work^$all
 ||inpost.pl-livespaid.xyz^$all
 ||inpost.pl-livespays.cyou^$all
 ||inpost.pl-livespays.icu^$all
+||inpost.pl-livespays.shop^$all
 ||inpost.pl-livespays.work^$all
 ||inpost.pl-livespays.xyz^$all
 ||inpost.pl-livespay.cyou^$all
@@ -5341,6 +5354,7 @@
 ||momoxxio.com^$all
 ||money-for-you-*.ru^$all
 ||monfex.com^$all
+||mongorit.uno^$all
 ||monitorfx.pl^$all
 ||monitoring-pocztapolska.net^$all
 ||monivpl.weebly.com^$all
@@ -5854,6 +5868,7 @@
 ||olxpoland.org^$all
 ||olxpol.info^$all
 ||olxpotwierdzenie.pl^$all
+||olxpo-land.cc^$all
 ||olxprzesylka.express^$all
 ||olxp-getpay.work^$all
 ||olxsafepay.pl^$all
@@ -5994,6 +6009,7 @@
 ||olx-pl.pro^$all
 ||olx-pl.pw^$all
 ||olx-pl.ru-*.*^$all
+||olx-pl.safeorder.co^$all
 ||olx-pl.safe-delivery.win^$all
 ||olx-pl.su^$all
 ||olx-pl.today^$all
@@ -6089,6 +6105,7 @@
 ||olx.moferta.live^$all
 ||olx.myofferta.casa^$all
 ||olx.my-dostawa.bond^$all
+||olx.my-dostawa.digital^$all
 ||olx.m-inposta.site^$all
 ||olx.oferda-pl.biz^$all
 ||olx.oferda-pl.life^$all
@@ -6174,6 +6191,9 @@
 ||olx.pl-give.shop^$all
 ||olx.pl-give.work^$all
 ||olx.pl-give.xyz^$all
+||olx.pl-livecash.cyou^$all
+||olx.pl-livecash.icu^$all
+||olx.pl-livecash.xyz^$all
 ||olx.pl-livepaid.cyou^$all
 ||olx.pl-livepaid.icu^$all
 ||olx.pl-livepaid.shop^$all
@@ -6188,6 +6208,9 @@
 ||olx.pl-livepay.shop^$all
 ||olx.pl-livepay.work^$all
 ||olx.pl-livepay.xyz^$all
+||olx.pl-livespaid.shop^$all
+||olx.pl-livespaid.work^$all
+||olx.pl-livespaid.xyz^$all
 ||olx.pl-livespays.cyou^$all
 ||olx.pl-livespays.icu^$all
 ||olx.pl-livespays.shop^$all
@@ -6364,6 +6387,10 @@
 ||onecik1.pl^$all
 ||onecik2.pl^$all
 ||onecik3.pl^$all
+||onecik-1.pl^$all
+||onecik-2.pl^$all
+||onecik-3.pl^$all
+||onecik-4.pl^$all
 ||onedrive-pl.cyou^$all
 ||onemed.com.pl^$all
 ||onet24pl.pvi.pl^$all
@@ -6761,7 +6788,9 @@
 ||pay62-olx.pl^$all
 ||pay63-olx.info^$all
 ||pay63-olx.pl^$all
+||pay64-olx.info^$all
 ||pay64-olx.pl^$all
+||pay65-olx.info^$all
 ||pay65-olx.pl^$all
 ||pay66-olx.pl^$all
 ||pay67-olx.pl^$all
@@ -6839,6 +6868,7 @@
 ||penir.org^$all
 ||pensjonatsportowy.pl^$all
 ||peopeyo.net^$all
+||people4people488.cyou^$all
 ||perfectbrush360.pl^$all
 ||perfect-movies.xyz^$all
 ||performancevitality.net^$all
@@ -7303,6 +7333,8 @@
 ||polskapoczta.dostawa-orders.xyz^$all
 ||polskapoczta.myofferta.casa^$all
 ||polskapoczta.myofferta.work^$all
+||polskapoczta.my-dostawa.bond^$all
+||polskapoczta.my-dostawa.digital^$all
 ||polskapoczta.olxkontosos.casa^$all
 ||polskapoczta.ploferta365.live^$all
 ||polskapoczta.ploferta365.xyz^$all
@@ -8040,6 +8072,7 @@
 ||smsn.in^$all
 ||smsoo.in^$all
 ||smsto.in^$all
+||smsww.in^$all
 ||smsxx.in^$all
 ||smsy24.pl^$all
 ||smszo.in^$all
@@ -8436,6 +8469,8 @@
 ||tobylodzisranowtvv.cyou^$all
 ||tobylowczoraj.xyz^$all
 ||tobyniczegoniezmienilo.cyou^$all
+||todayreact511.casa^$all
+||todayreact511.club^$all
 ||todaysgift.net^$all
 ||today-topnews.com^$all
 ||todolize.com^$all
@@ -8788,6 +8823,8 @@
 ||web-cryptocurrency.com^$all
 ||web-vb3.web.app^$all
 ||wecanfindthem155.club^$all
+||wecanfindu910.casa^$all
+||wecanfindu910.club^$all
 ||wecopa.avtopodbor-profinn.ru^$all
 ||weekend24.online^$all
 ||wegiel.icu^$all
@@ -8812,6 +8849,7 @@
 ||wesole-maluszki.click^$all
 ||westkyvo.com^$all
 ||wexness.cc^$all
+||wherearethey006.cyou^$all
 ||whiteflix.pl^$all
 ||whiteoutsolutions.technology^$all
 ||wiadomosci24polska.pl^$all
