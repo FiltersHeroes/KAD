@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 07 Jun 2021, 13:05 UTC+02
-! Version: 2021.6.7.0
+! Last modified: Mon, 07 Jun 2021, 17:06 UTC+02
+! Version: 2021.6.7.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -209,6 +209,7 @@
 ||butydroutlet.com^$all
 ||butyeccosale.com^$all
 ||butyhokaoneonepl.com^$all
+||butyhokapolska.pl^$all
 ||butyhokawarszawa.com^$all
 ||butyinov-8.com^$all
 ||butyjordansklep.pl^$all
@@ -2171,6 +2172,7 @@
 ||adventurous-shrouded-llama.glitch.me^$all
 ||adwokaci-24.pl^$all
 ||adworks.cat^$all
+||aederem.site^$all
 ||affingindustries.com^$all
 ||affinityfinancenews.com^$all
 ||agencja-aspro.pl^$all
@@ -2266,6 +2268,7 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
+||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
@@ -2393,6 +2396,7 @@
 ||apptrader.com^$all
 ||app*.kromtech.net^$all,domain=net
 ||app-messenger-lite.com^$all
+||app-netflix.ratedyork.tk^$all
 ||app.uniswap.info-tokens.com^$all
 ||aptecznypunkt.pl^$all
 ||aqsati.com^$all
@@ -2430,6 +2434,7 @@
 ||authenticator.signinid-aapppleid.super-host.pl^$all
 ||autorentier.pl^$all
 ||autoresdecomic.com^$all
+||autoryzacja-poczty.interia.site^$all
 ||avaparse.ir^$all
 ||avbtrk.com^$all
 ||avitodomains.ru^$all
@@ -2557,6 +2562,7 @@
 ||bioslimin.pl^$all
 ||biozdrowie.com.pl^$all
 ||birdwatcher.pl^$all
+||bireysele-basvurum-destek-kampanyalar.tk^$all
 ||biskup.greendolarbag.com^$all
 ||biskup.waw.pl^$all
 ||bitbayinvest.net^$all
@@ -3048,6 +3054,7 @@
 ||d16026ycio8a62.cloudfront.net^$all
 ||dachbud.slask.pl^$all
 ||dalsari.com^$all
+||dalsza-droga.tk^$all
 ||damianek24.eu^$all
 ||damulki.online^$all
 ||danangluxury.com^$all
@@ -4466,6 +4473,11 @@
 ||inpost.pl-give.work^$all
 ||inpost.pl-give.xyz^$all
 ||inpost.pl-gotorders.work^$all
+||inpost.pl-liveorder.cyou^$all
+||inpost.pl-liveorder.icu^$all
+||inpost.pl-liveorder.shop^$all
+||inpost.pl-liveorder.work^$all
+||inpost.pl-liveorder.xyz^$all
 ||inpost.pl-livepay.icu^$all
 ||inpost.pl-livepay.work^$all
 ||inpost.pl-livepay.xyz^$all
@@ -4752,6 +4764,7 @@
 ||juzniedlugotosiestanie.cyou^$all
 ||juzzajakkisczas.site^$all
 ||jvccourier.com^$all
+||k29d.increaseworker.link^$all
 ||kaborun.com^$all
 ||kafle.net.pl^$all
 ||kagomei.com^$all
@@ -5994,6 +6007,7 @@
 ||olx-pl.moneta.world^$all
 ||olx-pl.mpay-fs.info^$all
 ||olx-pl.net^$all
+||olx-pl.nfotyjen.tk^$all
 ||olx-pl.oferta-payment.*^$all
 ||olx-pl.oferta-pay.*^$all
 ||olx-pl.oferto.cc^$all
@@ -6194,6 +6208,7 @@
 ||olx.pl-livecash.cyou^$all
 ||olx.pl-livecash.icu^$all
 ||olx.pl-livecash.xyz^$all
+||olx.pl-liveorder.xyz^$all
 ||olx.pl-livepaid.cyou^$all
 ||olx.pl-livepaid.icu^$all
 ||olx.pl-livepaid.shop^$all
@@ -6426,6 +6441,8 @@
 ||onet-informacja.xyz^$all
 ||onet-informacje.online^$all
 ||onet-informacje.xyz^$all
+||onet-katowice.xyz^$all
+||onet-kielce.xyz^$all
 ||onet-news24.eu^$all
 ||onet-news24.pl^$all
 ||onet-news.you2.pl^$all
@@ -6819,6 +6836,7 @@
 ||paypal.smarthelp-115.com^$all
 ||payples.net^$all
 ||payplticket619054.info^$all
+||paypltickets188398438.info^$all
 ||payrots.net^$all
 ||paysend.space^$all
 ||pays-olx.gq^$all
@@ -7734,6 +7752,7 @@
 ||rehabilitant.rzeszow.re^$all
 ||rejestr24.5p.pl^$all
 ||rejestracja-delivery.com^$all
+||rejestracja-delivery.site^$all
 ||rejestracja-dostawy.com^$all
 ||rejestracja-ogloszenia.com^$all
 ||rejestr.5p.pl^$all
@@ -7936,6 +7955,7 @@
 ||server274.dedicated-webhosting.xyz^$all
 ||server012121.nazwa.pl^$all
 ||server060728.nazwa.pl^$all
+||server078026.nazwa.pl^$all
 ||server106184.nazwa.pl^$all
 ||server164018.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
@@ -8363,6 +8383,7 @@
 ||szybkapaczka.services^$all
 ||szybka-dostawa.pl^$all
 ||szybka-pomoc.eu^$all
+||szybkieinfo.pl^$all
 ||szybkiezycie1.online^$all
 ||szybkie-nadanja.in.net^$all
 ||szybkie-przesylki.xyz^$all
