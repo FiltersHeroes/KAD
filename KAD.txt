@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 07 Jun 2021, 21:05 UTC+02
-! Version: 2021.6.7.2
+! Last modified: Tue, 08 Jun 2021, 13:06 UTC+02
+! Version: 2021.6.8.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -203,9 +203,11 @@
 ||bulkgoo.net^$all
 ||bunclok.pl^$all
 ||bustcream-pro.com^$all
+||butyalexandermcqueen.pl^$all
 ||butybrookspolska.com^$all
 ||butychukka.com^$all
 ||butycrocspolska.com^$all
+||butydemonia.com^$all
 ||butydroutlet.com^$all
 ||butyeccosale.com^$all
 ||butyhokaoneonepl.com^$all
@@ -287,6 +289,7 @@
 ||codeandwork.pl^$all
 ||coldy-shop.pl^$all
 ||coloryee.com^$all
+||columbiapolska.com^$all
 ||comfortmedplus.pl^$all
 ||computersfd.company.site^$all
 ||concash.pl^$all
@@ -369,6 +372,7 @@
 ||drew-ed.pl^$all
 ||drexpol-modele.com.pl^$all
 ||drfit.pl^$all
+||drmartensbut.top^$all
 ||drmartenspolska.com^$all
 ||drmartensskleppolska.com^$all
 ||drmartenssklepy.com^$all
@@ -1488,6 +1492,7 @@
 ||trampkisuperga.pl^$all
 ||trampoliny170.com^$all
 ||trampoliny260.com^$all
+||trampoliny-polska.com^$all
 ||transeuropaferries.pl^$all
 ||trapez-sc.pl^$all
 ||trella.com.pl^$all
@@ -2173,6 +2178,7 @@
 ||adwokaci-24.pl^$all
 ||adworks.cat^$all
 ||aederem.site^$all
+||afetos.site^$all
 ||affingindustries.com^$all
 ||affinityfinancenews.com^$all
 ||agencja-aspro.pl^$all
@@ -4399,6 +4405,7 @@
 ||inpost-pl.com^$all
 ||inpost-pl.delivery-site.info^$all
 ||inpost-pl.online^$all
+||inpost-pl.safeorder.co^$all
 ||inpost-zamowienie.pl^$all
 ||inpost.bond^$all
 ||inpost.casa^$all
@@ -4474,8 +4481,14 @@
 ||inpost.pl-give.work^$all
 ||inpost.pl-give.xyz^$all
 ||inpost.pl-gotorders.work^$all
+||inpost.pl-livemoney.cyou^$all
+||inpost.pl-livemoney.icu^$all
+||inpost.pl-livemoney.shop^$all
+||inpost.pl-livemoney.work^$all
+||inpost.pl-livemoney.xyz^$all
 ||inpost.pl-liveordered.cyou^$all
 ||inpost.pl-liveordered.icu^$all
+||inpost.pl-liveordered.shop^$all
 ||inpost.pl-liveordered.xyz^$all
 ||inpost.pl-liveorders.icu^$all
 ||inpost.pl-liveorders.xyz^$all
@@ -6125,6 +6138,7 @@
 ||olx.moferta.live^$all
 ||olx.myofferta.casa^$all
 ||olx.my-dostawa.bond^$all
+||olx.my-dostawa.club^$all
 ||olx.my-dostawa.digital^$all
 ||olx.m-inposta.site^$all
 ||olx.oferda-pl.biz^$all
@@ -6214,6 +6228,10 @@
 ||olx.pl-livecash.cyou^$all
 ||olx.pl-livecash.icu^$all
 ||olx.pl-livecash.xyz^$all
+||olx.pl-livemoney.cyou^$all
+||olx.pl-livemoney.icu^$all
+||olx.pl-livemoney.shop^$all
+||olx.pl-livemoney.xyz^$all
 ||olx.pl-liveorders.cyou^$all
 ||olx.pl-liveorders.icu^$all
 ||olx.pl-liveorders.shop^$all
@@ -6560,6 +6578,7 @@
 ||order-secure.biz^$all
 ||organicmediasolution.com^$all
 ||ori-sfera.pl^$all
+||orlenoil-la.com^$all
 ||orlen-platform.site^$all
 ||orlen-pl-syst.site^$all
 ||orlen-pl.site^$all
@@ -6820,6 +6839,7 @@
 ||pay64-olx.pl^$all
 ||pay65-olx.info^$all
 ||pay65-olx.pl^$all
+||pay66-olx.info^$all
 ||pay66-olx.pl^$all
 ||pay67-olx.pl^$all
 ||pay68-olx.pl^$all
@@ -7101,6 +7121,7 @@
 ||pl-itemreserve.pw^$all
 ||pl-konto-order.me^$all
 ||pl-konto.mobi^$all
+||pl-livemoney.xyz^$all
 ||pl-lotos.info^$all
 ||pl-lotos.site^$all
 ||pl-makedeal.casa^$all
@@ -7574,6 +7595,7 @@
 ||preblogs.com^$all
 ||pregierzrozumu.pl^$all
 ||preg.marketingvici.com^$all
+||prelend.orlen-pl.xyz^$all
 ||premacc.pl^$all
 ||premieroffr.com^$all
 ||premieroffr.org^$all
@@ -7779,6 +7801,7 @@
 ||restauracjatramontana.pl^$all
 ||restore-payp.com^$all
 ||restricted.pl^$all
+||restybnoy.site^$all
 ||retinaegras.at^$all
 ||retirewellinvestors.com^$all
 ||revoiut.org^$all
@@ -7795,6 +7818,8 @@
 ||rivafinancialsystems.com^$all
 ||riverislandpl.com^$all
 ||rjefnpvdxrxgmnd.su^$all
+||rmfinfo.waw.pl^$all
+||rminfo.waw.pl^$all
 ||rmycevre.com^$all
 ||robcie-tak-dalej.pl^$all
 ||robin-hood.com.pl^$all
@@ -8095,6 +8120,7 @@
 ||smieszne-zdjecia.eu^$all
 ||sms1.world^$all
 ||smscc.in^$all
+||smsee.in^$all
 ||smsiaki.eu^$all
 ||smsiak.pl^$all
 ||smsinf.org^$all
@@ -8420,6 +8446,7 @@
 ||taktoleciwtellewizjii.club^$all
 ||taktooceniamypolacy.club^$all
 ||tamjuzktosbyl.cyou^$all
+||taniekonta.crayon2.net^$all
 ||tankhoi.vn^$all
 ||tarcza24.net^$all
 ||tarocardsfornoobs.top^$all
@@ -8564,6 +8591,7 @@
 ||trampolina.live^$all
 ||trampoliny180.com^$all
 ||trampoliny200.com^$all
+||trampoliny-polska.com^$all
 ||trampoliny-sklep.com^$all
 ||trampoliny.biz^$all
 ||trampoliny.club^$all
@@ -8751,6 +8779,7 @@
 ||vagabondbuty.com^$all
 ||valetta.pl^$all
 ||validate-837a3.web.app^$all
+||validate-cp-em10s.web.app^$all
 ||valuesmatter.com.au^$all
 ||vannes776.com^$all
 ||vanscheers.com^$all
