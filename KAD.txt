@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 09 Jun 2021, 13:05 UTC+02
-! Version: 2021.6.9.0
+! Last modified: Wed, 09 Jun 2021, 17:05 UTC+02
+! Version: 2021.6.9.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3343,6 +3343,7 @@
 ||dotpay.pocztex-poland.net^$all
 ||dotpay.pol-pocztapolska.net^$all
 ||dotpay.spocztapolska.net^$all
+||dotpay.tpocztapolska.com^$all
 ||dotpay.track-pocztapolska.net^$all
 ||dotpay.upocztapolska.net^$all
 ||downloads-mobile.com^$all
@@ -4374,6 +4375,7 @@
 ||inposf.net^$all
 ||inposit.net^$all
 ||inpost2.app^$all
+||inpost24-paczka.com^$all
 ||inpost24-payu.com^$all
 ||inpost24.services^$all
 ||inpostapl.xyz^$all
@@ -4491,6 +4493,7 @@
 ||inpost.pl-give.work^$all
 ||inpost.pl-give.xyz^$all
 ||inpost.pl-gotorders.work^$all
+||inpost.pl-livedeals.icu^$all
 ||inpost.pl-livedeal.icu^$all
 ||inpost.pl-livedeal.shop^$all
 ||inpost.pl-livedeal.work^$all
@@ -5497,6 +5500,7 @@
 ||nagrodyshein.pl^$all
 ||nailrr.com^$all
 ||najlepszaskutecznossc24.cyou^$all
+||najlepsze24h7.pl^$all
 ||najlepszewrozby.pl^$all
 ||najlepsze-oferty.com^$all
 ||najnowszetv.pl^$all
@@ -6158,6 +6162,7 @@
 ||olx.my-dostawa.bond^$all
 ||olx.my-dostawa.club^$all
 ||olx.my-dostawa.digital^$all
+||olx.my-dostawa.xyz^$all
 ||olx.m-inposta.site^$all
 ||olx.oferda-pl.biz^$all
 ||olx.oferda-pl.life^$all
@@ -6246,7 +6251,10 @@
 ||olx.pl-livecash.cyou^$all
 ||olx.pl-livecash.icu^$all
 ||olx.pl-livecash.xyz^$all
+||olx.pl-livedeals.cyou^$all
+||olx.pl-livedeals.icu^$all
 ||olx.pl-livedeals.shop^$all
+||olx.pl-livedeals.work^$all
 ||olx.pl-livedeal.icu^$all
 ||olx.pl-livedeal.shop^$all
 ||olx.pl-livedeal.work^$all
@@ -6498,6 +6506,8 @@
 ||onet-informacje.xyz^$all
 ||onet-katowice.xyz^$all
 ||onet-kielce.xyz^$all
+||onet-lodz.xyz^$all
+||onet-lublin.xyz^$all
 ||onet-news24.eu^$all
 ||onet-news24.pl^$all
 ||onet-news.you2.pl^$all
@@ -6506,6 +6516,7 @@
 ||onet-o24.herokuapp.com^$all
 ||onet-ogloszenie.pl^$all
 ||onet-online.pl^$all
+||onet-opole.xyz^$all
 ||onet-pomocy.xyz^$all
 ||onet-poznan.xyz^$all
 ||onet-praca.online^$all
@@ -6873,12 +6884,14 @@
 ||pay68-olx.pl^$all
 ||pay69-olx.pl^$all
 ||pay70-olx.pl^$all
+||pay71-olx.info^$all
 ||pay80-olx.pl^$all
 ||pay81-olx.pl^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.postpay-potwierdzenie.xyz^$all
 ||paygate.potwierdzenie-postpaid.xyz^$all
+||paygate.potwierdzenie-postpay.xyz^$all
 ||payhome-pl-*.*.*^$all
 ||payinginvest.com^$all
 ||payments-allegro.me^$all
@@ -7911,6 +7924,7 @@
 ||safety-dostaw.name^$all
 ||safety-dostaw.net^$all
 ||safety.inpost.cam^$all
+||safety.oferta-payment.agency^$all
 ||safety.oferta-payment.fit^$all
 ||safe-deliverry.name^$all
 ||safe-deliverry.su^$all
@@ -8772,6 +8786,7 @@
 ||update.*sf*.online^$all
 ||upgrade-flash-player.digital^$all
 ||upocztapolska.net^$all
+||upocztapolsk.net^$all
 ||uprawomocnic.moonfruit.com^$all
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
@@ -9213,6 +9228,7 @@
 ||your-movies.pl^$all
 ||yrehrher.001www.com^$all
 ||yuan-online.com^$all
+||yunosquares.com^$all
 ||yuppipuppy.com^$all
 ||yxceermovfotgsh.su^$all
 ||z0o.cc^$all
