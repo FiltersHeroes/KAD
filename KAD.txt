@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 08 Jun 2021, 21:05 UTC+02
-! Version: 2021.6.8.2
+! Last modified: Wed, 09 Jun 2021, 13:05 UTC+02
+! Version: 2021.6.9.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -288,6 +288,7 @@
 ||cocoopt.com^$all
 ||codeandwork.pl^$all
 ||coldy-shop.pl^$all
+||colehaanpolska.com^$all
 ||coloryee.com^$all
 ||columbiapolska.com^$all
 ||comfortmedplus.pl^$all
@@ -438,6 +439,7 @@
 ||essonne11.com^$all
 ||estelaz.pl^$all
 ||etilang.pl^$all
+||etniessklep.pl^$all
 ||euromedia.store^$all
 ||europan.pl^$all
 ||europaubram.pl^$all
@@ -984,6 +986,7 @@
 ||ninawertz.pl^$all
 ||niskamaskincare.pl^$all
 ||noatanice.com^$all
+||nonansklep.pl^$all
 ||noova-po.com^$all
 ||noozy-led.com^$all
 ||northfacepolska.pl^$all
@@ -3787,6 +3790,8 @@
 ||financial.org^$all
 ||finansoweswiry.pl^$all
 ||finantiko.com^$all
+||findthemnow401.club^$all
+||findthemnow401.work^$all
 ||findthemtoday540.club^$all
 ||findyourlovenow*.com^$all
 ||find-best-profits.com^$all
@@ -4136,6 +4141,8 @@
 ||helpeachother422.casa^$all
 ||helpishere577.casa^$all
 ||helpishere577.club^$all
+||helpishere960.club^$all
+||helpishere960.work^$all
 ||helploginn.moonfruit.com^$all
 ||herngell-our.web.app^$all
 ||herrola.com^$all
@@ -4419,6 +4426,7 @@
 ||inpost.dostawa-oferla.casa^$all
 ||inpost.dostawa-orders.casa^$all
 ||inpost.dostawa-orders.xyz^$all
+||inpost.dostawa-polska24.shop^$all
 ||inpost.dostawa-polska.biz^$all
 ||inpost.dostawa-polska.shop^$all
 ||inpost.dostawa-polska.xyz^$all
@@ -4440,6 +4448,7 @@
 ||inpost.olxoferta25.digital^$all
 ||inpost.olxoferta25.life^$all
 ||inpost.olxoferta25.live^$all
+||inpost.one^$all
 ||inpost.order-pl.art^$all
 ||inpost.page^$all
 ||inpost.payouts.xyz^$all
@@ -5620,6 +5629,7 @@
 ||niedovviarypolska.xyz^$all
 ||nieladagratka.pl^$all
 ||niemarnujswojegoczasu.space^$all
+||niemartwsieoto24.website^$all
 ||niematuatjpaniki.space^$all
 ||niemozemyznalezc.website^$all
 ||niemozeszuddawac.site^$all
@@ -6060,6 +6070,7 @@
 ||olx-polska.live^$all
 ||olx-polska.pl^$all
 ||olx-potwierdzenie.xyz^$all
+||olx-po-land.app^$all
 ||olx-po.land^$all
 ||olx-protection.pl^$all
 ||olx-pro.pl^$all
@@ -6235,6 +6246,7 @@
 ||olx.pl-livecash.cyou^$all
 ||olx.pl-livecash.icu^$all
 ||olx.pl-livecash.xyz^$all
+||olx.pl-livedeals.shop^$all
 ||olx.pl-livedeal.icu^$all
 ||olx.pl-livedeal.shop^$all
 ||olx.pl-livedeal.work^$all
@@ -6278,6 +6290,7 @@
 ||olx.pl-livespay.shop^$all
 ||olx.pl-livespay.work^$all
 ||olx.pl-livespay.xyz^$all
+||olx.pl-myitems.site^$all
 ||olx.pl-ofertbuy.xyz^$all
 ||olx.pl-otrzymac.icu^$all
 ||olx.pl-otrzymac.shop^$all
@@ -6497,8 +6510,10 @@
 ||onet-poznan.xyz^$all
 ||onet-praca.online^$all
 ||onet-regulamin.icu^$all
+||onet-skandal.waw.pl^$all
 ||onet-technologie.online^$all
 ||onet-warszawa.xyz^$all
+||onet-wazne.waw.pl^$all
 ||onet-wiadomosc.online^$all
 ||onet-wiadomosc.xyz^$all
 ||onet.dfirma.pl^$all
@@ -7754,6 +7769,7 @@
 ||rcabaj.com.pl^$all
 ||rdzawy.cyou^$all
 ||reactnow019.club^$all
+||reactnow918.work^$all
 ||realescort.club^$all
 ||realinvestment.pl^$all
 ||realnyzarobek.pl^$all
@@ -7874,6 +7890,7 @@
 ||s0o.cc^$all
 ||s8powazkowska-modlinska.pl^$all
 ||s88.vdl.pl^$all
+||s01279.xyz^$all
 ||sabiosdelamor.co^$all
 ||sadenly.xyz^$all
 ||safedealpln.link^$all
@@ -8000,6 +8017,7 @@
 ||seriale.best^$all
 ||serialosy.pl^$all
 ||serialowo.pl^$all
+||server254.dedicated02-webhosting.com^$all
 ||server254.dedicated2-webhosting.com^$all
 ||server274.dedicated-webhosting.xyz^$all
 ||server012121.nazwa.pl^$all
@@ -8007,6 +8025,7 @@
 ||server078026.nazwa.pl^$all
 ||server106184.nazwa.pl^$all
 ||server164018.nazwa.pl^$all
+||server182801.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
 ||server392115.nazwa.pl^$all
 ||server414751.nazwa.pl^$all
@@ -8073,6 +8092,7 @@
 ||sitegiant.info^$all
 ||sitepolska.turbo.site^$all
 ||siwi.com.pl^$all
+||skandal-onet.waw.pl^$all
 ||skazaninabusa.pl^$all
 ||skbpolska24.net^$all
 ||skecherspl.com^$all
@@ -8899,6 +8919,8 @@
 ||web-cryptocurrency.com^$all
 ||web-vb3.web.app^$all
 ||wecanfindthem155.club^$all
+||wecanfindu502.club^$all
+||wecanfindu502.work^$all
 ||wecanfindu910.casa^$all
 ||wecanfindu910.club^$all
 ||wecopa.avtopodbor-profinn.ru^$all
