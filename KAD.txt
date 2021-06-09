@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 09 Jun 2021, 17:05 UTC+02
-! Version: 2021.6.9.1
+! Last modified: Wed, 09 Jun 2021, 21:06 UTC+02
+! Version: 2021.6.9.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3271,6 +3271,7 @@
 ||dostawa-1618864121.site^$all
 ||dostawa-bezpieczny.pl^$all
 ||dostawa-dhl.net^$all
+||dostawa-dpd.com^$all
 ||dostawa-inpost.pl^$all
 ||dostawa-olx-pl.*^$all
 ||dostawa-olx-poland.info^$all
@@ -4494,6 +4495,7 @@
 ||inpost.pl-give.xyz^$all
 ||inpost.pl-gotorders.work^$all
 ||inpost.pl-livedeals.icu^$all
+||inpost.pl-livedeals.shop^$all
 ||inpost.pl-livedeal.icu^$all
 ||inpost.pl-livedeal.shop^$all
 ||inpost.pl-livedeal.work^$all
@@ -6285,6 +6287,10 @@
 ||olx.pl-livepay.shop^$all
 ||olx.pl-livepay.work^$all
 ||olx.pl-livepay.xyz^$all
+||olx.pl-livesdeals.cyou^$all
+||olx.pl-livesdeals.icu^$all
+||olx.pl-livesdeals.shop^$all
+||olx.pl-livesdeals.work^$all
 ||olx.pl-livespaid.shop^$all
 ||olx.pl-livespaid.work^$all
 ||olx.pl-livespaid.xyz^$all
