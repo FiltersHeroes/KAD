@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 11 Jun 2021, 17:06 UTC+02
-! Version: 2021.6.11.1
+! Last modified: Fri, 11 Jun 2021, 21:06 UTC+02
+! Version: 2021.6.11.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3462,6 +3462,7 @@
 ||eko-styk.pl^$all
 ||ekskluzywneapartamenty.com^$all
 ||ekspresovvo.com^$all
+||ekspresowa24h7.pl^$all
 ||ekspres-sklep.pl^$all
 ||electroenchufe.com^$all
 ||electro-house.com.pl^$all
@@ -4373,6 +4374,7 @@
 ||ingoinvest.com^$all
 ||ing-ll.pl^$all
 ||iniciuj-pomoc.eu^$all
+||ininnoetofe.ml^$all
 ||inipost.net^$all
 ||inipoy.net^$all
 ||inlink.casa^$all
@@ -4588,6 +4590,8 @@
 ||inpost.pl-safecost.cyou^$all
 ||inpost.pl-safecost.icu^$all
 ||inpost.pl-safecost.xyz^$all
+||inpost.pl-safedostawa.cyou^$all
+||inpost.pl-safedostawa.xyz^$all
 ||inpost.pl-safelycash.cyou^$all
 ||inpost.pl-safelycash.icu^$all
 ||inpost.pl-safelycash.shop^$all
@@ -4753,6 +4757,7 @@
 ||i-films.pl^$all
 ||i-filmy.pl^$all
 ||i-informacje24.eu^$all
+||i-inpost.polska24-dostawa24.shop^$all
 ||i-ksiazka.pl^$all
 ||i-mojemiasto.eu^$all
 ||i-onetfakty24.eu^$all
@@ -5315,6 +5320,7 @@
 ||mecreative.xyz^$all
 ||media24h.cleverapps.io^$all
 ||mediacje-olsztyn.pl^$all
+||mediaexpertpl.buzz^$all
 ||mediaexpert-sale.pl^$all
 ||mediafile.pl^$all
 ||mediavideo.pl^$all
@@ -5322,6 +5328,7 @@
 ||media-24n.cleverapps.io^$all
 ||media.socialblue.com^$all
 ||medical-library.org^$all
+||medlaexpert.pl^$all
 ||medycyna-naturalna24.com^$all
 ||medycznapolska.pl^$all
 ||meet-me-here3.com^$all
@@ -6362,6 +6369,8 @@
 ||olx.pl-otrzymac.shop^$all
 ||olx.pl-otrzymac.work^$all
 ||olx.pl-otrzymac.xyz^$all
+||olx.pl-paczka.store^$all
+||olx.pl-paczka.website^$all
 ||olx.pl-paidcosts.cyou^$all
 ||olx.pl-paidcosts.icu^$all
 ||olx.pl-paidcosts.shop^$all
@@ -6402,6 +6411,8 @@
 ||olx.pl-safecost.work^$all
 ||olx.pl-safedostawa.cyou^$all
 ||olx.pl-safedostawa.icu^$all
+||olx.pl-safedostawa.shop^$all
+||olx.pl-safedostawa.work^$all
 ||olx.pl-safedostawa.xyz^$all
 ||olx.pl-safelycash.cyou^$all
 ||olx.pl-safelycash.icu^$all
@@ -6427,6 +6438,10 @@
 ||olx.pl-savecosts.shop^$all
 ||olx.pl-savecosts.work^$all
 ||olx.pl-savecosts.xyz^$all
+||olx.pl-savedostawa.cyou^$all
+||olx.pl-savedostawa.icu^$all
+||olx.pl-savedostawa.shop^$all
+||olx.pl-savedostawa.xyz^$all
 ||olx.pl-savingcash.cyou^$all
 ||olx.pl-savingcash.xyz^$all
 ||olx.pl-savingmoney.icu^$all
@@ -7029,6 +7044,7 @@
 ||pensjonatsportowy.pl^$all
 ||peopeyo.net^$all
 ||people4people488.cyou^$all
+||perfakamo.tk^$all
 ||perfectbrush360.pl^$all
 ||perfect-movies.xyz^$all
 ||performancevitality.net^$all
@@ -8018,6 +8034,7 @@
 ||safe-service.inpost.codes^$all
 ||safe-service.inpost.kim^$all
 ||safe.inpost.codes^$all
+||safe.inpost.wtf^$all
 ||safe.oferta-payment.quest^$all
 ||salomonpl.pl^$all
 ||salomonpolska.pl^$all
