@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 10 Jun 2021, 21:05 UTC+02
-! Version: 2021.6.10.2
+! Last modified: Fri, 11 Jun 2021, 13:06 UTC+02
+! Version: 2021.6.11.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -219,6 +219,7 @@
 ||butyjordansklep.pl^$all
 ||butykamikopinie.pl^$all
 ||butykeenpolska.com^$all
+||butylotto.pl^$all
 ||butymartensy.com^$all
 ||butymizunopolska.com^$all
 ||butyplsklep.com^$all
@@ -1409,6 +1410,7 @@
 ||stuntoffer.com^$all
 ||stylmeb.com.pl^$all
 ||stylowoimodnie.pl^$all
+||subino.pl^$all
 ||sudeko19.com^$all
 ||sug.com.pl^$all
 ||sukces.pl^$all
@@ -3503,6 +3505,7 @@
 ||em-car.pl^$all
 ||enagradzamy.pl^$all
 ||energikundservice.se^$all
+||energyylandia.pl^$all
 ||enevislimited.com^$all
 ||enklawy.pl^$all
 ||enpgnig.pl^$all
@@ -4454,6 +4457,8 @@
 ||inpost.ltd^$all
 ||inpost.moferta.life^$all
 ||inpost.moferta.live^$all
+||inpost.my-dostawa.bar^$all
+||inpost.my-dostawa.club^$all
 ||inpost.offerta-dostawa.club^$all
 ||inpost.offerta-dostawo.club^$all
 ||inpost.olxkon*.*^$all
@@ -4533,6 +4538,7 @@
 ||inpost.pl-livepay.xyz^$all
 ||inpost.pl-livesdeals.shop^$all
 ||inpost.pl-livesdeals.xyz^$all
+||inpost.pl-livesdeal.cyou^$all
 ||inpost.pl-livesdeal.icu^$all
 ||inpost.pl-livesdeal.shop^$all
 ||inpost.pl-livesdeal.work^$all
@@ -4566,6 +4572,8 @@
 ||inpost.pl-paycost.shop^$all
 ||inpost.pl-paycost.work^$all
 ||inpost.pl-paycost.xyz^$all
+||inpost.pl-paydeal.shop^$all
+||inpost.pl-paydeal.work^$all
 ||inpost.pl-paydelivery.icu^$all
 ||inpost.pl-receivepays.icu^$all
 ||inpost.pl-receivepays.work^$all
@@ -4631,6 +4639,8 @@
 ||inpost.pl-success.shop^$all
 ||inpost.pl-success.work^$all
 ||inpost.pl-*.*^$document
+||inpost.polska24-dostawa24.shop^$all
+||inpost.polska24-dostawa24.xyz^$all
 ||inpost.polskaoferta24.casa^$all
 ||inpost.polskaoferta24.club^$all
 ||inpost.polskaoferta24.shop^$all
@@ -5287,6 +5297,7 @@
 ||mazowieckie-fakt24.pl^$all
 ||mazowieckie-fakty24.pl^$all
 ||mazowskagazeta.pl^$all
+||mbank-promo.pl^$all
 ||mb-olx.pl^$all
 ||mdelivery.olx-pl.link^$all
 ||mdelivery.olx-pl.services^$all
@@ -5812,6 +5823,7 @@
 ||oferta924151.space^$all
 ||oferta987567.xyz^$all
 ||oferta999555.xyz^$all
+||ofertalokalnie.com^$all
 ||oferta-olx.eu^$all
 ||oferta-orlen.club^$all
 ||oferta-payment.art^$all
@@ -6246,6 +6258,10 @@
 ||olx.pl-fastpays.shop^$all
 ||olx.pl-fastpays.work^$all
 ||olx.pl-fastpays.xyz^$all
+||olx.pl-getservice.info^$all
+||olx.pl-getservice.online^$all
+||olx.pl-getservice.site^$all
+||olx.pl-getservice.website^$all
 ||olx.pl-get.safe.oferta-payment.works^$all
 ||olx.pl-givecashes.cyou^$all
 ||olx.pl-givecashes.icu^$all
@@ -6692,6 +6708,7 @@
 ||ouruk880.cyou^$all
 ||outl00k.mfs.gg^$all
 ||overcreative.com^$all
+||owa-password-expiry.web.app^$all
 ||owocny-awansik.eu^$all
 ||owocny-awans.eu^$all
 ||owo-owo.vip^$all
@@ -6927,6 +6944,7 @@
 ||pay71-olx.info^$all
 ||pay73-olx.info^$all
 ||pay74-olx.info^$all
+||pay75-olx.info^$all
 ||pay80-olx.pl^$all
 ||pay81-olx.pl^$all
 ||payback-aplikacja.biz^$all
@@ -7201,6 +7219,7 @@
 ||pl-id737962.info^$all
 ||pl-inpost.com^$all
 ||pl-inpost.online^$all
+||pl-inpost.polska24-dostawa24.shop^$all
 ||pl-itemreserve.pw^$all
 ||pl-konto-order.me^$all
 ||pl-konto.mobi^$all
@@ -7460,6 +7479,7 @@
 ||polskanews.eu^$all
 ||polskaolerta.store^$all
 ||polskaonline.club^$all
+||polskapoczta-pl.polska24-dostawa24.shop^$all
 ||polskapoczta.dostawa24-fun.club^$all
 ||polskapoczta.dostawa24-fun.digital^$all
 ||polskapoczta.dostawa-oferla.casa^$all
@@ -7765,6 +7785,7 @@
 ||psie-schronisko.co.pl^$all
 ||psinetutor.com^$all
 ||pstfsb.com^$all
+||ptasznik.icu^$all
 ||pubmax.com.pl^$all
 ||pucouueioduc.cucouuiodu.xyz^$all
 ||pukaczu.pl^$all
@@ -8086,6 +8107,7 @@
 ||server164018.nazwa.pl^$all
 ||server182801.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
+||server365449.nazwa.pl^$all
 ||server392115.nazwa.pl^$all
 ||server414751.nazwa.pl^$all
 ||server437580.nazwa.pl^$all
@@ -9008,6 +9030,7 @@
 ||wesole-maluszki.click^$all
 ||westkyvo.com^$all
 ||wexness.cc^$all
+||wgazetce.pl^$all
 ||wherearethey006.cyou^$all
 ||whiteflix.pl^$all
 ||whiteoutsolutions.technology^$all
@@ -9219,10 +9242,13 @@
 ||wysymdhl.com^$all
 ||wysyndhl.com^$all
 ||wysysdhl.com^$all
+||wys-dhh.com^$all
 ||wytypuj-wynik.eu^$all
 ||wywiaddlawidzoow.cyou^$all
 ||wzmianka-duza.eu^$all
 ||wzordonassladowania.online^$all
+||w-gazecie.pl^$all
+||w-gazetce.pl^$all
 ||w-paczkomacie24.in.net^$all
 ||w-paczkomaciie.in.net^$all
 ||w-sieci-piszczy.o99o.com.pl^$all
