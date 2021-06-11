@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 11 Jun 2021, 13:06 UTC+02
-! Version: 2021.6.11.0
+! Last modified: Fri, 11 Jun 2021, 17:06 UTC+02
+! Version: 2021.6.11.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3346,6 +3346,7 @@
 ||dotpay.mpocztapolska.net^$all
 ||dotpay.npocztapolska.net^$all
 ||dotpay.opocztapolska.net^$all
+||dotpay.oppocztapolska.com^$all
 ||dotpay.pocztapolska48.com^$all
 ||dotpay.pocztapolska247.com^$all
 ||dotpay.poczta-emonitoring.net^$all
@@ -3356,6 +3357,7 @@
 ||dotpay.tpocztapolska.com^$all
 ||dotpay.track-pocztapolska.net^$all
 ||dotpay.upocztapolska.net^$all
+||dotpay.uppocztapolska.net^$all
 ||dotsdh.com^$all
 ||downloads-mobile.com^$all
 ||download.inboxace.com^$all
@@ -3506,6 +3508,7 @@
 ||enagradzamy.pl^$all
 ||energikundservice.se^$all
 ||energyylandia.pl^$all
+||energy-landia.pl^$all
 ||enevislimited.com^$all
 ||enklawy.pl^$all
 ||enpgnig.pl^$all
@@ -6080,6 +6083,7 @@
 ||olx-pl.id*.ru^$all
 ||olx-pl.info^$all
 ||olx-pl.iso-pay.net.ru^$all
+||olx-pl.kurier-dostawa.shop^$all
 ||olx-pl.ml^$all
 ||olx-pl.moneta.world^$all
 ||olx-pl.mpay-fs.info^$all
@@ -6102,6 +6106,7 @@
 ||olx-pl.pl^$all
 ||olx-pl.pro^$all
 ||olx-pl.pw^$all
+||olx-pl.receive-pay.site^$all
 ||olx-pl.ru-*.*^$all
 ||olx-pl.safeorder.co^$all
 ||olx-pl.safeorder.cyou^$all
@@ -6395,6 +6400,9 @@
 ||olx.pl-safecost.cyou^$all
 ||olx.pl-safecost.icu^$all
 ||olx.pl-safecost.work^$all
+||olx.pl-safedostawa.cyou^$all
+||olx.pl-safedostawa.icu^$all
+||olx.pl-safedostawa.xyz^$all
 ||olx.pl-safelycash.cyou^$all
 ||olx.pl-safelycash.icu^$all
 ||olx.pl-safelycash.shop^$all
@@ -6945,6 +6953,8 @@
 ||pay73-olx.info^$all
 ||pay74-olx.info^$all
 ||pay75-olx.info^$all
+||pay78-olx.info^$all
+||pay79-olx.info^$all
 ||pay80-olx.pl^$all
 ||pay81-olx.pl^$all
 ||payback-aplikacja.biz^$all
@@ -7245,6 +7255,7 @@
 ||pl-olx.news^$all
 ||pl-olx.page^$all
 ||pl-olx.pl^$all
+||pl-olx.polska24-dostawa24.shop^$all
 ||pl-olx.site^$all
 ||pl-olx.tech^$all
 ||pl-orderedpays.club^$all
@@ -8837,6 +8848,7 @@
 ||umariki.pl^$all
 ||umarkets.group^$all
 ||umarkets.io^$all
+||unicredit.blackbeltapp.com^$all
 ||uniqued.xyz^$all
 ||unitedmedsshop.com^$all
 ||unitedproductsllc.net^$all
@@ -8854,6 +8866,7 @@
 ||upgrade-flash-player.digital^$all
 ||upocztapolska.net^$all
 ||upocztapolsk.net^$all
+||uppocztapolska.net^$all
 ||uprawomocnic.moonfruit.com^$all
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
@@ -9031,6 +9044,7 @@
 ||westkyvo.com^$all
 ||wexness.cc^$all
 ||wgazetce.pl^$all
+||wgazetce.waw.pl^$all
 ||wherearethey006.cyou^$all
 ||whiteflix.pl^$all
 ||whiteoutsolutions.technology^$all
@@ -9248,7 +9262,9 @@
 ||wzmianka-duza.eu^$all
 ||wzordonassladowania.online^$all
 ||w-gazecie.pl^$all
+||w-gazecie.waw.pl^$all
 ||w-gazetce.pl^$all
+||w-gazetce.waw.pl^$all
 ||w-paczkomacie24.in.net^$all
 ||w-paczkomaciie.in.net^$all
 ||w-sieci-piszczy.o99o.com.pl^$all
