@@ -1,10 +1,8 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||heyjulia.net^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
-||playhub.store^$all
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?(info-onet|informujemy)(\d+)?\.pl/$all
@@ -29,6 +27,7 @@
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
 ||0pen.page^$all
+||0sms.in^$all
 ||00x.eu^$all
 ||1btcnews.buzz^$all
 ||1k-daily-profitz.com^$all
@@ -2131,6 +2130,7 @@
 ||heuto.site^$all
 ||hexistrading.com^$all
 ||heyisitmefriend.tcp4.me^$all
+||heyjulia.net^$all
 ||hgssa.browla.com^$all
 ||higanbana.store^$all
 ||higder.weebly.com^$all
@@ -2445,6 +2445,10 @@
 ||inpost.pl-fastpays.work^$all
 ||inpost.pl-fastpay.cyou^$all
 ||inpost.pl-fastpay.icu^$all
+||inpost.pl-get-cash.cyou^$all
+||inpost.pl-get-cash.icu^$all
+||inpost.pl-get-cash.shop^$all
+||inpost.pl-get-cash.xyz^$all
 ||inpost.pl-giveordered.work^$all
 ||inpost.pl-givesale.work^$all
 ||inpost.pl-give.work^$all
@@ -4010,6 +4014,7 @@
 ||olx-pl.pay3d.me^$all
 ||olx-pl.payment-banks.ga^$all
 ||olx-pl.payment-bank.ga^$all
+||olx-pl.pays-delivery-online.ru^$all
 ||olx-pl.pay-id74553.me^$all
 ||olx-pl.pay-secure.com.ru^$all
 ||olx-pl.pl^$all
@@ -4126,6 +4131,8 @@
 ||olx.plskontas.live^$all
 ||olx.pl-461280562.site^$all
 ||olx.pl-541069065.site^$all
+||olx.pl-fastcash.icu^$all
+||olx.pl-fastcash.xyz^$all
 ||olx.pl-fastdelivery.cyou^$all
 ||olx.pl-fastdelivery.icu^$all
 ||olx.pl-fastdelivery.work^$all
@@ -4144,6 +4151,10 @@
 ||olx.pl-getservice.online^$all
 ||olx.pl-getservice.site^$all
 ||olx.pl-getservice.website^$all
+||olx.pl-get-cash.cyou^$all
+||olx.pl-get-cash.icu^$all
+||olx.pl-get-cash.shop^$all
+||olx.pl-get-cash.xyz^$all
 ||olx.pl-givecash.work^$all
 ||olx.pl-giveordered.work^$all
 ||olx.pl-giveorders.work^$all
@@ -4965,6 +4976,7 @@
 ||playery.pl^$all
 ||player-cda.pl^$all
 ||playesea.pl^$all
+||playhub.store^$all
 ||playkull.com^$all
 ||playproz.com^$all
 ||playsklep24.com^$all
@@ -6013,6 +6025,7 @@
 ||sklep-bobas.pl^$all
 ||sklep-online.xyz^$all
 ||sklep-play.cc^$all
+||sklep-promoda.com.pl^$all
 ||skrill-assets.com.pl^$all
 ||skrocto.pl^$all
 ||skunks.cyou^$all
@@ -7266,16 +7279,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||0sms.in^$all
-||inpost.pl-get-cash.cyou^$all
-||inpost.pl-get-cash.icu^$all
-||inpost.pl-get-cash.shop^$all
-||inpost.pl-get-cash.xyz^$all
-||olx.pl-fastcash.icu^$all
-||olx.pl-fastcash.xyz^$all
-||olx.pl-get-cash.cyou^$all
-||olx.pl-get-cash.icu^$all
-||olx.pl-get-cash.shop^$all
-||olx.pl-get-cash.xyz^$all
-||olx-pl.pays-delivery-online.ru^$all
-||sklep-promoda.com.pl^$all
