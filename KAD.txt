@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 12 Jun 2021, 21:07 UTC+02
-! Version: 2021.6.12.2
+! Last modified: Sat, 12 Jun 2021, 21:31 UTC+02
+! Version: 2021.6.12.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4448,6 +4448,8 @@
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-comtrade.site^$all
 ||inpost.pl-delivery.pw^$all
+||inpost.pl-fastcash.icu^$all
+||inpost.pl-fastcash.xyz^$all
 ||inpost.pl-fastdelivery.cyou^$all
 ||inpost.pl-fastdelivery.icu^$all
 ||inpost.pl-fastdelivery.work^$all
@@ -5091,6 +5093,7 @@
 ||login-paribas.info^$all
 ||login.microsoftorline.com^$all
 ||logononfb.n4t.co^$all
+||logowanie-bnpparibas.at^$all
 ||logowanie-bnpparibas.xyz^$all
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-potwierdz.xyz^$all
@@ -9257,6 +9260,7 @@
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
 ||zweryfikuj-platnosc.in.net^$all
+||zweryfikuj.ga^$all
 ||zweryflkuj-platnosc24.xyz^$all
 ||zwieksz-rozmiar.com^$all
 ||zwierzoszop.com^$all
