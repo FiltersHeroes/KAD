@@ -1,31 +1,6 @@
-||simon-31.com^$all
-||bulux.store^$all
-||oktansklep.com^$all
-||hanksly.pl^$all
-||secretwish.pl^$all
-||filawyprzedaz.com^$all
-||salomonpromocje.com^$all
-||butysperry.com^$all
-||salomopolska.com^$all
-||altrabuty.pl^$all
-
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||pieprzyc.com^$all
-||playvod.pl^$all
-||emovie.fun^$all
-||izalukaj.pl^$all
-||filmyplus.pl^$all
-||vod-box.net^$all
-||streamwatch.pro^$all
-||123mopie.com^$all
-||areaflix.com^$all
-||computer-arts.info^$all
-||investo.tech^$all
-||cryptofinancelimited.com^$all
-||shewantyou.net^$all
-||24tradespace.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -112,6 +87,7 @@
 ||24onlinetradingcapitals.com^$all
 ||24shares.io^$all
 ||24swiat.pl^$all
+||24tradespace.com^$all
 ||24tygodnik.pl^$all
 ||24wydarzenia.pl^$all
 ||24xforex.com^$all
@@ -122,6 +98,7 @@
 ||96b4d58e213077161.temporary.link^$all
 ||100sport.tv^$all
 ||123goflix.com^$all
+||123mopie.com^$all
 ||123movies.my.id^$all
 ||123plays.com^$all
 ||137-74-148-87.cprapid.com^$all
@@ -339,6 +316,7 @@
 ||alohasoftware.net^$all
 ||alphahaul.com^$all
 ||alpsmarkets.com^$all
+||altrabuty.pl^$all
 ||altyn.xyz^$all
 ||amariceo.duckdns.org^$all
 ||amazone-protectionrl8up8e6tcdfaiwzrvgp.com^$all
@@ -417,6 +395,7 @@
 ||arbz.info^$all
 ||archfitpl.com^$all
 ||architektkrakow.com.pl^$all
+||areaflix.com^$all
 ||arek135.pl^$all
 ||arek313.civ.pl^$all
 ||argen0.weebly.com^$all
@@ -711,6 +690,7 @@
 ||btc-evo.com^$all
 ||btsystemos.com^$all
 ||buergerliste-eppan.eu^$all
+||bulux.store^$all
 ||bundle-deals.com^$all
 ||bungalowsentertainment.com^$all
 ||bureaulimited.ltd^$all
@@ -738,6 +718,7 @@
 ||butyonrunning.com^$all
 ||butypalladium.pl^$all
 ||butypumacena.com^$all
+||butysperry.com^$all
 ||butysportowead.pl^$all
 ||butysportoweoutlet.pl^$all
 ||butysportowepl.com^$all
@@ -908,6 +889,7 @@
 ||colorking.es^$all
 ||coltoos.site^$all
 ||come-inside.pl^$all
+||computer-arts.info^$all
 ||confusingcontact.com^$all
 ||connessionedati.com^$all
 ||consityr600.xyz^$all
@@ -963,6 +945,7 @@
 ||crtum.top^$all
 ||cryplister.com^$all
 ||cryptobest.eu^$all
+||cryptofinancelimited.com^$all
 ||cryptofundfx.com^$all
 ||cryptoinfuseusa.com^$all
 ||cryptolegacypro.com^$all
@@ -1500,6 +1483,7 @@
 ||emonitoring-polska48poczta.net^$all
 ||emonitoring-polskapoczta.com^$all
 ||emonitoring-polska-poczta.net^$all
+||emovie.fun^$all
 ||emptierbreak.xyz^$all
 ||em-car.pl^$all
 ||enagradzamy.pl^$all
@@ -1730,6 +1714,7 @@
 ||fidos.com.pl^$all
 ||fifidossaltosaltos.com^$all
 ||figent.xyz^$all
+||filawyprzedaz.com^$all
 ||fila-polska.com^$all
 ||filebay.org^$all
 ||filecom.net^$all
@@ -1779,6 +1764,7 @@
 ||filmydownload.wordpress.com^$all
 ||filmyhd4k.pl^$all
 ||filmyonline.com.pl^$all
+||filmyplus.pl^$all
 ||filmyroku.pl^$all
 ||filmyseriale.pl^$all
 ||filmy-i-seriale.pl^$all
@@ -2132,6 +2118,7 @@
 ||handelpro.vip^$all
 ||handel-pro.site^$all
 ||hangchina.vn^$all
+||hanksly.pl^$all
 ||hannawolska1.co.pl^$all
 ||happy-pods-pl.com^$all
 ||harry-thompson-pl.com^$all
@@ -2701,6 +2688,7 @@
 ||investingstate.com^$all
 ||investing-headlines.com^$all
 ||investmarket.info^$all
+||investo.tech^$all
 ||invest-fd.io^$all
 ||invest-flow.io^$all
 ||invest-moment.com^$all
@@ -2744,6 +2732,7 @@
 ||ivenjobber.xyz^$all
 ||iverifyids.pl^$all
 ||iwiz-dom.com^$all
+||izalukaj.pl^$all
 ||izlogin-webmail.web.app^$all
 ||i-apartamenty.pl^$all
 ||i-chomik.pl^$all
@@ -3896,6 +3885,7 @@
 ||okrilno.xyz^$all
 ||okruch.icu^$all
 ||okshoespoland.com^$all
+||oktansklep.com^$all
 ||okularypowiekszajace-pl.com^$all
 ||okulary-zmienna-ostrosc-pl.com^$all
 ||olbox.in^$all
@@ -5107,6 +5097,7 @@
 ||pieklokobiet.podpisz-petycje.eu^$all
 ||pieklo-kobiet.podpisz-petycje.eu^$all
 ||pielegniarsko-poloznicze.pl^$all
+||pieprzyc.com^$all
 ||pieski-pomoc.xyz^$all
 ||pies-do-oddania.dnsrobotuptime.ru^$all
 ||pijawkileczyca.pl^$all
@@ -5172,6 +5163,7 @@
 ||playsklep24.com^$all
 ||playsklep.net^$all
 ||playstar.co.pl^$all
+||playvod.pl^$all
 ||play-sklep.com^$all
 ||play-sklep.net^$all
 ||play-vod.pl^$all
@@ -6042,6 +6034,8 @@
 ||safe.oferta-payment.quest^$all
 ||salomonpl.pl^$all
 ||salomonpolska.pl^$all
+||salomonpromocje.com^$all
+||salomopolska.com^$all
 ||salonfilmowy.pl^$all
 ||salonflorida.pl^$all
 ||salonmotoryzacyjny.lublin.ovh^$all
@@ -6085,6 +6079,7 @@
 ||searchwinner.site^$all
 ||sebastea.pl^$all
 ||secdelivery.org^$all
+||secretwish.pl^$all
 ||secure167.servconfig.com^$all
 ||secureclick20.com^$all
 ||securescout.de^$all
@@ -6175,6 +6170,7 @@
 ||sharp-gossip.com^$all
 ||shaverbasics.com^$all
 ||shbsfz.com^$all
+||shewantyou.net^$all
 ||shift-holdings.com^$all
 ||shinden-anime.info^$all
 ||shipgratis.eu^$all
@@ -6199,6 +6195,7 @@
 ||sikorka.cyou^$all
 ||siliconpants.top^$all
 ||silstop.pl^$all
+||simon-31.com^$all
 ||simopy.comfort-plate.ru^$all
 ||simovie.net^$all
 ||siodemka24h7.click^$all
@@ -6454,6 +6451,7 @@
 ||streamcomunniti.ru^$all
 ||streamcornmuninty.me^$all
 ||streamfilme.xyz^$all
+||streamwatch.pro^$all
 ||strefakina.pl^$all
 ||strefamlodych.pl^$all
 ||strefamycia.com.pl^$all
@@ -6984,6 +6982,7 @@
 ||vodpremium.com.pl^$all
 ||vodstrefa.fun^$all
 ||vodstrefa.pl^$all
+||vod-box.net^$all
 ||vod-box.pl^$all
 ||vod-play.pl^$all
 ||vod-plus.pl^$all
