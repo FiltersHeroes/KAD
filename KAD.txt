@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 13 Jun 2021, 13:05 UTC+02
-! Version: 2021.6.13.0
+! Last modified: Sun, 13 Jun 2021, 17:05 UTC+02
+! Version: 2021.6.13.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2073,6 +2073,7 @@
 ||3filmy.com^$all
 ||3i0wrsa.store^$all
 ||3polskie-o2.pl^$all
+||3sms.in^$all
 ||3w2k701z6i94wgr.choobin-co.ir^$all
 ||3-139-92-223.cprapid.com^$all
 ||3-onetowo.pl^$all
@@ -2421,6 +2422,8 @@
 ||aromatva.icu^$all
 ||artistidelpane.it^$all
 ||artx.strefa.pl^$all
+||artykulpolska.pl^$all
+||artykul-polska.pl^$all
 ||art-dent.com.pl^$all
 ||art-fashion.pl^$all
 ||art-invest.com.pl^$all
@@ -2430,6 +2433,7 @@
 ||askzkoflds.web.app^$all
 ||aspenholding.com^$all
 ||aspenholding.co^$all
+||assyoulike.servequake.com^$all
 ||asterlo.store^$all
 ||astontrust.com^$all
 ||astrahorizon.com^$all
@@ -4598,6 +4602,7 @@
 ||inpost.surf^$all
 ||inpost.su^$all
 ||inpost.tech^$all
+||inpost.ua-dostawka.xyz^$all
 ||inpost.us^$all
 ||inpost.wyprzedaz-*.*^$document
 ||inprost24.net^$all
@@ -6064,6 +6069,7 @@
 ||olx-polska.com^$all
 ||olx-polska.live^$all
 ||olx-polska.pl^$all
+||olx-pol-and.app^$all
 ||olx-potwierdzenie.xyz^$all
 ||olx-po-land.app^$all
 ||olx-protection.pl^$all
@@ -6192,6 +6198,7 @@
 ||olx.pl-givesold.work^$all
 ||olx.pl-give.shop^$all
 ||olx.pl-give.work^$all
+||olx.pl-informacje.online^$all
 ||olx.pl-konto.website^$all
 ||olx.pl-livecash.cyou^$all
 ||olx.pl-livecash.icu^$all
@@ -6280,6 +6287,7 @@
 ||olx.pl-paydelivery.icu^$all
 ||olx.pl-paydelivery.shop^$all
 ||olx.pl-payit.pw^$all
+||olx.pl-paylines.pw^$all
 ||olx.pl-pay.items-id.site^$all
 ||olx.pl-pay.payforit-op.site^$all
 ||olx.pl-pay.ro-transcom.site^$all
@@ -6324,7 +6332,11 @@
 ||olx.pl-saving.work^$all
 ||olx.pl-srodki.cyou^$all
 ||olx.pl-srodki.icu^$all
+||olx.pl-srodki.info^$all
+||olx.pl-srodki.online^$all
 ||olx.pl-srodki.shop^$all
+||olx.pl-srodki.site^$all
+||olx.pl-srodki.website^$all
 ||olx.pl-srodki.work^$all
 ||olx.pl-successorder.cyou^$all
 ||olx.pl-successorder.icu^$all
@@ -6812,6 +6824,7 @@
 ||pay79-olx.info^$all
 ||pay80-olx.pl^$all
 ||pay81-olx.pl^$all
+||pay84-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpaid.xyz^$all
@@ -7334,6 +7347,7 @@
 ||polska24.ehost.pl^$all
 ||polska24.eu^$all
 ||polska24.serwerplus.pl^$all
+||polskaartykul.pl^$all
 ||polskadziennik.pl^$all
 ||polskagazeta.xyz^$all
 ||polskagazetka.pl^$all
@@ -7373,6 +7387,7 @@
 ||polskayear.pl^$all
 ||polskazobaczy.online^$all
 ||polska-anketierowanie.site^$all
+||polska-artykul.pl^$all
 ||polska-btcc.club^$all
 ||polska-btcc.icu^$all
 ||polska-btcc.website^$all
@@ -7973,6 +7988,7 @@
 ||server800577.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
 ||server870179.nazwa.pl^$all
+||server929027.nazwa.pl^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-payuser1.com^$all
 ||servicecheck5.wixsite.com^$all
@@ -8774,6 +8790,7 @@
 ||velica.com.br^$all
 ||verification.libertrust.com^$all
 ||verifyotofb.n4t.co^$all
+||verify-mail-account.web.app^$all
 ||verify-updatebfkmhgshgs.moonfruit.com^$all
 ||verify.libertrust.com^$all
 ||verino.co.pl^$all
