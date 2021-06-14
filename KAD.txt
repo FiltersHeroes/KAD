@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 14 Jun 2021, 17:05 UTC+02
-! Version: 2021.6.14.1
+! Last modified: Mon, 14 Jun 2021, 21:06 UTC+02
+! Version: 2021.6.14.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3060,6 +3060,7 @@
 ||darmowepiwo.000webhostapp.com^$all
 ||darmoweprezenty.pl^$all
 ||darmowetesty.com^$all
+||darmowe-delivery.com^$all
 ||darmowe-doladowania.net.pl^$all
 ||darmowe-doladowanie.pl^$all
 ||darmowe-ogloszenia.you2.pl^$all
@@ -3482,6 +3483,7 @@
 ||em-car.pl^$all
 ||energikundservice.se^$all
 ||energylaandia.pl^$all
+||energylanda.pl^$all
 ||energylandia24.pl^$all
 ||energylandiaa.waw.pl^$all
 ||energylandia-wypadek.pl^$all
@@ -4439,6 +4441,7 @@
 ||inpost.email^$all
 ||inpost.fit^$all
 ||inpost.help^$all
+||inpost.kurier24-oferta.world^$all
 ||inpost.kurierpolska-oferta.shop^$all
 ||inpost.life^$all
 ||inpost.link^$all
@@ -4458,6 +4461,8 @@
 ||inpost.pl-delivery.pw^$all
 ||inpost.pl-easycash.cyou^$all
 ||inpost.pl-easycash.icu^$all
+||inpost.pl-easycash.shop^$all
+||inpost.pl-easycash.work^$all
 ||inpost.pl-easycash.xyz^$all
 ||inpost.pl-fastcash.cyou^$all
 ||inpost.pl-fastcash.icu^$all
@@ -6020,6 +6025,7 @@
 ||olx-pay.org^$all
 ||olx-pay.pl.pay-reg.pw^$all
 ||olx-pln.eu^$all
+||olx-pl-delivering.icu^$all
 ||olx-pl-delivery.*^$all
 ||olx-pl-dostava.*^$all
 ||olx-pl-dostawa.*^$all
@@ -6084,6 +6090,7 @@
 ||olx-pro.pl^$all
 ||olx-przesylk*.*^$all
 ||olx-purchase.com^$all
+||olx-p-o-land.app^$all
 ||olx-p.pl^$all
 ||olx-q.pl^$all
 ||olx-rare.com^$all
@@ -6175,6 +6182,10 @@
 ||olx.plskontas.live^$all
 ||olx.pl-461280562.site^$all
 ||olx.pl-541069065.site^$all
+||olx.pl-easycash.cyou^$all
+||olx.pl-easycash.icu^$all
+||olx.pl-easycash.shop^$all
+||olx.pl-easycash.work^$all
 ||olx.pl-easycash.xyz^$all
 ||olx.pl-fastcash.icu^$all
 ||olx.pl-fastcash.xyz^$all
@@ -6943,6 +6954,15 @@
 ||peytosl.net^$all
 ||peytos.net^$all
 ||peytrom.net^$all
+||pgeoffer.space^$all
+||pge-group1.info^$all
+||pge-group1.site^$all
+||pge-group-pl.website^$all
+||pge-group.info^$all
+||pge-group.site^$all
+||pge-grupe.site^$all
+||pge-invest.website^$all
+||pge-pl-group.info^$all
 ||pge.toinvest.pro^$all
 ||pgiinvest.com^$all
 ||pgniginvest.info^$all
@@ -7037,6 +7057,7 @@
 ||plebiscyt-krakow.v00.pl^$all
 ||plebiscyt-warszawa.eu^$all
 ||pletomak.mypi.co^$all
+||plgroup-pge.info^$all
 ||plikgier.5p.pl^$all
 ||plikownik2015.wordpress.com^$all
 ||plikson.pl^$all
@@ -7858,6 +7879,7 @@
 ||safety-dostaw.net^$all
 ||safety-oglosznenie.com^$all
 ||safety.inpost.cam^$all
+||safety.inpost.email^$all
 ||safety.oferta-payment.agency^$all
 ||safety.oferta-payment.fit^$all
 ||safe-deliverry.name^$all
@@ -8470,6 +8492,7 @@
 ||terpay.net^$all
 ||teshekure.site^$all
 ||teslag.club^$all
+||teslax.shop^$all
 ||tesla-polskaaa.icu^$all
 ||testcompetence.pl^$all
 ||testeryperfum.fcg.org.pl^$all
