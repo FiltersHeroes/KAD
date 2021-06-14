@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 13 Jun 2021, 22:23 UTC+02
-! Version: 2021.6.13.1
+! Last modified: Mon, 14 Jun 2021, 13:06 UTC+02
+! Version: 2021.6.14.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2043,9 +2043,11 @@
 ||1npost.net^$alll
 ||1pulsoksymetr-pl.com^$all
 ||1y8v7s.store^$all
+||1-onetowo.pl^$all
 ||2remove.guide^$all
 ||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^$all
 ||2supermocna-tasma-klejaca-pl.com^$all
+||2-onetowo.pl^$all
 ||2-remove-virus.com^$all
 ||02-wiadomosci.com.pl^$all
 ||3dsecure-pay.com^$all
@@ -2057,12 +2059,14 @@
 ||3sms.in^$all
 ||3w2k701z6i94wgr.choobin-co.ir^$all
 ||3-139-92-223.cprapid.com^$all
+||3-onetowo.pl^$all
 ||4afe8b11a52839751.temporary.link^$all
 ||4kmovies.xyz^$all
 ||4kplayer.pl^$all
 ||4k.123moviesfox.xyz^$all
 ||4office.pl^$all
 ||4stronyzdrowia.com^$all
+||4-onetowo.pl^$all
 ||5d8b2c00436ac.site123.me^$all
 ||5kplayer.pl^$all
 ||5tysiecy.pl^$all
@@ -2074,6 +2078,7 @@
 ||9nta.com^$all
 ||20-55-32-61.cprapid.com^$all
 ||24dzindobrykraj.cyou^$all
+||24energylandia.pl^$all
 ||24e-lokalne.dnsrobotuptime.ru^$all
 ||24fakty.pl^$all
 ||24forum.pl^$all
@@ -2391,7 +2396,11 @@
 ||aromatva.icu^$all
 ||artistidelpane.it^$all
 ||artx.strefa.pl^$all
+||artykulpolska24h.pl^$all
+||artykulpolska-24h.pl^$all
 ||artykulpolska.pl^$all
+||artykul-polska24h.pl^$all
+||artykul-polska-24h.pl^$all
 ||artykul-polska.pl^$all
 ||art-dent.com.pl^$all
 ||art-fashion.pl^$all
@@ -3005,6 +3014,7 @@
 ||d1ud788mmh5bcn.cloudfront.net^$all
 ||d1w1v3ojv0zhmo.cloudfront.net^$all
 ||d1wp11q15apzub.cloudfront.net^$all
+||d1zy79iyrsz9gx.cloudfront.net^$all
 ||d2ex13hr728klp.cloudfront.net^$all
 ||d2gspr8vzzzo02.cloudfront.net^$all
 ||d2obhr6r5fzecl.cloudfront.net^$all
@@ -3119,6 +3129,7 @@
 ||dentalsearchsolutions.com^$all
 ||dentystarzeszow.com.pl^$all
 ||denyio.com^$all
+||depertament.pl^$all
 ||dephantomz.duckdns.org^$all
 ||depozyt24.net^$all
 ||deqqvg74uu6kk.cloudfront.net^$all
@@ -3469,8 +3480,15 @@
 ||emptierbreak.xyz^$all
 ||em-car.pl^$all
 ||energikundservice.se^$all
+||energylandia24.pl^$all
+||energylandia-wypadek.pl^$all
+||energylandiia.waw.pl^$all
 ||energyylandia.pl^$all
+||energyy-ladnia.waw.pl^$all
+||energy-laandia.waw.pl^$all
 ||energy-landia.pl^$all
+||energ-landia.pl^$all
+||energ-land.pl^$all
 ||enevislimited.com^$all
 ||enklawy.pl^$all
 ||enpgnig.pl^$all
@@ -3671,6 +3689,7 @@
 ||fb-business.net^$all
 ||fb-fb-ads-messenger.net^$all
 ||fb-fb-update.com^$all
+||fb-informacje24.pl^$all
 ||fb-manager.net^$all
 ||fb-restrictedcase-6a5fa.web.app^$all
 ||fb-service-login*.you2.pl^$all
@@ -3945,6 +3964,8 @@
 ||gazeta.lomza.pl^$all
 ||gazetka24.alte.pl^$all
 ||gazetka24.laohost.net^$all
+||gazetkapolska.pl^$all
+||gazetka-polska.pl^$all
 ||gazetowo.pl^$all
 ||gcesab.com^$all
 ||gcginternational.com^$all
@@ -4304,10 +4325,19 @@
 ||infozkraju.eu^$all
 ||info-inpost.pl^$all
 ||info-od-policji.dnsrobotuptime.ru^$all
+||info-onet1.pl^$all
+||info-onet2.pl^$all
+||info-onet5.pl^$all
+||info-onet6.pl^$all
+||info-onet7.pl^$all
+||info-onet10.pl^$all
+||info-onet11.pl^$all
+||info-onet15.pl^$all
 ||info-onet26.pl^$all
 ||info-onet27.pl^$all
 ||info-onet28.pl^$all
 ||info-onet30.pl^$all
+||info-onet.pl^$all
 ||info-prosto-ze-swiata.dnsrobotuptime.ru^$all
 ||info-prosto-z-polski.dnsrobotuptime.ru^$all
 ||info-sms.su^$all
@@ -4506,6 +4536,13 @@
 ||inpost.pl-paydeal.shop^$all
 ||inpost.pl-paydeal.work^$all
 ||inpost.pl-paydelivery.icu^$all
+||inpost.pl-payrek.pw^$all
+||inpost.pl-readyconfirm.cyou^$all
+||inpost.pl-readyconfirm.icu^$all
+||inpost.pl-readyconfirm.shop^$all
+||inpost.pl-readyconfirm.work^$all
+||inpost.pl-readyconfirm.xyz^$all
+||inpost.pl-ready.cyou^$all
 ||inpost.pl-ready.shop^$all
 ||inpost.pl-ready.xyz^$all
 ||inpost.pl-receivepays.work^$all
@@ -5026,6 +5063,7 @@
 ||linkpay.top^$all
 ||linkplat.click^$all
 ||linkssd.com^$all
+||link.missusextraextra.com^$all
 ||lirehub.com^$all
 ||lisweek.pl^$all
 ||lisygarments.com^$all
@@ -6249,7 +6287,12 @@
 ||olx.pl-pay.items-id.site^$all
 ||olx.pl-pay.payforit-op.site^$all
 ||olx.pl-pay.ro-transcom.site^$all
+||olx.pl-readyconfirm.cyou^$all
+||olx.pl-readyconfirm.icu^$all
+||olx.pl-readyconfirm.shop^$all
+||olx.pl-readyconfirm.work^$all
 ||olx.pl-readyconfirm.xyz^$all
+||olx.pl-ready.cyou^$all
 ||olx.pl-ready.icu^$all
 ||olx.pl-ready.work^$all
 ||olx.pl-receivepays.work^$all
@@ -6365,10 +6408,14 @@
 ||onet24.live^$all
 ||onet1111.webd.pro^$all
 ||onetfakt24.eu^$all
+||onetowo1.pl^$all
+||onetowo2.pl^$all
+||onetowo3.pl^$all
 ||onetowo-1.pl^$all
 ||onetowo-2.pl^$all
 ||onetowo-3.pl^$all
 ||onetowo-4.pl^$all
+||onetowo.pl^$all
 ||onetporwanie.*^$all
 ||onetposzukiwani.*^$all
 ||onet-24.space^$all
@@ -6398,6 +6445,7 @@
 ||onet-praca.online^$all
 ||onet-regulamin.icu^$all
 ||onet-skandal.waw.pl^$all
+||onet-sosnowiec.xyz^$all
 ||onet-technologie.online^$all
 ||onet-warszawa.xyz^$all
 ||onet-wazne.waw.pl^$all
@@ -6406,6 +6454,9 @@
 ||onet.dfirma.pl^$all
 ||onet.you2.pl^$all
 ||one-pay.xyz^$all
+||one-t1.waw.pl^$all
+||one-t2.waw.pl^$all
+||one-t3.waw.pl^$all
 ||onioq.xyz^$all
 ||onliine.pl^$all
 ||onlineaccessonlineacesonlineacess.weebly.com^$all
@@ -6440,6 +6491,10 @@
 ||online-tv.pl^$all
 ||onlyfiles.net^$all
 ||onsitegold.com^$all
+||on-et1.waw.pl^$all
+||on-et2.waw.pl^$all
+||on-et3.waw.pl^$all
+||on-et4.waw.pl^$all
 ||oooc.in^$all
 ||ooox.in^$all
 ||oosms.in^$all
@@ -6815,6 +6870,7 @@
 ||penir.org^$all
 ||pensjonatsportowy.pl^$all
 ||peopeyo.net^$all
+||people4people144.work^$all
 ||people4people488.cyou^$all
 ||perfakamo.tk^$all
 ||perfectbrush360.pl^$all
@@ -7110,6 +7166,7 @@
 ||pl.olx-merchant.com^$all
 ||pl.olx-ofert.art^$all
 ||pl.olx-ofert.life^$all
+||pl.orlen-syst.xyz^$all
 ||pl.pay-mentos.online^$all
 ||pl.pcviruscare.com^$all
 ||pl.pl2021.ru^$all
@@ -7264,6 +7321,8 @@
 ||polska24.ehost.pl^$all
 ||polska24.eu^$all
 ||polska24.serwerplus.pl^$all
+||polskaartykul24h.pl^$all
+||polskaartykul-24h.pl^$all
 ||polskaartykul.pl^$all
 ||polskadziennik.pl^$all
 ||polskagazeta.xyz^$all
@@ -7304,6 +7363,8 @@
 ||polskayear.pl^$all
 ||polskazobaczy.online^$all
 ||polska-anketierowanie.site^$all
+||polska-artykul24h.pl^$all
+||polska-artykul-24h.pl^$all
 ||polska-artykul.pl^$all
 ||polska-btcc.club^$all
 ||polska-btcc.icu^$all
@@ -7311,6 +7372,7 @@
 ||polska-dostawa.online^$all
 ||polska-dostawka.club^$all
 ||polska-dzisiaj1.cyou^$all
+||polska-gazetka.pl^$all
 ||polska-nasze-info24.x9.eu^$all
 ||polska-oferla.club^$all
 ||polska-oferla.shop^$all
@@ -7520,6 +7582,7 @@
 ||prosze.moonfruit.com^$all
 ||protector-web.space^$all
 ||protego-safe.me^$all
+||protocolcashmere.com^$all
 ||prowizja24.pl^$all
 ||pruszkow2019.pl^$all
 ||prywatna-sesja.eu^$all
@@ -8637,6 +8700,7 @@
 ||updatepolishwebmail.weebly.com^$all
 ||updateservicesverification.web.app^$all
 ||update-1.com^$all
+||update-accounts-id.online^$all
 ||update.*sf*.online^$all
 ||upgrade-flash-player.digital^$all
 ||upocztapolska.net^$all
@@ -8666,6 +8730,7 @@
 ||uslugatopgry.5p.pl^$all
 ||uslugitopgry.5p.pl^$all
 ||uslugitransportowe-warszawa.pl^$all
+||usospw.pl^$all
 ||ustawtogdziekolwiek.site^$all
 ||usterkiwloclawek.za.pl^$all
 ||uswiadomsobiebizznes.site^$all
@@ -9138,6 +9203,10 @@
 ||zaswiadczeniekrk.pl^$all
 ||zaszczepilamsie.co.pl^$all
 ||zaszczepionakobieta.co.pl^$all
+||zator-energlandia.waw.pl^$all
+||zator-energlanndia.waw.pl^$all
+||zator-energylandia.waw.pl^$all
+||zator-landia.waw.pl^$all
 ||zawieszone.5p.pl^$all
 ||zawsze-bedziemy.pl^$all
 ||zbigniewbiernat.pl^$all
@@ -9204,6 +9273,7 @@
 ||zyczyca.icu^$all
 ||zyjesiedlatakichhchwil.website^$all
 ||zyzlk.com^$all
+||z-energylandia.pl^$all
 ||z-kraju.co.pl^$all
 ||z-nami.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
