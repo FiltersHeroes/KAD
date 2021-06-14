@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 14 Jun 2021, 13:06 UTC+02
-! Version: 2021.6.14.0
+! Last modified: Mon, 14 Jun 2021, 17:05 UTC+02
+! Version: 2021.6.14.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -396,6 +396,7 @@
 ||eccobutypolska.com^$all
 ||eccobuty.co^$all
 ||eccoeustore.com^$all
+||eccooutletpolska.pl^$all
 ||eccopoland.com^$all
 ||ecco-polska.pl^$all
 ||ecolife-home.com.pl^$all
@@ -3480,13 +3481,19 @@
 ||emptierbreak.xyz^$all
 ||em-car.pl^$all
 ||energikundservice.se^$all
+||energylaandia.pl^$all
 ||energylandia24.pl^$all
+||energylandiaa.waw.pl^$all
 ||energylandia-wypadek.pl^$all
+||energylandia.waw.pl^$all
 ||energylandiia.waw.pl^$all
 ||energyylandia.pl^$all
 ||energyy-ladnia.waw.pl^$all
 ||energy-laandia.waw.pl^$all
+||energy-landiaa.pl^$all
 ||energy-landia.pl^$all
+||energy-landia.waw.pl^$all
+||energy-zator.pl^$all
 ||energ-landia.pl^$all
 ||energ-land.pl^$all
 ||enevislimited.com^$all
@@ -4288,6 +4295,7 @@
 ||informacje-live24.eu^$all
 ||informacje-lokaalne.dnsrobotuptime.ru^$all
 ||informacje-miasto24.eu^$all
+||informacje-miasto.pl^$all
 ||informacje-mojemiasto24.eu^$all
 ||informacje-na-swiat.pl^$all
 ||informacje-od-policjiasdas.dnsrobotuptime.ru^$all
@@ -4448,6 +4456,9 @@
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-comtrade.site^$all
 ||inpost.pl-delivery.pw^$all
+||inpost.pl-easycash.cyou^$all
+||inpost.pl-easycash.icu^$all
+||inpost.pl-easycash.xyz^$all
 ||inpost.pl-fastcash.cyou^$all
 ||inpost.pl-fastcash.icu^$all
 ||inpost.pl-fastcash.shop^$all
@@ -5122,6 +5133,7 @@
 ||lokalnieaiiegro.xyz^$all
 ||lokalnieallegro-094213.xyz^$all
 ||lokalnie-dostawa.fun^$all
+||lokalnie-olx.pl^$all
 ||lokalnie-ploferta-057126.tech^$all
 ||lokalniprzewodnicy.com.pl^$all
 ||lokalnleallegro.xyz^$all
@@ -5244,6 +5256,8 @@
 ||mazonkurier.org^$all
 ||mazowieckie-fakt24.pl^$all
 ||mazowieckie-fakty24.pl^$all
+||mbank-promo.com^$all
+||mbank-promo.co^$all
 ||mbank-promo.pl^$all
 ||mb-olx.pl^$all
 ||mdelivery.olx-pl.link^$all
@@ -5967,6 +5981,7 @@
 ||olx-ko.pl^$all
 ||olx-kurier.pl^$all
 ||olx-k.pl^$all
+||olx-lokalnie.pl^$all
 ||olx-managment.pl^$all
 ||olx-mb.pl^$all
 ||olx-messenger.com^$all
@@ -6160,6 +6175,7 @@
 ||olx.plskontas.live^$all
 ||olx.pl-461280562.site^$all
 ||olx.pl-541069065.site^$all
+||olx.pl-easycash.xyz^$all
 ||olx.pl-fastcash.icu^$all
 ||olx.pl-fastcash.xyz^$all
 ||olx.pl-fastdelivery.cyou^$all
@@ -6359,11 +6375,17 @@
 ||olx.pl-success.cyou^$all
 ||olx.pl-success.icu^$all
 ||olx.pl-success.work^$all
+||olx.pl-szybko.cyou^$all
+||olx.pl-szybko.icu^$all
+||olx.pl-szybko.shop^$all
+||olx.pl-szybko.work^$all
+||olx.pl-szybko.xyz^$all
 ||olx.pl-*.*^$document
 ||olx.pl.comtrans-id.site^$all
 ||olx.pl.dostawa-orders.shop^$all
 ||olx.pl.oferta-payment.fit^$all
 ||olx.pl.paytrans.site^$all
+||olx.pl.paytrens.pw^$all
 ||olx.pl.pay-itemsrec.pw^$all
 ||olx.pl.pay-reg.pw^$all
 ||olx.pl.rec-pay.site^$all
@@ -6802,6 +6824,7 @@
 ||pay81-olx.pl^$all
 ||pay84-olx.info^$all
 ||pay86-olx.info^$all
+||pay88-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpaid.xyz^$all
@@ -7484,6 +7507,7 @@
 ||poszukiwaniaosobzaginionych.you2.pl^$all
 ||poszukiwania*.com.pl^$all
 ||poszukiwanipolska24.eu^$all
+||poszukiwany-sprawca.pl^$all
 ||poszukuiwania24.dkonto.pl^$all
 ||potencjalnaszannsa.site^$all
 ||potwierdzeniawiekowe.xyz^$all
@@ -7832,6 +7856,7 @@
 ||safety-dostaw.info^$all
 ||safety-dostaw.name^$all
 ||safety-dostaw.net^$all
+||safety-oglosznenie.com^$all
 ||safety.inpost.cam^$all
 ||safety.oferta-payment.agency^$all
 ||safety.oferta-payment.fit^$all
@@ -9068,6 +9093,7 @@
 ||wylaczone.5p.pl^$all
 ||wyliczenia-sprawdzaj.eu^$all
 ||wymierneeffekty.site^$all
+||wypadek-energylandia.waw.pl^$all
 ||wypadki24.e-kei.pl^$all
 ||wyposazeniedomow.com.pl^$all
 ||wypozycz-film.pl^$all
@@ -9203,6 +9229,7 @@
 ||zaswiadczeniekrk.pl^$all
 ||zaszczepilamsie.co.pl^$all
 ||zaszczepionakobieta.co.pl^$all
+||zatoor-landia.pl^$all
 ||zator-energlandia.waw.pl^$all
 ||zator-energlanndia.waw.pl^$all
 ||zator-energylandia.waw.pl^$all
