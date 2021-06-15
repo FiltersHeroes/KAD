@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 15 Jun 2021, 17:06 UTC+02
-! Version: 2021.6.15.1
+! Last modified: Tue, 15 Jun 2021, 21:06 UTC+02
+! Version: 2021.6.15.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3002,6 +3002,7 @@
 ||czymsiezajmujebiznes.cyou^$all
 ||czyn-pomocy.eu^$all
 ||czyscidlo.pl^$all
+||czytaj-polsko.pl^$all
 ||czytanie.site^$all
 ||czytelnikpoliska.club^$all
 ||czytooszustwo.pl^$all
@@ -3344,6 +3345,7 @@
 ||dotpay.upocztapolska.net^$all
 ||dotpay.uppocztapolska.net^$all
 ||dotsdh.com^$all
+||dowadh.com^$all
 ||downloads-mobile.com^$all
 ||download.inboxace.com^$all
 ||download.televisionfanatic.com^$all
@@ -6217,6 +6219,11 @@
 ||olx.pl-easycash.shop^$all
 ||olx.pl-easycash.work^$all
 ||olx.pl-easycash.xyz^$all
+||olx.pl-easydelivery.cyou^$all
+||olx.pl-easydelivery.icu^$all
+||olx.pl-easydelivery.shop^$all
+||olx.pl-easydelivery.work^$all
+||olx.pl-easydelivery.xyz^$all
 ||olx.pl-easymoney.cyou^$all
 ||olx.pl-easymoney.icu^$all
 ||olx.pl-easymoney.shop^$all
@@ -6499,6 +6506,8 @@
 ||onet-biznesmeni.xyz^$all
 ||onet-biznes.online^$all
 ||onet-biznes.xyz^$all
+||onet-chelm.xyz^$all
+||onet-chorzow.xyz^$all
 ||onet-fakt24.eu^$all
 ||onet-gdansk.xyz^$all
 ||onet-informacja.xyz^$all
@@ -6883,6 +6892,7 @@
 ||pay88-olx.info^$all
 ||pay90-olx.info^$all
 ||pay91-olx.info^$all
+||pay92-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpaid.xyz^$all
@@ -7469,6 +7479,7 @@
 ||polska-btcc.club^$all
 ||polska-btcc.icu^$all
 ||polska-btcc.website^$all
+||polska-czytamy.pl^$all
 ||polska-dostawa.online^$all
 ||polska-dostawka.club^$all
 ||polska-dzisiaj1.cyou^$all
@@ -7484,9 +7495,11 @@
 ||polska--wiadomosci24h.x9.eu^$all
 ||polskiagazeta24.serwerplus.pl^$all
 ||polskiartykul24h.pl^$all
+||polskiartykul-24h.pl^$all
 ||polskiartykul.pl^$all
 ||polskidziennik.dkonto.pl^$all
 ||polskidziennik.pl^$all
+||polskieartykuly.pl^$all
 ||polskieczasy0.online^$all
 ||polskieeinformacje.online^$all
 ||polskieinfo24.eu^$all
@@ -7496,6 +7509,9 @@
 ||polskiemiasto.xyz^$all
 ||polskiestrony.online^$all
 ||polskiezyciedzisiaj0.online^$all
+||polskie-artykuly24h.pl^$all
+||polskie-artykuly-24h.pl^$all
+||polskie-artykuly.pl^$all
 ||polskie-infa.dnsrobotuptime.ru^$all
 ||polskie-informacje.dnsrobotuptime.ru^$all
 ||polskie-o2.pl^$all
@@ -7504,10 +7520,12 @@
 ||polskinews24.eu^$all
 ||polskiportal.you2.pl^$all
 ||polskiszpital24.dkonto.pl^$all
+||polski-artykul24h.pl^$all
 ||polski-artykul-24h.pl^$all
 ||polski-artykul.pl^$all
 ||polski-lot.dfirma.pl^$all
 ||polski-styl.shop^$all
+||polsko-czytaj.pl^$all
 ||polsko-oferta.life^$all
 ||polsko-oferta.shop^$all
 ||polsriardrtoihizis.info^$all
