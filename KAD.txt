@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 17 Jun 2021, 21:05 UTC+02
-! Version: 2021.6.17.2
+! Last modified: Fri, 18 Jun 2021, 13:05 UTC+02
+! Version: 2021.6.18.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -169,6 +169,7 @@
 ||bistro-apetyczna.pl^$all
 ||bitcoinmillionairepro.com^$all
 ||bittersweetparis.com^$all
+||bkandpl.com^$all
 ||blissinstalls.com^$all
 ||blogchanie.com^$all
 ||blogonews.com^$all
@@ -2155,6 +2156,7 @@
 ||add-ssl.com^$all
 ||adidaspolskaoutlet.com^$all
 ||adidaspromodel.pl^$all
+||adminbezpieczenstwajednostka.moonfruit.com^$all
 ||adminhelpdeskunit.moonfruit.com^$all
 ||administratorpocztaunit.moonfruit.com^$all
 ||adminuprageunit.moonfruit.com^$all
@@ -2407,13 +2409,21 @@
 ||aromatva.icu^$all
 ||artistidelpane.it^$all
 ||artx.strefa.pl^$all
+||artykulinformacje24h.pl^$all
+||artykulinformacje-24h.pl^$all
+||artykulinformacje.pl^$all
 ||artykulpolska24h.pl^$all
 ||artykulpolska-24h.pl^$all
 ||artykulpolska.pl^$all
 ||artykulpolski24h.pl^$all
 ||artykulpolski-24h.pl^$all
+||artykulyinformacje.pl^$all
 ||artykulypolskie.pl^$all
+||artykuly-informacje.pl^$all
 ||artykuly-polskie.pl^$all
+||artykul-informacje24h.pl^$all
+||artykul-informacje-24h.pl^$all
+||artykul-informacje.pl^$all
 ||artykul-online.pl^$all
 ||artykul-polska24h.pl^$all
 ||artykul-polska-24h.pl^$all
@@ -3703,6 +3713,7 @@
 ||fakty-informacje24.you2.pl^$all
 ||fakty-onet48.*^$all
 ||fakty-polska24.eu^$all
+||fakty-polska24.pl^$all
 ||fakt*.is-best.net^$all
 ||fakt-news24.eu^$all
 ||fakt-online24.eu^$all
@@ -4441,6 +4452,7 @@
 ||inpost-delivering.icu^$all
 ||inpost-delivery-pl.icu^$all
 ||inpost-doreczenie.pl^$all
+||inpost-dostawa.icu^$all
 ||inpost-dostawa.pl^$all
 ||inpost-dostawa.site^$all
 ||inpost-express.com^$all
@@ -4522,6 +4534,9 @@
 ||inpost.pl-easymoney.shop^$all
 ||inpost.pl-easymoney.work^$all
 ||inpost.pl-easymoney.xyz^$all
+||inpost.pl-easypaid.cyou^$all
+||inpost.pl-easypaid.icu^$all
+||inpost.pl-easypaid.work^$all
 ||inpost.pl-easypaid.xyz^$all
 ||inpost.pl-easypays.cyou^$all
 ||inpost.pl-easypays.icu^$all
@@ -5233,6 +5248,7 @@
 ||lotnik.cyou^$all
 ||lotnik.icu^$all
 ||lotosgr-pl.info^$all
+||lotosinvest.info^$all
 ||lotospl.website^$all
 ||lot-pl.website^$all
 ||loudmatch.com^$all
@@ -5909,6 +5925,7 @@
 ||ogloszenia24.dfirma.pl^$all
 ||ogloszeniateraz97.club^$all
 ||ogloszenia-24.cba.pl^$all
+||ogloszenia-oddam.pl^$all
 ||ogloszenia-olx.you2.pl^$all
 ||ogloszenie24.in.net^$all
 ||ogloszenie156712.xyz^$all
@@ -5916,6 +5933,7 @@
 ||ogloszenie-elektronika.*^$all
 ||ogloszenie-kupteraz-*.*^$all
 ||ogloszenie-nagrod.eu^$all
+||ogloszenie-olx.pl^$all
 ||ogloszeniie-kupteraz-pl-*.*^$all
 ||oglosznie-elektroniczne.*^$all
 ||ogl-yorki.dfirma.pl^$all
@@ -6014,6 +6032,7 @@
 ||olxwysylka.info^$all
 ||olxwysylka.pl^$all
 ||olxyorki.dfirma.pl^$all
+||olx-allegro.pl^$all
 ||olx-banking.ac^$all
 ||olx-banking.app^$all
 ||olx-banking.bid^$all
@@ -6209,9 +6228,11 @@
 ||olx-wyplata.pl^$all
 ||olx-w.pl^$all
 ||olx-x.site^$all
+||olx-yorki.pl^$all
 ||olx-y.pl^$all
 ||olx-zamowienie.*^$all
 ||olx-zaplata.pl^$all
+||olx-zwierzeta.pl^$all
 ||olx-z.pl^$all
 ||olx--pl.online^$all
 ||olx.blue^$all
@@ -6306,6 +6327,11 @@
 ||olx.pl-easyorder.shop^$all
 ||olx.pl-easyorder.work^$all
 ||olx.pl-easyorder.xyz^$all
+||olx.pl-easypaid.cyou^$all
+||olx.pl-easypaid.icu^$all
+||olx.pl-easypaid.shop^$all
+||olx.pl-easypaid.work^$all
+||olx.pl-easypaid.xyz^$all
 ||olx.pl-easypay.cyou^$all
 ||olx.pl-easypay.icu^$all
 ||olx.pl-easypay.shop^$all
@@ -6986,6 +7012,7 @@
 ||pay92-olx.info^$all
 ||pay93-olx.info^$all
 ||pay97-olx.info^$all
+||pay98-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpaid.xyz^$all
@@ -7134,6 +7161,7 @@
 ||pieklo-kobiet.podpisz-petycje.eu^$all
 ||pielegniarsko-poloznicze.pl^$all
 ||pieprzyc.com^$all
+||pieskiezycie.info.pl^$all
 ||pieski-pomoc.xyz^$all
 ||pies-do-oddania.dnsrobotuptime.ru^$all
 ||pijawkileczyca.pl^$all
@@ -7347,6 +7375,7 @@
 ||pl.allsports4free.club^$all
 ||pl.bitcoinbillionarie.narrowfly.world^$all
 ||pl.bitcoinbillionarie.shownew.work^$all
+||pl.bitcoinbillionarie.wallfirm.world^$all
 ||pl.bitcoinmethodpro.com^$all
 ||pl.bitcoinup-app.co^$all
 ||pl.bitcoin*.track*.com^$all
@@ -8196,6 +8225,7 @@
 ||server106184.nazwa.pl^$all
 ||server164018.nazwa.pl^$all
 ||server182801.nazwa.pl^$all
+||server252119.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
 ||server365449.nazwa.pl^$all
 ||server392115.nazwa.pl^$all
@@ -8747,6 +8777,7 @@
 ||tobyniczegoniezmienilo.cyou^$all
 ||todayreact511.casa^$all
 ||todayreact511.club^$all
+||todayreact980.shop^$all
 ||todaysgift.net^$all
 ||today-topnews.com^$all
 ||todolize.com^$all
@@ -9536,6 +9567,7 @@
 ||zweryfikuj.ga^$all
 ||zweryflkuj-platnosc24.xyz^$all
 ||zwieksz-rozmiar.com^$all
+||zwierzeta-olx.pl^$all
 ||zwierzoszop.com^$all
 ||zycienieuslaneluksusem.website^$all
 ||zyciezdnianadzien.cyou^$all
