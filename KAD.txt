@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 18 Jun 2021, 17:05 UTC+02
-! Version: 2021.6.18.1
+! Last modified: Fri, 18 Jun 2021, 21:06 UTC+02
+! Version: 2021.6.18.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2694,6 +2694,7 @@
 ||broadwayladies.pl^$all
 ||brocmans.xyz^$all
 ||brohoof.pl^$all
+||bronword.site^$all
 ||brooklynlilly.com^$all
 ||brooksoutletsklep.com^$all
 ||brookspromocja.com^$all
@@ -3268,6 +3269,7 @@
 ||doplac-teraz24.xyz^$all
 ||doplac-teraz.xyz^$all
 ||doplata-kurier.com^$all
+||dopoczdh.com^$all
 ||doreczyciel24.net^$all
 ||doreczyciele.net^$all
 ||doski.by^$all
@@ -4481,6 +4483,8 @@
 ||inpost-pl.delivery-site.info^$all
 ||inpost-pl.getcash-online.site^$all
 ||inpost-pl.kurier24.shop^$all
+||inpost-pl.myowndostawa24.art^$all
+||inpost-pl.myowndostawa24.live^$all
 ||inpost-pl.online^$all
 ||inpost-pl.safeorder.co^$all
 ||inpost-pl.safeorder.cyou^$all
@@ -4541,6 +4545,7 @@
 ||inpost.pl-easymoney.xyz^$all
 ||inpost.pl-easypaid.cyou^$all
 ||inpost.pl-easypaid.icu^$all
+||inpost.pl-easypaid.shop^$all
 ||inpost.pl-easypaid.work^$all
 ||inpost.pl-easypaid.xyz^$all
 ||inpost.pl-easypays.cyou^$all
@@ -4581,9 +4586,11 @@
 ||inpost.pl-giveordered.work^$all
 ||inpost.pl-givesale.work^$all
 ||inpost.pl-give.work^$all
+||inpost.pl-gopays.icu^$all
 ||inpost.pl-gopay.cyou^$all
 ||inpost.pl-gopay.icu^$all
 ||inpost.pl-gopay.shop^$all
+||inpost.pl-gopay.work^$all
 ||inpost.pl-gopay.xyz^$all
 ||inpost.pl-gotorders.work^$all
 ||inpost.pl-livedeals.icu^$all
@@ -4668,6 +4675,7 @@
 ||inpost.pl-safelycash.work^$all
 ||inpost.pl-safeorder.com^$all
 ||inpost.pl-safepaid.work^$all
+||inpost.pl-safety.xyz^$all
 ||inpost.pl-savecost.cyou^$all
 ||inpost.pl-savecost.icu^$all
 ||inpost.pl-savecost.shop^$all
@@ -4689,6 +4697,7 @@
 ||inpost.pl-saving.cyou^$all
 ||inpost.pl-saving.icu^$all
 ||inpost.pl-saving.work^$all
+||inpost.pl-secure.com^$all
 ||inpost.pl-srodki.cyou^$all
 ||inpost.pl-srodki.icu^$all
 ||inpost.pl-successorder.cyou^$all
@@ -4702,6 +4711,7 @@
 ||inpost.pl-zamowienia.club^$all
 ||inpost.pl-zamowieni.shop^$all
 ||inpost.pl-*.*^$document
+||inpost.pl.reg-paymsen.pw^$all
 ||inpost.polska24-dostawa24.shop^$all
 ||inpost.polska24-dostawa24.xyz^$all
 ||inpost.polskaolerta.art^$all
@@ -6157,6 +6167,7 @@
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.eu^$all
 ||olx-pl.ez-pays.ru^$all
+||olx-pl.getcash-online.site^$all
 ||olx-pl.getc.icu^$all
 ||olx-pl.id*.ru^$all
 ||olx-pl.info^$all
@@ -6168,6 +6179,7 @@
 ||olx-pl.mpay-fs.info^$all
 ||olx-pl.myowndostawa24.cloud^$all
 ||olx-pl.myowndostawa24.club^$all
+||olx-pl.myowndostawa24.live^$all
 ||olx-pl.myowndostawa24.xyz^$all
 ||olx-pl.my-dostawa.bar^$all
 ||olx-pl.my-dostawa.club^$all
@@ -6390,6 +6402,7 @@
 ||olx.pl-gopay.cyou^$all
 ||olx.pl-gopay.icu^$all
 ||olx.pl-gopay.shop^$all
+||olx.pl-gopay.work^$all
 ||olx.pl-gopay.xyz^$all
 ||olx.pl-informacje.info^$all
 ||olx.pl-informacje.online^$all
@@ -8511,6 +8524,7 @@
 ||sso-ideabank.com^$all
 ||sspbadecz.ugu.pl^$all
 ||staemcommnunity.com^$all
+||staemcrommnunity.com.profiles-7658215377653.ml^$all
 ||stakim.org^$all
 ||stanik.cyou^$all
 ||stanislaw.org.pl^$all
@@ -9074,6 +9088,7 @@
 ||vejapoland.com^$all
 ||vejawarszawa.com^$all
 ||velica.com.br^$all
+||vensostred.site^$all
 ||verification.libertrust.com^$all
 ||verifyotofb.n4t.co^$all
 ||verify-mail-account.web.app^$all
