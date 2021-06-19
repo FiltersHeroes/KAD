@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 18 Jun 2021, 21:06 UTC+02
-! Version: 2021.6.18.2
+! Last modified: Sat, 19 Jun 2021, 13:05 UTC+02
+! Version: 2021.6.19.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2347,6 +2347,7 @@
 ||ankaraa.icu^$all
 ||anmcm-azmon.myvnc.com^$all
 ||annitakurier.org^$all
+||ansdgaft.site^$all
 ||antares.trade^$all
 ||antispam-pro.us^$all
 ||antivyruus.xyz^$all
@@ -2549,6 +2550,7 @@
 ||bezdyskusyjniedobre.cyou^$all
 ||bezironigazetta.site^$all
 ||bezpieczenstwo.wp-pl.eu^$all
+||bezpieczna-delivery.com^$all
 ||bezpieczna-dostawa-pl.com^$all
 ||bezpieczna-dostawa.biz^$all
 ||bezpieczna-dostawa.com.pl^$all
@@ -3180,6 +3182,7 @@
 ||dgebq.csb.app^$all
 ||dgtmarket.com^$all
 ||dhcouriers.com^$all
+||dhdost.com^$all
 ||dhexpl.com^$all
 ||dhexpres.com^$all
 ||dhl24-paczka.com^$all
@@ -3464,6 +3467,7 @@
 ||ecomobilni.pl^$all
 ||eco-paczka24.com^$all
 ||edland.pro^$all
+||education-pl.info^$all
 ||edziennik.xyz^$all
 ||eero-systems.xyz^$all
 ||eforsa.pl^$all
@@ -4184,6 +4188,7 @@
 ||hearbreakingfizz.top^$all
 ||hehreerh.001www.com^$all
 ||helianthus.com.pl^$all
+||helikopteri.site^$all
 ||helloworld.ddnsking.com^$all
 ||helpeachother277.cyou^$all
 ||helpeachother422.casa^$all
@@ -4526,6 +4531,7 @@
 ||inpost.olxkon*.*^$all
 ||inpost.one^$all
 ||inpost.order-pl.art^$all
+||inpost.owndostawa.cyou^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
@@ -4586,7 +4592,11 @@
 ||inpost.pl-giveordered.work^$all
 ||inpost.pl-givesale.work^$all
 ||inpost.pl-give.work^$all
+||inpost.pl-gopays.cyou^$all
 ||inpost.pl-gopays.icu^$all
+||inpost.pl-gopays.shop^$all
+||inpost.pl-gopays.work^$all
+||inpost.pl-gopays.xyz^$all
 ||inpost.pl-gopay.cyou^$all
 ||inpost.pl-gopay.icu^$all
 ||inpost.pl-gopay.shop^$all
@@ -4721,6 +4731,7 @@
 ||inpost.polska-*.*^$document
 ||inpost.pw^$all
 ||inpost.services^$all
+||inpost.shlinks.me^$all
 ||inpost.surf^$all
 ||inpost.su^$all
 ||inpost.tech^$all
@@ -5269,6 +5280,7 @@
 ||lotosgr-pl.info^$all
 ||lotosinvest.info^$all
 ||lotospl.website^$all
+||lotos-grupa.site^$all
 ||lot-pl.website^$all
 ||loudmatch.com^$all
 ||loutam.xyz^$all
@@ -6399,6 +6411,11 @@
 ||olx.pl-givesold.work^$all
 ||olx.pl-give.shop^$all
 ||olx.pl-give.work^$all
+||olx.pl-gopays.cyou^$all
+||olx.pl-gopays.icu^$all
+||olx.pl-gopays.shop^$all
+||olx.pl-gopays.work^$all
+||olx.pl-gopays.xyz^$all
 ||olx.pl-gopay.cyou^$all
 ||olx.pl-gopay.icu^$all
 ||olx.pl-gopay.shop^$all
@@ -6606,6 +6623,7 @@
 ||olx.przewiezienie.pl^$all
 ||olx.rwpay.ru^$all
 ||olx.secure-dostawa.com^$all
+||olx.shlinks.me^$all
 ||olx.so^$all
 ||olx.transakcja.pw^$all
 ||olx.ua.safedeal.bar^$all
@@ -7332,6 +7350,7 @@
 ||pl-givesales.club^$all
 ||pl-givesale.shop^$all
 ||pl-givesold.shop^$all
+||pl-gopays.work^$all
 ||pl-gotpaid.shop^$all
 ||pl-id737962.info^$all
 ||pl-inpost.com^$all
@@ -7344,6 +7363,7 @@
 ||pl-livemoney.xyz^$all
 ||pl-lotos.info^$all
 ||pl-lotos.site^$all
+||pl-lotus.info^$all
 ||pl-makedeal.casa^$all
 ||pl-makedeal.club^$all
 ||pl-makepays.casa^$all
@@ -8396,6 +8416,7 @@
 ||smieszne-pl.eu^$all
 ||smieszne-zdjecia.eu^$all
 ||sms1.biz^$all
+||sms1.online^$all
 ||sms1.world^$all
 ||smscc.in^$all
 ||smsee.in^$all
@@ -8558,6 +8579,8 @@
 ||steam-wallet-gifts.com^$all
 ||steam-wallet-money.com^$all
 ||steanccmmunity.com^$all
+||steancomunnity.ru^$all
+||steannconnmunity.com^$all
 ||steannconnnunity.com^$all
 ||steannconnunity.com^$all
 ||stearncommumiity.com^$all
