@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 19 Jun 2021, 13:05 UTC+02
-! Version: 2021.6.19.0
+! Last modified: Sat, 19 Jun 2021, 17:06 UTC+02
+! Version: 2021.6.19.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2086,6 +2086,7 @@
 ||6sms.in^$all
 ||7demka24h7.live^$all
 ||7dot.cn^$all
+||8sms.in^$all
 ||9f33fc85bd3812760.temporary.link^$all
 ||9nta.com^$all
 ||20-55-32-61.cprapid.com^$all
@@ -3056,6 +3057,7 @@
 ||d2gspr8vzzzo02.cloudfront.net^$all
 ||d2obhr6r5fzecl.cloudfront.net^$all
 ||d2og2sydog5nql.cloudfront.net^$all
+||d2ym1oubw1eszq.cloudfront.net^$all
 ||d2z5qakd2ama3r.cloudfront.net^$all
 ||d3a3j770jgc81v.cloudfront.net^$all
 ||d3dfirf94ib4mc.cloudfront.net^$all
@@ -3115,6 +3117,7 @@
 ||daxioma.com^$all
 ||daxkapital.com^$all
 ||dbamyociebie.click^$all
+||dbd3bzqstwii6.cloudfront.net^$all
 ||dbzbwpin45yzaprezvut6i5gjy--online-mbank-pl.translate.goog^$all
 ||dc5zdxob07xpk.cloudfront.net^$all
 ||dcshoespolska.com^$all
@@ -3189,6 +3192,7 @@
 ||dhl-costumers.net^$all
 ||dhl-dostawa.com^$all
 ||dhl-parcel24.com^$all
+||dhl-parcel.co^$all
 ||dhl-twojkurier.com^$all
 ||dhwysl.com^$all
 ||dietasekret.pl^$all
@@ -4465,6 +4469,7 @@
 ||inpost-dostawa.icu^$all
 ||inpost-dostawa.pl^$all
 ||inpost-dostawa.site^$all
+||inpost-dostawka.cyou^$all
 ||inpost-express.com^$all
 ||inpost-generator.net^$all
 ||inpost-info.com^$all
@@ -4532,6 +4537,7 @@
 ||inpost.one^$all
 ||inpost.order-pl.art^$all
 ||inpost.owndostawa.cyou^$all
+||inpost.owndostawa.store^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
@@ -6205,6 +6211,9 @@
 ||olx-pl.online^$all
 ||olx-pl.oplata-co.tk^$all
 ||olx-pl.org^$all
+||olx-pl.owndostawa.cyou^$all
+||olx-pl.owndostawa.shop^$all
+||olx-pl.owndostawa.store^$all
 ||olx-pl.pay3d.me^$all
 ||olx-pl.payment-banks.ga^$all
 ||olx-pl.payment-bank.ga^$all
@@ -6331,6 +6340,9 @@
 ||olx.online-pay.pl^$all
 ||olx.oplata-is.com^$all
 ||olx.orders-pls.biz^$all
+||olx.owndostawa.cyou^$all
+||olx.owndostawa.shop^$all
+||olx.owndostawa.store^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all
 ||olx.pay-id183413.company^$all
@@ -6411,6 +6423,7 @@
 ||olx.pl-givesold.work^$all
 ||olx.pl-give.shop^$all
 ||olx.pl-give.work^$all
+||olx.pl-gopaid.icu^$all
 ||olx.pl-gopays.cyou^$all
 ||olx.pl-gopays.icu^$all
 ||olx.pl-gopays.shop^$all
@@ -6922,6 +6935,7 @@
 ||parcel.r1e3ymauqbg5oo0.esnapbbar.com^$all
 ||parcel.uzp2lo6ocafq7by.alirezamalek.ir^$all
 ||parcel.y0ri42930ht6dgm.galexar.ir^$all
+||parcerldhl.com^$all
 ||paribas-biznesplanet-logowanie.com^$all
 ||paribas-login.xyz^$all
 ||paribas-logowanie.at^$all
@@ -7063,6 +7077,7 @@
 ||pay93-olx.info^$all
 ||pay97-olx.info^$all
 ||pay98-olx.info^$all
+||pay102-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpaid.xyz^$all
@@ -8966,6 +8981,7 @@
 ||twojanagroda.co.pl^$all
 ||twojanatura.com^$all
 ||twojapaczka-dhl.com^$all
+||twojapaczka-dpd.com^$all
 ||twojapaczka.services^$all
 ||twojapaka.com^$all
 ||twojazdobyczbiznes.cyou^$all
