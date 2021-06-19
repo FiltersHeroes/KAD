@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 19 Jun 2021, 17:06 UTC+02
-! Version: 2021.6.19.1
+! Last modified: Sat, 19 Jun 2021, 21:05 UTC+02
+! Version: 2021.6.19.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3129,6 +3129,7 @@
 ||decodom.com.pl^$all
 ||decydujmy-wspolnie.eu^$all
 ||decyzie-podejmj.eu^$all
+||deepie.store^$all
 ||deepikarai.com^$all
 ||definicjabiznesu.online^$all
 ||deklaracjjabiznes24.club^$all
@@ -3384,6 +3385,7 @@
 ||dotpay.uppocztapolska.net^$all
 ||dotsdh.com^$all
 ||dowadh.com^$all
+||dowarto.com^$all
 ||downloads-mobile.com^$all
 ||download.inboxace.com^$all
 ||download.televisionfanatic.com^$all
@@ -4536,8 +4538,10 @@
 ||inpost.olxkon*.*^$all
 ||inpost.one^$all
 ||inpost.order-pl.art^$all
+||inpost.owndostawa.casa^$all
 ||inpost.owndostawa.cyou^$all
 ||inpost.owndostawa.store^$all
+||inpost.owndostawa.xyz^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
@@ -4598,6 +4602,11 @@
 ||inpost.pl-giveordered.work^$all
 ||inpost.pl-givesale.work^$all
 ||inpost.pl-give.work^$all
+||inpost.pl-gopaid.cyou^$all
+||inpost.pl-gopaid.icu^$all
+||inpost.pl-gopaid.shop^$all
+||inpost.pl-gopaid.work^$all
+||inpost.pl-gopaid.xyz^$all
 ||inpost.pl-gopays.cyou^$all
 ||inpost.pl-gopays.icu^$all
 ||inpost.pl-gopays.shop^$all
@@ -5822,6 +5831,7 @@
 ||nowezyciezarogiem.site^$all
 ||nowinki.blog-online.eu^$all
 ||nowoczesnemuzeum.pl^$all
+||nowoffer.top^$all
 ||nowy-regulamin.pl^$all
 ||no-snore-pl.com^$all
 ||npocztapolska.net^$all
@@ -6340,9 +6350,11 @@
 ||olx.online-pay.pl^$all
 ||olx.oplata-is.com^$all
 ||olx.orders-pls.biz^$all
+||olx.owndostawa.casa^$all
 ||olx.owndostawa.cyou^$all
 ||olx.owndostawa.shop^$all
 ||olx.owndostawa.store^$all
+||olx.owndostawa.xyz^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all
 ||olx.pay-id183413.company^$all
@@ -6424,6 +6436,7 @@
 ||olx.pl-give.shop^$all
 ||olx.pl-give.work^$all
 ||olx.pl-gopaid.icu^$all
+||olx.pl-gopaid.work^$all
 ||olx.pl-gopays.cyou^$all
 ||olx.pl-gopays.icu^$all
 ||olx.pl-gopays.shop^$all
@@ -6525,6 +6538,8 @@
 ||olx.pl-paydeliveries.shop^$all
 ||olx.pl-paydelivery.icu^$all
 ||olx.pl-paydelivery.shop^$all
+||olx.pl-paygo.cyou^$all
+||olx.pl-paygo.xyz^$all
 ||olx.pl-payit.pw^$all
 ||olx.pl-paylines.pw^$all
 ||olx.pl-pay.items-id.site^$all
@@ -6607,6 +6622,7 @@
 ||olx.pl-szybko.shop^$all
 ||olx.pl-szybko.work^$all
 ||olx.pl-szybko.xyz^$all
+||olx.pl-transferitem.site^$all
 ||olx.pl-zamowienia.club^$all
 ||olx.pl-zamowienie24.shop^$all
 ||olx.pl-zamowieni.shop^$all
@@ -7078,6 +7094,7 @@
 ||pay97-olx.info^$all
 ||pay98-olx.info^$all
 ||pay102-olx.info^$all
+||pay103-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpaid.xyz^$all
