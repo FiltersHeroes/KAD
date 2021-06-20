@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 20 Jun 2021, 17:05 UTC+02
-! Version: 2021.6.20.2
+! Last modified: Sun, 20 Jun 2021, 21:05 UTC+02
+! Version: 2021.6.20.3
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -231,6 +231,7 @@
 ||butysportowepolska.pl^$all
 ||butysuprassklep.com^$all
 ||butyvanspolska.com^$all
+||butyvibrams.pl^$all
 ||butyvibram.pl^$all
 ||buzzihome.com^$all
 ||buzzonclick.com^$all
@@ -1533,6 +1534,7 @@
 ||vision2020.pl^$all
 ||vitajuice.com.pl^$all
 ||vitalib5.com^$all
+||vivobarefootpoiska.com^$all
 ||vodplay.pl^$all
 ||voldemort.pl^$all
 ||volleyclub.pl^$all
@@ -1777,6 +1779,7 @@
 ||lexlale.com.pl^$all
 ||liin.ml^$all
 ||limitedprizes.net^$all
+||localcamsfinder.com^$all
 ||luckyducknet.com^$all
 ||masiodls.com^$all
 ||meetonlyhot.com^$all
@@ -2541,7 +2544,6 @@
 ||bioslimin.pl^$all
 ||biozdrowie.com.pl^$all
 ||birdwatcher.pl^$all
-||biskup.greendolarbag.com^$all
 ||biskup.waw.pl^$all
 ||bitbayinvest.net^$all
 ||bitbay-net.com^$all
@@ -2621,6 +2623,7 @@
 ||bonus.gamblingz.net^$all
 ||bonydosklepu.pl^$all
 ||bonynaszkolenie.eu^$all
+||bon-darmowy.pl^$all
 ||bon-wow.co.pl^$all
 ||bookbugg.com^$all
 ||bookplanet.pl^$all
@@ -2907,7 +2910,6 @@
 ||covidoweszczepienia.co.pl^$all
 ||covidpolska24.dkonto.pl^$all
 ||covid-polska.dfirma.pl^$all
-||covid-szpital.greendolarbag.com^$all
 ||covid-szpital.waw.pl^$all
 ||coviplex.pl^$all
 ||cowpolsce.xyz^$all
@@ -3296,40 +3298,6 @@
 ||dotarlibysmydoniego.cyou^$all
 ||dotawdh.com^$all
 ||dotpay1.pl^$all
-||dotpay.emonitoring-pocztex48.net^$all
-||dotpay.emonitoring-pocztex.com^$all
-||dotpay.emonitoring-pocztex.net^$all
-||dotpay.emonitoring-polska48poczta.net^$all
-||dotpay.emonitoring-polska-poczta.net^$all
-||dotpay.epoczta-polska24.com^$all
-||dotpay.epoczta-polska24.org^$all
-||dotpay.epoczta-polska.com^$all
-||dotpay.epoczta-polska.net^$all
-||dotpay.etracking-pocztex48.net^$all
-||dotpay.e-monitoring-pocztapolska.net^$all
-||dotpay.e-monitoring-pocztapolska.org^$all
-||dotpay.e-pocztapolska.com^$all
-||dotpay.e-poczta-polska.com^$all
-||dotpay.e-poczta-polska.net^$all
-||dotpay.ipocztapolska.net^$all
-||dotpay.ipoczta-polska.net^$all
-||dotpay.ipoczta-polska.org^$all
-||dotpay.ipocztexpolska.net^$all
-||dotpay.kpocztapolska.net^$all
-||dotpay.lpocztapolska.net^$all
-||dotpay.mobpocztapolska.net^$all
-||dotpay.monitoring-pocztapolska.org^$all
-||dotpay.monitor-ipocztapolska.net^$all
-||dotpay.mpocztapolska.net^$all
-||dotpay.npocztapolska.net^$all
-||dotpay.opocztapolska.net^$all
-||dotpay.oppocztapolska.com^$all
-||dotpay.pol-pocztapolska.net^$all
-||dotpay.spocztapolska.net^$all
-||dotpay.tpocztapolska.com^$all
-||dotpay.track-pocztapolska.net^$all
-||dotpay.upocztapolska.net^$all
-||dotpay.uppocztapolska.net^$all
 ||dotsdh.com^$all
 ||dowadh.com^$all
 ||dowarto.com^$all
@@ -3465,6 +3433,7 @@
 ||emonitoring-pocztapl24.net^$all
 ||emonitoring-pocztapolska.org^$all
 ||emonitoring-pocztex24polska.net^$all
+||emonitoring-pocztex48.net^$all
 ||emonitoring-pocztexpolska.com^$all
 ||emonitoring-pocztexpolska.net^$all
 ||emonitoring-pocztex.com^$all
@@ -3511,6 +3480,7 @@
 ||eskluzywne-fotele.ovel.pl^$all
 ||esneakers24.pl^$all
 ||esterakoty.pl^$all
+||etracking-pocztex48.net^$all
 ||euforiaa.icu^$all
 ||eupay.website^$all
 ||euroausili.it^$all
@@ -3574,6 +3544,7 @@
 ||e-mail-regulamin.site^$all
 ||e-mojemiasto.eu^$all
 ||e-monitoring-pocztapolska.net^$all
+||e-monitoring-pocztapolska.org^$all
 ||e-onet24.eu^$all
 ||e-onetfakty24.eu^$all
 ||e-osobyzagionione.pl^$all
@@ -3862,6 +3833,7 @@
 ||funsolo.net^$all
 ||funtoonez.com^$all
 ||fup.gl^$all
+||furgonetka.online^$all
 ||futureadpro.com^$all
 ||futurepay.globway.eu^$all
 ||futuresbtcoffersnew.com^$all
@@ -4438,11 +4410,6 @@
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
-||inpost.pl-paysgo.cyou^$all
-||inpost.pl-paysgo.icu^$all
-||inpost.pl-paysgo.shop^$all
-||inpost.pl-paysgo.work^$all
-||inpost.pl-paysgo.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.polska*.*^$document^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -4516,6 +4483,9 @@
 ||ipko.club^$all
 ||ipko.space^$all
 ||ipocztapolska.net^$all
+||ipoczta-polska.net^$all
+||ipoczta-polska.org^$all
+||ipocztexpolska.net^$all
 ||iporwaniedziecka24.*^$all
 ||ippka.xyz^$all
 ||ippko.fun^$all
@@ -5196,6 +5166,7 @@
 ||mobilny-olx.pl^$all
 ||mobiwin.pl^$all
 ||mobjmp.com^$all
+||mobpocztapolska.net^$all
 ||mobsfun.com^$all
 ||mobstarter.com^$all
 ||mob-olx.site^$all
@@ -5237,6 +5208,8 @@
 ||mongorit.uno^$all
 ||monitorfx.pl^$all
 ||monitoring-pocztapolska.net^$all
+||monitoring-pocztapolska.org^$all
+||monitor-ipocztapolska.net^$all
 ||monivpl.weebly.com^$all
 ||monpay.site^$all
 ||montrouge24.com^$all
@@ -6000,6 +5973,8 @@
 ||olx.online-pay.pl^$all
 ||olx.oplata-is.com^$all
 ||olx.orders-pls.biz^$all
+||olx.owndostaw.shop^$all
+||olx.owndostaw.website^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -6157,6 +6132,7 @@
 ||oplatki-biskupice.pl^$all
 ||opocztapolska.net^$all
 ||opowiesciludzisuckesu.online^$all
+||oppocztapolska.com^$all
 ||opteamizer.co.il^$all
 ||optimalpoland.pl^$all
 ||optminers.com^$all
@@ -6449,6 +6425,7 @@
 ||pay102-olx.info^$all
 ||pay103-olx.info^$all
 ||pay104-olx.info^$all
+||pay105-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpay.xyz^$all
@@ -7183,7 +7160,6 @@
 ||pozostalospoorroczasu.cyou^$all
 ||pozyczkikredyty.pl^$all
 ||pozyczkiwroclaw.com.pl^$all
-||po-covid19.greendolarbag.com^$all
 ||po-covid19.waw.pl^$all
 ||po.fyybox.com^$all
 ||ppay.site^$all
@@ -7499,7 +7475,6 @@
 ||safety-dostaw.net^$all
 ||safety-oglosznenie.com^$all
 ||safety.inpost.cam^$all
-||safety.inpost.email^$all
 ||safe-deliverry.name^$all
 ||safe-deliverry.su^$all
 ||safe-dellivery.info^$all
@@ -7515,7 +7490,6 @@
 ||safe-service.inpost.codes^$all
 ||safe.inpost.codes^$all
 ||safe.inpost.directory^$all
-||safe.inpost.email^$all
 ||safe.inpost.wtf^$all
 ||salomonpl.pl^$all
 ||salomonpolska.pl^$all
@@ -7681,7 +7655,6 @@
 ||siedziskozelowe-pl.com^$all
 ||signifyteleprompt-expired.firebaseapp.com^$all
 ||signin-ea.com^$all
-||signup.lirehub.com^$all
 ||signup.oasisnow.net^$all
 ||sikorka.cyou^$all
 ||siliconpants.top^$all
@@ -7757,6 +7730,7 @@
 ||smiertelne-szczepionki.eu^$all
 ||smieszne-pl.eu^$all
 ||smieszne-zdjecia.eu^$all
+||smoothtrk5.com^$all
 ||sms1.biz^$all
 ||sms1.online^$all
 ||sms1.world^$all
@@ -7822,6 +7796,7 @@
 ||spininvegas.com^$all
 ||spisek.freehost.pl^$all
 ||spkoszewo.strefa.pl^$all
+||spocztapolska.net^$all
 ||spoleczniak.pl^$all
 ||spolszczenia4you.net^$all
 ||spolszczenia-gier.com.pl^$all
@@ -7854,7 +7829,6 @@
 ||sprawdz-identyfikacje.vernetaid.co.pl^$all
 ||sprawdz-swoje-iq.pl^$all
 ||sprawykarne.net^$all
-||sprawy-kosciola.greendolarbag.com^$all
 ||sprawy-kosciola.waw.pl^$all
 ||sprnr*.net^$all
 ||sprobujazdobedziiesz.club^$all
@@ -7971,6 +7945,8 @@
 ||sub.gyt-ti.online^$all
 ||success-jezyki.pl^$all
 ||sucrely.site^$all
+||suivhub4.com^$all
+||suivhub5.com^$all
 ||sukces-wspolnych.eu^$all
 ||sukhumvithomes.com^$all
 ||suluklima.com.tr^$all
@@ -8046,7 +8022,6 @@
 ||szokujace-nagrania.dfirma.pl^$all
 ||szpieg.cyou^$all
 ||szpitalepolska24.dkonto.pl^$all
-||szpital-covid.greendolarbag.com^$all
 ||szpital-covid.waw.pl^$all
 ||sztchr.cn^$all
 ||szukajmysie.eu^$all
@@ -8213,6 +8188,7 @@
 ||towlasciwadroga.website^$all
 ||towszystkobywyjasnialo.website^$all
 ||tpc.hu^$all
+||tpocztapolska.com^$all
 ||trackandnow.site^$all
 ||track-pocztapolska.net^$all
 ||trade360.com^$all
@@ -8833,6 +8809,7 @@
 ||zacha.com.pl^$all
 ||zachecamydoczytania.online^$all
 ||zadajpytaniepolska.cyou^$all
+||zadbana-ty.click^$all
 ||zaginieni24.pl^$all
 ||zaginiony-24.eu^$all
 ||zaglosuje-pomoc.eu^$all
