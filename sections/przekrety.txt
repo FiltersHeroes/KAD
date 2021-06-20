@@ -1,8 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||5o8l3.cn^$all
-||pb7dg.cn^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -66,6 +64,7 @@
 ||4-onetowo.pl^$all
 ||5d8b2c00436ac.site123.me^$all
 ||5kplayer.pl^$all
+||5o8l3.cn^$all
 ||5tysiecy.pl^$all
 ||6c2453dabd3776274.temporary.link^$all
 ||6m.pl^$all
@@ -910,6 +909,7 @@
 ||connessionedati.com^$all
 ||consityr600.xyz^$all
 ||contact-tracing-app.site^$all
+||contact-update.centrum24consumer.me^$all
 ||contbox.org^$all
 ||conversebutypl.com^$all
 ||cool4mob.com^$all
@@ -2664,6 +2664,10 @@
 ||inpost.pl-paydeal.shop^$all
 ||inpost.pl-paydeal.work^$all
 ||inpost.pl-paydelivery.icu^$all
+||inpost.pl-paygo.cyou^$all
+||inpost.pl-paygo.icu^$all
+||inpost.pl-paygo.shop^$all
+||inpost.pl-paygo.xyz^$all
 ||inpost.pl-payrek.pw^$all
 ||inpost.pl-readyconfirm.cyou^$all
 ||inpost.pl-readyconfirm.icu^$all
@@ -4844,6 +4848,7 @@
 ||p0rtal-register.tk^$all
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
+||paczdpd.com^$all
 ||paczinfo.com^$all
 ||paczinfo.net^$all
 ||paczka24h-dhl.com^$all
@@ -5081,6 +5086,7 @@
 ||pay98-olx.info^$all
 ||pay102-olx.info^$all
 ||pay103-olx.info^$all
+||pay104-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpaid.xyz^$all
@@ -5126,6 +5132,7 @@
 ||pay-u24.net^$all
 ||pay.inpost.cam^$all
 ||pay.pocztapolska24.org^$all
+||pb7dg.cn^$all
 ||pbshop.pl^$all
 ||pc-sklep.com^$all
 ||pc-soft.pl^$all
@@ -5536,6 +5543,10 @@
 ||poczta.pl-easypaid.xyz^$all
 ||poczta.pl-gotpaid.work^$all
 ||poczta.pl-ordered.work^$all
+||poczta.pl-paygo.cyou^$all
+||poczta.pl-paygo.icu^$all
+||poczta.pl-paygo.shop^$all
+||poczta.pl-paygo.xyz^$all
 ||poczta.pl-receive.work^$all
 ||poczta.pl-safeway.live^$all
 ||poczta.pl-savingmoney.cyou^$all
@@ -6923,6 +6934,7 @@
 ||trampoliny.club^$all
 ||trampolshop.com^$all
 ||transakcja9381.net^$all
+||transakcji.pl^$all
 ||transbox.org^$all
 ||transferpey.com^$all
 ||transfer-olx.gq^$all
@@ -7687,15 +7699,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||contact-update.centrum24consumer.me^$all
-||inpost.pl-paygo.cyou^$all
-||inpost.pl-paygo.icu^$all
-||inpost.pl-paygo.shop^$all
-||inpost.pl-paygo.xyz^$all
-||paczdpd.com^$all
-||pay104-olx.info^$all
-||poczta.pl-paygo.cyou^$all
-||poczta.pl-paygo.icu^$all
-||poczta.pl-paygo.shop^$all
-||poczta.pl-paygo.xyz^$all
-||transakcji.pl^$all
