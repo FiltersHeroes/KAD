@@ -2449,6 +2449,8 @@
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-paysgo.cyou^$all
+||inpost.pl-paysgo.icu^$all
+||inpost.pl-paysgo.shop^$all
 ||inpost.pl-paysgo.work^$all
 ||inpost.pl-paysgo.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -6983,5 +6985,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost.pl-paysgo.icu^$all
-||inpost.pl-paysgo.shop^$all
