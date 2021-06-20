@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 20 Jun 2021, 16:48 UTC+02
-! Version: 2021.6.20.1
+! Last modified: Sun, 20 Jun 2021, 17:05 UTC+02
+! Version: 2021.6.20.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -247,6 +247,7 @@
 ||carreuto.com^$all
 ||catbuty.top^$all
 ||catnip.pl^$all
+||cavali.store^$all
 ||cavotel.com^$all
 ||cda-bez-limitu.pl^$all
 ||centrummedia.com.pl^$all
@@ -583,6 +584,7 @@
 ||health-line.me^$all
 ||health-partner.net^$all
 ||hejdeals.pl^$all
+||hejmosie.com^$all
 ||henhaokanq.com^$all
 ||herbalife.pl^$all
 ||hibids10.com^$all
@@ -770,6 +772,7 @@
 ||lexatrade.com^$all
 ||lifemymall.com^$all
 ||ligotazabrska.pl^$all
+||limagarment.com^$all
 ||linkdebrideur.xyz^$all
 ||linkz.it^$all
 ||linuxpoludzku.pl^$all
@@ -1077,12 +1080,14 @@
 ||playweez.pl^$all
 ||play-cda.pl^$all
 ||plik-pobierz.pl^$all
+||plsale.outletsdiscount2021.com^$all
 ||plusmedia.pl^$all
 ||pl-huda.myshopify.com^$all
 ||pl.godeal24.com^$all
 ||pl.gvgmall.com^$all
 ||pl.lucybreeze.com^$all
 ||pl.melaleuca.com^$all
+||pl.sylvettas-shop.com^$all
 ||pl.whokeys.com^$all
 ||pmanager.pl^$all
 ||pobierz-online.co.pl^$all
@@ -1287,6 +1292,7 @@
 ||skechersbuty.com^$all
 ||skecherstanio.pl^$all
 ||sklep466452.shoparena.pl^$all
+||sklep692845.shoparena.pl^$all
 ||sklep917219.shoparena.pl^$all
 ||sklepbuty.top^$all
 ||sklephollisterpl.com^$all
@@ -1460,7 +1466,6 @@
 ||trampkisuperga.pl^$all
 ||trampoliny170.com^$all
 ||trampoliny260.com^$all
-||trampoliny-polska.com^$all
 ||transeuropaferries.pl^$all
 ||trella.com.pl^$all
 ||tresurapsow.com.pl^$all
@@ -4434,6 +4439,8 @@
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-paysgo.cyou^$all
+||inpost.pl-paysgo.icu^$all
+||inpost.pl-paysgo.shop^$all
 ||inpost.pl-paysgo.work^$all
 ||inpost.pl-paysgo.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
