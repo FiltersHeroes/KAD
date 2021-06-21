@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 21 Jun 2021, 13:08 UTC+02
-! Version: 2021.6.21.0
+! Last modified: Mon, 21 Jun 2021, 17:07 UTC+02
+! Version: 2021.6.21.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2102,6 +2102,7 @@
 ||109222.zalogujkonto-weryfikacja.xyz^$all
 ||126898.iogowanie.xyz^$all
 ||553521.selcdn.ru^$all
+||555305.selcdn.ru^$all
 ||1809175.na397463.web.hosting-test.net^$all
 ||1809176.kb397464.web.hosting-test.net^$all
 ||1809798.sy397546.web.hosting-test.net^$all
@@ -3020,6 +3021,7 @@
 ||d1zy79iyrsz9gx.cloudfront.net^$all
 ||d2ex13hr728klp.cloudfront.net^$all
 ||d2gspr8vzzzo02.cloudfront.net^$all
+||d2hr0yhxixa9i2.cloudfront.net^$all
 ||d2obhr6r5fzecl.cloudfront.net^$all
 ||d2og2sydog5nql.cloudfront.net^$all
 ||d2ym1oubw1eszq.cloudfront.net^$all
@@ -3230,6 +3232,7 @@
 ||domain-registration.me^$all
 ||domappchecknwas20.web.app^$all
 ||domappcheckoyo10.web.app^$all
+||domek200.com^$all
 ||domena-informacyjna.dkonto.pl^$all
 ||domgoralskispa.pl^$all
 ||domki-kopalino.com.pl^$all
@@ -3307,6 +3310,8 @@
 ||dotarlibysmydoniego.cyou^$all
 ||dotawdh.com^$all
 ||dotpay1.pl^$all
+||dotpay.etracking-ppocztapolska.com^$all
+||dotpay.up-poczta-polska.net^$all
 ||dotsdh.com^$all
 ||dowadh.com^$all
 ||dowarto.com^$all
@@ -3803,6 +3808,7 @@
 ||forfollow.net^$all
 ||forma-utrzymaj.eu^$all
 ||formularzszczegowyowa.moonfruit.com^$all
+||forpeople925.shop^$all
 ||forpeople925.work^$all
 ||forstriko.com^$all
 ||forumprawa24.pl^$all
@@ -4392,6 +4398,9 @@
 ||inpost-pl.myowndostawa24.art^$all
 ||inpost-pl.myowndostawa24.live^$all
 ||inpost-pl.online^$all
+||inpost-pl.ownkontos.shop^$all
+||inpost-pl.ownkontos.store^$all
+||inpost-pl.ownkontos.xyz^$all
 ||inpost-pl.safeorder.co^$all
 ||inpost-pl.safeorder.cyou^$all
 ||inpost-security.icu^$all
@@ -4435,6 +4444,7 @@
 ||inpost.pl-paidgo.shop^$all
 ||inpost.pl-paidgo.xyz^$all
 ||inpost.pl-safety.club^$all
+||inpost.pl-safety.live^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.polska*.*^$document^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -6006,6 +6016,8 @@
 ||olx.orders-pls.biz^$all
 ||olx.owndostaw.shop^$all
 ||olx.owndostaw.website^$all
+||olx.ownkontos.shop^$all
+||olx.ownkontos.store^$all
 ||olx.ownkontos.xyz^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -6027,6 +6039,13 @@
 ||olx.pl-paysgo.cyou^$all
 ||olx.pl-paysgo.icu^$all
 ||olx.pl-paysgo.xyz^$all
+||olx.pl-safeshop.cyou^$all
+||olx.pl-safeshop.icu^$all
+||olx.pl-safeshop.xyz^$all
+||olx.pl-safety.xyz^$all
+||olx.pl-weryfkacija.info^$all
+||olx.pl-weryfkacija.site^$all
+||olx.pl-weryfkacija.website^$all
 ||olx.pl-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pl.*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.poland-ofer.cc^$all
@@ -6468,6 +6487,7 @@
 ||pay104-olx.info^$all
 ||pay105-olx.info^$all
 ||pay106-olx.info^$all
+||pay108-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpay.xyz^$all
@@ -7424,6 +7444,7 @@
 ||reg-olx.pl^$all
 ||rehabilitant.rzeszow.re^$all
 ||rejestr1.testvps.pro^$all
+||rejestr2.testvps.pro^$all
 ||rejestr24.5p.pl^$all
 ||rejestracja-delivery.com^$all
 ||rejestracja-delivery.site^$all
