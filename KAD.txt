@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 20 Jun 2021, 21:05 UTC+02
-! Version: 2021.6.20.3
+! Last modified: Mon, 21 Jun 2021, 13:08 UTC+02
+! Version: 2021.6.21.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -206,6 +206,7 @@
 ||butydemonia.com^$all
 ||butydobieganiabrooks.com^$all
 ||butydroutlet.com^$all
+||butyeccooutlet.pl^$all
 ||butyeccosale.com^$all
 ||butyhokaoneonepl.com^$all
 ||butyhokapolska.pl^$all
@@ -392,6 +393,7 @@
 ||eccobutypolska.com^$all
 ||eccobuty.co^$all
 ||eccoeustore.com^$all
+||eccooutletpolska.pl^$all
 ||eccopoland.com^$all
 ||ecco-polska.pl^$all
 ||ecolife-home.com.pl^$all
@@ -614,6 +616,7 @@
 ||hurtowniagmf.pl^$all
 ||ibrainer.net^$all
 ||ibuzsport.com^$all
+||icebugbuty.com^$all
 ||icopywriter.pl^$all
 ||idealnybuty.top^$all
 ||ideatur.pl^$all
@@ -695,6 +698,7 @@
 ||keepitavocado.com^$all
 ||keykong.eu^$all
 ||kicksyou.pl^$all
+||kieleckamasa.pl^$all
 ||kingland.pl^$all
 ||kinoman-tv.pl^$all
 ||kinotek.pl^$all
@@ -2235,6 +2239,7 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
+||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
@@ -2362,6 +2367,7 @@
 ||apptrader.com^$all
 ||app*.kromtech.net^$all,domain=net
 ||app-messenger-lite.com^$all
+||app-netflix.ratedyork.tk^$all
 ||app.uniswap.info-tokens.com^$all
 ||aptecznypunkt.pl^$all
 ||aqsati.com^$all
@@ -2544,6 +2550,7 @@
 ||bioslimin.pl^$all
 ||biozdrowie.com.pl^$all
 ||birdwatcher.pl^$all
+||bireysele-basvurum-destek-kampanyalar.tk^$all
 ||biskup.waw.pl^$all
 ||bitbayinvest.net^$all
 ||bitbay-net.com^$all
@@ -2804,6 +2811,7 @@
 ||cgiergate.com^$all
 ||challhawseholer.com^$all
 ||chcemyschudnac.pl^$all
+||chckmailabig32.web.app^$all
 ||cheap.cheaps2021.ru^$all
 ||checkoutbase.com^$all
 ||checkthatdeals.com^$all
@@ -3042,6 +3050,7 @@
 ||d16026ycio8a62.cloudfront.net^$all
 ||dachbud.slask.pl^$all
 ||dalsari.com^$all
+||dalsza-droga.tk^$all
 ||damianek24.eu^$all
 ||damulki.online^$all
 ||danangluxury.com^$all
@@ -3357,6 +3366,7 @@
 ||dziennikprasowy.eu^$all
 ||dzienniktutaj.site^$all
 ||dziennik-inf.xyz^$all
+||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
 ||dziennik.waw.pl^$all
 ||dziewczyn.pl^$all
@@ -3424,6 +3434,7 @@
 ||elprestamo.xyz^$all
 ||elvox.pl^$all
 ||emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud^$all
+||emailhostingservices9.web.app^$all
 ||emonitoring24.online^$all
 ||emonitoring-epoczta-polska.net^$all
 ||emonitoring-epocztex24.net^$all
@@ -3578,6 +3589,7 @@
 ||facebookcom-43632337.techsso.com^$all
 ||facebookcom-49851167.techsso.com^$all
 ||facebookweryfikacja.gq^$all
+||facebookweryfikacja.tk^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-informacje24.eu^$all
@@ -3630,6 +3642,7 @@
 ||fakt*.is-best.net^$all
 ||fakt-news24.eu^$all
 ||fakt-online24.eu^$all
+||fakt.pomoz-rozpoznac-sprawce.tk^$all
 ||fakt.you2.pl^$all
 ||faraweel.com^$all
 ||farbybialystok.pl^$all
@@ -3648,6 +3661,7 @@
 ||fbtoken.evai.pl^$all
 ||fbvetu.n4t.co^$all
 ||fbvverifier.mypi.co^$all
+||fbweryfikacja.tk^$all
 ||fb-ads-business.com^$all
 ||fb-ads.me^$all
 ||fb-business.net^$all
@@ -3789,6 +3803,7 @@
 ||forfollow.net^$all
 ||forma-utrzymaj.eu^$all
 ||formularzszczegowyowa.moonfruit.com^$all
+||forpeople925.work^$all
 ||forstriko.com^$all
 ||forumprawa24.pl^$all
 ||forumwns.home.amu.edu.pl^$all
@@ -4021,6 +4036,7 @@
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
+||gpwtrad.com^$all
 ||grafdruk.com.pl^$all
 ||grafian.pl^$all
 ||granatg.icu^$all
@@ -4112,6 +4128,7 @@
 ||hitfilm.pl^$all
 ||hitprodukt.pl^$all
 ||hit-informacje24pl.rdl.pl^$all
+||hjkotor.site^$all
 ||hlestersmith.com^$all
 ||hodowlafanaberia.pl^$all
 ||hokaoneonespeedgoat.pl^$all
@@ -4218,6 +4235,7 @@
 ||infasd2a.is-best.net^$all
 ||infa-z-polski.dnsrobotuptime.ru^$all
 ||info24-polsko.pl^$all
+||info112.waw.pl^$all
 ||info394290.wixsite.com^$all
 ||infodostarcz.net^$all
 ||infoee.gitlab.io^$all
@@ -4344,6 +4362,7 @@
 ||inpost-delivering.icu^$all
 ||inpost-delivery-pl.icu^$all
 ||inpost-doreczenie.pl^$all
+||inpost-dostawa-pl.cyou^$all
 ||inpost-dostawa.icu^$all
 ||inpost-dostawa.pl^$all
 ||inpost-dostawa.site^$all
@@ -4407,9 +4426,15 @@
 ||inpost.olxkon*.*^$all,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.one^$all
 ||inpost.order-pl.art^$all
+||inpost.owndostaw.shop^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
+||inpost.pl-paidgo.cyou^$all
+||inpost.pl-paidgo.icu^$all
+||inpost.pl-paidgo.shop^$all
+||inpost.pl-paidgo.xyz^$all
+||inpost.pl-safety.club^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.polska*.*^$document^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -5083,6 +5108,7 @@
 ||mediaexpertpl.buzz^$all
 ||mediaexpert-sale.pl^$all
 ||mediafile.pl^$all
+||mediaiexpert.club^$all
 ||mediavideo.pl^$all
 ||mediazmojegomiasta.online^$all
 ||media-24n.cleverapps.io^$all
@@ -5601,6 +5627,7 @@
 ||offer.q8fe7jh2d79fg9n.jacazma.ir^$all
 ||offer.rdtscgaxoicsu0d.jahanvalve.ir^$all
 ||offer.yb0745il6na2zh1.iran-beton.com^$all
+||officeadmin365.weebly.com^$all
 ||officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com^$all
 ||officexwednbbagmemzmlpepjxspud.nn.r.appspot.com^$all
 ||officialonline-page.com^$all
@@ -5823,6 +5850,7 @@
 ||olx-pays.pl^$all
 ||olx-pay-dk.online^$all
 ||olx-pay-pl.su^$all
+||olx-pay-system.tk^$all
 ||olx-pay.myitem-items.pw^$all
 ||olx-pay.org^$all
 ||olx-pay.pl.pay-reg.pw^$all
@@ -5860,12 +5888,15 @@
 ||olx-pl.my-dostawa.bar^$all
 ||olx-pl.my-dostawa.club^$all
 ||olx-pl.net^$all
+||olx-pl.nfotyjen.tk^$all
 ||olx-pl.oferta-payment.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl.oferta-pay.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl.oferto.cc^$all
 ||olx-pl.oformlenie-uslug.ru^$all
 ||olx-pl.online^$all
+||olx-pl.oplata-co.tk^$all
 ||olx-pl.org^$all
+||olx-pl.owndostaw.shop^$all
 ||olx-pl.pay3d.me^$all
 ||olx-pl.payment-banks.ga^$all
 ||olx-pl.payment-bank.ga^$all
@@ -5975,6 +6006,7 @@
 ||olx.orders-pls.biz^$all
 ||olx.owndostaw.shop^$all
 ||olx.owndostaw.website^$all
+||olx.ownkontos.xyz^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -5982,6 +6014,14 @@
 ||olx.pink^$all
 ||olx.plskontas.casa^$all
 ||olx.plskontas.live^$all
+||olx.pl-aktywacja.info^$all
+||olx.pl-aktywacja.online^$all
+||olx.pl-aktywacja.site^$all
+||olx.pl-aktywacja.website^$all
+||olx.pl-cashback.info^$all
+||olx.pl-cashback.site^$all
+||olx.pl-cashback.website^$all
+||olx.pl-paidgo.icu^$all
 ||olx.pl-paygo.icu^$all
 ||olx.pl-paygo.work^$all
 ||olx.pl-paysgo.cyou^$all
@@ -6187,6 +6227,7 @@
 ||o-net3.pl^$all
 ||o-net4.pl^$all
 ||p0czta.net^$all
+||p0rtal-register.tk^$all
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
 ||paczdpd.com^$all
@@ -6426,6 +6467,7 @@
 ||pay103-olx.info^$all
 ||pay104-olx.info^$all
 ||pay105-olx.info^$all
+||pay106-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpay.xyz^$all
@@ -6463,6 +6505,7 @@
 ||payu.space^$all
 ||pay-home-*.*.*^$all
 ||pay-olxdostawa.pl^$all
+||pay-olx-system.tk^$all
 ||pay-olx.cf^$all
 ||pay-olx.gq^$all
 ||pay-pl.site^$all
@@ -6742,6 +6785,7 @@
 ||pl-olx.men^$all
 ||pl-olx.news^$all
 ||pl-olx.page^$all
+||pl-olx.payment-bank.tk^$all
 ||pl-olx.pl^$all
 ||pl-olx.polska24-dostawa24.shop^$all
 ||pl-olx.site^$all
@@ -6806,6 +6850,7 @@
 ||pl.olx-merchant.com^$all
 ||pl.olx-ofert.art^$all
 ||pl.olx-ofert.life^$all
+||pl.olx.fsb-pays.tk^$all
 ||pl.pay-mentos.online^$all
 ||pl.pcviruscare.com^$all
 ||pl.pl2021.ru^$all
@@ -6877,6 +6922,8 @@
 ||poczta.pl-paygo.icu^$all
 ||poczta.pl-paygo.shop^$all
 ||poczta.pl-paygo.xyz^$all
+||poczta.pl-paysgo.shop^$all
+||poczta.pl-paysgo.work^$all
 ||poczta.pl-receive.work^$all
 ||poczta.pl-safeway.live^$all
 ||poczta.pl-savingmoney.work^$all
@@ -7007,6 +7054,7 @@
 ||polska-olx.pl^$all
 ||polska-poczta.top^$all
 ||polska-raport.ml^$all
+||polska-raport.tk^$all
 ||polska-teraz*.idl.pl^$all
 ||polska--wiadomosci24h.x9.eu^$all
 ||polskiagazeta24.serwerplus.pl^$all
@@ -7228,6 +7276,7 @@
 ||prywatne-fotki.mywebcommunity.org^$all
 ||prywatniepolska.online^$all
 ||prywatnosc-onet.pl^$all
+||przechodzdalej.tk^$all
 ||przechowalnia.net^$all
 ||przechowalnie.net^$all
 ||przechowanie.net^$all
@@ -7594,6 +7643,7 @@
 ||server252119.nazwa.pl^$all
 ||server292369.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
+||server358928.nazwa.pl^$all
 ||server365449.nazwa.pl^$all
 ||server392115.nazwa.pl^$all
 ||server414751.nazwa.pl^$all
@@ -8355,6 +8405,7 @@
 ||updateservicesverification.web.app^$all
 ||update-1.com^$all
 ||update-accounts-id.online^$all
+||update-info.centrumconsumer.live^$all
 ||update.*sf*.online^$all
 ||upgrade-flash-player.digital^$all
 ||upocztapolska.net^$all
@@ -8530,6 +8581,7 @@
 ||weryfikacja-paczki-24.xyz^$all
 ||weryfikacja-paczki.in.net^$all
 ||weryfikacja.xyz^$all
+||weryfikujemy.tk^$all
 ||weryfikuj-wynik.eu^$all
 ||weselenet.pl^$all
 ||wesolabiesiada.pl^$all
@@ -8575,6 +8627,7 @@
 ||wieszzemozzesz.space^$all
 ||wiiadomoscizkrajuu.live^$all
 ||wiktorek140.cba.pl^$all
+||wild-deneme123.tk^$all
 ||willa-marina.pl^$all
 ||wilrio.xyz^$all
 ||wimaj.pl^$all
@@ -8718,6 +8771,7 @@
 ||wyliczenia-sprawdzaj.eu^$all
 ||wymierneeffekty.site^$all
 ||wypadki24.e-kei.pl^$all
+||wyplata-olx-pl.tk^$all
 ||wyposazeniedomow.com.pl^$all
 ||wyprzedaz-polska.cyou^$all
 ||wypsikaj.pl^$all
@@ -8908,11 +8962,13 @@
 ||ztejstronnytwojeradio.website^$all
 ||zumodi.com^$all
 ||zus-wyplata.cf^$all
+||zus-wyplata.tk^$all
 ||zw578376khsds.com.ng^$all
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
 ||zweryfikuj-platnosc.in.net^$all
 ||zweryflkuj-platnosc24.xyz^$all
+||zwiazekbankowpolskich.com^$all
 ||zwieksz-rozmiar.com^$all
 ||zwierzeta-olx.pl^$all
 ||zwierzoszop.com^$all
