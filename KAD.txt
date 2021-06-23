@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 22 Jun 2021, 21:05 UTC+02
-! Version: 2021.6.22.2
+! Last modified: Wed, 23 Jun 2021, 13:06 UTC+02
+! Version: 2021.6.23.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3855,6 +3855,7 @@
 ||frembud.pl^$all
 ||freshiuz.com^$all
 ||frieman.pl^$all
+||frinblok.site^$all
 ||fryzjer.icu^$all
 ||fr-ntfx.com^$all
 ||fss.neostrada.pl^$all
@@ -4053,6 +4054,7 @@
 ||gospodarstwo-rolne.com.pl^$all
 ||gossip-round.com^$all
 ||gotakeyourprofit.com^$all
+||gotbox.org^$all
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
@@ -4407,6 +4409,9 @@
 ||inpost-platnosc.in.net^$all
 ||inpost-pla.myvipkontos.shop^$all
 ||inpost-pla.myvipkontos.work^$all
+||inpost-plepf.myvipkontos.casa^$all
+||inpost-plepf.myvipkontos.shop^$all
+||inpost-plepf.myvipkontos.work^$all
 ||inpost-pl-delivering.icu^$all
 ||inpost-pl-dostawa.cyou^$all
 ||inpost-pl-pay.site^$all
@@ -4469,6 +4474,12 @@
 ||inpost.pl-safeshop.work^$all
 ||inpost.pl-safety.club^$all
 ||inpost.pl-safety.live^$all
+||inpost.pl-safety.work^$all
+||inpost.pl-wellpayment.cyou^$all
+||inpost.pl-wellpayment.icu^$all
+||inpost.pl-wellpayment.shop^$all
+||inpost.pl-wellpayment.work^$all
+||inpost.pl-wellpayment.xyz^$all
 ||inpost.pl-wellpay.cyou^$all
 ||inpost.pl-wellpay.icu^$all
 ||inpost.pl-wellpay.shop^$all
@@ -5902,6 +5913,7 @@
 ||olx-pln.eu^$all
 ||olx-plr.myvipkontos.shop^$all
 ||olx-plr.myvipkontos.work^$all
+||olx-plt.myvipkontos.work^$all
 ||olx-pl-delivering.icu^$all
 ||olx-pl-delivery.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl-dostava.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -6090,6 +6102,11 @@
 ||olx.pl-safeshop.xyz^$all
 ||olx.pl-safety.shop^$all
 ||olx.pl-safety.xyz^$all
+||olx.pl-wellpayment.cyou^$all
+||olx.pl-wellpayment.icu^$all
+||olx.pl-wellpayment.shop^$all
+||olx.pl-wellpayment.work^$all
+||olx.pl-wellpayment.xyz^$all
 ||olx.pl-wellpay.cyou^$all
 ||olx.pl-wellpay.icu^$all
 ||olx.pl-wellpay.shop^$all
@@ -6184,6 +6201,7 @@
 ||onet-wielkopolskie.xyz^$all
 ||onet-wydarzenia.xyz^$all
 ||onet-wydarzenie.xyz^$all
+||onet-zamosc.xyz^$all
 ||onet.dfirma.pl^$all
 ||onet.you2.pl^$all
 ||one-pay.xyz^$all
@@ -6547,6 +6565,8 @@
 ||pay108-olx.info^$all
 ||pay109-olx.info^$all
 ||pay110-olx.info^$all
+||pay112-olx.info^$all
+||pay113-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.potwierdzenie-postpay.xyz^$all
@@ -7735,6 +7755,7 @@
 ||server574533.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
 ||server669725.nazwa.pl^$all
+||server759644.nazwa.pl^$all
 ||server800577.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
 ||server870179.nazwa.pl^$all
@@ -7865,6 +7886,7 @@
 ||smoothtrk5.com^$all
 ||sms1.biz^$all
 ||sms1.online^$all
+||sms1.site^$all
 ||sms1.world^$all
 ||smscc.in^$all
 ||smsee.in^$all
@@ -8938,6 +8960,7 @@
 ||your-datingspot-here.com^$all
 ||your-mac-security-analysis.net.*.*.*^$all,domain=agency|icu|life|live|xyz
 ||your-movies.pl^$all
+||youtube.tm.pl^$all
 ||yrehrher.001www.com^$all
 ||yuan-online.com^$all
 ||yunosquares.com^$all
