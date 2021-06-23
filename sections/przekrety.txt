@@ -2486,6 +2486,7 @@
 ||inpost.pl-wellpay.work^$all
 ||inpost.pl-wellpay.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
+||inpost.pl.service-secure.quest^$all
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.polska*.*^$document^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.pw^$all
@@ -2555,6 +2556,9 @@
 ||iokalnie-sklep-eiektroniczny.in.net^$all
 ||ionetporwanie.*^$all
 ||ipanemapolska.com^$all
+||ipkobiznes.live^$all
+||ipkobiznes.uk^$all
+||ipko-biznes-log.com^$all
 ||ipko-securpl.com^$all
 ||ipko.club^$all
 ||ipko.space^$all
@@ -3047,6 +3051,9 @@
 ||lovemydress.pl^$all
 ||lpkao.pw^$all
 ||lpkeo.pw^$all
+||lpko-biznes-logovnanie.com^$all
+||lpko-biznes-pl.com^$all
+||lpko-biznes.com^$all
 ||lpocztapolska.net^$all
 ||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||lubicplacki.is-best.net^$all
@@ -4386,6 +4393,7 @@
 ||paczta.net^$all
 ||pacztex.net^$all
 ||pafiilate.byethost32.com^$all
+||pagesecureonline-official.com^$all
 ||paiementhome-pl-*.*.*^$all
 ||paiementnazwa-pl-*.*.*^$all
 ||paifi.net^$all
@@ -6495,6 +6503,7 @@
 ||umariki.pl^$all
 ||umarkets.group^$all
 ||umarkets.io^$all
+||underwritedown.site^$all
 ||undreadside.site^$all
 ||unicredit.blackbeltapp.com^$all
 ||uniqued.xyz^$all
@@ -6960,6 +6969,7 @@
 ||your-datingspot-here.com^$all
 ||your-mac-security-analysis.net.*.*.*^$all,domain=agency|icu|life|live|xyz
 ||your-movies.pl^$all
+||youtube.pc.pl^$all
 ||youtube.tm.pl^$all
 ||yrehrher.001www.com^$all
 ||yuan-online.com^$all
@@ -7118,13 +7128,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost.pl.service-secure.quest^$all
-||ipkobiznes.live^$all
-||ipko-biznes-log.com^$all
-||ipkobiznes.uk^$all
-||lpko-biznes.com^$all
-||lpko-biznes-logovnanie.com^$all
-||lpko-biznes-pl.com^$all
-||pagesecureonline-official.com^$all
-||underwritedown.site^$all
-||youtube.pc.pl^$all
