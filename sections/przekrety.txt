@@ -1,9 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||naturalmarket.store^$all
-||health-lab.store^$all
-||twoje-zdrowie.club^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -495,6 +492,7 @@
 ||bazkomp.pl^$all
 ||ba-dib.com^$all
 ||bbcnews.pl^$all
+||bcoininv3.space^$all
 ||beasybd.com^$all
 ||beauty-direct.pl^$all
 ||become-a-millionaire.info^$all
@@ -2121,6 +2119,7 @@
 ||hd.videos.co.pl^$all
 ||healthknowledge.my^$all
 ||health-beauty.press^$all
+||health-lab.store^$all
 ||hearbreakingfizz.top^$all
 ||hehreerh.001www.com^$all
 ||helianthus.com.pl^$all
@@ -2173,6 +2172,7 @@
 ||hor.orlninwest.pw^$all
 ||host1.5v.pl^$all
 ||hostfeboe.n4t.co^$all
+||hosting159869.a2fee.netcup.net^$all
 ||hosting*.online.pro^$document
 ||hostkrd.ovh^$all
 ||hostname24.eu^$all
@@ -2415,6 +2415,9 @@
 ||inpost-plepf.myvipkontos.casa^$all
 ||inpost-plepf.myvipkontos.shop^$all
 ||inpost-plepf.myvipkontos.work^$all
+||inpost-plnqm.myvipkontos.casa^$all
+||inpost-plnqm.myvipkontos.shop^$all
+||inpost-plnqm.myvipkontos.work^$all
 ||inpost-pl-delivering.icu^$all
 ||inpost-pl-dostawa.cyou^$all
 ||inpost-pl-pay.site^$all
@@ -3443,6 +3446,7 @@
 ||naszpolskiswiat.xyz^$all
 ||nasz--kraj-info.x9.eu^$all
 ||natoniejjestzapozno.site^$all
+||naturalmarket.store^$all
 ||naturalnazywnosc.pl^$all
 ||naturalna-selekcja.eu^$all
 ||naukaunlimited.pl^$all
@@ -3924,6 +3928,9 @@
 ||olx-plr.myvipkontos.shop^$all
 ||olx-plr.myvipkontos.work^$all
 ||olx-plt.myvipkontos.work^$all
+||olx-plzxlz.myvipkontos.casa^$all
+||olx-plzxlz.myvipkontos.shop^$all
+||olx-plzxlz.myvipkontos.work^$all
 ||olx-pl-delivering.icu^$all
 ||olx-pl-delivery.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl-dostava.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -4117,6 +4124,7 @@
 ||olx.pl-wellpayment.shop^$all
 ||olx.pl-wellpayment.work^$all
 ||olx.pl-wellpayment.xyz^$all
+||olx.pl-wellpays.work^$all
 ||olx.pl-wellpay.cyou^$all
 ||olx.pl-wellpay.icu^$all
 ||olx.pl-wellpay.shop^$all
@@ -4334,6 +4342,7 @@
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
 ||paczdpd.com^$all
+||paczgls.com^$all
 ||paczinfo.com^$all
 ||paczinfo.net^$all
 ||paczka24h-dhl.com^$all
@@ -5587,6 +5596,7 @@
 ||roseiiy.com^$all
 ||rossmanie.xyz^$all
 ||rossmannbonyzakupowe.grvdc.eu^$all
+||ros-camp.website^$all
 ||rounaut-634f9.web.app^$all
 ||roundcube.pl^$all
 ||round-cub1.web.app^$all
@@ -6468,6 +6478,7 @@
 ||twoje-swiatowe-informacje.dnsrobotuptime.ru^$all
 ||twoje-swiatowe-info.dnsrobotuptime.ru^$all
 ||twoje-swiatowe-info.pl^$all
+||twoje-zdrowie.club^$all
 ||twojfilm.online^$all
 ||twojkurier-dhl.*^$all
 ||twoj-fart.click^$all
@@ -6973,6 +6984,7 @@
 ||your-mac-security-analysis.net.*.*.*^$all,domain=agency|icu|life|live|xyz
 ||your-movies.pl^$all
 ||youtube.pc.pl^$all
+||youtube.sos.pl^$all
 ||youtube.tm.pl^$all
 ||yrehrher.001www.com^$all
 ||yuan-online.com^$all
@@ -7131,15 +7143,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||bcoininv3.space^$all
-||hosting159869.a2fee.netcup.net^$all
-||inpost-plnqm.myvipkontos.casa^$all
-||inpost-plnqm.myvipkontos.shop^$all
-||inpost-plnqm.myvipkontos.work^$all
-||olx.pl-wellpays.work^$all
-||olx-plzxlz.myvipkontos.casa^$all
-||olx-plzxlz.myvipkontos.shop^$all
-||olx-plzxlz.myvipkontos.work^$all
-||paczgls.com^$all
-||ros-camp.website^$all
-||youtube.sos.pl^$all

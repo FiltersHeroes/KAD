@@ -1,7 +1,5 @@
 .life/?utm_campaign=pEv9*&t=main$all,important,domain=life
 .live/?utm_campaign=pEv9*&t=main$all,important,domain=live
-||cpycracker.com^$all
-||gloos-ves.com^$all
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document
 !/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 /^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
@@ -49,6 +47,7 @@
 ||clubretro.com.pl^$all
 ||coma.com.pl/userfiles/*.xml$document
 ||comfortbra.pl^$all
+||cpycracker.com^$all
 ||cryplangeneral.live^$all
 ||cryptominded.com^$all
 ||cr-toptom.com^$all
@@ -81,6 +80,7 @@
 ||ggljjk.cc^$all
 ||giftprizewinner.com^$all
 ||global-mobile-apps-repository.life^$all
+||gloos-ves.com^$all
 ||go2internal.com^$all
 ||gogorihc.space^$all
 ||go-rilla.offerstrack.net^$all
