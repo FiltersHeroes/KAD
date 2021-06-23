@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 23 Jun 2021, 13:06 UTC+02
-! Version: 2021.6.23.0
+! Last modified: Wed, 23 Jun 2021, 17:06 UTC+02
+! Version: 2021.6.23.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -219,6 +219,7 @@
 ||butylotto.pl^$all
 ||butymartensy.com^$all
 ||butymizunopolska.com^$all
+||butyonlinesklep.com^$all
 ||butyplsklep.com^$all
 ||butypremium.pl^$all
 ||butypuma.pl^$all
@@ -1305,6 +1306,7 @@
 ||sklepbuty.top^$all
 ||sklephollisterpl.com^$all
 ||sklepkjl.com^$all
+||sklepyhugoboss.pl^$all
 ||sklep-bio.pl^$all
 ||sklep-colway.com^$all
 ||sklep-colway.pl^$all
@@ -4486,6 +4488,7 @@
 ||inpost.pl-wellpay.work^$all
 ||inpost.pl-wellpay.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
+||inpost.pl.service-secure.quest^$all
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.polska*.*^$document^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.pw^$all
@@ -4555,6 +4558,9 @@
 ||iokalnie-sklep-eiektroniczny.in.net^$all
 ||ionetporwanie.*^$all
 ||ipanemapolska.com^$all
+||ipkobiznes.live^$all
+||ipkobiznes.uk^$all
+||ipko-biznes-log.com^$all
 ||ipko-securpl.com^$all
 ||ipko.club^$all
 ||ipko.space^$all
@@ -5047,6 +5053,9 @@
 ||lovemydress.pl^$all
 ||lpkao.pw^$all
 ||lpkeo.pw^$all
+||lpko-biznes-logovnanie.com^$all
+||lpko-biznes-pl.com^$all
+||lpko-biznes.com^$all
 ||lpocztapolska.net^$all
 ||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||lubicplacki.is-best.net^$all
@@ -6386,6 +6395,7 @@
 ||paczta.net^$all
 ||pacztex.net^$all
 ||pafiilate.byethost32.com^$all
+||pagesecureonline-official.com^$all
 ||paiementhome-pl-*.*.*^$all
 ||paiementnazwa-pl-*.*.*^$all
 ||paifi.net^$all
@@ -8495,6 +8505,7 @@
 ||umariki.pl^$all
 ||umarkets.group^$all
 ||umarkets.io^$all
+||underwritedown.site^$all
 ||undreadside.site^$all
 ||unicredit.blackbeltapp.com^$all
 ||uniqued.xyz^$all
@@ -8960,6 +8971,7 @@
 ||your-datingspot-here.com^$all
 ||your-mac-security-analysis.net.*.*.*^$all,domain=agency|icu|life|live|xyz
 ||your-movies.pl^$all
+||youtube.pc.pl^$all
 ||youtube.tm.pl^$all
 ||yrehrher.001www.com^$all
 ||yuan-online.com^$all
