@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 24 Jun 2021, 13:05 UTC+02
-! Version: 2021.6.24.0
+! Last modified: Thu, 24 Jun 2021, 17:06 UTC+02
+! Version: 2021.6.24.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2038,7 +2038,7 @@
 ||1k-daily-profitz.com^$all
 ||1mpost.net^$all
 ||1nposl.net^$all
-||1npost.net^$alll
+||1npost.net^$all
 ||1pulsoksymetr-pl.com^$all
 ||1y8v7s.store^$all
 ||2remove.guide^$all
@@ -2128,7 +2128,7 @@
 ||abstractway.top^$all
 ||acceuil-serviceclient.com^$all
 ||account.login.appid.customer.online.curriculumvitae.live^$all
-||acena.top^$al
+||acena.top^$all
 ||activation-netflix.com^$all
 ||activesports.com.pl^$all
 ||actualizarelect.890m.com^$all
@@ -3188,7 +3188,7 @@
 ||directionxanc2021.ddns.net^$all
 ||dirproperties.com^$all
 ||discsplay.com^$all
-||distracted-babbage-7a44a8.netlify.app^$all
+||distracted-babbage-*.netlify.app^$all
 ||divisionart.pl^$all
 ||djarumgol.com^$all
 ||djrooby.pl^$all
@@ -3587,6 +3587,7 @@
 ||e-onet24.eu^$all
 ||e-onetfakty24.eu^$all
 ||e-osobyzagionione.pl^$all
+||e-paczka.info^$all
 ||e-pocztapolska.com^$all
 ||e-poczta-polska.com^$all
 ||e-poczta-polska.net^$all
@@ -3913,6 +3914,7 @@
 ||gartoninvest.co^$all
 ||garwolin.info.pl^$all
 ||gastrohurt.neostrada.pl^$all
+||gazetabielany.waw.pl^$all
 ||gazetagdynia.xyz^$all
 ||gazetakrakow.xyz^$all
 ||gazetalegnicka.xyz^$all
@@ -4518,6 +4520,7 @@
 ||inpost.surf^$all
 ||inpost.su^$all
 ||inpost.tech^$all
+||inpost.transcom.site^$all
 ||inpost.ua-dostawka.xyz^$all
 ||inpost.us^$all
 ||inpost.wyprzedaz-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -4907,6 +4910,7 @@
 ||kurier-naleznosc.in.net^$all
 ||kurier-naleznosc.life^$all
 ||kurier-oczekuiacy.in.net^$all
+||kurier-paczka.com^$all
 ||kurier-plata.digital^$all
 ||kurier-wpiata.online^$all
 ||kurjerzy-pl.cyou^$all
@@ -4968,6 +4972,7 @@
 ||lexinfo.com.pl^$all
 ||leyber.fun^$all
 ||lezrweb.com^$all
+||licencjar.icu^$all
 ||lidi.pl^$all
 ||lifanpower.pl^$all
 ||lifehackz.net^$all
@@ -5613,6 +5618,7 @@
 ||o2news.you2.pl^$all
 ||o2-informacja.waw.pl^$all
 ||o2-informacje.waw.pl^$all
+||o2-info.waw.pl^$all
 ||o2-online.pl^$all
 ||o2-polska1.pl^$all
 ||o2-polska2.pl^$all
@@ -5958,6 +5964,7 @@
 ||olx-pl-dostava.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl-dostawa.cyou^$all
 ||olx-pl-dostawa.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx-pl-dostawka.icu^$all
 ||olx-pl-id-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl-id.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl-mobile.site^$all
@@ -6141,6 +6148,8 @@
 ||olx.pl-safeshop.xyz^$all
 ||olx.pl-safety.shop^$all
 ||olx.pl-safety.xyz^$all
+||olx.pl-wellcash.cyou^$all
+||olx.pl-wellorder.cyou^$all
 ||olx.pl-wellpayment.cyou^$all
 ||olx.pl-wellpayment.icu^$all
 ||olx.pl-wellpayment.shop^$all
@@ -6610,6 +6619,7 @@
 ||pay110-olx.info^$all
 ||pay112-olx.info^$all
 ||pay113-olx.info^$all
+||pay120-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.gate-potwierdzenie.xyz^$all
@@ -7411,6 +7421,7 @@
 ||propicture.pl^$all
 ||prostasytuacjadlawas.website^$all
 ||prostozkraju.dkonto.pl^$all
+||prostybiznes.waw.pl^$all
 ||prosze.moonfruit.com^$all
 ||protector-web.space^$all
 ||protego-safe.me^$all
@@ -8470,6 +8481,7 @@
 ||tv-info.pl^$all
 ||tv-maniak.pl^$all
 ||tv.gorzow.pl^$all
+||tv.kolobrzeg.pl^$all
 ||twenty-wishes.000webhostapp.com^$all
 ||twilight-pointed-plant.glitch.me^$all
 ||twojadecyzjacozrobisz.site^$all
@@ -9087,6 +9099,7 @@
 ||zens.pl^$all
 ||zerety.xyz^$all
 ||zestawnaprawczy-do-wgniecen.com^$all
+||zestolicy.waw.pl^$all
 ||zeusfinancialtrades.com^$all
 ||ze-swiata.you2.pl^$all
 ||zgarnijplik.pl^$all
