@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 25 Jun 2021, 13:06 UTC+02
-! Version: 2021.6.25.0
+! Last modified: Fri, 25 Jun 2021, 17:05 UTC+02
+! Version: 2021.6.25.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4511,6 +4511,10 @@
 ||inpost.pl-give-cash.cyou^$all
 ||inpost.pl-give-cash.shop^$all
 ||inpost.pl-give-cash.xyz^$all
+||inpost.pl-havecash.cyou^$all
+||inpost.pl-havecash.icu^$all
+||inpost.pl-havecash.work^$all
+||inpost.pl-havecash.xyz^$all
 ||inpost.pl-paidgo.cyou^$all
 ||inpost.pl-paidgo.icu^$all
 ||inpost.pl-paidgo.shop^$all
@@ -4518,6 +4522,7 @@
 ||inpost.pl-safeshop.work^$all
 ||inpost.pl-safety.club^$all
 ||inpost.pl-safety.live^$all
+||inpost.pl-safety.service-secure.quest^$all
 ||inpost.pl-safety.work^$all
 ||inpost.pl-wellorder.xyz^$all
 ||inpost.pl-wellpayment.cyou^$all
@@ -5099,6 +5104,7 @@
 ||lotosinvest.info^$all
 ||lotospl.website^$all
 ||lotos-grupa.site^$all
+||lotos-inv.surge.sh^$all
 ||lot-pl.website^$all
 ||loudmatch.com^$all
 ||loutam.xyz^$all
@@ -5106,6 +5112,10 @@
 ||lovemydress.pl^$all
 ||lpkao.pw^$all
 ||lpkeo.pw^$all
+||lpkobiznes.cc^$all
+||lpkobiznes.live^$all
+||lpkobiznes.me^$all
+||lpkobiznes.online^$all
 ||lpko-biznes-logovnanie.com^$all
 ||lpko-biznes-pl.com^$all
 ||lpko-biznes.com^$all
@@ -5501,6 +5511,7 @@
 ||naturalmarket.store^$all
 ||naturalnazywnosc.pl^$all
 ||naturalna-selekcja.eu^$all
+||natural-creeper.xyz^$all
 ||naukaunlimited.pl^$all
 ||nauka-angielskiego.com.pl^$all
 ||naukowcydlaniepodleglej.pl^$all
@@ -6161,6 +6172,10 @@
 ||olx.pl-cashback.website^$all
 ||olx.pl-cash.info^$all
 ||olx.pl-cash.website^$all
+||olx.pl-havecash.cyou^$all
+||olx.pl-havecash.icu^$all
+||olx.pl-havecash.work^$all
+||olx.pl-havecash.xyz^$all
 ||olx.pl-money.info^$all
 ||olx.pl-money.online^$all
 ||olx.pl-money.site^$all
@@ -6212,6 +6227,8 @@
 ||olx.polskaolerta.casa^$all
 ||olx.polskaolerta.shop^$all
 ||olx.polska-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx.primind-banii.cc^$all
+||olx.primind-banii.info^$all
 ||olx.przesylki-secure.com^$all
 ||olx.przesylki.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.przesylk.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -6232,6 +6249,7 @@
 ||omrolsztyn.neostrada.pl^$all
 ||onatozrobila.xyz^$all
 ||onclickbright.com^$all
+||ondergroot.xyz^$all
 ||onecik1.pl^$all
 ||onecik2.pl^$all
 ||onecik3.pl^$all
