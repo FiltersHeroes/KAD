@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 24 Jun 2021, 21:06 UTC+02
-! Version: 2021.6.24.2
+! Last modified: Fri, 25 Jun 2021, 13:06 UTC+02
+! Version: 2021.6.25.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2053,6 +2053,7 @@
 ||3filmy.com^$all
 ||3i0wrsa.store^$all
 ||3polskie-o2.pl^$all
+||03sms.in^$all
 ||3sms.in^$all
 ||3w2k701z6i94wgr.choobin-co.ir^$all
 ||3-139-92-223.cprapid.com^$all
@@ -2076,6 +2077,7 @@
 ||9nta.com^$all
 ||20-55-32-61.cprapid.com^$all
 ||24dzindobrykraj.cyou^$all
+||24energylandia.pl^$all
 ||24e-lokalne.dnsrobotuptime.ru^$all
 ||24fakty.pl^$all
 ||24forum.pl^$all
@@ -2400,6 +2402,8 @@
 ||artykulinformacje24h.pl^$all
 ||artykulinformacje-24h.pl^$all
 ||artykulinformacje.pl^$all
+||artykulpolska24h.pl^$all
+||artykulpolska.pl^$all
 ||artykulpolski24h.pl^$all
 ||artykulpolski-24h.pl^$all
 ||artykulyinformacje.pl^$all
@@ -2410,6 +2414,9 @@
 ||artykul-informacje-24h.pl^$all
 ||artykul-informacje.pl^$all
 ||artykul-online.pl^$all
+||artykul-polska24h.pl^$all
+||artykul-polska-24h.pl^$all
+||artykul-polska.pl^$all
 ||art-dent.com.pl^$all
 ||art-fashion.pl^$all
 ||art-invest.com.pl^$all
@@ -2830,6 +2837,7 @@
 ||chckmailabig32.web.app^$all
 ||cheap.cheaps2021.ru^$all
 ||checkoutbase.com^$all
+||checkoutwins.com^$all
 ||checkthatdeals.com^$all
 ||check-olx.pl^$all
 ||check-pay.site^$all
@@ -3487,11 +3495,18 @@
 ||energylande.pl^$all
 ||energylandiaa.waw.pl^$all
 ||energylandia-uwaga.pl^$all
+||energylandia-wypadek.pl^$all
 ||energylandia.waw.pl^$all
+||energylandiia.waw.pl^$all
 ||energyylandia.pl^$all
 ||energyy-ladnia.waw.pl^$all
+||energy-laandia.waw.pl^$all
+||energy-landiaa.pl^$all
 ||energy-landia.pl^$all
 ||energy-landia.waw.pl^$all
+||energy-zator.pl^$all
+||energ-landia.pl^$all
+||energ-land.pl^$all
 ||enevislimited.com^$all
 ||enklawy.pl^$all
 ||enpgnig.pl^$all
@@ -3977,6 +3992,8 @@
 ||gazeta.lomza.pl^$all
 ||gazetka24.alte.pl^$all
 ||gazetka24.laohost.net^$all
+||gazetkapolska.pl^$all
+||gazetka-polska.pl^$all
 ||gazetowo.pl^$all
 ||gcesab.com^$all
 ||gcginternational.com^$all
@@ -4067,6 +4084,7 @@
 ||goplayz.com^$all
 ||goraceinfo.pl^$all
 ||gorisemarkets.com^$all
+||gorkov.xyz^$all
 ||gospodarstwo-rolne.com.pl^$all
 ||gossip-round.com^$all
 ||gotakeyourprofit.com^$all
@@ -4437,6 +4455,7 @@
 ||inpost-plnqm.myvipkontos.casa^$all
 ||inpost-plnqm.myvipkontos.shop^$all
 ||inpost-plnqm.myvipkontos.work^$all
+||inpost-plskmy.myorderts.work^$all
 ||inpost-pl-delivering.icu^$all
 ||inpost-pl-dostawa.cyou^$all
 ||inpost-pl-pay.site^$all
@@ -4512,6 +4531,7 @@
 ||inpost.pl-wellpay.work^$all
 ||inpost.pl-wellpay.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
+||inpost.pl.mebuyit.pw^$all
 ||inpost.pl.service-secure.quest^$all
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.polska*.*^$document^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -4691,6 +4711,7 @@
 ||jezykobcywdomu.eu^$all
 ||jezzellichodziiommnie.club^$all
 ||jmbase.my^$all
+||jnfjwaevc.bdad41f.cn^$all
 ||jogalodz.pl^$all
 ||jolabury.pl^$all
 ||jondir.xyz^$all
@@ -4699,6 +4720,7 @@
 ||jstoppello.com^$all
 ||juicingwell.com^$all
 ||juicywin.pl^$all
+||juklotire.link^$all
 ||julia487.pl^$all
 ||jumanji.icu^$all
 ||juran.pl^$all
@@ -5426,6 +5448,7 @@
 ||najlepszaskutecznossc24.cyou^$all
 ||najlepszewrozby.pl^$all
 ||najlepsze-oferty.com^$all
+||najlepsze-okazje2021.pl^$all
 ||najnowszetv.pl^$all
 ||najnowsze-informacje.com^$all
 ||najnowszymaterialletv.site^$all
@@ -5956,6 +5979,7 @@
 ||olx-pay.org^$all
 ||olx-pay.pl.pay-reg.pw^$all
 ||olx-pliqzb.shlnk.cc^$all
+||olx-pllh.myorderts.work^$all
 ||olx-pln.eu^$all
 ||olx-plr.myvipkontos.shop^$all
 ||olx-plr.myvipkontos.work^$all
@@ -6155,6 +6179,8 @@
 ||olx.pl-wellcash.cyou^$all
 ||olx.pl-welldelivery.cyou^$all
 ||olx.pl-welldelivery.icu^$all
+||olx.pl-wellordered.cyou^$all
+||olx.pl-wellordered.icu^$all
 ||olx.pl-wellorders.cyou^$all
 ||olx.pl-wellorders.icu^$all
 ||olx.pl-wellorders.shop^$all
@@ -6632,6 +6658,8 @@
 ||pay112-olx.info^$all
 ||pay113-olx.info^$all
 ||pay120-olx.info^$all
+||pay121-olx.info^$all
+||pay122-olx.info^$all
 ||payback-aplikacja.biz^$all
 ||payersend.info^$all
 ||paygate.gate-potwierdzenie.xyz^$all
@@ -7172,8 +7200,12 @@
 ||polska24.ehost.pl^$all
 ||polska24.eu^$all
 ||polska24.serwerplus.pl^$all
+||polskaartykul24h.pl^$all
+||polskaartykul-24h.pl^$all
+||polskaartykul.pl^$all
 ||polskadziennik.pl^$all
 ||polskagazeta.xyz^$all
+||polskagazetka.pl^$all
 ||polskainfo.co.pl^$all
 ||polskanews.eu^$all
 ||polskaolerta.store^$all
@@ -7209,6 +7241,9 @@
 ||polskayear.pl^$all
 ||polskazobaczy.online^$all
 ||polska-anketierowanie.site^$all
+||polska-artykul24h.pl^$all
+||polska-artykul-24h.pl^$all
+||polska-artykul.pl^$all
 ||polska-btcc.club^$all
 ||polska-btcc.icu^$all
 ||polska-btcc.website^$all
@@ -7216,6 +7251,7 @@
 ||polska-dostawa.online^$all
 ||polska-dostawka.club^$all
 ||polska-dzisiaj1.cyou^$all
+||polska-gazetka.pl^$all
 ||polska-nasze-info24.x9.eu^$all
 ||polska-oferla.club^$all
 ||polska-oferla.shop^$all
@@ -7269,6 +7305,7 @@
 ||pomagamy.xip.pl^$all
 ||pomagam-dzisiaj.eu^$all
 ||pomagam-joannie.com.pl^$all
+||pomkalo.link^$all
 ||pomoc24.site^$all
 ||pomoc48.you2.pl^$all
 ||pomocdlafranka.pl^$all
@@ -8100,6 +8137,7 @@
 ||steamcammunity.com^$all
 ||steamcammunnity.ru.com^$all
 ||steamcommiunuty.com^$all
+||steamcommnunitly.com^$all
 ||steamcommunjty.com^$all
 ||steamcomnenity.ru.com^$all
 ||steamcomunjty.com^$all
@@ -9092,7 +9130,11 @@
 ||zaswiadczeniekrk.pl^$all
 ||zaszczepilamsie.co.pl^$all
 ||zaszczepionakobieta.co.pl^$all
+||zatoor-landia.pl^$all
+||zator-energlandia.waw.pl^$all
 ||zator-energlanndia.waw.pl^$all
+||zator-energylandia.waw.pl^$all
+||zator-landia.waw.pl^$all
 ||zawieszone.5p.pl^$all
 ||zawsze-bedziemy.pl^$all
 ||zbigniewbiernat.pl^$all
@@ -9166,6 +9208,7 @@
 ||zyczyca.icu^$all
 ||zyjesiedlatakichhchwil.website^$all
 ||zyzlk.com^$all
+||z-energylandia.pl^$all
 ||z-kraju.co.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
