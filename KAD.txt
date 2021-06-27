@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 27 Jun 2021, 13:05 UTC+02
-! Version: 2021.6.27.0
+! Last modified: Sun, 27 Jun 2021, 17:06 UTC+02
+! Version: 2021.6.27.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -136,7 +136,6 @@
 ||bartekzukiewicz.pl^$all
 ||bartelik-brukarstwo.pl^$all
 ||barwin4.com^$all
-||baseny.club^$all
 ||baskar8.com^$all
 ||basnogorach.pl^$all
 ||battergo.com^$all
@@ -280,7 +279,6 @@
 ||ciepleklimaty.pl^$all
 ||cinemateka.pl^$all
 ||cinema-online.pl^$all
-||circlescatfish.com^$all
 ||cityodyssey.com^$all
 ||clarkswyprzedaz.com^$all
 ||closiv.com^$all
@@ -395,7 +393,6 @@
 ||ebook4all.com.pl^$all
 ||eccobutypolska.com^$all
 ||eccobuty.co^$all
-||eccoeustore.com^$all
 ||eccooutletpolska.pl^$all
 ||eccopoland.com^$all
 ||ecco-polska.pl^$all
@@ -529,7 +526,6 @@
 ||game-hack.biz^$all
 ||garciniacambogiaactives.pl^$all
 ||gargas-gastronomia.pl^$all
-||gatezio.com^$all
 ||gayfakt.pl^$all
 ||gce-mennica.pl^$all
 ||gemverify.com^$all
@@ -827,7 +823,6 @@
 ||makarenagaski.pl^$all
 ||maksymrzeminski.pl^$all
 ||malgorzatakwapisz.pl^$all
-||malneo44.com^$all
 ||malybrzuszek.pl^$all
 ||mamawpodrozy.pl^$all
 ||manaslu.pl^$all
@@ -987,7 +982,6 @@
 ||notariuszpetrus.pl^$all
 ||notariuszursus.pl^$all
 ||notatnik-poliglotki.pl^$all
-||notifyday.com^$all
 ||novamotylarnia.pl^$all
 ||nowmarket.pl^$all
 ||nowybuty.top^$all
@@ -1124,7 +1118,6 @@
 ||popcornvod.com^$all
 ||poradybiurowe.pl^$all
 ||portaldruku.pl^$all
-||porvitto.com^$all
 ||postergaleria.chh.pl^$all
 ||postergaleria.pl^$all
 ||powearth.pl^$all
@@ -1238,7 +1231,6 @@
 ||roundupbarandgrill.com^$all
 ||rovingadventures.com^$all
 ||rownet.pl^$all
-||roztini51.com^$all
 ||rsvpcatering.pl^$all
 ||rtvmax.pl^$all
 ||rubris.org^$all
@@ -1688,7 +1680,6 @@
 ||0n.click^$all
 ||9dcm.net^$all
 ||34q22.cn^$all
-||abrakasba.space^$all
 ||academy-bitcoin.com^$all
 ||adaranth.com^$all
 ||adsbtrack.com^$all
@@ -1706,7 +1697,6 @@
 ||bestprizesday*.life^$all
 ||bestprize-places-here*.life^$all
 ||bestwinexperience.com^$all
-||best-prizes-4you1.life^$all
 ||best-prizes-here.live^$all
 ||bigdater.me^$all
 ||bigprize-place.info^$all
@@ -1716,7 +1706,6 @@
 ||bnmjjwinf292.com^$all
 ||braintest4you.com^$all
 ||brzegiemziemi.pl^$all
-||bsketball.space^$all
 ||bulanmanabisadiam.com^$all
 ||cerine-posals.icu^$all
 ||claimyourprizes*.life^$all
@@ -1735,7 +1724,6 @@
 ||cr-toptom.com^$all
 ||d8x.pl^$all
 ||decynsire.com^$all
-||developfirstline.com^$all
 ||devstartup.pl^$all
 ||dgu9g3a2kzqx2.cloudfront.net^$all
 ||easy-to-read.eu^$all
@@ -1764,7 +1752,6 @@
 ||global-mobile-apps-repository.life^$all
 ||gloos-ves.com^$all
 ||go2internal.com^$all
-||gogorihc.space^$all
 ||go-rilla.offerstrack.net^$all
 ||go.data1rtb.com^$all
 ||go.trckaffis.com^$all
@@ -1862,7 +1849,6 @@
 ||tankescape.com^$all
 ||tedsaliesdirekt.info^$all
 ||thisisclicksecured.page.link^$all
-||togetherforwine.com^$all
 ||track-enable.com^$all
 ||traffic-c.com^$all
 ||triumphantplace.com^$all
@@ -2006,7 +1992,7 @@
 ! Przekręty
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
-!||torrentos.pl^$all
+!||torrentos.pl^$al
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -2029,6 +2015,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
+|https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
@@ -2053,7 +2040,6 @@
 ||3fazowa-ostrzalka-do-nozy-pl.com^$all
 ||3filmy.com^$all
 ||3i0wrsa.store^$all
-||3polskie-o2.pl^$all
 ||03sms.in^$all
 ||3sms.in^$all
 ||3w2k701z6i94wgr.choobin-co.ir^$all
@@ -2078,7 +2064,6 @@
 ||9nta.com^$all
 ||20-55-32-61.cprapid.com^$all
 ||24dzindobrykraj.cyou^$all
-||24energylandia.pl^$all
 ||24e-lokalne.dnsrobotuptime.ru^$all
 ||24fakty.pl^$all
 ||24forum.pl^$all
@@ -2140,8 +2125,6 @@
 ||adalo.pl^$all
 ||adament.c0.pl^$all
 ||adamjarekelk.freehost.pl^$all
-||adampaczka.com^$all
-||adasiapaczka.org^$all
 ||adastra2019onlinezalukajfilm.wordpress.com^$all
 ||add-ssl.com^$all
 ||adidaspolskaoutlet.com^$all
@@ -2156,7 +2139,6 @@
 ||ads-fb.co^$all
 ||adventurous-shrouded-llama.glitch.me^$all
 ||adwokaci-24.pl^$all
-||adworks.cat^$all
 ||aederem.site^$all
 ||afetos.site^$all
 ||affingindustries.com^$all
@@ -2209,8 +2191,6 @@
 ||aktualizacja-poczty.online^$all
 ||aktualizacja.jst.pl^$all
 ||aktywnezycie.com.pl^$all
-||aktywnirazem.waw.pl^$all
-||aktywni-razem.waw.pl^$all
 ||alabaster-steel-hawthorn.glitch.me^$all
 ||alanjula.pl^$all
 ||albajifood.com^$all
@@ -2383,7 +2363,6 @@
 ||apptrader.com^$all
 ||app*.kromtech.net^$all,domain=net
 ||app-messenger-lite.com^$all
-||app-netflix.ratedyork.tk^$all
 ||app.uniswap.info-tokens.com^$all
 ||aptecznypunkt.pl^$all
 ||aqsati.com^$all
@@ -2402,24 +2381,7 @@
 ||aromatva.icu^$all
 ||artistidelpane.it^$all
 ||artx.strefa.pl^$all
-||artykulinformacje24h.pl^$all
-||artykulinformacje-24h.pl^$all
-||artykulinformacje.pl^$all
-||artykulpolska24h.pl^$all
-||artykulpolska.pl^$all
-||artykulpolski24h.pl^$all
-||artykulpolski-24h.pl^$all
-||artykulyinformacje.pl^$all
-||artykulypolskie.pl^$all
-||artykuly-informacje.pl^$all
-||artykuly-polskie.pl^$all
-||artykul-informacje24h.pl^$all
-||artykul-informacje-24h.pl^$all
-||artykul-informacje.pl^$all
 ||artykul-online.pl^$all
-||artykul-polska24h.pl^$all
-||artykul-polska-24h.pl^$all
-||artykul-polska.pl^$all
 ||art-dent.com.pl^$all
 ||art-fashion.pl^$all
 ||art-invest.com.pl^$all
@@ -2619,6 +2581,7 @@
 ||bitcoin-trader-app.com^$all
 ||bitgenises.com^$all
 ||bitoptionfx.com^$all
+||bitqt.org^$all
 ||bitsends.space^$all
 ||bit-capitals.com^$all
 ||biurko.cyou^$all
@@ -2642,7 +2605,6 @@
 ||blog.lalalalala.club^$all
 ||bncoposta.com^$all
 ||bnppalba-biznesplanet.com^$all
-||bnpparibas-poland.co^$all
 ||bnpparibas-secure-biznes.at^$all
 ||bn-allorbank.com^$all
 ||bobali.xyz^$all
@@ -2694,7 +2656,6 @@
 ||brookswyprzedaz.com^$all
 ||brooks-polska.com^$all
 ||broszka097.site^$all
-||browsefeatureaasn31254.buzz^$all
 ||brudne-tajemnice.eu^$all
 ||brudne-tajemnice.pl^$all
 ||brzezinska.com.pl^$all
@@ -2864,7 +2825,6 @@
 ||ciarioplatense.com.ar^$all
 ||cidadecrista.com.br^$all
 ||ciekawesprawy.online^$all
-||ciekawewydarzenia.online^$all
 ||ciekawkapolska.online^$all
 ||ciezkieczasy.is-best.net^$all
 ||cikelly.com^$all
@@ -3026,7 +2986,6 @@
 ||czymsiezajmujebiznes.cyou^$all
 ||czyn-pomocy.eu^$all
 ||czyscidlo.pl^$all
-||czytaj-polsko.pl^$all
 ||czytanie.site^$all
 ||czytelnikpoliska.club^$all
 ||czytooszustwo.pl^$all
@@ -3277,8 +3236,6 @@
 ||destgrena.at^$all
 ||detoxic.net^$all
 ||developer.team1global.com.au^$all
-||devicenowaasn37126.xyz^$all
-||devicenowaasn51541.xyz^$all
 ||dg9dgwdeo4edf.cloudfront.net^$all
 ||dgebq.csb.app^$all
 ||dgtmarket.com^$all
@@ -3589,14 +3546,7 @@
 ||emonitoring-epoczta-polska.net^$all
 ||emonitoring-epocztex24.net^$all
 ||emonitoring-plpocztapolska.com^$all
-||emonitoring-poczta24polska.net^$all
-||emonitoring-poczta247.net^$all
-||emonitoring-pocztapl24.net^$all
-||emonitoring-pocztapolska.org^$all
-||emonitoring-pocztex24polska.net^$all
 ||emonitoring-pocztex48.net^$all
-||emonitoring-pocztexpolska.com^$all
-||emonitoring-pocztexpolska.net^$all
 ||emonitoring-pocztex.com^$all
 ||emonitoring-pocztex.net^$all
 ||emonitoring-polska48poczta.net^$all
@@ -3609,19 +3559,9 @@
 ||energylanda.pl^$all
 ||energylande.pl^$all
 ||energylandiaa.waw.pl^$all
-||energylandia-uwaga.pl^$all
-||energylandia-wypadek.pl^$all
 ||energylandia.waw.pl^$all
-||energylandiia.waw.pl^$all
-||energyylandia.pl^$all
 ||energyy-ladnia.waw.pl^$all
-||energy-laandia.waw.pl^$all
-||energy-landiaa.pl^$all
-||energy-landia.pl^$all
 ||energy-landia.waw.pl^$all
-||energy-zator.pl^$all
-||energ-landia.pl^$all
-||energ-land.pl^$all
 ||enevislimited.com^$all
 ||enklawy.pl^$all
 ||enpgnig.pl^$all
@@ -3650,7 +3590,6 @@
 ||eskluzywne-fotele.ovel.pl^$all
 ||esneakers24.pl^$all
 ||esterakoty.pl^$all
-||etracking-pocztex48.net^$all
 ||euforiaa.icu^$all
 ||eupay.website^$all
 ||euroausili.it^$all
@@ -3715,7 +3654,6 @@
 ||e-mail-regulamin.site^$all
 ||e-miasto.eu^$all
 ||e-mojemiasto.eu^$all
-||e-monitoring-pocztapolska.net^$all
 ||e-monitoring-pocztapolska.org^$all
 ||e-onet24.eu^$all
 ||e-onetfakty24.eu^$all
@@ -3750,8 +3688,6 @@
 ||faceboobko.*.*^$all
 ||facebookcom-43632337.techsso.com^$all
 ||facebookcom-49851167.techsso.com^$all
-||facebookweryfikacja.gq^$all
-||facebookweryfikacja.tk^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-informacje24.eu^$all
@@ -3761,14 +3697,12 @@
 ||facebook.com-group-85937753175139875813857813751-post-3758137865768137.newsypolska.pl^$all
 ||facebook.m918kiss.my^$all
 ||facebook.podpisz-petycje.*^$all
-||facebouk.site^$all
 ||facemode.pl^$all
 ||facewatch.borec.cz^$all
 ||failmobile.net^$all
 ||faithfull.kdm.pl^$all
 ||fajne-filmy.pl^$all
 ||fajny-bon.click^$all
-||faklurowo.pl^$all
 ||faksowy.is-best.net^$all
 ||fakt11.seohost.com.pl^$all
 ||fakt24-porwaniefabian.com.pl^$all
@@ -3802,11 +3736,9 @@
 ||fakty-informacje24.you2.pl^$all
 ||fakty-onet48.*^$all
 ||fakty-polska24.eu^$all
-||fakty-polska24.pl^$all
 ||fakt*.is-best.net^$all
 ||fakt-news24.eu^$all
 ||fakt-online24.eu^$all
-||fakt.pomoz-rozpoznac-sprawce.tk^$all
 ||fakt.you2.pl^$all
 ||faraweel.com^$all
 ||farbybialystok.pl^$all
@@ -3825,7 +3757,6 @@
 ||fbtoken.evai.pl^$all
 ||fbvetu.n4t.co^$all
 ||fbvverifier.mypi.co^$all
-||fbweryfikacja.tk^$all
 ||fb-ads-business.com^$all
 ||fb-ads.me^$all
 ||fb-business.net^$all
@@ -4108,8 +4039,6 @@
 ||gazeta.lomza.pl^$all
 ||gazetka24.alte.pl^$all
 ||gazetka24.laohost.net^$all
-||gazetkapolska.pl^$all
-||gazetka-polska.pl^$all
 ||gazetowo.pl^$all
 ||gcesab.com^$all
 ||gcginternational.com^$all
@@ -4410,10 +4339,8 @@
 ||inclusivetrading.biz^$all
 ||inesmanila.com^$all
 ||inezsport.com^$all
-||inf24-polska.pl^$all
 ||infasd2a.is-best.net^$all
 ||infa-z-polski.dnsrobotuptime.ru^$all
-||info24-polsko.pl^$all
 ||info112.waw.pl^$all
 ||info394290.wixsite.com^$all
 ||infodostarcz.net^$all
@@ -4451,7 +4378,6 @@
 ||informacje-miasto24.eu^$all
 ||informacje-miasto.pl^$all
 ||informacje-mojemiasto24.eu^$all
-||informacje-na-swiat.pl^$all
 ||informacje-od-policjiasdas.dnsrobotuptime.ru^$all
 ||informacje-onet.eu^$all
 ||informacje-policyjne.pl^$all
@@ -4479,7 +4405,6 @@
 ||informujemy-wszystkich.dnsrobotuptime.ru^$all
 ||informujemy-ze-swiata.dnsrobotuptime.ru^$all
 ||informujemy-z-polski.dnsrobotuptime.ru^$all
-||informuj-polske.pl^$all
 ||inform*.is-best.net^$all
 ||inform-sms.pw^$all
 ||infosandiego.wixsite.com^$all
@@ -4488,10 +4413,6 @@
 ||info-centrum.co.pl^$all
 ||info-inpost.pl^$all
 ||info-od-policji.dnsrobotuptime.ru^$all
-||info-onet26.pl^$all
-||info-onet27.pl^$all
-||info-onet28.pl^$all
-||info-onet30.pl^$all
 ||info-prosto-ze-swiata.dnsrobotuptime.ru^$all
 ||info-prosto-z-polski.dnsrobotuptime.ru^$all
 ||info-sms.su^$all
@@ -4549,6 +4470,7 @@
 ||inpost-dostawa.pl^$all
 ||inpost-dostawa.site^$all
 ||inpost-dostawka.cyou^$all
+||inpost-en.spredaz-online.club^$all
 ||inpost-express.com^$all
 ||inpost-generator.net^$all
 ||inpost-info.com^$all
@@ -4591,8 +4513,6 @@
 ||inpost-pl.myowndostawa24.live^$all
 ||inpost-pl.online^$all
 ||inpost-pl.ownkontos.shop^$all
-||inpost-pl.ownkontos.store^$all
-||inpost-pl.ownkontos.xyz^$all
 ||inpost-pl.safeorder.co^$all
 ||inpost-pl.safeorder.cyou^$all
 ||inpost-security.icu^$all
@@ -4693,7 +4613,6 @@
 ||instagramverification-center.com^$all
 ||instagram.com.ukradene-slike.cf^$all
 ||install.pdfconverterhd.com^$all
-||instalovers.net^$all
 ||instantreaction15.club^$all
 ||instantreaction549.club^$all
 ||instantreaction646.cyou^$all
@@ -4801,7 +4720,6 @@
 ||jackwolfskinpolska.com^$all
 ||jackwolfskinsklep.com^$all
 ||jacpuz.pl^$all
-||jagodapaczka.org^$all
 ||jakbyspyttal.site^$all
 ||jakbytonazzwac.site^$all
 ||jakda.buzz^$all
@@ -4816,7 +4734,6 @@
 ||jamba.pl^$all
 ||jamster.pl^$all
 ||jamu.kundalinisam.ru^$all
-||janekpaczka.org^$all
 ||jannahqu.org^$all
 ||jannatkhah.ir^$all
 ||janzwolinski.freehost.pl^$all
@@ -4901,7 +4818,6 @@
 ||kartowkop.xyz^$all
 ||kasa-sms.pl^$all
 ||kasiapaczka.com^$all
-||kasiapaczka.org^$all
 ||kasonet.pl^$all
 ||kasynopolska.wixsite.com^$all
 ||kaszubskidomek.pl^$all
@@ -5031,7 +4947,6 @@
 ||kredyt24.biz^$all
 ||kristen.store^$all
 ||krolestwopolskie.online^$all
-||kronika-miasta.website^$all
 ||kryptointeres.pl^$all
 ||kryptono.exchange^$all
 ||kryptoportal.pl^$all
@@ -5064,7 +4979,6 @@
 ||kup-teraz-237401.xyz^$all
 ||kup-teraz-859110.xyz^$all
 ||kuriedh.com^$all
-||kurier24-oplata.com^$all
 ||kurier24.services^$all
 ||kurierdhl.com^$all
 ||kurierfedex.pl^$all
@@ -5170,6 +5084,7 @@
 ||living2winning.com^$all
 ||liviosklep.pl^$all
 ||lldi.pl^$all
+||lluxurycapitals.com^$all
 ||lnfo.web-chat.eu^$all
 ||lngbusiness-start.com^$all
 ||lngstart-business.com^$all
@@ -5405,7 +5320,6 @@
 ||miasto24h.dkonto.pl^$all
 ||miastowe24.eu^$all
 ||miastowe24.pl^$all
-||michasiapaczka.org^$all
 ||michorzewski.pl^$all
 ||microsoftserviceautheticationteam.weebly.com^$all
 ||microsoft-o365-outlook.ts.r.appspot.com^$all
@@ -5498,7 +5412,6 @@
 ||monfex.com^$all
 ||mongorit.uno^$all
 ||monitorfx.pl^$all
-||monitoring-pocztapolska.net^$all
 ||monitoring-pocztapolska.org^$all
 ||monitor-ipocztapolska.net^$all
 ||monivpl.weebly.com^$all
@@ -5637,9 +5550,7 @@
 ||naszewiadomosci.site^$all
 ||naszewiadomosci.xyz^$all
 ||naszezabrze.online^$all
-||nasze-miasta24tv.online^$all
 ||nasze-miasto.k99k.com.pl^$all
-||nasze-tv.pl^$all
 ||naszglos24.laohost.net^$all
 ||naszpakiet.xyz^$all
 ||naszpolskiswiat.icu^$all
@@ -5655,7 +5566,6 @@
 ||nauka-angielskiego.com.pl^$all
 ||naukowcydlaniepodleglej.pl^$all
 ||navistuff.me^$all
-||navi-esport.com^$all
 ||navi-free2020.org.ru^$all
 ||navi-free.org.ru^$all
 ||navi-gt.com^$all
@@ -5669,7 +5579,6 @@
 ||needforfile.net^$all
 ||nekkel.pl^$all
 ||nekstra.com^$all
-||nelsondyalkjs.com^$all
 ||nerminyazar.com^$all
 ||nesenens.xyz^$all
 ||nesterowicz.pl^$all
@@ -5690,7 +5599,6 @@
 ||newpalmcoins.com^$all
 ||news24zoom.com^$all
 ||news48.dkonto.pl^$all
-||newsbusiness.co.uk^$all
 ||newsinteria.you2.pl^$all
 ||newsleter.you2.pl^$all
 ||newsoffres.online^$all
@@ -5790,15 +5698,11 @@
 ||nvod.pl^$all
 ||nytopu.dm-progress.ru^$all
 ||n-mobile.net^$all
-||o2informacja.waw.pl^$all
 ||o2informacje.waw.pl^$all
 ||o2news.you2.pl^$all
 ||o2-informacja.waw.pl^$all
-||o2-informacje.waw.pl^$all
 ||o2-info.waw.pl^$all
 ||o2-online.pl^$all
-||o2-polska1.pl^$all
-||o2-polska2.pl^$all
 ||obadatrendy.com^$all
 ||obecnybizznespolski.website^$all
 ||obkzrcclean2.az.pl^$all
@@ -5923,7 +5827,6 @@
 ||ogloszenia24.dfirma.pl^$all
 ||ogloszeniateraz97.club^$all
 ||ogloszenia-24.cba.pl^$all
-||ogloszenia-oddam.pl^$all
 ||ogloszenia-olx.you2.pl^$all
 ||ogloszenia-pieski.pl^$all
 ||ogloszenie24.in.net^$all
@@ -5932,7 +5835,6 @@
 ||ogloszenie-elektronika.*^$all
 ||ogloszenie-kupteraz-*.*^$all
 ||ogloszenie-nagrod.eu^$all
-||ogloszenie-olx.pl^$all
 ||ogloszeniie-kupteraz-pl-*.*^$all
 ||oglosznie-elektroniczne.*^$all
 ||ogl-yorki.dfirma.pl^$all
@@ -6032,7 +5934,6 @@
 ||olxwysylka.info^$all
 ||olxwysylka.pl^$all
 ||olxyorki.dfirma.pl^$all
-||olx-allegro.pl^$all
 ||olx-banking.ac^$all
 ||olx-banking.app^$all
 ||olx-banking.bid^$all
@@ -6190,7 +6091,6 @@
 ||olx-pl.my-dostawa.bar^$all
 ||olx-pl.my-dostawa.club^$all
 ||olx-pl.net^$all
-||olx-pl.nfotyjen.tk^$all
 ||olx-pl.oferta-payment.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl.oferta-pay.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl.oferto.cc^$all
@@ -6222,7 +6122,6 @@
 ||olx-polska.com^$all
 ||olx-polska.live^$all
 ||olx-polska.pl^$all
-||olx-polski.pl^$all
 ||olx-pol-and.app^$all
 ||olx-potwierdzenie.xyz^$all
 ||olx-po-land.app^$all
@@ -6259,11 +6158,9 @@
 ||olx-wyplata.pl^$all
 ||olx-w.pl^$all
 ||olx-x.site^$all
-||olx-yorki.pl^$all
 ||olx-y.pl^$all
 ||olx-zamowienie.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-zaplata.pl^$all
-||olx-zwierzeta.pl^$all
 ||olx-z.pl^$all
 ||olx--pl.online^$all
 ||olx.blue^$all
@@ -6310,10 +6207,7 @@
 ||olx.oplata-is.com^$all
 ||olx.orders-pls.biz^$all
 ||olx.owndostaw.shop^$all
-||olx.owndostaw.website^$all
 ||olx.ownkontos.shop^$all
-||olx.ownkontos.store^$all
-||olx.ownkontos.xyz^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -6417,9 +6311,6 @@
 ||onatozrobila.xyz^$all
 ||onclickbright.com^$all
 ||ondergroot.xyz^$all
-||onecik1.pl^$all
-||onecik2.pl^$all
-||onecik3.pl^$all
 ||onedrive-pl.cyou^$all
 ||onemed.com.pl^$all
 ||onet24pl.pvi.pl^$all
@@ -6591,7 +6482,6 @@
 ||o-net3.pl^$all
 ||o-net4.pl^$all
 ||p0czta.net^$all
-||p0rtal-register.tk^$all
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
 ||paczdpd.com^$all
@@ -6602,7 +6492,6 @@
 ||paczka24-dhl.com^$all
 ||paczka24-inpost.com^$all
 ||paczka48h.com^$all
-||paczkaadam.com^$all
 ||paczkadhl24.com^$all
 ||paczkadhl-nadwaga.com^$all
 ||paczkagls.com^$all
@@ -6619,10 +6508,7 @@
 ||paczkgls.com^$all
 ||paczki24-pl.live^$all
 ||paczkic.com^$all
-||paczkidhm.com^$all
-||paczkidh.com^$all
 ||paczkitnt.com^$all
-||paczkiz.net^$all
 ||paczkkaups.com^$all
 ||paczkmat.net^$all
 ||paczkodpd.com^$all
@@ -6862,6 +6748,7 @@
 ||paynazwa-pl-*.*.*^$all
 ||payolx01.info^$all
 ||payolx03.info^$all
+||payolx04.info^$all
 ||payones.net^$all
 ||payonklik.online^$all
 ||payorte.net^$all
@@ -6881,7 +6768,6 @@
 ||payu-bank.com^$all
 ||payu-platnosc943412.pl^$all
 ||payu-sa.net^$all
-||payu-secure.services^$all
 ||payu-zamowienie103234.pl^$all
 ||payu-zamowienie901941.pl^$all
 ||payu.id27394942.xyz^$all
@@ -7000,7 +6886,6 @@
 ||pieklo-kobiet.podpisz-petycje.eu^$all
 ||pielegniarsko-poloznicze.pl^$all
 ||pieprzyc.com^$all
-||pieskiezycie.info.pl^$all
 ||pieski-pomoc.xyz^$all
 ||pies-do-oddania.dnsrobotuptime.ru^$all
 ||pijawkileczyca.pl^$all
@@ -7339,18 +7224,12 @@
 ||podologik.ca^$all
 ||podstawk.xyz^$all
 ||poduszkaortopedyczna-pl.com^$all
-||pogodasms.net^$all
-||pogodasub.com^$all
 ||pogotowie.pcserwis.c0.pl^$all
 ||pogrzeb.icu^$all
 ||poinformowanni.cyou^$all
-||poinformujemy3.pl^$all
-||poinformujemy4.pl^$all
 ||poinformujemy7.pl^$all
 ||poinformujemy8.pl^$all
-||poinformujemy9.pl^$all
 ||poinformujemy10.pl^$all
-||poinformujwszystkich.pl^$all
 ||pojadetam.pl^$all
 ||pojjeciewzgledne.online^$all
 ||pokazimwszysstkim.space^$all
@@ -7396,12 +7275,8 @@
 ||polska24.ehost.pl^$all
 ||polska24.eu^$all
 ||polska24.serwerplus.pl^$all
-||polskaartykul24h.pl^$all
-||polskaartykul-24h.pl^$all
-||polskaartykul.pl^$all
 ||polskadziennik.pl^$all
 ||polskagazeta.xyz^$all
-||polskagazetka.pl^$all
 ||polskainfo.co.pl^$all
 ||polskanews.eu^$all
 ||polskaolerta.store^$all
@@ -7445,17 +7320,12 @@
 ||polskayear.pl^$all
 ||polskazobaczy.online^$all
 ||polska-anketierowanie.site^$all
-||polska-artykul24h.pl^$all
-||polska-artykul-24h.pl^$all
-||polska-artykul.pl^$all
 ||polska-btcc.club^$all
 ||polska-btcc.icu^$all
 ||polska-btcc.website^$all
-||polska-czytamy.pl^$all
 ||polska-dostawa.online^$all
 ||polska-dostawka.club^$all
 ||polska-dzisiaj1.cyou^$all
-||polska-gazetka.pl^$all
 ||polska-nasze-info24.x9.eu^$all
 ||polska-oferla.club^$all
 ||polska-oferla.shop^$all
@@ -7466,12 +7336,8 @@
 ||polska-teraz*.idl.pl^$all
 ||polska--wiadomosci24h.x9.eu^$all
 ||polskiagazeta24.serwerplus.pl^$all
-||polskiartykul24h.pl^$all
-||polskiartykul-24h.pl^$all
-||polskiartykul.pl^$all
 ||polskidziennik.dkonto.pl^$all
 ||polskidziennik.pl^$all
-||polskieartykuly.pl^$all
 ||polskieczasy0.online^$all
 ||polskieeinformacje.online^$all
 ||polskieinfo24.eu^$all
@@ -7481,9 +7347,6 @@
 ||polskiemiasto.xyz^$all
 ||polskiestrony.online^$all
 ||polskiezyciedzisiaj0.online^$all
-||polskie-artykuly24h.pl^$all
-||polskie-artykuly-24h.pl^$all
-||polskie-artykuly.pl^$all
 ||polskie-infa.dnsrobotuptime.ru^$all
 ||polskie-informacje.dnsrobotuptime.ru^$all
 ||polskifakty24.eu^$all
@@ -7491,12 +7354,9 @@
 ||polskinews24.eu^$all
 ||polskiportal.you2.pl^$all
 ||polskiszpital24.dkonto.pl^$all
-||polski-artykul24h.pl^$all
 ||polski-artykul-24h.pl^$all
-||polski-artykul.pl^$all
 ||polski-lot.dfirma.pl^$all
 ||polski-styl.shop^$all
-||polsko-czytaj.pl^$all
 ||polsko-oferta.life^$all
 ||polsko-oferta.shop^$all
 ||polsriardrtoihizis.info^$all
@@ -7521,8 +7381,6 @@
 ||pomoc-poczta.online^$all
 ||pomoc-poczta.org.pl^$all
 ||pomoc-regulamin.online^$all
-||pomoc-rodzinom.website^$all
-||pomoc-windykacja.pl^$all
 ||pomokale.site^$all
 ||pomorskaakademia.com.pl^$all
 ||pomoz-reprezentantowi.eu^$all
@@ -7636,7 +7494,6 @@
 ||prawnik.icu^$all
 ||prawojazdy-poznan.com.pl^$all
 ||prawo.elk.pl^$all
-||preblogs.com^$all
 ||pregierzrozumu.pl^$all
 ||preg.marketingvici.com^$all
 ||premacc.pl^$all
@@ -7711,6 +7568,7 @@
 ||przesylkaekspresowa.com^$all
 ||przesylka-olx.pl^$all
 ||przesylka.website^$all
+||przesylki24h.com^$all
 ||przesylki-olx.pl^$all
 ||przesylki.services^$all
 ||przesylki.store^$all
@@ -7777,11 +7635,7 @@
 ||ranslitera.xyz^$all
 ||raportpobierz.com^$all
 ||raport.cyou^$all
-||razeleague.com^$all
-||razemaktywni.waw.pl^$all
-||razempomagamy.xyz^$all
 ||razemrozsylajmy.pl^$all
-||razem-aktywni.waw.pl^$all
 ||razem-rozsylajmy.pl^$all
 ||razor-blade.pl^$all
 ||rbebe.com^$all
@@ -7861,7 +7715,6 @@
 ||revolution-fx.cc^$all
 ||reypey24.net^$all
 ||reypey.net^$all
-||rezygnacja5839.net^$all
 ||riadoca.com^$all
 ||rich-pay.online^$all
 ||riddexpl*.com^$all
@@ -8369,6 +8222,7 @@
 ||stevemadenpolska.com^$all
 ||stg.charoll.org^$all
 ||stihl-pl.com^$all
+||stockmarketinvestpro.com^$all
 ||stocksons.com^$all
 ||stocksons.live^$all
 ||stolek.icu^$all
@@ -8385,7 +8239,6 @@
 ||streamcommunitty.ru.com^$all
 ||streamcomunniti.ru^$all
 ||streamcornmuninty.me^$all
-||streamfilme.xyz^$all
 ||streamwatch.pro^$all
 ||strefakina.pl^$all
 ||strefamlodych.pl^$all
@@ -8671,8 +8524,6 @@
 ||trade-olx.pl^$all
 ||trafisz.com^$all
 ||tragediawmoimmiescie.site^$all
-||tragedia-2021.pl^$all
-||tragiczny-wypadek2021.pl^$all
 ||trampolina.biz^$all
 ||trampolina.live^$all
 ||trampoliny180.com^$all
@@ -8735,7 +8586,6 @@
 ||tvp-info.xyz^$all
 ||tvp-info.you2.pl^$all
 ||tvp-polska.dfirma.pl^$all
-||tv-info.pl^$all
 ||tv-maniak.pl^$all
 ||tv.gorzow.pl^$all
 ||tv.kolobrzeg.pl^$all
@@ -8995,7 +8845,6 @@
 ||weeknews24.czest.pl^$all
 ||wegiel.icu^$all
 ||wejdzmy-masowo.eu^$all
-||wellbeingworganizacji.pl^$all
 ||wellphyto.com^$all
 ||welte.pl^$all
 ||weneedhelpnow442.club^$all
@@ -9018,8 +8867,6 @@
 ||westboundtime.xyz^$all
 ||westkyvo.com^$all
 ||wexness.cc^$all
-||wgazetce.pl^$all
-||wgazetce.waw.pl^$all
 ||wherearethey006.cyou^$all
 ||whiteflix.pl^$all
 ||whiteoutsolutions.technology^$all
@@ -9037,14 +8884,12 @@
 ||wiadomosclokalna.pl^$all
 ||wiadomosc-24.online^$all
 ||wiadomosc-fakty24.eu^$all
-||wiadomotv24.info^$all
 ||wideleced.icu^$all
 ||widelec.icu^$all
 ||widget-eforsa.pl^$all
 ||wiecejeniemam.site^$all
 ||wiecejztegowyjmij.club^$all
 ||wiecej.online^$all
-||wiedzacodziennatv.info^$all
 ||wieliczka-pl.tk^$all
 ||wielkopolska.waw.pl^$all
 ||wiellkiezaaangazowanie.cyou^$all
@@ -9057,7 +8902,6 @@
 ||wieszzemozzesz.space^$all
 ||wiiadomoscizkrajuu.live^$all
 ||wiktorek140.cba.pl^$all
-||wild-deneme123.tk^$all
 ||willa-marina.pl^$all
 ||wilrio.xyz^$all
 ||wimaj.pl^$all
@@ -9204,7 +9048,6 @@
 ||wyliczenia-sprawdzaj.eu^$all
 ||wymierneeffekty.site^$all
 ||wypadki24.e-kei.pl^$all
-||wyplata-olx-pl.tk^$all
 ||wyposazeniedomow.com.pl^$all
 ||wyprzedaz-polska.cyou^$all
 ||wypsikaj.pl^$all
@@ -9232,10 +9075,6 @@
 ||wywiaddlawidzoow.cyou^$all
 ||wzmianka-duza.eu^$all
 ||wzordonassladowania.online^$all
-||w-gazecie.pl^$all
-||w-gazecie.waw.pl^$all
-||w-gazetce.pl^$all
-||w-gazetce.waw.pl^$all
 ||w-paczkomacie24.in.net^$all
 ||w-paczkomaciie.in.net^$all
 ||w-sieci-piszczy.o99o.com.pl^$all
@@ -9342,11 +9181,7 @@
 ||zaswiadczeniekrk.pl^$all
 ||zaszczepilamsie.co.pl^$all
 ||zaszczepionakobieta.co.pl^$all
-||zatoor-landia.pl^$all
-||zator-energlandia.waw.pl^$all
 ||zator-energlanndia.waw.pl^$all
-||zator-energylandia.waw.pl^$all
-||zator-landia.waw.pl^$all
 ||zawieszone.5p.pl^$all
 ||zawsze-bedziemy.pl^$all
 ||zbigniewbiernat.pl^$all
@@ -9384,7 +9219,6 @@
 ||zmiana.cyou^$all
 ||zmiennswojezzycie.cyou^$all
 ||zmienswojbizznes24.space^$all
-||zmiltraf.website^$all
 ||znaczysiezenatak.space^$all
 ||znajdziemy.icu^$all
 ||znajdzwspolnyjezyk.site^$all
@@ -9406,7 +9240,6 @@
 ||ztejstronnytwojeradio.website^$all
 ||zumodi.com^$all
 ||zus-wyplata.cf^$all
-||zus-wyplata.tk^$all
 ||zw578376khsds.com.ng^$all
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
@@ -9421,7 +9254,6 @@
 ||zyczyca.icu^$all
 ||zyjesiedlatakichhchwil.website^$all
 ||zyzlk.com^$all
-||z-energylandia.pl^$all
 ||z-kraju.co.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
