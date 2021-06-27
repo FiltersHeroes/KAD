@@ -1,10 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$al
-|https://activmask.pl^$all
-||lluxurycapitals.com^$all
-||stockmarketinvestpro.com^$all
-||bitqt.org^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -27,6 +23,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
+|https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
@@ -592,6 +589,7 @@
 ||bitcoin-trader-app.com^$all
 ||bitgenises.com^$all
 ||bitoptionfx.com^$all
+||bitqt.org^$all
 ||bitsends.space^$all
 ||bit-capitals.com^$all
 ||biurko.cyou^$all
@@ -2480,6 +2478,7 @@
 ||inpost-dostawa.pl^$all
 ||inpost-dostawa.site^$all
 ||inpost-dostawka.cyou^$all
+||inpost-en.spredaz-online.club^$all
 ||inpost-express.com^$all
 ||inpost-generator.net^$all
 ||inpost-info.com^$all
@@ -3093,6 +3092,7 @@
 ||living2winning.com^$all
 ||liviosklep.pl^$all
 ||lldi.pl^$all
+||lluxurycapitals.com^$all
 ||lnfo.web-chat.eu^$all
 ||lngbusiness-start.com^$all
 ||lngstart-business.com^$all
@@ -4756,6 +4756,7 @@
 ||paynazwa-pl-*.*.*^$all
 ||payolx01.info^$all
 ||payolx03.info^$all
+||payolx04.info^$all
 ||payones.net^$all
 ||payonklik.online^$all
 ||payorte.net^$all
@@ -5575,6 +5576,7 @@
 ||przesylkaekspresowa.com^$all
 ||przesylka-olx.pl^$all
 ||przesylka.website^$all
+||przesylki24h.com^$all
 ||przesylki-olx.pl^$all
 ||przesylki.services^$all
 ||przesylki.store^$all
@@ -6228,6 +6230,7 @@
 ||stevemadenpolska.com^$all
 ||stg.charoll.org^$all
 ||stihl-pl.com^$all
+||stockmarketinvestpro.com^$all
 ||stocksons.com^$all
 ||stocksons.live^$all
 ||stolek.icu^$all
@@ -7290,6 +7293,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost-en.spredaz-online.club^$all
-||payolx04.info^$all
-||przesylki24h.com^$all
