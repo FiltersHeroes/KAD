@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 28 Jun 2021, 17:06 UTC+02
-! Version: 2021.6.28.1
+! Last modified: Mon, 28 Jun 2021, 21:05 UTC+02
+! Version: 2021.6.28.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3002,6 +3002,7 @@
 ||d1br5o2o5fy668.cloudfront.net^$all
 ||d1ca0ybissqy5r.cloudfront.net^$all
 ||d1eanoj6rae82v.cloudfront.net^$all
+||d1ebcea2la8r2w.cloudfront.net^$all
 ||d1f0moag0nv89.cloudfront.net^$all
 ||d1f5c02sm6dd74.cloudfront.net^$all
 ||d1fdv4jgqr3t4d.cloudfront.net^$all
@@ -3171,6 +3172,7 @@
 ||d34tdjde2x12pd.cloudfront.net^$all
 ||d34zwo5uunib6m.cloudfront.net^$all
 ||d35s76ui8ol8u7.cloudfront.net^$all
+||d36judyoxgl2zo.cloudfront.net^$all
 ||d36nbgnuno71tn.cloudfront.net^$all
 ||d38d6vjyuuw2sl.cloudfront.net^$all
 ||d39rpvvlkl2oml.cloudfront.net^$all
@@ -3581,6 +3583,7 @@
 ||ekonkarserai.com^$all
 ||ekopaczka.services^$all
 ||eko-styk.pl^$all
+||eksdeeteapdq.vdl.pl^$all
 ||ekskluzywneapartamenty.com^$all
 ||ekspresovvo.com^$all
 ||ekspres-sklep.pl^$all
@@ -4212,6 +4215,7 @@
 ||greendolarbag.com^$all
 ||greenfinanceinitiative.org^$all
 ||greenoil.top^$all
+||greese.xyz^$all
 ||grill200.com^$all
 ||grille.biz^$all
 ||grille.live^$all
@@ -4634,6 +4638,9 @@
 ||inpost.pl-paidgo.icu^$all
 ||inpost.pl-paidgo.shop^$all
 ||inpost.pl-paidgo.xyz^$all
+||inpost.pl-refundcash.cyou^$all
+||inpost.pl-refundcash.icu^$all
+||inpost.pl-refundcash.xyz^$all
 ||inpost.pl-safeshop.work^$all
 ||inpost.pl-safety.club^$all
 ||inpost.pl-safety.live^$all
@@ -4656,6 +4663,7 @@
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.pl.mebuyit.pw^$all
 ||inpost.pl.pay-online.pw^$all
+||inpost.pl.service-secure.icu^$all
 ||inpost.pl.service-secure.quest^$all
 ||inpost.pl.service-secure.shop^$all
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -4983,6 +4991,8 @@
 ||konsyliumoplakow.club^$all
 ||konta2931.pl^$all
 ||kontakt24.xn.pl^$all
+||kontakt-kasia.pl^$all
+||kontakt-monika.pl^$all
 ||kontopl.shop^$all
 ||kontopl.work^$all
 ||kontopl.xyz^$all
@@ -6360,6 +6370,7 @@
 ||olx.pl-weryfkacija.website^$all
 ||olx.pl-zamawienie.shop^$all
 ||olx.pl-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx.pl.service-secure.icu^$all
 ||olx.pl.*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -8085,6 +8096,7 @@
 ||sklepasicstanie.com^$all
 ||sklepdroutlet.com^$all
 ||sklepfilapolska.com^$all
+||sklepplay24.com^$all
 ||sklepplay.net^$all
 ||sklepsalomon.com^$all
 ||sklepsportowe.com^$all
@@ -8381,6 +8393,7 @@
 ||support-mail.live^$all
 ||suregod77.wixsite.com^$all
 ||sureyouwillloveit.com^$all
+||suspended.netafix-update.live^$all
 ||sustainablecities.net^$all
 ||suwalskieprzytulisko.pl^$all
 ||sv-forum.com^$all
@@ -8600,6 +8613,7 @@
 ||tradesboost.net^$all
 ||trade-labs.com^$all
 ||trade-olx.pl^$all
+||trafflds.com^$all
 ||trafisz.com^$all
 ||tragediawmoimmiescie.site^$all
 ||trampolina.biz^$all
@@ -8998,6 +9012,7 @@
 ||wirutalneinformacje.eu^$all
 ||wi.biz.pl^$all
 ||wlabeb7234.pl^$all
+||wlada.xyz^$all
 ||wlasciwiennic.cyou^$all
 ||wlasnietutajesitodzieje.cyou^$all
 ||wmcs.pl^$all
