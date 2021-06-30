@@ -1,0 +1,24 @@
+name: Podejrzane strony
+description: Suspicious websites
+labels: zgłoszenie
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dziękujemy za zgłoszenie do repozytorium listy KAD!
+        Thanks for reporting to KAD's filterlist repository!
+  - type: textarea
+    id: specificURL
+    attributes:
+      label: Link bezpośredni do strony zawierającej oszustwo
+      description: A specific URL to the scam website
+      placeholder: http://www.zrobicwbalona.pl/hehe
+      render: markdown
+  - type: textarea
+    id: otherInfo
+    attributes:
+      label: Dodatkowe informacje mogące mieć znaczenie
+      description: Additional information that may be relevant
+      placeholder: |
+        Opis oszustwa, etapy odtworzenia problemu (co doprowadziło do błędu) albo twoja metoda rozwiązania problemu.
+        Description of scam, the steps to reproduce the problem (which led to the error) or your method of solving the problem.
