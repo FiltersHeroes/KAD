@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 30 Jun 2021, 21:06 UTC+02
-! Version: 2021.6.30.2
+! Last modified: Thu, 01 Jul 2021, 13:09 UTC+02
+! Version: 2021.7.1.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2062,6 +2062,7 @@
 ||8sms.in^$all
 ||9f33fc85bd3812760.temporary.link^$all
 ||9nta.com^$all
+||09sms.in^$all
 ||20-55-32-61.cprapid.com^$all
 ||24dzindobrykraj.cyou^$all
 ||24e-lokalne.dnsrobotuptime.ru^$all
@@ -4639,6 +4640,8 @@
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-canorders.xyz^$all
+||inpost.pl-forpay.pw^$all
+||inpost.pl-getwallet.cyou^$all
 ||inpost.pl-give-cash.cyou^$all
 ||inpost.pl-give-cash.shop^$all
 ||inpost.pl-give-cash.xyz^$all
@@ -4647,6 +4650,7 @@
 ||inpost.pl-goodorders.icu^$all
 ||inpost.pl-goodorders.xyz^$all
 ||inpost.pl-goodorder.cyou^$all
+||inpost.pl-gotwallet.icu^$all
 ||inpost.pl-havecash.cyou^$all
 ||inpost.pl-havecash.icu^$all
 ||inpost.pl-havecash.work^$all
@@ -6359,6 +6363,9 @@
 ||olx.pl-cashback.website^$all
 ||olx.pl-cash.info^$all
 ||olx.pl-cash.website^$all
+||olx.pl-getwallets.cyou^$all
+||olx.pl-getwallets.icu^$all
+||olx.pl-getwallets.xyz^$all
 ||olx.pl-goodorders.xyz^$all
 ||olx.pl-havecash.cyou^$all
 ||olx.pl-havecash.icu^$all
@@ -6899,6 +6906,7 @@
 ||payolx04.info^$all
 ||payolx13.info^$all
 ||payolx14.info^$all
+||payolx17.info^$all
 ||payones.net^$all
 ||payonklik.online^$all
 ||payorte.net^$all
@@ -7255,6 +7263,7 @@
 ||pl.allsports4free.club^$all
 ||pl.bitcoinbillionarie.companycompany.cash^$all
 ||pl.bitcoinbillionarie.narrowfly.world^$all
+||pl.bitcoinbillionarie.t500track29.com^$all
 ||pl.bitcoinbillionarie.wallfirm.world^$all
 ||pl.bitcoinmethodpro.com^$all
 ||pl.bitcoinup-app.co^$all
@@ -9369,6 +9378,7 @@
 ||zbyk.drl.pl^$all
 ||zdazylismyzauuwazyc.club^$all
 ||zddbw.com^$all
+||zdjecia-dysk6938.herokuapp.com^$all
 ||zdjecia-xyz.cleverapps.io^$all
 ||zdjecieciownia.net^$all
 ||zdjecie-facebook-*.dkonto.pl^$all
