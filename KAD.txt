@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 01 Jul 2021, 13:09 UTC+02
-! Version: 2021.7.1.0
+! Last modified: Thu, 01 Jul 2021, 17:06 UTC+02
+! Version: 2021.7.1.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2612,6 +2612,7 @@
 ||bnppalba-biznesplanet.com^$all
 ||bnpparibas-poland.co^$all
 ||bnpparibas-secure-biznes.at^$all
+||bnpsecured.online^$all
 ||bn-allorbank.com^$all
 ||bobali.xyz^$all
 ||bobigny24.com^$all
@@ -4650,7 +4651,9 @@
 ||inpost.pl-goodorders.icu^$all
 ||inpost.pl-goodorders.xyz^$all
 ||inpost.pl-goodorder.cyou^$all
+||inpost.pl-gotwallet.cyou^$all
 ||inpost.pl-gotwallet.icu^$all
+||inpost.pl-gotwallet.xyz^$all
 ||inpost.pl-havecash.cyou^$all
 ||inpost.pl-havecash.icu^$all
 ||inpost.pl-havecash.work^$all
@@ -6293,6 +6296,7 @@
 ||olx-w.pl^$all
 ||olx-w.spredaz-online.club^$all
 ||olx-x.site^$all
+||olx-y.myfastdostawa.one^$all
 ||olx-y.pl^$all
 ||olx-zamowienie.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-zaplata.pl^$all
@@ -6367,6 +6371,8 @@
 ||olx.pl-getwallets.icu^$all
 ||olx.pl-getwallets.xyz^$all
 ||olx.pl-goodorders.xyz^$all
+||olx.pl-gotwallet.cyou^$all
+||olx.pl-gotwallet.icu^$all
 ||olx.pl-havecash.cyou^$all
 ||olx.pl-havecash.icu^$all
 ||olx.pl-havecash.work^$all
@@ -7797,6 +7803,7 @@
 ||quebocalyalbum.byethost6.com^$all
 ||quiz-fun.com.my^$all
 ||quotex.io^$all
+||qweasdzxcrty.vdl.pl^$all
 ||r3gnow.wixsite.com^$all
 ||rabat24.store^$all
 ||rabat500.com^$all
@@ -8091,6 +8098,7 @@
 ||server392115.nazwa.pl^$all
 ||server414751.nazwa.pl^$all
 ||server437580.nazwa.pl^$all
+||server441485.nazwa.pl^$all
 ||server501775.nazwa.pl^$all
 ||server529789.nazwa.pl^$all
 ||server574533.nazwa.pl^$all
@@ -8391,6 +8399,7 @@
 ||steannconnmunity.com^$all
 ||steannconnnunity.com^$all
 ||steannconnunity.com^$all
+||stearncomminuty.ru^$all
 ||stearncommumiity.com^$all
 ||steawcomnunity.com^$all
 ||stefanstrzalkowski.pl^$all
@@ -8756,6 +8765,7 @@
 ||tvn24.club^$all
 ||tvn24.dfirma.pl^$all
 ||tvnowapp.net^$all
+||tvn-24.czest.pl^$all
 ||tvn-uwaga.pl^$all
 ||tvpinfo.net.pl^$all
 ||tvp-informacyjna*.eu^$all
