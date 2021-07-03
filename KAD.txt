@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 02 Jul 2021, 21:06 UTC+02
-! Version: 2021.7.2.2
+! Last modified: Sat, 03 Jul 2021, 13:06 UTC+02
+! Version: 2021.7.3.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2315,6 +2315,7 @@
 ||androidsecurityplus.com^$all
 ||androidupdater.top^$all
 ||android-cleaner.net^$all
+||anedeline.com^$all
 ||angielskibelchatow.pl^$all
 ||anime.flix-share.xyz^$all
 ||aniventure.co.uk^$all
@@ -2575,6 +2576,7 @@
 ||bitcoinsunrise.com^$all
 ||bitcoins-era.io^$all
 ||bitcoins-profit.com^$all
+||bitcointime.tech^$all
 ||bitcointime.website^$all
 ||bitcointodaynews.me^$all
 ||bitcointrustoptions.com^$all
@@ -3592,6 +3594,8 @@
 ||eero-systems.xyz^$all
 ||eforsa.pl^$all
 ||efza.net^$all
+||egazeta-d24.cleverapps.io^$all
+||egazeta-s24.cleverapps.io^$all
 ||egda.pl^$all
 ||eigafilms.com^$all
 ||eightwatersoldierone.live^$all
@@ -4080,6 +4084,7 @@
 ||gazetasasiedzka.eu^$all
 ||gazetaslaska.xyz^$all
 ||gazetaslupska.xyz^$all
+||gazetastolica.waw.pl^$all
 ||gazetaswidnicka.xyz^$all
 ||gazetaswietokrzyska.xyz^$all
 ||gazetaszczecinska.xyz^$all
@@ -6442,6 +6447,9 @@
 ||olx.pl-safewallet.cyou^$all
 ||olx.pl-safewallet.icu^$all
 ||olx.pl-safewallet.xyz^$all
+||olx.pl-savedwallet.cyou^$all
+||olx.pl-savedwallet.icu^$all
+||olx.pl-savedwallet.xyz^$all
 ||olx.pl-savewallets.xyz^$all
 ||olx.pl-wellcash.cyou^$all
 ||olx.pl-welldelivery.cyou^$all
@@ -6471,6 +6479,7 @@
 ||olx.pl-zamawienie.shop^$all
 ||olx.pl-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pl.service-secure.icu^$all
+||olx.pl.transpaypas.pw^$all
 ||olx.pl.*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
@@ -7634,6 +7643,7 @@
 ||postkod.org^$all
 ||postmaster334.moonfruit.com^$all
 ||postmaster-serveremail-update.web.app^$all
+||postol.fr^$all
 ||post-990094.at^$all
 ||post-sendl.space^$all
 ||post-send.host^$all
