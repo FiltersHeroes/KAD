@@ -1,11 +1,9 @@
 .life/?utm_campaign=pEv9*&t=main$all,important,domain=life
 .live/?utm_campaign=pEv9*&t=main$all,important,domain=live
-||sesori.space^$all
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document
 !/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 /^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 ||0n.click^$all
-||gazeta-pl.icu^$all
 ||9dcm.net^$all
 ||34q22.cn^$all
 ||academy-bitcoin.com^$all
@@ -74,6 +72,7 @@
 ||g2afse.com^$all
 ||gamefiles.pl^$all
 ||gaming001.site^$all
+||gazeta-pl.icu^$all
 ||getalinkandshare.com^$all
 ||ggljjk.cc^$all
 ||giftprizewinner.com^$all
@@ -166,6 +165,7 @@
 ||schington.com^$all
 ||securecloud-smart.com^$all
 ||sepa-wissen.de^$all
+||sesori.space^$all
 ||skroc-link.ga^$all
 ||sm4ll.in^$all
 ||specficnz.org^$all
