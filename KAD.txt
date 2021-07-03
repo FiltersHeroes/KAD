@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 03 Jul 2021, 13:06 UTC+02
-! Version: 2021.7.3.0
+! Last modified: Sat, 03 Jul 2021, 17:06 UTC+02
+! Version: 2021.7.3.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1281,7 +1281,6 @@
 ||shoppingink.com^$all
 ||shops.brktoy.com^$all
 ||shop.brkcenter.com^$all
-||shop.dr-rath.com^$all
 ||shop.toyhs.com^$all
 ||showup-tv.com.pl^$all
 ||siec34.pl^$all
@@ -1747,6 +1746,7 @@
 ||g2afse.com^$all
 ||gamefiles.pl^$all
 ||gaming001.site^$all
+||gazeta-pl.icu^$all
 ||getalinkandshare.com^$all
 ||ggljjk.cc^$all
 ||giftprizewinner.com^$all
@@ -1839,6 +1839,7 @@
 ||schington.com^$all
 ||securecloud-smart.com^$all
 ||sepa-wissen.de^$all
+||sesori.space^$all
 ||skroc-link.ga^$all
 ||sm4ll.in^$all
 ||specficnz.org^$all
@@ -2288,6 +2289,7 @@
 ||allplayer.pl^$all
 ||allsms.shortest.name^$all
 ||allsms.short-service.com^$all
+||alltradesfx.com^$all
 ||alltube.com.pl^$all,domain=~alltube.tv|~alltube.pl
 ||all-player.pl^$all
 ||almighty-offers.com^$all
@@ -2312,6 +2314,7 @@
 ||amzstudy.com^$all
 ||anabim.com^$all
 ||anakonda.icu^$all
+||analitics-pro.cyou^$all
 ||androidsecurityplus.com^$all
 ||androidupdater.top^$all
 ||android-cleaner.net^$all
@@ -2384,6 +2387,7 @@
 ||ariatpolska.top^$all
 ||arlento.pl^$all
 ||aromatva.icu^$all
+||aroxtradeasset.com^$all
 ||artistidelpane.it^$all
 ||artx.strefa.pl^$all
 ||artykul-online.pl^$all
@@ -2429,6 +2433,7 @@
 ||axd-watter.xyz^$all
 ||axes.co^$all
 ||azawebspace.com^$all
+||b2work.pl^$all
 ||b17-sklep.pl^$all
 ||b24-m8zer1.bitrix24.site^$all
 ||b668890e52d9.ngrok.io^$all
@@ -2968,6 +2973,7 @@
 ||cuorl.top^$all
 ||cuosdemakadi.gq^$all
 ||cure.milon-fit.ru^$all
+||currentlydating-location.com^$all
 ||curryhouse.com.pl^$all
 ||cuse.xyz^$all
 ||customernoble.com^$all
@@ -3860,6 +3866,7 @@
 ||feiya.com.pl^$all
 ||fejs.ml^$all
 ||felmsdin.xyz^$all
+||fenixsecurities.eu^$all
 ||fenix-funds.pro^$all
 ||ferte.xyz^$all
 ||fhukaja.pl^$all
@@ -4654,6 +4661,10 @@
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-canorders.xyz^$all
+||inpost.pl-cloudordered.cyou^$all
+||inpost.pl-cloudordered.icu^$all
+||inpost.pl-cloudordered.xyz^$all
+||inpost.pl-cloudorders.icu^$all
 ||inpost.pl-forpay.pw^$all
 ||inpost.pl-getwallet.cyou^$all
 ||inpost.pl-give-cash.cyou^$all
@@ -4908,6 +4919,7 @@
 ||jondir.xyz^$all
 ||jordanbuty.pl^$all
 ||jorted.site^$all
+||jourlacy.com^$all
 ||jstoppello.com^$all
 ||juicingwell.com^$all
 ||juicywin.pl^$all
@@ -5021,6 +5033,7 @@
 ||kogojeszczepookazac.website^$all
 ||koguciuk.pl^$all
 ||kohhh.top^$all
+||koleds.capitalmowertor.site^$all
 ||kolege-wspomoz.eu^$all
 ||kolejnyodcinekpolska.space^$all
 ||kolekcjnoerbiznessu.space^$all
@@ -5039,6 +5052,7 @@
 ||komputery-szczytno.pl^$all
 ||komunikaty24.net^$all
 ||koniecikroppka.website^$all
+||konkret-fashion.com^$all
 ||konkurencje-kliknij.eu^$all
 ||konkursowy-wybor.eu^$all
 ||konkursyonline.click^$all
@@ -5104,6 +5118,7 @@
 ||ktpay.site^$all
 ||kugo.xyz^$all
 ||kulalusramag.net^$all
+||kulturafizyczna.com.pl^$all
 ||kumam-bon.click^$all
 ||kuponline129006.xyz^$all
 ||kuponline158460.xyz^$all
@@ -5305,6 +5320,7 @@
 ||louyanx.pl^$all
 ||lovare.xyz^$all
 ||lovemydress.pl^$all
+||lovotoy.com^$all
 ||lpkao.pw^$all
 ||lpkeo.pw^$all
 ||lpkobiznes.cc^$all
@@ -6394,6 +6410,10 @@
 ||olx.pl-cashback.website^$all
 ||olx.pl-cash.info^$all
 ||olx.pl-cash.website^$all
+||olx.pl-cloudorders.icu^$all
+||olx.pl-cloudorders.xyz^$all
+||olx.pl-cloudorder.cyou^$all
+||olx.pl-cloudorder.icu^$all
 ||olx.pl-express-delivery.icu^$all
 ||olx.pl-getwallets.cyou^$all
 ||olx.pl-getwallets.icu^$all
@@ -7177,6 +7197,7 @@
 ||plebiscyt-krakow.eu^$all
 ||plebiscyt-krakow.v00.pl^$all
 ||plebiscyt-warszawa.eu^$all
+||pledland.com^$all
 ||pletomak.mypi.co^$all
 ||plgroup-pge.info^$all
 ||plikgier.5p.pl^$all
@@ -7678,6 +7699,7 @@
 ||potwierdzenie.cc^$all
 ||potwierdzenie.wp-pl.eu^$all
 ||potwierdz-wiek.ml^$all
+||pouieng.com^$all
 ||powaifinearts.org^$all
 ||powaznesprawyy.online^$all
 ||powiat24wiadomosci.pl^$all
@@ -7839,6 +7861,7 @@
 ||qotoplus.site^$all
 ||qqqqttt.weebly.com^$all
 ||qqsms.in^$all
+||qsystemas.club^$all
 ||quantro.xyz^$all
 ||quantums-trade.com^$all
 ||quartexindustries.com^$all
@@ -8902,6 +8925,7 @@
 ||uniqued.xyz^$all
 ||unitedmedsshop.com^$all
 ||unitedproductsllc.net^$all
+||univexim.pl^$all
 ||unixbroker.com^$all
 ||unlessyouwill.com^$all
 ||unlimited.movies.and.series.netflix.afraplants.ir^$all
@@ -8925,6 +8949,7 @@
 ||upshare.org^$all
 ||up-eazy1.xyz^$all
 ||urbanjungletrees.co.uk^$all
+||urbanortfitters.com^$all
 ||uregulowanie-naleznosci-24.xyz^$all
 ||urleddrug.at^$all
 ||urmediaz.com^$all
