@@ -45,9 +45,9 @@ if [ -f "$EXPIRED" ]; then
     sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 fi
 
-if [ -f "$SCRIPT_PATH"/CERT_whitelist.txt ]; then
-    sort -u -o "$SCRIPT_PATH"/CERT_whitelist.txt "$SCRIPT_PATH"/CERT_whitelist.txt
-    comm -23 "$TEMP"/CERTHole_temp.txt "$SCRIPT_PATH"/CERT_whitelist.txt > "$TEMP"/LIST.temp
+if [ -f "$SCRIPT_PATH"/CERT_skip.txt ]; then
+    sort -u -o "$SCRIPT_PATH"/CERT_skip.txt "$SCRIPT_PATH"/CERT_skip.txt
+    comm -23 "$TEMP"/CERTHole_temp.txt "$SCRIPT_PATH"/CERT_skip.txt > "$TEMP"/LIST.temp
     mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
 fi
 
