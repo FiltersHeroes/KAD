@@ -1,7 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||delorio.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -1296,6 +1295,7 @@
 ||dellivery-safe.com^$all
 ||dellivery-safe.info^$all
 ||dellivery-safe.org^$all
+||delorio.pl^$all
 ||del-sieradz.neostrada.pl^$all
 ||demo.interlab.online^$all
 ||demo.website.pl^$all
@@ -1597,6 +1597,9 @@
 ||eero-systems.xyz^$all
 ||eforsa.pl^$all
 ||efza.net^$all
+||egazeta-24ee.cleverapps.io^$all
+||egazeta-24ii.cleverapps.io^$all
+||egazeta-24ll.cleverapps.io^$all
 ||egazeta-d24.cleverapps.io^$all
 ||egazeta-s24.cleverapps.io^$all
 ||egda.pl^$all
@@ -1692,6 +1695,7 @@
 ||eu-wysylkowo.online^$all
 ||eu.nextah.com^$all
 ||evaave12.nazwa.pl^$all
+||evaksin.com^$all
 ||evekurier.org^$all
 ||every-onebritish.club^$all
 ||ewiadomosc.online^$all
@@ -2656,6 +2660,8 @@
 ||inpost.pl-cloudordered.icu^$all
 ||inpost.pl-cloudordered.xyz^$all
 ||inpost.pl-cloudorders.icu^$all
+||inpost.pl-cloudsorder.cyou^$all
+||inpost.pl-cloudsorder.icu^$all
 ||inpost.pl-forpay.pw^$all
 ||inpost.pl-getwallet.cyou^$all
 ||inpost.pl-give-cash.cyou^$all
@@ -4392,6 +4398,8 @@
 ||olx.pl-cloudorders.xyz^$all
 ||olx.pl-cloudorder.cyou^$all
 ||olx.pl-cloudorder.icu^$all
+||olx.pl-cloudsorder.cyou^$all
+||olx.pl-cloudsorder.icu^$all
 ||olx.pl-express-delivery.icu^$all
 ||olx.pl-getwallets.cyou^$all
 ||olx.pl-getwallets.icu^$all
@@ -6910,6 +6918,7 @@
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
 ||up-eazy1.xyz^$all
+||urbani.xyz^$all
 ||urbanjungletrees.co.uk^$all
 ||urbanortfitters.com^$all
 ||uregulowanie-naleznosci-24.xyz^$all
@@ -7512,12 +7521,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||egazeta-24ee.cleverapps.io^$all
-||egazeta-24ii.cleverapps.io^$all
-||egazeta-24ll.cleverapps.io^$all
-||evaksin.com^$all
-||inpost.pl-cloudsorder.cyou^$all
-||inpost.pl-cloudsorder.icu^$all
-||olx.pl-cloudsorder.cyou^$all
-||olx.pl-cloudsorder.icu^$all
-||urbani.xyz^$all
