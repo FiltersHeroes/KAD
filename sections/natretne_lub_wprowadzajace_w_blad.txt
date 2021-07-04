@@ -11,8 +11,6 @@ filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl
 instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
 instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
 instalki.pl##option[value$="dm=1"]
-kamilassurma.com##^script:has-text(/wwig=.*btoa/)
-kamilassurma.com$$script[wildcard="wwig=*btoa"]
 speedtest.pl,speedtest.com.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
@@ -22,6 +20,4 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
-||kamilassurma.com/ping?s=$all
-||kamilassurma.com/*.js?wwig=$script
 ||uploadfile.pl/download.png$image
