@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 04 Jul 2021, 17:06 UTC+02
-! Version: 2021.7.4.1
+! Last modified: Sun, 04 Jul 2021, 21:05 UTC+02
+! Version: 2021.7.4.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -651,6 +651,7 @@
 ||jamajkazorawy.pl^$all
 ||jankazimierzsiwek.pl^$all
 ||jankotlarz.pl^$all
+||jannova.pl^$all
 ||janod.pl^$all
 ||jantar-ostroleka.pl^$all
 ||jasnyogrod.pl^$all
@@ -1858,6 +1859,7 @@
 ||vulkan-vegas.cc^$all
 ||weyewweg.mypi.co^$all
 ||win-extra-box.life^$all
+||wykonajzadanie.pl^$all
 ||xn--21955-gya.biz^$all
 ||xn--22455-udb.biz^$all
 ||xn--30986-udb.biz^$all
@@ -2008,6 +2010,7 @@
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
 |https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
+|http://chomikuj.pl^$document,domain=chomikuj.pl|~zalecane-polaczenie-szyfrowane-https
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
 ||0pen.page^$all
@@ -3935,6 +3938,7 @@
 ||flashupdate.digital^$all
 ||flash-player-update.digital^$all
 ||flash-update.digital^$all
+||flaster.xyz^$all
 ||flirthits.com^$all
 ||flowsrectifie.at^$all
 ||fnatic-lol.club^$all
@@ -4619,6 +4623,7 @@
 ||inpost.pl-cloudorders.icu^$all
 ||inpost.pl-cloudsorder.cyou^$all
 ||inpost.pl-cloudsorder.icu^$all
+||inpost.pl-express.casa^$all
 ||inpost.pl-forpay.pw^$all
 ||inpost.pl-getwallet.cyou^$all
 ||inpost.pl-give-cash.cyou^$all
@@ -4877,6 +4882,7 @@
 ||juicywin.pl^$all
 ||juklotire.link^$all
 ||julia487.pl^$all
+||juliasi.xyz^$all
 ||jumanji.icu^$all
 ||juran.pl^$all
 ||jurybnor.space^$all
@@ -5213,6 +5219,7 @@
 ||lnstagram.pp.ru^$all
 ||localdates*.com^$all
 ||locked3.com^$all
+||lockercpa.pl^$all
 ||lodzi.store^$all
 ||logintofb.tcp4.me^$all
 ||login-allorbank.com^$all
@@ -6339,6 +6346,8 @@
 ||olx.pl-cloudorders.xyz^$all
 ||olx.pl-cloudorder.cyou^$all
 ||olx.pl-cloudorder.icu^$all
+||olx.pl-cloudsorders.cyou^$all
+||olx.pl-cloudsorders.icu^$all
 ||olx.pl-cloudsorder.cyou^$all
 ||olx.pl-cloudsorder.icu^$all
 ||olx.pl-express-delivery.icu^$all
@@ -6898,6 +6907,7 @@
 ||payolx18.info^$all
 ||payolx20.info^$all
 ||payolx25.info^$all
+||payolx26.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -7334,6 +7344,8 @@
 ||poczta.interia-pl.online^$all
 ||poczta.interia-pl.site^$all
 ||poczta.interia-pl.space^$all
+||poczta.pl-cloudsorders.cyou^$all
+||poczta.pl-cloudsorders.icu^$all
 ||poczta.pl-easypaid.cyou^$all
 ||poczta.pl-easypaid.icu^$all
 ||poczta.pl-easypaid.xyz^$all
@@ -7531,6 +7543,7 @@
 ||poratuj-znajomego.eu^$all
 ||porl.weebly.com^$all
 ||pornmania.pl^$all
+||porowok.xyz^$all
 ||portalmiejski.eu^$all
 ||portalowo.gmina.pl^$all
 ||portalowo.sos.pl^$all
@@ -7978,6 +7991,8 @@
 ||sasedi.xyz^$all
 ||sasiedzkagazeta.eu^$all
 ||sasiedzkagazeta.pl^$all
+||sasiedzkinews.eu^$all
+||sasiedzkiportal.pl^$all
 ||sauny-finskie.com.pl^$all
 ||savinek-pl.com^$all
 ||saxtorph.net^$all
