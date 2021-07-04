@@ -1,7 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||lockercpa.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -25,8 +24,8 @@
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
 |https://activmask.pl^$all
-|http://chomikuj.pl^$document,domain=chomikuj.pl|~zalecane-polaczenie-szyfrowane-https
 |http*://*/fb-login/$document,domain=~facebook.com
+|http://chomikuj.pl^$document,domain=chomikuj.pl|~zalecane-polaczenie-szyfrowane-https
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
 ||0pen.page^$all
@@ -1954,6 +1953,7 @@
 ||flashupdate.digital^$all
 ||flash-player-update.digital^$all
 ||flash-update.digital^$all
+||flaster.xyz^$all
 ||flirthits.com^$all
 ||flowsrectifie.at^$all
 ||fnatic-lol.club^$all
@@ -2638,6 +2638,7 @@
 ||inpost.pl-cloudorders.icu^$all
 ||inpost.pl-cloudsorder.cyou^$all
 ||inpost.pl-cloudsorder.icu^$all
+||inpost.pl-express.casa^$all
 ||inpost.pl-forpay.pw^$all
 ||inpost.pl-getwallet.cyou^$all
 ||inpost.pl-give-cash.cyou^$all
@@ -2896,6 +2897,7 @@
 ||juicywin.pl^$all
 ||juklotire.link^$all
 ||julia487.pl^$all
+||juliasi.xyz^$all
 ||jumanji.icu^$all
 ||juran.pl^$all
 ||jurybnor.space^$all
@@ -3232,6 +3234,7 @@
 ||lnstagram.pp.ru^$all
 ||localdates*.com^$all
 ||locked3.com^$all
+||lockercpa.pl^$all
 ||lodzi.store^$all
 ||logintofb.tcp4.me^$all
 ||login-allorbank.com^$all
@@ -4358,6 +4361,8 @@
 ||olx.pl-cloudorders.xyz^$all
 ||olx.pl-cloudorder.cyou^$all
 ||olx.pl-cloudorder.icu^$all
+||olx.pl-cloudsorders.cyou^$all
+||olx.pl-cloudsorders.icu^$all
 ||olx.pl-cloudsorder.cyou^$all
 ||olx.pl-cloudsorder.icu^$all
 ||olx.pl-express-delivery.icu^$all
@@ -4917,6 +4922,7 @@
 ||payolx18.info^$all
 ||payolx20.info^$all
 ||payolx25.info^$all
+||payolx26.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -5353,6 +5359,8 @@
 ||poczta.interia-pl.online^$all
 ||poczta.interia-pl.site^$all
 ||poczta.interia-pl.space^$all
+||poczta.pl-cloudsorders.cyou^$all
+||poczta.pl-cloudsorders.icu^$all
 ||poczta.pl-easypaid.cyou^$all
 ||poczta.pl-easypaid.icu^$all
 ||poczta.pl-easypaid.xyz^$all
@@ -5550,6 +5558,7 @@
 ||poratuj-znajomego.eu^$all
 ||porl.weebly.com^$all
 ||pornmania.pl^$all
+||porowok.xyz^$all
 ||portalmiejski.eu^$all
 ||portalowo.gmina.pl^$all
 ||portalowo.sos.pl^$all
@@ -5997,6 +6006,8 @@
 ||sasedi.xyz^$all
 ||sasiedzkagazeta.eu^$all
 ||sasiedzkagazeta.pl^$all
+||sasiedzkinews.eu^$all
+||sasiedzkiportal.pl^$all
 ||sauny-finskie.com.pl^$all
 ||savinek-pl.com^$all
 ||saxtorph.net^$all
@@ -7446,14 +7457,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||flaster.xyz^$all
-||inpost.pl-express.casa^$all
-||juliasi.xyz^$all
-||olx.pl-cloudsorders.cyou^$all
-||olx.pl-cloudsorders.icu^$all
-||payolx26.info^$all
-||poczta.pl-cloudsorders.cyou^$all
-||poczta.pl-cloudsorders.icu^$all
-||porowok.xyz^$all
-||sasiedzkinews.eu^$all
-||sasiedzkiportal.pl^$all
