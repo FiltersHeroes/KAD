@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 05 Jul 2021, 21:06 UTC+02
-! Version: 2021.7.5.2
+! Last modified: Tue, 06 Jul 2021, 13:06 UTC+02
+! Version: 2021.7.6.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2117,6 +2117,7 @@
 ||abstractway.top^$all
 ||acceuil-serviceclient.com^$all
 ||account.login.appid.customer.online.curriculumvitae.live^$all
+||account.suspended-netftix.club^$all
 ||acena.top^$all
 ||activation-netflix.com^$all
 ||activesports.com.pl^$all
@@ -3032,6 +3033,7 @@
 ||d1p4figd2ritbe.cloudfront.net^$all
 ||d1ppczim070vc2.cloudfront.net^$all
 ||d1psigw5qnkx9q.cloudfront.net^$all
+||d1qfp6j9w9cokv.cloudfront.net^$all
 ||d1ql0f7lbg7evf.cloudfront.net^$all
 ||d1qssy3eloqx7y.cloudfront.net^$all
 ||d1quu53w0vld5k.cloudfront.net^$all
@@ -3045,8 +3047,10 @@
 ||d1ud788mmh5bcn.cloudfront.net^$all
 ||d1v4w2d8j0bxq.cloudfront.net^$all
 ||d1vf46xvd7togb.cloudfront.net^$all
+||d1vq9u0pa93re4.cloudfront.net^$all
 ||d1vshnrm5muzgi.cloudfront.net^$all
 ||d1w1v3ojv0zhmo.cloudfront.net^$all
+||d1w370c0uot9pi.cloudfront.net^$all
 ||d1wo88umi44slg.cloudfront.net^$all
 ||d1wp11q15apzub.cloudfront.net^$all
 ||d1ybxja6sbcon6.cloudfront.net^$all
@@ -3060,6 +3064,7 @@
 ||d2c9vnwvkzlcmz.cloudfront.net^$all
 ||d2dpni913sh8cs.cloudfront.net^$all
 ||d2ex13hr728klp.cloudfront.net^$all
+||d2ezldjvc8xkw6.cloudfront.net^$all
 ||d2gspr8vzzzo02.cloudfront.net^$all
 ||d2gztwgb14h1d.cloudfront.net^$all
 ||d2h1iqzusoe15l.cloudfront.net^$all
@@ -3099,11 +3104,13 @@
 ||d2z5qakd2ama3r.cloudfront.net^$all
 ||d2zrxpsszcdyhx.cloudfront.net^$all
 ||d3a3j770jgc81v.cloudfront.net^$all
+||d3at7pjddlbvsi.cloudfront.net^$all
 ||d3c8a2wpk66um4.cloudfront.net^$all
 ||d3d2pdui0691vv.cloudfront.net^$all
 ||d3dfirf94ib4mc.cloudfront.net^$all
 ||d3djra8xuxrarl.cloudfront.net^$all
 ||d3dp8iocsuomgc.cloudfront.net^$all
+||d3fq3ivk93ymsp.cloudfront.net^$all
 ||d3g9jzjodi4z8o.cloudfront.net^$all
 ||d3h4r307hkqakf.cloudfront.net^$all
 ||d3htmfkawd0yq.cloudfront.net^$all
@@ -3149,6 +3156,7 @@
 ||d17lk891ih32q5.cloudfront.net^$all
 ||d17yvqksnax2ok.cloudfront.net^$all
 ||d18c2mnk8xpfaf.cloudfront.net^$all
+||d18h28i6i4tnmo.cloudfront.net^$all
 ||d18vyz60n8p6t2.cloudfront.net^$all
 ||d18xeid0tdaswq.cloudfront.net^$all
 ||d19f6fxl5kn6k9.cloudfront.net^$all
@@ -4114,6 +4122,7 @@
 ||gcginternational.net^$all
 ||gdynia-fakt24.pl^$all
 ||gdzieogladac.online^$all
+||geminies.xyz^$all
 ||geminioption.com^$all
 ||generujkody.app^$all
 ||generujkody.cc^$all
@@ -4690,6 +4699,7 @@
 ||inpost.pl-safewallet.cyou^$all
 ||inpost.pl-safewallet.icu^$all
 ||inpost.pl-safewallet.xyz^$all
+||inpost.pl-safe.service-secure.rest^$all
 ||inpost.pl-sendorder.cyou^$all
 ||inpost.pl-sendorder.icu^$all
 ||inpost.pl-sendorder.xyz^$all
@@ -6402,6 +6412,9 @@
 ||olx.pl-paidwallets.cyou^$all
 ||olx.pl-paidwallet.cyou^$all
 ||olx.pl-paidwallet.xyz^$all
+||olx.pl-payexpress.cyou^$all
+||olx.pl-payexpress.icu^$all
+||olx.pl-payexpress.xyz^$all
 ||olx.pl-paygo.icu^$all
 ||olx.pl-paygo.work^$all
 ||olx.pl-paysgo.cyou^$all
@@ -6460,6 +6473,7 @@
 ||olx.pl-weryfkacija.info^$all
 ||olx.pl-weryfkacija.site^$all
 ||olx.pl-weryfkacija.website^$all
+||olx.pl-wyjazd.site^$all
 ||olx.pl-zamawienie.shop^$all
 ||olx.pl-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pl.service-secure.icu^$all
@@ -6782,6 +6796,7 @@
 ||paterps.pl^$all
 ||patrolprzygody.pl^$all
 ||patrzonline.pl^$all
+||pavlowsz.pl^$all
 ||pay01-olx.info^$all
 ||pay01-olx.pl^$all
 ||pay01-olx.pw^$all
@@ -7912,6 +7927,7 @@
 ||robin-hood.com.pl^$all
 ||robotechcity.com^$all
 ||rocket-it.com.au^$all
+||rococos.xyz^$all
 ||roddyii.com^$all
 ||rodi.digital^$all
 ||rodzinnemiassteczkkotv.cyou^$all
@@ -8083,6 +8099,7 @@
 ||seriale.best^$all
 ||serialosy.pl^$all
 ||serialowo.pl^$all
+||server266.dedicated066-webhosting.com^$all
 ||server274.dedicated-webhosting.xyz^$all
 ||server012121.nazwa.pl^$all
 ||server013742.nazwa.pl^$all
@@ -8099,6 +8116,7 @@
 ||server365449.nazwa.pl^$all
 ||server392115.nazwa.pl^$all
 ||server414751.nazwa.pl^$all
+||server419008.nazwa.pl^$all
 ||server437580.nazwa.pl^$all
 ||server441485.nazwa.pl^$all
 ||server461004.nazwa.pl^$all
@@ -9400,6 +9418,7 @@
 ||zero-knikse.xyz^$all
 ||zestawnaprawczy-do-wgniecen.com^$all
 ||zestolicy.waw.pl^$all
+||zestwienie.pl^$all
 ||zeusfinancialtrades.com^$all
 ||ze-swiata.you2.pl^$all
 ||zgarnijplik.pl^$all
