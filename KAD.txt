@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 06 Jul 2021, 17:07 UTC+02
-! Version: 2021.7.6.1
+! Last modified: Tue, 06 Jul 2021, 21:06 UTC+02
+! Version: 2021.7.6.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3026,6 +3026,7 @@
 ||d1jd3unconuqim.cloudfront.net^$all
 ||d1k5vgf76yp8wa.cloudfront.net^$all
 ||d1k56tjpmngmzw.cloudfront.net^$all
+||d1kh8sgkgqw2x6.cloudfront.net^$all
 ||d1l875ujvjbvs5.cloudfront.net^$all
 ||d1lyagb9sxnnqj.cloudfront.net^$all
 ||d1nrc70vcbb0d6.cloudfront.net^$all
@@ -3058,12 +3059,14 @@
 ||d1wp11q15apzub.cloudfront.net^$all
 ||d1ybxja6sbcon6.cloudfront.net^$all
 ||d1ydnl2yqs4sq.cloudfront.net^$all
+||d1ypk2qgppaohn.cloudfront.net^$all
 ||d1zy79iyrsz9gx.cloudfront.net^$all
 ||d2a99ncvgwfx20.cloudfront.net^$all
 ||d2aspbz5jt96sv.cloudfront.net^$all
 ||d2b0ml8rhb5fu3.cloudfront.net^$all
 ||d2behij0yt2ox6.cloudfront.net^$all
 ||d2bfkkdeshmesf.cloudfront.net^$all
+||d2br4kebrim3e4.cloudfront.net^$all
 ||d2c9vnwvkzlcmz.cloudfront.net^$all
 ||d2dpni913sh8cs.cloudfront.net^$all
 ||d2ex13hr728klp.cloudfront.net^$all
@@ -3076,6 +3079,7 @@
 ||d2hxx9arx28rc0.cloudfront.net^$all
 ||d2i7526ghpizc9.cloudfront.net^$all
 ||d2iep9bp6c22dc.cloudfront.net^$all
+||d2jssw1nms8kca.cloudfront.net^$all
 ||d2k03nouvabnnt.cloudfront.net^$all
 ||d2kssogjl1dooj.cloudfront.net^$all
 ||d2lb83ybl22jem.cloudfront.net^$all
@@ -3114,6 +3118,7 @@
 ||d3a3j770jgc81v.cloudfront.net^$all
 ||d3at7pjddlbvsi.cloudfront.net^$all
 ||d3c8a2wpk66um4.cloudfront.net^$all
+||d3cvi3b6lbtksd.cloudfront.net^$all
 ||d3d2pdui0691vv.cloudfront.net^$all
 ||d3dfirf94ib4mc.cloudfront.net^$all
 ||d3djra8xuxrarl.cloudfront.net^$all
@@ -3136,6 +3141,7 @@
 ||d3o92sis0yji3x.cloudfront.net^$all
 ||d3od1bbqv35we0.cloudfront.net^$all
 ||d3p3m76ag9gj6e.cloudfront.net^$all
+||d3p7tmow1vleoo.cloudfront.net^$all
 ||d3pwgea0uc09ne.cloudfront.net^$all
 ||d3qlmfpotmwd31.cloudfront.net^$all
 ||d3qo0gbc1j3voj.cloudfront.net^$all
@@ -3572,6 +3578,7 @@
 ||dziennik.waw.pl^$all
 ||dziewczyn.pl^$all
 ||dziiendobrypollska.xyz^$all
+||dzisiejszaczestochowa.xyz^$all
 ||dzisiejszewywiadypl.cyou^$all
 ||dzisiejszymaterialtv.online^$all
 ||dzzavzp9iptuv.cloudfront.net^$all
@@ -4667,6 +4674,9 @@
 ||inpost.pl-cloudsorder.icu^$all
 ||inpost.pl-express.casa^$all
 ||inpost.pl-forpay.pw^$all
+||inpost.pl-getexpres.cyou^$all
+||inpost.pl-getexpres.icu^$all
+||inpost.pl-getexpres.xyz^$all
 ||inpost.pl-getwallet.cyou^$all
 ||inpost.pl-give-cash.cyou^$all
 ||inpost.pl-give-cash.shop^$all
@@ -4720,6 +4730,7 @@
 ||inpost.pl-sendorder.icu^$all
 ||inpost.pl-sendorder.xyz^$all
 ||inpost.pl-transpaycom.pw^$all
+||inpost.pl-transpayenig.pw^$all
 ||inpost.pl-wallet.cyou^$all
 ||inpost.pl-wellorder.xyz^$all
 ||inpost.pl-wellpayment.cyou^$all
@@ -6408,6 +6419,16 @@
 ||olx.pl-fastexpress.cyou^$all
 ||olx.pl-fastexpress.icu^$all
 ||olx.pl-fastexpress.xyz^$all
+||olx.pl-getchecks.cyou^$all
+||olx.pl-getchecks.icu^$all
+||olx.pl-getchecks.xyz^$all
+||olx.pl-getcheck.cyou^$all
+||olx.pl-getcheck.icu^$all
+||olx.pl-getcheck.xyz^$all
+||olx.pl-getexpress.cyou^$all
+||olx.pl-getexpress.icu^$all
+||olx.pl-getexpress.xyz^$all
+||olx.pl-getexpres.xyz^$all
 ||olx.pl-getwallets.cyou^$all
 ||olx.pl-getwallets.icu^$all
 ||olx.pl-getwallets.xyz^$all
@@ -6466,6 +6487,7 @@
 ||olx.pl-safewallet.cyou^$all
 ||olx.pl-safewallet.icu^$all
 ||olx.pl-safewallet.xyz^$all
+||olx.pl-safe.service-secure.rest^$all
 ||olx.pl-savedwallet.cyou^$all
 ||olx.pl-savedwallet.icu^$all
 ||olx.pl-savedwallet.xyz^$all
@@ -6655,6 +6677,7 @@
 ||order-secure.biz^$all
 ||organicmediasolution.com^$all
 ||ori-sfera.pl^$all
+||orleninvest.space^$all
 ||orlenoil-la.com^$all
 ||orlenplget.net^$all
 ||orlen-platform.site^$all
@@ -7416,6 +7439,8 @@
 ||poczta.pl-easypaid.cyou^$all
 ||poczta.pl-easypaid.icu^$all
 ||poczta.pl-easypaid.xyz^$all
+||poczta.pl-fastexpress.icu^$all
+||poczta.pl-fastexpress.xyz^$all
 ||poczta.pl-gotpaid.work^$all
 ||poczta.pl-ordered.work^$all
 ||poczta.pl-paygo.cyou^$all
@@ -9243,6 +9268,7 @@
 ||www-olxpll-safe.xyz^$all
 ||www-olxpl-safe.website^$all
 ||www-olxpl.online^$all
+||www-olxpoland.online^$all
 ||www-olxpoland.site^$all
 ||www-olx-dostawa.pl^$all
 ||www-olx.pl^$all
@@ -9318,6 +9344,7 @@
 ||w-szpitalu.gmina.pl^$all
 ||x0sms.in^$all
 ||x1sms.in^$all
+||x3sms.in^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xabeyangex.xyz^$all
 ||xawqerklewq.myartsonline.com^$all
