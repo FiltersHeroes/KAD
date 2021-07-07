@@ -22,3 +22,5 @@ body:
       placeholder: |
         Opis oszustwa, etapy odtworzenia problemu (co doprowadziło do błędu) albo twoja metoda rozwiązania problemu.
         Description of scam, the steps to reproduce the problem (which led to the error) or your method of solving the problem.
+    validations:
+      required: true
