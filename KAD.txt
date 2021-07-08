@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 08 Jul 2021, 17:06 UTC+02
-! Version: 2021.7.8.1
+! Last modified: Thu, 08 Jul 2021, 21:06 UTC+02
+! Version: 2021.7.8.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2019,6 +2019,7 @@
 ||0b8cc331813049912.temporary.link^$all
 ||0lx.group^$all
 ||0pen.page^$all
+||0r1en.bigbosspl.site^$all
 ||0sms.in^$all
 ||00x.eu^$all
 ||1btcnews.buzz^$all
@@ -2194,6 +2195,7 @@
 ||aktienboard.com^$all
 ||aktpl.com^$all
 ||aktualizacjanetlfix.ahlalbeit.net^$all
+||aktualizacja-platnosci.idlenetfixa.fun^$all
 ||aktualizacja-poczty.online^$all
 ||aktualizacja.jst.pl^$all
 ||aktywnezycie.com.pl^$all
@@ -2237,6 +2239,7 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
+||allegrolokalnie.pl-itemspays.pw^$all
 ||allegrolokalnie.pl.item-setpay.pw^$all
 ||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
@@ -2313,6 +2316,7 @@
 ||amzstudy.com^$all
 ||anabim.com^$all
 ||anakonda.icu^$all
+||analitics-g00gle.xyz^$all
 ||analitics-pro.cyou^$all
 ||analsz.pl^$all
 ||androidsecurityplus.com^$all
@@ -2853,6 +2857,7 @@
 ||cinema4k.net^$all
 ||cinemaplanet.pl^$all
 ||cinematicfanatic.com^$all
+||cin.cins.xyz^$all
 ||ciotroowl.vot.pl^$all
 ||circultural.com^$all
 ||cisie.pl^$all
@@ -2895,6 +2900,7 @@
 ||coltoos.site^$all
 ||come-inside.pl^$all
 ||computer-arts.info^$all
+||com.projekt-capital3.site^$all
 ||com.tesprogram5.xyz^$all
 ||confirmation.orders-olx.com^$all
 ||confusingcontact.com^$all
@@ -3278,6 +3284,7 @@
 ||darmowe-tankowanie.click^$all
 ||darmowyfilmrfm44.ek1.pl^$all
 ||darmowyfilmzlektoremoas10.ek1.pl^$all
+||dasprojectpl.couldpl23.xyz^$all
 ||datelocalsupport.com^$all
 ||dates-here-now*.com^$all
 ||dating-4-adults*.com^$all
@@ -3900,6 +3907,7 @@
 ||felmsdin.xyz^$all
 ||fenixsecurities.eu^$all
 ||fenix-funds.pro^$all
+||ferde.xyz^$all
 ||ferte.xyz^$all
 ||fhukaja.pl^$all
 ||fidelity-assetltd.com^$all
@@ -4542,6 +4550,8 @@
 ||informujemy-z-polski.dnsrobotuptime.ru^$all
 ||inform*.is-best.net^$all
 ||inform-sms.pw^$all
+||inform.legalprod.xyz^$all
+||inform.rorinv.site^$all
 ||infosandiego.wixsite.com^$all
 ||infoswiat.hekko24.pl^$all
 ||infozkraju.eu^$all
@@ -4555,6 +4565,7 @@
 ||info-sobota24.waw.pl^$all
 ||info-wygrana24.waw.pl^$all
 ||info-z-policji.dnsrobotuptime.ru^$all
+||info.oliftrade.site^$all
 ||infx.eu^$all
 ||inf^$all
 ||ingbkpl.com^$all
@@ -4738,6 +4749,7 @@
 ||inpost.pl-haveorders.cyou^$all
 ||inpost.pl-haveorders.icu^$all
 ||inpost.pl-haveorders.xyz^$all
+||inpost.pl-itemspays.pw^$all
 ||inpost.pl-item.paymonieycom.pw^$all
 ||inpost.pl-live-delivery.icu^$all
 ||inpost.pl-paidgo.cyou^$all
@@ -4991,6 +5003,7 @@
 ||jordanbuty.pl^$all
 ||jorted.site^$all
 ||jourlacy.com^$all
+||jpltech.vestpast77.xyz^$all
 ||jstoppello.com^$all
 ||juicingwell.com^$all
 ||juicywin.pl^$all
@@ -5305,6 +5318,7 @@
 ||lite-messenger.com^$all
 ||liversely.com^$all
 ||liviosklep.pl^$all
+||lkinvest.onelasinvee77.site^$all
 ||lldi.pl^$all
 ||lloto.xyz^$all
 ||lnfo.web-chat.eu^$all
@@ -5371,6 +5385,7 @@
 ||lombardujemy.com^$all
 ||lombard-kolobrzeg.pl^$all
 ||lomino.xyz^$all
+||loorkspl.jokivest1.site^$all
 ||lordteam.store^$all
 ||losca3.wixsite.com^$all
 ||loshtorm.xyz^$all
@@ -5859,6 +5874,7 @@
 ||new-online.xyz^$all
 ||new-payment.space^$all
 ||new-payment.store^$all
+||new.systemine.xyz^$all
 ||nextnewaction.com^$all
 ||nfbio.com^$all
 ||niapublications.org^$all
@@ -6538,6 +6554,11 @@
 ||olx.pl-id5739388.xyz^$all
 ||olx.pl-id5739879.xyz^$all
 ||olx.pl-id8573932.xyz^$all
+||olx.pl-id79645645.xyz^$all
+||olx.pl-id79825645.xyz^$all
+||olx.pl-id573935482.xyz^$all
+||olx.pl-id576339682.xyz^$all
+||olx.pl-id5739389212.xyz^$all
 ||olx.pl-money.info^$all
 ||olx.pl-money.online^$all
 ||olx.pl-money.site^$all
@@ -6599,6 +6620,9 @@
 ||olx.pl-savedwallet.icu^$all
 ||olx.pl-savedwallet.xyz^$all
 ||olx.pl-savewallets.xyz^$all
+||olx.pl-suspended.icu^$all
+||olx.pl-suspended.xyz^$all
+||olx.pl-suspend.xyz^$all
 ||olx.pl-transpaying.pw^$all
 ||olx.pl-wellcash.cyou^$all
 ||olx.pl-welldelivery.cyou^$all
@@ -6717,6 +6741,7 @@
 ||onet-wydarzenie.xyz^$all
 ||onet-zamosc.xyz^$all
 ||one-pay.xyz^$all
+||one.systemine.xyz^$all
 ||onioq.xyz^$all
 ||onliine.pl^$all
 ||onlineaccessonlineacesonlineacess.weebly.com^$all
@@ -6782,6 +6807,7 @@
 ||opteamizer.co.il^$all
 ||optimalpoland.pl^$all
 ||optminers.com^$all
+||or1enpro.bigbosspl.site^$all
 ||orange-kodzik.890m.com^$all
 ||order-safe.biz^$all
 ||order-safe.info^$all
@@ -6791,12 +6817,16 @@
 ||orleninvest.space^$all
 ||orlenoil-la.com^$all
 ||orlenplget.net^$all
+||orlen-invest.surge.sh^$all
 ||orlen-platform.site^$all
 ||orlen-pl-syst.site^$all
 ||orlen-pl.site^$all
 ||orlen.pl.teslinvests.site^$all
 ||orlinwestpl.pw^$all
 ||orlnpacifica.pw^$all
+||orl-prog.poland-plpro.site^$all
+||orl.moctrade.site^$all
+||orl.poland-plpro.site^$all
 ||ortezanakolano-pl.com^$all
 ||orteza-na-kolano-pl.com^$all
 ||oryginalnebutynike.pl^$all
@@ -7277,6 +7307,7 @@
 ||pkopl.com^$all
 ||pko-bp.pl^$all
 ||pko-invest.club^$all
+||pl0r1en.bigbosspl.site^$all
 ||pl1a.bestshopping-voucher.com^$all
 ||pl2021.online^$all
 ||placidocn.com^$all
@@ -7347,6 +7378,8 @@
 ||ploferta24.work^$all
 ||ploferta24.xyz^$all
 ||plolx-oplata.online^$all
+||plor1en.bigbosspl.site^$all
+||plorl.poland-plpro.site^$all
 ||plpaysoffer.site^$all
 ||plpkobp.club^$all
 ||plpostkode.com^$all
@@ -7427,6 +7460,7 @@
 ||pl-orderedpays.club^$all
 ||pl-orderedpays.shop^$all
 ||pl-ordered.xyz^$all
+||pl-orl.poland-plpro.site^$all
 ||pl-paidoffer.site^$all
 ||pl-papajohns.fun^$all
 ||pl-payed.casa^$all
@@ -7477,6 +7511,8 @@
 ||pl.get-money.live^$all
 ||pl.g-pay.me^$all
 ||pl.heyfit.shop^$all
+||pl.inwestaht.xyz^$all
+||pl.maximal1.xyz^$all
 ||pl.medic-reporters.com^$all
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
@@ -7492,9 +7528,13 @@
 ||pl.pay-mentos.online^$all
 ||pl.pcviruscare.com^$all
 ||pl.pl2021.ru^$all
+||pl.plsystem8.xyz^$all
 ||pl.polskikoncernnaftowy.com^$all
 ||pl.profitmaximizer-app.com^$all
+||pl.program-orl1.xyz^$all
+||pl.projektpl6.site^$all
 ||pl.safe-olx.casa^$all
+||pl.tesprogram3.xyz^$all
 ||pl.tesprogram8.site^$all
 ||pl.tradenewsinvesting.com^$all
 ||pl.tvplusnewtab.com^$all
@@ -7877,6 +7917,7 @@
 ||profit4you-now.life^$all
 ||profitmaximum.pl^$all
 ||profitrevolution.live^$all
+||prog.poland-plpro.site^$all
 ||projectsociety.pl^$all
 ||projekt-pomocy.eu^$all
 ||promesa.moonfruit.com^$all
@@ -8032,6 +8073,8 @@
 ||regionalne-wydarzenia.co.pl^$all
 ||registe.xyz^$all
 ||registrycertificates.ga^$all
+||registr.liztox.xyz^$all
+||registr.olisoli.site^$all
 ||regis-ter.weebly.com^$all
 ||regulacja-platnosci.xyz^$all
 ||regulamin24poczta.art^$all
@@ -8683,6 +8726,7 @@
 ||swiatfilmikow.pl^$all
 ||swiattesterow.pl^$all
 ||swiatwiadomosci.xyz^$all
+||swiat-biznes.pisz.pl^$all
 ||swiat-biznes.waw.pl^$all
 ||swiat-inaczej.you2.pl^$all
 ||swietny-organizm.com^$all
@@ -8873,6 +8917,7 @@
 ||topparcelservices.com^$all
 ||toptarotist.nl^$all
 ||top-daily-profit.com^$all
+||top-kod.club^$all
 ||top-premium.weebly.com^$all
 ||top-ragers.net^$all
 ||top-solutions.space^$all
@@ -8942,6 +8987,7 @@
 ||trzebasiezztympogodzic.cyou^$all
 ||trznadel.icu^$all
 ||trzymajpoziom.pl^$all
+||tskechpl.vestpast77.xyz^$all
 ||tubesmaza.cam^$all
 ||tujestpolska.icu^$all
 ||tunaszapolska.xyz^$all
@@ -9076,6 +9122,7 @@
 ||uregulowanie-naleznosci-24.xyz^$all
 ||urleddrug.at^$all
 ||urmediaz.com^$all
+||urtplpro.onelasinvee77.site^$all
 ||urzad29.net^$all
 ||urzadkarny.net^$all
 ||urzadpl.net^$all
