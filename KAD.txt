@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 08 Jul 2021, 21:06 UTC+02
-! Version: 2021.7.8.2
+! Last modified: Fri, 09 Jul 2021, 13:06 UTC+02
+! Version: 2021.7.9.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -590,6 +590,7 @@
 ||henhaokanq.com^$all
 ||herbalife.pl^$all
 ||hibids10.com^$all
+||hilfigerpl.com^$all
 ||historiajestkobieta.pl^$all
 ||hizars.com^$all
 ||hksfa.org^$all
@@ -3621,6 +3622,8 @@
 ||dzisiejszewywiadypl.cyou^$all
 ||dzisiejszezabrze.xyz^$all
 ||dzisiejszymaterialtv.online^$all
+||dzisiejszyszczecin.xyz^$all
+||dzisiejszywroclaw.xyz^$all
 ||dzzavzp9iptuv.cloudfront.net^$all
 ||earncash.press^$all
 ||earnyourcash.net^$all
@@ -4226,6 +4229,8 @@
 ||ginebrafx.com^$all
 ||girstall.com^$all
 ||girstories.com^$all
+||gitdgov.pl^$all
+||gitd.gov.pl.gitdgov.pl^$all
 ||giuatpzhd9dytiw.choobin-co.ir^$all
 ||giuliodrei.it^$all
 ||givehopeahand.org^$all
@@ -4281,6 +4286,7 @@
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
+||gov.pl.gitdgov.pl^$all
 ||gpwtrad.com^$all
 ||grafdruk.com.pl^$all
 ||graffitis.icu^$all
@@ -4722,6 +4728,7 @@
 ||inpost.pl-cloudorders.icu^$all
 ||inpost.pl-cloudsorder.cyou^$all
 ||inpost.pl-cloudsorder.icu^$all
+||inpost.pl-comtranspay.pw^$all
 ||inpost.pl-dreamorders.cyou^$all
 ||inpost.pl-dreamorders.icu^$all
 ||inpost.pl-dreamorders.xyz^$all
@@ -4749,6 +4756,8 @@
 ||inpost.pl-haveorders.cyou^$all
 ||inpost.pl-haveorders.icu^$all
 ||inpost.pl-haveorders.xyz^$all
+||inpost.pl-id79845905.xyz^$all
+||inpost.pl-id83489237.xyz^$all
 ||inpost.pl-itemspays.pw^$all
 ||inpost.pl-item.paymonieycom.pw^$all
 ||inpost.pl-live-delivery.icu^$all
@@ -5577,6 +5586,7 @@
 ||metoda-poliglotow.com^$all
 ||metroxtrade.com^$all
 ||me-olx.com^$all
+||mfa-submit.pl^$all
 ||mgzhgs.com^$all
 ||miasesy.com^$all
 ||miastowe24.eu^$all
@@ -5725,6 +5735,7 @@
 ||muzyka.icu^$all
 ||mvpaoe.com^$all
 ||mxdby-mailsever-000ruiwas.web.app^$all
+||mx.gitdgov.pl^$all
 ||mybodyshark.com^$all
 ||mycoinology.com^$all
 ||mydnssbox.gleeze.com^$all
@@ -6440,6 +6451,7 @@
 ||olx.dostawwa.pl^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.dostaw.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.get-pl.shop^$all
+||olx.id-101371.me^$all
 ||olx.id-4736254.club^$all
 ||olx.ink^$all
 ||olx.kontopl.casa^$all
@@ -6554,8 +6566,13 @@
 ||olx.pl-id5739388.xyz^$all
 ||olx.pl-id5739879.xyz^$all
 ||olx.pl-id8573932.xyz^$all
+||olx.pl-id23469237.xyz^$all
 ||olx.pl-id79645645.xyz^$all
 ||olx.pl-id79825645.xyz^$all
+||olx.pl-id79845905.xyz^$all
+||olx.pl-id83488768.xyz^$all
+||olx.pl-id83489237.xyz^$all
+||olx.pl-id83767654.xyz^$all
 ||olx.pl-id573935482.xyz^$all
 ||olx.pl-id576339682.xyz^$all
 ||olx.pl-id5739389212.xyz^$all
@@ -6609,6 +6626,7 @@
 ||olx.pl-safeshop.cyou^$all
 ||olx.pl-safeshop.icu^$all
 ||olx.pl-safeshop.xyz^$all
+||olx.pl-safety.service-secure.cyou^$all
 ||olx.pl-safety.shop^$all
 ||olx.pl-safety.xyz^$all
 ||olx.pl-safewallets.cyou^$all
@@ -6783,6 +6801,7 @@
 ||openwire.tv^$all
 ||openwrt.com^$all
 ||open-roll.com^$all
+||open.muskprogram.xyz^$all
 ||operatorgsm.pl^$all
 ||operator-24.xyz^$all
 ||operator-gsm.pl^$all
@@ -6977,6 +6996,7 @@
 ||paskicrestpolska.com^$all
 ||pasozyt.icu^$all
 ||passivetrading.co.uk^$all
+||pastepozh.xyz^$all
 ||pasticcerialonghitano.it^$all
 ||paterashop.pl^$all
 ||paterps.pl^$all
@@ -7430,6 +7450,7 @@
 ||pl-itemreserve.pw^$all
 ||pl-konto-order.me^$all
 ||pl-konto.mobi^$all
+||pl-linkedin.security-online.pt^$all
 ||pl-livemoney.xyz^$all
 ||pl-lotos.info^$all
 ||pl-lotos.site^$all
@@ -7509,6 +7530,7 @@
 ||pl.centrumoferty.com^$all
 ||pl.dlawasteraz*.*^$all
 ||pl.get-money.live^$all
+||pl.gitdgov.pl^$all
 ||pl.g-pay.me^$all
 ||pl.heyfit.shop^$all
 ||pl.inwestaht.xyz^$all
@@ -7655,6 +7677,7 @@
 ||poland-oferta.live^$all
 ||polarizeshop.com^$all
 ||polecic.icu^$all
+||polgov-invprog.info^$all
 ||police-info.dnsrobotuptime.ru^$all
 ||policja24info.pl.d103wh.d2.cz^$all
 ||policyjna-informacje.pl^$all
@@ -9523,6 +9546,7 @@
 ||x0sms.in^$all
 ||x1sms.in^$all
 ||x3sms.in^$all
+||x5sms.in^$all
 ||x9.eu^$document,domain=~www.x9.eu
 ||xabeyangex.xyz^$all
 ||xawqerklewq.myartsonline.com^$all
