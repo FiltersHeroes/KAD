@@ -16,16 +16,25 @@ body:
     validations:
       required: true
   - type: textarea
+    id: specificURL
+    attributes:
+      label: Link bezpośredni, na którym występuje problem
+      description: A specific URL where the problem occurs
+      placeholder: http://www.biedronka.pl/nowagazetka
+      render: markdown
+  - type: textarea
     id: bugDesc
     attributes:
-      label: Opis błędu (Description of bug)
+      label: Opis błędu
+      description: A bug description
       placeholder: A to łobuziaki, zablokowali Biedronkę oraz Lidla i napisali, że mam niby robić zakupy w jakimś tam Dinusiu... .
     validations:
       required: true
   - type: textarea
     id: otherInfo
     attributes:
-      label: Dodatkowe informacje mogące mieć znaczenie (Additional information that may be relevant)
+      label: Dodatkowe informacje mogące mieć znaczenie
+      description: Additional information that may be relevant
       placeholder: |
         Zrzuty ekranu, twoja metoda rozwiązania problemu i inne ważne informacje.
         Screenshots, your method of solving the problem and other important information.
