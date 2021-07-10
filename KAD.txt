@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 10 Jul 2021, 13:07 UTC+02
-! Version: 2021.7.10.0
+! Last modified: Sat, 10 Jul 2021, 17:07 UTC+02
+! Version: 2021.7.10.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2371,6 +2371,9 @@
 ||apple-*.deviceoffergiveaways.icu^$all
 ||apple.com-*.*^$all,domain=live|xyz
 ||apple.*.top^$all,domain=top
+||applnpost.app^$all
+||applnpost.me^$all
+||applnpost.net^$all
 ||appsdorado.com^$all
 ||appstorepost.com^$all
 ||apps.co.pl^$all
@@ -2510,6 +2513,7 @@
 ||bestcheats.cba.pl^$all
 ||bestforbikers.com^$all
 ||bestia.cyou^$all
+||bestoccasions4youonlynow.com^$all
 ||bestsale2021.net^$all
 ||bestshopping-voucher.com^$all
 ||bestvod.pl^$all
@@ -2603,6 +2607,7 @@
 ||bitcoin-storm.com^$all
 ||bitcoin-time.pw^$all
 ||bitcoin-trader-app.com^$all
+||bitengecko.com^$all
 ||bitgenises.com^$all
 ||bitoptionfx.com^$all
 ||bitqt.org^$all
@@ -2671,6 +2676,7 @@
 ||brawomiasto.site^$all
 ||brightfinance.co^$all
 ||brikee.com^$all
+||british-laryngology-journal.eu^$all
 ||britneyspears.website.pl^$all
 ||bri-cat.com.pl^$all
 ||broadpeakdefense.com^$all
@@ -3798,6 +3804,7 @@
 ||e-faktyonet24.eu^$all
 ||e-faktypolska24.eu^$all
 ||e-filmy24.pl^$all
+||e-gazeta.osc-fr1.scalingo.io^$all
 ||e-gliwice.xyz^$all
 ||e-informacje24.eu^$all
 ||e-mailprywatnosc.online^$all
@@ -4103,6 +4110,7 @@
 ||fxcoins.org^$all
 ||fxcryptomarket.live^$all
 ||fxglobe.international^$all
+||fxpoint.co^$all
 ||fxtime.io^$all
 ||fygoko.avesnsk.ru^$all
 ||g0oo.me^$all
@@ -4126,6 +4134,7 @@
 ||gartoninvest.co^$all
 ||garwolin.info.pl^$all
 ||gastrohurt.neostrada.pl^$all
+||gazeta24pl.osc-fr1.scalingo.io^$all
 ||gazetabielany.waw.pl^$all
 ||gazetagdynia.xyz^$all
 ||gazetakrakow.xyz^$all
@@ -4612,6 +4621,7 @@
 ||inpost24-payu.com^$all
 ||inpost24.services^$all
 ||inpostapl.xyz^$all
+||inpostapp.com^$all
 ||inpostapp.net^$all
 ||inposta-getcash.pw^$all
 ||inposta-info.pw^$all
@@ -4683,6 +4693,7 @@
 ||inpost-pl.ownkontos.shop^$all
 ||inpost-pl.safeorder.co^$all
 ||inpost-pl.safeorder.cyou^$all
+||inpost-pl.safe-delivery.one^$all
 ||inpost-pl.secure-money.icu^$all
 ||inpost-security.icu^$all
 ||inpost-terms.icu^$all
@@ -4699,6 +4710,7 @@
 ||inpost.email^$all
 ||inpost.fit^$all
 ||inpost.help^$all
+||inpost.id746463.me^$all
 ||inpost.kurier24-oferta.shop^$all
 ||inpost.kurier24-oferta.world^$all
 ||inpost.life^$all
@@ -4770,6 +4782,7 @@
 ||inpost.pl-id11794465.xyz^$all
 ||inpost.pl-id12789543.xyz^$all
 ||inpost.pl-id23469237.xyz^$all
+||inpost.pl-id56446245.xyz^$all
 ||inpost.pl-id79845905.xyz^$all
 ||inpost.pl-id83488768.xyz^$all
 ||inpost.pl-id83489237.xyz^$all
@@ -4889,6 +4902,7 @@
 ||intersujaceopolskie.online^$all
 ||inteza.pl^$all
 ||intorstad.store^$all
+||invest2021go.info^$all
 ||investactive.cc^$all
 ||investbb.com^$all
 ||investchambers.com^$all
@@ -6592,6 +6606,7 @@
 ||olx.pl-id11794465.xyz^$all
 ||olx.pl-id12789543.xyz^$all
 ||olx.pl-id23469237.xyz^$all
+||olx.pl-id27033213.xyz^$all
 ||olx.pl-id58394293.xyz^$all
 ||olx.pl-id79645645.xyz^$all
 ||olx.pl-id79825645.xyz^$all
@@ -7196,6 +7211,7 @@
 ||payolx36.info^$all
 ||payolx43.info^$all
 ||payolx44.info^$all
+||payolx45.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -7462,6 +7478,7 @@
 ||pl-express.fun^$all
 ||pl-fb.business^$all
 ||pl-fb.com^$all
+||pl-gazeta.osc-fr1.scalingo.io^$all
 ||pl-getcash.club^$all
 ||pl-getcash.xyz^$all
 ||pl-getdeals.xyz^$all
@@ -7596,6 +7613,7 @@
 ||pl.*bitcoin*.tiptopko*.com^$all
 ||pmlingua.strefa.pl^$all
 ||poagloqzhis.info^$all
+||pobezh.xyz^$all
 ||pobieracz.com.pl^$all
 ||pobierz24.pl^$all
 ||pobierzgo.pl^$all
@@ -8421,6 +8439,7 @@
 ||sgb-24.com^$all
 ||sgb-pageoriginal-online.com^$all
 ||shael.org^$all
+||shared-fluttering-ankylosaurus.glitch.me^$all
 ||sharefoto-*.idl.pl^$all
 ||sharefoto-*.vot.pl^$all
 ||sharp-gossip.com^$all
@@ -8651,6 +8670,7 @@
 ||staemcommnunity.com^$all
 ||staemcrommnunity.com.profiles-7658215377653.ml^$all
 ||stakim.org^$all
+||stako.online^$all
 ||stanik.cyou^$all
 ||stanislaw.org.pl^$all
 ||starajsieotozebybylo.site^$all
@@ -9078,6 +9098,7 @@
 ||twojanagroda.co.pl^$all
 ||twojapaczka-dhl.com^$all
 ||twojapaczka-dpd.com^$all
+||twojapaczka.express^$all
 ||twojapaczka.services^$all
 ||twojapaka.com^$all
 ||twojazdobyczbiznes.cyou^$all
@@ -10108,6 +10129,7 @@
 ||*pakiety-pokemon-go.blogspot.com^$all
 !
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
+~pl##a[href*="whokeys.com/"]:lang(pl)
 alltube.pl,alltube.tv##header #message-user, a[href*="https://alltube.com.pl/"]
 alltube.pl,alltube.tv#?#.row > div.col-sm-12:has(> .headline + div.row > div > div > a[href*="https://alltube.com.pl/"] > img)
 cba.pl#?#body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
@@ -10121,6 +10143,7 @@ filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl
 instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
 instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
 instalki.pl##option[value$="dm=1"]
+pl##a[href*="whokeys.com/"]
 speedtest.pl,speedtest.com.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
