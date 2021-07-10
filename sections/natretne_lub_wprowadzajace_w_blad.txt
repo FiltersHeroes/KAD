@@ -1,3 +1,4 @@
+~pl##a[href*="whokeys.com/"]:lang(pl)
 alltube.pl,alltube.tv##header #message-user, a[href*="https://alltube.com.pl/"]
 alltube.pl,alltube.tv#?#.row > div.col-sm-12:has(> .headline + div.row > div > div > a[href*="https://alltube.com.pl/"] > img)
 cba.pl#?#body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
@@ -11,12 +12,11 @@ filme.pl#?#.tabela_zrodla > div.mb-1.tabela_wiersz:has(a[href*="http://leadmy.pl
 instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
 instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
 instalki.pl##option[value$="dm=1"]
+pl##a[href*="whokeys.com/"]
 speedtest.pl,speedtest.com.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
-pl##a[href*="whokeys.com/"]
-~pl##a[href*="whokeys.com/"]:lang(pl)
 /pobierz_*.exe$document
 /*-AsystentPobierania.exe$document
 ||alltube.tv/static/img/download.png$image
