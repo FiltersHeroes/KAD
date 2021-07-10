@@ -1,0 +1,31 @@
+name: Błędy
+description: Bugs, mistakes, no-no
+labels: błąd
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dziękujemy za zgłoszenie do repozytorium listy KAD!
+        Thanks for reporting to KAD's filterlist repository!
+  - type: input
+    id: adblocker
+    attributes:
+      label: Bloker (Blocker)
+      placeholder: uBlock Origin 1.35.2
+    validations:
+      required: true
+  - type: textarea
+    id: bugDesc
+    attributes:
+      label: Opis błędu (Description of bug)
+      placeholder: A to łobuziaki, zablokowali Biedronkę oraz Lidla i napisali, że mam niby robić zakupy w jakimś tam Dinusiu... .
+    validations:
+      required: true
+  - type: textarea
+    id: otherInfo
+    attributes:
+      label: Dodatkowe informacje mogące mieć znaczenie (Additional information that may be relevant)
+      placeholder: |
+        Zrzuty ekranu, twoja metoda rozwiązania problemu i inne ważne informacje.
+        Screenshots, your method of solving the problem and other important information.
