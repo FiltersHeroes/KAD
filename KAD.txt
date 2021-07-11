@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 11 Jul 2021, 13:06 UTC+02
-! Version: 2021.7.11.0
+! Last modified: Sun, 11 Jul 2021, 17:06 UTC+02
+! Version: 2021.7.11.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2707,6 +2707,7 @@
 ||btc-evo.com^$all
 ||btsystemos.com^$all
 ||buergerliste-eppan.eu^$all
+||building-invprotop.info^$all
 ||bulux.store^$all
 ||bundle-deals.com^$all
 ||bungalowsentertainment.com^$all
@@ -4688,6 +4689,7 @@
 ||inpost-pl-pay.site^$all
 ||inpost-pl.com^$all
 ||inpost-pl.getcash-online.site^$all
+||inpost-pl.id685932.icu^$all
 ||inpost-pl.kurier24.shop^$all
 ||inpost-pl.myowndostawa24.art^$all
 ||inpost-pl.myowndostawa24.live^$all
@@ -4755,6 +4757,7 @@
 ||inpost.pl-cloudsorder.cyou^$all
 ||inpost.pl-cloudsorder.icu^$all
 ||inpost.pl-comtranspay.pw^$all
+||inpost.pl-cyberget.service-secure.cyou^$all
 ||inpost.pl-cybersec.service-secure.cyou^$all
 ||inpost.pl-dreamorders.cyou^$all
 ||inpost.pl-dreamorders.icu^$all
@@ -4783,6 +4786,7 @@
 ||inpost.pl-haveorders.cyou^$all
 ||inpost.pl-haveorders.icu^$all
 ||inpost.pl-haveorders.xyz^$all
+||inpost.pl-id08681175.xyz^$all
 ||inpost.pl-id11794465.xyz^$all
 ||inpost.pl-id12789543.xyz^$all
 ||inpost.pl-id23469237.xyz^$all
@@ -6390,6 +6394,7 @@
 ||olx-pl.ez-pays.ru^$all
 ||olx-pl.getcash-online.site^$all
 ||olx-pl.getc.icu^$all
+||olx-pl.id839421.icu^$all
 ||olx-pl.id*.ru^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl.info^$all
 ||olx-pl.iso-pay.net.ru^$all
@@ -6613,8 +6618,10 @@
 ||olx.pl-id5739388.xyz^$all
 ||olx.pl-id5739879.xyz^$all
 ||olx.pl-id8573932.xyz^$all
+||olx.pl-id08681175.xyz^$all
 ||olx.pl-id11794465.xyz^$all
 ||olx.pl-id12789543.xyz^$all
+||olx.pl-id18578349.xyz^$all
 ||olx.pl-id23469237.xyz^$all
 ||olx.pl-id25584051.xyz^$all
 ||olx.pl-id27033213.xyz^$all
@@ -6727,6 +6734,7 @@
 ||olx.pl-zamawienie.shop^$all
 ||olx.pl-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pl.payfestrans.pw^$all
+||olx.pl.paymentchecked.site^$all
 ||olx.pl.payukfestrans.pw^$all
 ||olx.pl.service-secure.icu^$all
 ||olx.pl.transorbuy.pw^$all
@@ -7727,6 +7735,7 @@
 ||poinformujemy7.pl^$all
 ||poinformujemy8.pl^$all
 ||poinformujemy10.pl^$all
+||pointbox.org^$all
 ||pojadetam.pl^$all
 ||pojjeciewzgledne.online^$all
 ||pokazimwszysstkim.space^$all
