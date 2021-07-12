@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 12 Jul 2021, 13:07 UTC+02
-! Version: 2021.7.12.0
+! Last modified: Mon, 12 Jul 2021, 17:06 UTC+02
+! Version: 2021.7.12.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2019,12 +2019,16 @@
 ||0pen.page^$all
 ||0r1en.bigbosspl.site^$all
 ||0sms.in^$all
+||0sms.pw^$all
 ||00x.eu^$all
 ||1btcnews.buzz^$all
+||1inv-budimpl.info^$all
 ||1k-daily-profitz.com^$all
 ||1mpost.net^$all
 ||1nposl.net^$all
 ||1npost.net^$all
+||1plbudimex-1inv.info^$all
+||1projektbudimpl.info^$all
 ||1pulsoksymetr-pl.com^$all
 ||1y8v7s.store^$all
 ||2remove.guide^$all
@@ -2535,6 +2539,7 @@
 ||bgkpol.com^$all
 ||bhpipoz.pl^$all
 ||bhpkowalex.pl^$all
+||bhujnikmold.vdl.pl^$all
 ||bialystokwsieci.xyz^$all
 ||bidenhascovid19.co^$all
 ||bideronka.is-best.net^$all
@@ -2698,6 +2703,21 @@
 ||btc-era.com^$all
 ||btc-evo.com^$all
 ||btsystemos.com^$all
+||bud1budimexinv1new.info^$all
+||budim1inv-new.info^$all
+||budim1-plinv1.info^$all
+||budimex1nvpl.info^$all
+||budimex1-invpl1.info^$all
+||budimexfan1pl.info^$all
+||budimexnvpl.info^$all
+||budimextop-invprosp.info^$all
+||budimexx-invprogram.info^$all
+||budimex-bestproject.info^$all
+||budimfan1-invnew.info^$all
+||budiminvpl.info^$all
+||budimpl1invfan.info^$all
+||budim-1invpl.info^$all
+||budim-plinv.info^$all
 ||buergerliste-eppan.eu^$all
 ||building-invprotop.info^$all
 ||bulux.store^$all
@@ -3480,6 +3500,7 @@
 ||doplac-teraz.xyz^$all
 ||doplata-kurier.com^$all
 ||dopoczdh.com^$all
+||dopomoga.tech^$all
 ||doreczyciel24.net^$all
 ||doreczyciele.net^$all
 ||doski.by^$all
@@ -3883,6 +3904,7 @@
 ||fastandfurious7pl.wordpress.com^$all
 ||fastiv.xyz^$all
 ||fastmybox.org^$all
+||favulous.xyz^$all
 ||fb202022.tcp4.me^$all
 ||fbads-manager.net^$all
 ||fbbbx.xyz^$all
@@ -4192,6 +4214,7 @@
 ||gcginternational.com^$all
 ||gcginternational.net^$all
 ||gdynia-fakt24.pl^$all
+||gedos.xyz^$all
 ||geminies.xyz^$all
 ||geminioption.com^$all
 ||generujkody.app^$all
@@ -4265,6 +4288,7 @@
 ||gold-barber.pl^$all
 ||goleta105.com^$all
 ||gologfbb.tcp4.me^$all
+||golovne.xyz^$all
 ||gooc.in^$all
 ||goodmovie.pl^$all
 ||goog1e.convchromepl.xyz^$all
@@ -4493,6 +4517,7 @@
 ||inaz-sklep.com^$all
 ||inaz-sport.com^$all
 ||inclusivetrading.biz^$all
+||incorp-budim.info^$all
 ||inesmanila.com^$all
 ||inezsport.com^$all
 ||infasd2a.is-best.net^$all
@@ -4667,6 +4692,7 @@
 ||inpost-pl-nkfi.ownoffferta.cc^$all
 ||inpost-pl-nkfi.ownoffferta.cyou^$all
 ||inpost-pl-pay.site^$all
+||inpost-pl-sbh.id-4989987.me^$all
 ||inpost-pl.com^$all
 ||inpost-pl.getcash-online.site^$all
 ||inpost-pl.id685932.icu^$all
@@ -4773,8 +4799,11 @@
 ||inpost.pl-id18578349.xyz^$all
 ||inpost.pl-id23469237.xyz^$all
 ||inpost.pl-id27033213.xyz^$all
+||inpost.pl-id29578972.xyz^$all
 ||inpost.pl-id30922314.xyz^$all
 ||inpost.pl-id56446245.xyz^$all
+||inpost.pl-id58215739.xyz^$all
+||inpost.pl-id67862008.xyz^$all
 ||inpost.pl-id79845905.xyz^$all
 ||inpost.pl-id83488768.xyz^$all
 ||inpost.pl-id83489237.xyz^$all
@@ -4893,6 +4922,7 @@
 ||intersujaceopolskie.online^$all
 ||inteza.pl^$all
 ||intorstad.store^$all
+||inv1pl-budimnew.info^$all
 ||invest2021go-summer.website^$all
 ||invest2021go.info^$all
 ||investactive.cc^$all
@@ -5417,6 +5447,7 @@
 ||lombard-kolobrzeg.pl^$all
 ||lomino.xyz^$all
 ||loorkspl.jokivest1.site^$all
+||loposa.xyz^$all
 ||lordteam.store^$all
 ||losca3.wixsite.com^$all
 ||loshtorm.xyz^$all
@@ -6453,6 +6484,7 @@
 ||olx-w.pl^$all
 ||olx-w.spredaz-online.club^$all
 ||olx-x.site^$all
+||olx-yj.id-4989987.me^$all
 ||olx-y.myfastdostawa.one^$all
 ||olx-y.pl^$all
 ||olx-zamowienie.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -6595,6 +6627,7 @@
 ||olx.pl-id11794465.xyz^$all
 ||olx.pl-id12789543.xyz^$all
 ||olx.pl-id15980047.xyz^$all
+||olx.pl-id16077216.xyz^$all
 ||olx.pl-id18578349.xyz^$all
 ||olx.pl-id21631582.xyz^$all
 ||olx.pl-id23469237.xyz^$all
@@ -6602,6 +6635,7 @@
 ||olx.pl-id27033213.xyz^$all
 ||olx.pl-id29578972.xyz^$all
 ||olx.pl-id30922314.xyz^$all
+||olx.pl-id58215739.xyz^$all
 ||olx.pl-id58394293.xyz^$all
 ||olx.pl-id67862008.xyz^$all
 ||olx.pl-id70326548.xyz^$all
@@ -6611,6 +6645,7 @@
 ||olx.pl-id83488768.xyz^$all
 ||olx.pl-id83489237.xyz^$all
 ||olx.pl-id83767654.xyz^$all
+||olx.pl-id85878627.xyz^$all
 ||olx.pl-id89475223.xyz^$all
 ||olx.pl-id89573494.xyz^$all
 ||olx.pl-id91385932.xyz^$all
@@ -6902,6 +6937,7 @@
 ||oszczepionkach.you2.pl^$all
 ||otodom-login.com^$all
 ||otomoto3452.com^$all
+||otomotokonto4321.com^$all
 ||otomotoprofi.nl^$all
 ||otomoto-h229.net^$all
 ||otomoto-konto54875424.eu^$all
@@ -7379,6 +7415,10 @@
 ||pko-invest.club^$all
 ||pl0r1en.bigbosspl.site^$all
 ||pl1a.bestshopping-voucher.com^$all
+||pl1budim-newprojekt.info^$all
+||pl1-budim-inv1.info^$all
+||pl1-invbudimex.info^$all
+||pl1-invbudim-new.info^$all
 ||pl2021.online^$all
 ||placidocn.com^$all
 ||placimy24.net^$all
@@ -7421,6 +7461,7 @@
 ||play-sklep.com^$all
 ||play-sklep.net^$all
 ||play-vod.pl^$all
+||plbudim1inv.info^$all
 ||plcalyfilm.over-blog.com^$all
 ||plcnvz.weebly.com^$all
 ||plc-68630294.hgps.ie^$all
@@ -7431,6 +7472,7 @@
 ||plebiscyt-warszawa.eu^$all
 ||pledland.com^$all
 ||pletomak.mypi.co^$all
+||plfanbudim1inv.info^$all
 ||plgroup-pge.info^$all
 ||plikgier.5p.pl^$all
 ||plikownik2015.wordpress.com^$all
@@ -7464,6 +7506,8 @@
 ||plynzpradem.online^$all
 ||plytanagrillapl.com^$all
 ||pl-bankinvest.surge.sh^$all
+||pl-budim1invpl.info^$all
+||pl-budimex1-inv.info^$all
 ||pl-buyitnow.pw^$all
 ||pl-buyorder.casa^$all
 ||pl-buyorder.club^$all
@@ -7674,6 +7718,7 @@
 ||poczta.pl-fastexpress.xyz^$all
 ||poczta.pl-gotpaid.work^$all
 ||poczta.pl-id21631582.xyz^$all
+||poczta.pl-id58215739.xyz^$all
 ||poczta.pl-ordered.work^$all
 ||poczta.pl-paygo.cyou^$all
 ||poczta.pl-paygo.icu^$all
@@ -7724,6 +7769,7 @@
 ||pol06.1001001.dev^$all
 ||polaczenie.xn.pl^$all
 ||polakczytellnik.cyou^$all
+||polandbudim-invpro.info^$all
 ||polandtok.site^$all
 ||polandverification9.wixsite.com^$all
 ||poland-dostawa.com^$all
@@ -9349,6 +9395,7 @@
 ||weeknews24.czest.pl^$all
 ||wegiel.icu^$all
 ||wejdzmy-masowo.eu^$all
+||welcomepozhta.xyz^$all
 ||wellphyto.com^$all
 ||welte.pl^$all
 ||weneedhelpnow442.club^$all
@@ -9518,6 +9565,7 @@
 ||wvw-oix.pl^$all
 ||wvw-olx.pl^$all
 ||wwv-olx.pl^$all
+||www2.lotosus.info^$all
 ||wwwolxpolaand.store^$all
 ||wwww-olx.pl^$all
 ||www-inpostapl.xyz^$all
