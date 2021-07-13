@@ -1,7 +1,7 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document
 !/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
-/^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{10,}\.(club|li[fv]e)\/\?utm_campaign=[_0-9a-zA-Z]{40,}&t=[0-9a-z]+/$document,domain=live|live|club
+/^https?:\/\/[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 ||0n.click^$all
 ||9dcm.net^$all
 ||34q22.cn^$all
