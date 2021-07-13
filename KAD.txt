@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 13 Jul 2021, 17:07 UTC+02
-! Version: 2021.7.13.1
+! Last modified: Tue, 13 Jul 2021, 21:06 UTC+02
+! Version: 2021.7.13.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2032,6 +2032,7 @@
 ||1y8v7s.store^$all
 ||2remove.guide^$all
 ||02sms.in^$all
+||2sms.pw^$all
 ||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^$all
 ||2supermocna-tasma-klejaca-pl.com^$all
 ||2-remove-virus.com^$all
@@ -2138,6 +2139,7 @@
 ||adidaspolskaoutlet.com^$all
 ||adidaspromodel.pl^$all
 ||adminbezpieczenstwajednostka.moonfruit.com^$all
+||adminhelpdeskunitn.moonfruit.com^$all
 ||adminhelpdeskunit.moonfruit.com^$all
 ||administratorabezpieczenstwait.moonfruit.com^$all
 ||administratorpocztaunit.moonfruit.com^$all
@@ -3169,11 +3171,13 @@
 ||d2xe17mzyskaoi.cloudfront.net^$all
 ||d2xt5o8xrk77dr.cloudfront.net^$all
 ||d2y2uz6sn2mxfg.cloudfront.net^$all
+||d2y5nh1tdkqgvw.cloudfront.net^$all
 ||d2ycz30klri3f9.cloudfront.net^$all
 ||d2ym1oubw1eszq.cloudfront.net^$all
 ||d2z5qakd2ama3r.cloudfront.net^$all
 ||d2zrxpsszcdyhx.cloudfront.net^$all
 ||d3a3j770jgc81v.cloudfront.net^$all
+||d3arab74qe3j8e.cloudfront.net^$all
 ||d3at7pjddlbvsi.cloudfront.net^$all
 ||d3c8a2wpk66um4.cloudfront.net^$all
 ||d3cab04ur74fa6.cloudfront.net^$all
@@ -3296,6 +3300,7 @@
 ||d2998nypt519a0.cloudfront.net^$all
 ||d03307.top^$all
 ||d3513xcfpbcnht.cloudfront.net^$all
+||d3877taz1legt5.cloudfront.net^$all
 ||d3889itag5jgx6.cloudfront.net^$all
 ||d3968odjr2hy3o.cloudfront.net^$all
 ||d16026ycio8a62.cloudfront.net^$all
@@ -6674,8 +6679,10 @@
 ||olx.pl-id27033213.xyz^$all
 ||olx.pl-id29578972.xyz^$all
 ||olx.pl-id30922314.xyz^$all
+||olx.pl-id34393144.xyz^$all
 ||olx.pl-id51337709.xyz^$all
 ||olx.pl-id52159910.xyz^$all
+||olx.pl-id53317841.xyz^$all
 ||olx.pl-id53871900.xyz^$all
 ||olx.pl-id57300911.xyz^$all
 ||olx.pl-id58215739.xyz^$all
@@ -6692,6 +6699,7 @@
 ||olx.pl-id83767654.xyz^$all
 ||olx.pl-id84373849.xyz^$all
 ||olx.pl-id85878627.xyz^$all
+||olx.pl-id88977708.xyz^$all
 ||olx.pl-id89475223.xyz^$all
 ||olx.pl-id89573494.xyz^$all
 ||olx.pl-id91385932.xyz^$all
@@ -7300,6 +7308,7 @@
 ||payolx45.info^$all
 ||payolx52.info^$all
 ||payolx53.info^$all
+||payolx55.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -9151,6 +9160,7 @@
 ||trsmarkets.com^$all
 ||trudneokreslenie.site^$all
 ||truegamers.ga^$all
+||trustmybox.org^$all
 ||truyenthongbatdiet.online^$all
 ||trwogaca.icu^$all
 ||tryplaybest.com^$all
