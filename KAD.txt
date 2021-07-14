@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 14 Jul 2021, 17:11 UTC+02
-! Version: 2021.7.14.1
+! Last modified: Wed, 14 Jul 2021, 21:06 UTC+02
+! Version: 2021.7.14.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4407,6 +4407,7 @@
 ||hasproject.pl^$all
 ||hasztagpomagam.website^$all
 ||hautec.live^$all
+||havn.com.vn^$all
 ||hazardg.icu^$all
 ||hazel-projektowanie.com.pl^$all
 ||hbonicovideo.over-blog.com^$all
@@ -4712,6 +4713,8 @@
 ||inpost-oferta.su^$all
 ||inpost-oplata.site^$all
 ||inpost-order.pl-id04381830.xyz^$all
+||inpost-order.pl-id52341838.xyz^$all
+||inpost-order.pl-id97379495.xyz^$all
 ||inpost-paczka.services^$all
 ||inpost-paczkomat.net^$all
 ||inpost-payouts.site^$all
@@ -4892,6 +4895,7 @@
 ||inpost.pl-safety.service-secure.cyou^$all
 ||inpost.pl-safety.service-secure.one^$all
 ||inpost.pl-safety.service-secure.quest^$all
+||inpost.pl-safety.service-secure.work^$all
 ||inpost.pl-safety.work^$all
 ||inpost.pl-safewallets.cyou^$all
 ||inpost.pl-safewallets.icu^$all
@@ -6327,6 +6331,7 @@
 ||olx-bezpieczny.pl^$all
 ||olx-biezpieczna-dostawa-pl.biz^$all
 ||olx-b.com^$all
+||olx-b.id877899.me^$all
 ||olx-b.pl^$all
 ||olx-b.spredaz-online.club^$all
 ||olx-b.spredaz-online.one^$all
@@ -6366,6 +6371,7 @@
 ||olx-epayment.pl^$all
 ||olx-epay.pl^$all
 ||olx-express-delivery.pl^$all
+||olx-e.id877899.me^$all
 ||olx-e.pl^$all
 ||olx-finansowanie.cam^$all
 ||olx-ginza.com^$all
@@ -6399,7 +6405,10 @@
 ||olx-order.com^$all
 ||olx-order.pl-id04381830.xyz^$all
 ||olx-order.pl-id19932972.xyz^$all
+||olx-order.pl-id34878042.xyz^$all
 ||olx-order.pl-id42877746.xyz^$all
+||olx-order.pl-id52341838.xyz^$all
+||olx-order.pl-id92981297.xyz^$all
 ||olx-order.pl^$all
 ||olx-paczka.pl^$all
 ||olx-paycore.biz^$all
