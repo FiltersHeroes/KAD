@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 13 Jul 2021, 21:06 UTC+02
-! Version: 2021.7.13.2
+! Last modified: Wed, 14 Jul 2021, 13:07 UTC+02
+! Version: 2021.7.14.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2194,6 +2194,7 @@
 ||akcjadopprzegadania.site^$all
 ||akcjasamsung.e-kei.pl^$all
 ||akcja-marzenie.eu^$all
+||akcje-ratownicze.waw.pl^$all
 ||akkcjjairreakcjjaa.cyou^$all
 ||aktienboard.com^$all
 ||aktpl.com^$all
@@ -2241,7 +2242,9 @@
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
+||allegrolokalnie.pl-eumainpay.pw^$all
 ||allegrolokalnie.pl-itemspays.pw^$all
+||allegrolokalnie.pl-transbuycom.pw^$all
 ||allegrolokalnie.pl.item-setpay.pw^$all
 ||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
@@ -2513,6 +2516,7 @@
 ||bestforbikers.com^$all
 ||bestia.cyou^$all
 ||bestoccasions4youonlynow.com^$all
+||bestofpozht.xyz^$all
 ||bestsale2021.net^$all
 ||bestshopping-voucher.com^$all
 ||bestvod.pl^$all
@@ -3168,6 +3172,7 @@
 ||d2uflbyyoc1c1l.cloudfront.net^$all
 ||d2uls76jz0lag9.cloudfront.net^$all
 ||d2ur41cbocu27e.cloudfront.net^$all
+||d2vynyfxno0uci.cloudfront.net^$all
 ||d2xe17mzyskaoi.cloudfront.net^$all
 ||d2xt5o8xrk77dr.cloudfront.net^$all
 ||d2y2uz6sn2mxfg.cloudfront.net^$all
@@ -3212,6 +3217,7 @@
 ||d3qlmfpotmwd31.cloudfront.net^$all
 ||d3qo0gbc1j3voj.cloudfront.net^$all
 ||d3rzloh6xv2xem.cloudfront.net^$all
+||d3shk9edubnjbz.cloudfront.net^$all
 ||d3t7i99jg0w13n.cloudfront.net^$all
 ||d3t48bevxuic2e.cloudfront.net^$all
 ||d3tc96fs27ncpo.cloudfront.net^$all
@@ -3265,6 +3271,7 @@
 ||d26akb2ny0jv6h.cloudfront.net^$all
 ||d26sio54efdz72.cloudfront.net^$all
 ||d27jwue5iqnh6b.cloudfront.net^$all
+||d28cp77anbo6lu.cloudfront.net^$all
 ||d28vxe8gascu3h.cloudfront.net^$all
 ||d30hbt0rlpewjj.cloudfront.net^$all
 ||d31hwl7tvoqtpd.cloudfront.net^$all
@@ -3753,6 +3760,7 @@
 ||energylanda.pl^$all
 ||energylande.pl^$all
 ||energylandiaa.waw.pl^$all
+||energylandia-info.waw.pl^$all
 ||energylandia.waw.pl^$all
 ||energyy-ladnia.waw.pl^$all
 ||energy-landia.waw.pl^$all
@@ -3883,6 +3891,7 @@
 ||facebook.com-group-85937753175139875813857813751-post-3758137865768137.newsypolska.pl^$all
 ||facebook.m918kiss.my^$all
 ||facebook.podpisz-petycje.*^$all
+||faceboook.com.pl^$all
 ||facemode.pl^$all
 ||facewatch.borec.cz^$all
 ||failmobile.net^$all
@@ -4338,6 +4347,7 @@
 ||gotbox.org^$all
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
+||govmexx-govproject.info^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
 ||gpwtrad.com^$all
 ||grafdruk.com.pl^$all
@@ -4361,6 +4371,7 @@
 ||gromans.com.pl^$all
 ||grools.xyz^$all
 ||growp.xyz^$all
+||grupalotos.club^$all
 ||grupoeq.com^$all
 ||gruzja.cyou^$all
 ||grymas.icu^$all
@@ -4556,6 +4567,7 @@
 ||info394290.wixsite.com^$all
 ||infodostarcz.net^$all
 ||infoee.gitlab.io^$all
+||infoenergylandia.waw.pl^$all
 ||infofito.com^$all
 ||infofpolska.online^$all
 ||infokrk.co.pl^$all
@@ -4564,6 +4576,7 @@
 ||inforadiogazeta.site^$all
 ||informacja24.eu^$all
 ||informacja.club^$all
+||informacje3.waw.pl^$all
 ||informacje24-alert.eu^$all
 ||informacje24.eu^$all
 ||informacje24.wroclaw.pl^$all
@@ -5028,6 +5041,7 @@
 ||ivenjobber.xyz^$all
 ||iverifyids.pl^$all
 ||iwiz-dom.com^$all
+||iyeuryetts.firebaseapp.com^$all
 ||izalukaj.pl^$all
 ||izlogin-webmail.web.app^$all
 ||i-apartamenty.pl^$all
@@ -5447,6 +5461,7 @@
 ||lnpost.us^$all
 ||lnpost.*^$document
 ||lnstagram.pp.ru^$all
+||lnstahelp.com^$all
 ||localdates*.com^$all
 ||locked3.com^$all
 ||lockercpa.pl^$all
@@ -5482,6 +5497,7 @@
 ||lokalniprzewodnicy.com.pl^$all
 ||lokalnleallegro.xyz^$all
 ||lokalny-informuje.dnsrobotuptime.ru^$all
+||lokosta.xyz^$all
 ||lombardjanusz.com^$all
 ||lombardujemy.com^$all
 ||lombard-kolobrzeg.pl^$all
@@ -5499,6 +5515,7 @@
 ||lotosgr-pl.info^$all
 ||lotosinvest.info^$all
 ||lotospl.website^$all
+||lotosqw.info^$all
 ||lotos-d.site^$all
 ||lotos-grupa.online^$all
 ||lotos-grupa.site^$all
@@ -5934,6 +5951,7 @@
 ||na-biezaco24.czest.pl^$all
 ||na-biezaco24.waw.pl^$all
 ||na-faktach112.waw.pl^$all
+||na-ratunek.waw.pl^$all
 ||nbastorepolska.com^$all
 ||nbgmarket.com^$all
 ||nbsklepbuty.com^$all
@@ -6374,6 +6392,7 @@
 ||olx-online.pl^$all
 ||olx-oplata.org^$all
 ||olx-order.com^$all
+||olx-order.pl-id19932972.xyz^$all
 ||olx-order.pl^$all
 ||olx-paczka.pl^$all
 ||olx-paycore.biz^$all
@@ -6827,6 +6846,7 @@
 ||olx.przesylki.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.przesylk.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.przewiezienie.pl^$all
+||olx.ro.transcompay.pw^$all
 ||olx.rwpay.ru^$all
 ||olx.secure-dostawa.com^$all
 ||olx.shlinks.me^$all
@@ -7046,6 +7066,7 @@
 ||paczkfedex.com^$all
 ||paczkgls.com^$all
 ||paczki24-pl.live^$all
+||paczkigls.com^$all
 ||paczkitnt.com^$all
 ||paczkkaups.com^$all
 ||paczkmat.net^$all
@@ -8214,6 +8235,7 @@
 ||r3gnow.wixsite.com^$all
 ||rabat24.store^$all
 ||rabat500.com^$all
+||rabotami.xyz^$all
 ||radioeska24.com.pl^$all
 ||radiorage.com^$all
 ||radiorodzinnypolska.site^$all
@@ -8223,6 +8245,7 @@
 ||rangreality.com^$all
 ||ranslitera.xyz^$all
 ||raport.cyou^$all
+||ratownicze-akcje.waw.pl^$all
 ||razemrozsylajmy.pl^$all
 ||razem-rozsylajmy.pl^$all
 ||razor-blade.pl^$all
@@ -8536,6 +8559,8 @@
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
 ||serwis-medyczny24.com^$all
+||serwis-tygodnia24.waw.pl^$all
+||serwis-wiadomosci.waw.pl^$all
 ||setforconfigplease.com^$all
 ||seveninsta-lady1.com^$all
 ||sfeamcommunity.com^$all
@@ -8621,6 +8646,7 @@
 ||skunks.cyou^$all
 ||skuter.c0.pl^$all
 ||skylineprofits.co.uk^$all
+||slaska-policja.waw.pl^$all
 ||slaweklenart.pl^$all
 ||sledzenie-24.xyz^$all
 ||sledzenie-paczki.in.net^$all
@@ -8912,6 +8938,8 @@
 ||swiat-biznes.waw.pl^$all
 ||swiat-inaczej.you2.pl^$all
 ||swietny-organizm.com^$all
+||swieze-info48.waw.pl^$all
+||swieze-informacje.waw.pl^$all
 ||swiftinglight.xyz^$all
 ||swingmarketscfd.com^$all
 ||swinka-morska.waw.pl^$all
@@ -9048,6 +9076,7 @@
 ||thinhvuongmedia.com^$all
 ||think1.com^$all
 ||thorstad.xyz^$all
+||tilesto.xyz^$all
 ||timelapsedulich.com^$all
 ||timepizza.fun^$all
 ||times49-uk.xyz^$all
@@ -9192,6 +9221,7 @@
 ||tvn-24.waw.pl^$all
 ||tvn-uwaga.pl^$all
 ||tvpinfo.net.pl^$all
+||tvpinfo.waw.pl^$all
 ||tvp-informacyjna*.eu^$all
 ||tvp-info.xyz^$all
 ||tv-maniak.pl^$all
@@ -9381,6 +9411,7 @@
 ||viralka.pl^$all
 ||visa-payment.sytes.net^$all
 ||viskio.xyz^$all
+||vitaemo.tech^$all
 ||vitalitycs.net^$all
 ||vivienne.com.pl^$all
 ||vod24.pl^$all
@@ -9404,6 +9435,7 @@
 ||vp-pl.website^$all
 ||vsomyp.webwave.dev^$all
 ||vww-olx-pl.com^$all
+||vzgvl7.webwave.dev^$all
 ||v*ikm*k*cbsa.drjesri.ir^$all,domain=ir
 ||w3brasil.com^$all
 ||w4ytgdl.ytig0il.cn^$all
