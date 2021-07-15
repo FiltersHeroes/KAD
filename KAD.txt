@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 14 Jul 2021, 21:06 UTC+02
-! Version: 2021.7.14.2
+! Last modified: Thu, 15 Jul 2021, 13:07 UTC+02
+! Version: 2021.7.15.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2382,6 +2382,7 @@
 ||app*.kromtech.net^$all,domain=net
 ||app-messenger-lite.com^$all
 ||app.uniswap.info-tokens.com^$all
+||aprove-confrim.000webhostapp.com^$all
 ||aptecznypunkt.pl^$all
 ||aqsati.com^$all
 ||aqxrwlfuoirt.430xxc.cn^$all
@@ -2558,6 +2559,7 @@
 ||bignamestanfree.wixsite.com^$all
 ||bigsklep.com^$all
 ||bilard.cyou^$all
+||binance.enation.cyou^$all
 ||binvesting.com^$all
 ||bioperfect.pl^$all
 ||bioslimin.pl^$all
@@ -3164,6 +3166,7 @@
 ||d2qlxn4zgetiir.cloudfront.net^$all
 ||d2qnw7npg5oug3.cloudfront.net^$all
 ||d2s6zp48dykzie.cloudfront.net^$all
+||d2sfksopfh6edq.cloudfront.net^$all
 ||d2tgi5yhwpcqun.cloudfront.net^$all
 ||d2tgmy656z2cs2.cloudfront.net^$all
 ||d2th9vamsn7cws.cloudfront.net^$all
@@ -3869,6 +3872,15 @@
 ||e-szczecin.xyz^$all
 ||e-wiadomosc24.eu^$all
 ||e-wiadomosci24.eu^$all
+||e-wyborcza24-e.cleverapps.io^$all
+||e-wyborcza24-i.cleverapps.io^$all
+||e-wyborcza24-o.cleverapps.io^$all
+||e-wyborcza24-p.cleverapps.io^$all
+||e-wyborcza24-r.cleverapps.io^$all
+||e-wyborcza24-t.cleverapps.io^$all
+||e-wyborcza24-u.cleverapps.io^$all
+||e-wyborcza24-w.cleverapps.io^$all
+||e-wyborcza24-y.cleverapps.io^$all
 ||e-wymiana.com^$all
 ||e-yourmovies.com^$all
 ||e-zaginieni.pl^$all
@@ -4422,13 +4434,17 @@
 ||helianthus.com.pl^$all
 ||helikopteri.site^$all
 ||helloworld.ddnsking.com^$all
+||help4ppl578.club^$all
+||help4ppl578.work^$all
 ||helpeachother277.cyou^$all
 ||helpeachother422.casa^$all
+||helpeachother701.work^$all
 ||helpeachothergb90.club^$all
 ||helpeachothergb975.club^$all
 ||helpeachothergb975.work^$all
 ||helpishere577.casa^$all
 ||helpishere577.club^$all
+||helpishere656.work^$all
 ||helpishere960.club^$all
 ||helpishere960.work^$all
 ||helploginn.moonfruit.com^$all
@@ -4459,6 +4475,7 @@
 ||hodowlafanaberia.pl^$all
 ||hokaoneonespeedgoat.pl^$all
 ||hokasklep.com^$all
+||holapola.xyz^$all
 ||holdittight.pl^$all
 ||hollistercopolska.pl^$all
 ||homearena.pl^$all
@@ -4575,6 +4592,7 @@
 ||infofpolska.online^$all
 ||infokrk.co.pl^$all
 ||infolokalne24.pl^$all
+||infoo2.waw.pl^$all
 ||infopodatek.net^$all
 ||inforadiogazeta.site^$all
 ||informacja24.eu^$all
@@ -4713,7 +4731,9 @@
 ||inpost-oferta.su^$all
 ||inpost-oplata.site^$all
 ||inpost-order.pl-id04381830.xyz^$all
+||inpost-order.pl-id25360115.xyz^$all
 ||inpost-order.pl-id52341838.xyz^$all
+||inpost-order.pl-id56890018.xyz^$all
 ||inpost-order.pl-id97379495.xyz^$all
 ||inpost-paczka.services^$all
 ||inpost-paczkomat.net^$all
@@ -4905,6 +4925,7 @@
 ||inpost.pl-safewallet.xyz^$all
 ||inpost.pl-safe.service-secure.cyou^$all
 ||inpost.pl-safe.service-secure.rest^$all
+||inpost.pl-safe.service-secure.space^$all
 ||inpost.pl-sendorder.cyou^$all
 ||inpost.pl-sendorder.icu^$all
 ||inpost.pl-sendorder.xyz^$all
@@ -5738,6 +5759,7 @@
 ||miraclle.site^$all
 ||miroslawklos.pl^$all
 ||miserableoverall.com^$all
+||mitamo-sklep.pl^$all
 ||mitoteam.com^$all
 ||miutro.com^$all
 ||mixiaomi.ru.com^$all
@@ -6042,6 +6064,7 @@
 ||ninatekhol.live^$all
 ||ninjavpn.xyz^$all
 ||nirotrade.com^$all
+||nitamo-sklep.pl^$all
 ||njb-gmbh.com^$all
 ||nlublin.pl^$all
 ||nniesamovitewiesci.online^$all
@@ -6531,6 +6554,7 @@
 ||olx-prywatne.waw.pl^$all
 ||olx-przesylk*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pt-security.icu^$all
+||olx-pt.mobi^$all
 ||olx-purchase.com^$all
 ||olx-p-o-land.app^$all
 ||olx-p.id877899.me^$all
@@ -7350,6 +7374,8 @@
 ||payolx53.info^$all
 ||payolx55.info^$all
 ||payolx57.info^$all
+||payolx58.info^$all
+||payolx59.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -7409,6 +7435,7 @@
 ||pensjonatsportowy.pl^$all
 ||peopeyo.net^$all
 ||people4people144.work^$all
+||people4people295.work^$all
 ||people4people488.cyou^$all
 ||peoplehere820.club^$all
 ||peoplehere820.shop^$all
@@ -8163,6 +8190,7 @@
 ||protector-web.space^$all
 ||protego-safe.me^$all
 ||protocolcashmere.com^$all
+||prove-acces.000webhostapp.com^$all
 ||prowizja24.pl^$all
 ||pruszkow2019.pl^$all
 ||prywatna-sesja.eu^$all
@@ -8542,6 +8570,7 @@
 ||server013742.nazwa.pl^$all
 ||server040373.nazwa.pl^$all
 ||server060728.nazwa.pl^$all
+||server064955.nazwa.pl^$all
 ||server078026.nazwa.pl^$all
 ||server106184.nazwa.pl^$all
 ||server120650.nazwa.pl^$all
@@ -8584,6 +8613,7 @@
 ||serwis-wiadomosci.waw.pl^$all
 ||setforconfigplease.com^$all
 ||seveninsta-lady1.com^$all
+||sewer-e-mail.yolasite.com^$all
 ||sfeamcommunity.com^$all
 ||sgb24-login.com^$all
 ||sgb24-login.org^$all
@@ -8721,6 +8751,7 @@
 ||sms-info.club^$all
 ||sms-info.it^$all
 ||sms-info.net^$all
+||sms-info.one^$all
 ||sms-info.su^$all
 ||sms-i.in^$all
 ||sms-za-darmo.pl^$all
@@ -9114,6 +9145,7 @@
 ||tobylodzisranowtvv.cyou^$all
 ||tobylowczoraj.xyz^$all
 ||tobyniczegoniezmienilo.cyou^$all
+||todayreact046.shop^$all
 ||todayreact511.casa^$all
 ||todayreact511.club^$all
 ||todayreact980.shop^$all
@@ -9216,6 +9248,7 @@
 ||trwogaca.icu^$all
 ||tryplaybest.com^$all
 ||trytofindthem520.club^$all
+||trytofindthem800.club^$all
 ||trytogoi.xyz^$all
 ||trzebasiezstegoutrzymac.cyou^$all
 ||trzebasiezztympogodzic.cyou^$all
@@ -9544,6 +9577,7 @@
 ||wexness.cc^$all
 ||wgliwicach.xyz^$all
 ||wherearethey006.cyou^$all
+||wherearethey184.club^$all
 ||whereareyou960.club^$all
 ||wherewereyou011.club^$all
 ||whiteflix.pl^$all
