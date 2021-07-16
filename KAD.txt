@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 15 Jul 2021, 21:07 UTC+02
-! Version: 2021.7.15.2
+! Last modified: Fri, 16 Jul 2021, 13:07 UTC+02
+! Version: 2021.7.16.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -481,6 +481,7 @@
 ||filmyfilmy.pl^$all
 ||filmyiseriale.pw^$all
 ||filo-shop.pl^$all
+||finansedladziecka.pl^$all
 ||fireads.online^$all
 ||fireads.pl^$all
 ||firead.org^$all
@@ -2243,6 +2244,7 @@
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl.*^$all
+||allegrolokalnie.app^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
 ||allegrolokalnie.pl-eumainpay.pw^$all
@@ -2479,6 +2481,7 @@
 ||bardziejzlooozone24.space^$all
 ||bardzoprzyddatneinfo.club^$all
 ||bardzorozniacasiepolska.website^$all
+||barralek.wixsite.com^$all
 ||baseflix.pl^$all
 ||basementremodelingchicagoil.com^$all
 ||baseny-polska.com^$all
@@ -2823,6 +2826,10 @@
 ||cda-zalukaj.pl^$all
 ||cda-zalukaj.prv.pl^$all
 ||cdctny.com^$all
+||cdek.ru-id37827583.shop^$all
+||cdek.ru-payjoin.art^$all
+||cdek.ru-payjoin.club^$all
+||cdek.ru-pays.live^$all
 ||cdgame.kgb.pl^$all
 ||cdpa.pl^$all
 ||cdsp.pl^$all
@@ -3154,6 +3161,7 @@
 ||d2et5mmtszl8y9.cloudfront.net^$all
 ||d2ex13hr728klp.cloudfront.net^$all
 ||d2ezldjvc8xkw6.cloudfront.net^$all
+||d2fesgg0nv8xwr.cloudfront.net^$all
 ||d2fie1khokihhq.cloudfront.net^$all
 ||d2gfcto407y64a.cloudfront.net^$all
 ||d2gspr8vzzzo02.cloudfront.net^$all
@@ -3170,6 +3178,7 @@
 ||d2kph87cbf2xsk.cloudfront.net^$all
 ||d2kssogjl1dooj.cloudfront.net^$all
 ||d2kts584khphv0.cloudfront.net^$all
+||d2kwx5atwuks9c.cloudfront.net^$all
 ||d2lb83ybl22jem.cloudfront.net^$all
 ||d2lg05a9nw0qzh.cloudfront.net^$all
 ||d2lia7e2uhjvv1.cloudfront.net^$all
@@ -3244,6 +3253,7 @@
 ||d3p7tmow1vleoo.cloudfront.net^$all
 ||d3pwgea0uc09ne.cloudfront.net^$all
 ||d3qlmfpotmwd31.cloudfront.net^$all
+||d3qmypk03l0gog.cloudfront.net^$all
 ||d3qo0gbc1j3voj.cloudfront.net^$all
 ||d3qpb8xyn715i4.cloudfront.net^$all
 ||d3rzloh6xv2xem.cloudfront.net^$all
@@ -4769,8 +4779,11 @@
 ||inpost-order.pl-id11873189.xyz^$all
 ||inpost-order.pl-id25360115.xyz^$all
 ||inpost-order.pl-id27837488.xyz^$all
+||inpost-order.pl-id45917677.xyz^$all
 ||inpost-order.pl-id52341838.xyz^$all
 ||inpost-order.pl-id56890018.xyz^$all
+||inpost-order.pl-id67598643.xyz^$all
+||inpost-order.pl-id92676185.xyz^$all
 ||inpost-order.pl-id96274081.xyz^$all
 ||inpost-order.pl-id97379495.xyz^$all
 ||inpost-paczka.services^$all
@@ -6040,6 +6053,7 @@
 ||netflix2021.pl^$all
 ||netflix-mail.info^$all
 ||netflix-update.platnosci.tttt-security.com^$all
+||netflix.com.co.3meseshtml.ga^$all
 ||netflix.pl.murataydeniz.com.tr^$all
 ||netflix.pl.sri-india.com^$all
 ||netflx.com.pl^$all
@@ -8213,6 +8227,7 @@
 ||prismaliquid.xyz^$all
 ||prismaliquld.xyz^$all
 ||privacy-in.us^$all
+||privatewhite.club^$all
 ||prize-opportunities.com^$all
 ||prize-program.club^$all
 ||probabday.xyz^$all
@@ -8714,6 +8729,7 @@
 ||sitepolska.turbo.site^$all
 ||siwi.com.pl^$all
 ||skandal-onet.waw.pl^$all
+||skarbowka24.com^$all
 ||skazaninabusa.pl^$all
 ||skbpolska24.net^$all
 ||skecherspl.com^$all
@@ -9120,6 +9136,7 @@
 ||teacriss-edlechs.xyz^$all
 ||teacross-edtechs.xyz^$all
 ||teacus.xyz^$all
+||teamadvertise.info^$all
 ||teamowa124.weebly.com^$all
 ||techiwant.com^$all
 ||teenagerchimney.com^$all
@@ -9149,6 +9166,7 @@
 ||teslax.shop^$all
 ||tesla-pl.website^$all
 ||tesla-polskaaa.icu^$all
+||tesl.info.longinves.xyz^$all
 ||tesssla-pl.website^$all
 ||testcompetence.pl^$all
 ||testeryperfum.fcg.org.pl^$all
@@ -9742,6 +9760,7 @@
 ||wplata-przesylka-online.live^$all
 ||wpoznaniu.xyz^$all
 ||wppgnig.pw^$all
+||wppl.yolasite.com^$all
 ||wprost-news.pl^$all
 ||wp-aplikacja.pl^$all
 ||wp-login.azurewebsites.net^$all
