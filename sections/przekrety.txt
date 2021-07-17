@@ -1,26 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
-||ankiety-tv.pl^$all
 !||torrentos.pl^$all
-||cinao.shop^$all
-||najlepszekonkursy.com^$all
-||palladiumpolska.com^$all
-||northfaceskleppl.pl^$all
-||lasportivasklep.com^$all
-||lasportivapolska.com^$all
-||geoxskleponlinepolska.com^$all
-||conversepolskapl.com^$all
-||tomsespadryle.com^$all
-||martenswyprzedaz.com^$all
-||hoganpolska.com^$all
-||filmynadzis.pl^$all
-||plbudimnewinv1pl.info^$all
-||budim1-invpl1pl.info^$all
-||trading.com^$all
-||citi-groupglobal-markets.com^$all
-||swissmarketfx.com^$all
-||finantiko.net^$all
-||mercuryo.co^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -368,6 +348,7 @@
 ||anime.flix-share.xyz^$all
 ||aniventure.co.uk^$all
 ||ankaraa.icu^$all
+||ankiety-tv.pl^$all
 ||anmcm-azmon.myvnc.com^$all
 ||annitakurier.org^$all
 ||ansdgaft.site^$all
@@ -751,6 +732,7 @@
 ||btsystemos.com^$all
 ||bud1budimexinv1new.info^$all
 ||budim1inv-new.info^$all
+||budim1-invpl1pl.info^$all
 ||budim1-plinv1.info^$all
 ||budimex1nvpl.info^$all
 ||budimex1-invpl1.info^$all
@@ -929,6 +911,7 @@
 ||ciekawkapolska.online^$all
 ||ciezkieczasy.is-best.net^$all
 ||cikelly.com^$all
+||cinao.shop^$all
 ||cinema4k.net^$all
 ||cinemaplanet.pl^$all
 ||cinematicfanatic.com^$all
@@ -936,6 +919,7 @@
 ||ciotroowl.vot.pl^$all
 ||circultural.com^$all
 ||cisie.pl^$all
+||citi-groupglobal-markets.com^$all
 ||cityvida.com^$all
 ||ck63065.tmweb.ru^$all
 ||ck78179.tmweb.ru^$all
@@ -998,6 +982,7 @@
 ||contact-update.centrum24consumer.me^$all
 ||contbox.org^$all
 ||conversebutypl.com^$all
+||conversepolskapl.com^$all
 ||cool4mob.com^$all
 ||coolboxpl2.com^$all
 ||coolboxpl.com^$all
@@ -2134,6 +2119,7 @@
 ||filmycdaonline.wordpress.com^$all
 ||filmydownload.wordpress.com^$all
 ||filmyhd4k.pl^$all
+||filmynadzis.pl^$all
 ||filmyonline.com.pl^$all
 ||filmyplus.pl^$all
 ||filmyroku.pl^$all
@@ -2159,6 +2145,7 @@
 ||financial.org^$all
 ||finansoweswiry.pl^$all
 ||finantiko.com^$all
+||finantiko.net^$all
 ||findthemnow401.club^$all
 ||findthemnow401.work^$all
 ||findthemtoday540.club^$all
@@ -2373,6 +2360,7 @@
 ||genievba.ch^$all
 ||gensminers.com^$all
 ||geogeekgis.com^$all
+||geoxskleponlinepolska.com^$all
 ||gepard.cyou^$all
 ||gerotote.vip^$all
 ||getfilesfrom.net^$all
@@ -2573,6 +2561,7 @@
 ||hlestersmith.com^$all
 ||hodime.xyz^$all
 ||hodowlafanaberia.pl^$all
+||hoganpolska.com^$all
 ||hokaoneonespeedgoat.pl^$all
 ||hokasklep.com^$all
 ||holapola.xyz^$all
@@ -3516,7 +3505,9 @@
 ||larson.store^$all
 ||lasda.xyz^$all
 ||laserpoz.com.pl^$all
+||lasportivapolska.com^$all
 ||lasportivapolska.pl^$all
+||lasportivasklep.com^$all
 ||latarkacreeledpl.com^$all
 ||latarkapowerstyle-pl.com^$all
 ||latateraz.icu^$all
@@ -3777,6 +3768,7 @@
 ||markowyperfum.pl^$all
 ||marmotpolskas.com^$all
 ||marselosq.site^$all
+||martenswyprzedaz.com^$all
 ||martynk.biz.pl^$all
 ||masac.xyz^$all
 ||mastardo.xyz^$all
@@ -3837,6 +3829,7 @@
 ||mephisto.nd.e-wro.pl^$all
 ||merch-pays.ru^$all
 ||mercuryo.co.com^$all
+||mercuryo.co^$all
 ||mergedocsnow.com^$all
 ||merrellsklepolska.com^$all
 ||mesohair.pl^$all
@@ -4035,6 +4028,7 @@
 ||nagrodyshein.pl^$all
 ||nailrr.com^$all
 ||najlepszaskutecznossc24.cyou^$all
+||najlepszekonkursy.com^$all
 ||najlepszewrozby.pl^$all
 ||najlepsze-oferty.com^$all
 ||najlepsze-okazje2021.pl^$all
@@ -4198,6 +4192,7 @@
 ||noozyled.com^$all
 ||nordic16.com^$all
 ||norisha.pl^$all
+||northfaceskleppl.pl^$all
 ||nosnore-pl.com^$all
 ||noteks.xyz^$all
 ||notowanie-szczescie.eu^$all
@@ -4557,6 +4552,7 @@
 ||olx-order.pl-id34848308.xyz^$all
 ||olx-order.pl-id34878042.xyz^$all
 ||olx-order.pl-id42877746.xyz^$all
+||olx-order.pl-id47391675.xyz^$all
 ||olx-order.pl-id52341838.xyz^$all
 ||olx-order.pl-id59162782.xyz^$all
 ||olx-order.pl-id77770656.xyz^$all
@@ -5300,6 +5296,7 @@
 ||pakunek.xyz^$all
 ||palazzi.store^$all
 ||palenate.com^$all
+||palladiumpolska.com^$all
 ||palmera-pl.com^$all
 ||palmera.pl^$all
 ||paloki-pl.com^$all
@@ -5314,8 +5311,10 @@
 ||papajohnspl.guru^$all
 ||papillor-original.com^$all
 ||papuga.cyou^$all
+||paqu24.org^$all
 ||parafia-kosciola.waw.pl^$all
 ||parcelcredit.com^$all
+||parcel.gjbx346t33h972c.20design.org^$all
 ||parcel.k7uz6lobkb7jhmu.galexar.com^$all
 ||parcel.m2604c11v3vypup.amirbartehran.com^$all
 ||parcel.qzyz3dzq80rzbl3.amin-sharifi.ir^$all
@@ -5737,6 +5736,7 @@
 ||play-sklep.net^$all
 ||play-vod.pl^$all
 ||plbudim1inv.info^$all
+||plbudimnewinv1pl.info^$all
 ||plcalyfilm.over-blog.com^$all
 ||plcnvz.weebly.com^$all
 ||plc-68630294.hgps.ie^$all
@@ -7150,6 +7150,7 @@
 ||swiftinglight.xyz^$all
 ||swingmarketscfd.com^$all
 ||swinka-morska.waw.pl^$all
+||swissmarketfx.com^$all
 ||swissmarket.net^$all
 ||syds588.cn^$all
 ||systemchlodzeniamglapl.com^$all
@@ -7325,6 +7326,7 @@
 ||tommyhilfigerpl.com^$all
 ||tomojaszansanazzycie.cyou^$all
 ||tomorrowcrypto.vip^$all
+||tomsespadryle.com^$all
 ||tomypolacy.online^$all
 ||tonapewnowyjdzie.space^$all
 ||tonicnoweego.online^$all
@@ -7366,6 +7368,7 @@
 ||tradesboost.net^$all
 ||trade-labs.com^$all
 ||trade-olx.pl^$all
+||trading.com^$all
 ||trafflds.com^$all
 ||trafisz.com^$all
 ||tragediawmoimmiescie.site^$all
@@ -8188,14 +8191,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||ednagroup.xyz^$all
-||inpost.pl.secure-service.club^$all
-||inpost.pl.secure-service.shop^$all
-||inpost.pl.secure-service.space^$all
-||olx-order.pl-id47391675.xyz^$all
-||olx-pl.safe-orders.icu^$all
-||paqu24.org^$all
-||parcel.gjbx346t33h972c.20design.org^$all
-||renegry.xyz^$all
-||repolsk.xyz^$all
-||secure-service.xyz^$all
