@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 18 Jul 2021, 13:07 UTC+02
-! Version: 2021.7.18.0
+! Last modified: Sun, 18 Jul 2021, 17:08 UTC+02
+! Version: 2021.7.18.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4823,6 +4823,7 @@
 ||inpost-order.pl-id24634297.xyz^$all
 ||inpost-order.pl-id25360115.xyz^$all
 ||inpost-order.pl-id27837488.xyz^$all
+||inpost-order.pl-id32043826.xyz^$all
 ||inpost-order.pl-id34848308.xyz^$all
 ||inpost-order.pl-id45917677.xyz^$all
 ||inpost-order.pl-id52341838.xyz^$all
@@ -6548,11 +6549,13 @@
 ||olx-oplata.org^$all
 ||olx-order.com^$all
 ||olx-order.pl-id04381830.xyz^$all
+||olx-order.pl-id12192231.xyz^$all
 ||olx-order.pl-id16044155.xyz^$all
 ||olx-order.pl-id19932972.xyz^$all
 ||olx-order.pl-id21512257.xyz^$all
 ||olx-order.pl-id27837488.xyz^$all
 ||olx-order.pl-id31714014.xyz^$all
+||olx-order.pl-id32043826.xyz^$all
 ||olx-order.pl-id34848308.xyz^$all
 ||olx-order.pl-id34878042.xyz^$all
 ||olx-order.pl-id42877746.xyz^$all
@@ -9040,6 +9043,7 @@
 ||steamcommnunitly.com^$all
 ||steamcommunjty.com^$all
 ||steamcommunytu.ru^$all
+||steamcommunyty.com^$all
 ||steamcomnenity.ru.com^$all
 ||steamcomunjty.com^$all
 ||steamcomunnjty.com^$all
@@ -9443,6 +9447,7 @@
 ||tvn-24.pisz.pl^$all
 ||tvn-24.waw.pl^$all
 ||tvn-uwaga.pl^$all
+||tvoyagrupa.xyz^$all
 ||tvpinfo.net.pl^$all
 ||tvpinfo.waw.pl^$all
 ||tvp-informacyjna*.eu^$all
