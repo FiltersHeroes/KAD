@@ -1,7 +1,5 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
-||kitlambert.com^$all
-||suaposales.com^$all
 !||torrentos.pl^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
@@ -3328,6 +3326,7 @@
 ||kino-cda.pl^$all
 ||kino-filmy.pl^$all
 ||kirstenbijlsma.com^$all
+||kitlambert.com^$all
 ||kjdielrv.tde61ha.cn^$all
 ||kjopjpoerhrhe.001www.com^$all
 ||kladowa.xyz^$all
@@ -4532,11 +4531,13 @@
 ||olx-online.pl^$all
 ||olx-oplata.org^$all
 ||olx-order.com^$all
+||olx-order.pl-id01989664.xyz^$all
 ||olx-order.pl-id04381830.xyz^$all
 ||olx-order.pl-id12192231.xyz^$all
 ||olx-order.pl-id16044155.xyz^$all
 ||olx-order.pl-id19932972.xyz^$all
 ||olx-order.pl-id21512257.xyz^$all
+||olx-order.pl-id26387747.xyz^$all
 ||olx-order.pl-id27837488.xyz^$all
 ||olx-order.pl-id31714014.xyz^$all
 ||olx-order.pl-id32043826.xyz^$all
@@ -4548,6 +4549,7 @@
 ||olx-order.pl-id52341838.xyz^$all
 ||olx-order.pl-id59162782.xyz^$all
 ||olx-order.pl-id77770656.xyz^$all
+||olx-order.pl-id90137943.xyz^$all
 ||olx-order.pl-id92981297.xyz^$all
 ||olx-order.pl-id95025999.xyz^$all
 ||olx-order.pl-id96274081.xyz^$all
@@ -7030,6 +7032,7 @@
 ||steam-wallet-gifts.com^$all
 ||steam-wallet-money.com^$all
 ||steanccmmunity.com^$all
+||steancommunytiu.ru^$all
 ||steancomunnity.ru^$all
 ||steannconnmunity.com^$all
 ||steannconnnunity.com^$all
@@ -7060,6 +7063,7 @@
 ||streamcommunely.com^$all
 ||streamcommunitty.ru.com^$all
 ||streamcomunniti.ru^$all
+||streamcormnmunity.ru.com^$all
 ||streamcornmuninty.me^$all
 ||streamimovies.com^$all
 ||streamwatch.pro^$all
@@ -7079,6 +7083,7 @@
 ||studiofiguralodz.pl^$all
 ||studiofryzurroza.pl^$all
 ||studiopomyslow.com.pl^$all
+||suaposales.com^$all
 ||sub3.blocked-site-hole-cert.pl^$all
 ||subtim-outlook.com^$all
 ||subtletg.com^$all
@@ -8167,8 +8172,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||olx-order.pl-id01989664.xyz^$all
-||olx-order.pl-id26387747.xyz^$all
-||olx-order.pl-id90137943.xyz^$all
-||steancommunytiu.ru^$all
-||streamcormnmunity.ru.com^$all
