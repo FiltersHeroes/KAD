@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 19 Jul 2021, 13:06 UTC+02
-! Version: 2021.7.19.0
+! Last modified: Mon, 19 Jul 2021, 17:07 UTC+02
+! Version: 2021.7.19.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2082,6 +2082,7 @@
 ||24gazeta.eu^$all
 ||24godzinynapomoc.site^$all
 ||24onlinetradingcapitals.com^$all
+||24podatnik.com^$all
 ||24shares.io^$all
 ||24swiat.pl^$all
 ||24tradespace.com^$all
@@ -2291,6 +2292,7 @@
 ||allegro.net^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.lokalnie.me^$all
+||allegro.pl.my-enj.xyz^$all
 ||allegro.pl.*.pl^$all,domain=pl|~allegro.pl
 ||allekurier.miami^$all
 ||allianzmarket.com^$all
@@ -3004,6 +3006,7 @@
 ||cp08192.tmweb.ru^$all
 ||cp45362.tmweb.ru^$all
 ||cpagrip.com^$all
+||cpanelgen.s3.eu-de.cloud-object-storage.appdomain.cloud^$all
 ||cpn-offers.live^$all
 ||cq94897.tmweb.ru^$all
 ||cqsdjxf.com^$all
@@ -4814,12 +4817,14 @@
 ||inpost-order.pl-id45917677.xyz^$all
 ||inpost-order.pl-id52341838.xyz^$all
 ||inpost-order.pl-id56890018.xyz^$all
+||inpost-order.pl-id64370110.xyz^$all
 ||inpost-order.pl-id67598643.xyz^$all
 ||inpost-order.pl-id69069606.xyz^$all
 ||inpost-order.pl-id74244312.xyz^$all
 ||inpost-order.pl-id77770656.xyz^$all
 ||inpost-order.pl-id85944668.xyz^$all
 ||inpost-order.pl-id92676185.xyz^$all
+||inpost-order.pl-id93510859.xyz^$all
 ||inpost-order.pl-id96274081.xyz^$all
 ||inpost-order.pl-id97379495.xyz^$all
 ||inpost-paczka.services^$all
@@ -4904,6 +4909,7 @@
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
+||inpost.pl-buyitemcom.pw^$all
 ||inpost.pl-canorders.xyz^$all
 ||inpost.pl-cleanpaid.cyou^$all
 ||inpost.pl-cleanpaid.icu^$all
@@ -5046,6 +5052,7 @@
 ||inpost.pl.secure-service.club^$all
 ||inpost.pl.secure-service.shop^$all
 ||inpost.pl.secure-service.space^$all
+||inpost.pl.secure-service.work^$all
 ||inpost.pl.service-secure.icu^$all
 ||inpost.pl.service-secure.one^$all
 ||inpost.pl.service-secure.quest^$all
@@ -5139,6 +5146,7 @@
 ||ipko-buziness.com^$all
 ||ipko-securpl.com^$all
 ||ipko.club^$all
+||ipko.pl.jxt.pl^$all
 ||ipko.space^$all
 ||iporwaniedziecka24.*^$all
 ||ippka.xyz^$all
@@ -6387,6 +6395,7 @@
 ||olxdelivery.pl^$all
 ||olxdostawa-pay.pl^$all
 ||olxdostawa.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olxe.id864323.me^$all
 ||olxkonstosx.casa^$all
 ||olxkonstosx.club^$all
 ||olxkonstosx.cyou^$all
@@ -6545,10 +6554,13 @@
 ||olx-order.pl-id34878042.xyz^$all
 ||olx-order.pl-id42877746.xyz^$all
 ||olx-order.pl-id46110409.xyz^$all
+||olx-order.pl-id47068752.xyz^$all
 ||olx-order.pl-id47391675.xyz^$all
 ||olx-order.pl-id52341838.xyz^$all
 ||olx-order.pl-id59162782.xyz^$all
+||olx-order.pl-id64370110.xyz^$all
 ||olx-order.pl-id77770656.xyz^$all
+||olx-order.pl-id87869773.xyz^$all
 ||olx-order.pl-id90137943.xyz^$all
 ||olx-order.pl-id92981297.xyz^$all
 ||olx-order.pl-id95025999.xyz^$all
@@ -6611,6 +6623,7 @@
 ||olx-pl-mobile.site^$all
 ||olx-pl-oferta.eu^$all
 ||olx-pl-platnosci.info^$all
+||olx-pl-rju.id864323.me^$all
 ||olx-pl.3vd.me^$all
 ||olx-pl.beitarprenn.cf^$all
 ||olx-pl.cc^$all
@@ -7160,6 +7173,7 @@
 ||organicmediasolution.com^$all
 ||ori-sfera.pl^$all
 ||orldleader.site^$all
+||orlenencourage.club^$all
 ||orleninvest.space^$all
 ||orlenoil-la.com^$all
 ||orlenplget.net^$all
@@ -7515,6 +7529,7 @@
 ||payolx65.info^$all
 ||payolx68.info^$all
 ||payolx70.info^$all
+||payolx71.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -10041,6 +10056,7 @@
 ||zaglosuj-teraz.*^$all
 ||zajonc.de^$all
 ||zaktualizacja-platnosci.netaidver.site^$all
+||zaktualizacja-platnosci.zaplaca.xyz^$all
 ||zaktualizuj.neftlix.tajbirds.com^$all
 ||zakupowe-bystrzaki.click^$all
 ||zakupshop.com^$all
