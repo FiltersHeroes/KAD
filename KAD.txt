@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 20 Jul 2021, 13:07 UTC+02
-! Version: 2021.7.20.0
+! Last modified: Tue, 20 Jul 2021, 17:07 UTC+02
+! Version: 2021.7.20.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2249,6 +2249,7 @@
 ||allegrolokalnie.app^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
+||allegrolokalnie.one^$all
 ||allegrolokalnie.pl-eumainpay.pw^$all
 ||allegrolokalnie.pl-itemspays.pw^$all
 ||allegrolokalnie.pl-transbuycom.pw^$all
@@ -2607,6 +2608,7 @@
 ||bitcoinsunrise.com^$all
 ||bitcoins-era.io^$all
 ||bitcoins-profit.com^$all
+||bitcointime.pw^$all
 ||bitcointime.tech^$all
 ||bitcointime.website^$all
 ||bitcointime.xyz^$all
@@ -3102,6 +3104,7 @@
 ||d1b42iaez29svr.cloudfront.net^$all
 ||d1biit4cku48wr.cloudfront.net^$all
 ||d1bjykadrg7xuk.cloudfront.net^$all
+||d1bovcu72i6j7w.cloudfront.net^$all
 ||d1br5o2o5fy668.cloudfront.net^$all
 ||d1ca0ybissqy5r.cloudfront.net^$all
 ||d1dgm85un8b0i2.cloudfront.net^$all
@@ -3124,6 +3127,7 @@
 ||d1l3pdlyie02ey.cloudfront.net^$all
 ||d1l875ujvjbvs5.cloudfront.net^$all
 ||d1lyagb9sxnnqj.cloudfront.net^$all
+||d1njxks00rdpjs.cloudfront.net^$all
 ||d1nrc70vcbb0d6.cloudfront.net^$all
 ||d1of11q7gtqib1.cloudfront.net^$all
 ||d1ogtekyfob10l.cloudfront.net^$all
@@ -3682,6 +3686,7 @@
 ||dpd-ap.id-3828883.me^$all
 ||dpd-c.fastexpress.shop^$all
 ||dpd-e.id-4989980.me^$all
+||dpd-h.id-54683.me^$all
 ||dpd-i.id458759.me^$all
 ||dpd-k.dostawa-official.me^$all
 ||dpd-m.id847363.me^$all
@@ -3873,6 +3878,7 @@
 ||european-news.org^$all
 ||eurosprinthiker.pl^$all
 ||eu-markets.co^$all
+||eu-pl.poland-pro-one.site^$all
 ||eu-roblox.com^$all
 ||eu-wysylkowo.online^$all
 ||eu.nextah.com^$all
@@ -4134,6 +4140,7 @@
 ||finalowebiznes24.space^$all
 ||financesucceed.webador.com^$all
 ||financexbt.net^$all
+||finance-lotos.website^$all
 ||financialmarketsworld.com^$all
 ||financial-times-appp.github.io^$all
 ||financial.org^$all
@@ -5019,6 +5026,7 @@
 ||inpost.pl-safeshop.work^$all
 ||inpost.pl-safety.club^$all
 ||inpost.pl-safety.live^$all
+||inpost.pl-safety.secure-service.website^$all
 ||inpost.pl-safety.service-secure.cyou^$all
 ||inpost.pl-safety.service-secure.one^$all
 ||inpost.pl-safety.service-secure.quest^$all
@@ -5665,6 +5673,9 @@
 ||lotosinvest.info^$all
 ||lotospl.website^$all
 ||lotosqw.info^$all
+||lotoss1-pl.site^$all
+||lotoss-pl.site^$all
+||lotoss-projekt-pl.site^$all
 ||lotos-d.site^$all
 ||lotos-grupa.online^$all
 ||lotos-grupa.site^$all
@@ -5675,6 +5686,8 @@
 ||lotos-pl.online^$all
 ||lotos-polan.site^$all
 ||lotos-polsk.site^$all
+||lotos-projekt1-pl.site^$all
+||lotos-projekt-pl.site^$all
 ||lotos-p.site^$all
 ||lot-pl.website^$all
 ||loudmatch.com^$all
@@ -6560,6 +6573,7 @@
 ||olx-order.pl-id04381830.xyz^$all
 ||olx-order.pl-id12192231.xyz^$all
 ||olx-order.pl-id16044155.xyz^$all
+||olx-order.pl-id19744089.xyz^$all
 ||olx-order.pl-id19932972.xyz^$all
 ||olx-order.pl-id21512257.xyz^$all
 ||olx-order.pl-id26387747.xyz^$all
@@ -6583,6 +6597,7 @@
 ||olx-order.pl-id95025999.xyz^$all
 ||olx-order.pl-id95068622.xyz^$all
 ||olx-order.pl-id96274081.xyz^$all
+||olx-order.pl-id96310001.xyz^$all
 ||olx-order.pl^$all
 ||olx-paczka.pl^$all
 ||olx-paycore.biz^$all
@@ -7278,6 +7293,7 @@
 ||paczkiups.com^$all
 ||paczkkaups.com^$all
 ||paczkmat.net^$all
+||paczknups.com^$all
 ||paczkodpd.com^$all
 ||paczkomat24pl.fun^$all
 ||paczkomat24.com^$all
@@ -7813,6 +7829,7 @@
 ||plus-iidl.com^$all
 ||plynzpradem.online^$all
 ||plytanagrillapl.com^$all
+||pl-1.pattern-like.xyz^$all
 ||pl-bankinvest.surge.sh^$all
 ||pl-budim1invpl.info^$all
 ||pl-budimex1-inv.info^$all
@@ -7856,6 +7873,9 @@
 ||pl-konto.mobi^$all
 ||pl-linkedin.security-online.pt^$all
 ||pl-livemoney.xyz^$all
+||pl-lotoss1.site^$all
+||pl-lotosss.site^$all
+||pl-lotoss.site^$all
 ||pl-lotos.info^$all
 ||pl-lotos.site^$all
 ||pl-lotus.info^$all
@@ -8233,6 +8253,7 @@
 ||portalowo.zagan.pl^$all
 ||portalwiadomosci.eu^$all
 ||portalwiadomosci.pl^$all
+||portal-logestablish.web.app^$all
 ||portfelgeniusza.com^$all
 ||porwaniadzieci*.*^$all
 ||porwania.pl^$all
@@ -9150,6 +9171,7 @@
 ||supermakler.at^$all
 ||supermocna-tasma-klejaca-pl.com^$all
 ||superoferta.store^$all
+||superpozhta.online^$all
 ||superserwisy.pl^$all
 ||superzebra.pl^$all
 ||super-makler-online.cloud^$all
