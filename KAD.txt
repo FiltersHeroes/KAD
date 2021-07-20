@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 19 Jul 2021, 21:07 UTC+02
-! Version: 2021.7.19.2
+! Last modified: Tue, 20 Jul 2021, 13:07 UTC+02
+! Version: 2021.7.20.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2130,6 +2130,7 @@
 ||abcdietz.com^$all
 ||abc.amaretto.xja.pl^$all
 ||abomfartrdsgdf.webcindario.com^$all
+||aboutk-24.me^$all
 ||absolutezeros.duckdns.org^$all
 ||abstractway.top^$all
 ||acceuil-serviceclient.com^$all
@@ -4823,15 +4824,19 @@
 ||inpost-order.pl-id34848308.xyz^$all
 ||inpost-order.pl-id45917677.xyz^$all
 ||inpost-order.pl-id52341838.xyz^$all
+||inpost-order.pl-id56644415.xyz^$all
 ||inpost-order.pl-id56890018.xyz^$all
 ||inpost-order.pl-id64370110.xyz^$all
 ||inpost-order.pl-id67598643.xyz^$all
 ||inpost-order.pl-id69069606.xyz^$all
 ||inpost-order.pl-id74244312.xyz^$all
 ||inpost-order.pl-id77770656.xyz^$all
+||inpost-order.pl-id78418770.xyz^$all
 ||inpost-order.pl-id85944668.xyz^$all
 ||inpost-order.pl-id92676185.xyz^$all
+||inpost-order.pl-id92678245.xyz^$all
 ||inpost-order.pl-id93510859.xyz^$all
+||inpost-order.pl-id95068622.xyz^$all
 ||inpost-order.pl-id96274081.xyz^$all
 ||inpost-order.pl-id97379495.xyz^$all
 ||inpost-paczka.services^$all
@@ -5026,6 +5031,7 @@
 ||inpost.pl-safewallet.icu^$all
 ||inpost.pl-safewallet.xyz^$all
 ||inpost.pl-safe.secure-service.space^$all
+||inpost.pl-safe.secure-service.website^$all
 ||inpost.pl-safe.service-secure.cyou^$all
 ||inpost.pl-safe.service-secure.rest^$all
 ||inpost.pl-safe.service-secure.space^$all
@@ -5730,6 +5736,7 @@
 ||mail-food-id.000webhostapp.com^$all
 ||mail-loginui.website.yandexcloud.net^$all
 ||mail.inpost.cam^$all
+||mail.wainvcom.duckdns.org^$all
 ||makanaliabadian.ir^$all
 ||make-by-yourown.com^$all
 ||malgorzata423.pl^$all
@@ -6574,6 +6581,7 @@
 ||olx-order.pl-id90137943.xyz^$all
 ||olx-order.pl-id92981297.xyz^$all
 ||olx-order.pl-id95025999.xyz^$all
+||olx-order.pl-id95068622.xyz^$all
 ||olx-order.pl-id96274081.xyz^$all
 ||olx-order.pl^$all
 ||olx-paczka.pl^$all
@@ -6930,6 +6938,7 @@
 ||olx.pl-payexpress.cyou^$all
 ||olx.pl-payexpress.icu^$all
 ||olx.pl-payexpress.xyz^$all
+||olx.pl-payforit.pw^$all
 ||olx.pl-paygo.icu^$all
 ||olx.pl-paygo.work^$all
 ||olx.pl-paysexpress.cyou^$all
