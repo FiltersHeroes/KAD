@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 21 Jul 2021, 13:07 UTC+02
-! Version: 2021.7.21.0
+! Last modified: Wed, 21 Jul 2021, 17:08 UTC+02
+! Version: 2021.7.21.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2209,6 +2209,7 @@
 ||aktienboard.com^$all
 ||aktpl.com^$all
 ||aktualizacjanetlfix.ahlalbeit.net^$all
+||aktualizacja-platnosci.netafixsupp.live^$all
 ||aktualizacja.jst.pl^$all
 ||aktywnezycie.com.pl^$all
 ||alabaster-steel-hawthorn.glitch.me^$all
@@ -2456,6 +2457,7 @@
 ||axd-watter.xyz^$all
 ||axes.co^$all
 ||azawebspace.com^$all
+||a-inpost.id-76565.me^$all
 ||b2work.pl^$all
 ||b17-sklep.pl^$all
 ||b24-m8zer1.bitrix24.site^$all
@@ -2643,6 +2645,7 @@
 ||biznesplanet-parlbabnp.com^$all
 ||biznesplanet-parlba.cloud^$all
 ||biznes-24.waw.pl^$all
+||blablacar-de.pays-forms.info^$all
 ||blablacar-pay.cc^$all
 ||blablacar.media^$all
 ||blablacar.m-3ds.casa^$all
@@ -4153,6 +4156,7 @@
 ||finansoweswiry.pl^$all
 ||finantiko.com^$all
 ||finantiko.net^$all
+||findmy.iive-info.icu^$all
 ||findthemnow401.club^$all
 ||findthemnow401.work^$all
 ||findthemtoday540.club^$all
@@ -4259,6 +4263,7 @@
 ||fxpoint.co^$all
 ||fxtime.io^$all
 ||fygoko.avesnsk.ru^$all
+||f-inpost.id-76565.me^$all
 ||g0oo.me^$all
 ||g0oo.net^$all
 ||g0o.cc^$all
@@ -4829,6 +4834,7 @@
 ||inpost-order.pl-id10834195.xyz^$all
 ||inpost-order.pl-id11873189.xyz^$all
 ||inpost-order.pl-id14144075.xyz^$all
+||inpost-order.pl-id21400206.xyz^$all
 ||inpost-order.pl-id24634297.xyz^$all
 ||inpost-order.pl-id25360115.xyz^$all
 ||inpost-order.pl-id27837488.xyz^$all
@@ -4849,6 +4855,7 @@
 ||inpost-order.pl-id92676185.xyz^$all
 ||inpost-order.pl-id92678245.xyz^$all
 ||inpost-order.pl-id93510859.xyz^$all
+||inpost-order.pl-id93589990.xyz^$all
 ||inpost-order.pl-id95068622.xyz^$all
 ||inpost-order.pl-id96274081.xyz^$all
 ||inpost-order.pl-id97379495.xyz^$all
@@ -5068,6 +5075,7 @@
 ||inpost.pl-wellpay.work^$all
 ||inpost.pl-wellpay.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
+||inpost.pl.buyforbuyit.pw^$all
 ||inpost.pl.buytaisetem.site^$all
 ||inpost.pl.buytrans.pw^$all
 ||inpost.pl.compayforitem.pw^$all
@@ -5694,7 +5702,10 @@
 ||lotos-polan.site^$all
 ||lotos-polsk.site^$all
 ||lotos-projekt1-pl.site^$all
+||lotos-projekt1.site^$all
 ||lotos-projekt-pl.site^$all
+||lotos-projekt.site^$all
+||lotos-projjekt.site^$all
 ||lotos-p.site^$all
 ||lot-pl.website^$all
 ||loudmatch.com^$all
@@ -6535,6 +6546,7 @@
 ||olx-dostawk.pl^$all
 ||olx-dostaw.pl^$all
 ||olx-d.fastexpress.shop^$all
+||olx-d.id-76565.me^$all
 ||olx-d.org^$all
 ||olx-d.pl^$all
 ||olx-epayment.com^$all
@@ -6581,6 +6593,7 @@
 ||olx-order.pl-id04381830.xyz^$all
 ||olx-order.pl-id06396225.xyz^$all
 ||olx-order.pl-id12192231.xyz^$all
+||olx-order.pl-id14873912.xyz^$all
 ||olx-order.pl-id16044155.xyz^$all
 ||olx-order.pl-id19744089.xyz^$all
 ||olx-order.pl-id19932972.xyz^$all
@@ -6601,6 +6614,7 @@
 ||olx-order.pl-id64370110.xyz^$all
 ||olx-order.pl-id77770656.xyz^$all
 ||olx-order.pl-id87869773.xyz^$all
+||olx-order.pl-id87950259.xyz^$all
 ||olx-order.pl-id90137943.xyz^$all
 ||olx-order.pl-id90227911.xyz^$all
 ||olx-order.pl-id92981297.xyz^$all
@@ -6963,6 +6977,7 @@
 ||olx.pl-payexpress.cyou^$all
 ||olx.pl-payexpress.icu^$all
 ||olx.pl-payexpress.xyz^$all
+||olx.pl-payforitcom.site^$all
 ||olx.pl-payforit.pw^$all
 ||olx.pl-paygo.icu^$all
 ||olx.pl-paygo.work^$all
@@ -7049,6 +7064,7 @@
 ||olx.pl-wyjazd.site^$all
 ||olx.pl-zamawienie.shop^$all
 ||olx.pl-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx.pl.buyfarikolbuyit.pw^$all
 ||olx.pl.fastpayments.in^$all
 ||olx.pl.itemcheck-gn.pw^$all
 ||olx.pl.payfastemmcom.site^$all
@@ -8042,6 +8058,7 @@
 ||poczta-login-neostrada.com^$all
 ||poczta-mobile.pl^$all
 ||poczta-o2.pl^$all
+||poczta-order.pl-id14873912.xyz^$all
 ||poczta-order.pl-id34848308.xyz^$all
 ||poczta-polska-pl.us^$all
 ||poczta-polska.eu^$all
@@ -8161,6 +8178,7 @@
 ||polskapoczta-ploskt.ownoffferta.casa^$all
 ||polskapoczta-ploskt.ownoffferta.cc^$all
 ||polskapoczta-ploskt.ownoffferta.cyou^$all
+||polskapoczta-pl-lik.id-76565.me^$all
 ||polskapoczta-pl.polska24-dostawa24.shop^$all
 ||polskapoczta.dostawa24-fun.club^$all
 ||polskapoczta.dostawa24-fun.digital^$all
@@ -8497,6 +8515,7 @@
 ||quliq.xyz^$all
 ||quotex.io^$all
 ||qweasdzxcrty.vdl.pl^$all
+||q-olx.id-76565.me^$all
 ||r3gnow.wixsite.com^$all
 ||rabat24.store^$all
 ||rabat500.com^$all
@@ -8792,6 +8811,7 @@
 ||server120650.nazwa.pl^$all
 ||server164018.nazwa.pl^$all
 ||server182801.nazwa.pl^$all
+||server194237.nazwa.pl^$all
 ||server252119.nazwa.pl^$all
 ||server292369.nazwa.pl^$all
 ||server296055.nazwa.pl^$all
@@ -8949,6 +8969,8 @@
 ||sms1.pw^$all
 ||sms1.site^$all
 ||sms1.world^$all
+||sms2.pw^$all
+||sms3.pw^$all
 ||smscc.in^$all
 ||smsee.in^$all
 ||smsiaki.eu^$all
@@ -9086,6 +9108,7 @@
 ||star-m.shop^$all
 ||stational-danger.000webhostapp.com^$all
 ||status24.5p.pl^$all
+||statusplat.pl^$all
 ||status.xn.pl^$all
 ||steamcammunity.com^$all
 ||steamcammunnity.ru.com^$all
