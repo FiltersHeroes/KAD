@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 22 Jul 2021, 17:08 UTC+02
-! Version: 2021.7.22.1
+! Last modified: Thu, 22 Jul 2021, 21:07 UTC+02
+! Version: 2021.7.22.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2021,6 +2021,7 @@
 |http*://*/fb-login/$document,domain=~facebook.com
 |http://chomikuj.pl^$document,domain=chomikuj.pl|~zalecane-polaczenie-szyfrowane-https
 ||0b8cc331813049912.temporary.link^$all
+||00ckpr.cn^$all
 ||0lx.group^$all
 ||0pen.page^$all
 ||0r1en.bigbosspl.site^$all
@@ -2028,7 +2029,9 @@
 ||0sms.pw^$all
 ||0sms.xyz^$all
 ||00x.eu^$all
+||0zw22yu.cn^$all
 ||1btcnews.buzz^$all
+||1e332ns.cn^$all
 ||1inv-budimpl.info^$all
 ||1k-daily-profitz.com^$all
 ||1mpost.net^$all
@@ -4033,6 +4036,7 @@
 ||fakturo-wnia.ml^$all
 ||fakty24gazeta.pl^$all
 ||fakty24h.eu^$all
+||fakty24online.pl^$all
 ||fakty24zaginiony.eu^$all
 ||fakty24-gdansk.pl^$all
 ||fakty24-gdynia.pl^$all
@@ -4165,6 +4169,7 @@
 ||finalowebiznes24.space^$all
 ||financesucceed.webador.com^$all
 ||financexbt.net^$all
+||finance-eu.info^$all
 ||finance-lotos.website^$all
 ||financialmarketsworld.com^$all
 ||financial-times-appp.github.io^$all
@@ -4982,6 +4987,7 @@
 ||inpost.pl-cloudorders.icu^$all
 ||inpost.pl-cloudsorder.cyou^$all
 ||inpost.pl-cloudsorder.icu^$all
+||inpost.pl-compaybuy.pw^$all
 ||inpost.pl-comtranspay.pw^$all
 ||inpost.pl-cyberget.service-secure.cyou^$all
 ||inpost.pl-cybersec.service-secure.cyou^$all
