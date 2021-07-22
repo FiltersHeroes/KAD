@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 22 Jul 2021, 13:07 UTC+02
-! Version: 2021.7.22.0
+! Last modified: Thu, 22 Jul 2021, 17:08 UTC+02
+! Version: 2021.7.22.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -594,6 +594,7 @@
 ||hejmosie.com^$all
 ||henhaokanq.com^$all
 ||herbalife.pl^$all
+||heshoppolska.pl^$all
 ||hibids10.com^$all
 ||hilfigerpl.com^$all
 ||historiajestkobieta.pl^$all
@@ -2025,6 +2026,7 @@
 ||0r1en.bigbosspl.site^$all
 ||0sms.in^$all
 ||0sms.pw^$all
+||0sms.xyz^$all
 ||00x.eu^$all
 ||1btcnews.buzz^$all
 ||1inv-budimpl.info^$all
@@ -2213,6 +2215,8 @@
 ||aktualizacjanetlfix.ahlalbeit.net^$all
 ||aktualizacja-platnosci.netafixsupp.live^$all
 ||aktualizacja-platnosci.netafix-pl.one^$all
+||aktualizacja-platnosci.netafix-pl.sbs^$all
+||aktualizacja-platnosci.netafix-pl.store^$all
 ||aktualizacja.jst.pl^$all
 ||aktywnezycie.com.pl^$all
 ||alabaster-steel-hawthorn.glitch.me^$all
@@ -2557,6 +2561,7 @@
 ||bezpieczne-zakupy.name^$all
 ||bezpieczny-delivery-pl.com^$all
 ||bezpieczny-delivery.pl^$all
+||bezpieczny-dostawa.org^$all
 ||bezpieczny-zakup.info^$all
 ||bezpieczny-zakup.name^$all
 ||bezpieczny-zakup.net^$all
@@ -3899,7 +3904,9 @@
 ||eu-pl.poland-pro-one.site^$all
 ||eu-roblox.com^$all
 ||eu-wysylkowo.online^$all
+||eu.adyen.link^$all
 ||eu.nextah.com^$all
+||eu.syst-inf.xyz^$all
 ||evaave12.nazwa.pl^$all
 ||evaksin.com^$all
 ||evekurier.org^$all
@@ -4584,6 +4591,7 @@
 ||hokaoneonespeedgoat.pl^$all
 ||hokasklep.com^$all
 ||holapola.xyz^$all
+||holdbox.org^$all
 ||holdittight.pl^$all
 ||hollistercopolska.pl^$all
 ||homearena.pl^$all
@@ -4702,6 +4710,7 @@
 ||infopodatek.net^$all
 ||inforadiogazeta.site^$all
 ||informacja24.eu^$all
+||informacja.cc^$all
 ||informacja.club^$all
 ||informacje3.waw.pl^$all
 ||informacje24-alert.eu^$all
@@ -4869,8 +4878,10 @@
 ||inpost-order.pl-id93510859.xyz^$all
 ||inpost-order.pl-id93589990.xyz^$all
 ||inpost-order.pl-id95068622.xyz^$all
+||inpost-order.pl-id95629417.xyz^$all
 ||inpost-order.pl-id96274081.xyz^$all
 ||inpost-order.pl-id97379495.xyz^$all
+||inpost-o.id-76565.me^$all
 ||inpost-paczka.services^$all
 ||inpost-paczkomat.net^$all
 ||inpost-payouts.site^$all
@@ -5221,6 +5232,7 @@
 ||istrefa.net^$all
 ||itdept.moonfruit.com^$all
 ||itorrenty.org^$all
+||itselforlen.website^$all
 ||iverifyids.pl^$all
 ||iwiz-dom.com^$all
 ||iyeuryetts.firebaseapp.com^$all
@@ -6602,6 +6614,7 @@
 ||olx-nd.spredaz-online.club^$all
 ||olx-nd.spredaz-online.one^$all
 ||olx-n.pl^$all
+||olx-oferta-pl.com^$all
 ||olx-oferta.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-offerta.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-online.pl^$all
@@ -6610,8 +6623,10 @@
 ||olx-order.pl-id00358069.xyz^$all
 ||olx-order.pl-id00437633.xyz^$all
 ||olx-order.pl-id01989664.xyz^$all
+||olx-order.pl-id02215574.xyz^$all
 ||olx-order.pl-id04381830.xyz^$all
 ||olx-order.pl-id06396225.xyz^$all
+||olx-order.pl-id09534250.xyz^$all
 ||olx-order.pl-id12192231.xyz^$all
 ||olx-order.pl-id14873912.xyz^$all
 ||olx-order.pl-id16044155.xyz^$all
@@ -6626,6 +6641,7 @@
 ||olx-order.pl-id32062030.xyz^$all
 ||olx-order.pl-id34848308.xyz^$all
 ||olx-order.pl-id34878042.xyz^$all
+||olx-order.pl-id38571035.xyz^$all
 ||olx-order.pl-id42877746.xyz^$all
 ||olx-order.pl-id46110409.xyz^$all
 ||olx-order.pl-id47068752.xyz^$all
@@ -6703,6 +6719,7 @@
 ||olx-pl-lha.id-76565.me^$all
 ||olx-pl-mobile.site^$all
 ||olx-pl-oferta.eu^$all
+||olx-pl-phv.id-76565.me^$all
 ||olx-pl-platnosci.info^$all
 ||olx-pl-rju.id864323.me^$all
 ||olx-pl.3vd.me^$all
@@ -7273,6 +7290,7 @@
 ||orlenpro.xprogbrd.site^$all
 ||orlensettle.website^$all
 ||orlentrade.site^$all
+||orlenwait.site^$all
 ||orlen-invest.surge.sh^$all
 ||orlen-platform.site^$all
 ||orlen-pl-syst.site^$all
@@ -7317,6 +7335,7 @@
 ||otube.pl^$document,domain=otube.pl|~uwaga-natretne-reklamy
 ||otworzoczyitakzobacyzsz.club^$all
 ||otymsieglosnogadda.cyou^$all
+||oursorlen.website^$all
 ||ouruk880.cyou^$all
 ||outl00k.mfs.gg^$all
 ||overcreative.com^$all
@@ -7948,6 +7967,8 @@
 ||pl-lotoss1.site^$all
 ||pl-lotosss.site^$all
 ||pl-lotoss.site^$all
+||pl-lotos-cashup.site^$all
+||pl-lotos-cash.site^$all
 ||pl-lotos.info^$all
 ||pl-lotos.site^$all
 ||pl-lotus.info^$all
@@ -9146,6 +9167,7 @@
 ||staemcommnunity.com^$all
 ||staemcrommnunity.com.profiles-7658215377653.ml^$all
 ||stakim.org^$all
+||standingorlen.site^$all
 ||stanik.cyou^$all
 ||stanislaw.org.pl^$all
 ||starajsieotozebybylo.site^$all
@@ -9237,6 +9259,7 @@
 ||studiopomyslow.com.pl^$all
 ||suaposales.com^$all
 ||sub3.blocked-site-hole-cert.pl^$all
+||substantialorlen.site^$all
 ||subtim-outlook.com^$all
 ||subtletg.com^$all
 ||sub.gyt-ti.online^$all
@@ -10116,6 +10139,8 @@
 ||w-sieci-piszczy.o99o.com.pl^$all
 ||w-szpitalu.gmina.pl^$all
 ||w.paczkcups.com^$all
+||w.paczkoups.com^$all
+||w.paczkwups.com^$all
 ||x0sms.in^$all
 ||x1sms.in^$all
 ||x3sms.in^$all
@@ -10147,6 +10172,7 @@
 ||xxsms.in^$all
 ||x-alp.pl^$all
 ||x-hosepl2.com^$all
+||x-inpost.id-76565.me^$all
 ||x-zdjecia.cleverapps.io^$all
 ||yamamay.com.pl^$all
 ||yangqi-miss.com^$all
