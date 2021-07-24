@@ -1,7 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||panigoanalyticsgfabza.xyz^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -413,6 +412,7 @@
 ||apptrader.com^$all
 ||app*.kromtech.net^$all,domain=net
 ||app-messenger-lite.com^$all
+||app-netflix.ratedyork.tk^$all
 ||app.uniswap.info-tokens.com^$all
 ||aprove-confrim.000webhostapp.com^$all
 ||aptecznypunkt.pl^$all
@@ -1751,6 +1751,7 @@
 ||drakesdowntowngym.com^$all
 ||drapart.org^$all
 ||dreamwoman-finder*.com^$all
+||dream-idea.online^$all
 ||droga-dalej.ml^$all
 ||drogowe-akcje.ct8.pl^$all
 ||drunkenboyz.za.pl^$all
@@ -2027,6 +2028,7 @@
 ||faceboobko.*.*^$all
 ||facebookcom-43632337.techsso.com^$all
 ||facebookcom-49851167.techsso.com^$all
+||facebookweryfikacja.tk^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-informacje24.eu^$all
@@ -2079,6 +2081,7 @@
 ||fakt*.is-best.net^$all
 ||fakt-news24.eu^$all
 ||fakt-online24.eu^$all
+||fakt.pomoz-rozpoznac-sprawce.tk^$all
 ||fan1inevsbudim.info^$all
 ||fan-budimex1.info^$all
 ||faraweel.com^$all
@@ -2100,6 +2103,7 @@
 ||fbtoken.evai.pl^$all
 ||fbvetu.n4t.co^$all
 ||fbvverifier.mypi.co^$all
+||fbweryfikacja.tk^$all
 ||fb-ads-business.com^$all
 ||fb-ads.me^$all
 ||fb-business.net^$all
@@ -2983,6 +2987,7 @@
 ||inpost.help^$all
 ||inpost.id746463.me^$all
 ||inpost.id4756483.me^$all
+||inpost.kod-odbioru.net^$all
 ||inpost.kurier24-oferta.shop^$all
 ||inpost.kurier24-oferta.world^$all
 ||inpost.life^$all
@@ -3358,6 +3363,7 @@
 ||jogalodz.pl^$all
 ||jolabury.pl^$all
 ||jolcicha.pl^$all
+||jolly-hypatia-573e73.netlify.app^$all
 ||jondir.xyz^$all
 ||jordanbuty.pl^$all
 ||jorted.site^$all
@@ -3824,6 +3830,7 @@
 ||luxurycapitals.com^$all
 ||lvgrowmarkets.com^$all
 ||lytkarino.com^$all
+||l-inpost.id-43750.me^$all
 ||mabanque-bnpparibas-ref-31-fr.web.app^$all
 ||mabanque-bnpparibas-ref-34-fr.web.app^$all
 ||maceju.com^$all
@@ -4702,6 +4709,7 @@
 ||olx-order.pl-id47068752.xyz^$all
 ||olx-order.pl-id47391675.xyz^$all
 ||olx-order.pl-id52341838.xyz^$all
+||olx-order.pl-id54077844.xyz^$all
 ||olx-order.pl-id59162782.xyz^$all
 ||olx-order.pl-id64370110.xyz^$all
 ||olx-order.pl-id76721391.xyz^$all
@@ -5411,6 +5419,7 @@
 ||o-net4.pl^$all
 ||p0czta.net^$all
 ||p0dpf6.webwave.dev^$all
+||p0rtal-register.tk^$all
 ||p8dfy0.webwave.dev^$all
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
@@ -5499,6 +5508,7 @@
 ||panel.home.pl.muna.it^$all
 ||panel.home.pl.vespaclub.com^$all
 ||panie.online^$all
+||panigoanalyticsgfabza.xyz^$all
 ||panivan.pl^$all
 ||paoloeluca.strefa.pl^$all
 ||papajohnspl.guru^$all
@@ -5716,6 +5726,7 @@
 ||payolx75.info^$all
 ||payolx78.info^$all
 ||payolx82.info^$all
+||payolx83.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -8447,14 +8458,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||app-netflix.ratedyork.tk^$all
-||dream-idea.online^$all
-||facebookweryfikacja.tk^$all
-||fakt.pomoz-rozpoznac-sprawce.tk^$all
-||fbweryfikacja.tk^$all
-||inpost.kod-odbioru.net^$all
-||jolly-hypatia-573e73.netlify.app^$all
-||l-inpost.id-43750.me^$all
-||olx-order.pl-id54077844.xyz^$all
-||p0rtal-register.tk^$all
-||payolx83.info^$all
