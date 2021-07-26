@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 26 Jul 2021, 13:07 UTC+02
-! Version: 2021.7.26.0
+! Last modified: Mon, 26 Jul 2021, 17:07 UTC+02
+! Version: 2021.7.26.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2350,6 +2350,7 @@
 ||amu-edu-pl.ew.r.appspot.com^$all
 ||amzhedgefund.com^$all
 ||amzstudy.com^$all
+||am-pl.pool-programm1.xyz^$all
 ||anabim.com^$all
 ||anakonda.icu^$all
 ||analitics-g00gle.xyz^$all
@@ -2786,6 +2787,7 @@
 ||business-chat-commands.com^$all
 ||business-command.com^$all
 ||business-lng-start.com^$all
+||business-lotos.website^$all
 ||businnewsnow.site^$all
 ||businnewsnow.space^$all
 ||businnews.space^$all
@@ -3690,6 +3692,7 @@
 ||domappcheckoyo10.web.app^$all
 ||domek200.com^$all
 ||domek300.com^$all
+||domen.intertrad.xyz^$all
 ||domgoralskispa.pl^$all
 ||domki-kopalino.com.pl^$all
 ||domniespodzianek.com^$all
@@ -4270,6 +4273,7 @@
 ||financesucceed.webador.com^$all
 ||financexbt.net^$all
 ||finance-eu.info^$all
+||finance-lotos.online^$all
 ||finance-lotos.website^$all
 ||financialmarketsworld.com^$all
 ||financial-times-appp.github.io^$all
@@ -4563,6 +4567,7 @@
 ||goo1.org^$all
 ||gooc.in^$all
 ||goodmovie.pl^$all
+||good-business.online^$all
 ||goog1e.convchromepl.xyz^$all
 ||googieapp.com^$all
 ||googlanalyticss.club^$all
@@ -4970,6 +4975,7 @@
 ||inpost-order.pl-id09362947.xyz^$all
 ||inpost-order.pl-id10169395.xyz^$all
 ||inpost-order.pl-id10834195.xyz^$all
+||inpost-order.pl-id11641532.xyz^$all
 ||inpost-order.pl-id11873189.xyz^$all
 ||inpost-order.pl-id12043000.xyz^$all
 ||inpost-order.pl-id14144075.xyz^$all
@@ -4985,9 +4991,11 @@
 ||inpost-order.pl-id40624597.xyz^$all
 ||inpost-order.pl-id45917677.xyz^$all
 ||inpost-order.pl-id52341838.xyz^$all
+||inpost-order.pl-id53823746.xyz^$all
 ||inpost-order.pl-id56644415.xyz^$all
 ||inpost-order.pl-id56890018.xyz^$all
 ||inpost-order.pl-id64370110.xyz^$all
+||inpost-order.pl-id64594310.xyz^$all
 ||inpost-order.pl-id67598643.xyz^$all
 ||inpost-order.pl-id69069606.xyz^$all
 ||inpost-order.pl-id74244312.xyz^$all
@@ -5051,6 +5059,7 @@
 ||inpost-security.icu^$all
 ||inpost-s.id-13549.me^$all
 ||inpost-terms.icu^$all
+||inpost-y.id-65393.me^$all
 ||inpost-zamowienie.pl^$all
 ||inpost.bond^$all
 ||inpost.casa^$all
@@ -5194,6 +5203,7 @@
 ||inpost.pl-safeshop.work^$all
 ||inpost.pl-safety.club^$all
 ||inpost.pl-safety.live^$all
+||inpost.pl-safety.secure-service.life^$all
 ||inpost.pl-safety.secure-service.website^$all
 ||inpost.pl-safety.service-secure.cyou^$all
 ||inpost.pl-safety.service-secure.one^$all
@@ -5265,6 +5275,7 @@
 ||inpost.transcom.site^$all
 ||inpost.ua-dostawka.xyz^$all
 ||inpost.us^$all
+||inpost.wygeneruj.net^$all
 ||inpost.wyprzedaz-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inprost24.net^$all
 ||inqost.net^$all
@@ -5454,6 +5465,7 @@
 ||jondir.xyz^$all
 ||jordanbuty.pl^$all
 ||jorted.site^$all
+||jouer-casino-canada.ca^$all
 ||jourlacy.com^$all
 ||jpltech.vestpast77.xyz^$all
 ||jstoppello.com^$all
@@ -6204,6 +6216,7 @@
 ||musimypomoc.xyz^$all
 ||musiszotmwiedziecc24.cyou^$all
 ||musisztozappammietac.space^$all
+||mus.titul-invest.site^$all
 ||mutlukadinlarakademisi.com^$all
 ||muzeum.cyou^$all
 ||muzyka.icu^$all
@@ -6810,6 +6823,7 @@
 ||olx-order.pl-id57950441.xyz^$all
 ||olx-order.pl-id59162782.xyz^$all
 ||olx-order.pl-id64370110.xyz^$all
+||olx-order.pl-id64594310.xyz^$all
 ||olx-order.pl-id76721391.xyz^$all
 ||olx-order.pl-id77770656.xyz^$all
 ||olx-order.pl-id87869773.xyz^$all
@@ -7443,6 +7457,7 @@
 ||order-safe.biz^$all
 ||order-safe.info^$all
 ||order-secure.biz^$all
+||org1.syst-pltrade.site^$all
 ||organicmediasolution.com^$all
 ||ori-sfera.pl^$all
 ||orldleader.site^$all
@@ -7451,6 +7466,7 @@
 ||orlenencourage.club^$all
 ||orlenendure.website^$all
 ||orleninvest.space^$all
+||orlennews.com^$all
 ||orlenoil-la.com^$all
 ||orlenpilot.site^$all
 ||orlenplget.net^$all
@@ -7469,6 +7485,7 @@
 ||orlen-pro.xprogbrd.site^$all
 ||orlen-trd.roscoc.site^$all
 ||orlen-tr.roscoc.site^$all
+||orlen.cins.xyz^$all
 ||orlen.pl.teslinvests.site^$all
 ||orlen.pr.xprogbrd.site^$all
 ||orlen.roscoc.site^$all
@@ -7831,6 +7848,7 @@
 ||payolx78.info^$all
 ||payolx82.info^$all
 ||payolx83.info^$all
+||payolx87.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -8102,6 +8120,7 @@
 ||plus-iidl.com^$all
 ||plynzpradem.online^$all
 ||plytanagrillapl.com^$all
+||pl-1q.poland-pro-one.site^$all
 ||pl-1.pattern-like.xyz^$all
 ||pl-bankinvest.surge.sh^$all
 ||pl-budim1invpl.info^$all
@@ -8308,6 +8327,7 @@
 ||poczta-o2.pl^$all
 ||poczta-order.pl-id14873912.xyz^$all
 ||poczta-order.pl-id34848308.xyz^$all
+||poczta-order.pl-id53823746.xyz^$all
 ||poczta-order.pl-id57950441.xyz^$all
 ||poczta-order.pl-id60151865.xyz^$all
 ||poczta-order.pl-id97693066.xyz^$all
@@ -8862,6 +8882,7 @@
 ||rentapart24.com^$all
 ||repolsk.xyz^$all
 ||rervensone.xyz^$all
+||reservpl.digserpro.xyz^$all
 ||reset-your-device.com^$all
 ||restauracjatramontana.pl^$all
 ||restore-payp.com^$all
@@ -8878,6 +8899,7 @@
 ||riddexpl*.com^$all
 ||rikardesie.shop^$all
 ||rinpey.net^$all
+||rinpost.id-65393.me^$all
 ||risingindianews.com^$all
 ||rivafinancialsystems.com^$all
 ||rivalcsgo.com^$all
@@ -9036,6 +9058,7 @@
 ||secure-payuser01.serveirc.com^$all
 ||secure-safety.su^$all
 ||secure-service.xyz^$all
+||secure-sms.one^$all
 ||secure.inpost.codes^$all
 ||secure.onewestbk.com^$all
 ||securityadminhelpunit.moonfruit.com^$all
@@ -9667,6 +9690,7 @@
 ||tinyfileshost.com^$all
 ||tiomarkets.com^$all
 ||tisls.com^$all
+||titl.titleinvest.site^$all
 ||tlanddissipate.at^$all
 ||tmbinaryfx.com^$all
 ||tmopa.xyz^$all
@@ -9774,6 +9798,7 @@
 ||trudneokreslenie.site^$all
 ||truegamers.ga^$all
 ||trustmybox.org^$all
+||trust.lew.orfininfo.xyz^$all
 ||truyenthongbatdiet.online^$all
 ||trwogaca.icu^$all
 ||tryplaybest.com^$all
@@ -10145,6 +10170,7 @@
 ||wiadomosci-radom.xyz^$all
 ||wiadomosci-rybnik.xyz^$all
 ||wiadomosci-sopot.xyz^$all
+||wiadomosci-wroclaw.xyz^$all
 ||wiadomosci-wygrana.waw.pl^$all
 ||wiadomosclokalna.pl^$all
 ||wiadomosc-24.online^$all
