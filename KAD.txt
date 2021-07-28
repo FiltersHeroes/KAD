@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 28 Jul 2021, 17:07 UTC+02
-! Version: 2021.7.28.1
+! Last modified: Wed, 28 Jul 2021, 21:07 UTC+02
+! Version: 2021.7.28.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3170,6 +3170,7 @@
 ||d1br5o2o5fy668.cloudfront.net^$all
 ||d1c75orhzodx42.cloudfront.net^$all
 ||d1ca0ybissqy5r.cloudfront.net^$all
+||d1cywzw7upkwcl.cloudfront.net^$all
 ||d1dgm85un8b0i2.cloudfront.net^$all
 ||d1drqytzo4er0u.cloudfront.net^$all
 ||d1e6fl93yoaf5m.cloudfront.net^$all
@@ -3318,6 +3319,7 @@
 ||d2lymsbwmwpr6n.cloudfront.net^$all
 ||d2mkwbg1ge4ui5.cloudfront.net^$all
 ||d2ml98k2s6sdit.cloudfront.net^$all
+||d2n60vl9bql26e.cloudfront.net^$all
 ||d2ni38i30eqd5j.cloudfront.net^$all
 ||d2noym08kbyyqc.cloudfront.net^$all
 ||d2ns6mfq9xhrgk.cloudfront.net^$all
@@ -3361,6 +3363,7 @@
 ||d2wrpbr39pen4b.cloudfront.net^$all
 ||d2xe17mzyskaoi.cloudfront.net^$all
 ||d2xesqf2xhtnzz.cloudfront.net^$all
+||d2xh06cw2pdgrw.cloudfront.net^$all
 ||d2xt5o8xrk77dr.cloudfront.net^$all
 ||d2y2uz6sn2mxfg.cloudfront.net^$all
 ||d2y5nh1tdkqgvw.cloudfront.net^$all
@@ -3412,6 +3415,7 @@
 ||d3jughl7k9y4nn.cloudfront.net^$all
 ||d3jxnxkvhogv5f.cloudfront.net^$all
 ||d3k9z8sa1gtuu8.cloudfront.net^$all
+||d3k28ttjmbxkif.cloudfront.net^$all
 ||d3kst2qu2utim3.cloudfront.net^$all
 ||d3l2zu5in6046h.cloudfront.net^$all
 ||d3l4doow0fdhba.cloudfront.net^$all
@@ -3445,6 +3449,7 @@
 ||d3rzloh6xv2xem.cloudfront.net^$all
 ||d3sctb8on9bzry.cloudfront.net^$all
 ||d3shk9edubnjbz.cloudfront.net^$all
+||d3sm7ikds99oqd.cloudfront.net^$all
 ||d3t0d29mpr4wpb.cloudfront.net^$all
 ||d3t7i99jg0w13n.cloudfront.net^$all
 ||d3t48bevxuic2e.cloudfront.net^$all
@@ -3471,6 +3476,7 @@
 ||d7acpvh7gt7aj.cloudfront.net^$all
 ||d7x2ikwpy9c2i.cloudfront.net^$all
 ||d8k8yw18dq88h.cloudfront.net^$all
+||d8nbw94ijwuz8.cloudfront.net^$all
 ||d8zjz4k1qejn0.cloudfront.net^$all
 ||d9hxsra1n6mi7.cloudfront.net^$all
 ||d9ii1r9blfm7t.cloudfront.net^$all
@@ -3503,6 +3509,7 @@
 ||d18vyz60n8p6t2.cloudfront.net^$all
 ||d18xeid0tdaswq.cloudfront.net^$all
 ||d19f6fxl5kn6k9.cloudfront.net^$all
+||d19vnb21lubqzn.cloudfront.net^$all
 ||d19ydi1541ppm7.cloudfront.net^$all
 ||d19yxrk3t8zs3e.cloudfront.net^$all
 ||d20ezslo7c6hnj.cloudfront.net^$all
@@ -3639,12 +3646,14 @@
 ||dc5zdxob07xpk.cloudfront.net^$all
 ||dcao5m.webwave.dev^$all
 ||dciym4rnld17u.cloudfront.net^$all
+||dcrhyi8q3nyv5.cloudfront.net^$all
 ||dcshoespolska.com^$all
 ||dcshoessklep.com^$all
 ||ddad9qpbf0w0a.cloudfront.net^$all
 ||ddalygqcl0z3r.cloudfront.net^$all
 ||ddhtsogw19ulc.cloudfront.net^$all
 ||ddpd.id-65393.me^$all
+||ddufho0zojhbs.cloudfront.net^$all
 ||de7o82mzreipe.cloudfront.net^$all
 ||debie.pl^$all
 ||debki-klara.pl^$all
@@ -3714,6 +3723,7 @@
 ||dgjdla9k827sl.cloudfront.net^$all
 ||dgpq8b.webwave.dev^$all
 ||dgtmarket.com^$all
+||dgvy364dlcxc3.cloudfront.net^$all
 ||dhc6wkg91bshz.cloudfront.net^$all
 ||dhcouriers.com^$all
 ||dhdost.com^$all
@@ -3744,6 +3754,7 @@
 ||dk7vzcyxk8cl1.cloudfront.net^$all
 ||dkm8hrrh4o7bz.cloudfront.net^$all
 ||dkrgrczpa4t2m.cloudfront.net^$all
+||dku4syikl4crl.cloudfront.net^$all
 ||dl483ndvtytqn.cloudfront.net^$all
 ||dlaczegoniezacznniesz.space^$all
 ||dladomu150.com^$all
@@ -3943,6 +3954,7 @@
 ||drvooqv0b6ivi.cloudfront.net^$all
 ||dr-saadoun-dentiste.fr^$all
 ||dsads123a.is-best.net^$all
+||dsjm94hqvg4l9.cloudfront.net^$all
 ||dslw1i2ckx0gx.cloudfront.net^$all
 ||dsora.com^$all
 ||dtcvp5x34aags.cloudfront.net^$all
@@ -3965,6 +3977,7 @@
 ||dworzec2.webd.pro^$all
 ||dworzecfakt.*^$all
 ||dworzecporwanie.*^$all
+||dwznreotr3dxh.cloudfront.net^$all
 ||dxg6lbssw7f9q.cloudfront.net^$all
 ||dxipygpy4df7z.cloudfront.net^$all
 ||dyfuzor-do-aromaterapii-pl.com^$all
@@ -4257,6 +4270,7 @@
 ||fakturo-wnia.ml^$all
 ||fakty24gazeta.pl^$all
 ||fakty24h.eu^$all
+||fakty24informacjelive.pl^$all
 ||fakty24informacjeonline.pl^$all
 ||fakty24informacje.pl^$all
 ||fakty24info.pl^$all
@@ -4669,6 +4683,7 @@
 ||gjjgsz.com^$all
 ||gkjow.luckyofers.net^$all
 ||gkjow.yourprizeiswaiting.net^$all
+||gkpge-pl.club^$all
 ||gkpge.click^$all
 ||gkpge.link^$all
 ||globalmaxis.com^$all
@@ -5396,6 +5411,7 @@
 ||inpost.pl.compaytrans.pw^$all
 ||inpost.pl.gn-payfor.pw^$all
 ||inpost.pl.mebuyit.pw^$all
+||inpost.pl.payitemptrans.pw^$all
 ||inpost.pl.paysstranscom.pw^$all
 ||inpost.pl.pay-online.pw^$all
 ||inpost.pl.secure-service.bar^$all
@@ -6297,6 +6313,7 @@
 ||moglesnieslyszszec.online^$all
 ||moglobytoooznaczac.website^$all
 ||moj24bizznesik.space^$all
+||mojapaka.com^$all
 ||moja-dostawa.site^$all
 ||moje69.pl^$all
 ||mojeapartamenty.com^$all
@@ -7566,6 +7583,7 @@
 ||onlineaccessonlineacesonlineacess.weebly.com^$all
 ||onlinecda.pl^$all
 ||onlinecords.com^$all
+||onlinefakty24info.pl^$all
 ||onlinefakty24.pl^$all
 ||onlinefilmy24.pl^$all
 ||onlinegettin-bank.com^$all
@@ -8708,6 +8726,7 @@
 ||polsko-oferta.life^$all
 ||polsko-oferta.shop^$all
 ||polsriardrtoihizis.info^$all
+||pol-wysylki.online^$all
 ||pol.libracoinofficial-company.xyz^$all
 ||pomagajiwspieraj.com^$all
 ||pomagajmypl.*^$all
