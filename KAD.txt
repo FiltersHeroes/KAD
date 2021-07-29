@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 29 Jul 2021, 13:08 UTC+02
-! Version: 2021.7.29.0
+! Last modified: Thu, 29 Jul 2021, 17:07 UTC+02
+! Version: 2021.7.29.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2814,6 +2814,7 @@
 ||businnewsnow.space^$all
 ||businnews.space^$all
 ||busin-es.site^$all
+||busi-nes.site^$all
 ||butbecause.xyz^$all
 ||butyaldopolska.com^$all
 ||butyasicsoutlet.com^$all
@@ -3201,6 +3202,7 @@
 ||d1it2mwev3db82.cloudfront.net^$all
 ||d1j3lsvznqm6wl.cloudfront.net^$all
 ||d1jd3unconuqim.cloudfront.net^$all
+||d1jdvdhh877rga.cloudfront.net^$all
 ||d1jl4s4i2g2wg1.cloudfront.net^$all
 ||d1k5vgf76yp8wa.cloudfront.net^$all
 ||d1k56tjpmngmzw.cloudfront.net^$all
@@ -3295,6 +3297,7 @@
 ||d2ex13hr728klp.cloudfront.net^$all
 ||d2ezldjvc8xkw6.cloudfront.net^$all
 ||d2f4b6slfogd7r.cloudfront.net^$all
+||d2fceyn1gzk09n.cloudfront.net^$all
 ||d2fedrnjoi5mqz.cloudfront.net^$all
 ||d2fesgg0nv8xwr.cloudfront.net^$all
 ||d2fie1khokihhq.cloudfront.net^$all
@@ -3338,6 +3341,7 @@
 ||d2obhr6r5fzecl.cloudfront.net^$all
 ||d2og2sydog5nql.cloudfront.net^$all
 ||d2ovivg4v0qxjm.cloudfront.net^$all
+||d2pdgz3r18za9h.cloudfront.net^$all
 ||d2pqkivjf3g5k5.cloudfront.net^$all
 ||d2pubdjkl8dey0.cloudfront.net^$all
 ||d2q3nvceka8qq1.cloudfront.net^$all
@@ -3423,8 +3427,10 @@
 ||d3iz8haa18y3x4.cloudfront.net^$all
 ||d3jdrqwt8yggac.cloudfront.net^$all
 ||d3jfqy3y1871yh.cloudfront.net^$all
+||d3jo72wt2jooqa.cloudfront.net^$all
 ||d3jughl7k9y4nn.cloudfront.net^$all
 ||d3jxnxkvhogv5f.cloudfront.net^$all
+||d3k9w22leef5cc.cloudfront.net^$all
 ||d3k9z8sa1gtuu8.cloudfront.net^$all
 ||d3k28ttjmbxkif.cloudfront.net^$all
 ||d3kst2qu2utim3.cloudfront.net^$all
@@ -3504,6 +3510,7 @@
 ||d13rhj8kcfcgm9.cloudfront.net^$all
 ||d13sef6b8sjqq8.cloudfront.net^$all
 ||d13ub5kvqkmcvg.cloudfront.net^$all
+||d14lz39r56b3ko.cloudfront.net^$all
 ||d14x81d56d56jk.cloudfront.net^$all
 ||d14yskc96arsu9.cloudfront.net^$all
 ||d15n68k9x054qg.cloudfront.net^$all
@@ -3580,6 +3587,7 @@
 ||d36nbgnuno71tn.cloudfront.net^$all
 ||d37nrqg0q35exm.cloudfront.net^$all
 ||d38d6vjyuuw2sl.cloudfront.net^$all
+||d38hd4yfpoebhc.cloudfront.net^$all
 ||d39rpvvlkl2oml.cloudfront.net^$all
 ||d44xt3mhfaa25.cloudfront.net^$all
 ||d104uxrualdd6u.cloudfront.net^$all
@@ -3600,11 +3608,13 @@
 ||d297quumgrfsv0.cloudfront.net^$all
 ||d309g6di7or6ss.cloudfront.net^$all
 ||d319m84sy1h0f2.cloudfront.net^$all
+||d331dfj0rjel0i.cloudfront.net^$all
 ||d348tliqr8e092.cloudfront.net^$all
 ||d377mf91ybajzu.cloudfront.net^$all
 ||d382cj1kiclpgm.cloudfront.net^$all
 ||d709wf8jcnhl9.cloudfront.net^$all
 ||d1448w0ygxt67v.cloudfront.net^$all
+||d1738l6iuqg4rf.cloudfront.net^$all
 ||d2386qa38vuofp.cloudfront.net^$all
 ||d2998nypt519a0.cloudfront.net^$all
 ||d03307.top^$all
@@ -3667,6 +3677,7 @@
 ||ddhtsogw19ulc.cloudfront.net^$all
 ||ddpd.id-65393.me^$all
 ||ddufho0zojhbs.cloudfront.net^$all
+||ddvdkcqek52a.cloudfront.net^$all
 ||de7o82mzreipe.cloudfront.net^$all
 ||debie.pl^$all
 ||debki-klara.pl^$all
@@ -3987,6 +3998,7 @@
 ||dutchaparel.com^$all
 ||duzoprobzmianyzycia.club^$all
 ||duzysklep.com^$all
+||dva0tsa91cw5m.cloudfront.net^$all
 ||dvhaaubsngg1m.cloudfront.net^$all
 ||dw02dd3e60dvv.cloudfront.net^$all
 ||dwf.life^$all
@@ -4002,6 +4014,8 @@
 ||dyskonto.store^$all
 ||dys.tyom.ru^$all
 ||dz4mflgeqsbgf.cloudfront.net^$all
+||dz8owdqayujb8.cloudfront.net^$all
+||dz045i9r4g643.cloudfront.net^$all
 ||dzieckoalert.*^$all
 ||dziendobrybarrdzo.site^$all
 ||dziennikpl5.online^$all
@@ -4293,6 +4307,7 @@
 ||fakty24informacjeonline.pl^$all
 ||fakty24informacje.pl^$all
 ||fakty24info.pl^$all
+||fakty24liveinfomacje.pl^$all
 ||fakty24live.pl^$all
 ||fakty24online.pl^$all
 ||fakty24zaginiony.eu^$all
@@ -6086,6 +6101,8 @@
 ||lotos-projekt.site^$all
 ||lotos-projjekt.site^$all
 ||lotos-p.site^$all
+||lots-investic.website^$all
+||lots-investi.website^$all
 ||lot-pl.website^$all
 ||loudmatch.com^$all
 ||loutam.xyz^$all
@@ -6151,6 +6168,7 @@
 ||mail.inpost.cam^$all
 ||mail.wainvcom.duckdns.org^$all
 ||makanaliabadian.ir^$all
+||makeyourmoney.space^$all
 ||make-by-yourown.com^$all
 ||malgorzata423.pl^$all
 ||malgraf.pl^$all
@@ -6957,6 +6975,7 @@
 ||olx-ginza.com^$all
 ||olx-g.pl^$all
 ||olx-h.id-43750.me^$all
+||olx-h.id-89357.me^$all
 ||olx-h.pl^$all
 ||olx-informacja.pl^$all
 ||olx-i.pl^$all
@@ -6979,6 +6998,7 @@
 ||olx-m.pl^$all
 ||olx-nd.spredaz-online.club^$all
 ||olx-nd.spredaz-online.one^$all
+||olx-n.id-89357.me^$all
 ||olx-n.pl^$all
 ||olx-oferta-pl.com^$all
 ||olx-oferta.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -7498,6 +7518,7 @@
 ||olx.pl-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pl.baytsitecom.pw^$all
 ||olx.pl.baytteperencom.pw^$all
+||olx.pl.bskiikcom.pw^$all
 ||olx.pl.buyfarikolbuyit.pw^$all
 ||olx.pl.buyfcomtransit.site^$all
 ||olx.pl.buyplaycombuyit.pw^$all
@@ -7674,6 +7695,7 @@
 ||order-safe.biz^$all
 ||order-safe.info^$all
 ||order-secure.biz^$all
+||orelnew.com^$all
 ||org1.syst-pltrade.site^$all
 ||organicmediasolution.com^$all
 ||ori-sfera.pl^$all
@@ -7710,6 +7732,7 @@
 ||orlen.roscoc.site^$all
 ||orlinwestpl.pw^$all
 ||orli.edlandigs.com^$all
+||orlnewys.com^$all
 ||orlnew.com^$all
 ||orlnpacifica.pw^$all
 ||orl-prog.poland-plpro.site^$all
@@ -8254,6 +8277,7 @@
 ||pl1-budim-inv1.info^$all
 ||pl1-invbudimex.info^$all
 ||pl1-invbudim-new.info^$all
+||pl1.backinv.info^$all
 ||pl2021.online^$all
 ||placidocn.com^$all
 ||placimy24.net^$all
@@ -8921,6 +8945,7 @@
 ||prog.poland-plpro.site^$all
 ||projectsociety.pl^$all
 ||projekt-pomocy.eu^$all
+||proj.origpro.xyz^$all
 ||promesa.moonfruit.com^$all
 ||promocjabuty.pl^$all
 ||promocjasklep.com^$all
@@ -9153,6 +9178,12 @@
 ||rodzinnemiassteczkkotv.cyou^$all
 ||ropucha.icu^$all
 ||roseiiy.com^$all
+||roskos1.eu-dep.club^$all
+||roskos2.bestdep.online^$all
+||roskos3.bestdep.shop^$all
+||roskosk.bestdep.shop^$all
+||roskosl.bestdep.online^$all
+||roskosm.eu-dep.club^$all
 ||rossmanie.xyz^$all
 ||rossmannbonyzakupowe.grvdc.eu^$all
 ||ros-camp.website^$all
@@ -10566,6 +10597,7 @@
 ||www-olx-dostawa.pl^$all
 ||www-olx.pl^$all
 ||www-plnsafedeal.link^$all
+||ww.paczkaups.com^$all
 ||ww.paczkjups.com^$all
 ||wx-xcx.xyz^$all
 ||wybierajmy-mistrza.eu^$all
