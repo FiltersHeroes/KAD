@@ -1,14 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||eurotrades.pl^$all
-||bijouxaccessories.com^$all
-||etestery24.pl^$all
-||huabil.com^$all
-||status-mark.com^$all
-||statusmarkets.com^$all
-||streaming-builder.com^$all
-||re-bu-il-der.xyz^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -99,6 +91,7 @@
 ||9nta.com^$all
 ||09sms.in^$all
 ||9sms.xyz^$all
+||11sms.xyz^$all
 ||20-55-32-61.cprapid.com^$all
 ||24dzindobrykraj.cyou^$all
 ||24e-lokalne.dnsrobotuptime.ru^$all
@@ -620,6 +613,7 @@
 ||bigmoviesz.com^$all
 ||bignamestanfree.wixsite.com^$all
 ||bigsklep.com^$all
+||bijouxaccessories.com^$all
 ||bilard.cyou^$all
 ||binance.enation.cyou^$all
 ||binvesting.com^$all
@@ -816,6 +810,7 @@
 ||business-ide.website^$all
 ||business-lng-start.com^$all
 ||business-lotos.website^$all
+||business-projecct.site^$all
 ||businnewsnow.site^$all
 ||businnewsnow.space^$all
 ||businnews.space^$all
@@ -1180,6 +1175,7 @@
 ||d1bjykadrg7xuk.cloudfront.net^$all
 ||d1bovcu72i6j7w.cloudfront.net^$all
 ||d1br5o2o5fy668.cloudfront.net^$all
+||d1bumk8mfrsydu.cloudfront.net^$all
 ||d1c01xi0hrw55p.cloudfront.net^$all
 ||d1c75orhzodx42.cloudfront.net^$all
 ||d1ca0ybissqy5r.cloudfront.net^$all
@@ -1231,11 +1227,13 @@
 ||d1ogtekyfob10l.cloudfront.net^$all
 ||d1otslwva2ip6l.cloudfront.net^$all
 ||d1p4figd2ritbe.cloudfront.net^$all
+||d1p8dyp2gxbqpw.cloudfront.net^$all
 ||d1pe79gxnkhcqv.cloudfront.net^$all
 ||d1pg0gyvj3t576.cloudfront.net^$all
 ||d1ppczim070vc2.cloudfront.net^$all
 ||d1psigw5qnkx9q.cloudfront.net^$all
 ||d1py9a5qthzddt.cloudfront.net^$all
+||d1q8biyz2tn4zg.cloudfront.net^$all
 ||d1qfp6j9w9cokv.cloudfront.net^$all
 ||d1ql0f7lbg7evf.cloudfront.net^$all
 ||d1qniciifmu4eu.cloudfront.net^$all
@@ -1283,6 +1281,7 @@
 ||d1yji62313fmog.cloudfront.net^$all
 ||d1ypk2qgppaohn.cloudfront.net^$all
 ||d1yusd6jjt2edb.cloudfront.net^$all
+||d1z6tk6r2eb9nk.cloudfront.net^$all
 ||d1zrl0qvs6rml6.cloudfront.net^$all
 ||d1zy79iyrsz9gx.cloudfront.net^$all
 ||d2a99ncvgwfx20.cloudfront.net^$all
@@ -1333,12 +1332,14 @@
 ||d2l7zlo0thlrf4.cloudfront.net^$all
 ||d2lb83ybl22jem.cloudfront.net^$all
 ||d2lg05a9nw0qzh.cloudfront.net^$all
+||d2lgpcvcfvhlng.cloudfront.net^$all
 ||d2lia7e2uhjvv1.cloudfront.net^$all
 ||d2lxl4doqci3po.cloudfront.net^$all
 ||d2lxreexpa5wo2.cloudfront.net^$all
 ||d2lymsbwmwpr6n.cloudfront.net^$all
 ||d2mkwbg1ge4ui5.cloudfront.net^$all
 ||d2ml98k2s6sdit.cloudfront.net^$all
+||d2mqdjwfuufo1i.cloudfront.net^$all
 ||d2n60vl9bql26e.cloudfront.net^$all
 ||d2ni38i30eqd5j.cloudfront.net^$all
 ||d2noym08kbyyqc.cloudfront.net^$all
@@ -1393,6 +1394,8 @@
 ||d2yjmwzwcdfpmi.cloudfront.net^$all
 ||d2ym1oubw1eszq.cloudfront.net^$all
 ||d2z5qakd2ama3r.cloudfront.net^$all
+||d2zk8hngw9by32.cloudfront.net^$all
+||d2zkrpuw38jvvl.cloudfront.net^$all
 ||d2zrxpsszcdyhx.cloudfront.net^$all
 ||d2zxdm3c2qt46d.cloudfront.net^$all
 ||d3a3j770jgc81v.cloudfront.net^$all
@@ -1438,9 +1441,11 @@
 ||d3jo72wt2jooqa.cloudfront.net^$all
 ||d3jughl7k9y4nn.cloudfront.net^$all
 ||d3jxnxkvhogv5f.cloudfront.net^$all
+||d3k5kufj2o84lg.cloudfront.net^$all
 ||d3k9w22leef5cc.cloudfront.net^$all
 ||d3k9z8sa1gtuu8.cloudfront.net^$all
 ||d3k28ttjmbxkif.cloudfront.net^$all
+||d3kozaplv5igss.cloudfront.net^$all
 ||d3kst2qu2utim3.cloudfront.net^$all
 ||d3l2zu5in6046h.cloudfront.net^$all
 ||d3l4doow0fdhba.cloudfront.net^$all
@@ -1486,6 +1491,7 @@
 ||d3u2eff063iigj.cloudfront.net^$all
 ||d3u56vfvib7fpd.cloudfront.net^$all
 ||d3ucqcvv533sro.cloudfront.net^$all
+||d3uqzpy84i2hpj.cloudfront.net^$all
 ||d3v6pvlv2uk27.cloudfront.net^$all
 ||d3v735z3cvlhwa.cloudfront.net^$all
 ||d3vostzo1p3g7e.cloudfront.net^$all
@@ -1552,6 +1558,7 @@
 ||d22e2i2ieoe5aa.cloudfront.net^$all
 ||d22lx2l4ur6opi.cloudfront.net^$all
 ||d22wykemogggm7.cloudfront.net^$all
+||d23a4qe36f52h0.cloudfront.net^$all
 ||d23a8ncpzzva49.cloudfront.net^$all
 ||d23gjhhlur6l1n.cloudfront.net^$all
 ||d23ri8jxm72hnr.cloudfront.net^$all
@@ -1636,6 +1643,7 @@
 ||da7itbt696zyr.cloudfront.net^$all
 ||dac24nse4s4d7.cloudfront.net^$all
 ||dachbud.slask.pl^$all
+||dahvn11ci1500.cloudfront.net^$all
 ||daj79f6cjleuy.cloudfront.net^$all
 ||dalsari.com^$all
 ||dalsza-droga.tk^$all
@@ -1668,6 +1676,7 @@
 ||davidcandy.website.pl^$all
 ||daxioma.com^$all
 ||daxkapital.com^$all
+||dazhbuupola9m.cloudfront.net^$all
 ||db8pg3je9y3ei.cloudfront.net^$all
 ||dbamyociebie.click^$all
 ||dbd3bzqstwii6.cloudfront.net^$all
@@ -1787,6 +1796,7 @@
 ||dk06kjc1o4s1v.cloudfront.net^$all
 ||dk7crqufgrsl0.cloudfront.net^$all
 ||dk7vzcyxk8cl1.cloudfront.net^$all
+||dk9tjsq16j5cl.cloudfront.net^$all
 ||dkm8hrrh4o7bz.cloudfront.net^$all
 ||dkrgrczpa4t2m.cloudfront.net^$all
 ||dku4syikl4crl.cloudfront.net^$all
@@ -2011,6 +2021,7 @@
 ||dvhaaubsngg1m.cloudfront.net^$all
 ||dw02dd3e60dvv.cloudfront.net^$all
 ||dwf.life^$all
+||dwiruq26ue190.cloudfront.net^$all
 ||dworzec2.webd.pro^$all
 ||dworzecfakt.*^$all
 ||dworzecporwanie.*^$all
@@ -2165,12 +2176,14 @@
 ||eskluzywne-fotele.ovel.pl^$all
 ||esneakers24.pl^$all
 ||esterakoty.pl^$all
+||etestery24.pl^$all
 ||euforiaa.icu^$all
 ||eupay.website^$all
 ||euroausili.it^$all
 ||eurolegis.pl^$all
 ||european-news.org^$all
 ||eurosprinthiker.pl^$all
+||eurotrades.pl^$all
 ||eu-markets.co^$all
 ||eu-pl.poland-pro-one.site^$all
 ||eu-roblox.com^$all
@@ -2282,6 +2295,7 @@
 ||facebookweryfikacja.tk^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
+||facebook-group.pl^$all
 ||facebook-informacje24.eu^$all
 ||facebook-live24.eu^$all
 ||facebook-pl.eu^$all
@@ -2377,6 +2391,7 @@
 ||fb.podpisz-petycje.eu^$all
 ||fcfg.pl^$all
 ||fdn4au.webwave.dev^$all
+||fecebook.com.pl^$all
 ||feiya.com.pl^$all
 ||fejs.cf^$all
 ||fejs.ga^$all
@@ -2573,6 +2588,7 @@
 ||futureadpro.com^$all
 ||futurepay.globway.eu^$all
 ||futuresbtcoffersnew.com^$all
+||future-idea.site^$all
 ||fx24options.org^$all
 ||fxba.xyz^$all
 ||fxcoins.org^$all
@@ -2937,6 +2953,7 @@
 ||https-olx.pl^$all
 ||http-olx-pl.site^$all
 ||http-olx.pl^$all
+||huabil.com^$all
 ||hubeiuv.com^$all
 ||huebner.com.pl^$all
 ||hugetradingincome.com^$all
@@ -3031,6 +3048,7 @@
 ||informacjeczestochowa.xyz^$all
 ||informacjefakty24online.pl^$all
 ||informacjefakty24.pl^$all
+||informacjefakty24.rf.gd^$all
 ||informacjegdansk.xyz^$all
 ||informacjekielce.xyz^$all
 ||informacjeopole.xyz^$all
@@ -3141,6 +3159,7 @@
 ||inpostpl.com^$all
 ||inpost-app.me^$all
 ||inpost-app.net^$all
+||inpost-a.id-43980.me^$all
 ||inpost-b.id-65393.me^$all
 ||inpost-delivering.icu^$all
 ||inpost-delivery-pl.icu^$all
@@ -3154,6 +3173,7 @@
 ||inpost-en.spredaz-online.club^$all
 ||inpost-express.com^$all
 ||inpost-generator.net^$all
+||inpost-g.id-43980.me^$all
 ||inpost-h.id-048357.me^$all
 ||inpost-info.com^$all
 ||inpost-kody.net^$all
@@ -3188,6 +3208,7 @@
 ||inpost-order.pl-id39999493.xyz^$all
 ||inpost-order.pl-id40624597.xyz^$all
 ||inpost-order.pl-id45917677.xyz^$all
+||inpost-order.pl-id47441235.xyz^$all
 ||inpost-order.pl-id52341838.xyz^$all
 ||inpost-order.pl-id53823746.xyz^$all
 ||inpost-order.pl-id56644415.xyz^$all
@@ -3302,6 +3323,7 @@
 ||inpost.order-pl.art^$all
 ||inpost.owndostaw.shop^$all
 ||inpost.paczkomaty.app^$all
+||inpost.paczkomat.cc^$all
 ||inpost.page^$all
 ||inpost.pay-web.site^$all
 ||inpost.plskontas.cyou^$all
@@ -4112,6 +4134,7 @@
 ||lotos-p.site^$all
 ||lots-investic.website^$all
 ||lots-investi.website^$all
+||lots-money.website^$all
 ||lot-pl.website^$all
 ||loudmatch.com^$all
 ||loutam.xyz^$all
@@ -4131,6 +4154,7 @@
 ||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||ltsale.onlineshopoutlet2021.com^$all
 ||lts-invest.site^$all
+||lts-invst.site^$all
 ||lubicplacki.is-best.net^$all
 ||lubiego.is-best.net^$all
 ||lubiszto.is-best.net^$all
@@ -4982,6 +5006,7 @@
 ||olx-e.pl^$all
 ||olx-finansowanie.cam^$all
 ||olx-ginza.com^$all
+||olx-g.id-43980.me^$all
 ||olx-g.pl^$all
 ||olx-h.id-43750.me^$all
 ||olx-h.id-89357.me^$all
@@ -5136,6 +5161,7 @@
 ||olx-pl-phv.id-76565.me^$all
 ||olx-pl-platnosci.info^$all
 ||olx-pl-rju.id864323.me^$all
+||olx-pl-zff.id-43980.me^$all
 ||olx-pl.3vd.me^$all
 ||olx-pl.beitarprenn.cf^$all
 ||olx-pl.cc^$all
@@ -5543,6 +5569,7 @@
 ||olx.pl.secure-service.life^$all
 ||olx.pl.secure-service.shop^$all
 ||olx.pl.service-secure.icu^$all
+||olx.pl.topaybbitfor.pw^$all
 ||olx.pl.transorbuy.pw^$all
 ||olx.pl.transpaypas.pw^$all
 ||olx.pl.*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -5614,6 +5641,7 @@
 ||onet-online.pl^$all
 ||onet-opole.xyz^$all
 ||onet-polska.czest.pl^$all
+||onet-polska.elk.pl^$all
 ||onet-polska.waw.pl^$all
 ||onet-pomocy.xyz^$all
 ||onet-pomorskie.xyz^$all
@@ -7164,6 +7192,7 @@
 ||revolution-fx.cc^$all
 ||reypey24.net^$all
 ||reypey.net^$all
+||re-bu-il-der.xyz^$all
 ||riadoca.com^$all
 ||riaubuy.com^$all
 ||rich-pay.online^$all
@@ -7335,6 +7364,7 @@
 ||secure-payuser01.serveirc.com^$all
 ||secure-safety.su^$all
 ||secure-service.xyz^$all
+||secure-sms.casa^$all
 ||secure-sms.co^$all
 ||secure-sms.one^$all
 ||secure.inpost.codes^$all
@@ -7691,7 +7721,9 @@
 ||star-m.shop^$all
 ||stational-danger.000webhostapp.com^$all
 ||status24.5p.pl^$all
+||statusmarkets.com^$all
 ||statusplat.pl^$all
+||status-mark.com^$all
 ||status.xn.pl^$all
 ||steamcammunity.com^$all
 ||steamcammunnity.ru.com^$all
@@ -7750,6 +7782,7 @@
 ||streamcormnmunity.ru.com^$all
 ||streamcornmuninty.me^$all
 ||streamimovies.com^$all
+||streaming-builder.com^$all
 ||streamwatch.pro^$all
 ||strefakina.pl^$all
 ||strefamlodych.pl^$all
@@ -7819,6 +7852,7 @@
 ||swiatfilmikow.pl^$all
 ||swiattesterow.pl^$all
 ||swiatwiadomosci.xyz^$all
+||swiat-biznes.elk.pl^$all
 ||swiat-biznes.pisz.pl^$all
 ||swiat-biznes.waw.pl^$all
 ||swiat-inaczej.you2.pl^$all
@@ -8922,37 +8956,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||11sms.xyz^$all
-||business-projecct.site^$all
-||d1bumk8mfrsydu.cloudfront.net^$all
-||d1p8dyp2gxbqpw.cloudfront.net^$all
-||d1q8biyz2tn4zg.cloudfront.net^$all
-||d1z6tk6r2eb9nk.cloudfront.net^$all
-||d23a4qe36f52h0.cloudfront.net^$all
-||d2lgpcvcfvhlng.cloudfront.net^$all
-||d2mqdjwfuufo1i.cloudfront.net^$all
-||d2zk8hngw9by32.cloudfront.net^$all
-||d2zkrpuw38jvvl.cloudfront.net^$all
-||d3k5kufj2o84lg.cloudfront.net^$all
-||d3kozaplv5igss.cloudfront.net^$all
-||d3uqzpy84i2hpj.cloudfront.net^$all
-||dahvn11ci1500.cloudfront.net^$all
-||dazhbuupola9m.cloudfront.net^$all
-||dk9tjsq16j5cl.cloudfront.net^$all
-||dwiruq26ue190.cloudfront.net^$all
-||facebook-group.pl^$all
-||fecebook.com.pl^$all
-||future-idea.site^$all
-||informacjefakty24.rf.gd^$all
-||inpost-a.id-43980.me^$all
-||inpost-g.id-43980.me^$all
-||inpost-order.pl-id47441235.xyz^$all
-||inpost.paczkomat.cc^$all
-||lots-money.website^$all
-||lts-invst.site^$all
-||olx-g.id-43980.me^$all
-||olx.pl.topaybbitfor.pw^$all
-||olx-pl-zff.id-43980.me^$all
-||onet-polska.elk.pl^$all
-||secure-sms.casa^$all
-||swiat-biznes.elk.pl^$all
