@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 30 Jul 2021, 13:07 UTC+02
-! Version: 2021.7.30.0
+! Last modified: Fri, 30 Jul 2021, 17:07 UTC+02
+! Version: 2021.7.30.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -5201,6 +5201,7 @@
 ||inpost-order.pl-id12043000.xyz^$all
 ||inpost-order.pl-id14144075.xyz^$all
 ||inpost-order.pl-id14873912.xyz^$all
+||inpost-order.pl-id18062242.xyz^$all
 ||inpost-order.pl-id21400206.xyz^$all
 ||inpost-order.pl-id24634297.xyz^$all
 ||inpost-order.pl-id25253958.xyz^$all
@@ -5223,6 +5224,7 @@
 ||inpost-order.pl-id67598643.xyz^$all
 ||inpost-order.pl-id69069606.xyz^$all
 ||inpost-order.pl-id74244312.xyz^$all
+||inpost-order.pl-id75121629.xyz^$all
 ||inpost-order.pl-id77770656.xyz^$all
 ||inpost-order.pl-id78418770.xyz^$all
 ||inpost-order.pl-id78832475.xyz^$all
@@ -7088,6 +7090,7 @@
 ||olx-order.pl-id59162782.xyz^$all
 ||olx-order.pl-id64370110.xyz^$all
 ||olx-order.pl-id64594310.xyz^$all
+||olx-order.pl-id75121629.xyz^$all
 ||olx-order.pl-id76721391.xyz^$all
 ||olx-order.pl-id77770656.xyz^$all
 ||olx-order.pl-id87869773.xyz^$all
@@ -7573,6 +7576,7 @@
 ||olx.pl.secure-service.life^$all
 ||olx.pl.secure-service.shop^$all
 ||olx.pl.service-secure.icu^$all
+||olx.pl.tobuypittrans.pw^$all
 ||olx.pl.topaybbitfor.pw^$all
 ||olx.pl.transorbuy.pw^$all
 ||olx.pl.transpaypas.pw^$all
@@ -7912,6 +7916,7 @@
 ||paloki-pl.com^$all
 ||pamelambarnettcounseling.com^$all
 ||panaceum-poznan.pl^$all
+||panelpl.pl^$all
 ||panel.home.pl.frustone.it^$all
 ||panel.home.pl.muna.it^$all
 ||panel.home.pl.vespaclub.com^$all
@@ -8253,9 +8258,11 @@
 ||peytosl.net^$all
 ||peytos.net^$all
 ||peytrom.net^$all
+||pgeforpl.info^$all
 ||pgeoffer.space^$all
 ||pgeplinvpge-1inv.info^$all
 ||pgeplinvpge-1pl.info^$all
+||pgepl-inv.info^$all
 ||pgepl.info^$all
 ||pge-group1.info^$all
 ||pge-group1.site^$all
@@ -10650,6 +10657,7 @@
 ||www-plnsafedeal.link^$all
 ||ww.paczkaups.com^$all
 ||ww.paczkjups.com^$all
+||ww.paczksups.com^$all
 ||wx-xcx.xyz^$all
 ||wybierajmy-mistrza.eu^$all
 ||wybierz-nagrode.pl^$all
