@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 31 Jul 2021, 17:06 UTC+02
-! Version: 2021.7.31.1
+! Last modified: Sat, 31 Jul 2021, 21:07 UTC+02
+! Version: 2021.7.31.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1625,6 +1625,7 @@
 ||xmlgrab.com^$all
 ||xn--pandorabiuteria-qkd.pl^$all
 ||xn--poyczaj-xwb.online.pl^$all
+||xogotel.com^$all
 ||yakomi88.com^$all
 ||yarito4.com^$all
 ||yill666.com^$all
@@ -2145,6 +2146,7 @@
 ||1821456.dg398993.web.hosting-test.net^$all
 ||66463423.moonfruit.com^$all
 ||7867565564.000webhostapp.com^$all
+||008753331120.com^$all
 ||23459867534.000webhostapp.com^$all
 ||a2btrans.pl^$all
 ||a2plvcpnl308307.prod.iad2.secureserver.net^$all
@@ -4152,6 +4154,7 @@
 ||enegetyczhna.xyz^$all
 ||energetyczna.host^$all
 ||energetyczna.link^$all
+||energetyczna.store^$all
 ||energetyczna.xyz^$all
 ||energikundservice.se^$all
 ||energpl.xyz^$all
@@ -6045,6 +6048,7 @@
 ||lisygarments.com^$all
 ||lite-messenger.com^$all
 ||litoren.com^$all
+||liveboxs.org^$all
 ||liversely.com^$all
 ||liviosklep.pl^$all
 ||lkinvest.onelasinvee77.site^$all
@@ -7102,6 +7106,7 @@
 ||olx-order.pl-id34878042.xyz^$all
 ||olx-order.pl-id38571035.xyz^$all
 ||olx-order.pl-id39999493.xyz^$all
+||olx-order.pl-id41815853.xyz^$all
 ||olx-order.pl-id42877746.xyz^$all
 ||olx-order.pl-id46110409.xyz^$all
 ||olx-order.pl-id47068752.xyz^$all
@@ -7287,6 +7292,7 @@
 ||olx-spedycja.pl^$all
 ||olx-statuspay.com^$all
 ||olx-sz.id584757.me^$all
+||olx-s.id-50485.me^$all
 ||olx-transfer.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-ua.spredaz-online.club^$all
 ||olx-uh.id877899.me^$all
@@ -7586,6 +7592,7 @@
 ||olx.pl-wyjazd.site^$all
 ||olx.pl-zamawienie.shop^$all
 ||olx.pl-*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx.pl.baypaycitacom.pw^$all
 ||olx.pl.baytsitecom.pw^$all
 ||olx.pl.baytteperencom.pw^$all
 ||olx.pl.bskiikcom.pw^$all
@@ -8749,6 +8756,7 @@
 ||polarizeshop.com^$all
 ||polecic.icu^$all
 ||polgov-invprog.info^$all
+||polgroup.host^$all
 ||police-info.dnsrobotuptime.ru^$all
 ||policja24info.pl.d103wh.d2.cz^$all
 ||policyjna-informacje.pl^$all
@@ -8768,6 +8776,7 @@
 ||polityka-onetkonto.net^$all
 ||polka-oferta.cyou^$all
 ||polki-nago.pl^$all
+||poll.cityxman.com^$all
 ||polonia-pl.com^$all
 ||poloralphlaurenpoland.pl^$all
 ||polsh.in^$all
@@ -10691,6 +10700,7 @@
 ||www-olx.pl^$all
 ||www-plnsafedeal.link^$all
 ||ww.paczkaups.com^$all
+||ww.paczkhups.com^$all
 ||ww.paczkjups.com^$all
 ||ww.paczksups.com^$all
 ||wx-xcx.xyz^$all
