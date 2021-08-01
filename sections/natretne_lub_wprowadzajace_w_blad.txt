@@ -1,5 +1,3 @@
-tyfloswiat.pl##^responseheader(location)
-||tyfloswiat.pl^$removeheader=location
 ~pl##a[href*="whokeys.com/"]:lang(pl)
 alltube.pl,alltube.tv##header #message-user, a[href*="https://alltube.com.pl/"]
 alltube.pl,alltube.tv#?#.row > div.col-sm-12:has(> .headline + div.row > div > div > a[href*="https://alltube.com.pl/"] > img)
@@ -17,6 +15,7 @@ instalki.pl##option[value$="dm=1"]
 pl##a[href*="whokeys.com/"]
 speedtest.pl,speedtest.com.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
+tyfloswiat.pl##^responseheader(location)
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
 /pobierz_*.exe$document
@@ -24,4 +23,5 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
+||tyfloswiat.pl^$removeheader=location
 ||uploadfile.pl/download.png$image
