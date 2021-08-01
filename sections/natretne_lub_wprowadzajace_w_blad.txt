@@ -1,3 +1,5 @@
+tyfloswiat.pl##^responseheader(location)
+||tyfloswiat.pl^$removeheader=location
 ~pl##a[href*="whokeys.com/"]:lang(pl)
 alltube.pl,alltube.tv##header #message-user, a[href*="https://alltube.com.pl/"]
 alltube.pl,alltube.tv#?#.row > div.col-sm-12:has(> .headline + div.row > div > div > a[href*="https://alltube.com.pl/"] > img)
