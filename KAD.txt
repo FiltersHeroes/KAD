@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 02 Aug 2021, 21:06 UTC+02
-! Version: 2021.8.2.2
+! Last modified: Tue, 03 Aug 2021, 13:06 UTC+02
+! Version: 2021.8.3.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2870,6 +2870,7 @@
 ||calyfilm-onlinepl.over-blog.com^$all
 ||cammalo.com^$all
 ||campaign-olx.pl^$all
+||canyouheal.org^$all
 ||canyouhelpus20.bar^$all
 ||carambaba.com^$all
 ||cardinalfx.trade^$all
@@ -4760,6 +4761,7 @@
 ||glosujemy-konkursy.eu^$all
 ||glosy-zostawiaj.eu^$all
 ||gls-dk-security.icu^$all
+||gls-parcel.com^$all
 ||gmai.com^$all
 ||gmediahealth.com^$all
 ||gn4et1.webwave.dev^$all
@@ -5076,6 +5078,7 @@
 ||informacje-prosto-ze-swiata.dnsrobotuptime.ru^$all
 ||informacje-prosto-z-polski.dnsrobotuptime.ru^$all
 ||informacje-swiatowe.dnsrobotuptime.ru^$all
+||informacje-twoje.waw.pl^$all
 ||informacje-twoje.xyz^$all
 ||informacje-tygodnia.waw.pl^$all
 ||informacje-zaginieni24.eu^$all
@@ -5115,6 +5118,7 @@
 ||info-prosto-z-polski.dnsrobotuptime.ru^$all
 ||info-sms.su^$all
 ||info-sobota24.waw.pl^$all
+||info-twoje.waw.pl^$all
 ||info-twoje.xyz^$all
 ||info-wtorek.waw.pl^$all
 ||info-wygrana24.waw.pl^$all
@@ -5236,6 +5240,7 @@
 ||inpost-order.pl-id85944668.xyz^$all
 ||inpost-order.pl-id86817971.xyz^$all
 ||inpost-order.pl-id86870340.xyz^$all
+||inpost-order.pl-id86935828.xyz^$all
 ||inpost-order.pl-id87643897.xyz^$all
 ||inpost-order.pl-id89197393.xyz^$all
 ||inpost-order.pl-id89869033.xyz^$all
@@ -5639,6 +5644,7 @@
 ||itorrenty.org^$all
 ||itselforlen.website^$all
 ||iverifyids.pl^$all
+||iwiki.tw^$all
 ||iwiz-dom.com^$all
 ||iyeuryetts.firebaseapp.com^$all
 ||izalukaj.pl^$all
@@ -8186,6 +8192,8 @@
 ||payolx105.info^$all
 ||payolx107.info^$all
 ||payolx109.info^$all
+||payolx110.info^$all
+||payolx111.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -8683,6 +8691,7 @@
 ||poczta-order.pl-id61823441.xyz^$all
 ||poczta-order.pl-id80914635.xyz^$all
 ||poczta-order.pl-id81479747.xyz^$all
+||poczta-order.pl-id86008556.xyz^$all
 ||poczta-order.pl-id97693066.xyz^$all
 ||poczta-polska-pl.us^$all
 ||poczta-polska.eu^$all
@@ -9496,6 +9505,7 @@
 ||server669725.nazwa.pl^$all
 ||server759644.nazwa.pl^$all
 ||server800577.nazwa.pl^$all
+||server822687.nazwa.pl^$all
 ||server866978.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
 ||server870179.nazwa.pl^$all
@@ -9921,6 +9931,7 @@
 ||sv-forum.com^$all
 ||swapgg.pl^$all
 ||swiatfilmikow.pl^$all
+||swiatoweinformacje.waw.pl^$all
 ||swiatoweinformacje.xyz^$all
 ||swiatoweinfo.xyz^$all
 ||swiatowe-informacje.xyz^$all
@@ -10211,6 +10222,7 @@
 ||trzymajpoziom.pl^$all
 ||tskechpl.vestpast77.xyz^$all
 ||tubesmaza.cam^$all
+||tugdansk.xyz^$all
 ||tunaszapolska.xyz^$all
 ||tunehub247shop.com^$all
 ||tunele-sklep.com^$all
@@ -10418,6 +10430,7 @@
 ||vikingradom.freehost.pl^$all
 ||vikmar.com.pl^$all
 ||vikmot.xyz^$all
+||vinpost.id-87233.me^$all
 ||vinted.cc^$all
 ||viralka.pl^$all
 ||visa-payment.sytes.net^$all
@@ -10486,6 +10499,7 @@
 ||wczasywegry.pl^$all
 ||wczestochowie.xyz^$all
 ||wczorajszagazeta.online^$all
+||wdpd.id-87233.me^$all
 ||wdrodzeposukkces.website^$all
 ||wealthmarketscfd.com^$all
 ||weareforppl651.bar^$all
@@ -10882,6 +10896,7 @@
 ||zaglosuj-teraz.*^$all
 ||zajonc.de^$all
 ||zaktualizacja-platnosci.netaidver.site^$all
+||zaktualizacja-platnosci.netfix-pl.life^$all
 ||zaktualizacja-platnosci.zaplaca.xyz^$all
 ||zaktualizuj.neftlix.tajbirds.com^$all
 ||zakupowe-bystrzaki.click^$all
