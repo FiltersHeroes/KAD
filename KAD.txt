@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 03 Aug 2021, 17:07 UTC+02
-! Version: 2021.8.3.1
+! Last modified: Tue, 03 Aug 2021, 21:07 UTC+02
+! Version: 2021.8.3.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -4148,6 +4148,7 @@
 ||energetyczna.xyz^$all
 ||energikundservice.se^$all
 ||energpl.xyz^$all
+||energychna.site^$all
 ||energylaandia.pl^$all
 ||energylanda.pl^$all
 ||energylande.pl^$all
@@ -5207,6 +5208,7 @@
 ||inpost-order.pl-id11641532.xyz^$all
 ||inpost-order.pl-id11873189.xyz^$all
 ||inpost-order.pl-id12043000.xyz^$all
+||inpost-order.pl-id12274778.xyz^$all
 ||inpost-order.pl-id14144075.xyz^$all
 ||inpost-order.pl-id14873912.xyz^$all
 ||inpost-order.pl-id18062242.xyz^$all
@@ -5321,6 +5323,7 @@
 ||inpost.fit^$all
 ||inpost.generuj-kod.app^$all
 ||inpost.generuj-kod.com^$all
+||inpost.generuj-kod.me^$all
 ||inpost.generuj-kod.net^$all
 ||inpost.help^$all
 ||inpost.id746463.me^$all
@@ -6624,6 +6627,7 @@
 ||nbastorepolska.com^$all
 ||nbgmarket.com^$all
 ||nbsklepbuty.com^$all
+||ndpd.id-093578.me^$all
 ||nebeska.xyz^$all
 ||needforfile.net^$all
 ||nekkel.pl^$all
@@ -6708,6 +6712,7 @@
 ||ninjavpn.xyz^$all
 ||nirotrade.com^$all
 ||nitamo-sklep.pl^$all
+||nitro-gift.fun^$all
 ||njb-gmbh.com^$all
 ||nlublin.pl^$all
 ||nniesamovitewiesci.online^$all
@@ -7290,6 +7295,7 @@
 ||olx-prywatne.waw.pl^$all
 ||olx-przesylk*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pt-security.icu^$all
+||olx-pt.co^$all
 ||olx-pt.mobi^$all
 ||olx-purchase.com^$all
 ||olx-p-o-land.app^$all
@@ -9517,6 +9523,7 @@
 ||server759644.nazwa.pl^$all
 ||server800577.nazwa.pl^$all
 ||server822687.nazwa.pl^$all
+||server860934.nazwa.pl^$all
 ||server866978.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
 ||server870179.nazwa.pl^$all
