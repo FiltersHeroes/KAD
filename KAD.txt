@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 05 Aug 2021, 13:06 UTC+02
-! Version: 2021.8.5.0
+! Last modified: Thu, 05 Aug 2021, 17:07 UTC+02
+! Version: 2021.8.5.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2050,6 +2050,7 @@
 ||1plbudimex-1inv.info^$all
 ||1projektbudimpl.info^$all
 ||1pulsoksymetr-pl.com^$all
+||01sms.xyz^$all
 ||1y8v7s.store^$all
 ||2remove.guide^$all
 ||02sms.in^$all
@@ -2287,6 +2288,8 @@
 ||allegrolokalnie.pl-eumainpay.pw^$all
 ||allegrolokalnie.pl-itemspays.pw^$all
 ||allegrolokalnie.pl-transbuycom.pw^$all
+||allegrolokalnie.pl.fitpayingtoo.pw^$all
+||allegrolokalnie.pl.ipayingitemzto.pw^$all
 ||allegrolokalnie.pl.item-setpay.pw^$all
 ||allegrolokalnie.pl.paitybuy.site^$all
 ||allegrolokalnie.pl.terencomtrans.pw^$all
@@ -3439,6 +3442,7 @@
 ||d2yjmwzwcdfpmi.cloudfront.net^$all
 ||d2ym1oubw1eszq.cloudfront.net^$all
 ||d2yts7b9k3zbop.cloudfront.net^$all
+||d2z3vg4x8hktv8.cloudfront.net^$all
 ||d2z5qakd2ama3r.cloudfront.net^$all
 ||d2zjpn2f2drd45.cloudfront.net^$all
 ||d2zk8hngw9by32.cloudfront.net^$all
@@ -3540,6 +3544,7 @@
 ||d3qlmfpotmwd31.cloudfront.net^$all
 ||d3qmypk03l0gog.cloudfront.net^$all
 ||d3qo0gbc1j3voj.cloudfront.net^$all
+||d3qo1qtsfuufkz.cloudfront.net^$all
 ||d3qpb8xyn715i4.cloudfront.net^$all
 ||d3r09ym6czsthb.cloudfront.net^$all
 ||d3rzloh6xv2xem.cloudfront.net^$all
@@ -3575,6 +3580,7 @@
 ||d4w3a89sf79qx.cloudfront.net^$all
 ||d4y6zofef2seo.cloudfront.net^$all
 ||d5f7obcyjvy4y.cloudfront.net^$all
+||d5r0j7svxb51o.cloudfront.net^$all
 ||d5r0q30q6fbi0.cloudfront.net^$all
 ||d6bwmymz83ob5.cloudfront.net^$all
 ||d6sdrygslyc0g.cloudfront.net^$all
@@ -3787,6 +3793,7 @@
 ||dd5sehfh7gng0.cloudfront.net^$all
 ||ddad9qpbf0w0a.cloudfront.net^$all
 ||ddalygqcl0z3r.cloudfront.net^$all
+||ddcw0abzvstt0.cloudfront.net^$all
 ||ddhtsogw19ulc.cloudfront.net^$all
 ||ddpd.id-65393.me^$all
 ||ddufho0zojhbs.cloudfront.net^$all
@@ -3875,7 +3882,9 @@
 ||dhl-twojapaczka.com^$all
 ||dhl-twojkurier.com^$all
 ||dhw95zubayctu.cloudfront.net^$all
+||dhy91igedferm.cloudfront.net^$all
 ||di3kgulwn8pf0.cloudfront.net^$all
+||dib0b8ebxchvs.cloudfront.net^$all
 ||dietasekret.pl^$all
 ||differentpplz.top^$all
 ||differept.com^$all
@@ -5162,6 +5171,7 @@
 ||infofpolska.online^$all
 ||infokrk.co.pl^$all
 ||infolokalne24.pl^$all
+||infomacjeonline.rf.gd^$all
 ||infopodatek.net^$all
 ||inforadiogazeta.site^$all
 ||informacja24.eu^$all
@@ -5722,6 +5732,7 @@
 ||investor500.com^$all
 ||investo.tech^$all
 ||investprevent.com^$all
+||investspit.com.de^$all
 ||invest-educ.site^$all
 ||invest-fd.io^$all
 ||invest-flow.io^$all
@@ -6275,6 +6286,7 @@
 ||lotkopty.xyz^$all
 ||lotnik.cyou^$all
 ||lotnik.icu^$all
+||lotosgrupapl.online^$all
 ||lotosgr-pl.info^$all
 ||lotosinvest.info^$all
 ||lotospl.website^$all
@@ -8356,6 +8368,7 @@
 ||payolx114.info^$all
 ||payolx115.info^$all
 ||payolx116.info^$all
+||payolx118.info^$all
 ||payones.net^$all
 ||payorte.net^$all
 ||paypalticket-id-2e382123.com^$all
@@ -8491,6 +8504,7 @@
 ||pge-invest.website^$all
 ||pge-pl-group.info^$all
 ||pge-pl.info^$all
+||pge.auction^$all
 ||pge.digital^$all
 ||pge.today^$all
 ||pge.toinvest.pro^$all
@@ -8611,6 +8625,7 @@
 ||pliks.pl^$all
 ||plinjo.xyz^$all
 ||pllotosgrupe.site^$all
+||pllotos.online^$all
 ||plmoda24.com^$all
 ||plnd-invest.site^$all
 ||plnn.in^$all
@@ -9858,6 +9873,7 @@
 ||sms-secure.one^$all
 ||sms-za-darmo.pl^$all
 ||sms.mba^$all
+||sms.pl-id56147885.xyz^$all
 ||smushgame.com^$all
 ||sneakerspace.pl^$all
 ||sne.bydgoszcz.pl^$all
@@ -10914,6 +10930,7 @@
 ||www-olx.pl^$all
 ||www-plnsafedeal.link^$all
 ||ww.paczkaups.com^$all
+||ww.paczkfups.com^$all
 ||ww.paczkhups.com^$all
 ||ww.paczkjups.com^$all
 ||ww.paczkrups.com^$all
