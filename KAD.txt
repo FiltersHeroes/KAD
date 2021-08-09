@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 09 Aug 2021, 13:07 UTC+02
-! Version: 2021.8.9.0
+! Last modified: Mon, 09 Aug 2021, 17:06 UTC+02
+! Version: 2021.8.9.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -238,6 +238,7 @@
 ||butysuprassklep.com^$all
 ||butyvanspolska.com^$all
 ||butyvibrams.pl^$all
+||butyvibram.com^$all
 ||butyvibram.pl^$all
 ||buzzihome.com^$all
 ||buzzonclick.com^$all
@@ -493,6 +494,7 @@
 ||fitsweets.pl^$all
 ||fit-buzz.com^$all
 ||fizjoreha.pl^$all
+||fjallravenpolska.com^$all
 ||flamefolder.com^$all
 ||flapi.pl^$all
 ||flufanceineo.com^$all
@@ -808,6 +810,7 @@
 ||loveaholics.com^$all
 ||loverlywigs.com^$all
 ||lovett5.com^$all
+||lowabutysklep.pl^$all
 ||lowisko-podolsze.pl^$all
 ||lpilogryfice.pl^$all
 ||lp-wip.pl^$all
@@ -976,6 +979,7 @@
 ||nikewarszawa.com^$all
 ||nilco.pl^$all
 ||ninawertz.pl^$all
+||ninewestpolska.com^$all
 ||ninewestpolska.pl^$all
 ||niskamaskincare.pl^$all
 ||noatanice.com^$all
@@ -1091,6 +1095,7 @@
 ||playmax.co^$all
 ||playweez.pl^$all
 ||play-cda.pl^$all
+||plecakfjallravenkanken.com^$all
 ||plik-pobierz.pl^$all
 ||plsale.outletsdiscount2021.com^$all
 ||plusmedia.pl^$all
@@ -1259,10 +1264,12 @@
 ||salomonbuty.pl^$all
 ||salomonpolska.com^$all
 ||salomonsklep.pl^$all
+||salomon-polska.com^$all
 ||salon-adriatyk.pl^$all
 ||sameperelki.shop^$all
 ||samsung-klimatyzacja.pl^$all
 ||sandrografia.pl^$all
+||sanuk-poland.com^$all
 ||sauconybuty.com^$all
 ||sauconypolska.com^$all
 ||sauconysklep.com^$all
@@ -2413,6 +2420,7 @@
 ||apptrader.com^$all
 ||app*.kromtech.net^$all,domain=net
 ||app-messenger-lite.com^$all
+||app-netflix.ratedyork.tk^$all
 ||app.uniswap.info-tokens.com^$all
 ||aprove-confrim.000webhostapp.com^$all
 ||aptecznypunkt.pl^$all
@@ -3439,6 +3447,7 @@
 ||d2n1sqfskmso82.cloudfront.net^$all
 ||d2n5pkibpy32m7.cloudfront.net^$all
 ||d2n60vl9bql26e.cloudfront.net^$all
+||d2nhh8ozcxm677.cloudfront.net^$all
 ||d2nhx259bokelt.cloudfront.net^$all
 ||d2ni38i30eqd5j.cloudfront.net^$all
 ||d2noym08kbyyqc.cloudfront.net^$all
@@ -3514,6 +3523,7 @@
 ||d2ycz30klri3f9.cloudfront.net^$all
 ||d2yjmwzwcdfpmi.cloudfront.net^$all
 ||d2ym1oubw1eszq.cloudfront.net^$all
+||d2yrxlgmrguqr2.cloudfront.net^$all
 ||d2yts7b9k3zbop.cloudfront.net^$all
 ||d2yugdmt6was6r.cloudfront.net^$all
 ||d2z3vg4x8hktv8.cloudfront.net^$all
@@ -3712,6 +3722,7 @@
 ||d9ii1r9blfm7t.cloudfront.net^$all
 ||d9on88ut98wnp.cloudfront.net^$all
 ||d9ykh527daqov.cloudfront.net^$all
+||d10dsa4c47q4k3.cloudfront.net^$all
 ||d10i8jqdncw3au.cloudfront.net^$all
 ||d10lvcyx4jz5pe.cloudfront.net^$all
 ||d10nwlgk9cn673.cloudfront.net^$all
@@ -3722,6 +3733,7 @@
 ||d11kr15frhb9sx.cloudfront.net^$all
 ||d11oogfirpog9g.cloudfront.net^$all
 ||d11vkfwll30jro.cloudfront.net^$all
+||d12i0do91byh6h.cloudfront.net^$all
 ||d12qe38yyfom06.cloudfront.net^$all
 ||d12tcwox6wvinf.cloudfront.net^$all
 ||d12tfcfyap6494.cloudfront.net^$all
@@ -3827,6 +3839,7 @@
 ||d33fr8d3ajwiqd.cloudfront.net^$all
 ||d33gvvv3qlldvm.cloudfront.net^$all
 ||d33i3rl7mft3qp.cloudfront.net^$all
+||d33l75kij8la3y.cloudfront.net^$all
 ||d33q31nq09dxxw.cloudfront.net^$all
 ||d33zlsefl59aos.cloudfront.net^$all
 ||d34f4api73rr1g.cloudfront.net^$all
@@ -3875,6 +3888,7 @@
 ||d246aj2kyx0kq6.cloudfront.net^$all
 ||d270mmppqyrxvh.cloudfront.net^$all
 ||d278e6l7afg8fl.cloudfront.net^$all
+||d278x9hvw7q8iw.cloudfront.net^$all
 ||d289uswu7m57s.cloudfront.net^$all
 ||d297quumgrfsv0.cloudfront.net^$all
 ||d301v60xcaq10j.cloudfront.net^$all
@@ -4632,6 +4646,7 @@
 ||facebookcom-43632337.techsso.com^$all
 ||facebookcom-49851167.techsso.com^$all
 ||facebookweryfikacja.ga^$all
+||facebookweryfikacja.tk^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-group.pl^$all
@@ -4692,6 +4707,7 @@
 ||fakt*.is-best.net^$all
 ||fakt-news24.eu^$all
 ||fakt-online24.eu^$all
+||fakt.pomoz-rozpoznac-sprawce.tk^$all
 ||fan1inevsbudim.info^$all
 ||fan-budimex1.info^$all
 ||faraweel.com^$all
@@ -5608,6 +5624,7 @@
 ||inpost-order.pl-id96807809.xyz^$all
 ||inpost-order.pl-id97379495.xyz^$all
 ||inpost-order.pl-id97433309.xyz^$all
+||inpost-o.id-9843.me^$all
 ||inpost-o.id-76565.me^$all
 ||inpost-paczkomat.net^$all
 ||inpost-payouts.site^$all
@@ -7514,6 +7531,7 @@
 ||olx-order.pl-id64370110.xyz^$all
 ||olx-order.pl-id64594310.xyz^$all
 ||olx-order.pl-id65659316.xyz^$all
+||olx-order.pl-id68447784.xyz^$all
 ||olx-order.pl-id73915347.xyz^$all
 ||olx-order.pl-id75121629.xyz^$all
 ||olx-order.pl-id76721391.xyz^$all
@@ -8773,6 +8791,7 @@
 ||pissettiadvogados.com.br^$all
 ||pitonswerder.work^$all
 ||pixxi.shoplo.com^$all
+||pknlpl.com^$all
 ||pkobp.online^$all
 ||pkopl.com^$all
 ||pko-bp.pl^$all
@@ -9087,6 +9106,7 @@
 ||poczta-o2.pl^$all
 ||poczta-order.pl-id14873912.xyz^$all
 ||poczta-order.pl-id34848308.xyz^$all
+||poczta-order.pl-id51774062.xyz^$all
 ||poczta-order.pl-id53823746.xyz^$all
 ||poczta-order.pl-id57950441.xyz^$all
 ||poczta-order.pl-id60151865.xyz^$all
@@ -10103,6 +10123,7 @@
 ||sms-info.one^$all
 ||sms-info.su^$all
 ||sms-i.in^$all
+||sms-safe.xyz^$all
 ||sms-secure.one^$all
 ||sms-za-darmo.pl^$all
 ||sms.mba^$all
@@ -10537,6 +10558,8 @@
 ||tobylodzisranowtvv.cyou^$all
 ||tobylowczoraj.xyz^$all
 ||tobyniczegoniezmienilo.cyou^$all
+||tobytom.xyz^$all
+||toczestochowa.xyz^$all
 ||todayreact046.shop^$all
 ||todayreact511.casa^$all
 ||todayreact511.club^$all
@@ -10546,6 +10569,7 @@
 ||todolize.com^$all
 ||todosiebiiepassuje.club^$all
 ||toe-corrector-pl.com^$all
+||togdynia.xyz^$all
 ||tojestbardzociezzkie.site^$all
 ||tojestisttotne24.club^$all
 ||tojestnewsprawdziwy.xyz^$all
@@ -10629,6 +10653,7 @@
 ||trezbatoogarnnac.site^$all
 ||trikwindows.com^$all
 ||trimulianugraha.com^$all
+||tripadvisor-com.rentals25517.com^$all
 ||trofeum-zdobywamy.eu^$all
 ||tronte.xyz^$all
 ||trotamundos.com.pl^$all
@@ -10656,6 +10681,7 @@
 ||tura-informacyjna.eu^$all
 ||turow-1project.info^$all
 ||turystyka.cal.pl^$all
+||tvblog.waw.pl^$all
 ||tvinfo24-online.pl^$all
 ||tvinfo-24.pl^$all
 ||tvinfo.katowice.pl^$all
