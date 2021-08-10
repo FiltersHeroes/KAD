@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 10 Aug 2021, 13:06 UTC+02
-! Version: 2021.8.10.0
+! Last modified: Tue, 10 Aug 2021, 17:06 UTC+02
+! Version: 2021.8.10.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -219,6 +219,7 @@
 ||butykamikopinie.pl^$all
 ||butykeenpolska.com^$all
 ||butylotto.pl^$all
+||butylowa.com^$all
 ||butymartensy.com^$all
 ||butymizunopolska.com^$all
 ||butyonlinesklep.com^$all
@@ -2706,6 +2707,7 @@
 ||blackstone500.com^$all
 ||blankiet-wspieraj.eu^$all
 ||blockchainjoblist.com^$all
+||bloginfo.waw.pl^$all
 ||blog.lalalalala.club^$all
 ||bluesz.pl^$all
 ||bncoposta.com^$all
@@ -3161,6 +3163,7 @@
 ||czymsiezajmujebiznes.cyou^$all
 ||czyn-pomocy.eu^$all
 ||czyscidlo.pl^$all
+||czyscimniedupa.xyz^$all
 ||czytanie.site^$all
 ||czytelnikpoliska.club^$all
 ||czytooszustwo.pl^$all
@@ -3242,6 +3245,7 @@
 ||d1k6hnlg2gtxfc.cloudfront.net^$all
 ||d1k56tjpmngmzw.cloudfront.net^$all
 ||d1k60u3wbb97gr.cloudfront.net^$all
+||d1kc7o49y235o0.cloudfront.net^$all
 ||d1kh8sgkgqw2x6.cloudfront.net^$all
 ||d1kqycvamd3qek.cloudfront.net^$all
 ||d1ktusbv860p4j.cloudfront.net^$all
@@ -3448,6 +3452,7 @@
 ||d2kwx5atwuks9c.cloudfront.net^$all
 ||d2l7zlo0thlrf4.cloudfront.net^$all
 ||d2lb83ybl22jem.cloudfront.net^$all
+||d2lfy0hittp95q.cloudfront.net^$all
 ||d2lg05a9nw0qzh.cloudfront.net^$all
 ||d2lgpcvcfvhlng.cloudfront.net^$all
 ||d2lia7e2uhjvv1.cloudfront.net^$all
@@ -3589,6 +3594,7 @@
 ||d3dsdxp1xy072f.cloudfront.net^$all
 ||d3dwdys60qg2it.cloudfront.net^$all
 ||d3dwn8a8ey7v02.cloudfront.net^$all
+||d3ecahaxy1lxw0.cloudfront.net^$all
 ||d3esgegqe8nlw5.cloudfront.net^$all
 ||d3f1i9ucuggoqt.cloudfront.net^$all
 ||d3fen6jo33tkox.cloudfront.net^$all
@@ -3694,6 +3700,7 @@
 ||d3sm7ikds99oqd.cloudfront.net^$all
 ||d3snv0jp3gssth.cloudfront.net^$all
 ||d3sug1ckyumj6c.cloudfront.net^$all
+||d3suqdinz2wa8k.cloudfront.net^$all
 ||d3t0d29mpr4wpb.cloudfront.net^$all
 ||d3t7i99jg0w13n.cloudfront.net^$all
 ||d3t48bevxuic2e.cloudfront.net^$all
@@ -3760,12 +3767,14 @@
 ||d10lvcyx4jz5pe.cloudfront.net^$all
 ||d10nwlgk9cn673.cloudfront.net^$all
 ||d11bclj2ikv1dk.cloudfront.net^$all
+||d11d0pejgc24kc.cloudfront.net^$all
 ||d11exmupt60x9a.cloudfront.net^$all
 ||d11gpg3e9dbiix.cloudfront.net^$all
 ||d11iyvgj9h00tn.cloudfront.net^$all
 ||d11kr15frhb9sx.cloudfront.net^$all
 ||d11oogfirpog9g.cloudfront.net^$all
 ||d11vkfwll30jro.cloudfront.net^$all
+||d11yzayg3u1yh6.cloudfront.net^$all
 ||d12ezckiej24ba.cloudfront.net^$all
 ||d12i0do91byh6h.cloudfront.net^$all
 ||d12ifva2i1e8mq.cloudfront.net^$all
@@ -5102,6 +5111,7 @@
 ||gazeta.lomza.pl^$all
 ||gazetka24.alte.pl^$all
 ||gazetka24.laohost.net^$all
+||gazetkowy.xyz^$all
 ||gazetowo.pl^$all
 ||gazprom-platform.website^$all
 ||gcesab.com^$all
@@ -5525,6 +5535,7 @@
 ||infozkraju.eu^$all
 ||info-16.me^$all
 ||info-centrum.co.pl^$all
+||info-dla-kazdego.xyz^$all
 ||info-dnia.waw.pl^$all
 ||info-inpost.pl^$all
 ||info-niedziela.waw.pl^$all
@@ -5922,6 +5933,7 @@
 ||inpost.pl-sendorder.cyou^$all
 ||inpost.pl-sendorder.icu^$all
 ||inpost.pl-sendorder.xyz^$all
+||inpost.pl-transbuyitemsget.site^$all
 ||inpost.pl-transbuy.pw^$all
 ||inpost.pl-transpaycom.pw^$all
 ||inpost.pl-transpayenig.pw^$all
@@ -5954,9 +5966,11 @@
 ||inpost.pl.payitemptrans.pw^$all
 ||inpost.pl.paysstranscom.pw^$all
 ||inpost.pl.pay-online.pw^$all
+||inpost.pl.secure-dostawa.bar^$all
 ||inpost.pl.secure-dostawa.best^$all
 ||inpost.pl.secure-dostawa.club^$all
 ||inpost.pl.secure-dostawa.rest^$all
+||inpost.pl.secure-dostawa.sbs^$all
 ||inpost.pl.secure-dostawa.xyz^$all
 ||inpost.pl.secure-service.bar^$all
 ||inpost.pl.secure-service.cam^$all
@@ -6989,6 +7003,7 @@
 ||nagrania-informacje24.eu^$all
 ||nagrania-youtube.pl^$all
 ||nagranie24.ehost.pl^$all
+||nagranie-wypadku.pl^$all
 ||nagroda-sms.pl^$all
 ||nagroda.myartsonline.com^$all
 ||nagroderia.pl^$all
@@ -7003,6 +7018,7 @@
 ||najnowsze-informacje.com^$all
 ||najnowsze-informacje.waw.pl^$all
 ||najnowszymaterialletv.site^$all
+||najsmieszniejsze-na-fb.eu^$all
 ||najwiekszagazetapolska.online^$all
 ||najzabawniejsze.eu^$all
 ||namibiasafaritours.ml^$all
@@ -7200,6 +7216,8 @@
 ||n-mobile.net^$all
 ||o1fp6o.webwave.dev^$all
 ||o2informacje.waw.pl^$all
+||o2-gazeta.xyz^$all
+||o2-gazetka.xyz^$all
 ||o2-informacja.waw.pl^$all
 ||o2-info.waw.pl^$all
 ||o2-online.pl^$all
@@ -7503,6 +7521,7 @@
 ||olx-i.id-05942.me^$all
 ||olx-i.pl^$all
 ||olx-j.id877899.me^$all
+||olx-j.id-9051.me^$all
 ||olx-j.id-76565.me^$all
 ||olx-j.pl^$all
 ||olx-ko.pl^$all
@@ -7595,6 +7614,7 @@
 ||olx-order.pl-id64594310.xyz^$all
 ||olx-order.pl-id65659316.xyz^$all
 ||olx-order.pl-id68447784.xyz^$all
+||olx-order.pl-id73190702.xyz^$all
 ||olx-order.pl-id73915347.xyz^$all
 ||olx-order.pl-id75121629.xyz^$all
 ||olx-order.pl-id76721391.xyz^$all
@@ -8046,6 +8066,7 @@
 ||olx.pl-suspended.icu^$all
 ||olx.pl-suspended.xyz^$all
 ||olx.pl-suspend.xyz^$all
+||olx.pl-transbuyitemsget.site^$all
 ||olx.pl-transpanigcom.pw^$all
 ||olx.pl-transpayingcom.pw^$all
 ||olx.pl-transpaying.pw^$all
@@ -8139,6 +8160,10 @@
 ||onatozrobila.xyz^$all
 ||onclickbright.com^$all
 ||ondergroot.xyz^$all
+||onecikowa.xyz^$all
+||onecikowe.xyz^$all
+||onecikowo.xyz^$all
+||onecikowy.xyz^$all
 ||onedrive-pl.cyou^$all
 ||onemed.com.pl^$all
 ||onepowerdesign.site^$all
@@ -8151,6 +8176,8 @@
 ||onetmailsupportsystemnetworks.tk^$all
 ||onetporwanie.*^$all
 ||onetposzukiwani.*^$all
+||onetujemy-wszyscy.waw.pl^$all
+||onetujemy.waw.pl^$all
 ||onet-24.space^$all
 ||onet-belchatow.xyz^$all
 ||onet-biznesmeni.xyz^$all
@@ -8329,6 +8356,7 @@
 ||oszczepionkach.you2.pl^$all
 ||otodom-sprzedaz.com^$all
 ||otomoto3452.com^$all
+||otomotokonto3463.net^$all
 ||otomotokonto4321.com^$all
 ||otomotokonto4231532.de^$all
 ||otomotoprofi.nl^$all
@@ -9017,6 +9045,7 @@
 ||pl-lotos-cashup.site^$all
 ||pl-lotos-cash.site^$all
 ||pl-lotos.info^$all
+||pl-lotos.ru^$all
 ||pl-lotos.site^$all
 ||pl-lotus.info^$all
 ||pl-makedeal.casa^$all
@@ -10451,8 +10480,10 @@
 ||swiatfilmikow.pl^$all
 ||swiatoweinformacje.waw.pl^$all
 ||swiatoweinformacje.xyz^$all
+||swiatoweinfo.waw.pl^$all
 ||swiatoweinfo.xyz^$all
 ||swiatowe-informacje.xyz^$all
+||swiatowe-info.waw.pl^$all
 ||swiattesterow.pl^$all
 ||swiatwiadomosci.xyz^$all
 ||swiat-biznes.elk.pl^$all
@@ -10793,12 +10824,15 @@
 ||twoje-fb-logowanie8.dnsrobotuptime.ru^$all
 ||twoje-filmyvod.pl^$all
 ||twoje-fotki.cleverapps.io^$all
+||twoje-informacje.waw.pl^$all
 ||twoje-informacje.xyz^$all
 ||twoje-info.xyz^$all
 ||twoje-lakocie.click^$all
 ||twoje-miasto.k99k.com.pl^$all
+||twoje-o2.waw.pl^$all
 ||twoje-ogloszenia.com^$all
 ||twoje-ogloszenie.com^$all
+||twoje-onet.waw.pl^$all
 ||twoje-polskie-infa.dnsrobotuptime.ru^$all
 ||twoje-polskie-info.dnsrobotuptime.ru^$all
 ||twoje-polski-informacje.dnsrobotuptime.ru^$all
@@ -10810,10 +10844,15 @@
 ||twoje-zdrowie.club^$all
 ||twojfilm.online^$all
 ||twojkurier-dhl.*^$all
+||twojonecik.waw.pl^$all
+||twojonet.waw.pl^$all
 ||twojpakunek.xyz^$all
 ||twoj-fart.click^$all
 ||twoj-inipost.com^$all
 ||twoj-kupon.click^$all
+||twoj-o2.waw.pl^$all
+||twoj-onecik.waw.pl^$all
+||twoj-onet.waw.pl^$all
 ||twoj-portal.e8e.pl^$all
 ||twoj-portal.k99k.com.pl^$all
 ||twoj-pupil.click^$all
@@ -11300,6 +11339,9 @@
 ||wyliczenia-sprawdzaj.eu^$all
 ||wymierneeffekty.site^$all
 ||wypadekenergia.waw.pl^$all
+||wypadek-nagranie.pl^$all
+||wypadek-tragedia.pl^$all
+||wypadek-transmisja.pl^$all
 ||wypadki24.e-kei.pl^$all
 ||wyposazeniedomow.com.pl^$all
 ||wyprzedaz-polska.cyou^$all
