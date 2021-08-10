@@ -1,10 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||steelblue.pl^$all
-||nowaokazja.club^$all
-||allianzmarket.biz^$all
-||global-groupmarkets.com^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -347,6 +343,7 @@
 ||allegro.pl.my-enj.xyz^$all
 ||allegro.pl.*.pl^$all,domain=pl|~allegro.pl
 ||allekurier.miami^$all
+||allianzmarket.biz^$all
 ||allianzmarket.com^$all
 ||alliegro.pl^$all
 ||allmp3.hostil.pl^$all
@@ -3210,6 +3207,7 @@
 ||gkpge.link^$all
 ||globalmaxis.com^$all
 ||globalmodels.pl^$all
+||global-groupmarkets.com^$all
 ||global-trading.website^$all
 ||glob-markets.net^$all
 ||glob-markets.pro^$all
@@ -5233,6 +5231,7 @@
 ||novvvaggazetapolska.cyou^$all
 ||nowadecyzjanowezycie.website^$all
 ||nowaformullabizznesu24.space^$all
+||nowaokazja.club^$all
 ||nowapoczta.xyz^$all
 ||nowapolskaa.cyou^$all
 ||nowapolskaa.xyz^$all
@@ -8426,6 +8425,7 @@
 ||stearncomminuty.ru^$all
 ||stearncommumiity.com^$all
 ||steawcomnunity.com^$all
+||steelblue.pl^$all
 ||stefanstrzalkowski.pl^$all
 ||stemcommnunilty.com^$all
 ||sterlemo.site^$all
