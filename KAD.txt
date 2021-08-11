@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 10 Aug 2021, 22:47 UTC+02
-! Version: 2021.8.10.3
+! Last modified: Wed, 11 Aug 2021, 13:06 UTC+02
+! Version: 2021.8.11.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -237,6 +237,7 @@
 ||butysorelpolska.com^$all
 ||butysportowepolska.pl^$all
 ||butysuprassklep.com^$all
+||butytevapl.com^$all
 ||butyvanspolska.com^$all
 ||butyvibrams.pl^$all
 ||butyvibram.com^$all
@@ -522,6 +523,7 @@
 ||fxgm.com^$all
 ||f-ads.pl^$all
 ||gabinetnewline.pl^$all
+||gaborpolska.com^$all
 ||gadajzdrow.eu^$all
 ||gajoshop.pl^$all
 ||galeriapn.pl^$all
@@ -985,6 +987,7 @@
 ||ninewestpolska.pl^$all
 ||niskamaskincare.pl^$all
 ||noatanice.com^$all
+||nodiotel.com^$all
 ||nonansklep.pl^$all
 ||noova-po.com^$all
 ||noozy-led.com^$all
@@ -2151,12 +2154,15 @@
 ||abomfartrdsgdf.webcindario.com^$all
 ||aboutk-24.me^$all
 ||aboutk-448.me^$all
+||abraa-sklep.pl^$all
+||abra-sklep.pl^$all
 ||absolutezeros.duckdns.org^$all
 ||abstractway.top^$all
 ||acceuil-serviceclient.com^$all
 ||account-identifiant.com^$all
 ||account.login.appid.customer.online.curriculumvitae.live^$all
 ||account.suspended-netftix.club^$all
+||acdpedia.com^$all
 ||acena.top^$all
 ||achalasiapedia.com^$all
 ||activation-netflix.com^$all
@@ -2508,6 +2514,7 @@
 ||badyna.pl^$all
 ||badznaptak.pl^$all
 ||bagato.space^$all
+||bagatta.xyz^$all
 ||bahrajn.icu^$all
 ||bajeranckie.pl^$all
 ||bajkowedekoracje.pl^$all
@@ -2699,6 +2706,7 @@
 ||biznesplanet-parlbabnp.com^$all
 ||biznesplanet-parlba.cloud^$all
 ||biznes-24.waw.pl^$all
+||blablacarpl.3dkassa.com^$all
 ||blablacar-de.pays-forms.info^$all
 ||blablacar-pay.cc^$all
 ||blablacar-pl.s-wallet.link^$all
@@ -3227,6 +3235,7 @@
 ||d1fzamk9me7j6o.cloudfront.net^$all
 ||d1gj2htigwswzh.cloudfront.net^$all
 ||d1gp86p9dfzex5.cloudfront.net^$all
+||d1gtryny4p8az4.cloudfront.net^$all
 ||d1gwmr7z0m3qwq.cloudfront.net^$all
 ||d1gzcgvjf9a926.cloudfront.net^$all
 ||d1hd2whcxy2oxp.cloudfront.net^$all
@@ -3235,6 +3244,7 @@
 ||d1hynkj1nk81d3.cloudfront.net^$all
 ||d1hz4yymnldxlq.cloudfront.net^$all
 ||d1hzpn8kk3gnkv.cloudfront.net^$all
+||d1i0ouqn7ffoee.cloudfront.net^$all
 ||d1i3y4y2goiq75.cloudfront.net^$all
 ||d1i4q9c9zj6h3l.cloudfront.net^$all
 ||d1i50q7l6111ik.cloudfront.net^$all
@@ -3274,6 +3284,7 @@
 ||d1npgmnwa6f3fv.cloudfront.net^$all
 ||d1nrc70vcbb0d6.cloudfront.net^$all
 ||d1nrlh17eere7e.cloudfront.net^$all
+||d1ntk7lackrrau.cloudfront.net^$all
 ||d1nxi3p7g70ljm.cloudfront.net^$all
 ||d1o5ugm4mackrc.cloudfront.net^$all
 ||d1oe5yuuhs2jld.cloudfront.net^$all
@@ -3294,6 +3305,7 @@
 ||d1ppczim070vc2.cloudfront.net^$all
 ||d1psigw5qnkx9q.cloudfront.net^$all
 ||d1pu6oqvmclsr4.cloudfront.net^$all
+||d1pwh56xgp6k6i.cloudfront.net^$all
 ||d1px6astekf6ww.cloudfront.net^$all
 ||d1py9a5qthzddt.cloudfront.net^$all
 ||d1q4t73mxqdf9q.cloudfront.net^$all
@@ -3351,6 +3363,7 @@
 ||d1vshnrm5muzgi.cloudfront.net^$all
 ||d1w1v3ojv0zhmo.cloudfront.net^$all
 ||d1w1whf5mptrns.cloudfront.net^$all
+||d1w4tjdfmer9d5.cloudfront.net^$all
 ||d1w6zsw52mj5bj.cloudfront.net^$all
 ||d1w370c0uot9pi.cloudfront.net^$all
 ||d1wce1bf5st3y6.cloudfront.net^$all
@@ -3445,6 +3458,7 @@
 ||d2ihofjajaz51.cloudfront.net^$all
 ||d2ijp7mc5b7l0t.cloudfront.net^$all
 ||d2itysgk5mpvmt.cloudfront.net^$all
+||d2ivkypbo2hnjg.cloudfront.net^$all
 ||d2iwn9vstu6p12.cloudfront.net^$all
 ||d2jhkxbfpe4nzj.cloudfront.net^$all
 ||d2jssw1nms8kca.cloudfront.net^$all
@@ -3498,6 +3512,7 @@
 ||d2ovivg4v0qxjm.cloudfront.net^$all
 ||d2p35bcxelxqzp.cloudfront.net^$all
 ||d2pdgz3r18za9h.cloudfront.net^$all
+||d2pf8njhd1xw97.cloudfront.net^$all
 ||d2pqkivjf3g5k5.cloudfront.net^$all
 ||d2pubdjkl8dey0.cloudfront.net^$all
 ||d2pv29cip53hjx.cloudfront.net^$all
@@ -3644,6 +3659,7 @@
 ||d3j9pc7yhichi7.cloudfront.net^$all
 ||d3jdrqwt8yggac.cloudfront.net^$all
 ||d3jfqy3y1871yh.cloudfront.net^$all
+||d3jmt4bgclserg.cloudfront.net^$all
 ||d3jo72wt2jooqa.cloudfront.net^$all
 ||d3jsabzgdtmdk2.cloudfront.net^$all
 ||d3jughl7k9y4nn.cloudfront.net^$all
@@ -3682,6 +3698,7 @@
 ||d3nqn4bwgnt0y6.cloudfront.net^$all
 ||d3o6x6wcpxd286.cloudfront.net^$all
 ||d3o8vhquqriu65.cloudfront.net^$all
+||d3o82iwteh5930.cloudfront.net^$all
 ||d3o92sis0yji3x.cloudfront.net^$all
 ||d3ocm1z8hwuyod.cloudfront.net^$all
 ||d3od1bbqv35we0.cloudfront.net^$all
@@ -3689,6 +3706,7 @@
 ||d3p2uvksoo8gtw.cloudfront.net^$all
 ||d3p3m76ag9gj6e.cloudfront.net^$all
 ||d3p7tmow1vleoo.cloudfront.net^$all
+||d3p9urd11864em.cloudfront.net^$all
 ||d3p8992fjphtyl.cloudfront.net^$all
 ||d3pancmty6wurz.cloudfront.net^$all
 ||d3pc390dvpqzsi.cloudfront.net^$all
@@ -3725,6 +3743,7 @@
 ||d3tdnc32pg1dm6.cloudfront.net^$all
 ||d3tgju2fe3if19.cloudfront.net^$all
 ||d3tiz7d9ud4xx9.cloudfront.net^$all
+||d3tky8lpjrfsj8.cloudfront.net^$all
 ||d3tliv28qjo65s.cloudfront.net^$all
 ||d3tm7ciaxxt9e.cloudfront.net^$all
 ||d3tuedwv4cfy49.cloudfront.net^$all
@@ -3749,6 +3768,7 @@
 ||d3vsohfrronl5v.cloudfront.net^$all
 ||d3w2owmgrmxb09.cloudfront.net^$all
 ||d3xcq298rmf22.cloudfront.net^$all
+||d3xqd8akoif8x.cloudfront.net^$all
 ||d3zbdw24b8urd.cloudfront.net^$all
 ||d4ayw5nfinkhq.cloudfront.net^$all
 ||d4bpupunkqyi4.cloudfront.net^$all
@@ -3802,6 +3822,7 @@
 ||d13nkb5i8odvp3.cloudfront.net^$all
 ||d13onk45obj98q.cloudfront.net^$all
 ||d13p8pjfjewrpo.cloudfront.net^$all
+||d13pjwmrumgl42.cloudfront.net^$all
 ||d13rhj8kcfcgm9.cloudfront.net^$all
 ||d13sef6b8sjqq8.cloudfront.net^$all
 ||d13ub5kvqkmcvg.cloudfront.net^$all
@@ -3816,6 +3837,7 @@
 ||d15rn4ctl3ccx9.cloudfront.net^$all
 ||d15wvgj5a0usjv.cloudfront.net^$all
 ||d15yxhpa7xaoip.cloudfront.net^$all
+||d16ilntxav66az.cloudfront.net^$all
 ||d16tca2zprdjy7.cloudfront.net^$all
 ||d16tiy94lroira.cloudfront.net^$all
 ||d16yglk64kx91u.cloudfront.net^$all
@@ -3824,6 +3846,7 @@
 ||d17lk891ih32q5.cloudfront.net^$all
 ||d17yvqksnax2ok.cloudfront.net^$all
 ||d17zroorb9xkez.cloudfront.net^$all
+||d18a9fzbyapsw3.cloudfront.net^$all
 ||d18c2mnk8xpfaf.cloudfront.net^$all
 ||d18h28i6i4tnmo.cloudfront.net^$all
 ||d18jntihm91nh.cloudfront.net^$all
@@ -3892,6 +3915,7 @@
 ||d29g6ewww58gsz.cloudfront.net^$all
 ||d30hbt0rlpewjj.cloudfront.net^$all
 ||d31hwl7tvoqtpd.cloudfront.net^$all
+||d31hyeb87xiu57.cloudfront.net^$all
 ||d31jymef52qqtc.cloudfront.net^$all
 ||d31mncwu8lg9dk.cloudfront.net^$all
 ||d31oh3uvgfar0b.cloudfront.net^$all
@@ -3925,6 +3949,7 @@
 ||d35ri9cffg1wdn.cloudfront.net^$all
 ||d35s76ui8ol8u7.cloudfront.net^$all
 ||d35zh4mwcg70bq.cloudfront.net^$all
+||d36b095s8coxxh.cloudfront.net^$all
 ||d36bok8k8k1n1l.cloudfront.net^$all
 ||d36judyoxgl2zo.cloudfront.net^$all
 ||d36nbgnuno71tn.cloudfront.net^$all
@@ -3953,6 +3978,7 @@
 ||d168u5ovk0xpjb.cloudfront.net^$all
 ||d169a6pnr5n4h2.cloudfront.net^$all
 ||d182p0mo6pnsdg.cloudfront.net^$all
+||d187swsqhr3yxk.cloudfront.net^$all
 ||d189rg7gxa6i7e.cloudfront.net^$all
 ||d190i45p2m3hbk.cloudfront.net^$all
 ||d235p9jy8mgkg1.cloudfront.net^$all
@@ -3987,13 +4013,16 @@
 ||d2480izb76j167.cloudfront.net^$all
 ||d2841o99ubdi90.cloudfront.net^$all
 ||d2998nypt519a0.cloudfront.net^$all
+||d3105ctrvf462g.cloudfront.net^$all
 ||d3140e6j71f9hm.cloudfront.net^$all
 ||d03307.top^$all
 ||d3513xcfpbcnht.cloudfront.net^$all
 ||d3877taz1legt5.cloudfront.net^$all
 ||d3889itag5jgx6.cloudfront.net^$all
 ||d3968odjr2hy3o.cloudfront.net^$all
+||d8629xs437w2v.cloudfront.net^$all
 ||d16026ycio8a62.cloudfront.net^$all
+||d17269dvo4vbnw.cloudfront.net^$all
 ||d34725q6gy71zj.cloudfront.net^$all
 ||da01odyv8jm54.cloudfront.net^$all
 ||da7itbt696zyr.cloudfront.net^$all
@@ -4036,6 +4065,7 @@
 ||daxioma.com^$all
 ||daxkapital.com^$all
 ||dazhbuupola9m.cloudfront.net^$all
+||db0ild0kb4um3.cloudfront.net^$all
 ||db8pg3je9y3ei.cloudfront.net^$all
 ||dbamyociebie.click^$all
 ||dbd3bzqstwii6.cloudfront.net^$all
@@ -4159,6 +4189,7 @@
 ||dhy91igedferm.cloudfront.net^$all
 ||di3kgulwn8pf0.cloudfront.net^$all
 ||di6bbajj28ymz.cloudfront.net^$all
+||di9iwv3abis8q.cloudfront.net^$all
 ||dib0b8ebxchvs.cloudfront.net^$all
 ||dietasekret.pl^$all
 ||differentpplz.top^$all
@@ -4169,6 +4200,7 @@
 ||directionxanc2021.ddns.net^$all
 ||dirproperties.com^$all
 ||discorcl.link^$all
+||discord-nitro.su^$all
 ||discsplay.com^$all
 ||distracted-babbage-7a44a8.netlify.app^$all
 ||distracted-babbage-*.netlify.app^$all
@@ -4229,6 +4261,7 @@
 ||dmkszjwmkjx8k.cloudfront.net^$all
 ||dmnsn8xidceg0.cloudfront.net^$all
 ||dmqxrk27t97xo.cloudfront.net^$all
+||dmt4dumgq62gv.cloudfront.net^$all
 ||dmuwshlrslrqn.cloudfront.net^$all
 ||dmv4iguknv69q.cloudfront.net^$all
 ||dmyvao51x5jfs.cloudfront.net^$all
@@ -4365,6 +4398,7 @@
 ||dpd-pi.id458759.me^$all
 ||dpd-pl-qpuq.ownoffferta.cc^$all
 ||dpd-pl-tjn.id-048357.me^$all
+||dpd-pl.id-3489.me^$all
 ||dpd-przesylki.pl^$all
 ||dpd-redirect-parcel-secure-user-address.halloween-quiz.co.uk^$all
 ||dpd.id847393.me^$all
@@ -4415,10 +4449,12 @@
 ||dsw8jvs2jf1m1.cloudfront.net^$all
 ||dswj6vzp9lacv.cloudfront.net^$all
 ||dsyxuog2w7vdz.cloudfront.net^$all
+||dt741wawpv01o.cloudfront.net^$all
 ||dtcvp5x34aags.cloudfront.net^$all
 ||dtech.host^$all
 ||dtfodjgrril93.cloudfront.net^$all
 ||dtmx.pl^$all
+||dts1kxf374pxw.cloudfront.net^$all
 ||dtyx37y4l24ta.cloudfront.net^$all
 ||du5p13zqpcet3.cloudfront.net^$all
 ||du6al4tu98t29.cloudfront.net^$all
@@ -4438,6 +4474,7 @@
 ||dv46z6n7h2vbw.cloudfront.net^$all
 ||dva0tsa91cw5m.cloudfront.net^$all
 ||dvhaaubsngg1m.cloudfront.net^$all
+||dvioaj7wq2gpq.cloudfront.net^$all
 ||dw02dd3e60dvv.cloudfront.net^$all
 ||dw4akpdl00jvn.cloudfront.net^$all
 ||dwf.life^$all
@@ -4584,8 +4621,10 @@
 ||energetyczna.store^$all
 ||energetyczna.xyz^$all
 ||energialandia.waw.pl^$all
+||energiatwoja.waw.pl^$all
 ||energiawypadek.waw.pl^$all
 ||energia-landia.waw.pl^$all
+||energia-twoja.waw.pl^$all
 ||energia-wypadek.waw.pl^$all
 ||energikundservice.se^$all
 ||energpl.xyz^$all
@@ -5678,6 +5717,7 @@
 ||inpost-order.pl-id39592096.xyz^$all
 ||inpost-order.pl-id39999493.xyz^$all
 ||inpost-order.pl-id40624597.xyz^$all
+||inpost-order.pl-id40719497.xyz^$all
 ||inpost-order.pl-id41815853.xyz^$all
 ||inpost-order.pl-id42170318.xyz^$all
 ||inpost-order.pl-id45917677.xyz^$all
@@ -5696,6 +5736,7 @@
 ||inpost-order.pl-id67598643.xyz^$all
 ||inpost-order.pl-id68896994.xyz^$all
 ||inpost-order.pl-id69069606.xyz^$all
+||inpost-order.pl-id69822218.xyz^$all
 ||inpost-order.pl-id72465947.xyz^$all
 ||inpost-order.pl-id73915347.xyz^$all
 ||inpost-order.pl-id74244312.xyz^$all
@@ -5707,6 +5748,7 @@
 ||inpost-order.pl-id82571828.xyz^$all
 ||inpost-order.pl-id85944668.xyz^$all
 ||inpost-order.pl-id86275767.xyz^$all
+||inpost-order.pl-id86360563.xyz^$all
 ||inpost-order.pl-id86817971.xyz^$all
 ||inpost-order.pl-id86870340.xyz^$all
 ||inpost-order.pl-id86935828.xyz^$all
@@ -5777,6 +5819,7 @@
 ||inpost-s.id-13549.me^$all
 ||inpost-terms.icu^$all
 ||inpost-t.id-0687.me^$all
+||inpost-w.id-3489.me^$all
 ||inpost-x.id-43895.me^$all
 ||inpost-y.id-65393.me^$all
 ||inpost-zamowienie.pl^$all
@@ -5862,6 +5905,7 @@
 ||inpost.pl-getexpres.cyou^$all
 ||inpost.pl-getexpres.icu^$all
 ||inpost.pl-getexpres.xyz^$all
+||inpost.pl-getpaid.cyou^$all
 ||inpost.pl-getwallet.cyou^$all
 ||inpost.pl-give-cash.cyou^$all
 ||inpost.pl-give-cash.shop^$all
@@ -5871,6 +5915,7 @@
 ||inpost.pl-goodorders.icu^$all
 ||inpost.pl-goodorders.xyz^$all
 ||inpost.pl-goodorder.cyou^$all
+||inpost.pl-gotpay.icu^$all
 ||inpost.pl-gotwallet.cyou^$all
 ||inpost.pl-gotwallet.icu^$all
 ||inpost.pl-gotwallet.xyz^$all
@@ -5905,11 +5950,18 @@
 ||inpost.pl-itemzpaying.pw^$all
 ||inpost.pl-item.paymonieycom.pw^$all
 ||inpost.pl-live-delivery.icu^$all
+||inpost.pl-orderpaid.cyou^$all
+||inpost.pl-paidcash.icu^$all
 ||inpost.pl-paidgo.cyou^$all
 ||inpost.pl-paidgo.icu^$all
 ||inpost.pl-paidgo.shop^$all
 ||inpost.pl-paidgo.xyz^$all
+||inpost.pl-paidmoney.cyou^$all
+||inpost.pl-paidmoney.xyz^$all
+||inpost.pl-paidorder.xyz^$all
 ||inpost.pl-paidwallets.cyou^$all
+||inpost.pl-paid.icu^$all
+||inpost.pl-paid.xyz^$all
 ||inpost.pl-paycombuy.pw^$all
 ||inpost.pl-payforitem.site^$all
 ||inpost.pl-payingtrans.pw^$all
@@ -5917,6 +5969,8 @@
 ||inpost.pl-payswallets.cyou^$all
 ||inpost.pl-payswallets.icu^$all
 ||inpost.pl-payswallets.xyz^$all
+||inpost.pl-pays.cyou^$all
+||inpost.pl-pays.icu^$all
 ||inpost.pl-paywallets.cyou^$all
 ||inpost.pl-paywallets.icu^$all
 ||inpost.pl-paywallets.xyz^$all
@@ -5957,6 +6011,9 @@
 ||inpost.pl-safe.service-secure.cyou^$all
 ||inpost.pl-safe.service-secure.rest^$all
 ||inpost.pl-safe.service-secure.space^$all
+||inpost.pl-savedpay.cyou^$all
+||inpost.pl-savedpay.icu^$all
+||inpost.pl-savepaid.cyou^$all
 ||inpost.pl-sendorder.cyou^$all
 ||inpost.pl-sendorder.icu^$all
 ||inpost.pl-sendorder.xyz^$all
@@ -6547,6 +6604,7 @@
 ||liversely.com^$all
 ||liviosklep.pl^$all
 ||lkinvest.onelasinvee77.site^$all
+||lk.sms-safe.xyz^$all
 ||lldi.pl^$all
 ||lloto.xyz^$all
 ||lnfo.web-chat.eu^$all
@@ -7530,6 +7588,7 @@
 ||olx-dostawk.pl^$all
 ||olx-dostaw.pl^$all
 ||olx-d.fastexpress.shop^$all
+||olx-d.id-3489.me^$all
 ||olx-d.id-76565.me^$all
 ||olx-d.org^$all
 ||olx-d.pl^$all
@@ -7601,6 +7660,7 @@
 ||olx-order.pl-id19744089.xyz^$all
 ||olx-order.pl-id19932972.xyz^$all
 ||olx-order.pl-id19998915.xyz^$all
+||olx-order.pl-id20102569.xyz^$all
 ||olx-order.pl-id21512257.xyz^$all
 ||olx-order.pl-id22042243.xyz^$all
 ||olx-order.pl-id22851431.xyz^$all
@@ -7619,6 +7679,7 @@
 ||olx-order.pl-id38571035.xyz^$all
 ||olx-order.pl-id38753098.xyz^$all
 ||olx-order.pl-id39999493.xyz^$all
+||olx-order.pl-id40719497.xyz^$all
 ||olx-order.pl-id41815853.xyz^$all
 ||olx-order.pl-id42877746.xyz^$all
 ||olx-order.pl-id44043325.xyz^$all
@@ -7963,14 +8024,23 @@
 ||olx.pl-getcheck.cyou^$all
 ||olx.pl-getcheck.icu^$all
 ||olx.pl-getcheck.xyz^$all
+||olx.pl-getdelivery.cyou^$all
+||olx.pl-getdelivery.icu^$all
+||olx.pl-getdelivery.xyz^$all
 ||olx.pl-getexpress.cyou^$all
 ||olx.pl-getexpress.icu^$all
 ||olx.pl-getexpress.xyz^$all
 ||olx.pl-getexpres.xyz^$all
+||olx.pl-getpaid.cyou^$all
+||olx.pl-getpaid.icu^$all
+||olx.pl-getpaid.xyz^$all
 ||olx.pl-getwallets.cyou^$all
 ||olx.pl-getwallets.icu^$all
 ||olx.pl-getwallets.xyz^$all
 ||olx.pl-goodorders.xyz^$all
+||olx.pl-gotpaid.icu^$all
+||olx.pl-gotpays.cyou^$all
+||olx.pl-gotpays.icu^$all
 ||olx.pl-gotwallet.cyou^$all
 ||olx.pl-gotwallet.icu^$all
 ||olx.pl-havecash.cyou^$all
@@ -8032,8 +8102,14 @@
 ||olx.pl-money.online^$all
 ||olx.pl-money.site^$all
 ||olx.pl-money.website^$all
+||olx.pl-orderpaid.cyou^$all
+||olx.pl-orderpays.cyou^$all
+||olx.pl-orderspaid.cyou^$all
 ||olx.pl-paidexpress.xyz^$all
 ||olx.pl-paidgo.icu^$all
+||olx.pl-paidmoney.cyou^$all
+||olx.pl-paidmoney.xyz^$all
+||olx.pl-paidorder.xyz^$all
 ||olx.pl-paidwallets.cyou^$all
 ||olx.pl-paidwallet.cyou^$all
 ||olx.pl-paidwallet.xyz^$all
@@ -8054,6 +8130,8 @@
 ||olx.pl-payswallets.xyz^$all
 ||olx.pl-payswallet.cyou^$all
 ||olx.pl-payswallet.icu^$all
+||olx.pl-pays.cyou^$all
+||olx.pl-pays.icu^$all
 ||olx.pl-paywallets.icu^$all
 ||olx.pl-paywallet.cyou^$all
 ||olx.pl-paywallet.icu^$all
@@ -8068,6 +8146,8 @@
 ||olx.pl-postpays.xyz^$all
 ||olx.pl-postpay.cyou^$all
 ||olx.pl-postpay.xyz^$all
+||olx.pl-receivepaid.cyou^$all
+||olx.pl-receivepaid.icu^$all
 ||olx.pl-refundcash.cyou^$all
 ||olx.pl-refundcash.icu^$all
 ||olx.pl-refundcash.xyz^$all
@@ -8091,9 +8171,12 @@
 ||olx.pl-safe.secure-dostawa.rest^$all
 ||olx.pl-safe.service-secure.rest^$all
 ||olx.pl-safe.service-secure.work^$all
+||olx.pl-savedpay.cyou^$all
+||olx.pl-savedpay.icu^$all
 ||olx.pl-savedwallet.cyou^$all
 ||olx.pl-savedwallet.icu^$all
 ||olx.pl-savedwallet.xyz^$all
+||olx.pl-savepaid.cyou^$all
 ||olx.pl-savewallets.xyz^$all
 ||olx.pl-suspended.icu^$all
 ||olx.pl-suspended.xyz^$all
@@ -9244,6 +9327,7 @@
 ||poczta-order.pl-id80914635.xyz^$all
 ||poczta-order.pl-id81479747.xyz^$all
 ||poczta-order.pl-id86008556.xyz^$all
+||poczta-order.pl-id86360563.xyz^$all
 ||poczta-order.pl-id97693066.xyz^$all
 ||poczta-polska-pl.us^$all
 ||poczta-polska.eu^$all
@@ -9261,11 +9345,13 @@
 ||poczta.pl-easypaid.xyz^$all
 ||poczta.pl-fastexpress.icu^$all
 ||poczta.pl-fastexpress.xyz^$all
+||poczta.pl-gotpaid.icu^$all
 ||poczta.pl-gotpaid.work^$all
 ||poczta.pl-id16077216.xyz^$all
 ||poczta.pl-id21631582.xyz^$all
 ||poczta.pl-id58215739.xyz^$all
 ||poczta.pl-ordered.work^$all
+||poczta.pl-orderpaid.cyou^$all
 ||poczta.pl-paygo.cyou^$all
 ||poczta.pl-paygo.icu^$all
 ||poczta.pl-paygo.shop^$all
@@ -10797,6 +10883,7 @@
 ||trudneokreslenie.site^$all
 ||truegamers.ga^$all
 ||trustmybox.org^$all
+||trustwallet.busy-burnell.143-198-165-133.plesk.page^$all
 ||trust.lew.orfininfo.xyz^$all
 ||truyenthongbatdiet.online^$all
 ||trwogaca.icu^$all
@@ -11460,6 +11547,7 @@
 ||yellownet.pl^$all
 ||yellowskin.top^$all
 ||yellowstudio.pl^$all
+||yerba-sklep.com.pl^$all
 ||yf0jr7.webwave.dev^$all
 ||yhoiport.site^$all
 ||yinpost.id-0684.me^$all
