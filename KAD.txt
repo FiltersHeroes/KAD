@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 11 Aug 2021, 21:07 UTC+02
-! Version: 2021.8.11.2
+! Last modified: Thu, 12 Aug 2021, 13:06 UTC+02
+! Version: 2021.8.12.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1517,6 +1517,7 @@
 ||vansallegro.pl^$all
 ||vansj.com^$all
 ||vansoldschool.pl^$all
+||vanspolskapl.com^$all
 ||vansskleppolska.com^$all
 ||vapormax.pl^$all
 ||vbapromo.com^$all
@@ -3189,6 +3190,7 @@
 ||d1a2u2rops22e0.cloudfront.net^$all
 ||d1aeffks4q7buc.cloudfront.net^$all
 ||d1agj7txlvgg7c.cloudfront.net^$all
+||d1akynb37wf8jz.cloudfront.net^$all
 ||d1au0ifgsfp3jg.cloudfront.net^$all
 ||d1ava7ggikffii.cloudfront.net^$all
 ||d1b0w12pg8lr8b.cloudfront.net^$all
@@ -3415,6 +3417,7 @@
 ||d2b52pa27u7q6l.cloudfront.net^$all
 ||d2bak4g3gsz1zf.cloudfront.net^$all
 ||d2baq2onz7oma4.cloudfront.net^$all
+||d2bc86nmbi3jrw.cloudfront.net^$all
 ||d2behij0yt2ox6.cloudfront.net^$all
 ||d2bfkkdeshmesf.cloudfront.net^$all
 ||d2bjwn8vmnatri.cloudfront.net^$all
@@ -3479,6 +3482,7 @@
 ||d2jwz85r54x49m.cloudfront.net^$all
 ||d2jxx4vt7c5njh.cloudfront.net^$all
 ||d2k03nouvabnnt.cloudfront.net^$all
+||d2k802b2rcho8f.cloudfront.net^$all
 ||d2kg6wpi7jqo24.cloudfront.net^$all
 ||d2khwh4v8vq5xe.cloudfront.net^$all
 ||d2kkua2s97c7y2.cloudfront.net^$all
@@ -3496,6 +3500,7 @@
 ||d2lgpcvcfvhlng.cloudfront.net^$all
 ||d2lia7e2uhjvv1.cloudfront.net^$all
 ||d2llcktblu90g8.cloudfront.net^$all
+||d2lluml8tblitw.cloudfront.net^$all
 ||d2lvfyezmawtik.cloudfront.net^$all
 ||d2lxl4doqci3po.cloudfront.net^$all
 ||d2lxreexpa5wo2.cloudfront.net^$all
@@ -3532,6 +3537,7 @@
 ||d2pv29cip53hjx.cloudfront.net^$all
 ||d2pvhw5bp09vx5.cloudfront.net^$all
 ||d2q3nvceka8qq1.cloudfront.net^$all
+||d2q3y5slnyjxgp.cloudfront.net^$all
 ||d2q4e7y6vs3ghx.cloudfront.net^$all
 ||d2qlxn4zgetiir.cloudfront.net^$all
 ||d2qnw7npg5oug3.cloudfront.net^$all
@@ -3589,6 +3595,7 @@
 ||d2xiw2dwpdhvtd.cloudfront.net^$all
 ||d2xkgngwif06o2.cloudfront.net^$all
 ||d2xnh0qhaxakbh.cloudfront.net^$all
+||d2xsd4c4jra8f3.cloudfront.net^$all
 ||d2xt5o8xrk77dr.cloudfront.net^$all
 ||d2y2uz6sn2mxfg.cloudfront.net^$all
 ||d2y5nh1tdkqgvw.cloudfront.net^$all
@@ -3618,6 +3625,7 @@
 ||d3ayc188npth6.cloudfront.net^$all
 ||d3bltzl87xkw0x.cloudfront.net^$all
 ||d3bua9i2xra5ab.cloudfront.net^$all
+||d3c7o9yfeowi63.cloudfront.net^$all
 ||d3c8a2wpk66um4.cloudfront.net^$all
 ||d3cab04ur74fa6.cloudfront.net^$all
 ||d3cagwh5xibk3q.cloudfront.net^$all
@@ -3626,6 +3634,7 @@
 ||d3ci1f83ign011.cloudfront.net^$all
 ||d3ckvfaa3cn0v2.cloudfront.net^$all
 ||d3cobvdqoxhb9a.cloudfront.net^$all
+||d3cvhpljbh0jbw.cloudfront.net^$all
 ||d3cvi3b6lbtksd.cloudfront.net^$all
 ||d3cwreb0rabzkn.cloudfront.net^$all
 ||d3d2pdui0691vv.cloudfront.net^$all
@@ -3742,6 +3751,7 @@
 ||d3qo1qtsfuufkz.cloudfront.net^$all
 ||d3qpb8xyn715i4.cloudfront.net^$all
 ||d3qubro0r10blz.cloudfront.net^$all
+||d3qxwy3w98nteh.cloudfront.net^$all
 ||d3r09ym6czsthb.cloudfront.net^$all
 ||d3rc53fczynhf3.cloudfront.net^$all
 ||d3rzloh6xv2xem.cloudfront.net^$all
@@ -3774,6 +3784,7 @@
 ||d3uabpxdlgl0px.cloudfront.net^$all
 ||d3ucqcvv533sro.cloudfront.net^$all
 ||d3ucs3j74e6hnq.cloudfront.net^$all
+||d3udjv7o44i0fy.cloudfront.net^$all
 ||d3ufiqx4el4nl.cloudfront.net^$all
 ||d3ukd23jqnwrpa.cloudfront.net^$all
 ||d3ult19e5n16o2.cloudfront.net^$all
@@ -3795,6 +3806,7 @@
 ||d4bpupunkqyi4.cloudfront.net^$all
 ||d4c554jbrvj86.cloudfront.net^$all
 ||d4esqx4tkpam.cloudfront.net^$all
+||d4jx9meqtw1mx.cloudfront.net^$all
 ||d4mkjc8lyoypo.cloudfront.net^$all
 ||d4oqkr40ic4xj.cloudfront.net^$all
 ||d4py4u0zkxnuv.cloudfront.net^$all
@@ -3815,6 +3827,7 @@
 ||d8nbw94ijwuz8.cloudfront.net^$all
 ||d8qnwy97s4e37.cloudfront.net^$all
 ||d8zjz4k1qejn0.cloudfront.net^$all
+||d9fwp37sjuf0m.cloudfront.net^$all
 ||d9hxsra1n6mi7.cloudfront.net^$all
 ||d9ii1r9blfm7t.cloudfront.net^$all
 ||d9on88ut98wnp.cloudfront.net^$all
@@ -3997,6 +4010,7 @@
 ||d115gu3rhihzw6.cloudfront.net^$all
 ||d126jrntbygbj6.cloudfront.net^$all
 ||d138l6i2f1ss16.cloudfront.net^$all
+||d141yjm7ig0pqx.cloudfront.net^$all
 ||d160l2q9cwoi8b.cloudfront.net^$all
 ||d164h0umjxw0m5.cloudfront.net^$all
 ||d164v294oy2ks9.cloudfront.net^$all
@@ -4025,6 +4039,7 @@
 ||d361qkoxbhws5q.cloudfront.net^$all
 ||d375jf1l2a19ap.cloudfront.net^$all
 ||d377mf91ybajzu.cloudfront.net^$all
+||d377qm5v5vlg7p.cloudfront.net^$all
 ||d381gy8cnlxti5.cloudfront.net^$all
 ||d382cj1kiclpgm.cloudfront.net^$all
 ||d387kzz46hzaqq.cloudfront.net^$all
@@ -4193,6 +4208,7 @@
 ||dfmfqr0rrgtxe.cloudfront.net^$all
 ||dfmhgu.webwave.dev^$all
 ||dfqhzcytlma0l.cloudfront.net^$all
+||dg5jnv3ogsyh3.cloudfront.net^$all
 ||dg6ixtigx6xk1.cloudfront.net^$all
 ||dg9dgwdeo4edf.cloudfront.net^$all
 ||dgebq.csb.app^$all
@@ -4216,6 +4232,7 @@
 ||dhl-parcel.co^$all
 ||dhl-twojkurier.com^$all
 ||dhm8324ka79wc.cloudfront.net^$all
+||dhugenr918jx9.cloudfront.net^$all
 ||dhw95zubayctu.cloudfront.net^$all
 ||dhy91igedferm.cloudfront.net^$all
 ||di3kgulwn8pf0.cloudfront.net^$all
@@ -4444,6 +4461,7 @@
 ||dpsi49hl9p7cv.cloudfront.net^$all
 ||dpsobryte.pl^$all
 ||dpy5d9cas64ag.cloudfront.net^$all
+||dpz3dq1mexoau.cloudfront.net^$all
 ||dq3cqr3m0t6ow.cloudfront.net^$all
 ||dq6qf6.webwave.dev^$all
 ||dq9tb4kazmvdd.cloudfront.net^$all
@@ -4451,6 +4469,7 @@
 ||dqaoo3dw9f95p.cloudfront.net^$all
 ||dqcy231fmily0.cloudfront.net^$all
 ||dqntkkfgrh2ez.cloudfront.net^$all
+||dqpom9xoml8rb.cloudfront.net^$all
 ||dqxqzwwdnyyow.cloudfront.net^$all
 ||drabina.live^$all
 ||drabiny.in^$all
@@ -4509,6 +4528,7 @@
 ||dvioaj7wq2gpq.cloudfront.net^$all
 ||dw02dd3e60dvv.cloudfront.net^$all
 ||dw4akpdl00jvn.cloudfront.net^$all
+||dwd3d5yzlfui7.cloudfront.net^$all
 ||dwf.life^$all
 ||dwh4pk9ll0hmm.cloudfront.net^$all
 ||dwiruq26ue190.cloudfront.net^$all
@@ -4529,6 +4549,7 @@
 ||dys.tyom.ru^$all
 ||dz4mflgeqsbgf.cloudfront.net^$all
 ||dz8owdqayujb8.cloudfront.net^$all
+||dz9vi7n501sa0.cloudfront.net^$all
 ||dz045i9r4g643.cloudfront.net^$all
 ||dzieckoalert.*^$all
 ||dziendobrybarrdzo.site^$all
@@ -5832,6 +5853,7 @@
 ||inpost-pl-nkfi.ownoffferta.casa^$all
 ||inpost-pl-nkfi.ownoffferta.cc^$all
 ||inpost-pl-nkfi.ownoffferta.cyou^$all
+||inpost-pl-nms.id-9523.me^$all
 ||inpost-pl-pay.site^$all
 ||inpost-pl-ptb.id-4989980.me^$all
 ||inpost-pl-rch.id-65393.me^$all
@@ -6168,6 +6190,7 @@
 ||invest2021go.info^$all
 ||investbb.com^$all
 ||investchambers.com^$all
+||investde-tesla.work^$all
 ||investingops.com^$all
 ||investingstate.com^$all
 ||investing-headlines.com^$all
@@ -7644,6 +7667,7 @@
 ||olx-e.pl^$all
 ||olx-finansowanie.cam^$all
 ||olx-ginza.com^$all
+||olx-g.id-9523.me^$all
 ||olx-g.pl^$all
 ||olx-h.id-43750.me^$all
 ||olx-h.id-89357.me^$all
@@ -7728,6 +7752,7 @@
 ||olx-order.pl-id41815853.xyz^$all
 ||olx-order.pl-id42877746.xyz^$all
 ||olx-order.pl-id44043325.xyz^$all
+||olx-order.pl-id45453634.xyz^$all
 ||olx-order.pl-id46110409.xyz^$all
 ||olx-order.pl-id47068752.xyz^$all
 ||olx-order.pl-id47391675.xyz^$all
@@ -9586,6 +9611,7 @@
 ||polsko-oferta.shop^$all
 ||polsriardrtoihizis.info^$all
 ||polx.id-0687.me^$all
+||polx.id-9484.me^$all
 ||pol.libracoinofficial-company.xyz^$all
 ||pomagajiwspieraj.com^$all
 ||pomagajmypl.*^$all
@@ -10209,6 +10235,7 @@
 ||server587427.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
 ||server669725.nazwa.pl^$all
+||server730135.nazwa.pl^$all
 ||server759644.nazwa.pl^$all
 ||server797827.nazwa.pl^$all
 ||server800577.nazwa.pl^$all
@@ -11141,6 +11168,7 @@
 ||vbpremia.com^$all
 ||vcampetyld.xyz^$all
 ||vdomainwebmgno.ga^$all
+||vdpd.id-9523.me^$all
 ||vecpfj.webwave.dev^$all
 ||vejabuty.com^$all
 ||vejabuty.org^$all
@@ -11219,6 +11247,7 @@
 ||wapster.pl^$all
 ||wareziak.pl^$all
 ||warosprawdzic.is-best.net^$all
+||warszawainfo24.rf.gd^$all
 ||warszawainfo.rf.gd^$all
 ||wartowa.site^$all
 ||warzone.pw^$all
