@@ -1,9 +1,11 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info/$document
 /^https?:\/\/([\w]{1,4}\.)?[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
-/^https?:\/\/([\w]{1,4}\.)?[a-z-]{9,12}\.top\/\?t=[a-z0-9]{1,6}\&[a-z]{1}=[0-9]{1}/$document,domain=top
+/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$doc,domain=top
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$document,domain=site
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{10,}([0-9]{1,2})?\.(club|li[fv]e)\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$document,domain=live|life|club
+/^https:\/\/[-a-z]{12,}\.life\/\?u=[0-9a-z]+&o=/$doc,domain=life
 ||0n.click^$all
+/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$doc,domain=top
+/^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
 ||9dcm.net^$all
 ||34q22.cn^$all
 ||academy-bitcoin.com^$all
