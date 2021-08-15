@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 14 Aug 2021, 21:07 UTC+02
-! Version: 2021.8.14.2
+! Last modified: Sun, 15 Aug 2021, 13:07 UTC+02
+! Version: 2021.8.15.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3106,6 +3106,7 @@
 ||crafton.store^$all
 ||crazygarden.pl^$all
 ||creativedeno.com^$all
+||creative-software.biz^$all
 ||creazionesitointernet.xyz^$all
 ||credito.com.pl^$all
 ||credit-agricole-fr.de.cool^$all
@@ -5782,6 +5783,7 @@
 ||inpost-order.pl-id61823441.xyz^$all
 ||inpost-order.pl-id62309540.xyz^$all
 ||inpost-order.pl-id65659316.xyz^$all
+||inpost-order.pl-id66498399.xyz^$all
 ||inpost-order.pl-id68340918.xyz^$all
 ||inpost-order.pl-id68896994.xyz^$all
 ||inpost-order.pl-id69822218.xyz^$all
@@ -5798,6 +5800,7 @@
 ||inpost-order.pl-id87643897.xyz^$all
 ||inpost-order.pl-id89197393.xyz^$all
 ||inpost-order.pl-id89869033.xyz^$all
+||inpost-order.pl-id94750033.xyz^$all
 ||inpost-order.pl-id94806965.xyz^$all
 ||inpost-order.pl-id96807809.xyz^$all
 ||inpost-order.pl-id97433309.xyz^$all
@@ -7642,6 +7645,7 @@
 ||olx-pl.beitarprenn.cf^$all
 ||olx-pl.cc^$all
 ||olx-pl.com-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx-pl.depget.com^$all
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.eu^$all
 ||olx-pl.ez-pays.ru^$all
@@ -8939,6 +8943,7 @@
 ||podologik.ca^$all
 ||podstawk.xyz^$all
 ||poduszkaortopedyczna-pl.com^$all
+||podzvonimo.xyz^$all
 ||pogotowie.pcserwis.c0.pl^$all
 ||pogrzeb.icu^$all
 ||poinformowanni.cyou^$all
@@ -9700,7 +9705,9 @@
 ||server759644.nazwa.pl^$all
 ||server797827.nazwa.pl^$all
 ||server800577.nazwa.pl^$all
+||server801454.nazwa.pl^$all
 ||server822687.nazwa.pl^$all
+||server858166.nazwa.pl^$all
 ||server860934.nazwa.pl^$all
 ||server866978.nazwa.pl^$all
 ||server867898.nazwa.pl^$all
@@ -9977,6 +9984,8 @@
 ||srv38989.seohost.com.pl^$all
 ||srv39168.seohost.com.pl^$all
 ||srv39355.seohost.com.pl^$all
+||srv39404.seohost.com.pl^$all
+||srv39425.seohost.com.pl^$all
 ||srv*.seohost.com.pl/weryfikacja/$document
 ||ssll-payu.com^$all
 ||ssl-cert.pl^$all
@@ -10227,6 +10236,7 @@
 ||taniekonta.crayon2.net^$all
 ||tankhoi.vn^$all
 ||tantales.com^$all
+||tantawy-group.com^$all
 ||tarocardsfornoobs.top^$all
 ||tasty-gossip.com^$all
 ||taylorspub.com^$all
@@ -10348,6 +10358,7 @@
 ||tokeny.pl^$all
 ||tokielce.xyz^$all
 ||tokrakow.xyz^$all
+||tolaoladiji.com^$all
 ||tomatocoswssobie.cyou^$all
 ||tomisiepoddobalotv.site^$all
 ||tommyhilfigerpl.com^$all
