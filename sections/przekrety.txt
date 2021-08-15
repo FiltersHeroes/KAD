@@ -1,7 +1,6 @@
 !/^https?:\/\/([\w]{1,4}\.)?(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[\d]{2,8}\.[a-z-]{4,22}[\d]{1,8}\.(agency|icu|life|live|loan)/$document
 !/^https?:\/\/([\w]{1,4}\.)?[a-z]{6,30}-?\d{1,2}\.li[fv]e\/\d{10}/$document
 !||torrentos.pl^$all
-||ms10be.be^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -92,6 +91,7 @@
 ||7sms.xyz^$all
 ||8sms.in^$all
 ||8sms.pw^$all
+||08sms.xyz^$all
 ||8sms.xyz^$all
 ||9f33fc85bd3812760.temporary.link^$all
 ||9nta.com^$all
@@ -1411,6 +1411,7 @@
 ||d1ybxja6sbcon6.cloudfront.net^$all
 ||d1ydnl2yqs4sq.cloudfront.net^$all
 ||d1yji62313fmog.cloudfront.net^$all
+||d1ykw4cce7mf2x.cloudfront.net^$all
 ||d1yp6tlvwtwegk.cloudfront.net^$all
 ||d1ypk2qgppaohn.cloudfront.net^$all
 ||d1yqjjx8zjr8p5.cloudfront.net^$all
@@ -1418,6 +1419,7 @@
 ||d1z6tk6r2eb9nk.cloudfront.net^$all
 ||d1z8e8p90gxgb0.cloudfront.net^$all
 ||d1zdf3hv57qlz7.cloudfront.net^$all
+||d1zi7dosw1bd0j.cloudfront.net^$all
 ||d1zr3we3nyaq0m.cloudfront.net^$all
 ||d1zrl0qvs6rml6.cloudfront.net^$all
 ||d1zy79iyrsz9gx.cloudfront.net^$all
@@ -1547,6 +1549,7 @@
 ||d2o1ah3sbgo9as.cloudfront.net^$all
 ||d2obhr6r5fzecl.cloudfront.net^$all
 ||d2og2sydog5nql.cloudfront.net^$all
+||d2on8p1r68r6x6.cloudfront.net^$all
 ||d2ovivg4v0qxjm.cloudfront.net^$all
 ||d2p35bcxelxqzp.cloudfront.net^$all
 ||d2pdgz3r18za9h.cloudfront.net^$all
@@ -1669,6 +1672,7 @@
 ||d3dp237atljv0r.cloudfront.net^$all
 ||d3dpxi8pzvgpb9.cloudfront.net^$all
 ||d3dsdxp1xy072f.cloudfront.net^$all
+||d3dvhciivwihtg.cloudfront.net^$all
 ||d3dwdys60qg2it.cloudfront.net^$all
 ||d3dwn8a8ey7v02.cloudfront.net^$all
 ||d3dwo32d1bodl7.cloudfront.net^$all
@@ -1871,6 +1875,7 @@
 ||d10i8jqdncw3au.cloudfront.net^$all
 ||d10lvcyx4jz5pe.cloudfront.net^$all
 ||d10nwlgk9cn673.cloudfront.net^$all
+||d10u8gsh9t2zjj.cloudfront.net^$all
 ||d11bclj2ikv1dk.cloudfront.net^$all
 ||d11d0pejgc24kc.cloudfront.net^$all
 ||d11exmupt60x9a.cloudfront.net^$all
@@ -2074,6 +2079,7 @@
 ||d297quumgrfsv0.cloudfront.net^$all
 ||d301v60xcaq10j.cloudfront.net^$all
 ||d309g6di7or6ss.cloudfront.net^$all
+||d310if65u0y60w.cloudfront.net^$all
 ||d319m84sy1h0f2.cloudfront.net^$all
 ||d328v6v3jxsx2e.cloudfront.net^$all
 ||d331dfj0rjel0i.cloudfront.net^$all
@@ -2381,6 +2387,7 @@
 ||dobresformulowannie24.site^$all
 ||dobrezpokazanaredakcja.cyou^$all
 ||dobre-filmy.pl^$all
+||dobre.tech^$all
 ||dobrydzien.xyz^$all
 ||dobrywpllywnato24.site^$all
 ||dobry-fryzjer.lublin.lu^$all
@@ -3746,6 +3753,7 @@
 ||inpost-order.pl-id04740240.xyz^$all
 ||inpost-order.pl-id05043955.xyz^$all
 ||inpost-order.pl-id07757657.xyz^$all
+||inpost-order.pl-id08325963.xyz^$all
 ||inpost-order.pl-id09281909.xyz^$all
 ||inpost-order.pl-id09362947.xyz^$all
 ||inpost-order.pl-id09994518.xyz^$all
@@ -3789,6 +3797,7 @@
 ||inpost-order.pl-id87643897.xyz^$all
 ||inpost-order.pl-id89197393.xyz^$all
 ||inpost-order.pl-id89869033.xyz^$all
+||inpost-order.pl-id92664258.xyz^$all
 ||inpost-order.pl-id94750033.xyz^$all
 ||inpost-order.pl-id94806965.xyz^$all
 ||inpost-order.pl-id96807809.xyz^$all
@@ -3895,6 +3904,7 @@
 ||inpost.pl-gotpay.icu^$all
 ||inpost.pl-itemsbuycom.pw^$all
 ||inpost.pl-itemzpaying.pw^$all
+||inpost.pl-optitembuy.pw^$all
 ||inpost.pl-orderpaid.cyou^$all
 ||inpost.pl-paidcash.icu^$all
 ||inpost.pl-paidmoney.cyou^$all
@@ -4898,6 +4908,7 @@
 ||moznajuzotympowiedziec24.cyou^$all
 ||mpestudios.pt^$all
 ||mpolskapoczta.id-9051.me^$all
+||ms10be.be^$all
 ||msg2u.xyz^$all
 ||msphackonline.com^$all
 ||msp-hack.com^$all
@@ -7811,6 +7822,7 @@
 ||smksmuhammadiyahsintang.sch.id^$all
 ||smoggyorlen.site^$all
 ||smoothtrk5.com^$all
+||smprints.co.uk^$all
 ||sms0.pw^$all
 ||sms1.biz^$all
 ||sms1.online^$all
@@ -9269,15 +9281,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||08sms.xyz^$all
-||d10u8gsh9t2zjj.cloudfront.net^$all
-||d1ykw4cce7mf2x.cloudfront.net^$all
-||d1zi7dosw1bd0j.cloudfront.net^$all
-||d2on8p1r68r6x6.cloudfront.net^$all
-||d310if65u0y60w.cloudfront.net^$all
-||d3dvhciivwihtg.cloudfront.net^$all
-||dobre.tech^$all
-||inpost-order.pl-id08325963.xyz^$all
-||inpost-order.pl-id92664258.xyz^$all
-||inpost.pl-optitembuy.pw^$all
-||smprints.co.uk^$all
