@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 17 Aug 2021, 17:07 UTC+02
-! Version: 2021.8.17.1
+! Last modified: Tue, 17 Aug 2021, 21:07 UTC+02
+! Version: 2021.8.17.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2328,6 +2328,7 @@
 ||allegro.lokalnie.work^$all
 ||allegro.net^$all
 ||allegro.pay08.info^$all
+||allegro.pay11.info^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.lokalnie.me^$all
 ||allegro.pl.my-enj.xyz^$all
@@ -2503,6 +2504,7 @@
 ||axd-watter.xyz^$all
 ||axes.co^$all
 ||axial-partners.com^$all
+||ay.nktostip.xyz^$all
 ||azawebspace.com^$all
 ||a-inpost.id-76565.me^$all
 ||b2work.pl^$all
@@ -3197,6 +3199,7 @@
 ||czytooszustwo.pl^$all
 ||czyzyk.icu^$all
 ||c*.tmweb.ru/weryfikacja/$all
+||c.gazrosnew.xyz^$all
 ||c.pl^$document,domain=~www.c.pl
 ||d0stawadhi.com^$all
 ||d1a0f1vq14o00s.cloudfront.net^$all
@@ -4320,6 +4323,7 @@
 ||dgxjsagdxl0xn.cloudfront.net^$all
 ||dgy6k9lzaqiwn.cloudfront.net^$all
 ||dgygzoiark48g.cloudfront.net^$all
+||dg.proigrnv.xyz^$all
 ||dhc6wkg91bshz.cloudfront.net^$all
 ||dhcouriers.com^$all
 ||dhhfxb5eyj88f.cloudfront.net^$all
@@ -5682,6 +5686,7 @@
 ||inezsport.com^$all
 ||infasd2a.is-best.net^$all
 ||infa-z-polski.dnsrobotuptime.ru^$all
+||influencearabia.com^$all
 ||info112.waw.pl^$all
 ||info394290.wixsite.com^$all
 ||infodostarcz.net^$all
@@ -5777,6 +5782,7 @@
 ||info-wtorek.waw.pl^$all
 ||info-wygrana24.waw.pl^$all
 ||info-z-policji.dnsrobotuptime.ru^$all
+||info.24gaz.dingocif.site^$all
 ||info.oliftrade.site^$all
 ||infx.eu^$all
 ||inf^$all
@@ -5939,6 +5945,7 @@
 ||inpost-pl-ptb.id-4989980.me^$all
 ||inpost-pl-sbh.id-4989987.me^$all
 ||inpost-pl-smk.id-4395.me^$all
+||inpost-pl-stf.id-4395.me^$all
 ||inpost-pl-ykj.id-3485.me^$all
 ||inpost-pl.com^$all
 ||inpost-pl.fast-deliveries.icu^$all
@@ -6074,6 +6081,7 @@
 ||instasexlocator*.com^$all
 ||instateens.net^$all
 ||insta-support.org^$all
+||instructvideo.com^$all
 ||instytut-medyczny24.com^$all
 ||insuredplusltd.com^$all
 ||intelbondfx.com^$all
@@ -6668,6 +6676,7 @@
 ||los3don.com^$all
 ||losca3.wixsite.com^$all
 ||loshtorm.xyz^$all
+||los.polss.xyz^$all
 ||loteriaszczepionka.net^$all
 ||loteria-narodowa.net^$all
 ||lotes.xyz^$all
@@ -6908,6 +6917,7 @@
 ||metoda-poliglotow.com^$all
 ||metroxtrade.com^$all
 ||metyho.xyz^$all
+||met.daaf.site^$all
 ||mexicanrarities.com^$all
 ||me-olx.com^$all
 ||mgzhgs.com^$all
@@ -7321,6 +7331,7 @@
 ||nvisionpropl*.com^$all
 ||nvixug.webwave.dev^$all
 ||nvod.pl^$all
+||nws.amsonk0in.xyz^$all
 ||nytopu.dm-progress.ru^$all
 ||n-dpd.id-76565.me^$all
 ||n-mobile.net^$all
@@ -7931,6 +7942,7 @@
 ||olx.owndostaw.shop^$all
 ||olx.ownkontos.shop^$all
 ||olx.pay11.info^$all
+||olx.pay14.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -9415,6 +9427,7 @@
 ||profitcadee.com^$all
 ||profitmaximum.pl^$all
 ||profitrevolution.live^$all
+||prog2.plsystem6.xyz^$all
 ||project2274648.turbo.site^$all
 ||projectsociety.pl^$all
 ||projekt-pomocy.eu^$all
@@ -9442,6 +9455,7 @@
 ||protocolcashmere.com^$all
 ||prove-acces.000webhostapp.com^$all
 ||prowizja24.pl^$all
+||pro.fiteuril.xyz^$all
 ||pro.pltrade-projekt.xyz^$all
 ||pruszkow2019.pl^$all
 ||prywatna-sesja.eu^$all
@@ -9517,6 +9531,7 @@
 ||pycie.com^$all
 ||pyhqjc.com^$all
 ||pzutrasyzdrowia.pl^$all
+||qerte.wescapital.xyz^$all
 ||qolx.pl^$all
 ||qotoplus.site^$all
 ||qqqqttt.weebly.com^$all
@@ -10878,6 +10893,7 @@
 ||versales.xyz^$all
 ||versonsor.xyz^$all
 ||vesen.xyz^$all
+||vestplne.vestpast7.xyz^$all
 ||vfy-wmail.web.app^$all
 ||vgdny.com^$all
 ||videoplanet.pl^$all
@@ -10927,6 +10943,7 @@
 ||vy0sx0.webwave.dev^$all
 ||vzgvl7.webwave.dev^$all
 ||v*ikm*k*cbsa.drjesri.ir^$all,domain=ir
+||v.gazneft-platf.xyz^$all
 ||w2ofvb.webwave.dev^$all
 ||w3brasil.com^$all
 ||w4ytgdl.ytig0il.cn^$all
@@ -11293,6 +11310,7 @@
 ||w-polskapoczta.id-76565.me^$all
 ||w-sieci-piszczy.o99o.com.pl^$all
 ||w-szpitalu.gmina.pl^$all
+||w.gazrosnew.xyz^$all
 ||w.paczkcups.com^$all
 ||w.paczkgups.com^$all
 ||w.paczkoups.com^$all
