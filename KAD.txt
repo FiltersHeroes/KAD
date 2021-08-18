@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 18 Aug 2021, 17:07 UTC+02
-! Version: 2021.8.18.1
+! Last modified: Wed, 18 Aug 2021, 21:07 UTC+02
+! Version: 2021.8.18.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1990,7 +1990,7 @@
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?(info-onet|informujemy)(\d+)?\.pl/$all
-/^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl|polandinw)(\w+)?\d+\.(site|space)/$all
+/^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(\w+)?\d+\.(site|space)/$all
 /^https?:\/\/([\w]{1,4}\.)?(probablerootport)-?[\d]{1,2}\.live/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
@@ -2059,6 +2059,7 @@
 ||4office.pl^$all
 ||4stronyzdrowia.com^$all
 ||5d8b2c00436ac.site123.me^$all
+||5gdonuts.cn^$all
 ||5kplayer.pl^$all
 ||5o8l3.cn^$all
 ||5sms.xyz^$all
@@ -2334,6 +2335,7 @@
 ||allegro.net^$all
 ||allegro.pay08.info^$all
 ||allegro.pay11.info^$all
+||allegro.pay14.info^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.lokalnie.me^$all
 ||allegro.pl.my-enj.xyz^$all
@@ -2396,6 +2398,7 @@
 ||annitakurier.org^$all
 ||ansdgaft.site^$all
 ||antares.trade^$all
+||antasamsara.site^$all
 ||antispam-pro.us^$all
 ||antivyruus.xyz^$all
 ||antonresidential.com^$all
@@ -2411,6 +2414,7 @@
 ||apartmani-aki-i-vule.ml^$all
 ||aparttrojmiasto.com^$all
 ||apekola.tcp4.me^$all
+||aperitifmans.ga^$all
 ||apexbillingservices.co^$all
 ||apex-rents.com^$all
 ||apkallegrplay.net^$all
@@ -4264,6 +4268,7 @@
 ||dcshoespolska.com^$all
 ||dcshoessklep.com^$all
 ||dct6kqwruem99.cloudfront.net^$all
+||dd4dlp4guko14.cloudfront.net^$all
 ||dd5sehfh7gng0.cloudfront.net^$all
 ||dda7lhqc8gx1j.cloudfront.net^$all
 ||ddad9qpbf0w0a.cloudfront.net^$all
@@ -5911,6 +5916,7 @@
 ||inpost-oferta.su^$all
 ||inpost-oo.id-5847.me^$all
 ||inpost-oplata.site^$all
+||inpost-order.pl-id01403341.xyz^$all
 ||inpost-order.pl-id01466825.xyz^$all
 ||inpost-order.pl-id03224250.xyz^$all
 ||inpost-order.pl-id04685235.xyz^$all
@@ -5927,6 +5933,7 @@
 ||inpost-order.pl-id12274778.xyz^$all
 ||inpost-order.pl-id12779606.xyz^$all
 ||inpost-order.pl-id14088842.xyz^$all
+||inpost-order.pl-id14181047.xyz^$all
 ||inpost-order.pl-id17959948.xyz^$all
 ||inpost-order.pl-id22042243.xyz^$all
 ||inpost-order.pl-id25253958.xyz^$all
@@ -5945,6 +5952,7 @@
 ||inpost-order.pl-id56147885.xyz^$all
 ||inpost-order.pl-id59320606.xyz^$all
 ||inpost-order.pl-id61823441.xyz^$all
+||inpost-order.pl-id61875639.xyz^$all
 ||inpost-order.pl-id62309540.xyz^$all
 ||inpost-order.pl-id65659316.xyz^$all
 ||inpost-order.pl-id66124238.xyz^$all
@@ -5958,6 +5966,7 @@
 ||inpost-order.pl-id73915347.xyz^$all
 ||inpost-order.pl-id74480973.xyz^$all
 ||inpost-order.pl-id75121629.xyz^$all
+||inpost-order.pl-id76166142.xyz^$all
 ||inpost-order.pl-id76178466.xyz^$all
 ||inpost-order.pl-id78794628.xyz^$all
 ||inpost-order.pl-id78832475.xyz^$all
@@ -6079,6 +6088,7 @@
 ||inpost.pl-express.casa^$all
 ||inpost.pl-getpaid.cyou^$all
 ||inpost.pl-gotpay.icu^$all
+||inpost.pl-itembuying.pw^$all
 ||inpost.pl-itemsbuycom.pw^$all
 ||inpost.pl-itemzpaying.pw^$all
 ||inpost.pl-optitembuy.pw^$all
@@ -7792,6 +7802,7 @@
 ||olx-order.pl-id59850965.xyz^$all
 ||olx-order.pl-id60862030.xyz^$all
 ||olx-order.pl-id61823441.xyz^$all
+||olx-order.pl-id61875639.xyz^$all
 ||olx-order.pl-id63283010.xyz^$all
 ||olx-order.pl-id65659316.xyz^$all
 ||olx-order.pl-id68447784.xyz^$all
@@ -9235,7 +9246,6 @@
 ||poland-businesslotos.website^$all
 ||poland-dostawa.com^$all
 ||poland-invest.site^$all
-||poland-lotos.site^$all
 ||poland-oferta.live^$all
 ||poland-pge-gr.site^$all
 ||poland-pge.site^$all
@@ -9517,6 +9527,7 @@
 ||profitrevolution.live^$all
 ||prog2.plsystem6.xyz^$all
 ||project2274648.turbo.site^$all
+||project2276696.turbo.site^$all
 ||projectsociety.pl^$all
 ||projekt-pomocy.eu^$all
 ||projpgepl.info^$all
@@ -11519,6 +11530,7 @@
 ||zakup-olx.pl^$all
 ||zalbani.is-best.net^$all
 ||zalukaj*.*^$document,domain=~zalukaj.vip
+||zamawiane.net^$all
 ||zamawianie-ogloszenia.com^$all
 ||zap588693-1.plesk10.zap-webspace.com^$all
 ||zapakowane.net^$all
