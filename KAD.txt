@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 20 Aug 2021, 13:07 UTC+02
-! Version: 2021.8.20.0
+! Last modified: Fri, 20 Aug 2021, 17:07 UTC+02
+! Version: 2021.8.20.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2293,6 +2293,7 @@
 ||allegrolokalnie.pl.fitpayingtoo.pw^$all
 ||allegrolokalnie.pl.ipayingitemzto.pw^$all
 ||allegrolokalnie.pl.transpbuyitemss.pw^$all
+||allegrolokalnie.site^$all
 ||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
 ||allegrolokalnii.digital^$all
@@ -2597,6 +2598,7 @@
 ||belopeixe.com.br^$all
 ||belowhuge.xyz^$all
 ||bemydate.mobi^$all
+||benk-ir.com^$all
 ||benlandscaping.co.uk^$all
 ||bentyluses.com^$all
 ||benzkartel.duckdns.org^$all
@@ -2754,6 +2756,7 @@
 ||blog.blissports.com^$all
 ||blog.lalalalala.club^$all
 ||bluesz.pl^$all
+||bmumuh.com^$all
 ||bncoposta.com^$all
 ||bnpglobalbank.com^$all
 ||bnppalba-biznesplanet.com^$all
@@ -2776,10 +2779,15 @@
 ||booking.com.gpaytrans.site^$all
 ||booking.com.pl.ipayingitemzto.site^$all
 ||booking.pl-id02331851.xyz^$all
+||booking.pl-id36003702.xyz^$all
 ||booking.pl-id62691329.xyz^$all
 ||booking.pl-id67987272.xyz^$all
 ||booking.pl-id79593133.xyz^$all
 ||booking.pl-id92806006.xyz^$all
+||booking.pl-order.pl-id29435368.xyz^$all
+||booking.pl-order.pl-id43098605.xyz^$all
+||booking.pl-order.pl-id61800904.xyz^$all
+||booking.pl-order.pl-id62691329.xyz^$all
 ||bookplanet.pl^$all
 ||boonbon.club^$all
 ||bootspolska.pl^$all
@@ -4798,6 +4806,7 @@
 ||eclass47.duckdns.org^$all
 ||ecoblast.pl^$all
 ||ecofinancion-investor.website^$all
+||ecofinancor-investor.website^$all
 ||ecomerce-businesslotos.website^$all
 ||ecomerce-fin.website^$all
 ||ecomobilni.pl^$all
@@ -4825,6 +4834,7 @@
 ||egda.pl^$all
 ||eigafilms.com^$all
 ||eightwatersoldierone.live^$all
+||einpost.id-4343.me^$all
 ||einpost.id-9436.me^$all
 ||ekarny.net^$all
 ||ekibun.net^$all
@@ -5776,6 +5786,7 @@
 ||infa-z-polski.dnsrobotuptime.ru^$all
 ||infinitytest.site^$all
 ||influencearabia.com^$all
+||info19.me^$all
 ||info112.waw.pl^$all
 ||info394290.wixsite.com^$all
 ||infodostarcz.net^$all
@@ -5932,6 +5943,7 @@
 ||inpost-en.spredaz-online.club^$all
 ||inpost-generator.net^$all
 ||inpost-info.com^$all
+||inpost-i.id-4343.me^$all
 ||inpost-i.id-4395.me^$all
 ||inpost-i.id-9843.me^$all
 ||inpost-j.id-9484.me^$all
@@ -7077,6 +7089,7 @@
 ||ministerstwofinans.wixsite.com^$all
 ||ministerstwo-finan5.wixsite.com^$all
 ||ministerstwo-finan.wixsite.com^$all
+||minpost.id-4343.me^$all
 ||mintajdw.icu^$all
 ||minutae.icu^$all
 ||mioveni.pl^$all
@@ -7466,6 +7479,7 @@
 ||nytopu.dm-progress.ru^$all
 ||n-dpd.id-76565.me^$all
 ||n-mobile.net^$all
+||o0ooo.xyz^$all
 ||o1fp6o.webwave.dev^$all
 ||o2informacje.waw.pl^$all
 ||o2-gazeta.xyz^$all
@@ -7825,6 +7839,7 @@
 ||olx-order.pl-id27949589.xyz^$all
 ||olx-order.pl-id28454326.xyz^$all
 ||olx-order.pl-id29221123.xyz^$all
+||olx-order.pl-id29435368.xyz^$all
 ||olx-order.pl-id32253804.xyz^$all
 ||olx-order.pl-id32318864.xyz^$all
 ||olx-order.pl-id34339667.xyz^$all
@@ -7919,6 +7934,7 @@
 ||olx-pl-id225.sprzedazonline.one^$all
 ||olx-pl-id-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl-id.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx-pl-jij.id-4343.me^$all
 ||olx-pl-lha.id-76565.me^$all
 ||olx-pl-mobile.site^$all
 ||olx-pl-oferta.eu^$all
@@ -8084,6 +8100,8 @@
 ||olx.pay13.info^$all
 ||olx.pay14.info^$all
 ||olx.pay15.info^$all
+||olx.pay28.info^$all
+||olx.pay29.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -9030,6 +9048,8 @@
 ||plsk.poland-pro-one.site^$all
 ||plszukamy.space^$all
 ||pltechppge-plwestpl.info^$all
+||pltechppge-plwest.info^$all
+||pltech-pgeinv.info^$all
 ||plus500.ltd^$all
 ||plusbiznesu.com^$all
 ||plusiidi.com^$all
@@ -9371,6 +9391,7 @@
 ||polskapoczta-pl-lik.id-76565.me^$all
 ||polskapoczta-pl-oaf.id-76565.me^$all
 ||polskapoczta-pl-pdh.id-43895.me^$all
+||polskapoczta-pl-thc.id-4343.me^$all
 ||polskapoczta-pl-vqy.id-9843.me^$all
 ||polskapoczta-pl.polska24-dostawa24.shop^$all
 ||polskapoczta.dostawa24-fun.club^$all
@@ -10646,6 +10667,7 @@
 ||techcentretraining.com^$all
 ||techiwant.com^$all
 ||techkade.com^$all
+||techwestpge-pl1.info^$all
 ||techwest-pgeplinv.info^$all
 ||techwest-pgepl.info^$all
 ||tecksplnew.boownew211.xyz^$all
@@ -10851,6 +10873,7 @@
 ||truegamers.ga^$all
 ||trustmybox.org^$all
 ||trustsignjapan.com^$all
+||trustwalet.bdi24.life^$all
 ||trustwallet.busy-burnell.143-198-165-133.plesk.page^$all
 ||trust.lew.orfininfo.xyz^$all
 ||truyenthongbatdiet.online^$all
@@ -10957,6 +10980,10 @@
 ||u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app^$all
 ||u19432194.ct.sendgrid.net^$all
 ||uber-order.pl-id09094338.xyz^$all
+||uber-order.pl-id29435368.xyz^$all
+||uber-order.pl-id43098605.xyz^$all
+||uber-order.pl-id61800904.xyz^$all
+||uber-order.pl-id62691329.xyz^$all
 ||ubranienapapijri.pl^$all
 ||uchwalenie-zwyciezcy.eu^$all
 ||ucinammykupponypolska.website^$all
