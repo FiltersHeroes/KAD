@@ -4,7 +4,6 @@
 /^https:\/\/[-a-z]{12,}\.life\/\?u=[0-9a-z]+&o=/$document,domain=life
 /^https?:\/\/([\w]{1,4}\.)?[0-9]{4,10}\.[a-z-]{6,16}(\.(com|net))?\.pl/$document,domain=pl
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$document,domain=site
-||astrazenega.co.uk^$all
 ||0n.click^$all
 ||9dcm.net^$all
 ||34q22.cn^$all
@@ -18,6 +17,7 @@
 ||all-tube.pl^$all
 ||arcicalonetal.pro^$all
 ||ascraftan.com^$all
+||astrazenega.co.uk^$all
 ||backup2.serverclienti.com^$all
 ||bestfollowers.org^$all
 ||bestoffer2021.info^$all
