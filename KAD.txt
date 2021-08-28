@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 28 Aug 2021, 13:08 UTC+02
-! Version: 2021.8.28.0
+! Last modified: Sat, 28 Aug 2021, 17:07 UTC+02
+! Version: 2021.8.28.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2256,6 +2256,7 @@
 ||allegrou.pl^$all
 ||allegro-aplikacja.net^$all
 ||allegro-credit.info^$all
+||allegro-dvwa.id-8342.com^$all
 ||allegro-llokallnie.online^$all
 ||allegro-llokalnie.site^$all
 ||allegro-logowanie-8a27af.ingress-earth.easywp.com^$all
@@ -2749,6 +2750,7 @@
 ||bonynaszkolenie.eu^$all
 ||bon-darmowy.pl^$all
 ||bookbugg.com^$all
+||booking-order.pl-id86950524.xyz^$all
 ||booking-pl.com-id24310.pw^$all
 ||booking.paysafecash.xyz^$all
 ||booking.pl-id02331851.xyz^$all
@@ -2778,6 +2780,7 @@
 ||booking.pl-order.pl-id61800904.xyz^$all
 ||booking.pl-order.pl-id62691329.xyz^$all
 ||booking.pl-order.pl-id70712065.xyz^$all
+||booking.pl-order.pl-id86950524.xyz^$all
 ||booking.pl-order.pl-id94234918.xyz^$all
 ||booking.pl-order.pl-id99536276.xyz^$all
 ||bookplanet.pl^$all
@@ -3437,6 +3440,7 @@
 ||d1sgj25cjn4adw.cloudfront.net^$all
 ||d1skk3zzav78ma.cloudfront.net^$all
 ||d1sldnh9k0su0i.cloudfront.net^$all
+||d1smh5a9h8kt20.cloudfront.net^$all
 ||d1sqlbfrneg2g6.cloudfront.net^$all
 ||d1sy2c8aotbnkr.cloudfront.net^$all
 ||d1t1aszt9orebq.cloudfront.net^$all
@@ -3535,6 +3539,7 @@
 ||d2azzpp90rme9b.cloudfront.net^$all
 ||d2b0ml8rhb5fu3.cloudfront.net^$all
 ||d2b1y8rzegljk7.cloudfront.net^$all
+||d2b9ch7ayge1si.cloudfront.net^$all
 ||d2b52pa27u7q6l.cloudfront.net^$all
 ||d2bak4g3gsz1zf.cloudfront.net^$all
 ||d2baq2onz7oma4.cloudfront.net^$all
@@ -4271,6 +4276,7 @@
 ||d36bok8k8k1n1l.cloudfront.net^$all
 ||d36idbpjsv9i1q.cloudfront.net^$all
 ||d36judyoxgl2zo.cloudfront.net^$all
+||d36n3q2fcfq85p.cloudfront.net^$all
 ||d36nbgnuno71tn.cloudfront.net^$all
 ||d36uwbnv9zh7.cloudfront.net^$all
 ||d36v93ldmqhsw0.cloudfront.net^$all
@@ -4911,6 +4917,7 @@
 ||dwd3d5yzlfui7.cloudfront.net^$all
 ||dwf.life^$all
 ||dwh4pk9ll0hmm.cloudfront.net^$all
+||dwi0wn9sllqqe.cloudfront.net^$all
 ||dwiruq26ue190.cloudfront.net^$all
 ||dworzec2.webd.pro^$all
 ||dworzecfakt.*^$all
@@ -6227,15 +6234,18 @@
 ||inpost-order.pl-id48087376.xyz^$all
 ||inpost-order.pl-id49207882.xyz^$all
 ||inpost-order.pl-id50668872.xyz^$all
+||inpost-order.pl-id50758514.xyz^$all
 ||inpost-order.pl-id51905422.xyz^$all
 ||inpost-order.pl-id52037451.xyz^$all
 ||inpost-order.pl-id53668806.xyz^$all
+||inpost-order.pl-id54304848.xyz^$all
 ||inpost-order.pl-id54323636.xyz^$all
 ||inpost-order.pl-id54389199.xyz^$all
 ||inpost-order.pl-id59320606.xyz^$all
 ||inpost-order.pl-id61800904.xyz^$all
 ||inpost-order.pl-id61875639.xyz^$all
 ||inpost-order.pl-id64318807.xyz^$all
+||inpost-order.pl-id64559078.xyz^$all
 ||inpost-order.pl-id65761513.xyz^$all
 ||inpost-order.pl-id66124238.xyz^$all
 ||inpost-order.pl-id66463009.xyz^$all
@@ -8154,6 +8164,7 @@
 ||olx-order.pl-id45453634.xyz^$all
 ||olx-order.pl-id45944688.xyz^$all
 ||olx-order.pl-id47874207.xyz^$all
+||olx-order.pl-id50758514.xyz^$all
 ||olx-order.pl-id51905422.xyz^$all
 ||olx-order.pl-id52037451.xyz^$all
 ||olx-order.pl-id54421094.xyz^$all
@@ -8365,6 +8376,7 @@
 ||olx.dostawa24-fun.club^$all
 ||olx.dostawa-orders.casa^$all
 ||olx.dostawa-pl.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx.dostawa-safe.one^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.dostawwa.pl^$all
@@ -8412,6 +8424,7 @@
 ||olx.pay37.info^$all
 ||olx.pay41.info^$all
 ||olx.pay47.info^$all
+||olx.pay50.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -8717,6 +8730,7 @@
 ||ouruk880.cyou^$all
 ||outl00k.mfs.gg^$all
 ||outletove.com.pl^$all
+||outlookverify.com^$all
 ||overcreative.com^$all
 ||ovident.com^$all
 ||owa-password-expiry.web.app^$all
@@ -9437,6 +9451,7 @@
 ||pl-gopays.work^$all
 ||pl-gotpaid.shop^$all
 ||pl-id737962.info^$all
+||pl-info-24.pl^$all
 ||pl-inpost.com^$all
 ||pl-inpost.online^$all
 ||pl-inpost.polska24-dostawa24.shop^$all
@@ -10478,6 +10493,7 @@
 ||service-team-domfeld.info^$all
 ||servieckartepayau.com^$all
 ||serwer1388632.home.pl^$all
+||serwer2126914.home.pl^$all
 ||serwer2126956.home.pl^$all
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
@@ -11387,12 +11403,14 @@
 ||uber-order.pl-id61800904.xyz^$all
 ||uber-order.pl-id62691329.xyz^$all
 ||uber-order.pl-id70712065.xyz^$all
+||uber-order.pl-id86950524.xyz^$all
 ||uber-order.pl-id99536276.xyz^$all
 ||uber.order.pl-id61800904.xyz^$all
 ||uber.pl-id29435368.xyz^$all
 ||uber.pl-order.pl-id39303432.xyz^$all
 ||uber.pl-order.pl-id49207882.xyz^$all
 ||uber.pl-order.pl-id70712065.xyz^$all
+||uber.pl-order.pl-id86950524.xyz^$all
 ||uber.pl-order.pl-id94234918.xyz^$all
 ||uber.pl-order.pl-id99536276.xyz^$all
 ||uber.pl.order.pl-id61800904.xyz^$all
