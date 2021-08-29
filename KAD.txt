@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 29 Aug 2021, 13:08 UTC+02
-! Version: 2021.8.29.0
+! Last modified: Sun, 29 Aug 2021, 17:08 UTC+02
+! Version: 2021.8.29.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2211,6 +2211,7 @@
 ||aktualizacja-platnosci.netafix-pl.one^$all
 ||aktualizacja-platnosci.netafix-pl.store^$all
 ||aktualizacja.jst.pl^$all
+||aktualna2.historiazycia.casa^$all
 ||aktualna.historiazycia.casa^$all
 ||aktywnezycie.com.pl^$all
 ||alabaster-steel-hawthorn.glitch.me^$all
@@ -3490,6 +3491,7 @@
 ||d1vq9u0pa93re4.cloudfront.net^$all
 ||d1vrq947dmqbr3.cloudfront.net^$all
 ||d1vshnrm5muzgi.cloudfront.net^$all
+||d1vwy0upu37s0.cloudfront.net^$all
 ||d1w1v3ojv0zhmo.cloudfront.net^$all
 ||d1w1whf5mptrns.cloudfront.net^$all
 ||d1w1wpzpigsxu0.cloudfront.net^$all
@@ -3757,6 +3759,7 @@
 ||d2v478qb2r0iip.cloudfront.net^$all
 ||d2vb22t8po4g3k.cloudfront.net^$all
 ||d2vblsyq4rwl1o.cloudfront.net^$all
+||d2vj65f5py7d16.cloudfront.net^$all
 ||d2vpzv00fm2383.cloudfront.net^$all
 ||d2vrxczughho13.cloudfront.net^$all
 ||d2vynyfxno0uci.cloudfront.net^$all
@@ -3780,6 +3783,7 @@
 ||d2xnh0qhaxakbh.cloudfront.net^$all
 ||d2xqfww7avag09.cloudfront.net^$all
 ||d2xsd4c4jra8f3.cloudfront.net^$all
+||d2xsgbhiha8ehh.cloudfront.net^$all
 ||d2xt5o8xrk77dr.cloudfront.net^$all
 ||d2y2uz6sn2mxfg.cloudfront.net^$all
 ||d2y5nh1tdkqgvw.cloudfront.net^$all
@@ -3926,6 +3930,7 @@
 ||d3l8is254snk54.cloudfront.net^$all
 ||d3l9k0igpiir98.cloudfront.net^$all
 ||d3l41d43cmmx14.cloudfront.net^$all
+||d3ld5hpwtrn9f5.cloudfront.net^$all
 ||d3lhpgd0g5vizz.cloudfront.net^$all
 ||d3ljxg8hqqnbe2.cloudfront.net^$all
 ||d3lkqbg48rbxq6.cloudfront.net^$all
@@ -4226,6 +4231,7 @@
 ||d26y03t28s4hxb.cloudfront.net^$all
 ||d27a42tuxy5ura.cloudfront.net^$all
 ||d27dwebkv4fy06.cloudfront.net^$all
+||d27j9bp3jt0g6p.cloudfront.net^$all
 ||d27jwue5iqnh6b.cloudfront.net^$all
 ||d28cp77anbo6lu.cloudfront.net^$all
 ||d28gyrvgbeinai.cloudfront.net^$all
@@ -4540,6 +4546,7 @@
 ||depertament.pl^$all
 ||dephantomz.duckdns.org^$all
 ||depozyt24.net^$all
+||depsfm2808264.cloudfront.net^$all
 ||deqqvg74uu6kk.cloudfront.net^$all
 ||der4l3igtmkmv.cloudfront.net^$all
 ||derpost.xyz^$all
@@ -6281,6 +6288,7 @@
 ||inpost-order.pl-id74480973.xyz^$all
 ||inpost-order.pl-id75786319.xyz^$all
 ||inpost-order.pl-id76166142.xyz^$all
+||inpost-order.pl-id77267859.xyz^$all
 ||inpost-order.pl-id78794628.xyz^$all
 ||inpost-order.pl-id79344439.xyz^$all
 ||inpost-order.pl-id79388439.xyz^$all
@@ -6356,10 +6364,12 @@
 ||inpost-u.id-2323.me^$all
 ||inpost-u.id-9345.me^$all
 ||inpost-w.id-3489.me^$all
+||inpost-xhk.id-3842.me^$all
 ||inpost-x.id-43895.me^$all
 ||inpost-y.id-9345.me^$all
 ||inpost-zamowienie.pl^$all
 ||inpost-z.id-5370.me^$all
+||inpost.3dbill.store^$all
 ||inpost.bond^$all
 ||inpost.casa^$all
 ||inpost.cc^$all
@@ -8217,6 +8227,7 @@
 ||olx-order.pl-id68447784.xyz^$all
 ||olx-order.pl-id71868110.xyz^$all
 ||olx-order.pl-id73190702.xyz^$all
+||olx-order.pl-id77267859.xyz^$all
 ||olx-order.pl-id78794628.xyz^$all
 ||olx-order.pl-id79363439.xyz^$all
 ||olx-order.pl-id79593133.xyz^$all
@@ -8465,6 +8476,8 @@
 ||olx.pay47.info^$all
 ||olx.pay50.info^$all
 ||olx.pay51.info^$all
+||olx.pay52.info^$all
+||olx.pay54.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -8505,6 +8518,7 @@
 ||olx.pl.bskiikcom.pw^$all
 ||olx.pl.buyfcomtransit.site^$all
 ||olx.pl.comstransbuyit.site^$all
+||olx.pl.dostawa-safe.shop^$all
 ||olx.pl.dostawa-secure.one^$all
 ||olx.pl.itbuyingtofor.pw^$all
 ||olx.pl.itemcheck-gn.pw^$all
@@ -10300,6 +10314,7 @@
 ||roskosk.bestdep.shop^$all
 ||roskosl.bestdep.online^$all
 ||roskosm.eu-dep.club^$all
+||rosms.xyz^$all
 ||rossmanie.xyz^$all
 ||rossmannbonyzakupowe.grvdc.eu^$all
 ||ros-camp.website^$all
@@ -10824,6 +10839,7 @@
 ||sprzedaz-aiiegro.xyz^$all
 ||sprzedaz-nr-497417.in.net^$all
 ||sprzedaz-nr-940031.in.net^$all
+||sprzedaz.smart-posrednik.xyz^$all
 ||srednioraznakilkalat.space^$all
 ||srv38989.seohost.com.pl^$all
 ||srv39168.seohost.com.pl^$all
@@ -11084,6 +11100,7 @@
 ||tajnespotkania.eu^$all
 ||tajskimasazsopot.pl^$all
 ||tajwanac.icu^$all
+||tak1.mowieprawde.life^$all
 ||tak3.mowieprawde.life^$all
 ||tak4.mowieprawde.life^$all
 ||takado.xyz^$all
@@ -11619,6 +11636,7 @@
 ||vikmar.com.pl^$all
 ||vikmot.xyz^$all
 ||vinpost.id-87233.me^$all
+||vinted-jfdo.id-3842.me^$all
 ||vinted-pl.online^$all
 ||vinted-v.id-2830.me^$all
 ||vinted.cc^$all
