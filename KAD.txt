@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 31 Aug 2021, 17:08 UTC+02
-! Version: 2021.8.31.1
+! Last modified: Tue, 31 Aug 2021, 21:08 UTC+02
+! Version: 2021.8.31.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -389,6 +389,7 @@
 ||eccobutyoutlet.fun^$all
 ||eccobutypolska.com^$all
 ||eccobuty.co^$all
+||eccoeustore.com^$all
 ||eccooutletpolska.pl^$all
 ||eccopoland.com^$all
 ||ecco-polska.pl^$all
@@ -1740,6 +1741,7 @@
 ||noebank.pl^$all
 ||notification-list.com^$all
 ||notified-today.com^$all
+||nowoscimediaokpi.pl^$all
 ||nqslmtuswqdz.com^$all
 ||nu7.pl^$all
 ||oav4trk.com^$all
@@ -1929,6 +1931,7 @@
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
+/^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?(info-onet|informujemy)(\d+)?\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(\w+)?\d+\.(site|space)/$all
@@ -2075,6 +2078,7 @@
 ||224niemarnujswojegoczassu.cyou^$all
 ||326.allegro.lokalnie.cc^$all
 ||411medias.com^$all
+||411otelcoal.com^$all
 ||464.allegrolokolnie.com^$all
 ||777marketer.cyou^$all
 ||778t799e9e77e7ewwqqww.sport357.com^$all
@@ -2141,6 +2145,7 @@
 ||adfiptv.com^$all
 ||adidaspolskaoutlet.com^$all
 ||adidaspromodel.pl^$all
+||adidasteamstore.com^$all
 ||adminbezpieczenstwajednostka.moonfruit.com^$all
 ||adminhelp1deskunit.moonfruit.com^$all
 ||adminhelpdeskunitn.moonfruit.com^$all
@@ -2252,6 +2257,7 @@
 ||allegrolokaline.club^$all
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
+||allegrolokalnie-pl.payregisway.pw^$all
 ||allegrolokalnie-pl.*^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
@@ -2381,6 +2387,7 @@
 ||antyspam-interia.live^$all
 ||antyspam-poczta.us^$all
 ||antyszczepionkowo.you2.pl^$all
+||anubandi.com^$all
 ||anynewdomain.xyz^$all
 ||aowadczdfkcd4kl9dk.et.r.appspot.com^$all
 ||aoxtrade.com^$all
@@ -2574,6 +2581,7 @@
 ||bentyluses.com^$all
 ||benzkartel.duckdns.org^$all
 ||berich.eu^$all
+||bespuantiye.com^$all
 ||bestcheats.cba.pl^$all
 ||bestfloorcoatings.com^$all
 ||bestforbikers.com^$all
@@ -2885,6 +2893,8 @@
 ||bunemas.com^$all
 ||bungalowsentertainment.com^$all
 ||bureaulimited.ltd^$all
+||businessinsider.pisz.pl^$all
+||businessinsider.waw.pl^$all
 ||businessshorka.info^$all
 ||business-chat-commands.com^$all
 ||business-command.com^$all
@@ -2960,6 +2970,7 @@
 ||carambaba.com^$all
 ||cardinalfx.trade^$all
 ||cardinalholdingsltd.com^$all
+||carmichaelwilson.com^$all
 ||caropeyo.com^$all
 ||carroemotors.com^$all
 ||caterpillarpolska.top^$all
@@ -3251,6 +3262,7 @@
 ||czyn-pomocy.eu^$all
 ||czyscidlo.pl^$all
 ||czyscimniedupa.xyz^$all
+||czystypowiat.pl^$all
 ||czytanie.site^$all
 ||czytelnikpoliska.club^$all
 ||czytooszustwo.pl^$all
@@ -5231,6 +5243,7 @@
 ||eugenelidochek.space^$all
 ||eupay.website^$all
 ||euroausili.it^$all
+||eurocallcenter.pl^$all
 ||eurolegis.pl^$all
 ||european-news.org^$all
 ||eurosprinthiker.pl^$all
@@ -5746,6 +5759,7 @@
 ||gdnsk-lts.site^$all
 ||gedos.xyz^$all
 ||geekgirlacademy.com^$all
+||geekrunners.com^$all
 ||geminies.xyz^$all
 ||geminioption.com^$all
 ||generujkody.app^$all
@@ -5854,6 +5868,7 @@
 ||goths.store^$all
 ||gotowedlakazdego.website^$all
 ||govmexx-govproject.info^$all
+||govtjobopenings.com^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
 ||gpwtrad.com^$all
 ||grafdruk.com.pl^$all
@@ -6055,6 +6070,7 @@
 ||iapartamentydeluxe.pl^$all
 ||ibill.phoenixprojectco.com^$all
 ||ibmusa007.s3.us-south.cloud-object-storage.appdomain.cloud^$all
+||ibriffath.com^$all
 ||ibuzsklep.com^$all
 ||icmarkets-zhg.cn^$all
 ||icrumbfromalanddownunder.com^$all
@@ -6321,6 +6337,7 @@
 ||inpost-order.pl-id53668806.xyz^$all
 ||inpost-order.pl-id54304848.xyz^$all
 ||inpost-order.pl-id54389199.xyz^$all
+||inpost-order.pl-id59219245.xyz^$all
 ||inpost-order.pl-id61800904.xyz^$all
 ||inpost-order.pl-id61875639.xyz^$all
 ||inpost-order.pl-id63923641.xyz^$all
@@ -6401,6 +6418,7 @@
 ||inpost-pl.online^$all
 ||inpost-pl.ownkontos.shop^$all
 ||inpost-pl.payments-safe.icu^$all
+||inpost-pl.payregisway.pw^$all
 ||inpost-pl.purchaseitem.pw^$all
 ||inpost-pl.reigjoytobuy.pw^$all
 ||inpost-pl.safeorder.co^$all
@@ -7305,6 +7323,7 @@
 ||mandat-5513.net^$all
 ||mandat-6341.net^$all
 ||mandfs.top^$all
+||mandty.net^$all
 ||maniastry.com^$all
 ||mania-zakupow.click^$all
 ||manio.xyz^$all
@@ -7450,6 +7469,7 @@
 ||millensbannk.*^$all
 ||millensbbannk.*^$all
 ||millionways.duckdns.org^$all
+||millsdeals.com^$all
 ||milosc.co^$all
 ||mimyhair.com^$all
 ||mindskillsbox.com^$all
@@ -8696,6 +8716,7 @@
 ||opieka.info.pl^$all
 ||opineo.pw^$all
 ||oplataolx.pl^$all
+||oplata-nr9381.net^$all
 ||oplata-payu.com^$all
 ||oplata-pl-olx.online^$all
 ||oplata-przesylki.fun^$all
@@ -9295,6 +9316,7 @@
 ||pge-newplenergy-project.info^$all
 ||pge-newplenergy.info^$all
 ||pge-newproj.info^$all
+||pge-oplaty.net^$all
 ||pge-plenergyproject.info^$all
 ||pge-plenergypro.info^$all
 ||pge-plenergy-project.info^$all
@@ -9698,6 +9720,7 @@
 ||poczta-mobile.pl^$all
 ||poczta-o2.pl^$all
 ||poczta-order.pl-id90378195.xyz^$all
+||poczta-polska-pl.3dsecure-order.icu^$all
 ||poczta-polska-pl.us^$all
 ||poczta-polska.eu^$all
 ||poczta-polska.me^$all
@@ -9819,6 +9842,7 @@
 ||polskaonline.club^$all
 ||polskapoczta-a.id-93732.cc^$all
 ||polskapoczta-b.id-27447.me^$all
+||polskapoczta-fjue.id-4398.me^$all
 ||polskapoczta-plgc.platzdostawa.cc^$all
 ||polskapoczta-plmzxh.ownoffferta.casa^$all
 ||polskapoczta-plmzxh.ownoffferta.cc^$all
@@ -10096,6 +10120,7 @@
 ||prywatne-fotki.mywebcommunity.org^$all
 ||prywatniepolska.online^$all
 ||prywatnosc-onet.pl^$all
+||przechowalnia24.net^$all
 ||przechowalnia.net^$all
 ||przechowalnie.net^$all
 ||przechowanie.net^$all
@@ -10164,6 +10189,7 @@
 ||pxd-pay.online^$all
 ||pycie.com^$all
 ||pyhqjc.com^$all
+||pyitetwe2rqqwet75tg.xyz^$all
 ||pzutrasyzdrowia.pl^$all
 ||qerte.wescapital.xyz^$all
 ||qolx.pl^$all
@@ -10549,6 +10575,7 @@
 ||server526253.nazwa.pl^$all
 ||server529789.nazwa.pl^$all
 ||server530103.nazwa.pl^$all
+||server560960.nazwa.pl^$all
 ||server574533.nazwa.pl^$all
 ||server587427.nazwa.pl^$all
 ||server589251.nazwa.pl^$all
@@ -11007,6 +11034,7 @@
 ||sunlight.com^$all
 ||sunrisedvdrentals.com^$all
 ||supaflyvos.net^$all
+||superbiography.com^$all
 ||superchance-forwin*.life^$all
 ||superdrypolska.com^$all
 ||supergra2020.wixsite.com^$all
@@ -11154,6 +11182,7 @@
 ||techwest-pgepl.info^$all
 ||tecksplnew.boownew211.xyz^$all
 ||teenagerchimney.com^$all
+||teengamersnetwork.com^$all
 ||tegojeszczeniepowiedziallam.website^$all
 ||tegosienikktniespodziewal.cyou^$all
 ||tekbox.org^$all
@@ -11357,6 +11386,7 @@
 ||transportujemy.net^$all
 ||transportuje.net^$all
 ||transporty24.net^$all
+||travpayments.com^$all
 ||treatheeter.site^$all
 ||treecutter-procutt.com^$all
 ||trendingraphs.net^$all
@@ -11864,6 +11894,7 @@
 ||wiemywiecej.casa^$all
 ||wieniawa.info.pl^$all
 ||wiernya.icu^$all
+||wiesc076.site^$all
 ||wieszjakjestrodakku.space^$all
 ||wieszzemozzesz.space^$all
 ||wiiadomoscizkrajuu.live^$all
@@ -12003,6 +12034,7 @@
 ||ww.paczkjups.com^$all
 ||ww.paczkmups.com^$all
 ||ww.paczkpups.com^$all
+||ww.paczkqups.com^$all
 ||ww.paczkrups.com^$all
 ||ww.paczksups.com^$all
 ||ww.paczktups.com^$all
