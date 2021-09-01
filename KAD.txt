@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 01 Sep 2021, 17:08 UTC+02
-! Version: 2021.9.1.1
+! Last modified: Wed, 01 Sep 2021, 21:09 UTC+02
+! Version: 2021.9.1.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2072,11 +2072,13 @@
 ||24.daily-news-24.com^$all
 ||24.eu^$document,domain=~www.24.eu
 ||30c7518cd72f893d5dab009011537630.lds.biz^$all
+||30minutetechbriefings.com^$all
 ||31c5ff24944432411.temporary.link^$all
 ||60dnipremium.cloud^$all
 ||82-118-23-62.cprapid.com^$all
 ||96b4d58e213077161.temporary.link^$all
 ||100sport.tv^$all
+||108realtors.com^$all
 ||123goflix.com^$all
 ||123mopie.com^$all
 ||123movies.my.id^$all
@@ -2358,6 +2360,7 @@
 ||amainves.digserpro.xyz^$all
 ||amariceo.duckdns.org^$all
 ||amazone-protectionrl8up8e6tcdfaiwzrvgp.com^$all
+||amazon-ck.heteml.net^$all
 ||ambrosiaenterprise.biz^$all
 ||amex-financials.com^$all
 ||amirds.xyz^$all
@@ -3417,6 +3420,7 @@
 ||d1kqe6gcmwins2.cloudfront.net^$all
 ||d1kqycvamd3qek.cloudfront.net^$all
 ||d1ktusbv860p4j.cloudfront.net^$all
+||d1kyinnrm5erx9.cloudfront.net^$all
 ||d1l3de3b8jkm0.cloudfront.net^$all
 ||d1l3pdlyie02ey.cloudfront.net^$all
 ||d1l19k9wb9297c.cloudfront.net^$all
@@ -3488,6 +3492,7 @@
 ||d1rdewbb3ho9y7.cloudfront.net^$all
 ||d1ri6u5r14lfdy.cloudfront.net^$all
 ||d1rme4jvs62tcn.cloudfront.net^$all
+||d1rtrc17jgsijl.cloudfront.net^$all
 ||d1rwr6a04kwnyq.cloudfront.net^$all
 ||d1rz97hbh9y0w0.cloudfront.net^$all
 ||d1rzs3xlig8vat.cloudfront.net^$all
@@ -3596,6 +3601,7 @@
 ||d1zrl0qvs6rml6.cloudfront.net^$all
 ||d1zxddxys75ust.cloudfront.net^$all
 ||d1zy79iyrsz9gx.cloudfront.net^$all
+||d2a3p7fh3f7yvs.cloudfront.net^$all
 ||d2a9qhxn3dd1fs.cloudfront.net^$all
 ||d2a99ncvgwfx20.cloudfront.net^$all
 ||d2aalyghcsczrt.cloudfront.net^$all
@@ -3694,6 +3700,7 @@
 ||d2ijp7mc5b7l0t.cloudfront.net^$all
 ||d2ipqzq1py5n6i.cloudfront.net^$all
 ||d2irb652pmajen.cloudfront.net^$all
+||d2it24yweqn0kg.cloudfront.net^$all
 ||d2ithhclt4idc0.cloudfront.net^$all
 ||d2itysgk5mpvmt.cloudfront.net^$all
 ||d2ivkypbo2hnjg.cloudfront.net^$all
@@ -3777,6 +3784,7 @@
 ||d2pdgz3r18za9h.cloudfront.net^$all
 ||d2pf8njhd1xw97.cloudfront.net^$all
 ||d2pqkivjf3g5k5.cloudfront.net^$all
+||d2pqz5u4a6mjdp.cloudfront.net^$all
 ||d2prgb3srqdix1.cloudfront.net^$all
 ||d2pubdjkl8dey0.cloudfront.net^$all
 ||d2pv29cip53hjx.cloudfront.net^$all
@@ -3928,6 +3936,7 @@
 ||d3cq70f2q4ytv4.cloudfront.net^$all
 ||d3cvhpljbh0jbw.cloudfront.net^$all
 ||d3cvi3b6lbtksd.cloudfront.net^$all
+||d3cvtszrkjj42p.cloudfront.net^$all
 ||d3cwreb0rabzkn.cloudfront.net^$all
 ||d3cx6iv4naoh7h.cloudfront.net^$all
 ||d3d2pdui0691vv.cloudfront.net^$all
@@ -4358,6 +4367,7 @@
 ||d29fifl3dep693.cloudfront.net^$all
 ||d29fpydwi4fq7.cloudfront.net^$all
 ||d29g6ewww58gsz.cloudfront.net^$all
+||d29jfsbnqk0xjn.cloudfront.net^$all
 ||d29jgon3cfzzyo.cloudfront.net^$all
 ||d30bl0twucff6v.cloudfront.net^$all
 ||d30gkc5zoj3d98.cloudfront.net^$all
@@ -4365,6 +4375,7 @@
 ||d30hbt0rlpewjj.cloudfront.net^$all
 ||d30kswgdedpar7.cloudfront.net^$all
 ||d30mm5ejac6euk.cloudfront.net^$all
+||d30tt72k1pkv4l.cloudfront.net^$all
 ||d30vp0s21xlmbp.cloudfront.net^$all
 ||d30xtiu0hwf3q9.cloudfront.net^$all
 ||d31hwl7tvoqtpd.cloudfront.net^$all
@@ -4470,6 +4481,7 @@
 ||d190i45p2m3hbk.cloudfront.net^$all
 ||d190vkbddtgxoo.cloudfront.net^$all
 ||d212m0ytirb8y9.cloudfront.net^$all
+||d213sl9p2zl46x.cloudfront.net^$all
 ||d213wju3dovffb.cloudfront.net^$all
 ||d225p7jdkvbs5e.cloudfront.net^$all
 ||d235p9jy8mgkg1.cloudfront.net^$all
@@ -4478,6 +4490,7 @@
 ||d246aj2kyx0kq6.cloudfront.net^$all
 ||d250vjjmij5d3c.cloudfront.net^$all
 ||d260ptyfdzr11n.cloudfront.net^$all
+||d266b2co2bge4m.cloudfront.net^$all
 ||d270mmppqyrxvh.cloudfront.net^$all
 ||d277vosftpr4r2.cloudfront.net^$all
 ||d278e6l7afg8fl.cloudfront.net^$all
@@ -4732,6 +4745,7 @@
 ||dh7lrn945d1xq.cloudfront.net^$all
 ||dhamakawear.com^$all
 ||dhc6wkg91bshz.cloudfront.net^$all
+||dhdx24qjjzwfc.cloudfront.net^$all
 ||dhe09zz3ayx3p.cloudfront.net^$all
 ||dhhfxb5eyj88f.cloudfront.net^$all
 ||dhi9ksq8khea1.cloudfront.net^$all
@@ -5638,6 +5652,7 @@
 ||fitoffer.top^$all
 ||fitpasterz.pl^$all
 ||fit-poradnik.pl^$all
+||fixly.work^$all
 ||flashplayer-update.digital^$all
 ||flashupdate.digital^$all
 ||flash-player-update.digital^$all
@@ -6370,6 +6385,7 @@
 ||inpost-b.id-43895.me^$all
 ||inpost-c.id-2323.me^$all
 ||inpost-c.id-2830.me^$all
+||inpost-c.id-3828883.me^$all
 ||inpost-delivering.icu^$all
 ||inpost-delivery-pl.icu^$all
 ||inpost-delivery-terms.pl^$all
@@ -6431,6 +6447,7 @@
 ||inpost-order.pl-id61800904.xyz^$all
 ||inpost-order.pl-id61875639.xyz^$all
 ||inpost-order.pl-id63923641.xyz^$all
+||inpost-order.pl-id64279287.xyz^$all
 ||inpost-order.pl-id64318807.xyz^$all
 ||inpost-order.pl-id64559078.xyz^$all
 ||inpost-order.pl-id65761513.xyz^$all
@@ -6500,6 +6517,7 @@
 ||inpost-pl-pay.site^$all
 ||inpost-pl-ptb.id-4989980.me^$all
 ||inpost-pl-sbh.id-4989987.me^$all
+||inpost-pl-ta.id-4365.me^$all
 ||inpost-pl-waj.id-2323.me^$all
 ||inpost-pl-ykj.id-3485.me^$all
 ||inpost-pl.3dsec-orders.icu^$all
@@ -6507,6 +6525,7 @@
 ||inpost-pl.britembuy.pw^$all
 ||inpost-pl.com^$all
 ||inpost-pl.deliverorder.pw^$all
+||inpost-pl.forordering.site^$all
 ||inpost-pl.goodspurchase.pw^$all
 ||inpost-pl.joyregbuyitem.pw^$all
 ||inpost-pl.online^$all
@@ -6517,6 +6536,7 @@
 ||inpost-pl.reigjoytobuy.pw^$all
 ||inpost-pl.safeorder.co^$all
 ||inpost-pl.safe-delivery.one^$all
+||inpost-pl.secure3ds.icu^$all
 ||inpost-pl.system-pay2344.ml^$all
 ||inpost-q.id-9431.me^$all
 ||inpost-rlrv.id-3842.me^$all
@@ -6527,6 +6547,7 @@
 ||inpost-terms.icu^$all
 ||inpost-upiy.id-4398.me^$all
 ||inpost-u.id-2323.me^$all
+||inpost-u.id-3828883.me^$all
 ||inpost-wej.id-4398.me^$all
 ||inpost-wgd.id-4398.me^$all
 ||inpost-w.id-3489.me^$all
@@ -6544,6 +6565,7 @@
 ||inpost.digital^$all
 ||inpost.dostawa24-fun.club^$all
 ||inpost.dostawa-orders.casa^$all
+||inpost.dostawa-safe.rest^$all
 ||inpost.email^$all
 ||inpost.fit^$all
 ||inpost.generujkod.app^$all
@@ -7147,6 +7169,7 @@
 ||lepszeoceny.pl^$all
 ||lesantivirus.net^$all
 ||lesmalou.com^$all
+||letslocum.com^$all
 ||letswinstuff.com^$all
 ||levioutletpolska.com^$all
 ||leviswyprzedaz.com^$all
@@ -7337,6 +7360,7 @@
 ||louyanx.pl^$all
 ||lovare.xyz^$all
 ||lovemydress.pl^$all
+||lovintrends.com^$all
 ||lovotoy.com^$all
 ||lpkao.pw^$all
 ||lpkeo.pw^$all
@@ -7384,6 +7408,7 @@
 ||lytkarino.com^$all
 ||mabanque-bnpparibas-ref-31-fr.web.app^$all
 ||mabanque-bnpparibas-ref-34-fr.web.app^$all
+||maccash.fun^$all
 ||maceju.com^$all
 ||macheaper.top^$all
 ||mackeeperaffiliates.com^$all
@@ -7465,6 +7490,7 @@
 ||martynk.biz.pl^$all
 ||masac.xyz^$all
 ||mastardo.xyz^$all
+||masterclass-meeting.com^$all
 ||masterimon.com^$all
 ||mastertradeinvestments.com^$all
 ||mastilo.pl^$all
@@ -7622,6 +7648,7 @@
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
 ||moderka-sklep.pl^$all
+||moder-modemet.se^$all
 ||modna-szafa.click^$all
 ||modny-bon.click^$all
 ||modred.site^$all
@@ -8363,6 +8390,7 @@
 ||olx-order.pl-id29435368.xyz^$all
 ||olx-order.pl-id35155454.xyz^$all
 ||olx-order.pl-id37308205.xyz^$all
+||olx-order.pl-id37382445.xyz^$all
 ||olx-order.pl-id43098605.xyz^$all
 ||olx-order.pl-id45944688.xyz^$all
 ||olx-order.pl-id50758514.xyz^$all
@@ -8372,6 +8400,7 @@
 ||olx-order.pl-id59407436.xyz^$all
 ||olx-order.pl-id61800904.xyz^$all
 ||olx-order.pl-id61875639.xyz^$all
+||olx-order.pl-id64279287.xyz^$all
 ||olx-order.pl-id64318807.xyz^$all
 ||olx-order.pl-id65761513.xyz^$all
 ||olx-order.pl-id71868110.xyz^$all
@@ -8567,6 +8596,7 @@
 ||olx-y.pl^$all
 ||olx-zamowienie.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-zaplata.pl^$all
+||olx-zvih.id-3856.com^$all
 ||olx-z.pl^$all
 ||olx--pl.online^$all
 ||olx.blue^$all
@@ -8625,6 +8655,7 @@
 ||olx.pay54.info^$all
 ||olx.pay55.info^$all
 ||olx.pay61.info^$all
+||olx.pay62.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -10456,6 +10487,7 @@
 ||reypey.net^$all
 ||re-bu-il-der.xyz^$all
 ||re.sms-safe.one^$all
+||rgoo.xyz^$all
 ||riadoca.com^$all
 ||riaubuy.com^$all
 ||rich-pay.online^$all
@@ -10700,6 +10732,7 @@
 ||server296160.nazwa.pl^$all
 ||server298635.nazwa.pl^$all
 ||server358928.nazwa.pl^$all
+||server360828.nazwa.pl^$all
 ||server365449.nazwa.pl^$all
 ||server388782.nazwa.pl^$all
 ||server392115.nazwa.pl^$all
@@ -11175,6 +11208,7 @@
 ||sunlight.com^$all
 ||sunrisedvdrentals.com^$all
 ||supaflyvos.net^$all
+||supaserious.com^$all
 ||superbiography.com^$all
 ||superchance-forwin*.life^$all
 ||superdrypolska.com^$all
@@ -11290,6 +11324,7 @@
 ||tak3.mowieprawde.life^$all
 ||tak4.mowieprawde.life^$all
 ||takado.xyz^$all
+||takbyte-stockholm.se^$all
 ||takczyinaczejmusibyc.space^$all
 ||takczysiakpolska24.website^$all
 ||takiczasswystarczy.online^$all
@@ -11543,6 +11578,7 @@
 ||trikwindows.com^$all
 ||trimulianugraha.com^$all
 ||tripadvisor-com.rentals25517.com^$all
+||triplexdesign.se^$all
 ||trofeum-zdobywamy.eu^$all
 ||tronte.xyz^$all
 ||trotamundos.com.pl^$all
