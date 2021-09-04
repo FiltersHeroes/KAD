@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 03 Sep 2021, 21:08 UTC+02
-! Version: 2021.9.3.3
+! Last modified: Sat, 04 Sep 2021, 13:08 UTC+02
+! Version: 2021.9.4.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2365,6 +2365,7 @@
 ||alltradesfx.com^$all
 ||alltube.com.pl^$all,domain=~alltube.tv|~alltube.pl
 ||all-player.pl^$all
+||almdev.se^$all
 ||almighty-offers.com^$all
 ||almshhadalyemeni.com^$all
 ||almuradtiles.zohosites.com^$all
@@ -2457,6 +2458,7 @@
 ||apps.co.pl^$all
 ||apptrader.com^$all
 ||app*.kromtech.net^$all,domain=net
+||app-findmyweb.com^$all
 ||app-messenger-lite.com^$all
 ||app.uniswap.info-tokens.com^$all
 ||aprove-confrim.000webhostapp.com^$all
@@ -2606,6 +2608,7 @@
 ||become-a-millionaire.info^$all
 ||bedacjuzprzytym.cyou^$all
 ||bedziemy-zawsze.pl^$all
+||beehrm.com^$all
 ||beforppl995.club^$all
 ||begalleo.com^$all
 ||begin.digitabook.net^$all
@@ -2637,6 +2640,7 @@
 ||bestofgroup.tech^$all
 ||bestoflibrary.com^$all
 ||bestofpozht.xyz^$all
+||bestprojektpl.info^$all
 ||bestsale2021.net^$all
 ||bestshopping-voucher.com^$all
 ||bestvod.pl^$all
@@ -3117,6 +3121,7 @@
 ||cezaevinegonder.com^$all
 ||cfxdtrade.com^$all
 ||cgiergate.com^$all
+||chalkmutual.info^$all
 ||charlestonstork.com^$all
 ||charms-tech.com^$all
 ||chcemyschudnac.pl^$all
@@ -3144,6 +3149,7 @@
 ||chor-moniuszko.pl^$all
 ||christianmillerswatches.com^$all
 ||chron-telefon.com^$all
+||chwalimy.bar^$all
 ||ciarioplatense.com.ar^$all
 ||cidadecrista.com.br^$all
 ||ciekawesprawy.online^$all
@@ -3189,6 +3195,7 @@
 ||cmentosrl.com^$all
 ||cmxmarket.com^$all
 ||cnw-offers.live^$all
+||cobalt-aircraft.com^$all
 ||cocinaeljibarazo.com^$all
 ||cocky-carson-2225d2.netlify.app^$all
 ||codigotributario.com.br^$all
@@ -3224,6 +3231,7 @@
 ||confirmation.orders-olx.com^$all
 ||connessionedati.com^$all
 ||consityr600.xyz^$all
+||constrainthead.info^$all
 ||constructionzone1.com^$all
 ||contact-tracing-app.site^$all
 ||contact-update.centrum24consumer.me^$all
@@ -3339,11 +3347,13 @@
 ||czarna-lista.o99o.cloud^$all
 ||czarne-chmury.k99k.com.pl^$all
 ||czarownica-online-pl.5v.pl^$all
+||czas2.poprzednio.cyou^$all
 ||czasnajablko.pl^$all
 ||czasnakino.pl^$all
 ||czasnazmianywzyciu.online^$all
 ||czaspolaka.eu^$all
 ||czaspolski.bar^$all
+||czas.poprzednio.cyou^$all
 ||czemarserwis.home.pl^$all
 ||czemubyniezaczac.website^$all
 ||czestochowawsieci.xyz^$all
@@ -3773,6 +3783,7 @@
 ||d2ivkypbo2hnjg.cloudfront.net^$all
 ||d2iwn9vstu6p12.cloudfront.net^$all
 ||d2izbp36oqqnqy.cloudfront.net^$all
+||d2jc9txgizvyqd.cloudfront.net^$all
 ||d2jhkxbfpe4nzj.cloudfront.net^$all
 ||d2jm1wfs8xzjsa.cloudfront.net^$all
 ||d2jo4dyckpsqrg.cloudfront.net^$all
@@ -3864,6 +3875,7 @@
 ||d2qjb6cchczn95.cloudfront.net^$all
 ||d2qlxn4zgetiir.cloudfront.net^$all
 ||d2qnw7npg5oug3.cloudfront.net^$all
+||d2qqj8u1j4lqbl.cloudfront.net^$all
 ||d2qsct1tn2y6oj.cloudfront.net^$all
 ||d2qv3dewj1x225.cloudfront.net^$all
 ||d2qwomohab7aqa.cloudfront.net^$all
@@ -4452,6 +4464,7 @@
 ||d29g6ewww58gsz.cloudfront.net^$all
 ||d29jfsbnqk0xjn.cloudfront.net^$all
 ||d29jgon3cfzzyo.cloudfront.net^$all
+||d29si11cmzujnu.cloudfront.net^$all
 ||d30bl0twucff6v.cloudfront.net^$all
 ||d30gkc5zoj3d98.cloudfront.net^$all
 ||d30h38ui69nl2h.cloudfront.net^$all
@@ -4642,6 +4655,7 @@
 ||da1wg8kx26nwf.cloudfront.net^$all
 ||da4rnhmwsfqwn.cloudfront.net^$all
 ||da7itbt696zyr.cloudfront.net^$all
+||da8wesgugr695.cloudfront.net^$all
 ||da08ytco4pe6k.cloudfront.net^$all
 ||da510upvjb0v0.cloudfront.net^$all
 ||dac24nse4s4d7.cloudfront.net^$all
@@ -4862,6 +4876,7 @@
 ||differentpplz.top^$all
 ||differept.com^$all
 ||difgo4.wixsite.com^$all
+||dignitymigration.info^$all
 ||dihspokas67l6.cloudfront.net^$all
 ||diidwhkvxmmpq.cloudfront.net^$all
 ||dinamoon.pl^$all
@@ -4941,6 +4956,7 @@
 ||dm1niacwiykd7.cloudfront.net^$all
 ||dm4rvvs7sem26.cloudfront.net^$all
 ||dm5s33kpu5h5p.cloudfront.net^$all
+||dm9quqwcj1kci.cloudfront.net^$all
 ||dmarketingtuit6.info^$all
 ||dmatm9j94bhd2.cloudfront.net^$all
 ||dmcatime.space^$all
@@ -5197,6 +5213,7 @@
 ||dv46z6n7h2vbw.cloudfront.net^$all
 ||dva0tsa91cw5m.cloudfront.net^$all
 ||dva5l7kg7n1i8.cloudfront.net^$all
+||dvarg.se^$all
 ||dvhaaubsngg1m.cloudfront.net^$all
 ||dvioaj7wq2gpq.cloudfront.net^$all
 ||dviyxal9dfwgi.cloudfront.net^$all
@@ -5270,6 +5287,7 @@
 ||dzisiejszymaterialtv.online^$all
 ||dzisiejszyszczecin.xyz^$all
 ||dzisiejszywroclaw.xyz^$all
+||dzisiejszy.mojwywiad.work^$all
 ||dzjnxvxuv6roq.cloudfront.net^$all
 ||dzno1pyoxj4kd.cloudfront.net^$all
 ||dzqiq5qkuyda9.cloudfront.net^$all
@@ -6372,6 +6390,7 @@
 ||inaz-sport.com^$all
 ||incorp-budim.info^$all
 ||indah-tudungrohani.com^$all
+||industry-pl.info^$all
 ||induxintegra.com^$all
 ||inesmanila.com^$all
 ||inezsport.com^$all
@@ -6501,6 +6520,7 @@
 ||inipoy.net^$all
 ||inlink.casa^$all
 ||innovacja.pl^$all
+||innowacja-pl.info^$all
 ||innsat.pl^$all
 ||innymrazemnatak.site^$all
 ||inov8polska.com^$all
@@ -6584,6 +6604,7 @@
 ||inpost-order.pl-id32317168.xyz^$all
 ||inpost-order.pl-id39303432.xyz^$all
 ||inpost-order.pl-id40145678.xyz^$all
+||inpost-order.pl-id40845711.xyz^$all
 ||inpost-order.pl-id45384558.xyz^$all
 ||inpost-order.pl-id45944688.xyz^$all
 ||inpost-order.pl-id48087376.xyz^$all
@@ -6680,6 +6701,7 @@
 ||inpost-pl.deliverorder.pw^$all
 ||inpost-pl.forordering.site^$all
 ||inpost-pl.goodspurchase.pw^$all
+||inpost-pl.id-009273.pw^$all
 ||inpost-pl.joyregbuyitem.pw^$all
 ||inpost-pl.online^$all
 ||inpost-pl.ownkontos.shop^$all
@@ -6691,6 +6713,7 @@
 ||inpost-pl.safe-delivery.one^$all
 ||inpost-pl.secure3ds.icu^$all
 ||inpost-pl.system-pay2344.ml^$all
+||inpost-qhx.id-9543.me^$all
 ||inpost-q.id-9431.me^$all
 ||inpost-rlrv.id-3842.me^$all
 ||inpost-ruv.id-2830.me^$all
@@ -6798,6 +6821,7 @@
 ||inpost.wyprzedaz-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inprost24.net^$all
 ||inqost.net^$all
+||inslief.com^$all
 ||insms.xyz^$all
 ||instacarpool.co.uk^$all
 ||instagarm.pl^$all
@@ -7378,6 +7402,7 @@
 ||lirehub.com^$all
 ||lisweek.pl^$all
 ||lisygarments.com^$all
+||lital.biz^$all
 ||litegap.com^$all
 ||lite-messenger.com^$all
 ||litoren.com^$all
@@ -7532,6 +7557,7 @@
 ||lots-dream.info^$all
 ||lots-investic.website^$all
 ||lots-investi.website^$all
+||lots-lotsgroup.info^$all
 ||lots-money.website^$all
 ||lot-pl.website^$all
 ||loudmatch.com^$all
@@ -7558,6 +7584,7 @@
 ||lts-inf.site^$all
 ||lts-invest.site^$all
 ||lts-invst.site^$all
+||lts-pl.info^$all
 ||lt-product.info^$all
 ||lubicplacki.is-best.net^$all
 ||lubiego.is-best.net^$all
@@ -7587,6 +7614,7 @@
 ||lynngonsalvesphotography.com^$all
 ||lytkarino.com^$all
 ||lyttonparktennis.com^$all
+||lz4l82l7e.newsy.auto.pl^$all
 ||mabanque-bnpparibas-ref-31-fr.web.app^$all
 ||mabanque-bnpparibas-ref-34-fr.web.app^$all
 ||maccash.fun^$all
@@ -7865,6 +7893,7 @@
 ||mojeapartamenty.com^$all
 ||mojekobe.is-best.net^$all
 ||mojekonto-otomoto.com^$all
+||mojepiekno.site^$all
 ||mojeweselicho.za.pl^$all
 ||mojezyciemojasprawa.site^$all
 ||moje-zamowienie23112.pl^$all
@@ -8054,6 +8083,7 @@
 ||naszepieknemiasstto.site^$all
 ||naszewiadomosci.site^$all
 ||naszewiadomosci.xyz^$all
+||naszewywiady.club^$all
 ||naszezabrze.online^$all
 ||nasze-miasto.k99k.com.pl^$all
 ||naszglos24.laohost.net^$all
@@ -8062,6 +8092,7 @@
 ||naszpolskiswiat.site^$all
 ||naszpolskiswiat.xyz^$all
 ||nasz--kraj-info.x9.eu^$all
+||natenczas.online^$all
 ||natoniejjestzapozno.site^$all
 ||naturalmarket.store^$all
 ||naturalnazywnosc.pl^$all
@@ -9031,6 +9062,7 @@
 ||one.xildii.site^$all
 ||onioq.xyz^$all
 ||onliine.pl^$all
+||online1.natenczas.online^$all
 ||online24fakty.epizy.com^$all
 ||onlineaccessonlineacesonlineacess.weebly.com^$all
 ||onlinecda.pl^$all
@@ -9064,12 +9096,14 @@
 ||online-securesite-official.com^$all
 ||online-tvn.pl^$all
 ||online-tv.pl^$all
+||online.natenczas.online^$all
 ||onlyfiles.net^$all
 ||onlyforhelp755.bar^$all
 ||onsitegold.com^$all
 ||onthepage.in^$all
 ||onyxprofit.pro^$all
 ||ooget.xyz^$all
+||oonja.com^$all
 ||oooc.in^$all
 ||ooox.in^$all
 ||oosms.in^$all
@@ -9308,6 +9342,7 @@
 ||orvestinfo.fun^$all
 ||orvestinfo.space^$all
 ||orvestinfo.website^$all
+||osiagniecia-pl.info^$all
 ||oslony-okienne.pl^$all
 ||osocar.xyz^$all
 ||ospkrutyn.pl^$all
@@ -9339,6 +9374,7 @@
 ||outl00k.mfs.gg^$all
 ||outletove.com.pl^$all
 ||outlookverify.com^$all
+||overallbetter.com^$all
 ||overcreative.com^$all
 ||ovident.com^$all
 ||owa-password-expiry.web.app^$all
@@ -9463,6 +9499,7 @@
 ||passivetrading.co.uk^$all
 ||pastepozh.xyz^$all
 ||pasticcerialonghitano.it^$all
+||paszamanna.cyou^$all
 ||paterashop.pl^$all
 ||paterps.pl^$all
 ||patrolprzygody.pl^$all
@@ -9883,7 +9920,9 @@
 ||pieklodlakobiet.podpisz-petycje.eu^$all
 ||pieklokobiet.podpisz-petycje.eu^$all
 ||pieklo-kobiet.podpisz-petycje.eu^$all
+||piekniludzie.live^$all
 ||pieknozywicy.pl^$all
+||pieknykraj.icu^$all
 ||pielegniarsko-poloznicze.pl^$all
 ||pieprzyc.com^$all
 ||pieski-pomoc.xyz^$all
@@ -10251,6 +10290,7 @@
 ||poczta-login-neostrada.com^$all
 ||poczta-mobile.pl^$all
 ||poczta-o2.pl^$all
+||poczta-order.pl-id06534295.xyz^$all
 ||poczta-order.pl-id37308205.xyz^$all
 ||poczta-order.pl-id72959914.xyz^$all
 ||poczta-order.pl-id90378195.xyz^$all
@@ -10292,6 +10332,7 @@
 ||podgdanskiem.xyz^$all
 ||podgdynia.xyz^$all
 ||podgliwicami.xyz^$all
+||podkarmieni.cam^$all
 ||podlozky-spz.sk^$all
 ||podobnedonas.xyz^$all
 ||podologik.ca^$all
@@ -10662,7 +10703,10 @@
 ||protection-investion.website^$all
 ||protection-invest.info^$all
 ||protector-web.space^$all
+||protect-businesss.site^$all
 ||protect-business.website^$all
+||protect-busines.online^$all
+||protect-busines.site^$all
 ||protect-investion.online^$all
 ||protect-invest.online^$all
 ||protect--your--assets.com^$all
@@ -10671,6 +10715,7 @@
 ||protocolcashmere.com^$all
 ||prove-acces.000webhostapp.com^$all
 ||prowizja24.pl^$all
+||pro-pl.info^$all
 ||pro.fiteuril.xyz^$all
 ||pro.pltrade-projekt.xyz^$all
 ||pruszkow2019.pl^$all
@@ -10685,6 +10730,7 @@
 ||przechowanie.net^$all
 ||przechowywanie690.rest^$all
 ||przecieztowkoncumozlliwe.club^$all
+||przedsprawa.website^$all
 ||przejadacsie520.rest^$all
 ||przejazd210.bar^$all
 ||przejdzmydoseddna.club^$all
@@ -10754,6 +10800,7 @@
 ||pyhqjc.com^$all
 ||pyitetwe2rqqwet75tg.xyz^$all
 ||pzutrasyzdrowia.pl^$all
+||pzu-pl.info^$all
 ||p-work.surge.sh^$all
 ||qerte.wescapital.xyz^$all
 ||qolx.pl^$all
@@ -10880,6 +10927,7 @@
 ||repolsk.xyz^$all
 ||reporekt.com^$all
 ||rervensone.xyz^$all
+||resatillmalta.se^$all
 ||reservpl.digserpro.xyz^$all
 ||reset-your-device.com^$all
 ||restore-payp.com^$all
@@ -11020,6 +11068,7 @@
 ||salvum-ruch.pl^$all
 ||salvum-wisla.pl^$all
 ||sam12228.wixsite.com^$all
+||samaprawda.cyou^$all
 ||samfaber.com^$all
 ||samna24.com^$all
 ||samsiepodsumowalla.site^$all
@@ -11248,6 +11297,7 @@
 ||short1.me^$all
 ||short7.me^$all
 ||shortx.in^$all
+||short.app-fm.org^$all
 ||showmeflix.com^$all
 ||showmovies.pl^$all
 ||showsplash.com^$all
@@ -11483,6 +11533,7 @@
 ||sprzedaz-nr-497417.in.net^$all
 ||sprzedaz-nr-940031.in.net^$all
 ||sprzedaz.smart-posrednik.xyz^$all
+||sprzetprawd.life^$all
 ||srednia802.rest^$all
 ||srednioraznakilkalat.space^$all
 ||srv38989.seohost.com.pl^$all
@@ -11805,10 +11856,12 @@
 ||tekbox.org^$all
 ||teleskopmonokularowy-pl.com^$all
 ||telewizja-internetowa24.pl^$all
+||telewizyjny.wywiadpopolsku.bar^$all
 ||telpey.net^$all
 ||tematjuzruszony.online^$all
 ||temperaturnik.com^$all
 ||temporary.nsx.pl^$all
+||ten1.pieknykraj.icu^$all
 ||tenczas.biz^$all
 ||teologianaweb.com.br^$all
 ||tepey.net^$all
@@ -11816,6 +11869,7 @@
 ||teraz1.wyzwani24.bar^$all
 ||teraz2.wyzwani24.bar^$all
 ||terazdopieroniewierze.space^$all
+||teraz.noweinformacje.me^$all
 ||teraz.wyzwani24.bar^$all
 ||teresfal.site^$all
 ||termin-odbioru.fun^$all
@@ -12244,6 +12298,7 @@
 ||urzadzamy.click^$all
 ||urzad-gov.net^$all
 ||urzedy9.net^$all
+||usario.com^$all
 ||usdsy.com^$all
 ||users-netflix.com^$all
 ||uslugatel.net^$all
@@ -12406,6 +12461,7 @@
 ||waznesprawy.online^$all
 ||waznesprawy.site^$all
 ||wazvolev.pl^$all
+||wazycrohke.com^$all
 ||wbok.pl^$all
 ||wbsc.ng^$all
 ||wczestochowie.xyz^$all
@@ -12571,6 +12627,7 @@
 ||winin-spect.xyz^$all
 ||winnertoday.site^$all
 ||winningsidenow.com^$all
+||winowajca.icu^$all
 ||wiocha-pl.eu^$all
 ||wiochowisko.eu^$all
 ||wiochowo.eu^$all
@@ -12723,6 +12780,7 @@
 ||wydanie-polskie24.cyou^$all
 ||wydarzenia24.czest.pl^$all
 ||wydarzenia24.pisz.pl^$all
+||wydarzeniaprzeszle.space^$all
 ||wydarzeniaroku020.site^$all
 ||wydarzenia.net.pl^$all
 ||wydarzenie-tygodnia.waw.pl^$all
