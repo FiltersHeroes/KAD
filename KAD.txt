@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 05 Sep 2021, 16:12 UTC+02
-! Version: 2021.9.5.1
+! Last modified: Sun, 05 Sep 2021, 17:08 UTC+02
+! Version: 2021.9.5.3
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -6562,6 +6562,7 @@
 ||inpostmobile.org^$all
 ||inpostodbior.com^$all
 ||inpostpl.com^$all
+||inpost-akru.id-5936.com^$all
 ||inpost-a.id-5847.me^$all
 ||inpost-b.id-43895.me^$all
 ||inpost-c.id-2323.me^$all
@@ -6594,6 +6595,7 @@
 ||inpost-order.pl-id05915293.xyz^$all
 ||inpost-order.pl-id08306239.xyz^$all
 ||inpost-order.pl-id08870040.xyz^$all
+||inpost-order.pl-id12301425.xyz^$all
 ||inpost-order.pl-id23645637.xyz^$all
 ||inpost-order.pl-id25699360.xyz^$all
 ||inpost-order.pl-id25767592.xyz^$all
