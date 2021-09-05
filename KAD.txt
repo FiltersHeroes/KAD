@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 05 Sep 2021, 17:08 UTC+02
-! Version: 2021.9.5.3
+! Last modified: Sun, 05 Sep 2021, 21:08 UTC+02
+! Version: 2021.9.5.4
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2270,6 +2270,7 @@
 ||allaboutyouadultyouthservices.com^$all
 ||allblues.co.kr^$all
 ||allcarecleanups.com^$all
+||allegor.xyz^$all
 ||allego.icu^$all
 ||allegrolokaline.club^$all
 ||allegrolokalkie.*^$all
@@ -5126,6 +5127,7 @@
 ||dpd-e.id-4989980.me^$all
 ||dpd-h.id-54683.me^$all
 ||dpd-i.id458759.me^$all
+||dpd-nup.id-5936.com^$all
 ||dpd-parcelsecure.com^$all
 ||dpd-parcel.com^$all
 ||dpd-pi.id458759.me^$all
@@ -5542,6 +5544,7 @@
 ||e-filmy24.pl^$all
 ||e-gazeta.osc-fr1.scalingo.io^$all
 ||e-gliwice.xyz^$all
+||e-info.co.pl^$all
 ||e-linda.com^$all
 ||e-mailprywatnosc.online^$all
 ||e-mailprywatnosc.site^$all
@@ -6591,6 +6594,7 @@
 ||inpost-mobile.pl^$all
 ||inpost-oferta.su^$all
 ||inpost-oo.id-5847.me^$all
+||inpost-opcv.id-5936.com^$all
 ||inpost-oplata.site^$all
 ||inpost-order.pl-id05915293.xyz^$all
 ||inpost-order.pl-id08306239.xyz^$all
@@ -7863,6 +7867,7 @@
 ||mojekobe.is-best.net^$all
 ||mojekonto-otomoto.com^$all
 ||mojepiekno.site^$all
+||mojesprawy24.xyz^$all
 ||mojeweselicho.za.pl^$all
 ||mojezyciemojasprawa.site^$all
 ||moje-zamowienie23112.pl^$all
@@ -8843,6 +8848,7 @@
 ||olx.p1-aukcja.xyz^$all
 ||olx.pay55.info^$all
 ||olx.pay61.info^$all
+||olx.pay75.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -10162,6 +10168,7 @@
 ||pobierz-inpost.com^$all
 ||pobilipsa.xyz^$all
 ||pobytu-gov.pl^$all
+||pochowanaprawda.quest^$all
 ||pocketing.site^$all
 ||pocketmyponstar.com^$all
 ||pockztresmde.cabanova.com^$all
@@ -10587,6 +10594,7 @@
 ||project2266655.turbo.site^$all
 ||project2274648.turbo.site^$all
 ||project2276696.turbo.site^$all
+||project2278375.turbo.site^$all
 ||project2299805.turbo.site^$all
 ||projektnewonepl.info^$all
 ||projektplfanone.info^$all
@@ -10737,6 +10745,7 @@
 ||r3gnow.wixsite.com^$all
 ||rabat24.store^$all
 ||rabat500.com^$all
+||rabbitloot.com^$all
 ||rabotami.xyz^$all
 ||radical-skitter-tilapia.glitch.me^$all
 ||radioeska24.com.pl^$all
@@ -11056,6 +11065,7 @@
 ||secure-sms.co^$all
 ||secure-sms.one^$all
 ||secure.onewestbk.com^$all
+||secure.przelewy-online.site^$all
 ||secure.tpay.pw^$all
 ||secure.t-pay.tech^$all
 ||securityadminhelpunit.moonfruit.com^$all
@@ -11244,6 +11254,7 @@
 ||skidrowcrack.com^$all
 ||skinfars.com^$all
 ||skippyfile.com^$all
+||sklad24.net^$all
 ||sklep170.com^$all
 ||sklep300.com^$all
 ||sklep500.com^$all
@@ -11769,6 +11780,7 @@
 ||telewizyjny.wywiadpopolsku.bar^$all
 ||telpey.net^$all
 ||tematjuzruszony.online^$all
+||temat.mojesprawy24.xyz^$all
 ||temperaturnik.com^$all
 ||temporary.nsx.pl^$all
 ||ten1.pieknykraj.icu^$all
@@ -12102,6 +12114,7 @@
 ||tykazy.boxing-club-legenda-ufa.ru^$all
 ||tylkodojdziedosiebie.club^$all
 ||tytfgn688hceb.web.app^$all
+||ty.lepiejodpocznij.rest^$all
 ||tzr.grejt.pl^$all
 ||u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app^$all
 ||u19432194.ct.sendgrid.net^$all
@@ -12290,6 +12303,7 @@
 ||vinted-pl.online^$all
 ||vinted-v.id-2830.me^$all
 ||vinted.cc^$all
+||vinted.pl-id04218432.xyz^$all
 ||vinted.pl-id76869468.xyz^$all
 ||vipshorka.info^$all
 ||viralka.pl^$all
