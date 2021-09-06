@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 06 Sep 2021, 17:09 UTC+02
-! Version: 2021.9.6.1
+! Last modified: Mon, 06 Sep 2021, 21:08 UTC+02
+! Version: 2021.9.6.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2331,6 +2331,7 @@
 ||allegro.lokalnie.me^$all
 ||allegro.lokalnie.work^$all
 ||allegro.net^$all
+||allegro.pay80.info^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.lokalnie.me^$all
 ||allegro.pl.my-enj.xyz^$all
@@ -2549,6 +2550,7 @@
 ||bajeranckie.pl^$all
 ||bajkowedekoracje.pl^$all
 ||bajkowestokrotki.cba.pl^$all
+||ballstonhotels.com^$all
 ||bananasimplicity.com^$all
 ||bankdata.temanggungkab.go.id^$all
 ||bankfotek.cleverapps.io^$all
@@ -4695,6 +4697,7 @@
 ||danangluxury.com^$all
 ||danapm336umsu.cloudfront.net^$all
 ||dandasana1.co.pl^$all
+||danialrazali.com^$all
 ||danielestuvoz.com^$all
 ||daniellachar.com^$all
 ||danilovladicic.com^$all
@@ -5615,6 +5618,7 @@
 ||facebookweryfikacja.ga^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
+||facebook-ageverification.pro-linuxpl.com^$all
 ||facebook-age-verification.ssd-linuxpl.com^$all
 ||facebook-group.pl^$all
 ||facebook-informacje24.eu^$all
@@ -5712,6 +5716,7 @@
 ||fenix-funds.pro^$all
 ||ferde.xyz^$all
 ||ferte.xyz^$all
+||fertileunderground.com^$all
 ||fervent-hugle-570c8c.netlify.app^$all
 ||fhukaja.pl^$all
 ||fidelity-assetltd.com^$all
@@ -5809,6 +5814,7 @@
 ||finlay.world^$all
 ||finmaxfx.com^$all
 ||finoverview.space^$all
+||fintofur.com^$all
 ||fintruelist.site^$all
 ||finvestings.com^$all
 ||firecash.org^$all
@@ -6243,6 +6249,7 @@
 ||hdpd.id-2830.me^$all
 ||hd-online.skyrock.com^$all
 ||hd.videos.co.pl^$all
+||healing-art-jewelry.com^$all
 ||healthknowledge.my^$all
 ||health-beauty.press^$all
 ||health-lab.store^$all
@@ -6274,6 +6281,7 @@
 ||helptoday811.club^$all
 ||helptodaygb028.club^$all
 ||hendbounde.xyz^$all
+||henry2020.com^$all
 ||herbakayuasli.com^$all
 ||hermarketing.ru^$all
 ||herngell-our.web.app^$all
@@ -6430,6 +6438,7 @@
 ||imposedtocheck.site^$all
 ||impresza.pl^$all
 ||im-sb.com^$all
+||inadestination.com^$all
 ||inaz-sklep.com^$all
 ||inaz-sport.com^$all
 ||incorp-budim.info^$all
@@ -7318,6 +7327,7 @@
 ||lalasagna.com^$all
 ||lamppli.com^$all
 ||lander.pl^$all
+||lanetax.info^$all
 ||lanla.pl^$all
 ||lantanna.mx^$all
 ||lapostiyem.com^$all
@@ -7479,6 +7489,7 @@
 ||lokainie.live^$all
 ||lokainle-ogloszenia.xyz^$all
 ||lokainle-pl-ogloszeniie-129803.space^$all
+||lokal101.com^$all
 ||lokalna-941866.in.net^$all
 ||lokalneinformacje*.vot.pl^$all
 ||lokalneinformacje.pl^$all
@@ -7845,6 +7856,7 @@
 ||mintajdw.icu^$all
 ||minutae.icu^$all
 ||mioveni.pl^$all
+||mips.su^$all
 ||miraclle.site^$all
 ||miranda-sklep.pl^$all
 ||miroslawklos.pl^$all
@@ -8074,6 +8086,7 @@
 ||nastepstwo-pomozmy.eu^$all
 ||naswiecie.work^$all
 ||naswoimmppodworku.space^$all
+||nasygnale.pisz.pl^$all
 ||naszagazeta.xyz^$all
 ||naszagdynia.xyz^$all
 ||naszaplaneta.online^$all
@@ -8648,6 +8661,7 @@
 ||olx-order.pl-id35155454.xyz^$all
 ||olx-order.pl-id37308205.xyz^$all
 ||olx-order.pl-id37382445.xyz^$all
+||olx-order.pl-id38427290.xyz^$all
 ||olx-order.pl-id43098605.xyz^$all
 ||olx-order.pl-id45944688.xyz^$all
 ||olx-order.pl-id50758514.xyz^$all
@@ -8741,6 +8755,7 @@
 ||olx-pl.ez-pays.ru^$all
 ||olx-pl.getc.icu^$all
 ||olx-pl.id*.ru^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx-pl.id-q39887.pw^$all
 ||olx-pl.info^$all
 ||olx-pl.iso-pay.net.ru^$all
 ||olx-pl.ml^$all
@@ -8891,6 +8906,8 @@
 ||olx.pay75.info^$all
 ||olx.pay77.info^$all
 ||olx.pay80.info^$all
+||olx.pay81.info^$all
+||olx.paym01.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -9363,6 +9380,7 @@
 ||otymsieglosnogadda.cyou^$all
 ||oursorlen.website^$all
 ||ouruk880.cyou^$all
+||outdoorkitchensandpatios.com^$all
 ||outl00k.mfs.gg^$all
 ||outletove.com.pl^$all
 ||outlookverify.com^$all
@@ -11677,8 +11695,10 @@
 ||suivhub5.com^$all
 ||sukces-wspolnych.eu^$all
 ||sukhumvithomes.com^$all
+||sulphurprinciple.info^$all
 ||suluklima.com.tr^$all
 ||summerinvest2021.site^$all
+||summerinvest2021.website^$all
 ||suncfdtrading.com^$all
 ||suncityazbeeremoval.com^$all
 ||sundra.store^$all
@@ -11803,6 +11823,7 @@
 ||tabxolabs.com^$all
 ||tacticaltrainingdatabase.com^$all
 ||tahmos.com^$all
+||tailormate.se^$all
 ||tajnespotkania.eu^$all
 ||tajskimasazsopot.pl^$all
 ||tajwanac.icu^$all
@@ -11811,6 +11832,7 @@
 ||tak4.mowieprawde.life^$all
 ||takado.xyz^$all
 ||takbyte-goteborg.se^$all
+||takbyte-skane.se^$all
 ||takbyte-stockholm.se^$all
 ||takczyinaczejmusibyc.space^$all
 ||takczysiakpolska24.website^$all
@@ -11832,6 +11854,8 @@
 ||tantawy-group.com^$all
 ||tantieapp.com^$all
 ||tarocardsfornoobs.top^$all
+||tasectan.se^$all
+||tastebuddy.se^$all
 ||tasty-gossip.com^$all
 ||taylorspub.com^$all
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
@@ -11839,6 +11863,7 @@
 ||teacross-edtechs.xyz^$all
 ||teacus.xyz^$all
 ||teamadvertise.info^$all
+||teamhalvarsnoren.se^$all
 ||teamowa124.weebly.com^$all
 ||techcentretraining.com^$all
 ||techiwant.com^$all
@@ -11865,6 +11890,7 @@
 ||temporary.nsx.pl^$all
 ||ten1.pieknykraj.icu^$all
 ||tenczas.biz^$all
+||teoark.se^$all
 ||teologianaweb.com.br^$all
 ||tepey.net^$all
 ||tepremoe.mypi.co^$all
@@ -11958,7 +11984,9 @@
 ||tinyfilehost.com^$all
 ||tinyfileshost.com^$all
 ||tiomarkets.com^$all
+||tippatillsammans.se^$all
 ||tisls.com^$all
+||tissler.se^$all
 ||titl.titleinvest.site^$all
 ||tizamiya.com^$all
 ||tlanddissipate.at^$all
@@ -12044,6 +12072,7 @@
 ||traden365.co^$all
 ||traderking.cc^$all
 ||traderprof.com^$all
+||tradersbay.se^$all
 ||traderschain.com^$all
 ||tradesboost.net^$all
 ||trade-labs.com^$all
@@ -12071,6 +12100,7 @@
 ||trappdf.com^$all
 ||travpayments.com^$all
 ||treatheeter.site^$all
+||treatme.se^$all
 ||treecutter-procutt.com^$all
 ||trendingraphs.net^$all
 ||trener688.rest^$all
@@ -12241,6 +12271,7 @@
 ||ulhvfy.webwave.dev^$all
 ||ulmer.com.pl^$all
 ||ultimate-opportunities.com^$all
+||ulti.se^$all
 ||ultraonlinepl.com^$all
 ||ultrasoniccleaner.pl^$all
 ||ultra-cda.pl^$all
@@ -12277,6 +12308,7 @@
 ||update-info.centrumconsumer.live^$all
 ||update.*sf*.online^$all
 ||upgrade-flash-player.digital^$all
+||uppdragledning.se^$all
 ||uprawomocnic.moonfruit.com^$all
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
