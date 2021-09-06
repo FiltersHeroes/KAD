@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 06 Sep 2021, 13:08 UTC+02
-! Version: 2021.9.6.0
+! Last modified: Mon, 06 Sep 2021, 17:09 UTC+02
+! Version: 2021.9.6.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2804,7 +2804,10 @@
 ||booking.paycleaning.xyz^$all
 ||booking.payconfirmed.xyz^$all
 ||booking.payconfirms.xyz^$all
+||booking.payfixing.xyz^$all
+||booking.paymentfix.xyz^$all
 ||booking.paysafecash.xyz^$all
+||booking.pl-id07981937.xyz^$all
 ||booking.pl-id08140661.xyz^$all
 ||booking.pl-id08870040.xyz^$all
 ||booking.pl-id17958029.xyz^$all
@@ -2812,10 +2815,12 @@
 ||booking.pl-id23093668.xyz^$all
 ||booking.pl-id23645637.xyz^$all
 ||booking.pl-id26621338.xyz^$all
+||booking.pl-id27172673.xyz^$all
 ||booking.pl-id28339078.xyz^$all
 ||booking.pl-id29435368.xyz^$all
 ||booking.pl-id35155454.xyz^$all
 ||booking.pl-id36003702.xyz^$all
+||booking.pl-id38427290.xyz^$all
 ||booking.pl-id40980649.xyz^$all
 ||booking.pl-id52496503.xyz^$all
 ||booking.pl-id53668806.xyz^$all
@@ -2823,6 +2828,7 @@
 ||booking.pl-id59219245.xyz^$all
 ||booking.pl-id62691329.xyz^$all
 ||booking.pl-id63458341.xyz^$all
+||booking.pl-id66758212.xyz^$all
 ||booking.pl-id67987272.xyz^$all
 ||booking.pl-id70002371.xyz^$all
 ||booking.pl-id71780340.xyz^$all
@@ -2833,9 +2839,11 @@
 ||booking.pl-id79593133.xyz^$all
 ||booking.pl-id80721168.xyz^$all
 ||booking.pl-id84593969.xyz^$all
+||booking.pl-id85332906.xyz^$all
 ||booking.pl-id85761977.xyz^$all
 ||booking.pl-id90378195.xyz^$all
 ||booking.pl-id90870162.xyz^$all
+||booking.pl-id92311505.xyz^$all
 ||booking.pl-id94234918.xyz^$all
 ||booking.pl-id97181983.xyz^$all
 ||booking.pl-order.pl-id29435368.xyz^$all
@@ -3206,6 +3214,7 @@
 ||com.tesprogram5.xyz^$all
 ||conectpress.com^$all
 ||confirmation.orders-olx.com^$all
+||conlet.info^$all
 ||connessionedati.com^$all
 ||consityr600.xyz^$all
 ||constrainthead.info^$all
@@ -4835,6 +4844,7 @@
 ||destgrena.at^$all
 ||detoxic.net^$all
 ||deu30xlzc2by3.cloudfront.net^$all
+||dev5974.d3l0uo7x8px3be.amplifyapp.com^$all
 ||developer.team1global.com.au^$all
 ||development.gloriadecor.com.pk^$all
 ||dezinfikuj.se^$all
@@ -5803,6 +5813,7 @@
 ||finvestings.com^$all
 ||firecash.org^$all
 ||firmaidom.pl^$all
+||firmaludowa.online^$all
 ||firma-tuningowa.lublin.click^$all
 ||firstclick.pro^$all
 ||firstnotchtrading.com^$all
@@ -5830,6 +5841,7 @@
 ||flowsrectifie.at^$all
 ||fnatic-lol.club^$all
 ||focus24.gpe.pl^$all
+||focushaber.com^$all
 ||foliahydrofobowa-pl.com^$all
 ||folia-hydrofobowa-pl.com^$all
 ||followergods.com^$all
@@ -6168,6 +6180,7 @@
 ||gromans.com.pl^$all
 ||grools.xyz^$all
 ||groupbehold.site^$all
+||grouptrot.xyz^$all
 ||growhackr.com^$all
 ||growp.xyz^$all
 ||growthimpetus.com^$all
@@ -6581,6 +6594,7 @@
 ||inpostpl.com^$all
 ||inpost-akru.id-5936.com^$all
 ||inpost-a.id-5847.me^$all
+||inpost-a.id-43980.me^$all
 ||inpost-b.id-43895.me^$all
 ||inpost-c.id-2323.me^$all
 ||inpost-c.id-2830.me^$all
@@ -6597,6 +6611,7 @@
 ||inpost-en.spredaz-online.club^$all
 ||inpost-eoaw.id-845.me^$all
 ||inpost-generator.net^$all
+||inpost-g.id-43980.me^$all
 ||inpost-hhke.id-4365.me^$all
 ||inpost-info.com^$all
 ||inpost-i.id-4343.me^$all
@@ -8580,6 +8595,7 @@
 ||olx-finansowanie.cam^$all
 ||olx-ginza.com^$all
 ||olx-g.id-9523.me^$all
+||olx-g.id-43980.me^$all
 ||olx-g.pl^$all
 ||olx-h.id-89357.me^$all
 ||olx-h.pl^$all
@@ -8588,6 +8604,7 @@
 ||olx-i.id-05942.me^$all
 ||olx-i.pl^$all
 ||olx-j.id877899.me^$all
+||olx-j.id-43980.me^$all
 ||olx-j.pl^$all
 ||olx-ko.pl^$all
 ||olx-kurier.pl^$all
@@ -8606,6 +8623,7 @@
 ||olx-m.pl^$all
 ||olx-nd.spredaz-online.club^$all
 ||olx-nd.spredaz-online.one^$all
+||olx-n.id-43980.me^$all
 ||olx-n.id-89357.me^$all
 ||olx-n.pl^$all
 ||olx-oferta-pl.com^$all
@@ -8615,6 +8633,7 @@
 ||olx-oplata.org^$all
 ||olx-order.com^$all
 ||olx-order.pl-id03177430.xyz^$all
+||olx-order.pl-id07981937.xyz^$all
 ||olx-order.pl-id08870040.xyz^$all
 ||olx-order.pl-id09607707.xyz^$all
 ||olx-order.pl-id17352591.xyz^$all
@@ -8708,6 +8727,7 @@
 ||olx-pl-qfz.id-9431.me^$all
 ||olx-pl-receive.xyz^$all
 ||olx-pl-rju.id864323.me^$all
+||olx-pl-zff.id-43980.me^$all
 ||olx-pl.3dsec-dealings.icu^$all
 ||olx-pl.3vd.me^$all
 ||olx-pl.baserteniti.site^$all
@@ -8870,6 +8890,7 @@
 ||olx.pay61.info^$all
 ||olx.pay75.info^$all
 ||olx.pay77.info^$all
+||olx.pay80.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pay-id183413.company^$all
@@ -9201,6 +9222,36 @@
 ||orlendive.website^$all
 ||orlenencourage.club^$all
 ||orlenendure.website^$all
+||orlenhagoabc.xyz^$all
+||orlenhagoade.xyz^$all
+||orlenhagoaer.xyz^$all
+||orlenhagoanm.xyz^$all
+||orlenhagoapd.xyz^$all
+||orlenhagoapl.xyz^$all
+||orlenhagobbc.xyz^$all
+||orlenhagobcz.xyz^$all
+||orlenhagobfr.xyz^$all
+||orlenhagobft.xyz^$all
+||orlenhagobip.xyz^$all
+||orlenhagobot.xyz^$all
+||orlenhagobra.xyz^$all
+||orlenhagobro.xyz^$all
+||orlenhagobyz.xyz^$all
+||orlenhagocer.xyz^$all
+||orlenhagocld.xyz^$all
+||orlenhagocms.xyz^$all
+||orlenhagocpo.xyz^$all
+||orlenhagocss.xyz^$all
+||orlenhagocvy.xyz^$all
+||orlenhagodif.xyz^$all
+||orlenhagodmg.xyz^$all
+||orlenhagofgt.xyz^$all
+||orlenhagofty.xyz^$all
+||orlenhagogas.xyz^$all
+||orlenhagogfd.xyz^$all
+||orlenhagogfr.xyz^$all
+||orlenhagoggh.xyz^$all
+||orlenhagogim.xyz^$all
 ||orleninvest.space^$all
 ||orlennews.com^$all
 ||orlenn.libracoinofficial-company.xyz^$all
@@ -10239,6 +10290,7 @@
 ||poczta-polska-pl.us^$all
 ||poczta-polska.eu^$all
 ||poczta-polska.me^$all
+||poczta-profil-wp.info^$all
 ||poczta-regulamin.us^$all
 ||poczta-umb-edu-pl.yolasite.com^$all
 ||poczta.cyou^$all
@@ -10906,6 +10958,7 @@
 ||rivermarketcyclery.com^$all
 ||rj0m3i.webwave.dev^$all
 ||rjefnpvdxrxgmnd.su^$all
+||rkinvestpl.info^$all
 ||rmfinfo.waw.pl^$all
 ||rminfo.waw.pl^$all
 ||rmycevre.com^$all
