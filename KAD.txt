@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 09 Sep 2021, 17:08 UTC+02
-! Version: 2021.9.9.1
+! Last modified: Thu, 09 Sep 2021, 21:08 UTC+02
+! Version: 2021.9.9.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2098,6 +2098,7 @@
 ||137-74-148-87.cprapid.com^$all
 ||198-58-119-23.cprapid.com^$all
 ||224niemarnujswojegoczassu.cyou^$all
+||308relacja.site^$all
 ||326.allegro.lokalnie.cc^$all
 ||411medias.com^$all
 ||411otelcoal.com^$all
@@ -5201,6 +5202,8 @@
 ||domodi-sklep.pl^$all
 ||domowe-kino.pl^$all
 ||donateaccidental.com^$all
+||doniesienie100.site^$all
+||doniesienie452.site^$all
 ||donschaffer.com^$all
 ||dont.pl^$all
 ||dopduv87yijyr.cloudfront.net^$all
@@ -5489,6 +5492,7 @@
 ||easydownload.pl^$all
 ||easygotransportation.com^$all
 ||easypdfcombine.com^$all
+||easyshorka.info^$all
 ||easytopproducts.com^$all
 ||eatandeasy.pl^$all
 ||ebd-cda.pl^$all
@@ -6629,6 +6633,7 @@
 ||info19.me^$all
 ||info24fakty.epizy.com^$all
 ||info112.waw.pl^$all
+||info341.site^$all
 ||info983.site^$all
 ||info394290.wixsite.com^$all
 ||infodostarcz.net^$all
@@ -6645,6 +6650,7 @@
 ||informacja733.site^$all
 ||informacja745.site^$all
 ||informacja754.site^$all
+||informacja789.site^$all
 ||informacja816.site^$all
 ||informacja892.site^$all
 ||informacja941.site^$all
@@ -6793,6 +6799,7 @@
 ||inpost-dostawa.pl^$all
 ||inpost-dostawa.site^$all
 ||inpost-dostawka.cyou^$all
+||inpost-dwn.detail-pl.me^$all
 ||inpost-en.spredaz-online.club^$all
 ||inpost-eoaw.id-845.me^$all
 ||inpost-generator.net^$all
@@ -6817,7 +6824,9 @@
 ||inpost-order.pl-id05915293.xyz^$all
 ||inpost-order.pl-id08306239.xyz^$all
 ||inpost-order.pl-id08870040.xyz^$all
+||inpost-order.pl-id10016973.xyz^$all
 ||inpost-order.pl-id12301425.xyz^$all
+||inpost-order.pl-id19925611.xyz^$all
 ||inpost-order.pl-id23645637.xyz^$all
 ||inpost-order.pl-id25699360.xyz^$all
 ||inpost-order.pl-id25767592.xyz^$all
@@ -7326,6 +7335,7 @@
 ||ketodietnd.com^$all
 ||ketofitpatches.com^$all
 ||kevin-yousef.se^$all
+||ke-res.online^$all
 ||kfc-vip.vip^$all
 ||khscuba.co.kr^$all
 ||kickboxing.cba.pl^$all
@@ -7409,6 +7419,7 @@
 ||komory.cyou^$all
 ||kompasy.icu^$all
 ||komputery-szczytno.pl^$all
+||komunikat021.site^$all
 ||komunikaty24.net^$all
 ||koniecikroppka.website^$all
 ||konkret-fashion.com^$all
@@ -8022,6 +8033,7 @@
 ||meierweb.com^$all
 ||melahu.epionaspravka.ru^$all
 ||meldujemy.gmina.pl^$all
+||meldunek987.site^$all
 ||melodyandmoves.com^$all
 ||member.39credit.com^$all
 ||memex.com.pl^$all
@@ -8414,6 +8426,7 @@
 ||news24zoom.com^$all
 ||news48.dkonto.pl^$all
 ||news236.site^$all
+||news257.site^$all
 ||newsleter.you2.pl^$all
 ||newsoffres.online^$all
 ||newsonepgeprojektpl.info^$all
@@ -8544,9 +8557,11 @@
 ||nowinka216.site^$all
 ||nowinka540.site^$all
 ||nowinka649.site^$all
+||nowinka977.site^$all
 ||nowinki.blog-online.eu^$all
 ||nowoczesnemuzeum.pl^$all
 ||nowoffer.top^$all
+||nowosc286.site^$all
 ||no-snore-pl.com^$all
 ||no.niezle.cyou^$all
 ||npcvault.com^$all
@@ -8600,6 +8615,7 @@
 ||odbierz.1549550.xyz^$all
 ||odbierz.fun^$all
 ||odblerz-przesyike.xyz^$all
+||odblokuj945821.net^$all
 ||oddaje-psa.pl^$all
 ||oddaje-yorka.dnsrobotuptime.ru^$all
 ||oddajmy-glosujmy.eu^$all
@@ -8939,6 +8955,7 @@
 ||olx-order.pl-id89753489.xyz^$all
 ||olx-order.pl-id90378195.xyz^$all
 ||olx-order.pl-id90870162.xyz^$all
+||olx-order.pl-id92227575.xyz^$all
 ||olx-order.pl-id93911392.xyz^$all
 ||olx-order.pl-id98035219.xyz^$all
 ||olx-order.pl^$all
@@ -9017,6 +9034,7 @@
 ||olx-pl.ez-pays.ru^$all
 ||olx-pl.getc.icu^$all
 ||olx-pl.id*.ru^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx-pl.id-66332.site^$all
 ||olx-pl.id-32645349.pw^$all
 ||olx-pl.id-q39887.pw^$all
 ||olx-pl.info^$all
@@ -9615,6 +9633,7 @@
 ||orlen-pl.top^$all
 ||orlen-poland.site^$all
 ||orlen-up.site^$all
+||orlen.dahod.shop^$all
 ||orlen.hotchili.pl^$all
 ||orlen.pl.teslinvests.site^$all
 ||orlinwestpl.pw^$all
@@ -10736,6 +10755,7 @@
 ||polskapoczta-pl-vqy.id-9843.me^$all
 ||polskapoczta-pl-yg.id-3842.me^$all
 ||polskapoczta-pl.polska24-dostawa24.shop^$all
+||polskapoczta-sbcg.detail-pl.me^$all
 ||polskapoczta.dostawa24-fun.club^$all
 ||polskapoczta.dostawa-orders.casa^$all
 ||polskapoczta.myofferta.casa^$all
@@ -11237,6 +11257,7 @@
 ||relacja171.site^$all
 ||relacja259.site^$all
 ||relacja338.site^$all
+||relacja733.site^$all
 ||relacja998.site^$all
 ||relaxdom.com.pl^$all
 ||relayimmo.com^$all
@@ -11264,6 +11285,7 @@
 ||rewelacja371.site^$all
 ||rewelacja434.site^$all
 ||rewelacja547.site^$all
+||rewelacja700.site^$all
 ||rewelacja753.site^$all
 ||rewelacja906.site^$all
 ||reypey24.net^$all
@@ -12808,6 +12830,7 @@
 ||walka419.site^$all
 ||walka-akceptuj.eu^$all
 ||walki-konkursowe.eu^$all
+||wallawallaguardian.com^$all
 ||waly.pl^$all
 ||wanbuy.net^$all
 ||want2learngerman.com^$all
@@ -12926,6 +12949,7 @@
 ||whiteoutsolutions.technology^$all
 ||whomsoeverinvest.com^$all
 ||wiadomosc017.rest^$all
+||wiadomosc178.site^$all
 ||wiadomosc235.site^$all
 ||wiadomosc339.site^$all
 ||wiadomosc579.site^$all
@@ -12963,6 +12987,7 @@
 ||wiadomosci-wtorek.waw.pl^$all
 ||wiadomosci-wygrana.waw.pl^$all
 ||wiadomosclokalna.pl^$all
+||wiadomostka019.site^$all
 ||wiadomostka037.site^$all
 ||wiadomostka346.site^$all
 ||wiadomostka389.site^$all
@@ -12971,6 +12996,7 @@
 ||wiadomostka744.site^$all
 ||wiadomostka822.site^$all
 ||wiadomostka979.site^$all
+||wiado-mosci5.netlify.app^$all
 ||wiado-mosci8.netlify.app^$all
 ||wideleced.icu^$all
 ||widelec.icu^$all
@@ -13375,6 +13401,7 @@
 ||zasilkonto.cba.pl^$all
 ||zasnik.pl^$all
 ||zastapic-mistrza.eu^$all
+||zastava.xyz^$all
 ||zaswiadczeniekrk.pl^$all
 ||zaszczepilamsie.co.pl^$all
 ||zaszczepionakobieta.co.pl^$all
@@ -13423,6 +13450,7 @@
 ||zgarnijplik.pl^$all
 ||zgcslam.apnet.pl^$all
 ||zgliwic.xyz^$all
+||zgloszenie186.site^$all
 ||zgloszenie298.site^$all
 ||zgloszenie304.site^$all
 ||zgloszenie433.site^$all
