@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 10 Sep 2021, 17:09 UTC+02
-! Version: 2021.9.10.1
+! Last modified: Fri, 10 Sep 2021, 21:08 UTC+02
+! Version: 2021.9.10.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2181,6 +2181,7 @@
 ||adastra2019onlinezalukajfilm.wordpress.com^$all
 ||adblue-finder.com^$all
 ||addictiontherapytoronto.com^$all
+||addisonsdiseasepedia.com^$all
 ||address2211.wixsite.com^$all
 ||add-ssl.com^$all
 ||adfiptv.com^$all
@@ -2303,6 +2304,7 @@
 ||aliegro-lokalnie-oferta-626841.in.net^$all
 ||aliorbankonline.ru^$all
 ||aliorbank.io^$all
+||alkily.com^$all
 ||allaboutyouadultyouthservices.com^$all
 ||allblues.co.kr^$all
 ||allcarecleanups.com^$all
@@ -2318,7 +2320,7 @@
 ||allegrolokalnie.one^$all
 ||allegrolokalnie.pl.transpbuyitemss.pw^$all
 ||allegrolokalnie.site^$all
-||allegrolokalnie.*^$document,domain=~allegrolokalnie.pl|~allegro.pl|~wp.pl
+||allegrolokalnie.*^$document,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl
 ||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
 ||allegropay08.info^$all
@@ -2369,7 +2371,7 @@
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.lokalnie.me^$all
 ||allegro.pl.my-enj.xyz^$all
-||allegro.pl.*.pl^$all,domain=pl|~allegro.pl
+||allegro.pl.*.pl^$all,domain=~allegro.pl|pl
 ||allegro.su^$all
 ||allekurier.miami^$all
 ||allianzmarket.biz^$all
@@ -2384,10 +2386,11 @@
 ||allsms.short-service.com^$all
 ||allteamfranchisecorp.com^$all
 ||alltradesfx.com^$all
-||alltube.com.pl^$all,domain=~alltube.tv|~alltube.pl
+||alltube.com.pl^$all,domain=~alltube.pl|~alltube.tv
 ||all-player.pl^$all
 ||almdev.se^$all
 ||almighty-offers.com^$all
+||almoslataan.com^$all
 ||almshhadalyemeni.com^$all
 ||almuradtiles.zohosites.com^$all
 ||alohasoftware.net^$all
@@ -2535,6 +2538,7 @@
 ||autoship.lolacc.com^$all
 ||auto.pl^$all,domain=~www.auto.pl
 ||avaparse.ir^$all
+||avashya.com^$all
 ||avbtrk.com^$all
 ||avitodomains.ru^$all
 ||avitopud.ru^$all
@@ -2606,6 +2610,7 @@
 ||bardzorozniacasiepolska.website^$all
 ||barralek.wixsite.com^$all
 ||bartopecal.com^$all
+||barziz.com^$all
 ||baseflix.pl^$all
 ||basementremodelingchicagoil.com^$all
 ||baseny240.com^$all
@@ -3259,6 +3264,7 @@
 ||cobalt-aircraft.com^$all
 ||cocinaeljibarazo.com^$all
 ||cocky-carson-2225d2.netlify.app^$all
+||coderslashadmin.com^$all
 ||codigotributario.com.br^$all
 ||codzienna.cfolks.pl^$all
 ||codziennosc.098.pl^$all
@@ -5559,6 +5565,7 @@
 ||eccowyprzedaz.com^$all
 ||ecco-pl.com^$all
 ||ecda.pl^$all
+||echo-nomic.com^$all
 ||eclass47.duckdns.org^$all
 ||ecnblockchain.com^$all
 ||ecoblast.pl^$all
@@ -6892,6 +6899,7 @@
 ||inpost-order.pl-id45384558.xyz^$all
 ||inpost-order.pl-id45944688.xyz^$all
 ||inpost-order.pl-id48087376.xyz^$all
+||inpost-order.pl-id48798509.xyz^$all
 ||inpost-order.pl-id49207882.xyz^$all
 ||inpost-order.pl-id50668872.xyz^$all
 ||inpost-order.pl-id50758514.xyz^$all
@@ -7013,6 +7021,7 @@
 ||inpost.digital^$all
 ||inpost.dostawa24-fun.club^$all
 ||inpost.dostawa-orders.casa^$all
+||inpost.dostawa-safe.site^$all
 ||inpost.email^$all
 ||inpost.fit^$all
 ||inpost.generujkod.app^$all
@@ -7387,6 +7396,7 @@
 ||kebhbn.com^$all
 ||keczupa.icu^$all
 ||keczup.cyou^$all
+||kedrieve.com^$all
 ||kedzierzyn-kozle.tonasze-miasto.co.pl^$all
 ||keenpolska.com^$all
 ||kekuko.com^$all
@@ -7595,6 +7605,7 @@
 ||kzayak.com^$all
 ||kzprojekt.pl^$all
 ||k-filmy.pl^$all
+||l2royalties.com^$all
 ||l67113b6.beget.tech^$all
 ||l77427-926984.us-south.cf.appdomain.cloud^$all
 ||labarre.com.pl^$all
@@ -10247,6 +10258,7 @@
 ||pgepl-toinv-project.info^$all
 ||pgepl.info^$all
 ||pgerachunki.net^$all
+||pge-dystrybucja.net^$all
 ||pge-energyproject.info^$all
 ||pge-energyproj.info^$all
 ||pge-fameprojpl.info^$all
@@ -10433,6 +10445,7 @@
 ||pllive-projpl.info^$all
 ||pllotosgrupe.site^$all
 ||pllotos.online^$all
+||pllots-newss.info^$all
 ||pllots.info^$all
 ||pllots.online^$all
 ||pllot.online^$all
@@ -11063,6 +11076,7 @@
 ||pricedrummer.com^$all
 ||primebit.com^$all
 ||primecanadaccount.ca^$all
+||primeshopee.com^$all
 ||printbar.se^$all
 ||priorytetovvo.com^$all
 ||priorytetowo.com^$all
@@ -11071,6 +11085,7 @@
 ||privacy-in.us^$all
 ||privatewhite.club^$all
 ||private-business.website^$all
+||private-bussiness1.online^$all
 ||private-bussiness.website^$all
 ||private-investition.online^$all
 ||private-invest.online^$all
@@ -11411,6 +11426,8 @@
 ||roddyii.com^$all
 ||rodi.digital^$all
 ||rodzinnemiassteczkkotv.cyou^$all
+||ronnixtechnology.com^$all
+||rootburr.com^$all
 ||ropucha.icu^$all
 ||roseiiy.com^$all
 ||roskos1.eu-dep.club^$all
@@ -12395,6 +12412,7 @@
 ||thelocalgamers.com^$all
 ||themarketlimited.com^$all
 ||themebird.com^$all
+||themyams.com^$all
 ||thenextchapter.pl^$all
 ||theone-lotto.com^$all
 ||thepacificagroup.com^$all
@@ -12561,6 +12579,7 @@
 ||treecutter-procutt.com^$all
 ||trendingraphs.net^$all
 ||trener688.rest^$all
+||treput.com^$all
 ||treyantok.website^$all
 ||trezbatoogarnnac.site^$all
 ||tribunemirror.com^$all
@@ -12844,6 +12863,7 @@
 ||vdomainwebmgno.ga^$all
 ||vdpd.id-9523.me^$all
 ||vecpfj.webwave.dev^$all
+||vehicam.com^$all
 ||vejabuty.com^$all
 ||vejabuty.org^$all
 ||vejapoland.com^$all
@@ -12868,7 +12888,7 @@
 ||vgdny.com^$all
 ||videoplanet.pl^$all
 ||videoplex.pl^$all
-||vider.info^$document,domain=vider.info|~uwaga-natretne-reklamy
+||vider.info^$document,domain=~uwaga-natretne-reklamy|vider.info
 ||vidplayer.pl^$all
 ||vidr.info^$all
 ||viewit-studio.com^$all
@@ -13984,8 +14004,8 @@
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
 ~pl##a[href*="whokeys.com/"]:lang(pl)
 alltube.pl,alltube.tv##header #message-user, a[href*="https://alltube.com.pl/"]
-alltube.pl,alltube.tv#?#.row > div.col-sm-12:has(> .headline + div.row > div > div > a[href*="https://alltube.com.pl/"] > img)
-cba.pl#?#body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
+alltube.pl,alltube.tv#?#.row > div.col-sm-12:has( > .headline + div.row > div > div > a[href*="https://alltube.com.pl/"] > img)
+cba.pl#?#body > div[style*="position"]:has( > div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 dobreprogramy.pl#?#article#main-content [href*=","]:has-text(naszego poradnika):upward(4) > div:nth-of-type(-n+3)
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 fili.cc##a[href^="/download/file"]
@@ -13997,7 +14017,7 @@ instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 
 instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
 instalki.pl##option[value$="dm=1"]
 pl##a[href*="whokeys.com/"]
-speedtest.pl,speedtest.com.pl##a[href*="przyspiesz.pl/"]
+speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 tyfloswiat.pl##^responseheader(location)
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
