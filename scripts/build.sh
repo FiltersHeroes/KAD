@@ -43,7 +43,7 @@ if [[ -n $(search "sections/przekrety.txt") ]]; then
     git commit -m "Nowości z listy CERT"
 fi
 
-$SCRIPT_PATH/VICHS.sh ./KAD.txt
+VICHS_MAIN_PATH="$(pwd)" VICHS.sh ./KAD.txt
 cd $MAIN_PATH/..
 
 if [[ "$CI" = "true" ]] && [[ -z "$CIRCLECI" ]] ; then
@@ -54,4 +54,4 @@ if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "true" ]] ; then
 fi
 
 cd ./KADhosts
-./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
+VICHS_MAIN_PATH="$(pwd)" VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
