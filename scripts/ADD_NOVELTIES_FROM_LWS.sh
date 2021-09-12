@@ -31,7 +31,7 @@ while IFS= read -r domain; do
     hostname=$(host -t ns "${domain}")
     parked=$(echo "${hostname}" | grep -E "parkingcrew.net|parklogic.com|sedoparking.com")
     echo "Checking the status of domains"
-    if [[ "${hostname}" =~ "NXDOMAIN" ]] || [ ! -z "${parked}" ]; then
+    if [[ "${hostname}" =~ "NXDOMAIN" ]] || [ -n "${parked}" ]; then
         echo "$domain" >> "$EXPIRED"
     fi
 done <"$TEMP"/LWS_temp.txt
