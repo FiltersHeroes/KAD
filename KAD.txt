@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 13 Sep 2021, 23:47 UTC+02
-! Version: 2021.9.13.1
+! Last modified: Tue, 14 Sep 2021, 13:08 UTC+02
+! Version: 2021.9.14.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -67,6 +67,7 @@
 ||aleshop.pl^$all
 ||alieokazje.pl^$all
 ||alise.pl^$all
+||alisz.pl^$all
 ||allcollect.pl^$all
 ||alle-perfumy.pl^$all
 ||allfiles.pl^$all
@@ -210,6 +211,7 @@
 ||butyinov-8.com^$all
 ||butyjordansklep.pl^$all
 ||butykamikopinie.pl^$all
+||butykeenoutlet.com^$all
 ||butykeenpolska.com^$all
 ||butylotto.pl^$all
 ||butylowawyprzedaz.com^$all
@@ -292,6 +294,7 @@
 ||coconi.pl^$all
 ||cocoopt.com^$all
 ||codeandwork.pl^$all
+||colderking.com^$all
 ||coldy-shop.pl^$all
 ||colehaanpolska.com^$all
 ||coloryee.com^$all
@@ -313,6 +316,7 @@
 ||crediko.pl^$all
 ||credy.pl^$all
 ||crocspolandsklep.com^$all
+||crocsxpl.com^$all
 ||cryptotradecentr.com^$all
 ||csgoskinsproject.pl^$all
 ||ctbike.pl^$all
@@ -521,6 +525,7 @@
 ||games-solution.com^$all
 ||gamezmelt.com^$all
 ||game-hack.biz^$all
+||garberaa.com^$all
 ||garciniacambogiaactives.pl^$all
 ||gargas-gastronomia.pl^$all
 ||gce-mennica.pl^$all
@@ -544,6 +549,7 @@
 ||glams.pl^$all
 ||glinkss.com^$all
 ||gmagazyn.pl^$all
+||gnibrinfgoy.com^$all
 ||gojiberry500.pl^$all
 ||gokano.com^$all
 ||goldenrelations.pl^$all
@@ -732,6 +738,7 @@
 ||kucharzowanienamaxa.pl^$all
 ||kulinarne-rendez-vous.pl^$all
 ||kupbuty.top^$all
+||kupmoda.com^$all
 ||kupujemy.to^$all
 ||kuriero.pl^$all
 ||kurpik.com.pl^$all
@@ -894,6 +901,7 @@
 ||mulikit.com^$all
 ||munopuzzle.com^$all
 ||musika.pl^$all
+||mutlum.pl^$all
 ||mydates.com^$all
 ||myrobotboy.com^$all
 ||myroomdesign.pl^$all
@@ -944,6 +952,7 @@
 ||ninewestpolska.pl^$all
 ||niskamaskincare.pl^$all
 ||noatanice.com^$all
+||nobullpolska.pl^$all
 ||nodiotel.com^$all
 ||nonansklep.pl^$all
 ||noova-po.com^$all
@@ -961,6 +970,7 @@
 ||numdfs.top^$all
 ||nuskin.com^$all
 ||obudzgeniusza.pl^$all
+||obuwiezs.pl^$all
 ||oczymagraffiti.pl^$all
 ||odbierzdarmowedoladowanie.wordpress.com^$all
 ||odchudzaniezpasja.pl^$all
@@ -1022,6 +1032,7 @@
 ||pcmban.com^$all
 ||pcspeedup.com^$all
 ||pegasuswebco.com^$all
+||pellelife.com^$all
 ||perfecttools.pl^$all
 ||perfecturist.pl^$all
 ||perfumeriaife.pl^$all
@@ -1060,6 +1071,7 @@
 ||pl.gvgmall.com^$all
 ||pl.lucybreeze.com^$all
 ||pl.melaleuca.com^$all
+||pl.obsidianbracelet.com^$all
 ||pl.sylvettas-shop.com^$all
 ||pl.whokeys.com^$all
 ||pmanager.pl^$all
@@ -1205,6 +1217,7 @@
 ||rzezak.pl^$all
 ||s9kkremkr0.com^$all
 ||safeair-pl.com^$all
+||salewapolska.com^$all
 ||sale-parfum.pl^$all
 ||salomonbutypl.com^$all
 ||salomonbuty.com^$all
@@ -1306,6 +1319,7 @@
 ||spluczto.pl^$all
 ||spokeo.pl^$all
 ||sportinpro.com^$all
+||sportshops.pl^$all
 ||spotlessweb.com^$all
 ||sprawdzianyodpowiedzi.pl^$all
 ||sprawdzianyonline.pl^$all
@@ -1371,6 +1385,7 @@
 ||telefonika.com.pl^$all
 ||telemediaa.pl^$all
 ||tengofoxfiles.com^$all
+||tenuraa.com^$all
 ||terrex.pl^$all
 ||teslamotors.com.pl^$all
 ||testclub.pl^$all
@@ -1381,12 +1396,14 @@
 ||teva-polska.pl^$all
 ||tfaz.pl^$all
 ||theangelblankets.co^$all
+||thebeso.pl^$all
 ||thenorthfacesklep.com^$all
 ||thermomix.vorwerk.pl/kup-thermomixr/|$document,domain=~przemysl-zamowienie-prezentacji
 ||theultimatebeds.com^$all
 ||the-titanium.com^$all
 ||thputr.pro^$all
 ||throwacupcake.com^$all
+||thuaoluion.com^$all
 ||tikoro.pl^$all
 ||tiktokclaim.eu^$all
 ||tiktokclaim.org^$all
@@ -1407,6 +1424,7 @@
 ||tootu.pl^$all
 ||topbateria.pl^$all
 ||topceny.pl^$all
+||topoeia.com^$all
 ||topvacationspotsideas.com^$all
 ||torramma.online^$all
 ||towarzyskizamosc.pl^$all
@@ -1501,6 +1519,7 @@
 ||wartomiec.pl^$all
 ||warttigiano.com^$all
 ||washtrans.pl^$all
+||watersyt.com^$all
 ||wcwigs.com^$all
 ||wczaso.pl^$all
 ||webrobi.pl^$all
@@ -1555,6 +1574,7 @@
 ||yakomi88.com^$all
 ||yarito4.com^$all
 ||yill666.com^$all
+||yinbolallruick.com^$all
 ||yogushop.com^$all
 ||yonexpolska.com^$all
 ||yotafiles.com^$all
@@ -2490,6 +2510,7 @@
 ||atafrecle.com^$all
 ||atforum.pl^$all
 ||athlete246.com^$all
+||atinybithuge.com^$all
 ||atleastone.pl^$all
 ||atmiyakids.org^$all
 ||atriumset.com^$all
@@ -2779,6 +2800,7 @@
 ||blablacarpl.3dkassa.com^$all
 ||blablacar-pay.cc^$all
 ||blablacar-pl.id-p48739.site^$all
+||blablacar.booking-payments.xyz^$all
 ||blablacar.media^$all
 ||blablocar-pl.site^$all
 ||blackbey.com^$all
@@ -2804,8 +2826,10 @@
 ||bobali.xyz^$all
 ||bobigny24.com^$all
 ||bobsiot.com^$all
+||bodysuited.com^$all
 ||bodytech-emstrainer.com^$all
 ||bohemian-rhapsody-2018-online-napisy-pl-cda.over-blog.com^$all
+||boipelohlatshwayo.com^$all
 ||bolumyolu.com^$all
 ||bonares.pl^$all
 ||bonnetsrl.live^$all
@@ -2816,6 +2840,8 @@
 ||boogiesbiassed.info^$all
 ||boogiessupercoiling.info^$all
 ||bookbugg.com^$all
+||booking-order.pl-id02151812.xyz^$all
+||booking-order.pl-id42467558.xyz^$all
 ||booking-order.pl-id60385332.xyz^$all
 ||booking-order.pl-id84593969.xyz^$all
 ||booking-order.pl-id86950524.xyz^$all
@@ -2836,6 +2862,7 @@
 ||booking.pl-id07981937.xyz^$all
 ||booking.pl-id08070213.xyz^$all
 ||booking.pl-id08140661.xyz^$all
+||booking.pl-id15654003.xyz^$all
 ||booking.pl-id17958029.xyz^$all
 ||booking.pl-id18593210.xyz^$all
 ||booking.pl-id19205746.xyz^$all
@@ -2846,6 +2873,7 @@
 ||booking.pl-id38173251.xyz^$all
 ||booking.pl-id38427290.xyz^$all
 ||booking.pl-id40980649.xyz^$all
+||booking.pl-id42467558.xyz^$all
 ||booking.pl-id48798509.xyz^$all
 ||booking.pl-id51595263.xyz^$all
 ||booking.pl-id58684401.xyz^$all
@@ -2855,6 +2883,7 @@
 ||booking.pl-id66882833.xyz^$all
 ||booking.pl-id67405568.xyz^$all
 ||booking.pl-id70002371.xyz^$all
+||booking.pl-id71127898.xyz^$all
 ||booking.pl-id71780340.xyz^$all
 ||booking.pl-id73468218.xyz^$all
 ||booking.pl-id74389427.xyz^$all
@@ -2875,6 +2904,7 @@
 ||booking.pl-order.pl-id86950524.xyz^$all
 ||bookplanet.pl^$all
 ||boonbon.club^$all
+||boostedfactory.com^$all
 ||bootspolska.pl^$all
 ||borderstroll.info^$all
 ||borlopty.xyz^$all
@@ -5632,15 +5662,18 @@
 ||energy-landia.waw.pl^$all
 ||energy-pgeproj.info^$all
 ||enevislimited.com^$all
+||engineeringbybirk.com^$all
 ||enklawy.pl^$all
 ||enoughinvest.com^$all
 ||enpgnig.pl^$all
 ||enpsguinee.com^$all
+||eparki.com^$all
 ||epayu24.com^$all
 ||epayu.pl^$all
 ||epegasus.pl^$all
 ||epey.site^$all
 ||epgv01.fr^$all
+||epicdankbot.com^$all
 ||epiciek.com^$all
 ||epidemia.icu^$all
 ||epidemictimes.com^$all
@@ -5654,6 +5687,7 @@
 ||ergltd.info^$all
 ||erhherrehhre.n4t.co^$all
 ||ericius.eu^$all
+||ericoutterson.com^$all
 ||erisolezeni.store^$all
 ||ermita.xyz^$all
 ||esemeso.pl^$all
@@ -5696,6 +5730,7 @@
 ||eximbank.xyz^$all
 ||exittheempire.com^$all
 ||exmsolution.com^$all
+||expenseeraser.com^$all
 ||experiencekolorsfest.com^$all
 ||expertfx.net^$all
 ||expertoptions.in^$all
@@ -5842,6 +5877,7 @@
 ||fastandfurious7pl.wordpress.com^$all
 ||fastiv.xyz^$all
 ||fastmybox.org^$all
+||fastshorka.info^$all
 ||fauligenz.de^$all
 ||favgroup.host^$all
 ||favulous.xyz^$all
@@ -5973,6 +6009,7 @@
 ||finlay.world^$all
 ||finmaxfx.com^$all
 ||finoverview.space^$all
+||finplustechnology.com^$all
 ||fintofur.com^$all
 ||fintruelist.site^$all
 ||finvestings.com^$all
@@ -6234,6 +6271,7 @@
 ||getmyfreetraffic.com^$all
 ||getonea.com^$all
 ||gettheflow.pl^$all
+||getuna.com^$all
 ||get.bestdeal2060.info^$all
 ||gevotel.com^$all
 ||gfhjkldcfvfg.moonfruit.com^$all
@@ -6474,6 +6512,7 @@
 ||highamnet.co.uk^$all
 ||highersklep.com.pl^$all
 ||highersklep.pl^$all
+||hightechsolutions.site^$all
 ||himedic.vn^$all
 ||historiaktorychmalo.space^$all
 ||historiaszczepienie.co.pl^$all
@@ -6588,6 +6627,7 @@
 ||if873a.webwave.dev^$all
 ||iforexgain.com^$all
 ||ifranchisetalk.com^$all
+||igenpod.com^$all
 ||igmholdings.com^$all
 ||iidl-plus.com^$all
 ||ikohs.com^$all
@@ -6813,6 +6853,7 @@
 ||inpost-order.pl-id08070213.xyz^$all
 ||inpost-order.pl-id10016973.xyz^$all
 ||inpost-order.pl-id12301425.xyz^$all
+||inpost-order.pl-id19205746.xyz^$all
 ||inpost-order.pl-id19853241.xyz^$all
 ||inpost-order.pl-id19925611.xyz^$all
 ||inpost-order.pl-id23645637.xyz^$all
@@ -6861,6 +6902,7 @@
 ||inpost-pl.goodspurchase.pw^$all
 ||inpost-pl.id-009273.pw^$all
 ||inpost-pl.id-77792.site^$all
+||inpost-pl.id-309994.site^$all
 ||inpost-pl.id-1238722.icu^$all
 ||inpost-pl.id-2371243.site^$all
 ||inpost-pl.id-34212334.pw^$all
@@ -6891,6 +6933,8 @@
 ||inpost.digital^$all
 ||inpost.dostawa24-fun.club^$all
 ||inpost.dostawa-orders.casa^$all
+||inpost.dostawa-safety.bar^$all
+||inpost.dostawa-safety.fun^$all
 ||inpost.email^$all
 ||inpost.fit^$all
 ||inpost.generujkod.app^$all
@@ -6936,6 +6980,7 @@
 ||inpost.pl.mebuyit.pw^$all
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.polska*.*^$document^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
+||inpost.post-derive.com^$all
 ||inpost.pw^$all
 ||inpost.services^$all
 ||inpost.sklep-play.cc^$all
@@ -7956,6 +8001,7 @@
 ||meditatefm.com^$all
 ||medlaexpert.pl^$all
 ||medycznapolska.pl^$all
+||meeting.odabas.xyz^$all
 ||meet-me-here3.com^$all
 ||megadown.net^$all
 ||megadown.us^$all
@@ -8502,6 +8548,7 @@
 ||num63rsgroup.com^$all
 ||nvisionpropl*.com^$all
 ||nvixug.webwave.dev^$all
+||nvlabel.com^$all
 ||nvod.pl^$all
 ||nwb.lutonsteel.site^$all
 ||nymx2jcu5u.rdl.pl^$all
@@ -8858,6 +8905,7 @@
 ||olx-order.pl-id74389427.xyz^$all
 ||olx-order.pl-id75399834.xyz^$all
 ||olx-order.pl-id77267859.xyz^$all
+||olx-order.pl-id83217263.xyz^$all
 ||olx-order.pl-id85793664.xyz^$all
 ||olx-order.pl-id86950524.xyz^$all
 ||olx-order.pl-id90378195.xyz^$all
@@ -9023,6 +9071,7 @@
 ||olx.dostawa24-fun.club^$all
 ||olx.dostawa-orders.casa^$all
 ||olx.dostawa-pl.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
+||olx.dostawa-safety.fun^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.dostawwa.pl^$all
@@ -9275,6 +9324,7 @@
 ||oradom.xyz^$all
 ||orangedoorrequest.com^$all
 ||orange-kodzik.890m.com^$all
+||orbitcluster.com^$all
 ||order-safe.biz^$all
 ||order-safe.info^$all
 ||order-secure.biz^$all
@@ -9962,6 +10012,7 @@
 ||perfect-movies.xyz^$all
 ||performancevitality.net^$all
 ||perlaibracia.pl^$all
+||perlaprofil.3cx.gr^$all
 ||perlowo.pl^$all
 ||personal-gifts.de^$all
 ||perspektywa2012.za.pl^$all
@@ -10797,6 +10848,7 @@
 ||ppay.site^$all
 ||ppl-puls.gloryft.com^$all
 ||ppsms.xyz^$all
+||pptnorth.com^$all
 ||pracapolska.xyz^$all
 ||pracaradom.xyz^$all
 ||praca-logowanie-4.ct8.pl^$all
@@ -11057,6 +11109,7 @@
 ||realinvestment.pl^$all
 ||realnyzarobek.pl^$all
 ||realpolska.online^$all
+||realshorka.info^$all
 ||realsson.com^$all
 ||realtasteofindiaor.com^$all
 ||rebekazap.pl^$all
@@ -11888,6 +11941,7 @@
 ||suaposales.com^$all
 ||sub3.blocked-site-hole-cert.pl^$all
 ||substantialorlen.site^$all
+||subtitlesdb.com^$all
 ||subtletg.com^$all
 ||sub.gyt-ti.online^$all
 ||success-jezyki.pl^$all
@@ -12102,6 +12156,7 @@
 ||temporary.nsx.pl^$all
 ||ten1.pieknykraj.icu^$all
 ||tenczas.biz^$all
+||tenzamosc.xyz^$all
 ||teoark.se^$all
 ||teologianaweb.com.br^$all
 ||tepey.net^$all
@@ -12149,11 +12204,14 @@
 ||thebitqtapp.com^$all
 ||thecolorofcalm.com^$all
 ||thecrypto-genius.net^$all
+||thedigitaltimes.com^$all
 ||thedogzspot.com^$all
+||thefarmmanagers.com^$all
 ||theflixplay.us^$all
 ||thefortunatenutrition.com^$all
 ||thegrupa.online^$all
 ||thehonorgold.com^$all
+||thehotelmart.com^$all
 ||theirinfinity.website^$all
 ||thelocalgamers.com^$all
 ||themarketlimited.com^$all
@@ -12252,6 +12310,7 @@
 ||tonicnoweego.online^$all
 ||toniejjesjtnonsens.club^$all
 ||toniemusibycsen.club^$all
+||toosweettobesour.com^$all
 ||topgrowingbrand.site^$all
 ||topgrowingbrand.space^$all
 ||topgryusluga.5p.pl^$all
@@ -12454,10 +12513,14 @@
 ||u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app^$all
 ||u19432194.ct.sendgrid.net^$all
 ||uayu6abnioaji.bar^$all
+||uber-order.pl-id02151812.xyz^$all
 ||uber-order.pl-id17958029.xyz^$all
+||uber-order.pl-id42467558.xyz^$all
 ||uber-order.pl-id60385332.xyz^$all
 ||uber-order.pl-id84593969.xyz^$all
 ||uber-order.pl-id86950524.xyz^$all
+||uber.pl-id02151812.xyz^$all
+||uber.pl-id42467558.xyz^$all
 ||uber.pl-order.pl-id17958029.xyz^$all
 ||uber.pl-order.pl-id60385332.xyz^$all
 ||uber.pl-order.pl-id84593969.xyz^$all
@@ -13157,6 +13220,7 @@
 ||xn--emojezamwienie8324-x1b.pl^$all
 ||xn--faktygwat-xub.*^$all
 ||xn--ldgr-xva7266b.com^$all
+||xn--leospizza-m6a.com^$all
 ||xn--lotos-aktualnoci-1bd.site^$all
 ||xn--lotos-nowoci-wlc.site^$all
 ||xn--mckya9hrd005yr64b.com^$all
@@ -13164,6 +13228,7 @@
 ||xn--onetgwat-*.*^$all
 ||xn--ox-xqa.pl^$all
 ||xn--pasaer-spb.pl^$all
+||xn--pkaobiznes24-1d6f.com^$all
 ||xn--polskagwat24-*.*^$all
 ||xref.icu^$all
 ||xshort.pw^$all
