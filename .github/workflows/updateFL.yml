@@ -7,7 +7,7 @@ on: workflow_dispatch
 jobs:
   CERT:
     runs-on: ubuntu-latest
-    container: ghcr.io/polishfiltersteam/kad_image:2.26.7
+    container: ghcr.io/polishfiltersteam/kad_image:2.26.8
     steps:
       - uses: actions/checkout@v2
       - name: Dodawanie nowości z CERT
@@ -19,7 +19,7 @@ jobs:
           path: sections/przekrety.txt
   LWS:
     runs-on: ubuntu-latest
-    container: ghcr.io/polishfiltersteam/kad_image:2.26.7
+    container: ghcr.io/polishfiltersteam/kad_image:2.26.8
     steps:
       - uses: actions/checkout@v2
       - name: Dodawanie nowości z LWS
@@ -32,7 +32,7 @@ jobs:
   Aktualizacja:
     needs: [CERT, LWS]
     runs-on: ubuntu-latest
-    container: ghcr.io/polishfiltersteam/vichs_image:2.26.7
+    container: ghcr.io/polishfiltersteam/vichs_image:2.26.8
     steps:
       - uses: actions/checkout@v2
       - uses: actions/download-artifact@v2
