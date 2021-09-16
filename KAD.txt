@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 16 Sep 2021, 17:08 UTC+02
-! Version: 2021.9.16.1
+! Last modified: Thu, 16 Sep 2021, 21:08 UTC+02
+! Version: 2021.9.16.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -3300,6 +3300,7 @@
 ||cobalt-aircraft.com^$all
 ||cocinaeljibarazo.com^$all
 ||cocky-carson-2225d2.netlify.app^$all
+||cocky-villani-4d49d5.netlify.app^$all
 ||coderslashadmin.com^$all
 ||codigotributario.com.br^$all
 ||codzienna.cfolks.pl^$all
@@ -5419,6 +5420,7 @@
 ||drapart.org^$all
 ||dreams-business.info^$all
 ||dreams-business.site^$all
+||dreams-invest.info^$all
 ||dreamwoman-finder*.com^$all
 ||dream-bussines.site^$all
 ||dream-idea.online^$all
@@ -5816,6 +5818,7 @@
 ||eyupp.com^$all
 ||eyxspmbjxh.web.app^$all
 ||ezalukaj*.*^$document
+||ezetopups.com^$all
 ||ezoliniawrozby.com^$all
 ||e-capitaloption.com^$all
 ||e-childalert.*^$all
@@ -6753,6 +6756,7 @@
 ||incrossingroman.info^$all
 ||indah-tudungrohani.com^$all
 ||industry-pl.info^$all
+||industry-pl.site^$all
 ||induxintegra.com^$all
 ||inesmanila.com^$all
 ||inezsport.com^$all
@@ -6947,10 +6951,12 @@
 ||inpost-oplata.site^$all
 ||inpost-oqd.id-1771.me^$all
 ||inpost-order.pl-id04218432.xyz^$all
+||inpost-order.pl-id05233208.xyz^$all
 ||inpost-order.pl-id05915293.xyz^$all
 ||inpost-order.pl-id08070213.xyz^$all
 ||inpost-order.pl-id10016973.xyz^$all
 ||inpost-order.pl-id12301425.xyz^$all
+||inpost-order.pl-id14826454.xyz^$all
 ||inpost-order.pl-id19205746.xyz^$all
 ||inpost-order.pl-id19853241.xyz^$all
 ||inpost-order.pl-id19925611.xyz^$all
@@ -7337,6 +7343,7 @@
 ||joshklekamp.com^$all
 ||jouer-casino-canada.ca^$all
 ||jourlacy.com^$all
+||jovial-banach-ff628b.netlify.app^$all
 ||jpltech.vestpast77.xyz^$all
 ||jrun.net.cn^$all
 ||jsbhullar.com^$all
@@ -7776,6 +7783,7 @@
 ||lnpost.kody-odbioru.cc^$all
 ||lnpost.kody-odbioru.com^$all
 ||lnpost.kody-odbioru.net^$all
+||lnpost.net^$all
 ||lnpost.*^$document
 ||lnstagram.pp.ru^$all
 ||lnstagram.se^$all
@@ -8050,6 +8058,7 @@
 ||marketininfopl.com^$all
 ||marketinpl.com^$all
 ||marketinxyzpl.com^$all
+||marketnewsmail.site^$all
 ||marketnginfopl.com^$all
 ||marketnsit.info^$all
 ||marketplace-olx.pl^$all
@@ -9254,6 +9263,7 @@
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx.pays05.info^$all
 ||olx.pays20.info^$all
+||olx.pays30.info^$all
 ||olx.pay-id183413.company^$all
 ||olx.pay-otrymac.store^$all
 ||olx.pink^$all
@@ -10954,6 +10964,7 @@
 ||post-send.life^$all
 ||post-track.al-awa2el.com^$all
 ||post-track.poczta-polska.al-awa2el.com^$all
+||poszukiwacz255.rest^$all
 ||poszukiwana.cyou^$all
 ||poszukiwani24.pl^$all
 ||poszukiwanialludzi.site^$all
@@ -11067,6 +11078,7 @@
 ||procoches.areadirecta.es^$all
 ||procze.tech^$all
 ||producent-witaczy.pl^$all
+||product-pl.site^$all
 ||profibit.club^$all
 ||profit4you-now.life^$all
 ||profitbuy.site^$all
@@ -11074,6 +11086,8 @@
 ||profitgroups.info^$all
 ||profitmaximum.pl^$all
 ||profitrevolution.live^$all
+||profit-busines.website^$all
+||profit-bussines.website^$all
 ||prof.tsla-coin.xyz^$all
 ||program-max.site^$all
 ||proislak.com^$all
@@ -12237,8 +12251,11 @@
 ||szpital-covid.waw.pl^$all
 ||sztauowanie.info^$all
 ||sztchr.cn^$all
+||szukaj174.rest^$all
 ||szukajmysie.eu^$all
 ||szukammysuckesu.online^$all
+||szukamyjej.rest^$all
+||szukamyteraz.rest^$all
 ||szybcyiwscielki7.wordpress.com^$all
 ||szybka7demka24h7.click^$all
 ||szybka-dostawa.pl^$all
@@ -12373,6 +12390,7 @@
 ||tewiadomosci.online^$all
 ||text2compost.com^$all
 ||tfks19yr6ykp3ud.likemyish.com^$all
+||tgfind.website^$all
 ||thcredits.com^$all
 ||thebiggestpromotiononearth.com^$all
 ||thebitqtapp.com^$all
@@ -13606,6 +13624,7 @@
 ||zmienswojbizznes24.space^$all
 ||znaczysiezenatak.space^$all
 ||znajdziemy.icu^$all
+||znajdziemy.rest^$all
 ||znajdzswojfilm.pl^$all
 ||znajdzwspolnyjezyk.site^$all
 ||znajdz-paczke-24.xyz^$all
