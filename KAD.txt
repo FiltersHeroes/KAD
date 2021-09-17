@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 17 Sep 2021, 13:08 UTC+02
-! Version: 2021.9.17.0
+! Last modified: Fri, 17 Sep 2021, 17:08 UTC+02
+! Version: 2021.9.17.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2313,6 +2313,7 @@
 ||allegrolokaline.club^$all
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
+||allegrolokalnie-pl.id-123824.pw^$all
 ||allegrolokalnie-pl.id-8626361.pw^$all
 ||allegrolokalnie-pl.payregisway.pw^$all
 ||allegrolokalnie-pl.*^$all
@@ -2378,6 +2379,7 @@
 ||alliegro.pl^$all
 ||allmp3.hostil.pl^$all
 ||allmusic.c0.pl^$all
+||alloe.xyz^$all
 ||allonline.pl^$all
 ||allphones.pl^$all
 ||allplayer.pl^$all
@@ -2559,6 +2561,7 @@
 ||axd-watter.xyz^$all
 ||axes.co^$all
 ||axial-partners.com^$all
+||axonicaxonic.info^$all
 ||ay.nktostip.xyz^$all
 ||az5sdu.webwave.dev^$all
 ||azawebspace.com^$all
@@ -2883,6 +2886,7 @@
 ||booking-order.pl-id97223512.xyz^$all
 ||booking-pl.com-id24310.pw^$all
 ||booking.autopayed.xyz^$all
+||booking.autopayer.xyz^$all
 ||booking.autopays.xyz^$all
 ||booking.paybacks.xyz^$all
 ||booking.paycleaning.xyz^$all
@@ -2912,6 +2916,7 @@
 ||booking.pl-id36083264.xyz^$all
 ||booking.pl-id38173251.xyz^$all
 ||booking.pl-id38427290.xyz^$all
+||booking.pl-id39036827.xyz^$all
 ||booking.pl-id40980649.xyz^$all
 ||booking.pl-id42467558.xyz^$all
 ||booking.pl-id44720800.xyz^$all
@@ -2933,8 +2938,10 @@
 ||booking.pl-id75399834.xyz^$all
 ||booking.pl-id76379441.xyz^$all
 ||booking.pl-id76869468.xyz^$all
+||booking.pl-id78519824.xyz^$all
 ||booking.pl-id78770015.xyz^$all
 ||booking.pl-id80721168.xyz^$all
+||booking.pl-id80976921.xyz^$all
 ||booking.pl-id83217263.xyz^$all
 ||booking.pl-id84593969.xyz^$all
 ||booking.pl-id85332906.xyz^$all
@@ -5151,6 +5158,7 @@
 ||discord-airdrop.com^$all
 ||discord-nitro.ru.com^$all
 ||discord-nitro.su^$all
+||discriminationnun.info^$all
 ||discsplay.com^$all
 ||diskord.ru.com^$all
 ||disneyembroiderycards.com^$all
@@ -5431,6 +5439,7 @@
 ||drakesdowntowngym.com^$all
 ||dranera.se^$all
 ||drapart.org^$all
+||dratsteamfitter.info^$all
 ||dreams-business.info^$all
 ||dreams-business.site^$all
 ||dreams-invest.info^$all
@@ -6003,6 +6012,7 @@
 ||ferte.xyz^$all
 ||fertileunderground.com^$all
 ||fertilityholiday.com^$all
+||fertji.xyz^$all
 ||fervent-hugle-570c8c.netlify.app^$all
 ||fhukaja.pl^$all
 ||fidelity-assetltd.com^$all
@@ -6979,6 +6989,7 @@
 ||inpost-order.pl-id19925611.xyz^$all
 ||inpost-order.pl-id23645637.xyz^$all
 ||inpost-order.pl-id25272932.xyz^$all
+||inpost-order.pl-id36083264.xyz^$all
 ||inpost-order.pl-id38173251.xyz^$all
 ||inpost-order.pl-id40145678.xyz^$all
 ||inpost-order.pl-id40845711.xyz^$all
@@ -7109,6 +7120,7 @@
 ||inpost.pl-wallet002.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||inpost.pl.aus-payforitto.pw^$all
+||inpost.pl.dostawa-safety.work^$all
 ||inpost.pl.kaitemsbuying.pw^$all
 ||inpost.pl.mebuyit.pw^$all
 ||inpost.pl.*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa
@@ -7383,6 +7395,7 @@
 ||justdoitinvest.website^$all
 ||justinvestpl.info^$all
 ||justsoldphilly.com^$all
+||just-bussiness.website^$all
 ||just-education.info^$all
 ||jutrobedzie.is-best.net^$all
 ||jutup.pl^$all
@@ -9328,6 +9341,7 @@
 ||olx.pl.buyfcomtransit.site^$all
 ||olx.pl.comstransbuyit.site^$all
 ||olx.pl.dostawa-safety.live^$all
+||olx.pl.dostawa-safety.work^$all
 ||olx.pl.itbuyingtofor.pw^$all
 ||olx.pl.itemcheck-gn.pw^$all
 ||olx.pl.lutranscompay.site^$all
@@ -10742,6 +10756,7 @@
 ||poczta.pl-orderpaid.cyou^$all
 ||poczta.pl-receive.work^$all
 ||poczta.pl-safeway.live^$all
+||poczta.pl.dostawa-safety.work^$all
 ||poczta.wp-pl.eu^$all
 ||poczteks24.net^$all
 ||poczteks.net^$all
@@ -11753,6 +11768,7 @@
 ||serwis-wydarzen24.waw.pl^$all
 ||setedasorte.com.br^$all
 ||setforconfigplease.com^$all
+||seuacessoseguro.com^$all
 ||seveninsta-lady1.com^$all
 ||sevodyne.com^$all
 ||sewer-e-mail.yolasite.com^$all
@@ -12170,6 +12186,7 @@
 ||strefa-vod.pl^$all
 ||strentys.site^$all
 ||stressfm.com^$all
+||stricttragedy.info^$all
 ||strikteobizznesie24.cyou^$all
 ||stromeriyam.com^$all
 ||strona-zdrowia.com^$all
@@ -13069,6 +13086,7 @@
 ||webmaillogin.mykajabi.com^$all
 ||webmailpolishadmin.weebly.com^$all
 ||webmailsecureservernetcp6787657887678.reactification.repl.co^$all
+||webmail.authsmsecure.com^$all
 ||webmail.santannarresijazz.it^$all
 ||webmail.sauthssecure.com^$all
 ||webmail.sseauthsecure.com^$all
@@ -13250,6 +13268,7 @@
 ||wlasnietutajesitodzieje.cyou^$all
 ||wmcs.pl^$all
 ||wmiescie24.epizy.com^$all
+||wmiesciewazne.pl^$all
 ||wmieszajsiewtoszybko.site^$all
 ||wmmurray.com^$all
 ||wmpmarketing.com^$all
