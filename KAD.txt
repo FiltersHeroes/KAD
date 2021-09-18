@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 17 Sep 2021, 21:08 UTC+02
-! Version: 2021.9.17.2
+! Last modified: Sat, 18 Sep 2021, 13:10 UTC+02
+! Version: 2021.9.18.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1238,6 +1238,7 @@
 ||sameperelki.shop^$all
 ||samsung-klimatyzacja.pl^$all
 ||sandrografia.pl^$all
+||santos24.net^$all
 ||sanuk-poland.com^$all
 ||sauconybuty.com^$all
 ||sauconypolska.com^$all
@@ -2171,6 +2172,7 @@
 ||acena.top^$all
 ||acfco.info^$all
 ||achalasiapedia.com^$all
+||achillestendonrupturepedia.com^$all
 ||acrostax.com^$all
 ||activation-netflix.com^$all
 ||actualizarelect.890m.com^$all
@@ -2885,6 +2887,7 @@
 ||booking-order.pl-id80026433.xyz^$all
 ||booking-order.pl-id84593969.xyz^$all
 ||booking-order.pl-id86950524.xyz^$all
+||booking-order.pl-id87297751.xyz^$all
 ||booking-order.pl-id97223512.xyz^$all
 ||booking-pl.com-id24310.pw^$all
 ||booking.autopayed.xyz^$all
@@ -3416,6 +3419,7 @@
 ||cpprinter.com^$all
 ||cqsdjxf.com^$all
 ||crafton.store^$all
+||cranky-ardinghelli-be010b.netlify.app^$all
 ||crazygarden.pl^$all
 ||creativedeno.com^$all
 ||creative-software.biz^$all
@@ -5567,6 +5571,7 @@
 ||dz9vi7n501sa0.cloudfront.net^$all
 ||dz11dubpfux7h.cloudfront.net^$all
 ||dz045i9r4g643.cloudfront.net^$all
+||dzansin.com^$all
 ||dzfkr6hihj9by.cloudfront.net^$all
 ||dzieckoalert.*^$all
 ||dziendobrybarrdzo.site^$all
@@ -6007,6 +6012,7 @@
 ||fb-service-login*.you2.pl^$all
 ||fb-stalking.com^$all
 ||fb.podpisz-petycje.eu^$all
+||fb.sv^$all
 ||fcfg.pl^$all
 ||fdn4au.webwave.dev^$all
 ||fecebook.com.pl^$all
@@ -6487,6 +6493,7 @@
 ||govtjobopenings.com^$all
 ||gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com^$all
 ||gpwtrad.com^$all
+||gracious-saha-56755f.netlify.app^$all
 ||grafdruk.com.pl^$all
 ||graffitis.icu^$all
 ||grafian.pl^$all
@@ -7025,12 +7032,14 @@
 ||inpost-order.pl-id86950524.xyz^$all
 ||inpost-order.pl-id87267762.xyz^$all
 ||inpost-order.pl-id88032071.xyz^$all
+||inpost-order.pl-id97223512.xyz^$all
 ||inpost-o.id-9843.me^$all
 ||inpost-paczkomat.net^$all
 ||inpost-payouts.site^$all
 ||inpost-pay.online^$all
 ||inpost-piatnosc-24.xyz^$all
 ||inpost-platnosc.in.net^$all
+||inpost-pln.dostawa-safety.cyou^$all
 ||inpost-pltfxv.ownoffferta.cc^$all
 ||inpost-pl-delivering.icu^$all
 ||inpost-pl-dostawa.cyou^$all
@@ -7045,6 +7054,7 @@
 ||inpost-pl.buyngitems.pw^$all
 ||inpost-pl.com^$all
 ||inpost-pl.deliverorder.pw^$all
+||inpost-pl.dostawa-safety.cyou^$all
 ||inpost-pl.goodspurchase.pw^$all
 ||inpost-pl.id-009273.pw^$all
 ||inpost-pl.id-34362.space^$all
@@ -7234,6 +7244,7 @@
 ||invp.edealand.pro^$all
 ||invxsler.com^$all
 ||inv-space.info^$all
+||inwestenergia2.space^$all
 ||inwestowanie-orlen.online^$all
 ||inwestujemy.online^$all
 ||inwestujmy.online^$all
@@ -8580,6 +8591,7 @@
 ||netleryn.com^$all
 ||netronixbg.net^$all
 ||netstrikeforce.com^$all
+||netsyncsolutions.com^$all
 ||neurorehabtraining.com^$all
 ||new1.*.*.com^$document,domain=com
 ||new1.*.*.ir^$document,domain=ir
@@ -8763,6 +8775,7 @@
 ||obadatrendy.com^$all
 ||obecnybizznespolski.website^$all
 ||objecie315.rest^$all
+||objective-beaver-0b5be9.netlify.app^$all
 ||obkzrcclean2.az.pl^$all
 ||oblodno.xyz^$all
 ||obowiazkipolskie.online^$all
@@ -9165,6 +9178,7 @@
 ||olx-pl.cc^$all
 ||olx-pl.com-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl.depget.com^$all
+||olx-pl.dostawa-safety.cyou^$all
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.eu^$all
 ||olx-pl.ez-pays.ru^$all
@@ -9336,6 +9350,10 @@
 ||olx.pl-m-informacja.cyou^$all
 ||olx.pl-m-informacja.icu^$all
 ||olx.pl-m-informacja.info^$all
+||olx.pl-m-wysylka.cyou^$all
+||olx.pl-m-wysylka.icu^$all
+||olx.pl-m-wysylka.site^$all
+||olx.pl-m-wysylka.website^$all
 ||olx.pl-oferta.info^$all
 ||olx.pl-orderpaid.cyou^$all
 ||olx.pl-orderpays.cyou^$all
@@ -10194,6 +10212,7 @@
 ||pc-sklep.com^$all
 ||pc-soft.pl^$all
 ||pdsecurity.pl^$all
+||peaceful-kare-d31100.netlify.app^$all
 ||pebcon.info^$all
 ||peczta24.net^$all
 ||peipey.net^$all
@@ -10389,6 +10408,7 @@
 ||pilnosc171.rest^$all
 ||pilpey.net^$all
 ||pinegroupltd.com^$all
+||pinionspumed.info^$all
 ||pinkladiesfrisoere.com^$all
 ||pinkstar.pl^$all
 ||pinkvod.pl^$all
@@ -12173,6 +12193,7 @@
 ||stevemadenpolska.com^$all
 ||stg.charoll.org^$all
 ||stihl-pl.com^$all
+||stjosephsoswego.com^$all
 ||stockmagic.com^$all
 ||stockmarketinvestpro.com^$all
 ||stocksons.com^$all
@@ -12189,6 +12210,7 @@
 ||storageclear.site^$all
 ||storiiia.com^$all
 ||strangefullthiggngs.com^$all
+||strategia-firm.xyz^$all
 ||strategia-zasobw.xyz^$all
 ||streamboox.com^$all
 ||streamcommunely.com^$all
@@ -12355,6 +12377,7 @@
 ||szukamy504.rest^$all
 ||szukamy903.rest^$all
 ||szukamyjej.rest^$all
+||szukamypl.rest^$all
 ||szukamyteraz.rest^$all
 ||szybcyiwscielki7.wordpress.com^$all
 ||szybka7demka24h7.click^$all
@@ -12581,6 +12604,7 @@
 ||toe-corrector-pl.com^$all
 ||togdynia.xyz^$all
 ||togliwice.xyz^$all
+||toitedstearate.info^$all
 ||tojestbardzociezzkie.site^$all
 ||tojestisttotne24.club^$all
 ||tojestnewsprawdziwy.xyz^$all
@@ -12821,6 +12845,7 @@
 ||uber-order.pl-id80026433.xyz^$all
 ||uber-order.pl-id84593969.xyz^$all
 ||uber-order.pl-id86950524.xyz^$all
+||uber-order.pl-id87297751.xyz^$all
 ||uber-order.pl-id97223512.xyz^$all
 ||uber.pl-id02151812.xyz^$all
 ||uber.pl-id42467558.xyz^$all
@@ -12860,7 +12885,9 @@
 ||umarkets.io^$all
 ||unboxs.org^$all
 ||undefinedbairnliest.info^$all
+||undefinedbiopiracy.info^$all
 ||undefinedmazaedia.info^$all
+||underdodrat.info^$all
 ||underwritedown.site^$all
 ||undreadside.site^$all
 ||ungripyourphone.com^$all
@@ -13086,6 +13113,7 @@
 ||waycoloke.com^$all
 ||waypl-program.info^$all
 ||waytorich.xyz^$all
+||wazne24wmiescie.pl^$all
 ||wazneesprawy.online^$all
 ||waznefakty24info.pl^$all
 ||waznefakty24.pl^$all
@@ -13094,6 +13122,7 @@
 ||waznesprawywpolscee.online^$all
 ||waznesprawy.online^$all
 ||waznesprawy.site^$all
+||waznewmiescie.pl^$all
 ||wazvolev.pl^$all
 ||wazycrohke.com^$all
 ||wbok.pl^$all
