@@ -3,6 +3,7 @@
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$document,domain=biz
 /^https:\/\/[-a-z]{12,}\.life\/\?u=[0-9a-z]+&o=/$document,domain=life
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$document,domain=site
+||mobiklivestmox.pl^$all
 ||0n.click^$all
 ||9dcm.net^$all
 ||34q22.cn^$all
