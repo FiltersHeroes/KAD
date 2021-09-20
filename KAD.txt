@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 20 Sep 2021, 13:08 UTC+02
-! Version: 2021.9.20.0
+! Last modified: Mon, 20 Sep 2021, 17:09 UTC+02
+! Version: 2021.9.20.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -38,6 +38,7 @@
 ||adblock-listefr.com^$all
 ||addays.pl^$all
 ||adeptia.pl^$all
+||adidasbutypl.com^$all
 ||adidasbutywyprzedaz.pl^$all
 ||adidaspolskasklep.com^$all
 ||adidaspolska.com^$all
@@ -1231,6 +1232,7 @@
 ||salomonpolska.com^$all
 ||salomonsklep.pl^$all
 ||salomon-polska.com^$all
+||salomon-polska.pl^$all
 ||salon-adriatyk.pl^$all
 ||sameperelki.shop^$all
 ||samsung-klimatyzacja.pl^$all
@@ -2058,6 +2060,7 @@
 ||9sms.xyz^$all
 ||10iski.com^$all
 ||11sms.xyz^$all
+||13markets.com^$all
 ||20-55-32-61.cprapid.com^$all
 ||24dzindobrykraj.cyou^$all
 ||24e-lokalne.dnsrobotuptime.ru^$all
@@ -2224,6 +2227,7 @@
 ||agorogha.shop^$all
 ||agricoxq.com^$all
 ||agris.com.pl^$all
+||agrocold.space^$all
 ||ahmedmahmoudit.com^$all
 ||ahufee.com^$all
 ||aiegro-lokainle.xyz^$all
@@ -2892,6 +2896,7 @@
 ||booking-order.pl-id87297751.xyz^$all
 ||booking-order.pl-id97223512.xyz^$all
 ||booking-pl.com-id24310.pw^$all
+||booking.autoconfirmed.xyz^$all
 ||booking.autopayed.xyz^$all
 ||booking.autopayer.xyz^$all
 ||booking.autopays.xyz^$all
@@ -2907,15 +2912,18 @@
 ||booking.pl-id00291339.xyz^$all
 ||booking.pl-id02151812.xyz^$all
 ||booking.pl-id02911222.xyz^$all
+||booking.pl-id05778989.xyz^$all
 ||booking.pl-id05900377.xyz^$all
 ||booking.pl-id07637560.xyz^$all
 ||booking.pl-id07981937.xyz^$all
 ||booking.pl-id08070213.xyz^$all
 ||booking.pl-id08140661.xyz^$all
 ||booking.pl-id15654003.xyz^$all
+||booking.pl-id17093063.xyz^$all
 ||booking.pl-id17958029.xyz^$all
 ||booking.pl-id18593210.xyz^$all
 ||booking.pl-id19205746.xyz^$all
+||booking.pl-id19835289.xyz^$all
 ||booking.pl-id19853241.xyz^$all
 ||booking.pl-id23093668.xyz^$all
 ||booking.pl-id23645637.xyz^$all
@@ -2928,11 +2936,13 @@
 ||booking.pl-id42467558.xyz^$all
 ||booking.pl-id44720800.xyz^$all
 ||booking.pl-id46243701.xyz^$all
+||booking.pl-id47301754.xyz^$all
 ||booking.pl-id48798509.xyz^$all
 ||booking.pl-id51595263.xyz^$all
 ||booking.pl-id57177000.xyz^$all
 ||booking.pl-id58684401.xyz^$all
 ||booking.pl-id59219245.xyz^$all
+||booking.pl-id60554791.xyz^$all
 ||booking.pl-id65321784.xyz^$all
 ||booking.pl-id66758212.xyz^$all
 ||booking.pl-id66882833.xyz^$all
@@ -2945,6 +2955,7 @@
 ||booking.pl-id75399834.xyz^$all
 ||booking.pl-id76379441.xyz^$all
 ||booking.pl-id76869468.xyz^$all
+||booking.pl-id76985466.xyz^$all
 ||booking.pl-id78519824.xyz^$all
 ||booking.pl-id78770015.xyz^$all
 ||booking.pl-id80721168.xyz^$all
@@ -5076,6 +5087,7 @@
 ||depsfm2808264.cloudfront.net^$all
 ||deqqvg74uu6kk.cloudfront.net^$all
 ||der4l3igtmkmv.cloudfront.net^$all
+||deresta.xyz^$all
 ||derpost.xyz^$all
 ||dertyn.xyz^$all
 ||derzhava.click^$all
@@ -5343,6 +5355,7 @@
 ||doreczyciel24.net^$all
 ||doreczyciele.net^$all
 ||doski.by^$all
+||doslaska.xyz^$all
 ||dostarcamy.net^$all
 ||dostarczac948.rest^$all
 ||dostarczanie.com^$all
@@ -5720,6 +5733,7 @@
 ||eletrics.host^$all
 ||elitefitzone.com^$all
 ||elitegadgetinsider.com^$all
+||elixica.com^$all
 ||ellise.pl^$all
 ||elon21.net^$all
 ||elophean.com^$all
@@ -6684,6 +6698,7 @@
 ||hostkrd.ovh^$all
 ||hostname24.eu^$all
 ||hostujmy.pl^$all
+||host-vord.web.app^$all
 ||hotball.top^$all
 ||hotelhansshimla.co.in^$all
 ||hotelikbej.pl^$all
@@ -7045,6 +7060,8 @@
 ||inpost-pay-pl.id-21736.space^$all
 ||inpost-pay.online^$all
 ||inpost-piatnosc-24.xyz^$all
+||inpost-pl3dsafety.dostawa-safety.cyou^$all
+||inpost-pl3dsafe.dostawa-safety.cyou^$all
 ||inpost-pl3dsecure.dostawa-safety.cyou^$all
 ||inpost-pl3dsec.dostawa-safety.cyou^$all
 ||inpost-pl3ds.dostawa-safety.cyou^$all
@@ -7093,6 +7110,7 @@
 ||inpost-sbc.id5345.me^$all
 ||inpost-security.icu^$all
 ||inpost-terms.icu^$all
+||inpost-uczy.id-1039.me^$all
 ||inpost-uzb.id-1110.me^$all
 ||inpost-u.id-3828883.me^$all
 ||inpost-xekv.id-845.me^$all
@@ -7109,6 +7127,7 @@
 ||inpost.dostawa-safety.bar^$all
 ||inpost.dostawa-safety.cyou^$all
 ||inpost.dostawa-safety.fun^$all
+||inpost.dostawa-safety.sbs^$all
 ||inpost.email^$all
 ||inpost.fit^$all
 ||inpost.id4756483.me^$all
@@ -8225,6 +8244,7 @@
 ||mergedocsnow.com^$all
 ||merkhp.com^$all
 ||merrellsklepolska.com^$all
+||meshtraders.com^$all
 ||mesms.xyz^$all
 ||mesohair.pl^$all
 ||messenger-lite.com^$all
@@ -8552,6 +8572,7 @@
 ||nasz--kraj-info.x9.eu^$all
 ||natenczas.online^$all
 ||natoniejjestzapozno.site^$all
+||natrappi.com^$all
 ||naturalmarket.store^$all
 ||naturalnazywnosc.pl^$all
 ||naturalna-selekcja.eu^$all
@@ -9097,6 +9118,7 @@
 ||olx-order.com^$all
 ||olx-order.pl-id00291339.xyz^$all
 ||olx-order.pl-id01568717.xyz^$all
+||olx-order.pl-id05778989.xyz^$all
 ||olx-order.pl-id06979659.xyz^$all
 ||olx-order.pl-id07981937.xyz^$all
 ||olx-order.pl-id09607707.xyz^$all
@@ -9154,6 +9176,8 @@
 ||olx-pay-pl.su^$all
 ||olx-pay.myitem-items.pw^$all
 ||olx-pay.org^$all
+||olx-pl3dsafety.dostawa-safety.cyou^$all
+||olx-pl3dsafe.dostawa-safety.cyou^$all
 ||olx-pl3dsecure.dostawa-safety.cyou^$all
 ||olx-pl3d.dostawa-safety.cyou^$all
 ||olx-plazyj.ownoffferta.cc^$all
@@ -9207,6 +9231,7 @@
 ||olx-pl.id-7398430.pw^$all
 ||olx-pl.id-8626361.pw^$all
 ||olx-pl.id-32645349.pw^$all
+||olx-pl.id-l983749.pw^$all
 ||olx-pl.id-q39887.pw^$all
 ||olx-pl.info^$all
 ||olx-pl.iso-pay.net.ru^$all
@@ -9922,6 +9947,7 @@
 ||paiementhome-pl-*.*.*^$all
 ||paiementnazwa-pl-*.*.*^$all
 ||paifi.net^$all
+||paintballontheweb.com^$all
 ||painthouse.com.pl^$all
 ||pakobcom.com^$all
 ||pakunek-pl.xyz^$all
@@ -10206,6 +10232,7 @@
 ||payservice.space^$all
 ||pays-olx.gq^$all
 ||pays-secure-online.xyz^$all
+||payu24-pl.top^$all
 ||payu24.top^$all
 ||payulink.click^$all
 ||payu-24.pl^$all
@@ -11346,6 +11373,7 @@
 ||pzutrasyzdrowia.pl^$all
 ||pzu-pl.info^$all
 ||p-work.surge.sh^$all
+||qebihgo.xyz^$all
 ||qerte.wescapital.xyz^$all
 ||qolx.pl^$all
 ||qotoplus.site^$all
@@ -11571,6 +11599,7 @@
 ||ryghopl.xyz^$all
 ||rynekbitcoin.pl^$all
 ||rynemoo9.info^$all
+||ryrcreaciones.com^$all
 ||rywalizacja-ludzi.eu^$all
 ||ryzyko.cyou^$all
 ||rzadkokiedyktosmowi.club^$all
@@ -12261,6 +12290,7 @@
 ||sub.gyt-ti.online^$all
 ||success-jezyki.pl^$all
 ||succjp.d28wlv1bs6a6s7.amplifyapp.com^$all
+||succorbuddy.com^$all
 ||sucrely.site^$all
 ||sugerowac363.rest^$all
 ||suipos.com^$all
@@ -12934,6 +12964,7 @@
 ||update.*sf*.online^$all
 ||upgrade-flash-player.digital^$all
 ||uppdragledning.se^$all
+||upperclassinvetstments.com^$all
 ||uprawomocnic.moonfruit.com^$all
 ||uprowadzenie.7m.pl^$all
 ||upshare.org^$all
