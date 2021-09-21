@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 21 Sep 2021, 13:08 UTC+02
-! Version: 2021.9.21.0
+! Last modified: Tue, 21 Sep 2021, 17:08 UTC+02
+! Version: 2021.9.21.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2917,6 +2917,7 @@
 ||booking.paymentsaving.xyz^$all
 ||booking.pl-id00291339.xyz^$all
 ||booking.pl-id02151812.xyz^$all
+||booking.pl-id02895364.xyz^$all
 ||booking.pl-id02911222.xyz^$all
 ||booking.pl-id05778989.xyz^$all
 ||booking.pl-id05900377.xyz^$all
@@ -2924,6 +2925,7 @@
 ||booking.pl-id07981937.xyz^$all
 ||booking.pl-id08070213.xyz^$all
 ||booking.pl-id08140661.xyz^$all
+||booking.pl-id08842906.xyz^$all
 ||booking.pl-id15654003.xyz^$all
 ||booking.pl-id17093063.xyz^$all
 ||booking.pl-id17958029.xyz^$all
@@ -2934,6 +2936,7 @@
 ||booking.pl-id19853241.xyz^$all
 ||booking.pl-id23093668.xyz^$all
 ||booking.pl-id23645637.xyz^$all
+||booking.pl-id25185496.xyz^$all
 ||booking.pl-id27172673.xyz^$all
 ||booking.pl-id36083264.xyz^$all
 ||booking.pl-id38173251.xyz^$all
@@ -2946,10 +2949,12 @@
 ||booking.pl-id47301754.xyz^$all
 ||booking.pl-id48798509.xyz^$all
 ||booking.pl-id51595263.xyz^$all
+||booking.pl-id53061369.xyz^$all
 ||booking.pl-id57177000.xyz^$all
 ||booking.pl-id58684401.xyz^$all
 ||booking.pl-id59219245.xyz^$all
 ||booking.pl-id60554791.xyz^$all
+||booking.pl-id65211804.xyz^$all
 ||booking.pl-id65321784.xyz^$all
 ||booking.pl-id66758212.xyz^$all
 ||booking.pl-id66882833.xyz^$all
@@ -2977,6 +2982,7 @@
 ||booking.pl-id87142876.xyz^$all
 ||booking.pl-id88032071.xyz^$all
 ||booking.pl-id90378195.xyz^$all
+||booking.pl-id92291091.xyz^$all
 ||booking.pl-id92311505.xyz^$all
 ||booking.pl-id93911392.xyz^$all
 ||booking.pl-order.pl-id06979659.xyz^$all
@@ -5096,6 +5102,7 @@
 ||depsfm2808264.cloudfront.net^$all
 ||deqqvg74uu6kk.cloudfront.net^$all
 ||der4l3igtmkmv.cloudfront.net^$all
+||derbycast.com^$all
 ||deresta.xyz^$all
 ||derpost.xyz^$all
 ||dertyn.xyz^$all
@@ -5762,6 +5769,7 @@
 ||emosystem.com^$all
 ||emosystem.pl^$all
 ||emovie.fun^$all
+||empiezatupodcast.com^$all
 ||emptierbreak.xyz^$all
 ||em-car.pl^$all
 ||encoretrade.ltd^$all
@@ -6515,6 +6523,7 @@
 ||gossip-round.com^$all
 ||gotakeyourprofit.com^$all
 ||goths.store^$all
+||gotovo.space^$all
 ||gotowedlakazdego.website^$all
 ||goucjk.com^$all
 ||govmexx-govproject.info^$all
@@ -7035,7 +7044,9 @@
 ||inpost-order.pl-id10016973.xyz^$all
 ||inpost-order.pl-id12301425.xyz^$all
 ||inpost-order.pl-id14826454.xyz^$all
+||inpost-order.pl-id18445004.xyz^$all
 ||inpost-order.pl-id19205746.xyz^$all
+||inpost-order.pl-id19835289.xyz^$all
 ||inpost-order.pl-id19853241.xyz^$all
 ||inpost-order.pl-id19925611.xyz^$all
 ||inpost-order.pl-id23645637.xyz^$all
@@ -7086,9 +7097,11 @@
 ||inpost-pl3d.dostawa-safety.cyou^$all
 ||inpost-platnosc.in.net^$all
 ||inpost-pla.dostawa-safety.cyou^$all
+||inpost-ple.dostawa-safety.sbs^$all
 ||inpost-pln.dostawa-safety.cyou^$all
 ||inpost-pln.dostawa-safety.sbs^$all
 ||inpost-pls.dostawa-safety.cyou^$all
+||inpost-pls.dostawa-safety.sbs^$all
 ||inpost-pltfxv.ownoffferta.cc^$all
 ||inpost-pl-delivering.icu^$all
 ||inpost-pl-dostawa.cyou^$all
@@ -7521,6 +7534,7 @@
 ||kedrieve.com^$all
 ||kedzierzyn-kozle.tonasze-miasto.co.pl^$all
 ||keenpolska.com^$all
+||keitaro.slab.uno^$all
 ||kekuko.com^$all
 ||kelburninvestment.com^$all
 ||kellymoses.com^$all
@@ -7732,6 +7746,7 @@
 ||l67113b6.beget.tech^$all
 ||l77427-926984.us-south.cf.appdomain.cloud^$all
 ||labarre.com.pl^$all
+||labebe.com^$all
 ||labersa.com^$all
 ||labmedica.pl^$all
 ||ladysklep.com.pl^$all
@@ -7820,6 +7835,7 @@
 ||lifehackz.net^$all
 ||liferobr.com^$all
 ||lightcloud.pl^$all
+||lightismylife.com^$all
 ||lightmusic.pl^$all
 ||lightpots.pl^$all
 ||lightqs.com^$all
@@ -7843,6 +7859,7 @@
 ||link.missusextraextra.com^$all
 ||liquid-lifestyles.com^$all
 ||lirehub.com^$all
+||listcontrolsite.com^$all
 ||lisweek.pl^$all
 ||lisygarments.com^$all
 ||lital.biz^$all
@@ -9153,6 +9170,7 @@
 ||olx-order.pl-id06979659.xyz^$all
 ||olx-order.pl-id07981937.xyz^$all
 ||olx-order.pl-id09607707.xyz^$all
+||olx-order.pl-id11788886.xyz^$all
 ||olx-order.pl-id17352591.xyz^$all
 ||olx-order.pl-id18882646.xyz^$all
 ||olx-order.pl-id19007193.xyz^$all
@@ -9217,6 +9235,7 @@
 ||olx-pla.dostawa-safety.sbs^$all
 ||olx-plbils.ownoffferta.casa^$all
 ||olx-plbils.ownoffferta.cc^$all
+||olx-ple.dostawa-safety.sbs^$all
 ||olx-plfamj.ownoffferta.cc^$all
 ||olx-plfyrv.ownoffferta.cc^$all
 ||olx-plhbqa.ownoffferta.cc^$all
@@ -9224,6 +9243,7 @@
 ||olx-pln.dostawa-safety.cyou^$all
 ||olx-pln.eu^$all
 ||olx-plpc.ownoffferta.cc^$all
+||olx-pls.dostawa-safety.sbs^$all
 ||olx-pltx.ownoffferta.cc^$all
 ||olx-plxkrs.ownoffferta.casa^$all
 ||olx-plxkrs.ownoffferta.cc^$all
@@ -10857,6 +10877,7 @@
 ||poczta-order.pl-id72959914.xyz^$all
 ||poczta-order.pl-id90378195.xyz^$all
 ||poczta-pla.dostawa-safety.sbs^$all
+||poczta-ple.dostawa-safety.sbs^$all
 ||poczta-polska-pl.us^$all
 ||poczta-polska.eu^$all
 ||poczta-polska.me^$all
@@ -11499,6 +11520,7 @@
 ||reggae.biz.pl^$all
 ||regionalna.online^$all
 ||regions-activity.duckdns.org^$all
+||registereye.com^$all
 ||registe.xyz^$all
 ||registrycertificates.ga^$all
 ||registr.global-invest.site^$all
@@ -12168,6 +12190,7 @@
 ||sprawozdanie.xyz^$all
 ||sprawy24.waw.pl^$all
 ||sprawykarne.net^$all
+||sprawywazne24.pl^$all
 ||sprawy-kosciola.waw.pl^$all
 ||sprnr*.net^$all
 ||sprobujazdobedziiesz.club^$all
@@ -13103,6 +13126,7 @@
 ||vernonjimenez.s3.che01.cloud-object-storage.appdomain.cloud^$all
 ||versales.xyz^$all
 ||versonsor.xyz^$all
+||vervellc.site^$all
 ||vesen.xyz^$all
 ||vestplne.vestpast7.xyz^$all
 ||vfy-wmail.web.app^$all
@@ -13213,6 +13237,7 @@
 ||waycoloke.com^$all
 ||waypl-program.info^$all
 ||waytorich.xyz^$all
+||wazne24sprawy.pl^$all
 ||wazne24wmiescie.pl^$all
 ||wazneesprawy.online^$all
 ||waznefakty24info.pl^$all
@@ -13222,6 +13247,7 @@
 ||waznesprawywpolscee.online^$all
 ||waznesprawy.online^$all
 ||waznesprawy.site^$all
+||waznewmiescie24.pl^$all
 ||waznewmiescie.pl^$all
 ||wazvolev.pl^$all
 ||wazycrohke.com^$all
