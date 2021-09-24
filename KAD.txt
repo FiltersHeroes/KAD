@@ -4,8 +4,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 24 Sep 2021, 13:09 UTC+02
-! Version: 2021.9.24.0
+! Last modified: Fri, 24 Sep 2021, 17:08 UTC+02
+! Version: 2021.9.24.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2226,6 +2226,7 @@
 ||adoutletpl.pl^$all
 ||adrenoleukodystrophypedia.com^$all
 ||adres457.rest^$all
+||advenations.com^$all
 ||adventurous-shrouded-llama.glitch.me^$all
 ||adwokaci-24.pl^$all
 ||aederem.site^$all
@@ -2563,6 +2564,7 @@
 ||astrahorizon.com^$all
 ||astrocash.org^$all
 ||atafrecle.com^$all
+||atami-japanese.com^$all
 ||atforum.pl^$all
 ||athlete246.com^$all
 ||atinybithuge.com^$all
@@ -2578,6 +2580,7 @@
 ||autorentier.pl^$all
 ||autoresdecomic.com^$all
 ||autoryzacja-poczty.interia.site^$all
+||autoservisluka.com^$all
 ||autoship.lolacc.com^$all
 ||auto.pl^$all,domain=~www.auto.pl
 ||avaparse.ir^$all
@@ -2599,6 +2602,7 @@
 ||axial-partners.com^$all
 ||axonicanserous.info^$all
 ||axonicaxonic.info^$all
+||ayasofyaydv.com^$all
 ||ay.nktostip.xyz^$all
 ||az5sdu.webwave.dev^$all
 ||azawebspace.com^$all
@@ -2713,6 +2717,7 @@
 ||bepayedtoday.com^$all
 ||berich.eu^$all
 ||berlinwx.com^$all
+||bertuanjaund.000webhostapp.com^$all
 ||bespuantiye.com^$all
 ||bestarcadegames24.com^$all
 ||bestcheats.cba.pl^$all
@@ -2940,6 +2945,7 @@
 ||booking-order.pl-id13768096.xyz^$all
 ||booking-order.pl-id30542198.xyz^$all
 ||booking-order.pl-id36083264.xyz^$all
+||booking-order.pl-id36181403.xyz^$all
 ||booking-order.pl-id40862299.xyz^$all
 ||booking-order.pl-id42467558.xyz^$all
 ||booking-order.pl-id46112767.xyz^$all
@@ -2984,6 +2990,7 @@
 ||booking.pl-id08070213.xyz^$all
 ||booking.pl-id08140661.xyz^$all
 ||booking.pl-id08842906.xyz^$all
+||booking.pl-id09726371.xyz^$all
 ||booking.pl-id09787744.xyz^$all
 ||booking.pl-id13768096.xyz^$all
 ||booking.pl-id15654003.xyz^$all
@@ -3005,6 +3012,7 @@
 ||booking.pl-id32513080.xyz^$all
 ||booking.pl-id34131399.xyz^$all
 ||booking.pl-id36083264.xyz^$all
+||booking.pl-id36181403.xyz^$all
 ||booking.pl-id36795865.xyz^$all
 ||booking.pl-id38173251.xyz^$all
 ||booking.pl-id38427290.xyz^$all
@@ -3037,12 +3045,14 @@
 ||booking.pl-id66882833.xyz^$all
 ||booking.pl-id67405568.xyz^$all
 ||booking.pl-id68141274.xyz^$all
+||booking.pl-id68893545.xyz^$all
 ||booking.pl-id69372827.xyz^$all
 ||booking.pl-id70002371.xyz^$all
 ||booking.pl-id71127898.xyz^$all
 ||booking.pl-id71780340.xyz^$all
 ||booking.pl-id73468218.xyz^$all
 ||booking.pl-id74389427.xyz^$all
+||booking.pl-id74449621.xyz^$all
 ||booking.pl-id74829541.xyz^$all
 ||booking.pl-id75174928.xyz^$all
 ||booking.pl-id75399834.xyz^$all
@@ -3600,6 +3610,7 @@
 ||cuse.xyz^$all
 ||customernoble.com^$all
 ||cutdoor.top^$all
+||cutdryfinance.com^$all
 ||cutess.pl^$all
 ||cute-gossip.com^$all
 ||cwatesppl.pattees4.xyz^$all
@@ -5289,6 +5300,7 @@
 ||differept.com^$all
 ||difgo4.wixsite.com^$all
 ||digitalxacademy.com^$all
+||digivaporizer.com^$all
 ||dignitymigration.info^$all
 ||dihspokas67l6.cloudfront.net^$all
 ||diidwhkvxmmpq.cloudfront.net^$all
@@ -5556,6 +5568,7 @@
 ||dpd-pl-qpuq.ownoffferta.cc^$all
 ||dpd-ssm.id5995.me^$all
 ||dpd-xhlh.id-1771.me^$all
+||dpd.dostawa-safety.club^$all
 ||dpd.pl-safe.dostawa-safety.live^$all
 ||dpd.pl.dostawa-safety.live^$all
 ||dpd.pl.dostawa-safety.work^$all
@@ -5808,6 +5821,7 @@
 ||eco-finance.website^$all
 ||eco-financion.site^$all
 ||eco-skins.com^$all
+||eco-tactics.com^$all
 ||ecunitt.com^$all
 ||edamcorp.com^$all
 ||edenchoice.com^$all
@@ -5929,6 +5943,7 @@
 ||epoczta-interia.com^$all
 ||epodatk.net^$all
 ||eporwanienatalki.*^$all
+||epsived.com^$all
 ||eqvpismqyp.web.app^$all
 ||ergax.info^$all
 ||ergltd.info^$all
@@ -6121,9 +6136,11 @@
 ||fakty-onet48.*^$all
 ||fakty-polska24.eu^$all
 ||fakt*.is-best.net^$all
+||famecala.com^$all
 ||famfunj.com^$all
 ||famiecomea.com^$all
 ||fan1inevsbudim.info^$all
+||fancanseda.com^$all
 ||fancyvibezz.com^$all
 ||fandeoma.com^$all
 ||fandocean.com^$all
@@ -6145,6 +6162,7 @@
 ||fashionfobi.com^$all
 ||fashionhernewz.com^$all
 ||fashionpublicnewz.com^$all
+||fashionqueentop.com^$all
 ||fasoditama.com^$all
 ||fastandfurious7pl.wordpress.com^$all
 ||fastcash4vehicles.com^$all
@@ -6706,6 +6724,7 @@
 ||guiadocristao.com^$all
 ||guidetrip.com^$all
 ||guimaraesconstrutorasjc.com.br^$all
+||gulydv.com^$all
 ||gumka.strefa.pl^$all
 ||gumltree.com^$all
 ||gumtree.live-3ds.com^$all
@@ -6817,6 +6836,7 @@
 ||highersklep.com.pl^$all
 ||highersklep.pl^$all
 ||hightechsolutions.site^$all
+||hilalydv.com^$all
 ||himedic.vn^$all
 ||hioola.se^$all
 ||historiaktorychmalo.space^$all
@@ -6942,6 +6962,7 @@
 ||ide-dalej.pl^$all
 ||ididenty.pl^$all
 ||idklever.com^$all
+||idlesway.com^$all
 ||idntfx.link^$all
 ||idoku24.com^$all
 ||id-appie.com^$all
@@ -6975,6 +6996,7 @@
 ||imetinyang.za.pl^$all
 ||ime.ut.edu.vn^$all
 ||immediate-invest.work^$all
+||immi360.com^$all
 ||imnpost.net^$all
 ||imonellipizzeria.pl^$all
 ||importdopolski.pl^$all
@@ -7155,6 +7177,7 @@
 ||inpostmobile.org^$all
 ||inpostodbior.com^$all
 ||inpostpl.com^$all
+||inpost-alam.id8341.me^$all
 ||inpost-a.id-43980.me^$all
 ||inpost-cde.id5345.me^$all
 ||inpost-cfzm.id-9329.me^$all
@@ -7181,6 +7204,7 @@
 ||inpost-kody.net^$all
 ||inpost-kod.com^$all
 ||inpost-kra.id-1771.me^$all
+||inpost-ktga.id8341.me^$all
 ||inpost-kurier24.com^$all
 ||inpost-lgye.id-845.me^$all
 ||inpost-mjgt.id5345.me^$all
@@ -7327,6 +7351,7 @@
 ||inpost.dostawa24-fun.club^$all
 ||inpost.dostawa-orders.casa^$all
 ||inpost.dostawa-safety.bar^$all
+||inpost.dostawa-safety.club^$all
 ||inpost.dostawa-safety.cyou^$all
 ||inpost.dostawa-safety.fun^$all
 ||inpost.dostawa-safety.sbs^$all
@@ -7843,6 +7868,7 @@
 ||korespondencja.xyz^$all
 ||korkutelidedogalgaz.com^$all
 ||kort.capitalnoster.site^$all
+||kosher.in.net^$all
 ||koshiyo.com^$all
 ||kosmetyki24.eu^$all
 ||kottonlok.space^$all
@@ -8268,6 +8294,7 @@
 ||lxyibnxiof.web.app^$all
 ||lyfile.com^$all
 ||lynngonsalvesphotography.com^$all
+||lyogram.com^$all
 ||lytkarino.com^$all
 ||lyttonparktennis.com^$all
 ||lz4l82l7e.newsy.auto.pl^$all
@@ -8679,6 +8706,7 @@
 ||muchoparking.com^$all
 ||muewhoseprofit.pro^$all
 ||mukunth.com^$all
+||mulaplane.com^$all
 ||multico.5v.pl^$all
 ||multifilmy.pl^$all
 ||multikino-pl.over-blog.com^$all
@@ -8888,6 +8916,7 @@
 ||newspolska.online^$all
 ||newsproduct.site^$all
 ||newsspypro.com^$all
+||newstiger24.com^$all
 ||newsweekpl.gq^$all
 ||newsweeks.xyz^$all
 ||newsyintera24.medianewsonline.com^$all
@@ -8932,6 +8961,7 @@
 ||niedokoncawszystkojassne.club^$all
 ||niedoplata.ru^$all
 ||niedovviarypolska.xyz^$all
+||niejestzlepolska24.online^$all
 ||nieladagratka.pl^$all
 ||niemarnujswojegoczasu.space^$all
 ||niemartwsieoto24.website^$all
@@ -9356,6 +9386,7 @@
 ||olx-messenger.com^$all
 ||olx-mi.pl^$all
 ||olx-money.pl^$all
+||olx-msy.id8341.me^$all
 ||olx-my.pl^$all
 ||olx-m.id-9843.me^$all
 ||olx-m.pl^$all
@@ -10270,6 +10301,7 @@
 ||parkodkrywcow.pl^$all
 ||park-rozrywki.waw.pl^$all
 ||park-zator.waw.pl^$all
+||parrandaice.com^$all
 ||partizanlab.com^$all
 ||partneralior.pl^$all
 ||partnerkontordesign.se^$all
@@ -10560,6 +10592,7 @@
 ||penaltyme.com^$all
 ||pendingdelivery212.s3.us-east.cloud-object-storage.appdomain.cloud^$all
 ||penetrator-szans.com^$all
+||pensionabby.com^$all
 ||pensjonatsportowy.pl^$all
 ||peopeyo.net^$all
 ||people4people144.work^$all
@@ -11251,6 +11284,7 @@
 ||polskapoczta-ploskt.ownoffferta.casa^$all
 ||polskapoczta-ploskt.ownoffferta.cc^$all
 ||polskapoczta-pl-hws.id-9843.me^$all
+||polskapoczta-pl-px.id8341.me^$all
 ||polskapoczta-pl-vqy.id-9843.me^$all
 ||polskapoczta-pl.polska24-dostawa24.shop^$all
 ||polskapoczta-rwfv.id-1771.me^$all
@@ -11505,6 +11539,7 @@
 ||presidioinvestmentsltd.com^$all
 ||prevski.com^$all
 ||prfolder.com^$all
+||priabafe.com^$all
 ||priaso.com^$all
 ||pricedrummer.com^$all
 ||prikektfirstpl.info^$all
@@ -11864,6 +11899,7 @@
 ||riddexpl*.com^$all
 ||righeryasmils.xyz^$all
 ||rikardesie.shop^$all
+||rimpus.com^$all
 ||rimraphael.com^$all
 ||rinpey.net^$all
 ||risingindianews.com^$all
@@ -12091,6 +12127,7 @@
 ||send-post.fun^$all
 ||send-post.host^$all
 ||send-post.space^$all
+||sennora.com^$all
 ||sensacja151.site^$all
 ||sensacyjnie.pl^$all
 ||sensetennis.xyz^$all
@@ -12651,6 +12688,7 @@
 ||suivhub5.com^$all
 ||sukces-wspolnych.eu^$all
 ||sukhumvithomes.com^$all
+||sukienka-tos-nevada-white-cid87-idleszg1.id8341.me^$all
 ||sulphurprinciple.info^$all
 ||suluklima.com.tr^$all
 ||summerinvest2021.site^$all
@@ -12704,6 +12742,7 @@
 ||svat.capitalnoster.site^$all
 ||sv-forum.com^$all
 ||sweetchilifashion.com^$all
+||swelug.com^$all
 ||swiadek426.rest^$all
 ||swiatfilmikow.pl^$all
 ||swiatoweinformacje.waw.pl^$all
@@ -13070,7 +13109,9 @@
 ||tostard.xyz^$all
 ||touch2explore.com^$all
 ||toukolog.com^$all
+||tounteas.com^$all
 ||tourismoodle.emu.edu.tr^$all
+||towfieworp.com^$all
 ||towiemy.online^$all
 ||towlasciwadroga.website^$all
 ||towszystkobywyjasnialo.website^$all
@@ -13142,6 +13183,7 @@
 ||truyenthongbatdiet.online^$all
 ||trwogaca.icu^$all
 ||tryplaybest.com^$all
+||tryspeakup.com^$all
 ||trytobebetter.pl^$all
 ||trytofindthem520.club^$all
 ||trytofindthem800.club^$all
@@ -13257,12 +13299,14 @@
 ||uber-order.pl-id22324105.xyz^$all
 ||uber-order.pl-id30542198.xyz^$all
 ||uber-order.pl-id36083264.xyz^$all
+||uber-order.pl-id36181403.xyz^$all
 ||uber-order.pl-id40862299.xyz^$all
 ||uber-order.pl-id42467558.xyz^$all
 ||uber-order.pl-id46112767.xyz^$all
 ||uber-order.pl-id60385332.xyz^$all
 ||uber-order.pl-id75174928.xyz^$all
 ||uber-order.pl-id77541220.xyz^$all
+||uber-order.pl-id77923350.xyz^$all
 ||uber-order.pl-id79241327.xyz^$all
 ||uber-order.pl-id80026433.xyz^$all
 ||uber-order.pl-id84593969.xyz^$all
@@ -13447,6 +13491,7 @@
 ||videoplanet.pl^$all
 ||videoplex.pl^$all
 ||vider.info^$document,domain=~uwaga-natretne-reklamy|vider.info
+||vidmova.xyz^$all
 ||vidplayer.pl^$all
 ||vidr.info^$all
 ||viewit-studio.com^$all
@@ -13461,6 +13506,7 @@
 ||vinted-mqzg.id-1949.me^$all
 ||vinted-pl.id-1949.me^$all
 ||vinted-pl.online^$all
+||vinted-rcqk.id8341.me^$all
 ||vinted-spk.id-1771.me^$all
 ||vinted-sqfd.id-1349.me^$all
 ||vinted-zrqi.id-1771.me^$all
@@ -13637,9 +13683,11 @@
 ||weselenet.pl^$all
 ||wesole-maluszki.click^$all
 ||westboundtime.xyz^$all
+||westete.xyz^$all
 ||westmark.cc^$all
 ||westpl-pgetech.info^$all
 ||westpl-techpge.info^$all
+||wetieria.com^$all
 ||wexness.cc^$all
 ||wgliwicach.xyz^$all
 ||wgoo.xyz^$all
@@ -13857,6 +13905,7 @@
 ||wp-plzysk.online^$all
 ||wp-pl.online^$all
 ||wp-pl.site^$all
+||wp-poczta-profil.eu^$all
 ||wp-politykaprywatnosci.email^$all
 ||wp-wiadomosci.eu^$all
 ||wp.*.top^$document,domain=top
@@ -14052,6 +14101,7 @@
 ||x-hosepl2.com^$all
 ||x-zdjecia.cleverapps.io^$all
 ||y3bfndilkswfg.vdl.pl^$all
+||yablinasto.com^$all
 ||yanemjou.host^$all
 ||yangqi-miss.com^$all
 ||yarkingulacti.com^$all
@@ -14230,6 +14280,7 @@
 ||znajdziemy539.rest^$all
 ||znajdziemy826.rest^$all
 ||znajdziemyanie.pl^$all
+||znajdziemyrazem.pl^$all
 ||znajdziemy.icu^$all
 ||znajdziemy.rest^$all
 ||znajdzswojfilm.pl^$all
