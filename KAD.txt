@@ -1,10 +1,9 @@
-[uBlock Origin or AdGuard]
 ! Do poprawnego działania listy wymagane jest rozszerzenie uBlock Origin 1.20.0+, uBlock Origin Legacy 1.16.4.20+ lub AdGuard AdBlocker 3.3.2+ albo aplikacja AdGuard dla Windows/macOS/Android, ograniczone wsparcie dla iOS (oparte o mechanizm "Safari nie może załadować strony, ponieważ url został zablokowany przez bloker treści").
 !
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 24 Sep 2021, 17:08 UTC+02
+! Last modified: Fri, 24 Sep 2021, 17:52 UTC+02
 ! Version: 2021.9.24.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -5206,6 +5205,7 @@
 ||demiverse.com^$all
 ||demoncmon.com^$all
 ||demot.space^$all
+||demo.interlab.online^$all
 ||demo.website.pl^$all
 ||dena.halicka.eu^$all
 ||deninno70.online^$all
@@ -7248,6 +7248,7 @@
 ||inpost-order.pl-id64446895.xyz^$all
 ||inpost-order.pl-id66758212.xyz^$all
 ||inpost-order.pl-id67405568.xyz^$all
+||inpost-order.pl-id68893545.xyz^$all
 ||inpost-order.pl-id69786411.xyz^$all
 ||inpost-order.pl-id71780340.xyz^$all
 ||inpost-order.pl-id72493788.xyz^$all
@@ -8883,6 +8884,7 @@
 ||netflix-mail.info^$all
 ||netflix-update.platnosci.tttt-security.com^$all
 ||netflix.pl.murataydeniz.com.tr^$all
+||netflix.pl.rsga.rw^$all
 ||netflix.pl.sri-india.com^$all
 ||netflx.com.pl^$all
 ||netfulfix.pl^$all
@@ -11825,6 +11827,7 @@
 ||registr.global-invest.site^$all
 ||registr.liztox.xyz^$all
 ||regis-ter.weebly.com^$all
+||regnumofficial.site^$all
 ||regulacja-platnosci.xyz^$all
 ||regulamin24poczta.art^$all
 ||regulamin24poczta.click^$all
@@ -12811,6 +12814,7 @@
 ||szukamy476.rest^$all
 ||szukamy504.rest^$all
 ||szukamy903.rest^$all
+||szukamyjejteraz.pl^$all
 ||szukamyjej.pl^$all
 ||szukamyjej.rest^$all
 ||szukamypl.rest^$all
