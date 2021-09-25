@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 24 Sep 2021, 21:08 UTC+02
-! Version: 2021.9.24.3
+! Last modified: Sat, 25 Sep 2021, 13:09 UTC+02
+! Version: 2021.9.25.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -158,6 +158,11 @@
 ||biegostojazwierzat.pl^$all
 ||bifrost.pl^$all
 ||bikiniboom.pl^$all
+||biletyna.pl/event/view/id/157126$all
+||biletyna.pl/event/view/id/191978$all
+||biletyna.pl/event/view/id/192860$all
+||biletyna.pl/event/view/id/195694$all
+||biletyna.pl/koncert/KULT/$all
 ||binomo.com^$all
 ||bistro-apetyczna.pl^$all
 ||bitcoinmillionairepro.com^$all
@@ -2229,6 +2234,7 @@
 ||adventurous-shrouded-llama.glitch.me^$all
 ||adwokaci-24.pl^$all
 ||aederem.site^$all
+||aerilylearnt.com^$all
 ||aesinv.com^$all
 ||aeyefilms.com^$all
 ||afetos.site^$all
@@ -2557,6 +2563,7 @@
 ||ashrafsaad.com^$all
 ||asimov.academy^$all
 ||asimples.com^$all
+||asininelyrespot.com^$all
 ||askzkoflds.web.app^$all
 ||aspenholding.com^$all
 ||aspenholding.co^$all
@@ -2956,6 +2963,7 @@
 ||booking-order.pl-id46112767.xyz^$all
 ||booking-order.pl-id60385332.xyz^$all
 ||booking-order.pl-id68893545.xyz^$all
+||booking-order.pl-id71277583.xyz^$all
 ||booking-order.pl-id75174928.xyz^$all
 ||booking-order.pl-id77541220.xyz^$all
 ||booking-order.pl-id79241327.xyz^$all
@@ -3000,6 +3008,7 @@
 ||booking.pl-id09787744.xyz^$all
 ||booking.pl-id13768096.xyz^$all
 ||booking.pl-id14665881.xyz^$all
+||booking.pl-id14959215.xyz^$all
 ||booking.pl-id15654003.xyz^$all
 ||booking.pl-id15749044.xyz^$all
 ||booking.pl-id17093063.xyz^$all
@@ -3010,11 +3019,13 @@
 ||booking.pl-id19205746.xyz^$all
 ||booking.pl-id19835289.xyz^$all
 ||booking.pl-id19853241.xyz^$all
+||booking.pl-id20705983.xyz^$all
 ||booking.pl-id23093668.xyz^$all
 ||booking.pl-id23645637.xyz^$all
 ||booking.pl-id25185496.xyz^$all
 ||booking.pl-id26160856.xyz^$all
 ||booking.pl-id27172673.xyz^$all
+||booking.pl-id28400735.xyz^$all
 ||booking.pl-id30542198.xyz^$all
 ||booking.pl-id32513080.xyz^$all
 ||booking.pl-id33513757.xyz^$all
@@ -3026,6 +3037,7 @@
 ||booking.pl-id38427290.xyz^$all
 ||booking.pl-id38672907.xyz^$all
 ||booking.pl-id39036827.xyz^$all
+||booking.pl-id39420753.xyz^$all
 ||booking.pl-id40980649.xyz^$all
 ||booking.pl-id42467558.xyz^$all
 ||booking.pl-id44720800.xyz^$all
@@ -3057,6 +3069,7 @@
 ||booking.pl-id69372827.xyz^$all
 ||booking.pl-id70002371.xyz^$all
 ||booking.pl-id71127898.xyz^$all
+||booking.pl-id71277583.xyz^$all
 ||booking.pl-id71780340.xyz^$all
 ||booking.pl-id73468218.xyz^$all
 ||booking.pl-id74389427.xyz^$all
@@ -5249,6 +5262,7 @@
 ||dezlbgu7bnlhf.cloudfront.net^$all
 ||de.pltrade-prog5.site^$all
 ||de.pltrade-projekt5.xyz^$all
+||de.pltrade-projekt8.xyz^$all
 ||dfe5oft174h2o.cloudfront.net^$all
 ||dfggdfwiewufw.xyz^$all
 ||dfmfqr0rrgtxe.cloudfront.net^$all
@@ -5906,6 +5920,7 @@
 ||emailhostingservices9.web.app^$all
 ||emailhostingservices122.web.app^$all
 ||emarketike7.info^$all
+||emilmoe.dk^$all
 ||emosystem.com^$all
 ||emosystem.pl^$all
 ||emovie.fun^$all
@@ -6051,6 +6066,7 @@
 ||e-media24.pl^$all
 ||e-miasto.eu^$all
 ||e-nigmaprof.club^$all
+||e-otom.com^$all
 ||e-paczka.info^$all
 ||e-polskaporwania.*^$all
 ||e-porwanienatalki.*^$all
@@ -6667,6 +6683,7 @@
 ||gooffy.pl^$all
 ||googlanalyticss.club^$all
 ||googleailesi.com^$all
+||google-deckoffice.ml^$all
 ||google-*.*giveaway*.xyz^$all
 ||google-*.*offer*.icu^$all
 ||google-*.*present*.icu^$all
@@ -7306,6 +7323,7 @@
 ||inpost-pltfxv.ownoffferta.cc^$all
 ||inpost-pl-delivering.icu^$all
 ||inpost-pl-dostawa.cyou^$all
+||inpost-pl-ni.id8341.me^$all
 ||inpost-pl-nkfi.ownoffferta.casa^$all
 ||inpost-pl-nkfi.ownoffferta.cc^$all
 ||inpost-pl-pay.site^$all
@@ -7926,6 +7944,7 @@
 ||kulturkurs.se^$all
 ||kumam-bon.click^$all
 ||kumucuriog.com^$all
+||kupbilety24.eu^$all
 ||kuponline129006.xyz^$all
 ||kuponline158460.xyz^$all
 ||kuponline427901.xyz^$all
@@ -8273,6 +8292,7 @@
 ||lpko-biznes-logovnanie.com^$all
 ||lpko-biznes-pl.com^$all
 ||lpko-biznes.com^$all
+||lpmush.com^$all
 ||lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^$all
 ||ls-projekt.site^$all
 ||ltos-site.info^$all
@@ -8460,6 +8480,7 @@
 ||mbankaccon.temp.swtest.ru^$all
 ||mbankczacc.temp.swtest.ru^$all
 ||mbanklog45.temp.swtest.ru^$all
+||mbanklogsk.temp.swtest.ru^$all
 ||mbankpl235.temp.swtest.ru^$all
 ||mbankpl.pw^$all
 ||mbank-cz.online^$all
@@ -10340,6 +10361,8 @@
 ||patrzonline.pl^$all
 ||pattern-trader.app^$all
 ||pattertrade.shop^$all
+||pattopen-pl.prokytne.xyz^$all
+||patt-plcm.prokytne.xyz^$all
 ||pat-life.xyz^$all
 ||paulotu.com^$all
 ||pavlowsz.pl^$all
@@ -10584,6 +10607,7 @@
 ||peaceful-kare-d31100.netlify.app^$all
 ||pebcon.info^$all
 ||peczta24.net^$all
+||pedalingantiurban.com^$all
 ||peipey.net^$all
 ||pekaao.cam^$all
 ||pekandobonus.xyz^$all
@@ -10762,6 +10786,8 @@
 ||phumva.com^$all
 ||piastpatrol.pl^$all
 ||piatek-gazeta.tokoapril.com^$all
+||piatek-o2.tokoapril.com^$all
+||piatek-onet.tokoapril.com^$all
 ||piatek-wiadomosci.tokoapril.com^$all
 ||piatek-wp.tokoapril.com^$all
 ||pib7bocaiuvadosul.com.br^$all
@@ -10776,6 +10802,7 @@
 ||pieknozywicy.pl^$all
 ||pieknykraj.icu^$all
 ||pielegniarsko-poloznicze.pl^$all
+||piena.fun^$all
 ||pieprzyc.com^$all
 ||pieski-pomoc.xyz^$all
 ||pies-do-oddania.dnsrobotuptime.ru^$all
@@ -10998,6 +11025,7 @@
 ||pl-makepays.casa^$all
 ||pl-makepays.xyz^$all
 ||pl-makepay.xyz^$all
+||pl-mcdelivery.online^$all
 ||pl-m.xyz^$all
 ||pl-oferta.info^$all
 ||pl-olxsafedeal.xyz^$all
@@ -11562,6 +11590,8 @@
 ||priabafe.com^$all
 ||priaso.com^$all
 ||pricedrummer.com^$all
+||priggishlygrazed.com^$all
+||priggishlynopalitos.com^$all
 ||prikektfirstpl.info^$all
 ||primebit.com^$all
 ||primecanadaccount.ca^$all
@@ -11571,6 +11601,7 @@
 ||priorytetowo.com^$all
 ||prismaliquid.xyz^$all
 ||prismaliquld.xyz^$all
+||privacyandsafetybusiness.co.vu^$all
 ||privacy-in.us^$all
 ||privatewhite.club^$all
 ||private-business.online^$all
@@ -11599,6 +11630,7 @@
 ||profitgroups.info^$all
 ||profitmaximum.pl^$all
 ||profitrevolution.live^$all
+||profit-btc.monster^$all
 ||profit-business.website^$all
 ||profit-busines.online^$all
 ||profit-busines.website^$all
@@ -11606,6 +11638,8 @@
 ||profit-bussines.website^$all
 ||prof.tsla-coin.xyz^$all
 ||program-max.site^$all
+||prog-acpatrn.prokytne.xyz^$all
+||prog-createpl.prokytne.xyz^$all
 ||proislak.com^$all
 ||project2266655.turbo.site^$all
 ||project2274648.turbo.site^$all
@@ -11850,6 +11884,7 @@
 ||registr.liztox.xyz^$all
 ||regis-ter.weebly.com^$all
 ||regnumofficial.site^$all
+||regrets.fun^$all
 ||regulacja-platnosci.xyz^$all
 ||regulamin24poczta.art^$all
 ||regulamin24poczta.click^$all
@@ -12158,6 +12193,7 @@
 ||sensetennis.xyz^$all
 ||sen-log.net^$all
 ||seolandia.pl^$all
+||sequa.pw^$all
 ||sergioporto.site^$all
 ||seriale.best^$all
 ||serialosy.pl^$all
@@ -12381,6 +12417,7 @@
 ||sleepingbagsandtents.com^$all
 ||slodka-nagroda.click^$all
 ||slodki-traf.click^$all
+||slouchinessmobb.com^$all
 ||sluchawka-prysznicowa-wellness.com^$all
 ||slyszlelisciejuzotymgdzies.cyou^$all
 ||smaki-polski.pl^$all
@@ -12979,6 +13016,7 @@
 ||tfks19yr6ykp3ud.likemyish.com^$all
 ||tgfind.website^$all
 ||tg.sv^$all
+||thankupgpl.xyz^$all
 ||thcredits.com^$all
 ||thebiggestpromotiononearth.com^$all
 ||thebitqtapp.com^$all
@@ -13325,18 +13363,23 @@
 ||uber-order.pl-id09787744.xyz^$all
 ||uber-order.pl-id13768096.xyz^$all
 ||uber-order.pl-id14665881.xyz^$all
+||uber-order.pl-id14959215.xyz^$all
 ||uber-order.pl-id17958029.xyz^$all
+||uber-order.pl-id20705983.xyz^$all
 ||uber-order.pl-id22324105.xyz^$all
+||uber-order.pl-id28400735.xyz^$all
 ||uber-order.pl-id30542198.xyz^$all
 ||uber-order.pl-id33513757.xyz^$all
 ||uber-order.pl-id36083264.xyz^$all
 ||uber-order.pl-id36181403.xyz^$all
+||uber-order.pl-id39420753.xyz^$all
 ||uber-order.pl-id40862299.xyz^$all
 ||uber-order.pl-id42467558.xyz^$all
 ||uber-order.pl-id46112767.xyz^$all
 ||uber-order.pl-id60385332.xyz^$all
 ||uber-order.pl-id64141151.xyz^$all
 ||uber-order.pl-id68893545.xyz^$all
+||uber-order.pl-id71277583.xyz^$all
 ||uber-order.pl-id75174928.xyz^$all
 ||uber-order.pl-id77541220.xyz^$all
 ||uber-order.pl-id77923350.xyz^$all
@@ -13393,6 +13436,7 @@
 ||undefinedmazaedia.info^$all
 ||underdodrat.info^$all
 ||underwritedown.site^$all
+||undesanthemums.com^$all
 ||undreadside.site^$all
 ||ungripyourphone.com^$all
 ||unicredit.blackbeltapp.com^$all
@@ -13542,6 +13586,7 @@
 ||vinted-mqzg.id-1949.me^$all
 ||vinted-pl.id-1949.me^$all
 ||vinted-pl.online^$all
+||vinted-qjo.id8341.me^$all
 ||vinted-rcqk.id8341.me^$all
 ||vinted-spk.id-1771.me^$all
 ||vinted-sqfd.id-1349.me^$all
