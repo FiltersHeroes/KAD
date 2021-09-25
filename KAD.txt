@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 25 Sep 2021, 21:09 UTC+02
-! Version: 2021.9.25.2
+! Last modified: Sat, 25 Sep 2021, 21:45 UTC+02
+! Version: 2021.9.25.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2516,6 +2516,7 @@
 ||app*.kromtech.net^$all,domain=net
 ||app-findmyweb.com^$all
 ||app-messenger-lite.com^$all
+||app-netflix.ratedyork.tk^$all
 ||app.uniswap.info-tokens.com^$all
 ||aprove-confrim.000webhostapp.com^$all
 ||aqsati.com^$all
@@ -3399,6 +3400,7 @@
 ||closetalk.ca^$all
 ||cloudburstartsinesses.info^$all
 ||cloud-ideabank.at^$all
+||cloud-idea-sso.at^$all
 ||cloud-idea.at^$all
 ||cloud-sso-idea.at^$all
 ||clpfoundation.org^$all
@@ -5735,6 +5737,7 @@
 ||dziennik-bialystok.xyz^$all
 ||dziennik-bytom.xyz^$all
 ||dziennik-inf.xyz^$all
+||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
 ||dziennik.waw.pl^$all
 ||dziewczyn.pl^$all
@@ -6073,6 +6076,8 @@
 ||facebookcom-49851167.techsso.com^$all
 ||facebookweryfikacja.cf^$all
 ||facebookweryfikacja.ga^$all
+||facebookweryfikacja.gq^$all
+||facebookweryfikacja.ml^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-account.xyz^$all
@@ -6175,6 +6180,7 @@
 ||fbvetu.n4t.co^$all
 ||fbvverifier.mypi.co^$all
 ||fbweryfikacja.cf^$all
+||fbweryfikacja.tk^$all
 ||fb-fb-update.com^$all
 ||fb-restrictedcase-6a5fa.web.app^$all
 ||fb-service-login*.you2.pl^$all
@@ -7861,7 +7867,6 @@
 ||kup-teraz-237401.xyz^$all
 ||kup-teraz-859110.xyz^$all
 ||kurierdhl.com^$all
-||kurierfedex.pl^$all
 ||kurierf.icu^$all
 ||kurierzmojegomiastaa.site^$all
 ||kurier-naieznosc.host^$all
@@ -8072,6 +8077,7 @@
 ||login.ccc-office.com^$all
 ||login.microsoftorline.com^$all
 ||logononfb.n4t.co^$all
+||logowanie-bnpparibas.at^$all
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-potwierdz.xyz^$all
 ||logowanie-wieku.xyz^$all
@@ -9369,6 +9375,7 @@
 ||olx-pays.pl^$all
 ||olx-pay-dk.online^$all
 ||olx-pay-pl.su^$all
+||olx-pay-system.tk^$all
 ||olx-pay.myitem-items.pw^$all
 ||olx-pay.org^$all
 ||olx-pl3dsafety.dostawa-safety.cyou^$all
@@ -9435,6 +9442,7 @@
 ||olx-pl.my-dostawa.bar^$all
 ||olx-pl.my-dostawa.club^$all
 ||olx-pl.net^$all
+||olx-pl.nfotyjen.tk^$all
 ||olx-pl.oferta-payment.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl.oferta-pay.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl.oferto.cc^$all
@@ -9466,6 +9474,7 @@
 ||olx-polland.com^$all
 ||olx-polska.com^$all
 ||olx-polska.live^$all
+||olx-polska.ml^$all
 ||olx-polska.pl^$all
 ||olx-pol-and.app^$all
 ||olx-potwierdzenie.xyz^$all
@@ -10087,6 +10096,7 @@
 ||o-net4.pl^$all
 ||p0czta.net^$all
 ||p0dpf6.webwave.dev^$all
+||p0rtal-register.tk^$all
 ||p8dfy0.webwave.dev^$all
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
@@ -10440,6 +10450,7 @@
 ||payu.space^$all
 ||pay-home-*.*.*^$all
 ||pay-olxdostawa.pl^$all
+||pay-olx-system.tk^$all
 ||pay-olx.cf^$all
 ||pay-olx.gq^$all
 ||pay-pl.site^$all
@@ -10951,6 +10962,7 @@
 ||pl.olx-merchant.com^$all
 ||pl.olx-ofert.art^$all
 ||pl.olx-ofert.life^$all
+||pl.olx.fsb-pays.tk^$all
 ||pl.onlineshopoutlet2021.ru^$all
 ||pl.pay-mentos.online^$all
 ||pl.pcviruscare.com^$all
@@ -11247,6 +11259,7 @@
 ||pomoc-poczta.org.pl^$all
 ||pomoc-potrzeba.pl^$all
 ||pomoc-regulamin.online^$all
+||pomoc.techniczna-olx.com^$all
 ||pomokale.site^$all
 ||pomozecieludzie.pl^$all
 ||pomozpolaku466.rest^$all
@@ -11847,7 +11860,6 @@
 ||rozsylajmyrazem.pl^$all
 ||rozsylajmy-razem.pl^$all
 ||rsocial.info^$all
-||rt.sv^$all
 ||run-germany.com^$all
 ||ruralviacastleros.com^$all
 ||ruralvia-refosnage.com^$all
@@ -12317,6 +12329,7 @@
 ||snohmtegam.xyz^$all
 ||socialadvertise.com^$all
 ||socialclub55.xyz^$all
+||sociwod.ml^$all
 ||socksonclick.com^$all
 ||soft4click.com^$all
 ||softagesolution.com^$all
@@ -12426,6 +12439,7 @@
 ||ssll-payu.com^$all
 ||ssl-cert.pl^$all
 ||sso-cloud-idea-bank.at^$all
+||sso-cloud-idea.at^$all
 ||sso-cloud-idea.com^$all
 ||sspbadecz.ugu.pl^$all
 ||staemcommnunity.com^$all
@@ -12704,7 +12718,6 @@
 ||szybka7demka24h7.click^$all
 ||szybka-dostawa.pl^$all
 ||szybka-pomoc.eu^$all
-||szybkieinfo.pl^$all
 ||szybkiezycie1.online^$all
 ||szybkie-nadanja.in.net^$all
 ||szybkie-przesylki.xyz^$all
@@ -13545,7 +13558,6 @@
 ||webmail.blog-finanse.xyz^$all
 ||webmail.blog-finansowe.xyz^$all
 ||webmail.finansowy-blog.xyz^$all
-||webmail.santannarresijazz.it^$all
 ||webmail.sauthssecure.com^$all
 ||webmail.sseauthsecure.com^$all
 ||webmail.wloguje-teraz.xyz^$all
@@ -14221,6 +14233,7 @@
 ||ztejstronnytwojeradio.website^$all
 ||zumodi.com^$all
 ||zus-login.cf^$all
+||zus-wyplata.tk^$all
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
 ||zweryfikuj-platnosc.in.net^$all
