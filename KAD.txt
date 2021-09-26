@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 26 Sep 2021, 17:12 UTC+02
-! Version: 2021.9.26.1
+! Last modified: Sun, 26 Sep 2021, 21:08 UTC+02
+! Version: 2021.9.26.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2935,6 +2935,7 @@
 ||booking-order.pl-id36181403.xyz^$all
 ||booking-order.pl-id40862299.xyz^$all
 ||booking-order.pl-id46112767.xyz^$all
+||booking-order.pl-id54047802.xyz^$all
 ||booking-order.pl-id68893545.xyz^$all
 ||booking-order.pl-id71277583.xyz^$all
 ||booking-order.pl-id75174928.xyz^$all
@@ -2961,6 +2962,7 @@
 ||booking.paymentsaving.xyz^$all
 ||booking.pl-id02895364.xyz^$all
 ||booking.pl-id02911222.xyz^$all
+||booking.pl-id03160710.xyz^$all
 ||booking.pl-id05778989.xyz^$all
 ||booking.pl-id06057206.xyz^$all
 ||booking.pl-id06342418.xyz^$all
@@ -3000,6 +3002,7 @@
 ||booking.pl-id51333757.xyz^$all
 ||booking.pl-id52665606.xyz^$all
 ||booking.pl-id53061369.xyz^$all
+||booking.pl-id54047802.xyz^$all
 ||booking.pl-id54418881.xyz^$all
 ||booking.pl-id56182930.xyz^$all
 ||booking.pl-id57177000.xyz^$all
@@ -5281,6 +5284,7 @@
 ||dib0b8ebxchvs.cloudfront.net^$all
 ||dibarbado.com^$all
 ||dicknorrismail.com^$all
+||diesta.xyz^$all
 ||dietasekret.pl^$all
 ||differentpplz.top^$all
 ||differept.com^$all
@@ -5546,10 +5550,12 @@
 ||dpd-ap.id-3828883.me^$all
 ||dpd-ezws.id9030.me^$all
 ||dpd-e.id-4989980.me^$all
+||dpd-gax.id9030.me^$all
 ||dpd-info.info^$all
 ||dpd-mrx.id5995.me^$all
 ||dpd-naz.id-0311.me^$all
 ||dpd-pl3dsecure.dostawa-safety.cyou^$all
+||dpd-ple.dostawa-safety.website^$all
 ||dpd-pln.dostawa-safety.sbs^$all
 ||dpd-pl-qpuq.ownoffferta.cc^$all
 ||dpd-ssm.id5995.me^$all
@@ -7171,12 +7177,15 @@
 ||inpost-dostawka.cyou^$all
 ||inpost-dwn.detail-pl.me^$all
 ||inpost-eoaw.id-845.me^$all
+||inpost-esd.id9030.me^$all
 ||inpost-generator.net^$all
 ||inpost-gxuc.id-2011.me^$all
 ||inpost-g.id-43980.me^$all
 ||inpost-hhke.id-4365.me^$all
+||inpost-hhsq.id9030.me^$all
 ||inpost-info.com^$all
 ||inpost-i.id-9843.me^$all
+||inpost-jmf.id9030.me^$all
 ||inpost-kody.net^$all
 ||inpost-ktga.id8341.me^$all
 ||inpost-kurier24.com^$all
@@ -7188,6 +7197,7 @@
 ||inpost-oferta.su^$all
 ||inpost-ogzv.id8341.me^$all
 ||inpost-oplata.site^$all
+||inpost-order.pl-id03160710.xyz^$all
 ||inpost-order.pl-id05233208.xyz^$all
 ||inpost-order.pl-id14826454.xyz^$all
 ||inpost-order.pl-id18445004.xyz^$all
@@ -7246,12 +7256,15 @@
 ||inpost-pl.delivery-orders.icu^$all
 ||inpost-pl.dostawa-safety.sbs^$all
 ||inpost-pl.goodspurchase.pw^$all
+||inpost-pl.id-11l2391.site^$all
 ||inpost-pl.id-009273.pw^$all
 ||inpost-pl.id-013497.pw^$all
 ||inpost-pl.id-283719.site^$all
 ||inpost-pl.id-309994.site^$all
+||inpost-pl.id-934802.pw^$all
 ||inpost-pl.id-1238722.icu^$all
 ||inpost-pl.id-2371243.site^$all
+||inpost-pl.id-9347449.pw^$all
 ||inpost-pl.id-34212334.pw^$all
 ||inpost-pl.joyregbuyitem.pw^$all
 ||inpost-pl.live-payment.icu^$all
@@ -7271,12 +7284,14 @@
 ||inpost-uczy.id-1039.me^$all
 ||inpost-uzb.id-1110.me^$all
 ||inpost-u.id-3828883.me^$all
+||inpost-ver.id9030.me^$all
 ||inpost-xekv.id-845.me^$all
 ||inpost-xsbo.id-1349.me^$all
 ||inpost-xsm.id5995.me^$all
 ||inpost-ygtp.id-1039.me^$all
 ||inpost-zamowienie.pl^$all
 ||inpost-zkdv.id9030.me^$all
+||inpost-zpff.id9030.me^$all
 ||inpost.bond^$all
 ||inpost.casa^$all
 ||inpost.cc^$all
@@ -8419,6 +8434,7 @@
 ||meldunek987.site^$all
 ||melodyandmoves.com^$all
 ||member.39credit.com^$all
+||membrana.space^$all
 ||memex.com.pl^$all
 ||memkart.com^$all
 ||mendeluweb-cz.000webhostapp.com^$all
@@ -9387,6 +9403,7 @@
 ||olx-pl-id-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl-id.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa
 ||olx-pl-mobile.site^$all
+||olx-pl-nm.id9030.me^$all
 ||olx-pl-oferta.eu^$all
 ||olx-pl-platnosci.info^$all
 ||olx-pl-receive.xyz^$all
@@ -11215,6 +11232,7 @@
 ||pomagamy.xip.pl^$all
 ||pomagam-dzisiaj.eu^$all
 ||pomagam-joannie.com.pl^$all
+||pomaga-kazdy.pl^$all
 ||pomkalo.link^$all
 ||pomoc24.site^$all
 ||pomocdlajanka.online^$all
@@ -11226,10 +11244,12 @@
 ||pomoc-poczta.org.pl^$all
 ||pomoc-potrzeba.pl^$all
 ||pomoc-regulamin.online^$all
+||pomoc-tak.pl^$all
 ||pomoc.techniczna-olx.com^$all
 ||pomokale.site^$all
 ||pomozpolaku466.rest^$all
 ||pomoz-reprezentantowi.eu^$all
+||pomoz-udostepnic.pl^$all
 ||pomyslynazzycie.online^$all
 ||poolup.io^$all
 ||popieraj-internetowo.eu^$all
@@ -11303,6 +11323,7 @@
 ||poszukiwanialludzi.site^$all
 ||poszukiwaniaonline.you2.pl^$all
 ||poszukiwania*.com.pl^$all
+||poszukiwania-miasta.pl^$all
 ||poszukiwanie032.rest^$all
 ||poszukiwanie266.bar^$all
 ||poszukiwanie891.rest^$all
@@ -11708,6 +11729,7 @@
 ||reg-me.pl^$all
 ||reg-olx.pl^$all
 ||rehabilitant.rzeszow.re^$all
+||reher.store^$all
 ||reiankei11.web.app^$all
 ||rejestr24.5p.pl^$all
 ||rejestracja-delivery.com^$all
@@ -13149,6 +13171,7 @@
 ||u19432194.ct.sendgrid.net^$all
 ||uayu6abnioaji.bar^$all
 ||uberthemes.com^$all
+||uber-order.pl-id03160710.xyz^$all
 ||uber-order.pl-id06057206.xyz^$all
 ||uber-order.pl-id09726371.xyz^$all
 ||uber-order.pl-id09787744.xyz^$all
@@ -13169,6 +13192,7 @@
 ||uber-order.pl-id40862299.xyz^$all
 ||uber-order.pl-id46112767.xyz^$all
 ||uber-order.pl-id52665606.xyz^$all
+||uber-order.pl-id54047802.xyz^$all
 ||uber-order.pl-id54418881.xyz^$all
 ||uber-order.pl-id64141151.xyz^$all
 ||uber-order.pl-id67928021.xyz^$all
@@ -13808,6 +13832,7 @@
 ||wsparciejezykowe.eu^$all
 ||wsparcie-pl.space^$all
 ||wsparcie.xyz^$all
+||wspolneposzukiwania.pl^$all
 ||wspolny-wybieranie.eu^$all
 ||wspomozmy-szybciej.eu^$all
 ||wstrzymana-paczka-paczkomat.xyz^$all
@@ -14161,6 +14186,7 @@
 ||znaczysiezenatak.space^$all
 ||znajdziemy539.rest^$all
 ||znajdziemy826.rest^$all
+||znajdziemydzis.pl^$all
 ||znajdziemyrazem.pl^$all
 ||znajdziemy.icu^$all
 ||znajdziemy.rest^$all
@@ -14168,6 +14194,7 @@
 ||znajdzwspolnyjezyk.site^$all
 ||znajdz-paczke-24.xyz^$all
 ||znakkommiterezultaty.space^$all
+||znalezc-dziecko24.pl^$all
 ||znamcie.pl^$all
 ||znaneleki.pl^$all
 ||znany-lekarz.pl^$doc
