@@ -1,4 +1,3 @@
-||listaglawo.com^$all
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$document,domain=biz
@@ -105,6 +104,7 @@
 ||lexlale.com.pl^$all
 ||liin.ml^$all
 ||limitedprizes.net^$all
+||listaglawo.com^$all
 ||localcamsfinder.com^$all
 ||lockeddeal.com^$all
 ||luckyducknet.com^$all
