@@ -4,7 +4,6 @@ alltube.pl,alltube.tv#?#.row > div.col-sm-12:has( > .headline + div.row > div > 
 cba.pl#?#body > div[style*="position"]:has( > div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 dobreprogramy.pl#?#article#main-content [href*=","]:has-text(naszego poradnika):upward(4) > div:nth-of-type(-n+3)
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
-/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=cloudfront.net|~asystent-pobierania-na-komputerswiat-dobreprogramy*
 fili.cc##a[href^="/download/file"]
 filme.pl##a[href*="http://leadmy.pl/"]
 filme.pl#?#.float-xl-left.col-lg-8 > div.mb-3.card:nth-of-type(odd):nth-of-type(-n+3):has(a[href*="http://leadmy.pl/"])
@@ -21,6 +20,7 @@ tyfloswiat.pl##^responseheader(location)
 ##a[href^="sms:"][href*="?body="]
 /pobierz_*.exe$document
 /*-AsystentPobierania_*.exe$document
+/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy*|cloudfront.net
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
