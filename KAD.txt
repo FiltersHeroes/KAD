@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 03 Oct 2021, 13:08 UTC+02
-! Version: 2021.10.3.0
+! Last modified: Sun, 03 Oct 2021, 17:08 UTC+02
+! Version: 2021.10.3.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -9719,6 +9719,7 @@
 ||olx-express-delivery.pl^$all
 ||olx-e.pl^$all
 ||olx-finansowanie.cam^$all
+||olx-gbjs.pl-id52185343.xyz^$all
 ||olx-gbjs.pl-id66424107.xyz^$all
 ||olx-gbjs.pl-id91152350.xyz^$all
 ||olx-ginza.com^$all
@@ -9959,6 +9960,7 @@
 ||olx.oplata-is.com^$all
 ||olx.orders-pls.biz^$all
 ||olx.payd01.online^$all
+||olx.payd04.online^$all
 ||olx.payd17.info^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -14062,6 +14064,7 @@
 ||vinted-rcqk.id8341.me^$all
 ||vinted-sqfd.id-1349.me^$all
 ||vinted.cc^$all
+||vinted.vip^$all
 ||vipshorka.info^$all
 ||viralka.pl^$all
 ||virgilio2021.com^$all
