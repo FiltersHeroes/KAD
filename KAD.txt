@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 03 Oct 2021, 19:31 UTC+02
-! Version: 2021.10.3.1
+! Last modified: Sun, 03 Oct 2021, 21:08 UTC+02
+! Version: 2021.10.3.3
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -6487,6 +6487,7 @@
 ||fit-poradnik.pl^$all
 ||fixly.pro^$all
 ||fixly.work^$all
+||fkty24.pl^$all
 ||flaginpocket.com^$all
 ||flashplayerpl.top^$all
 ||flashplayer-info.top^$all
@@ -7372,6 +7373,7 @@
 ||inpost-agtd.pl-id04399419.xyz^$all
 ||inpost-agtd.pl-id54503522.xyz^$all
 ||inpost-agtd.pl-id59514574.xyz^$all
+||inpost-aij.id949449.me^$all
 ||inpost-a.id-43980.me^$all
 ||inpost-cde.id5345.me^$all
 ||inpost-cnm.id949449.me^$all
@@ -7638,6 +7640,7 @@
 ||ipanemapolska.com^$all
 ||ipkobiznes.live^$all
 ||ipkobiznes.uk^$all
+||ipkod3.com^$all
 ||ipko-bisznes.com^$all
 ||ipko-biznesbp.com^$all
 ||ipko-biznes-log.com^$all
@@ -9679,6 +9682,7 @@
 ||olx-pl.ez-pays.ru^$all
 ||olx-pl.getc.icu^$all
 ||olx-pl.id*.ru^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx-pl.id-940594.pw^$all
 ||olx-pl.id-2452767.site^$all
 ||olx-pl.id-18011017.site^$all
 ||olx-pl.info^$all
