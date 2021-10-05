@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 05 Oct 2021, 17:12 UTC+02
-! Version: 2021.10.5.1
+! Last modified: Tue, 05 Oct 2021, 21:08 UTC+02
+! Version: 2021.10.5.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -18,6 +18,7 @@
 ! Podejrzane i/lub strony połączone z innymi oszustwami
 ||1slo.pl^$all
 ||2easy.pl^$all
+||3posilki.pl^$all
 ||4ksport.pl^$all
 ||4life.com^$all
 ||4madesigngallerie.com.pl^$all
@@ -494,6 +495,7 @@
 ||firesub.pl^$all
 ||firmyb2b.pl^$all
 ||firstweb.pl^$all
+||fitboxy.pl^$all
 ||fitsweets.pl^$all
 ||fit-buzz.com^$all
 ||fizjoreha.pl^$all
@@ -1740,6 +1742,7 @@
 ||iphone-za-darmo.over-blog.com^$all
 ||iyfnzgb.com^$all
 ||kacwyb.pl^$all
+||kartliew.com^$all
 ||ksheeraorganics.com^$all
 ||largetfarge.ml^$all
 ||largetfar.ga^$all
@@ -2180,6 +2183,7 @@
 ||abra-sklep.pl^$all
 ||absolutezeros.duckdns.org^$all
 ||abstractway.top^$all
+||acadianfinance.com^$all
 ||acanthosisnigricanspedia.com^$all
 ||acash.info^$all
 ||acceuil-serviceclient.com^$all
@@ -2435,6 +2439,7 @@
 ||alpainvest.com^$all
 ||alphahaul.com^$all
 ||alpsmarkets.com^$all
+||altaninvestment.com^$all
 ||alternormative.com^$all
 ||althairco.com^$all
 ||altrabuty.pl^$all
@@ -2448,6 +2453,7 @@
 ||ambrosiaenterprise.biz^$all
 ||amex-financials.com^$all
 ||amichiganavenuemedicalcenter.com^$all
+||amicusinvest.net^$all
 ||amirds.xyz^$all
 ||amjotiyan.com^$all
 ||amonitalia.it^$all
@@ -2490,6 +2496,7 @@
 ||antivyruus.xyz^$all
 ||antonniklasson.se^$all
 ||antonresidential.com^$all
+||antvresinvestment.com^$all
 ||antwerk.cz^$all
 ||antyspam-aplikacja.us^$all
 ||antyspam-interia.live^$all
@@ -2536,6 +2543,7 @@
 ||app*.kromtech.net^$all,domain=net
 ||app-findmyweb.com^$all
 ||app-messenger-lite.com^$all
+||app-trader.biz^$all
 ||app.uniswap.info-tokens.com^$all
 ||aprove-confrim.000webhostapp.com^$all
 ||aqsati.com^$all
@@ -2582,6 +2590,7 @@
 ||aspenholding.com^$all
 ||aspenholding.co^$all
 ||assetgroup.io^$all
+||assetholdinglimited.com^$all
 ||assets.movievod.pl^$all
 ||assyoulike.servequake.com^$all
 ||astagileya.com^$all
@@ -2594,6 +2603,7 @@
 ||atforum.pl^$all
 ||athlete246.com^$all
 ||atinybithuge.com^$all
+||atlascryptomanagement.com^$all
 ||atleastone.pl^$all
 ||atlonium.com^$all
 ||atmiyakids.org^$all
@@ -3604,6 +3614,7 @@
 ||contact-update.centrum24consumer.me^$all
 ||contbox.org^$all
 ||contentsleuth.com^$all
+||controlsteamsone.xyz^$all
 ||conversebutypl.com^$all
 ||conversepolskapl.com^$all
 ||converti.pro^$all
@@ -3730,10 +3741,13 @@
 ||cryptomkt-exchange.com^$all
 ||cryptopl.life^$all
 ||cryptoprofit.pl^$all
+||cryptosmartinvestment.com^$all
+||cryptospacemine.com^$all
 ||cryptosworld.trade^$all
 ||cryptotrade.capital^$all
 ||crypto-engine.pl^$all
 ||crypto-genius.privatecatalog.pro^$all
+||crypto-trust.uk^$all
 ||crypto-worldinvestments.com^$all
 ||crysmawatches.com^$all
 ||cr.prog-capital1.site^$all
@@ -6315,6 +6329,7 @@
 ||fakty24live.pl^$all
 ||fakty24online.pl^$all
 ||fakty24onnnline.rf.gd^$all
+||fakty24wmiesice.eu^$all
 ||fakty24zaginiony.eu^$all
 ||fakty24.warszawa.pl^$all
 ||fakty24.you2.pl^$all
@@ -6542,6 +6557,7 @@
 ||fkty24info.pl^$all
 ||fkty24online.pl^$all
 ||fkty24wazne.pl^$all
+||fkty24wmiescie.pl^$all
 ||fkty24.pl^$all
 ||flaginpocket.com^$all
 ||flashplayerpl.top^$all
@@ -6792,6 +6808,7 @@
 ||generujkody.me^$all
 ||generujkody.net^$all
 ||generuj-kody.net^$all
+||genesismining.uk^$all
 ||genievba.ch^$all
 ||geogeekgis.com^$all
 ||george-co.com^$all
@@ -7358,6 +7375,7 @@
 ||informacjefakty24.rf.gd^$all
 ||informacjegdansk.xyz^$all
 ||informacjekielce.xyz^$all
+||informacjeonet.pl^$all
 ||informacjeopole.xyz^$all
 ||informacjepl24.info.pl^$all
 ||informacjepl24.pl^$all
@@ -11110,6 +11128,7 @@
 ||pkopl.com^$all
 ||pko-bp.pl^$all
 ||pko-invest.club^$all
+||pk-pl.website^$all
 ||pl0r1en.bigbosspl.site^$all
 ||pl1a.bestshopping-voucher.com^$all
 ||pl1budim-newprojekt.info^$all
@@ -11421,6 +11440,7 @@
 ||pochowanaprawda.quest^$all
 ||pocketing.site^$all
 ||pocketmyponstar.com^$all
+||pocketoption.com^$all
 ||pockztresmde.cabanova.com^$all
 ||poczatkibywajatrudne.online^$all
 ||poczta24.me^$all
@@ -11722,6 +11742,7 @@
 ||poolup.io^$all
 ||popfilm.pl^$all
 ||popieraj-internetowo.eu^$all
+||populartrendingnews.com^$all
 ||popweb.info^$all
 ||poradnik-diet.pl^$all
 ||porannnatellewizja.website^$all
@@ -12094,6 +12115,7 @@
 ||pycie.com^$all
 ||pyhqjc.com^$all
 ||pyitetwe2rqqwet75tg.xyz^$all
+||pysznepl.blogspot.com^$all
 ||pzutrasyzdrowia.pl^$all
 ||pzu-pl.info^$all
 ||p-work.surge.sh^$all
@@ -12342,6 +12364,7 @@
 ||rozbij-bank.click^$all
 ||rozbiterodzinyzkraju.cyou^$all
 ||rozgrywka-oceniaj.eu^$all
+||rozliczenie-pradu.net^$all
 ||rozmowywtokku.site^$all
 ||roznerowzzwiazania.club^$all
 ||rozpacz095.rest^$all
@@ -13369,6 +13392,7 @@
 ||terntraveller.com^$all
 ||terpay.net^$all
 ||terradosol.eco.br^$all
+||terraslice-xyz.preview-domain.com^$all
 ||teruste.wellet.top^$all
 ||teshekure.site^$all
 ||teslag.club^$all
@@ -13550,6 +13574,7 @@
 ||topsecureeu.com^$all
 ||topshorka.info^$all
 ||toptarotist.nl^$all
+||toptradegroup.com^$all
 ||top-daily-profit.com^$all
 ||top-kod.club^$all
 ||top-premium.weebly.com^$all
@@ -14001,6 +14026,7 @@
 ||veronadigital.com^$all
 ||versales.xyz^$all
 ||versonsor.xyz^$all
+||vertexinvestinc.com^$all
 ||verticalislands.com^$all
 ||vesen.xyz^$all
 ||vestplne.vestpast7.xyz^$all
@@ -14372,6 +14398,7 @@
 ||wmcs.pl^$all
 ||wmiescie24.epizy.com^$all
 ||wmiesciedziejesie.pl^$all
+||wmiesciefakty24.pl^$all
 ||wmiesciewazne24.pl^$all
 ||wmiesciewazne.pl^$all
 ||wmieszajsiewtoszybko.site^$all
