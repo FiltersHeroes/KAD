@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 06 Oct 2021, 21:07 UTC+02
-! Version: 2021.10.6.2
+! Last modified: Thu, 07 Oct 2021, 01:05 UTC+02
+! Version: 2021.10.7.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1020,6 +1020,7 @@
 ||oszukacruletke.like.pl^$all
 ||outletowo.com^$all
 ||outletpumabuty.com^$all
+||outletto24.com^$all
 ||pacyfka99.pl^$all
 ||paczuli.pl^$all
 ||paifemouchoa.com^$all
@@ -1659,6 +1660,7 @@
 ||adaranth.com^$all
 ||adsbtrack.com^$all
 ||adservd.com^$all
+||agloclar.com^$all
 ||alatcommu.gq^$all
 ||alfik-fik.com^$all
 ||allgo.xyz^$all
@@ -1849,6 +1851,7 @@
 ||xn--30986-udb.biz^$all
 ||xtroglobal.com^$all
 ||yarlnk.com^$all
+||youtube.com.*.*.com^$all,domain=com|~youtube.com
 ||yyn.us^$all
 ||zetreview.com^$all
 !
@@ -2792,6 +2795,7 @@
 ||bestfloorcoatings.com^$all
 ||bestforbikers.com^$all
 ||bestgiftcodes.com^$all
+||besthealthpeoples.com^$all
 ||bestia.cyou^$all
 ||bestinflotpl.info^$all
 ||bestlifepress.com^$all
@@ -3568,6 +3572,7 @@
 ||closetalk.ca^$all
 ||cloudburstartsinesses.info^$all
 ||cloud-ideabank.at^$all
+||cloud-idea-sso.at^$all
 ||cloud-idea.at^$all
 ||cloud-sso-idea.at^$all
 ||clpfoundation.org^$all
@@ -6036,6 +6041,7 @@
 ||ecomerce-fin.website^$all
 ||ecommerce-lotos.website^$all
 ||ecomobilni.pl^$all
+||economistguide.com^$all
 ||economy-trust.com^$all
 ||eco-finance.website^$all
 ||eco-financion.site^$all
@@ -7697,6 +7703,7 @@
 ||inpost.pl-c.cf^$all
 ||inpost.pl-getpaid.cyou^$all
 ||inpost.pl-gotpay.icu^$all
+||inpost.pl-konto-id803.site^$all
 ||inpost.pl-orderpaid.cyou^$all
 ||inpost.pl-paidcash.icu^$all
 ||inpost.pl-paid.icu^$all
@@ -8504,6 +8511,7 @@
 ||login-paribas.info^$all
 ||login.microsoftorline.com^$all
 ||logononfb.n4t.co^$all
+||logowanie-bnpparibas.at^$all
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-potwierdz.xyz^$all
 ||logowanie-wieku.xyz^$all
@@ -11038,6 +11046,7 @@
 ||peoplehere820.club^$all
 ||peoplehere820.shop^$all
 ||peoplehere820.work^$all
+||peoplewellbeings.com^$all
 ||pepcopolsskaa.blogspot.com^$all
 ||peraarna.com^$all
 ||perfakamo.tk^$all
@@ -11516,6 +11525,7 @@
 ||pl.pl2021.ru^$all
 ||pl.plsystem8.xyz^$all
 ||pl.polskikoncernnaftowy.com^$all
+||pl.potwierdzenie.info^$all
 ||pl.profitmaximizer-app.com^$all
 ||pl.program-orl1.xyz^$all
 ||pl.progs-news.info^$all
@@ -11934,6 +11944,7 @@
 ||poszukiwania776.rest^$all
 ||poszukiwanialludzi.site^$all
 ||poszukiwaniaonet.com.pl^$all
+||poszukiwaniaonet.eu^$all
 ||poszukiwaniaonet.info.pl^$all
 ||poszukiwaniaonet.net.pl^$all
 ||poszukiwaniaonet.pl^$all
@@ -12281,6 +12292,7 @@
 ||radiorage.com^$all
 ||radiorodzinnypolska.site^$all
 ||radio-stargard.onrender.com^$all
+||radnost-com.preview-domain.com^$all
 ||raiderdrama.com^$all
 ||rajska-wyspa.click^$all
 ||randewoo.ir^$all
@@ -13119,6 +13131,7 @@
 ||ssll-payu.com^$all
 ||ssl-cert.pl^$all
 ||sso-cloud-idea-bank.at^$all
+||sso-cloud-idea.at^$all
 ||sso-cloud-idea.com^$all
 ||sspbadecz.ugu.pl^$all
 ||staaytrue.site^$all
