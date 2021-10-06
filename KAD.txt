@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 05 Oct 2021, 21:08 UTC+02
-! Version: 2021.10.5.2
+! Last modified: Wed, 06 Oct 2021, 13:08 UTC+02
+! Version: 2021.10.6.0
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2073,6 +2073,7 @@
 ||09sms.in^$all
 ||9sms.xyz^$all
 ||10iski.com^$all
+||11shots.com^$all
 ||11sms.xyz^$all
 ||13markets.com^$all
 ||20-55-32-61.cprapid.com^$all
@@ -2174,6 +2175,7 @@
 ||abctbenmsmlcmfm.ru^$all
 ||abc.amaretto.xja.pl^$all
 ||abdulkanjo.com^$all
+||abdullahturan.com^$all
 ||abetott.com^$all
 ||abomfartrdsgdf.webcindario.com^$all
 ||aboutk-448.me^$all
@@ -2347,6 +2349,7 @@
 ||aliencoding.com^$all
 ||aliorbank.io^$all
 ||aliordokumenty.top^$all
+||alior.mybank.sbs^$all
 ||alkily.com^$all
 ||allaboutyouadultyouthservices.com^$all
 ||allblues.co.kr^$all
@@ -2363,6 +2366,7 @@
 ||allegrolokalnie.one^$all
 ||allegrolokalnie.pl.transpbuyitemss.pw^$all
 ||allegrolokalnie.site^$all
+||allegrolokalnie.tk^$all
 ||allegrolokalnie.*^$document,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl
 ||allegrolokalnii.digital^$all
 ||allegroloklinie-oferta*.xyz^$all
@@ -2392,6 +2396,7 @@
 ||allegro-lokalniie.fun^$all
 ||allegro-m.pl^$all
 ||allegro-order.pl-id02895364.xyz^$all
+||allegro-order.pl-id57496769.xyz^$all
 ||allegro-order.pl-id84566876.xyz^$all
 ||allegro-pl-7e2a33.ingress-daribow.easywp.com^$all
 ||allegro-pl.lokalnie.digital^$all
@@ -2543,6 +2548,7 @@
 ||app*.kromtech.net^$all,domain=net
 ||app-findmyweb.com^$all
 ||app-messenger-lite.com^$all
+||app-netflix.ratedyork.tk^$all
 ||app-trader.biz^$all
 ||app.uniswap.info-tokens.com^$all
 ||aprove-confrim.000webhostapp.com^$all
@@ -2607,6 +2613,7 @@
 ||atleastone.pl^$all
 ||atlonium.com^$all
 ||atmiyakids.org^$all
+||atom-sklep.pl^$all
 ||atq.gentrad.xyz^$all
 ||atriumset.com^$all
 ||atrorema.com^$all
@@ -2681,6 +2688,9 @@
 ||bajeranckie.pl^$all
 ||bajkowedekoracje.pl^$all
 ||bajkowestokrotki.cba.pl^$all
+||balardo-sklep.com.pl^$all
+||balardo-sklep.pl^$all
+||balard-sklep.pl^$all
 ||ballstonhotels.com^$all
 ||bananasimplicity.com^$all
 ||bando-com.preview-domain.com^$all
@@ -2850,6 +2860,7 @@
 ||bijouxaccessories.com^$all
 ||bik-alert.com^$all
 ||bilard.cyou^$all
+||billetandbellows.com^$all
 ||billing.veronadigital.com^$all
 ||billybilly.org^$all
 ||binijadibaik.com^$all
@@ -2859,6 +2870,7 @@
 ||biopiracydrat.info^$all
 ||bioscreencast.com^$all
 ||bioslimin.pl^$all
+||bireysele-basvurum-destek-kampanyalar.tk^$all
 ||birox.weebly.com^$all
 ||biskup.waw.pl^$all
 ||bisnitaturk.pl^$all
@@ -2984,6 +2996,7 @@
 ||bnpglobalbank.com^$all
 ||bnppalba-biznesplanet.com^$all
 ||bnpparibas-secure-biznes.at^$all
+||bnpparibas.mybank.sbs^$all
 ||bnpsecured.online^$all
 ||bn-allorbank.com^$all
 ||bobali.xyz^$all
@@ -2996,6 +3009,7 @@
 ||bohemian-rhapsody-2018-online-napisy-pl-cda.over-blog.com^$all
 ||boiled-sulky-cupboard.glitch.me^$all
 ||boipelohlatshwayo.com^$all
+||bolard-sklep.pl^$all
 ||bolumyolu.com^$all
 ||bombardina.pl^$all
 ||bonares.pl^$all
@@ -3168,6 +3182,7 @@
 ||bostoncosmo.com^$all
 ||bos-bank.com^$all
 ||bos-logowanie-24.com^$all
+||botik-sklep.pl^$all
 ||boulevardcapivari.com^$all
 ||boxdelivery.org^$all
 ||boxsec.org^$all
@@ -3374,6 +3389,7 @@
 ||caropdeyo.com^$all
 ||caropeyo.com^$all
 ||carroemotors.com^$all
+||carsfreaks.pl^$all
 ||cashforgoldandsilver.com^$all
 ||cashmastersummer.site^$all
 ||cashmastersummer.website^$all
@@ -3404,6 +3420,7 @@
 ||ccsms.in^$all
 ||ccsms.xyz^$all
 ||ccswpsvc.com^$all
+||cct3.polska-pro1.xyz^$all
 ||cda360.pl^$all
 ||cdaflix.eu^$all
 ||cdaflix.pl^$all
@@ -3721,6 +3738,7 @@
 ||credito.com.pl^$all
 ||credity.se^$all
 ||credit-agricole-fr.de.cool^$all
+||credit-agricole.mybank.sbs^$all
 ||creoup.com^$all
 ||crimson-koalas.com^$all
 ||criptoeconomia.com.br^$all
@@ -4814,10 +4832,12 @@
 ||d7jbuufvx91a2.cloudfront.net^$all
 ||d7lxlh4if9p6a.cloudfront.net^$all
 ||d7nfyd324n564.cloudfront.net^$all
+||d0007starpage.co.vu^$all
 ||d7x2ikwpy9c2i.cloudfront.net^$all
 ||d8f49rx3et1vc.cloudfront.net^$all
 ||d8k8yw18dq88h.cloudfront.net^$all
 ||d8nbw94ijwuz8.cloudfront.net^$all
+||d8ngmjbrgjcup.ing.mybank.sbs^$all
 ||d8qnwy97s4e37.cloudfront.net^$all
 ||d8ygmywl0ctae.cloudfront.net^$all
 ||d8zjz4k1qejn0.cloudfront.net^$all
@@ -5225,6 +5245,7 @@
 ||daj79f6cjleuy.cloudfront.net^$all
 ||dajuvai.com^$all
 ||dalsari.com^$all
+||dalsza-droga.tk^$all
 ||damewortskeypunchers.info^$all
 ||damianek24.eu^$all
 ||damulki.online^$all
@@ -5748,6 +5769,7 @@
 ||dpd-info.info^$all
 ||dpd-naz.id-0311.me^$all
 ||dpd-pl-qpuq.ownoffferta.cc^$all
+||dpd.order-repays.xyz^$all
 ||dpejwyk5eyul1.cloudfront.net^$all
 ||dpkb8wsd5bmct.cloudfront.net^$all
 ||dppn96depxyay.cloudfront.net^$all
@@ -5927,6 +5949,7 @@
 ||dziennik-bialystok.xyz^$all
 ||dziennik-bytom.xyz^$all
 ||dziennik-inf.xyz^$all
+||dziennik-weryfikacja.tk^$all
 ||dziennik.warszawa.pl^$all
 ||dziennik.waw.pl^$all
 ||dziewczyn.pl^$all
@@ -6116,6 +6139,7 @@
 ||enpgnig.pl^$all
 ||enpsguinee.com^$all
 ||ensanguineductile.info^$all
+||enterthebitcoin.com^$all
 ||enuinthet.com^$all
 ||enuiregncxzyasdfhgasdk78c19mc9m2ihjdfsufdaf.rest^$all
 ||eparki.com^$all
@@ -6280,6 +6304,7 @@
 ||facebookleak.com^$all
 ||facebookweryfikacja.cf^$all
 ||facebookweryfikacja.ga^$all
+||facebookweryfikacja.tk^$all
 ||facebook*.5v.pl^$all
 ||facebook*.7m.pl^$all
 ||facebook-account.xyz^$all
@@ -6343,6 +6368,7 @@
 ||fakty-onet48.*^$all
 ||fakty-polska24.eu^$all
 ||fakt*.is-best.net^$all
+||fakt.pomoz-rozpoznac-sprawce.tk^$all
 ||famecala.com^$all
 ||famfunj.com^$all
 ||famiecomea.com^$all
@@ -6394,6 +6420,7 @@
 ||fbvetu.n4t.co^$all
 ||fbvverifier.mypi.co^$all
 ||fbweryfikacja.cf^$all
+||fbweryfikacja.tk^$all
 ||fb-fb-update.com^$all
 ||fb-restrictedcase-6a5fa.web.app^$all
 ||fb-service-login*.you2.pl^$all
@@ -6555,6 +6582,7 @@
 ||fixly.pro^$all
 ||fixly.work^$all
 ||fkty24info.pl^$all
+||fkty24miasto.pl^$all
 ||fkty24online.pl^$all
 ||fkty24wazne.pl^$all
 ||fkty24wmiescie.pl^$all
@@ -6923,6 +6951,7 @@
 ||goldluckinvestment.com^$all
 ||gold-barber.pl^$all
 ||goleta105.com^$all
+||golfpak.com^$all
 ||gologfbb.tcp4.me^$all
 ||golovne.xyz^$all
 ||gomaxits.com^$all
@@ -7238,6 +7267,7 @@
 ||hzoponkarz.j.pl^$all
 ||hzw6cy.webwave.dev^$all
 ||i26339jhf37fu2.bar^$all
+||iamdlowofficial.com^$all
 ||iamtanvir.net^$all
 ||iansoutar.com^$all
 ||iapartamentydeluxe.pl^$all
@@ -7248,6 +7278,7 @@
 ||ibmusa007.s3.us-south.cloud-object-storage.appdomain.cloud^$all
 ||ibriffath.com^$all
 ||ibuzsklep.com^$all
+||ice2art.com^$all
 ||icloud.findmy.uk.com^$all
 ||icloud.ru.com^$all
 ||icmarkets-zhg.cn^$all
@@ -7412,6 +7443,7 @@
 ||informacyjnemiasto24.rf.gd^$all
 ||informacyjnie24.rf.gd^$all
 ||informacyjniefakty.pl^$all
+||informacyjnie-2.ct8.pl^$all
 ||informacyjnie.radom.pl^$all
 ||informacyjny-punkt.eu^$all
 ||informator-reg.pl^$all
@@ -7463,6 +7495,7 @@
 ||inipost.net^$all
 ||inipoy.net^$all
 ||inlink.casa^$all
+||innabtys.com^$all
 ||innowacja-pl.info^$all
 ||innsat.pl^$all
 ||innymrazemnatak.site^$all
@@ -7497,6 +7530,7 @@
 ||inpost-cde.id5345.me^$all
 ||inpost-cnm.id949449.me^$all
 ||inpost-conf.pl-id12754996.xyz^$all
+||inpost-conf.pl-id14597533.xyz^$all
 ||inpost-conf.pl-id25631539.xyz^$all
 ||inpost-conf.pl-id48043960.xyz^$all
 ||inpost-c.id-3828883.me^$all
@@ -7513,6 +7547,7 @@
 ||inpost-dwn.detail-pl.me^$all
 ||inpost-eoaw.id-845.me^$all
 ||inpost-gbjs.pl-id10903722.xyz^$all
+||inpost-gbjs.pl-id14597533.xyz^$all
 ||inpost-gbjs.pl-id22799899.xyz^$all
 ||inpost-gbjs.pl-id53375721.xyz^$all
 ||inpost-gbjs.pl-id66424107.xyz^$all
@@ -7523,6 +7558,7 @@
 ||inpost-hhke.id-4365.me^$all
 ||inpost-igmr.pl-id48127002.xyz^$all
 ||inpost-igmr.pl-id56643255.xyz^$all
+||inpost-igmr.pl-id57496769.xyz^$all
 ||inpost-igmr.pl-id66400819.xyz^$all
 ||inpost-igmr.pl-id84566876.xyz^$all
 ||inpost-igmr.pl-id91152350.xyz^$all
@@ -7773,6 +7809,7 @@
 ||ipko-bussines.com^$all
 ||ipko-buziness.com^$all
 ||ipko.club^$all
+||ipko.mybank.sbs^$all
 ||ipko.us^$all
 ||iporwaniedziecka24.*^$all
 ||ippka.xyz^$all
@@ -7850,6 +7887,7 @@
 ||jamesryg.com^$all
 ||jamster.pl^$all
 ||jamu.kundalinisam.ru^$all
+||janabolinews.com^$all
 ||jannahqu.org^$all
 ||jannatkhah.ir^$all
 ||janzwolinski.freehost.pl^$all
@@ -7895,6 +7933,7 @@
 ||jijisa.com^$all
 ||jilarohtas.com^$all
 ||jinaria.com^$all
+||jkonulov-com.preview-domain.com^$all
 ||jloresko-xyz.preview-domain.com^$all
 ||jmbase.my^$all
 ||jnfjwaevc.bdad41f.cn^$all
@@ -7936,6 +7975,7 @@
 ||justdoitinvest.website^$all
 ||justinvestpl.info^$all
 ||justsoldphilly.com^$all
+||just-business.website^$all
 ||just-bussiness.website^$all
 ||just-education.info^$all
 ||jutrobedzie.is-best.net^$all
@@ -8238,6 +8278,7 @@
 ||lajlaa.com^$all
 ||lakomlacen.com^$all
 ||lalasagna.com^$all
+||lamon-sklep.pl^$all
 ||lamppli.com^$all
 ||lander.pl^$all
 ||landing-inglesya.com^$all
@@ -8262,6 +8303,7 @@
 ||latarkapowerstyle-pl.com^$all
 ||latateraz.icu^$all
 ||latoriel.xyz^$all
+||latte-sklep.pl^$all
 ||latwocizaimponowac.site^$all
 ||latwozdobyclatwouzyc.site^$all
 ||laughing-mccarthy-2f7621.netlify.app^$all
@@ -8299,6 +8341,9 @@
 ||lekarz.cyou^$all
 ||lekebebek.com^$all
 ||lektor-cda.pl^$all
+||lemonsklep.com.pl^$all
+||lemon-sklep.com.pl^$all
+||lemon-sklep.pl^$all
 ||lemosindram.com^$all
 ||lena-moda.shop^$all
 ||lending-for-europe.eu^$all
@@ -8342,6 +8387,8 @@
 ||limitedvalley.com^$all
 ||limitowanebiznesiki24.site^$all
 ||limkon.com^$all
+||limonkasklep.pl^$all
+||limonsklep.pl^$all
 ||lindensuttee.info^$all
 ||linebox.in^$all
 ||lingojob.com^$all
@@ -8355,7 +8402,9 @@
 ||linkssd.com^$all
 ||link.missusextraextra.com^$all
 ||liquidityaggregator.com^$all
+||liquidy-sklep.pl^$all
 ||liquid-lifestyles.com^$all
+||liquid-sklep.pl^$all
 ||lirehub.com^$all
 ||listcontrolsite.com^$all
 ||lisweek.pl^$all
@@ -8578,6 +8627,8 @@
 ||luknijfilm.pl^$all
 ||luknij.video^$all
 ||luminnotik.xyz^$all
+||lumion-sklep.com.pl^$all
+||lumion-sklep.pl^$all
 ||lutz-blades.pl^$all
 ||luvisaloon.com^$all
 ||luvisaloon.lemosindram.com^$all
@@ -8632,6 +8683,7 @@
 ||makanaliabadian.ir^$all
 ||makeyourmoney.space^$all
 ||make-by-yourown.com^$all
+||makroekonomia.mbank.mybank.sbs^$all
 ||maksimum824.bar^$all
 ||maktgnitao3.info^$all
 ||malereikunst.com^$all
@@ -8749,6 +8801,7 @@
 ||mbankpl.pw^$all
 ||mbank-cz.online^$all
 ||mbank-pl.com^$all
+||mbank.mybank.sbs^$all
 ||mboxs.org^$all
 ||mb-olx.pl^$all
 ||mdelivery.olx-pl.link^$all
@@ -8789,10 +8842,14 @@
 ||mega-gry.com^$all
 ||mega-wpadki.m44m.cloud^$all
 ||meierweb.com^$all
+||mejkmi.pl^$all
 ||melahu.epionaspravka.ru^$all
 ||meldujemy.gmina.pl^$all
 ||meldunek987.site^$all
 ||melodyandmoves.com^$all
+||meloniksklep.pl^$all
+||melon-sklep.com.pl^$all
+||melon-sklep.pl^$all
 ||melotion-site.preview-domain.com^$all
 ||member.39credit.com^$all
 ||memex.com.pl^$all
@@ -8856,6 +8913,7 @@
 ||millano.xyz^$all
 ||millbunss.xyz^$all
 ||millenet-login.com^$all
+||millennium.mybank.sbs^$all
 ||millensbank.*^$all
 ||millensbannk.*^$all
 ||millensbbannk.*^$all
@@ -9205,6 +9263,7 @@
 ||neon81552.site^$all
 ||neqtarin.com^$all
 ||nerefors.fun^$all
+||nermal-sklep.pl^$all
 ||nerminyazar.com^$all
 ||nerwa.space^$all
 ||nerwowy262.rest^$all
@@ -9350,6 +9409,7 @@
 ||nordic16.com^$all
 ||noriasiankitchen.com^$all
 ||norisha.pl^$all
+||normal-sklep.pl^$all
 ||noromendo.xyz^$all
 ||noroviruspedia.com^$all
 ||northernswine.com^$all
@@ -9794,6 +9854,7 @@
 ||olx-pays.pl^$all
 ||olx-pay-dk.online^$all
 ||olx-pay-pl.su^$all
+||olx-pay-system.tk^$all
 ||olx-pay.myitem-items.pw^$all
 ||olx-pay.org^$all
 ||olx-plazyj.ownoffferta.cc^$all
@@ -9838,6 +9899,7 @@
 ||olx-pl.id-1723748.site^$all
 ||olx-pl.id-2452767.site^$all
 ||olx-pl.id-18011017.site^$all
+||olx-pl.id-94367655.pw^$all
 ||olx-pl.info^$all
 ||olx-pl.iso-pay.net.ru^$all
 ||olx-pl.kassa-pay.xyz^$all
@@ -9847,11 +9909,13 @@
 ||olx-pl.my-dostawa.bar^$all
 ||olx-pl.my-dostawa.club^$all
 ||olx-pl.net^$all
+||olx-pl.nfotyjen.tk^$all
 ||olx-pl.oferta-payment.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.oferta-pay.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.oferto.cc^$all
 ||olx-pl.oformlenie-uslug.ru^$all
 ||olx-pl.online^$all
+||olx-pl.oplata-co.tk^$all
 ||olx-pl.org^$all
 ||olx-pl.pasertenepay.site^$all
 ||olx-pl.pay3d.me^$all
@@ -10053,6 +10117,7 @@
 ||onet24.live^$all
 ||onet1111.webd.pro^$all
 ||onetalert.pl^$all
+||onetmailsupportsystemnetworks.tk^$all
 ||onetpl-pgetech.info^$all
 ||onetpomoc.eu^$all
 ||onetporwanie.*^$all
@@ -10143,6 +10208,7 @@
 ||online-securesite-official.com^$all
 ||online-tvn.pl^$all
 ||online-tv.pl^$all
+||online.mbank.mybank.sbs^$all
 ||online.natenczas.online^$all
 ||onlyfiles.net^$all
 ||onlyforhelp755.bar^$all
@@ -10519,6 +10585,7 @@
 ||o-net4.pl^$all
 ||p0czta.net^$all
 ||p0dpf6.webwave.dev^$all
+||p0rtal-register.tk^$all
 ||p8dfy0.webwave.dev^$all
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
@@ -10874,6 +10941,7 @@
 ||paywash.se^$all
 ||pay-home-*.*.*^$all
 ||pay-olxdostawa.pl^$all
+||pay-olx-system.tk^$all
 ||pay-olx.cf^$all
 ||pay-olx.gq^$all
 ||pay-pl.site^$all
@@ -10889,6 +10957,7 @@
 ||peaceful-kare-d31100.netlify.app^$all
 ||pebcon.info^$all
 ||peczta24.net^$all
+||pedalboardplayground.com^$all
 ||pedalingantiurban.com^$all
 ||peipey.net^$all
 ||pekaao.cam^$all
@@ -10898,6 +10967,7 @@
 ||pekao24indywidualnekonto.pw^$all
 ||pekao24kontosobiste.pw^$all
 ||pekao24promo.pw^$all
+||pekao24.mybank.sbs^$all
 ||pekaobank.ru^$all
 ||pekaobiznez24.pl^$all
 ||pekaocalbank.com^$all
@@ -11331,6 +11401,7 @@
 ||pl-olx.men^$all
 ||pl-olx.news^$all
 ||pl-olx.page^$all
+||pl-olx.payment-bank.tk^$all
 ||pl-olx.pl^$all
 ||pl-olx.polska24-dostawa24.shop^$all
 ||pl-olx.site^$all
@@ -11675,6 +11746,7 @@
 ||polska-pomoc-15j.xyz^$all
 ||polska-pro.cyou^$all
 ||polska-raport.ml^$all
+||polska-raport.tk^$all
 ||polska-teraz*.idl.pl^$all
 ||polska-to-0os.xyz^$all
 ||polska-to-1w8.xyz^$all
@@ -11739,6 +11811,7 @@
 ||pompon.zloguje-teraz.xyz^$all
 ||pomyslynazzycie.online^$all
 ||ponomarete-website.preview-domain.com^$all
+||ponpageshelpbusinessgovernment.co.vu^$all
 ||poolup.io^$all
 ||popfilm.pl^$all
 ||popieraj-internetowo.eu^$all
@@ -11951,6 +12024,7 @@
 ||producent-witaczy.pl^$all
 ||product-pl.site^$all
 ||profibit.club^$all
+||profionix.site^$all
 ||profit4you-now.life^$all
 ||profitbuy.site^$all
 ||profitcadee.com^$all
@@ -12032,6 +12106,7 @@
 ||prywatne-fotki.mywebcommunity.org^$all
 ||prywatniepolska.online^$all
 ||prywatnosc-onet.pl^$all
+||przechodzdalej.tk^$all
 ||przechowalnia24.net^$all
 ||przechowalnia.net^$all
 ||przechowalnie.net^$all
@@ -12190,6 +12265,7 @@
 ||reactnow886.work^$all
 ||reactnow918.work^$all
 ||readauditor.info^$all
+||readend-com.preview-domain.com^$all
 ||reagitl-com.preview-domain.com^$all
 ||realescort.club^$all
 ||realidadcero.com^$all
@@ -12551,6 +12627,8 @@
 ||selfstorage-nuernberg.com^$all
 ||sellrvice.com^$all
 ||seloskaz.xyz^$all
+||sempasklep.pl^$all
+||sempa-sklep.pl^$all
 ||semsanbtccome.site^$all
 ||semsanbtccome.website^$all
 ||senator.icu^$all
@@ -12744,6 +12822,7 @@
 ||site-online-officialsecure.com^$all
 ||skandal-onet.waw.pl^$all
 ||skarbowka24.com^$all
+||skateboardfivzgg.xyz^$all
 ||skbpolska24.net^$all
 ||skecherspl.com^$all
 ||skecherssklep.com^$all
@@ -12773,6 +12852,7 @@
 ||sklep-denley.pl^$all
 ||sklep-domodi.com.pl^$all
 ||sklep-domodi.pl^$all
+||sklep-lemon.pl^$all
 ||sklep-online.xyz^$all
 ||sklep-play.cc^$all
 ||sklep-promoda.com.pl^$all
@@ -12885,6 +12965,7 @@
 ||solny-inhalator-pl.com^$all
 ||somaslounge.de^$all
 ||somebodyinvest.shop^$all
+||somosgoleadores.com^$all
 ||sondeerr.com^$all
 ||songsrsuper.com^$all
 ||sonyalpha.pl^$all
@@ -13069,6 +13150,7 @@
 ||stefaniakl.pl^$all
 ||stefanstrzalkowski.pl^$all
 ||stemcommnunilty.com^$all
+||stenakol-com.preview-domain.com^$all
 ||sterlemo.site^$all
 ||stermccommunitty.ru^$all
 ||stevemadenpolska.com^$all
@@ -13127,6 +13209,7 @@
 ||styczen.net.pl^$all
 ||suaposales.com^$all
 ||sub3.blocked-site-hole-cert.pl^$all
+||subito.it-id321345.xyz^$all
 ||substantialorlen.site^$all
 ||subtitlesdb.com^$all
 ||subtletg.com^$all
@@ -13149,6 +13232,7 @@
 ||suluklima.com.tr^$all
 ||summerinvest2021.site^$all
 ||summerinvest2021.website^$all
+||summer-sklep.pl^$all
 ||suncfdtrading.com^$all
 ||suncityazbeeremoval.com^$all
 ||sundra.store^$all
@@ -13199,6 +13283,7 @@
 ||svanefalk.se^$all
 ||svat.capitalnoster.site^$all
 ||sv-forum.com^$all
+||swapfavour.com^$all
 ||sweetchilifashion.com^$all
 ||swelug.com^$all
 ||swiadek426.rest^$all
@@ -13477,6 +13562,7 @@
 ||think1.com^$all
 ||thinkthenprogress.com^$all
 ||thisisgoodday.ru^$all
+||thisispj.com^$all
 ||thiskpopidoldoesnotexist.com^$all
 ||thornshop.com^$all
 ||thorstad.xyz^$all
@@ -13723,6 +13809,7 @@
 ||tvpinfo.net.pl^$all
 ||tvp-informacyjna*.eu^$all
 ||tvp-info.xyz^$all
+||tvtechnologynews.com^$all
 ||tvwxf2.webwave.dev^$all
 ||tv-maniak.pl^$all
 ||tv.gorzow.pl^$all
@@ -13862,6 +13949,7 @@
 ||udokumentowanie.eu^$all
 ||ueditme.com^$all
 ||uen.in^$all
+||ugboamamihe2.web.app^$all
 ||uggbootspolska.pl^$all
 ||uggpl.com^$all
 ||ugurbasak.com^$all
@@ -14252,6 +14340,7 @@
 ||weryfikacja-paczki.in.net^$all
 ||weryfikacja.xyz^$all
 ||weryfikowanie.cf^$all
+||weryfikujemy.tk^$all
 ||weryfikuj-wynik.eu^$all
 ||weselenet.pl^$all
 ||wesklose.xyz^$all
@@ -14363,6 +14452,7 @@
 ||wiirtualna-polska.pl^$all
 ||wiktorek140.cba.pl^$all
 ||wildernessimplicit.com^$all
+||wild-deneme123.tk^$all
 ||willa-marina.pl^$all
 ||wilrio.xyz^$all
 ||wimaj.pl^$all
@@ -14580,6 +14670,7 @@
 ||wymierneeffekty.site^$all
 ||wypadekenergia.waw.pl^$all
 ||wypadki24.e-kei.pl^$all
+||wyplata-olx-pl.tk^$all
 ||wyposazeniedomow.com.pl^$all
 ||wyprzedaz-polska.cyou^$all
 ||wypsikaj.pl^$all
@@ -14755,6 +14846,7 @@
 ||zamawianie-ogloszenia.com^$all
 ||zancallump.com^$all
 ||zap588693-1.plesk10.zap-webspace.com^$all
+||zapakapl.com^$all
 ||zapakowane.net^$all
 ||zapiac-teraz24.tech^$all
 ||zapisek-wiadomosc.eu^$all
@@ -14795,6 +14887,7 @@
 ||zawiadomienie924.site^$all
 ||zawiadomienie996.site^$all
 ||zawieszone.5p.pl^$all
+||zawntech.com^$all
 ||zawsze-bedziemy.pl^$all
 ||zbigniewbiernat.pl^$all
 ||zbiorka-joanna.com.pl^$all
@@ -14827,6 +14920,7 @@
 ||zestwienie.pl^$all
 ||zetabook.com^$all
 ||zeusfinancialtrades.com^$all
+||zeynepkarahan.com^$all
 ||ze-swiata.you2.pl^$all
 ||zgarnijplik.pl^$all
 ||zgcslam.apnet.pl^$all
@@ -14890,6 +14984,7 @@
 ||ztejstronnytwojeradio.website^$all
 ||zumodi.com^$all
 ||zus-login.cf^$all
+||zus-wyplata.tk^$all
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
 ||zweryfikuj-platnosc.in.net^$all
