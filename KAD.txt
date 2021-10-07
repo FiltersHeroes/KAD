@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 07 Oct 2021, 17:08 UTC+02
-! Version: 2021.10.7.2
+! Last modified: Thu, 07 Oct 2021, 21:08 UTC+02
+! Version: 2021.10.7.3
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2470,6 +2470,7 @@
 ||alpainvest.com^$all
 ||alphahaul.com^$all
 ||alpsmarkets.com^$all
+||alsaqrksa.com^$all
 ||altaninvestment.com^$all
 ||alternormative.com^$all
 ||althairco.com^$all
@@ -6422,6 +6423,8 @@
 ||fakty-onet48.*^$all
 ||fakty-polska24.eu^$all
 ||fakt*.is-best.net^$all
+||fakt-24-eu.pl^$all
+||fakt-24-pl.pl^$all
 ||fakt.pomoz-rozpoznac-sprawce.tk^$all
 ||famecala.com^$all
 ||famfunj.com^$all
@@ -7694,6 +7697,7 @@
 ||inpost-pl.id-0832973.pw^$all
 ||inpost-pl.id-934802.pw^$all
 ||inpost-pl.id-9347449.pw^$all
+||inpost-pl.id-71957017.pw^$all
 ||inpost-pl.joyregbuyitem.pw^$all
 ||inpost-pl.net^$all
 ||inpost-pl.offeringpay.icu^$all
@@ -7779,6 +7783,7 @@
 ||inpost.pl-holdorder.club^$all
 ||inpost.pl-hold.club^$all
 ||inpost.pl-kontos-oferta.club^$all
+||inpost.pl-konto-id70.site^$all
 ||inpost.pl-konto-id803.site^$all
 ||inpost.pl-makedeal.club^$all
 ||inpost.pl-makepays.club^$all
@@ -9957,6 +9962,7 @@
 ||olx-ginza.com^$all
 ||olx-g.id-43980.me^$all
 ||olx-g.pl^$all
+||olx-hmlh.id94865556.me^$all
 ||olx-h.pl^$all
 ||olx-h.spredaz-online.club^$all
 ||olx-igmr.pl-id26622125.xyz^$all
@@ -10074,6 +10080,7 @@
 ||olx-pl.id-1723748.site^$all
 ||olx-pl.id-2452767.site^$all
 ||olx-pl.id-18011017.site^$all
+||olx-pl.id-62966017.pw^$all
 ||olx-pl.id-71957017.pw^$all
 ||olx-pl.id-94367655.pw^$all
 ||olx-pl.info^$all
@@ -10264,6 +10271,7 @@
 ||olx.pl-holdmoney.club^$all
 ||olx.pl-holdorder.club^$all
 ||olx.pl-holds.club^$all
+||olx.pl-konto-id72.site^$all
 ||olx.pl-konto-orders.club^$all
 ||olx.pl-logowanie.club^$all
 ||olx.pl-log.club^$all
@@ -13062,6 +13070,8 @@
 ||serwer2120315.home.pl^$all
 ||serwer2126914.home.pl^$all
 ||serwer2126956.home.pl^$all
+||serwer2142367.home.pl^$all
+||serwer2160932.home.pl^$all
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
 ||serwislaptopow.getleads.pl^$all
