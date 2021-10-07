@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 07 Oct 2021, 13:08 UTC+02
-! Version: 2021.10.7.1
+! Last modified: Thu, 07 Oct 2021, 17:08 UTC+02
+! Version: 2021.10.7.2
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -2283,6 +2283,7 @@
 ||agricoxq.com^$all
 ||agris.com.pl^$all
 ||agrocold.space^$all
+||agroinwestpl.space^$all
 ||ahmedmahmoudit.com^$all
 ||ahufee.com^$all
 ||aiegro-lokainle.xyz^$all
@@ -5321,6 +5322,7 @@
 ||darmowyfilmrfm44.ek1.pl^$all
 ||darmowyfilmzlektoremoas10.ek1.pl^$all
 ||dasprojectpl.couldpl23.xyz^$all
+||datacquence.com^$all
 ||dataentryworkfromhomejobs.com^$all
 ||datelocalsupport.com^$all
 ||dates-here-now*.com^$all
@@ -6378,6 +6380,7 @@
 ||fakenews-app.com^$all
 ||faksowy.is-best.net^$all
 ||fakt11.seohost.com.pl^$all
+||fakt24miasto.pl^$all
 ||faktinvestmetns.mya5.ru^$all
 ||faktmiejski.eu^$all
 ||faktowo24informacje.pl^$all
@@ -6391,6 +6394,7 @@
 ||fakturo-wnia.gq^$all
 ||fakturo-wnia.ml^$all
 ||faktury-runner.duckdns.org^$all
+||faktwmiescie.pl^$all
 ||fakty24gazeta.pl^$all
 ||fakty24h.eu^$all
 ||fakty24informacjelive.pl^$all
@@ -7917,6 +7921,7 @@
 ||invest-educ.site^$all
 ||invest-flow.io^$all
 ||invest-moment.com^$all
+||invest-online.work^$all
 ||invest-orl.com^$all
 ||invest-protection.info^$all
 ||invest-protect.info^$all
@@ -7930,6 +7935,7 @@
 ||invgrup.website^$all
 ||invpg.rigtoins.site^$all
 ||invp.edealand.pro^$all
+||invvest-pl.website^$all
 ||invxsler.com^$all
 ||inv-space.info^$all
 ||inwestenergia1.space^$all
@@ -8582,6 +8588,7 @@
 ||lngstart-business.com^$all
 ||lng-business-start.com^$all
 ||lng-start-business.com^$all
+||lng-start.com^$all
 ||lnkpayme.page.link^$all
 ||lnkpay.me^$all
 ||lnnpost.net^$all
@@ -10209,6 +10216,7 @@
 ||olx.payd04.online^$all
 ||olx.payd07.online^$all
 ||olx.payd17.info^$all
+||olx.payd17.online^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pays38.info^$all
@@ -11504,6 +11512,7 @@
 ||plast-chem.com.pl^$all
 ||plata-za-towary-pl.com^$all
 ||platformie-lotos.pl^$all
+||platformie-lotos.site^$all
 ||platformorlen.com^$all
 ||platform.santanderinvest.com^$all
 ||platinumtradeinvestment.com^$all
@@ -13750,6 +13759,7 @@
 ||tauron.surge.sh^$all
 ||taylorspub.com^$all
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
+||tdradi-xyz.preview-domain.com^$all
 ||teacriss-edlechs.xyz^$all
 ||teacross-edtechs.xyz^$all
 ||teacus.xyz^$all
@@ -14292,6 +14302,7 @@
 ||uggbootspolska.pl^$all
 ||uggpl.com^$all
 ||ugurbasak.com^$all
+||uhinload-com.preview-domain.com^$all
 ||uhoklin.xyz^$all
 ||uhztdsyzlca0p.bar^$all
 ||ujecie24telerradio.website^$all
@@ -14389,6 +14400,7 @@
 ||ustawtogdziekolwiek.site^$all
 ||usterkiwloclawek.za.pl^$all
 ||uswiadomsobiebizznes.site^$all
+||utarolt.com^$all
 ||utecconnections.com^$all
 ||uusms.org^$all
 ||uwagainfo24.eu^$all
@@ -14494,6 +14506,7 @@
 ||vitaemo.tech^$all
 ||vitalitycs.net^$all
 ||vivacemusicgroup.com^$all
+||vivekkiclass.com^$all
 ||vlaamsebaaien.com^$all
 ||vlogboard-com.preview-domain.com^$all
 ||vod24.pl^$all
@@ -14579,6 +14592,7 @@
 ||waznesprawywpolscee.online^$all
 ||waznesprawy.online^$all
 ||waznesprawy.site^$all
+||waznyfakt24.pl^$all
 ||wazvolev.pl^$all
 ||wazycrohke.com^$all
 ||wbok.pl^$all
@@ -14837,6 +14851,7 @@
 ||wmiescie24.epizy.com^$all
 ||wmiesciedziejesie.pl^$all
 ||wmiesciefakty24.pl^$all
+||wmiesciefakt.pl^$all
 ||wmiesciewazne24.pl^$all
 ||wmiesciewazne.pl^$all
 ||wmieszajsiewtoszybko.site^$all
