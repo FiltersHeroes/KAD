@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 09 Oct 2021, 13:10 UTC+02
-! Version: 2021.10.9.0
+! Last modified: Sat, 09 Oct 2021, 22:56 UTC+02
+! Version: 2021.10.9.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -1579,6 +1579,7 @@
 ||wisorkgoods.com^$all
 ||witaminadzadarmo.pl^$all
 ||witaminazadarmo.pl^$all
+||wkladpompy.pl^$all
 ||wklsokol.pl^$all
 ||wnrne.com^$all
 ||wooptrk.com^$all
@@ -2384,6 +2385,7 @@
 ||allegrolokaline.club^$all
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
+||allegrolokalnie-pl.id-3333378.site^$all
 ||allegrolokalnie-pl.id-05498347.pw^$all
 ||allegrolokalnie-pl.id-79949017.site^$all
 ||allegrolokalnie-pl.payregisway.pw^$all
@@ -5647,6 +5649,7 @@
 ||dlr7tmlhwfogq.cloudfront.net^$all
 ||dlscord-app.com^$all
 ||dlscord.app^$all
+||dlscord.net^$all
 ||dlscord.org^$all
 ||dlscrod.ru.com^$all
 ||dlsplate.com^$all
@@ -5758,6 +5761,7 @@
 ||doplac-teraz24.xyz^$all
 ||doplac-teraz.xyz^$all
 ||dopomoga.tech^$all
+||doprzeczytania.pl^$all
 ||doradca318.rest^$all
 ||doreczyciel24.net^$all
 ||doreczyciele.net^$all
@@ -5822,6 +5826,7 @@
 ||dozkfii5aw44j.cloudfront.net^$all
 ||do-kuchni.com^$all
 ||do-oddania.waw.pl^$all
+||do-przeczytania.pl^$all
 ||dpb8jxtsymi35.cloudfront.net^$all
 ||dpdpickuq.top^$all
 ||dpdpost.net^$all
@@ -6400,6 +6405,7 @@
 ||fakenews-app.com^$all
 ||faksowy.is-best.net^$all
 ||fakt11.seohost.com.pl^$all
+||fakt24informacje.pl^$all
 ||fakt24miasto.pl^$all
 ||faktinvestmetns.mya5.ru^$all
 ||faktmiejski.eu^$all
@@ -7465,6 +7471,8 @@
 ||infaky24.pl^$all
 ||infarelinden.info^$all
 ||infasd2a.is-best.net^$all
+||infasprawdzone.pl^$all
+||infa-sprawdzone.pl^$all
 ||infa-z-polski.dnsrobotuptime.ru^$all
 ||infbiztr.xyz^$all
 ||infinitytest.site^$all
@@ -7513,6 +7521,7 @@
 ||informacjepl24.info.pl^$all
 ||informacjepl24.pl^$all
 ||informacjepolakow.online^$all
+||informacjesprawdzone.pl^$all
 ||informacjewazne24.pl^$all
 ||informacjewazne.pl^$all
 ||informacje-24-waw-pl.000webhostapp.com^$all
@@ -7532,6 +7541,7 @@
 ||informacje-polskie.cyou^$all
 ||informacje-prosto-ze-swiata.dnsrobotuptime.ru^$all
 ||informacje-prosto-z-polski.dnsrobotuptime.ru^$all
+||informacje-sprawdzone.pl^$all
 ||informacje-swiatowe.dnsrobotuptime.ru^$all
 ||informacje-twoje.waw.pl^$all
 ||informacje-twoje.xyz^$all
@@ -7552,10 +7562,13 @@
 ||informator-reg.pl^$all
 ||informator-reg.site^$all
 ||informel.longinves.xyz^$all
+||informujemykazdego.xyz^$all
 ||informujemy-kazdego.dnsrobotuptime.ru^$all
+||informujemy-kazdego.xyz^$all
 ||informujemy-prosto-z-polski.dnsrobotuptime.ru^$all
 ||informujemy-was.pl^$all
 ||informujemy-wszystkich.dnsrobotuptime.ru^$all
+||informujemy-wszystkich.xyz^$all
 ||informujemy-ze-swiata.dnsrobotuptime.ru^$all
 ||informujemy-z-polski.dnsrobotuptime.ru^$all
 ||informujmykazdego.pl^$all
@@ -7662,6 +7675,7 @@
 ||inpost-gbjs.pl-id14597533.xyz^$all
 ||inpost-gbjs.pl-id22799899.xyz^$all
 ||inpost-gbjs.pl-id29717846.xyz^$all
+||inpost-gbjs.pl-id37879494.xyz^$all
 ||inpost-gbjs.pl-id44502816.xyz^$all
 ||inpost-gbjs.pl-id53375721.xyz^$all
 ||inpost-gbjs.pl-id66424107.xyz^$all
@@ -7671,6 +7685,7 @@
 ||inpost-g.id-43980.me^$all
 ||inpost-hhke.id-4365.me^$all
 ||inpost-igmr.pl-id29717846.xyz^$all
+||inpost-igmr.pl-id44502816.xyz^$all
 ||inpost-igmr.pl-id48127002.xyz^$all
 ||inpost-igmr.pl-id56643255.xyz^$all
 ||inpost-igmr.pl-id57496769.xyz^$all
@@ -7731,8 +7746,10 @@
 ||inpost-pl.dostawa-safety.casa^$all
 ||inpost-pl.goodspurchase.pw^$all
 ||inpost-pl.id-11l2391.site^$all
+||inpost-pl.id-579153.site^$all
 ||inpost-pl.id-0832973.pw^$all
 ||inpost-pl.id-934802.pw^$all
+||inpost-pl.id-3333378.site^$all
 ||inpost-pl.id-9347449.pw^$all
 ||inpost-pl.id-71957017.pw^$all
 ||inpost-pl.joyregbuyitem.pw^$all
@@ -7827,6 +7844,7 @@
 ||inpost.pl-makepays.club^$all
 ||inpost.pl-makepay.club^$all
 ||inpost.pl-m-konto-id12.site^$all
+||inpost.pl-m-konto-id13.site^$all
 ||inpost.pl-orderbuy.club^$all
 ||inpost.pl-orderedpays.club^$all
 ||inpost.pl-orderpaid.cyou^$all
@@ -8224,12 +8242,15 @@
 ||kasa-sms.pl^$all
 ||kasonet.pl^$all
 ||kasynopolska.wixsite.com^$all
+||kasyno-lotek.xyz^$all
 ||kaszubskidomek.pl^$all
 ||katallog.pl^$all
 ||katedra.icu^$all
 ||katowice.ru^$all
 ||kaushdiveding.com^$all
 ||kayyha.com^$all
+||kazdainformacja.pl^$all
+||kazda-informacja.pl^$all
 ||kazdyjakoszaczyna.online^$all
 ||kazdymozepomocitv.club^$all
 ||kbdemolering.se.oblyapp.com^$all
@@ -8296,6 +8317,7 @@
 ||klawnprunt.com^$all
 ||klemokrit-xyz.preview-domain.com^$all
 ||klikijuz.com^$all
+||klik-go.space^$all
 ||klinko24.xyz^$all
 ||klinks-com.preview-domain.com^$all
 ||klockren-marketing.se.oblyapp.com^$all
@@ -9440,6 +9462,7 @@
 ||naszewiadomosci.xyz^$all
 ||naszewywiady.club^$all
 ||naszezabrze.online^$all
+||nasze-infa.pl^$all
 ||nasze-miasto.k99k.com.pl^$all
 ||naszglos24.laohost.net^$all
 ||naszpakiet.xyz^$all
@@ -9947,6 +9970,7 @@
 ||olx-agtd.pl-id03778796.xyz^$all
 ||olx-agtd.pl-id38379159.xyz^$all
 ||olx-agtd.pl-id40439682.xyz^$all
+||olx-agtd.pl-id67915328.xyz^$all
 ||olx-agtd.pl-id84566876.xyz^$all
 ||olx-agtd.pl-id99477330.xyz^$all
 ||olx-banking.ac^$all
@@ -10132,6 +10156,7 @@
 ||olx-pl.id-48953.pw^$all
 ||olx-pl.id-360157.site^$all
 ||olx-pl.id-493032.pw^$all
+||olx-pl.id-579153.site^$all
 ||olx-pl.id-834290.pw^$all
 ||olx-pl.id-940594.pw^$all
 ||olx-pl.id-1723748.site^$all
@@ -10239,6 +10264,7 @@
 ||olx.dostawa-orders.casa^$all
 ||olx.dostawa-pl.club^$all
 ||olx.dostawa-pl.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx.dostawa-safety.digital^$all
 ||olx.dostawa-secure.com^$all
 ||olx.dostawa.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.dostawwa.pl^$all
@@ -10281,6 +10307,7 @@
 ||olx.payd07.online^$all
 ||olx.payd17.info^$all
 ||olx.payd17.online^$all
+||olx.payd24.online^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pays38.info^$all
@@ -12161,12 +12188,14 @@
 ||polskieczasy0.online^$all
 ||polskieeinformacje.online^$all
 ||polskieinformacje.space^$all
+||polskieinformacje.xyz^$all
 ||polskiemiasta.online^$all
 ||polskiemiasto.xyz^$all
 ||polskiestrony.online^$all
 ||polskiezyciedzisiaj0.online^$all
 ||polskie-infa.dnsrobotuptime.ru^$all
 ||polskie-informacje.dnsrobotuptime.ru^$all
+||polskie-informacje.xyz^$all
 ||polskifakty24.eu^$all
 ||polskilombard.pl^$all
 ||polski-artykul-24h.pl^$all
@@ -13450,11 +13479,14 @@
 ||sprawdzam-dalej.xyz^$all
 ||sprawdzam.is-best.net^$all
 ||sprawdzikk.v0r.org^$all
+||sprawdzinformacje.pl^$all
 ||sprawdzjak1.pl^$all
 ||sprawdzjak2.pl^$all
 ||sprawdzjak3.pl^$all
 ||sprawdzjak4.pl^$all
+||sprawdzoneinfa.pl^$all
 ||sprawdzoneinfo.pl^$all
+||sprawdzone-infa.pl^$all
 ||sprawdzony-produkt.pl^$all
 ||sprawdzto.is-best.net^$all
 ||sprawdzto.ml^$all
@@ -14589,6 +14621,7 @@
 ||vinted-pl.online^$all
 ||vinted-sqfd.id-1349.me^$all
 ||vinted.cc^$all
+||vinted.dostawa-safety.digital^$all
 ||vinted.vip^$all
 ||vipshorka.info^$all
 ||viralka.pl^$all
@@ -14664,7 +14697,11 @@
 ||warzone.pw^$all
 ||warzywo.icu^$all
 ||wasdas.xyz^$all
+||wasinformujemy.pl^$all
 ||waskiegronobiznessu.website^$all
+||waszeinformacje.pl^$all
+||wasze-informacje.pl^$all
+||was-informujemy.pl^$all
 ||water-heater-pl.com^$all
 ||wattrelos77.com^$all
 ||waust.at^$all
@@ -15091,6 +15128,7 @@
 ||ww.paczkqups.com^$all
 ||ww.paczkudpd.com^$all
 ||ww.paczkwdpd.com^$all
+||ww.paczkzdpd.com^$all
 ||wxyzservermg3.web.app^$all
 ||wxyzservermg4.web.app^$all
 ||wx-xcx.xyz^$all
