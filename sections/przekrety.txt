@@ -1,6 +1,4 @@
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa.*
-||klik-go.space^$all
-||binullruick.com^$all
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
@@ -459,6 +457,7 @@
 ||allegro.lokalnie.work^$all
 ||allegro.net^$all
 ||allegro.payd19.online^$all
+||allegro.payd27.online^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.lokalnie.me^$all
 ||allegro.pl.my-enj.xyz^$all
@@ -714,10 +713,12 @@
 ||b24-0fwdtd.bitrix24.site^$all
 ||b24-1ftqhc.bitrix24.site^$all
 ||b24-13p85y.bitrix24.site^$all
+||b24-46p2vx.bitrix24site.ua^$all
 ||b24-39274t.bitrix24.site^$all
 ||b24-asbm8i.bitrix24.site^$all
 ||b24-eng16w.bitrix24.site^$all
 ||b24-m8zer1.bitrix24.site^$all
+||b24-mdljou.bitrix24site.ua^$all
 ||b24-n0ngkz.bitrix24.site^$all
 ||b24-nctng2.bitrix24.site^$all
 ||b24-pkeryj.bitrix24.site^$all
@@ -929,6 +930,7 @@
 ||billybilly.org^$all
 ||binijadibaik.com^$all
 ||binpost.id-9843.me^$all
+||binullruick.com^$all
 ||binvesting.com^$all
 ||bioperfect.pl^$all
 ||biopiracydrat.info^$all
@@ -3546,6 +3548,7 @@
 ||dhlfh1l8xj4e6.cloudfront.net^$all
 ||dhl-costumers.net^$all
 ||dhl-parcel.co^$all
+||dhl-track.cfolks.pl^$all
 ||dhm8324ka79wc.cloudfront.net^$all
 ||dhugenr918jx9.cloudfront.net^$all
 ||dhw95zubayctu.cloudfront.net^$all
@@ -4413,6 +4416,7 @@
 ||fakt11.seohost.com.pl^$all
 ||fakt24informacje.pl^$all
 ||fakt24miasto.pl^$all
+||fakt24.com.pl^$all
 ||faktinvestmetns.mya5.ru^$all
 ||faktmiejski.eu^$all
 ||faktonews07102021.ct8.pl^$all
@@ -4437,6 +4441,7 @@
 ||fakty24onnnline.rf.gd^$all
 ||fakty24wmiesice.eu^$all
 ||fakty24zaginiony.eu^$all
+||fakty24.net.pl^$all
 ||fakty24.warszawa.pl^$all
 ||fakty24.you2.pl^$all
 ||faktyinfo24.pl^$all
@@ -5621,6 +5626,7 @@
 ||inpost-agtd.pl-id04399419.xyz^$all
 ||inpost-agtd.pl-id54503522.xyz^$all
 ||inpost-agtd.pl-id59514574.xyz^$all
+||inpost-agtd.pl-id83506051.xyz^$all
 ||inpost-aij.id949449.me^$all
 ||inpost-a.id-43980.me^$all
 ||inpost-cde.id5345.me^$all
@@ -7943,6 +7949,7 @@
 ||olx-conf.pl-id23011931.xyz^$all
 ||olx-conf.pl-id65761148.xyz^$all
 ||olx-conf.pl-id81629291.xyz^$all
+||olx-conf.pl-id83506051.xyz^$all
 ||olx-czek.pl^$all
 ||olx-c.pl^$all
 ||olx-delivering.pl^$all
@@ -9621,6 +9628,7 @@
 ||plnewsinfo.website^$all
 ||plnewsinvest.info^$all
 ||plnewsinvfan.com^$all
+||plnewsinvone.com^$all
 ||plnewsonepgeinvest.info^$all
 ||plnewspgnig.com^$all
 ||plnewsproject-pge.info^$all
@@ -11332,6 +11340,7 @@
 ||socialenginezzz.com^$all
 ||socialparliament.com^$all
 ||socksonclick.com^$all
+||socktailor.com^$all
 ||soft4click.com^$all
 ||softagesolution.com^$all
 ||softmania.pl^$all
@@ -13423,13 +13432,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||allegro.payd27.online^$all
-||b24-46p2vx.bitrix24site.ua^$all
-||b24-mdljou.bitrix24site.ua^$all
-||dhl-track.cfolks.pl^$all
-||fakt24.com.pl^$all
-||fakty24.net.pl^$all
-||inpost-agtd.pl-id83506051.xyz^$all
-||olx-conf.pl-id83506051.xyz^$all
-||plnewsinvone.com^$all
-||socktailor.com^$all
