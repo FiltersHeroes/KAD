@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 11 Oct 2021, 13:09 UTC+02
-! Version: 2021.10.11.0
+! Last modified: Mon, 11 Oct 2021, 17:08 UTC+02
+! Version: 2021.10.11.1
 ! Expires: 2 days
 ! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! GitHub: https://github.com/PolishFiltersTeam/KAD
@@ -8248,6 +8248,7 @@
 ||ketodietnd.com^$all
 ||ketofitpatches.com^$all
 ||kevin-yousef.se^$all
+||keypayene.xyz^$all
 ||ke-res.online^$all
 ||kfc-vip.vip^$all
 ||kfsmradio.com^$all
@@ -10100,6 +10101,7 @@
 ||olx-pl.beitarprenn.cf^$all
 ||olx-pl.cc^$all
 ||olx-pl.com-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx-pl.delovaris.online^$all
 ||olx-pl.depget.com^$all
 ||olx-pl.dostawa-safety.quest^$all
 ||olx-pl.eu-pay.site^$all
@@ -11817,6 +11819,8 @@
 ||pl.heyfit.shop^$all
 ||pl.inwestaht.xyz^$all
 ||pl.maximal1.xyz^$all
+||pl.mbank24eu.online^$all
+||pl.mbank24.net^$all
 ||pl.medic-reporters.com^$all
 ||pl.mevida.me^$all
 ||pl.mysafesmartphone.com^$all
@@ -13125,6 +13129,7 @@
 ||serwer2126914.home.pl^$all
 ||serwer2126956.home.pl^$all
 ||serwer2142367.home.pl^$all
+||serwer2149638.home.pl^$all
 ||serwer2160932.home.pl^$all
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
@@ -13319,6 +13324,7 @@
 ||smsoo.in^$all
 ||smsrr.in^$all
 ||smsto.in^$all
+||smsu.site^$all
 ||smsww.in^$all
 ||smsxx.in^$all
 ||smsy24.pl^$all
