@@ -1,15 +1,15 @@
 # KAD
 
-[![Issues h](https://isitmaintained.com/badge/resolution/PolishFiltersTeam/KAD.svg)](https://github.com/PolishFiltersTeam/KAD/issues)
-[![Issues o](https://img.shields.io/github/issues/PolishFiltersTeam/KAD.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/KAD/issues)
-[![repo size](https://img.shields.io/github/repo-size/PolishFiltersTeam/KAD?colorB=23b69a)](https://github.com/PolishFiltersTeam/KAD)
+[![Issues h](https://isitmaintained.com/badge/resolution/FiltersHeroes/KAD.svg)](https://github.com/FiltersHeroes/KAD/issues)
+[![Issues o](https://img.shields.io/github/issues/FiltersHeroes/KAD.svg?colorB=23b69a)](https://github.com/FiltersHeroes/KAD/issues)
+[![repo size](https://img.shields.io/github/repo-size/FiltersHeroes/KAD?colorB=23b69a)](https://github.com/FiltersHeroes/KAD)
 
 Filtry do uBlocka Origin i AdGuarda, chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez [CERT Polska](https://www.cert.pl/news/single/ostrzezenia_phishing/), [legalniewsieci.pl](https://www.legalniewsieci.pl/aktualnosci/podejrzane-sklepy-internetowe), [KNF](https://www.knf.gov.pl/dla_konsumenta/ostrzezenia_publiczne) i inne zespoły.
 
 Możesz zasubskrybować listę na https://kadantiscam.netlify.app lub klikając [Subskrybuj][KAD - Przekręty Subscribe].
 
-[KAD - Przekręty Subscribe]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KAD.txt&title=KAD%20-%20Przekręty
-[KADfake Subscribe]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KADfake.txt&title=KADfake%20-%20Kontrowersje
+[KAD - Przekręty Subscribe]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt&title=KAD%20-%20Przekręty
+[KADfake Subscribe]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KADfake.txt&title=KADfake%20-%20Kontrowersje
 
 # Pomóż z oczyszczaniem polskiego Internetu!
 Jeśli chcesz się przyczynić do ulepszania listy, zgłaszaj strony w sekcji Issues na GitHubie lub na https://kadantiscam.netlify.app/#contact.
