@@ -3,11 +3,12 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 11 Oct 2021, 21:08 UTC+02
-! Version: 2021.10.11.2
+! Last modified: Tue, 12 Oct 2021, 13:08 UTC+02
+! Version: 2021.10.12.0
 ! Expires: 2 days
-! Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-! GitHub: https://github.com/PolishFiltersTeam/KAD
+! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+! Creator: azet12
+! Maintainer: Filters Heroes
 !
 ! Kontakt, zgłoszenia i informacje: https://kadantiscam.netlify.app/#contact
 !
@@ -1678,6 +1679,7 @@
 ||all-tube.pl^$all
 ||arcicalonetal.pro^$all
 ||ascraftan.com^$all
+||aselink.guru^$all
 ||astrazenega.co.uk^$all
 ||backup2.serverclienti.com^$all
 ||bestfollowers.org^$all
@@ -1757,6 +1759,7 @@
 ||iyfnzgb.com^$all
 ||kacwyb.pl^$all
 ||kartliew.com^$all
+||kopula.org.pl^$all
 ||ksheeraorganics.com^$all
 ||largetfarge.ml^$all
 ||largetfar.ga^$all
@@ -1986,6 +1989,7 @@
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
+/^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
 /^https?:\/\/([\w]{1,4}\.)?(info-onet|informujemy)(\d+)?\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(\w+)?\d+\.(site|space)/$all
 /^https?:\/\/([\w]{1,4}\.)?(probablerootport)-?[\d]{1,2}\.live/$all
@@ -2004,6 +2008,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
+/^https?:\/\/[\w]{1,5}\.adwokat-mk\.pl/$all,domain=adwokat-mk.pl|~www.adwokat-mk.pl
 |https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
 |http://chomikuj.pl^$document,domain=chomikuj.pl|~zalecane-polaczenie-szyfrowane-https.*
@@ -2401,13 +2406,16 @@
 ||allegrou.pl^$all
 ||allegro-agtd.pl-id27855309.xyz^$all
 ||allegro-agtd.pl-id29717846.xyz^$all
+||allegro-agtd.pl-id67945558.xyz^$all
 ||allegro-ajk.id-4391.me^$all
 ||allegro-conf.pl-id88158684.xyz^$all
 ||allegro-gbjs.pl-id22799899.xyz^$all
 ||allegro-gbjs.pl-id29717846.xyz^$all
 ||allegro-gbjs.pl-id35566670.xyz^$all
 ||allegro-gbjs.pl-id66424107.xyz^$all
+||allegro-gbjs.pl-id97114735.xyz^$all
 ||allegro-igmr.pl-id56643255.xyz^$all
+||allegro-igmr.pl-id67945558.xyz^$all
 ||allegro-igmr.pl-id79355131.xyz^$all
 ||allegro-llokallnie.online^$all
 ||allegro-llokalnie.site^$all
@@ -2983,6 +2991,7 @@
 ||bitqt.org^$all
 ||bitzclusive.com^$all
 ||bit-capitals.com^$all
+||biucora.com^$all
 ||biurko.cyou^$all
 ||biuro-detektywi.eu^$all
 ||bizipromo.com^$all
@@ -3058,6 +3067,7 @@
 ||bn-allorbank.com^$all
 ||bobali.xyz^$all
 ||bobigny24.com^$all
+||bobolove.pl^$all
 ||bobsiot.com^$all
 ||bobstiktok.com^$all
 ||boderinate.com^$all
@@ -5846,6 +5856,7 @@
 ||dpd-clo.id92405.me^$all
 ||dpd-e.id-4989980.me^$all
 ||dpd-gdy.id293847.me^$all
+||dpd-hroz.id86-92.me^$all
 ||dpd-info.info^$all
 ||dpd-naz.id-0311.me^$all
 ||dpd-pl-qpuq.ownoffferta.cc^$all
@@ -6129,6 +6140,7 @@
 ||edziennik.xyz^$all
 ||eerotans.com^$all
 ||eero-systems.xyz^$all
+||effective-bussiness.info^$all
 ||effluvialmayflowers.com^$all
 ||eforsa.pl^$all
 ||efssax.webwave.dev^$all
@@ -6154,6 +6166,7 @@
 ||elaboratedonor.com^$all
 ||elbravocomputer.com^$all
 ||elbroder.com^$all
+||elecompl.online^$all
 ||electroenchufe.com^$all
 ||electrumltc.org^$all
 ||elektromax-serwis.pl^$all
@@ -6751,6 +6764,7 @@
 ||foxgazeta.waw.pl^$all
 ||foxstarup.com^$all
 ||fpagro.com.pl^$all
+||fpm1.profitguru.online^$all
 ||fqfqf.com^$all
 ||fraktal-trader.pl^$all
 ||frantinvest.site^$all
@@ -6775,6 +6789,7 @@
 ||freshiuz.com^$all
 ||frex.capitalkorpor.site^$all
 ||frieman.pl^$all
+||friendica.info.pl^$all
 ||friendlystorewyo.com^$all
 ||frik.capitalfeserd.site^$all
 ||frinblok.site^$all
@@ -7451,6 +7466,8 @@
 ||imnpost.net^$all
 ||imonellipizzeria.pl^$all
 ||impersonatorsjacklights.info^$all
+||important-business.online^$all
+||important-bussiness.online^$all
 ||importdopolski.pl^$all
 ||imposedtocheck.site^$all
 ||impresza.pl^$all
@@ -7579,7 +7596,9 @@
 ||info-3.me^$all
 ||info-dla-kazdego.xyz^$all
 ||info-inpost.pl^$all
+||info-lokalne.waw.pl^$all
 ||info-miastowe24.club^$all
+||info-obiektyw.waw.pl^$all
 ||info-od-policji.dnsrobotuptime.ru^$all
 ||info-paczka.net^$all
 ||info-prosto-ze-swiata.dnsrobotuptime.ru^$all
@@ -7644,6 +7663,7 @@
 ||inpost-a.id-43980.me^$all
 ||inpost-cde.id5345.me^$all
 ||inpost-cnm.id949449.me^$all
+||inpost-conf.pl-id09216097.xyz^$all
 ||inpost-conf.pl-id12754996.xyz^$all
 ||inpost-conf.pl-id14597533.xyz^$all
 ||inpost-conf.pl-id25631539.xyz^$all
@@ -7693,6 +7713,7 @@
 ||inpost-igmr.pl-id84566876.xyz^$all
 ||inpost-igmr.pl-id91152350.xyz^$all
 ||inpost-igmr.pl-id92205870.xyz^$all
+||inpost-igmr.pl-id97114735.xyz^$all
 ||inpost-info.com^$all
 ||inpost-i.id-9843.me^$all
 ||inpost-kody.net^$all
@@ -10036,6 +10057,7 @@
 ||olx-igmr.pl-id48127002.xyz^$all
 ||olx-igmr.pl-id56643255.xyz^$all
 ||olx-igmr.pl-id63139970.xyz^$all
+||olx-igmr.pl-id67945558.xyz^$all
 ||olx-igmr.pl-id81629291.xyz^$all
 ||olx-igmr.pl-id84566876.xyz^$all
 ||olx-igmr.pl-id85504502.xyz^$all
@@ -10237,6 +10259,7 @@
 ||olx-uzyskiwaniie.pl^$all
 ||olx-u.pl^$all
 ||olx-vip.com^$all
+||olx-wcnf.id86-92.me^$all
 ||olx-weryfikacja.pl^$all
 ||olx-wplata.cards^$all
 ||olx-wplata.today^$all
@@ -11650,6 +11673,7 @@
 ||plebiscyt-krakow.v00.pl^$all
 ||plebiscyt-warszawa.eu^$all
 ||pledland.com^$all
+||plera.goodlife.host^$all
 ||pletomak.mypi.co^$all
 ||pleu.geniuspl.site^$all
 ||plfanbudim1inv.info^$all
@@ -12461,6 +12485,7 @@
 ||prodtro.xyz^$all
 ||producent-witaczy.pl^$all
 ||product-pl.site^$all
+||profclubix.xyz^$all
 ||profibit.club^$all
 ||profionix.site^$all
 ||profit4you-now.life^$all
@@ -12480,6 +12505,7 @@
 ||progformpl.prgrmlvl.site^$all
 ||progplivpl.criptfast.xyz^$all
 ||progpl-subtop.prgrmlvl.site^$all
+||programm-pat.xyz^$all
 ||program-max.site^$all
 ||progressrules.com^$all
 ||progritro.site^$all
@@ -12540,6 +12566,7 @@
 ||prowizja24.pl^$all
 ||pro-lifemax.xyz^$all
 ||pro-pl.info^$all
+||pro-soft1.site^$all
 ||pro.fiteuril.xyz^$all
 ||pro.pltrade-projekt.xyz^$all
 ||pruszkow2019.pl^$all
@@ -14432,6 +14459,7 @@
 ||uhoklin.xyz^$all
 ||uhztdsyzlca0p.bar^$all
 ||ujecie24telerradio.website^$all
+||ukrmsscan.info^$all
 ||ukufan.com^$all
 ||uk-stv1street.live^$all
 ||ulhvfy.webwave.dev^$all
@@ -14469,6 +14497,7 @@
 ||unixbroker.com^$all
 ||unixfronch-com.preview-domain.com^$all
 ||unlessyouwill.com^$all
+||unliftro.info^$all
 ||unlimited.movies.and.series.netflix.afraplants.ir^$all
 ||unlimited.movies.and.series.netflix.irsa-art.ir^$all
 ||unnaboat.com^$all
@@ -14527,6 +14556,8 @@
 ||usterkiwloclawek.za.pl^$all
 ||uswiadomsobiebizznes.site^$all
 ||utarolt.com^$all
+||utdatekonto.pl^$all
+||utdate-konto.netofix.info^$all
 ||utecconnections.com^$all
 ||uusms.org^$all
 ||uvar.uno^$all
