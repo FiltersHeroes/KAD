@@ -1,6 +1,4 @@
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
-||aselink.guru^$all
-||kopula.org.pl^$all
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$document,domain=biz
 /^https:\/\/[-0-9a-z]{12,19}\.(?:com|life)\/\?u=[0-9a-z]{7,}&o=[0-9a-z]{7,}&t=/$document,domain=com|life
@@ -19,6 +17,7 @@
 ||all-tube.pl^$all
 ||arcicalonetal.pro^$all
 ||ascraftan.com^$all
+||aselink.guru^$all
 ||astrazenega.co.uk^$all
 ||backup2.serverclienti.com^$all
 ||bestfollowers.org^$all
@@ -98,6 +97,7 @@
 ||iyfnzgb.com^$all
 ||kacwyb.pl^$all
 ||kartliew.com^$all
+||kopula.org.pl^$all
 ||ksheeraorganics.com^$all
 ||largetfarge.ml^$all
 ||largetfar.ga^$all
