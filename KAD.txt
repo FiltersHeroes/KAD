@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 14 Oct 2021, 13:08 UTC+02
-! Version: 2021.10.14.2
+! Last modified: Thu, 14 Oct 2021, 17:08 UTC+02
+! Version: 2021.10.14.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3633,11 +3633,15 @@
 ||ciekawesprawy.online^$all
 ||ciekawkapolska.online^$all
 ||ciekawostka082.site^$all
+||ciekawostka129.site^$all
 ||ciekawostka173.site^$all
+||ciekawostka306.site^$all
 ||ciekawostka389.site^$all
 ||ciekawostka501.site^$all
 ||ciekawostka692.site^$all
 ||ciekawostka723.site^$all
+||ciekawostka724.site^$all
+||ciekawostka903.site^$all
 ||ciezkieczasy.is-best.net^$all
 ||cikelly.com^$all
 ||cinao.shop^$all
@@ -5412,6 +5416,7 @@
 ||davidcandy.website.pl^$all
 ||davidsadventures.com^$all
 ||davinky.com^$all
+||daw22.pl^$all
 ||daxioma.com^$all
 ||daxkapital.com^$all
 ||daxlnfpwodxh9.cloudfront.net^$all
@@ -7159,6 +7164,7 @@
 ||google-*.*giveaway*.xyz^$all
 ||google-*.*offer*.icu^$all
 ||google-*.*present*.icu^$all
+||google.com-firewall.online^$all
 ||goonews.unixstorm.eu^$all
 ||goosms.in^$all
 ||goosoo.in^$all
@@ -7578,7 +7584,11 @@
 ||infomacjeonline.rf.gd^$all
 ||infopodatek.net^$all
 ||inforadiogazeta.site^$all
+||informacja025.site^$all
 ||informacja035.site^$all
+||informacja208.site^$all
+||informacja376.site^$all
+||informacja572.site^$all
 ||informacja733.site^$all
 ||informacja745.site^$all
 ||informacja754.site^$all
@@ -8599,6 +8609,7 @@
 ||kurjerzy-pl.cyou^$all
 ||kurlerowo24.pl^$all
 ||kursjezykowy.eu^$all
+||kur-jerzy.eu^$all
 ||kuszowka.pl^$all
 ||kvs08a.webwave.dev^$all
 ||kwarantannadomowa.com^$all
@@ -9475,6 +9486,7 @@
 ||myl.name^$all
 ||mymommystruggles.com^$all
 ||mynetcoin.com^$all
+||mypekaosa.com^$all
 ||myprojekt1-trade.site^$all
 ||myselfgaz.site^$all
 ||mysexdating*.club^$all
@@ -9798,10 +9810,14 @@
 ||nowina018.site^$all
 ||nowina107.site^$all
 ||nowina112.site^$all
+||nowina305.site^$all
 ||nowina378.site^$all
 ||nowina545.site^$all
+||nowina636.site^$all
 ||nowina643.site^$all
+||nowina699.site^$all
 ||nowinka013.site^$all
+||nowinka079.site^$all
 ||nowinka096.site^$all
 ||nowinka136.site^$all
 ||nowinka165.site^$all
@@ -9813,7 +9829,12 @@
 ||nowinki.blog-online.eu^$all
 ||nowoczesnemuzeum.pl^$all
 ||nowoffer.top^$all
+||nowosc002.site^$all
+||nowosc256.site^$all
 ||nowosc286.site^$all
+||nowosc302.site^$all
+||nowosc371.site^$all
+||nowosc966.site^$all
 ||nowplaymovie.com^$all
 ||no-snore-pl.com^$all
 ||npcvault.com^$all
@@ -10188,6 +10209,7 @@
 ||olx-gbjs.pl-id66424107.xyz^$all
 ||olx-gbjs.pl-id72095199.xyz^$all
 ||olx-gbjs.pl-id81629291.xyz^$all
+||olx-gbjs.pl-id89869929.xyz^$all
 ||olx-gbjs.pl-id91152350.xyz^$all
 ||olx-ginza.com^$all
 ||olx-g.id-43980.me^$all
@@ -10305,6 +10327,7 @@
 ||olx-pl.com-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.delovaris.online^$all
 ||olx-pl.depget.com^$all
+||olx-pl.dostawa-safety.art^$all
 ||olx-pl.dostawa-safety.guru^$all
 ||olx-pl.dostawa-safety.quest^$all
 ||olx-pl.eu-pay.site^$all
@@ -11935,6 +11958,7 @@
 ||pl-gopays.work^$all
 ||pl-gotpaid.shop^$all
 ||pl-id737962.info^$all
+||pl-include-fa.website^$all
 ||pl-info3.site^$all
 ||pl-info-24.pl^$all
 ||pl-inpost.online^$all
@@ -12683,6 +12707,7 @@
 ||project2278375.turbo.site^$all
 ||project2299805.turbo.site^$all
 ||project2321549.turbo.site^$all
+||projectcourse4.us^$all
 ||projectcourse.us^$all
 ||project-course2.biz^$all
 ||projektnewonepl.info^$all
@@ -12974,10 +12999,12 @@
 ||reklamapoznan.com.pl^$all
 ||rekrutacjastudenci6.wixsite.com^$all
 ||relacja066.site^$all
+||relacja148.site^$all
 ||relacja171.site^$all
 ||relacja259.site^$all
 ||relacja316.site^$all
 ||relacja338.site^$all
+||relacja385.site^$all
 ||relacja733.site^$all
 ||relacja998.site^$all
 ||relativelyheterophony.com^$all
@@ -13017,6 +13044,7 @@
 ||reverent-yalow-e35ac8.netlify.app^$all
 ||reviews-shop.com^$all
 ||revolution-fx.cc^$all
+||rewelacja015.site^$all
 ||rewelacja027.site^$all
 ||rewelacja123.site^$all
 ||rewelacja371.site^$all
@@ -15096,12 +15124,15 @@
 ||wiadomosc017.rest^$all
 ||wiadomosc178.site^$all
 ||wiadomosc235.site^$all
+||wiadomosc325.site^$all
 ||wiadomosc339.site^$all
+||wiadomosc515.site^$all
 ||wiadomosc579.site^$all
 ||wiadomosc580.site^$all
 ||wiadomosc585.site^$all
 ||wiadomosc617.site^$all
 ||wiadomosc642.site^$all
+||wiadomosc729.site^$all
 ||wiadomosc790.site^$all
 ||wiadomosc918.site^$all
 ||wiadomosc947.site^$all
@@ -15129,14 +15160,17 @@
 ||wiadomosci-teraz5.cleverapps.io^$all
 ||wiadomosci-wroclaw.xyz^$all
 ||wiadomosclokalna.pl^$all
+||wiadomostka010.site^$all
 ||wiadomostka019.site^$all
 ||wiadomostka037.site^$all
 ||wiadomostka346.site^$all
 ||wiadomostka389.site^$all
+||wiadomostka430.site^$all
 ||wiadomostka563.site^$all
 ||wiadomostka731.site^$all
 ||wiadomostka744.site^$all
 ||wiadomostka822.site^$all
+||wiadomostka916.site^$all
 ||wiadomostka979.site^$all
 ||wiado-mosci5.netlify.app^$all
 ||wiado-mosci8.netlify.app^$all
@@ -15161,7 +15195,9 @@
 ||wiesc200.site^$all
 ||wiesc301.site^$all
 ||wiesc388.site^$all
+||wiesc431.site^$all
 ||wiesc442.site^$all
+||wiesc469.site^$all
 ||wiesc496.site^$all
 ||wiesc677.site^$all
 ||wieszjakjestrodakku.space^$all
@@ -15248,6 +15284,7 @@
 ||woundred.xyz^$all
 ||wowly.xyz^$all
 ||wow.info247-pl.com^$all
+||wozek-rok-po-roku-cid88-idm0vps6.id-info295.com^$all
 ||wp24.work^$all
 ||wpadkowo.pl^$all
 ||wpad.bi^$all
@@ -15419,12 +15456,14 @@
 ||wyzwanie.one^$all
 ||wyzwani.biz^$all
 ||wzabrzu.xyz^$all
+||wzmianka049.site^$all
 ||wzmianka137.site^$all
 ||wzmianka143.site^$all
 ||wzmianka444.site^$all
 ||wzmianka540.site^$all
 ||wzmianka683.site^$all
 ||wzmianka730.site^$all
+||wzmianka819.site^$all
 ||wzmianka994.site^$all
 ||wzmianka-duza.eu^$all
 ||wzordonassladowania.online^$all
@@ -15603,11 +15642,15 @@
 ||zatorenergylandia.waw.pl^$all
 ||zator-energlanndia.waw.pl^$all
 ||zaufajnam.space^$all
+||zawiadomienie109.site^$all
 ||zawiadomienie141.site^$all
+||zawiadomienie196.site^$all
+||zawiadomienie226.site^$all
 ||zawiadomienie354.site^$all
 ||zawiadomienie437.site^$all
 ||zawiadomienie463.site^$all
 ||zawiadomienie466.site^$all
+||zawiadomienie468.site^$all
 ||zawiadomienie480.site^$all
 ||zawiadomienie520.site^$all
 ||zawiadomienie924.site^$all
@@ -15652,14 +15695,19 @@
 ||zgcslam.apnet.pl^$all
 ||zgliwic.xyz^$all
 ||zgloszenie186.site^$all
+||zgloszenie212.site^$all
+||zgloszenie260.site^$all
 ||zgloszenie298.site^$all
 ||zgloszenie304.site^$all
+||zgloszenie426.site^$all
 ||zgloszenie433.site^$all
 ||zgloszenie535.site^$all
 ||zgloszenie601.site^$all
+||zgloszenie728.site^$all
 ||zgloszenie812.site^$all
 ||zgloszenie873.site^$all
 ||zgloszenie890.site^$all
+||zgloszenie899.site^$all
 ||zgloszenie980.site^$all
 ||zgwalconadziewczyna.*^$all
 ||zhaoyouxiu.com^$all
