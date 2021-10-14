@@ -3,7 +3,7 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 14 Oct 2021, 00:18 UTC+02
+! Last modified: Thu, 14 Oct 2021, 02:20 UTC+02
 ! Version: 2021.10.14.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -2392,8 +2392,7 @@
 ||allegrolokalnie-pl.id-05498347.pw^$all
 ||allegrolokalnie-pl.id-79949017.site^$all
 ||allegrolokalnie-pl.payregisway.pw^$all
-||allegrolokalnie-pl.translate.goog^$all
-||allegrolokalnie-pl.*^$all
+||allegrolokalnie-pl.*^$all,domain=~translate.goog
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
 ||allegrolokalnie.one^$all
@@ -2564,6 +2563,7 @@
 ||aoxtrade.com^$all
 ||apartamentydeluxe24.pl^$all
 ||apartamentyrent.pl^$all
+||apartmani-aki-i-vule.ml^$all
 ||apartmentsmara-klimno.com^$all
 ||apcmassage.com^$all
 ||apekola.tcp4.me^$all
@@ -6570,6 +6570,9 @@
 ||fbvetu.n4t.co^$all
 ||fbvverifier.mypi.co^$all
 ||fbweryfikacja.cf^$all
+||fbweryfikacja.gq^$all
+||fbweryfikacja.ml^$all
+||fbweryfikacja.tk^$all
 ||fb-restrictedcase-6a5fa.web.app^$all
 ||fb-service-login*.you2.pl^$all
 ||fb-stalking.com^$all
@@ -6581,6 +6584,8 @@
 ||federalistgalenical.info^$all
 ||feelingdistance.com^$all
 ||feiya.com.pl^$all
+||fejs.cf^$all
+||fejs.ga^$all
 ||fejs.ml^$all
 ||fenateasp.com^$all
 ||fencecompanypa.com^$all
@@ -6791,7 +6796,9 @@
 ||fos.lomt.xyz^$all
 ||foteczka24.net^$all
 ||foteczkipl24.mypressonline.com^$all
+||fotkizneta.vot.pl^$all
 ||fotki-wersow.mypressonline.com^$all
+||fotki-z-neta.vot.pl^$all
 ||fotki.cleverapps.io^$all
 ||fotokraj.com^$all
 ||fotoljilja.com^$all
@@ -6852,6 +6859,7 @@
 ||fss.neostrada.pl^$all
 ||ftonykol-xyz.preview-domain.com^$all
 ||ftp-reklama.gpd24.pl^$all
+||fuarprim.ga^$all
 ||fuerst-von-elsheim.de^$all
 ||fulldownload.pl^$all
 ||fullplayer.pl^$all
@@ -8416,6 +8424,7 @@
 ||klucze.cyou^$all
 ||kobietazaszczepiona.co.pl^$all
 ||kobiety.podpisz-petycje.eu^$all
+||kochamyzwierzeta.vot.pl^$all
 ||kocham-cie.c0.pl^$all
 ||koddoodbioru.com^$all
 ||kodinpost.com^$all
@@ -9607,6 +9616,7 @@
 ||netflix-update.platnosci.tttt-security.com^$all
 ||netflix.com.co.3meseshtml.ga^$all
 ||netflix.pl.murataydeniz.com.tr^$all
+||netflix.pl.rsga.rw^$all
 ||netflix.pl.sri-india.com^$all
 ||netflix.promo3.ml^$all
 ||netflx.com.pl^$all
@@ -9640,15 +9650,18 @@
 ||newsplpge-invest.info^$all
 ||newspl-lts.info^$all
 ||newspl.gq^$all
+||newspolska.098.pl^$all
 ||newspolska.online^$all
 ||newsproduct.site^$all
 ||newsspypro.com^$all
 ||newstiger24.com^$all
+||newstygodnia.pro-linuxpl.com^$all
 ||newsweekpl.gq^$all
 ||newsweeks.xyz^$all
 ||newsyintera24.medianewsonline.com^$all
 ||newsywroclaw.xyz^$all
 ||newsy*.pro-linuxpl.com^$all
+||newsy-krajowe.vdl.pl^$all
 ||newsy.wroclaw.pl^$all
 ||news-bussnse.info^$all
 ||news-deck.at^$all
@@ -11095,6 +11108,7 @@
 ||o-net4.pl^$all
 ||p0czta.net^$all
 ||p0dpf6.webwave.dev^$all
+||p0rtal-register.tk^$all
 ||p8dfy0.webwave.dev^$all
 ||paarla.com^$all
 ||pacificinvestmentsltd.com^$all
@@ -15126,6 +15140,7 @@
 ||wiirtualna-polska.pl^$all
 ||wiktorek140.cba.pl^$all
 ||wildernessimplicit.com^$all
+||wild-deneme123.tk^$all
 ||willa-marina.pl^$all
 ||wilrio.xyz^$all
 ||wimaj.pl^$all
@@ -15663,6 +15678,8 @@
 ||zumodi.com^$all
 ||zus-login.cf^$all
 ||zus-wyplata.cf^$all
+||zus-wyplata.ml^$all
+||zus-wyplata.tk^$all
 ||zweryfikujmojekontoowa.moonfruit.com^$all
 ||zweryfikuj-paczke.xyz^$all
 ||zweryfikuj-platnosc.in.net^$all
