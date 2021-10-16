@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 16 Oct 2021, 13:08 UTC+02
-! Version: 2021.10.16.0
+! Last modified: Sat, 16 Oct 2021, 17:08 UTC+02
+! Version: 2021.10.16.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2603,6 +2603,7 @@
 ||apple.accounts-support.club^$all
 ||apple.com-*.*^$all,domain=live|xyz
 ||apple.com.sn-id.us^$all
+||apple.fmi-iphone.support^$all
 ||apple.online-find.info^$all
 ||apple.*.top^$all,domain=top
 ||appsdorado.com^$all
@@ -3444,6 +3445,7 @@
 ||butysportowepl.com^$all
 ||butysuprasklep.net^$all
 ||butyzimowemartens.pl^$all
+||buty-demonia.com^$all
 ||buycutegifts.com^$all
 ||buyfreelab.com^$all
 ||buylike.pro^$all
@@ -6449,6 +6451,7 @@
 ||e-filmy24.pl^$all
 ||e-gazeta.osc-fr1.scalingo.io^$all
 ||e-gliwice.xyz^$all
+||e-info.co.pl^$all
 ||e-linda.com^$all
 ||e-mailprywatnosc.online^$all
 ||e-mailprywatnosc.site^$all
@@ -6571,6 +6574,7 @@
 ||fakt-24-as.pl^$all
 ||fakt-24-eu.pl^$all
 ||fakt-24-pl.pl^$all
+||fakt-online.waw.pl^$all
 ||fakt.pomoz-rozpoznac-sprawce.tk^$all
 ||falconoption.com^$all
 ||falconpeons.com^$all
@@ -6933,6 +6937,7 @@
 ||fup.gl^$all
 ||furgalsila-com.preview-domain.com^$all
 ||furgonetka.online^$all
+||fusimoba.com^$all
 ||futureadpro.com^$all
 ||futurepay.globway.eu^$all
 ||futuresbtcoffersnew.com^$all
@@ -7652,6 +7657,7 @@
 ||informacja.cc^$all
 ||informacja.club^$all
 ||informacje3.waw.pl^$all
+||informacje24.bedzin.pl^$all
 ||informacje24.eu^$all
 ||informacje24.wroclaw.pl^$all
 ||informacje2021.waw.pl^$all
@@ -8891,11 +8897,16 @@
 ||logintofb.tcp4.me^$all
 ||login-allorbank.com^$all
 ||login-microsoftonline-common.ts.r.appspot.com^$all
+||login-ntf.lumiere77.co.pl^$all
 ||login-o365secure.ts.r.appspot.com^$all
 ||login-paribas-planet.info^$all
 ||login-paribas.at^$all
 ||login-paribas.info^$all
+||login-zaktualizuj-metode.platnosci.beata2.co.pl^$all
 ||login.microsoftorline.com^$all
+||login.ntf.wojtek.co.pl^$all
+||login.planosci-ntf.kosminskam.co.pl^$all
+||login.platnosci-ntf.jumonix.co.pl^$all
 ||logononfb.n4t.co^$all
 ||logowanie-bnpparibas.at^$all
 ||logowanie-facebook.mcjust.pl^$all
@@ -9068,6 +9079,7 @@
 ||luxurygiftpack.com^$all
 ||luxyhyu0.com^$all
 ||lvgrowmarkets.com^$all
+||lvl8aw4.cn^$all
 ||lxyibnxiof.web.app^$all
 ||lyfile.com^$all
 ||lynngonsalvesphotography.com^$all
@@ -9209,6 +9221,7 @@
 ||mastersummer.site^$all
 ||mastersummer.website^$all
 ||mastertradeinvestments.com^$all
+||master-en-controller.com^$all
 ||mastilo.pl^$all
 ||mastromena.com^$all
 ||maszyna.icu^$all
@@ -9636,6 +9649,7 @@
 ||nanakov.com^$all
 ||nanonano.inditama.com^$all
 ||nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com^$all
+||naomilaser.com^$all
 ||napewnosieopplaci.website^$all
 ||napierdzielanki.pl^$all
 ||napoczatekpopatrztutaj.club^$all
@@ -10596,6 +10610,7 @@
 ||olx.payd30.online^$all
 ||olx.payd38.online^$all
 ||olx.payd44.online^$all
+||olx.payd45.online^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pays38.info^$all
@@ -10643,6 +10658,7 @@
 ||olx.pl-holdmoney.club^$all
 ||olx.pl-holdorder.club^$all
 ||olx.pl-holds.club^$all
+||olx.pl-id48696574.xyz^$all
 ||olx.pl-konto-id72.site^$all
 ||olx.pl-konto-orders.club^$all
 ||olx.pl-logowanie.club^$all
@@ -11292,6 +11308,7 @@
 ||pacztex.net^$all
 ||pafiilate.byethost32.com^$all
 ||pagesecureonline-official.com^$all
+||pageseenewz.com^$all
 ||paiementhome-pl-*.*.*^$all
 ||paiementnazwa-pl-*.*.*^$all
 ||paifi.net^$all
@@ -12033,6 +12050,7 @@
 ||plytanagrillapl.com^$all
 ||pl-1.pattern-like.xyz^$all
 ||pl-bankinvest.surge.sh^$all
+||pl-bit.web.app^$all
 ||pl-budim1invpl.info^$all
 ||pl-budimex1-inv.info^$all
 ||pl-buyitnow.pw^$all
@@ -13068,6 +13086,7 @@
 ||redtable.pl^$all
 ||redtoptegmina.info^$all
 ||reebokpolskasklep.pl^$all
+||reeboksklep.com^$all
 ||reenter.moonfruit.com^$all
 ||reffco.info^$all
 ||refleksdag.dk^$all
@@ -13360,6 +13379,7 @@
 ||sasiedzkinews.eu^$all
 ||satisphunksion.com^$all
 ||satoshiminingstream.com^$all
+||saucony-sklep.com^$all
 ||savecapitalinvest.com^$all
 ||savinek-pl.com^$all
 ||saxofxmarkets.com^$all
@@ -15304,6 +15324,7 @@
 ||wiadomosci-teraz5.cleverapps.io^$all
 ||wiadomosci-wroclaw.xyz^$all
 ||wiadomosclokalna.pl^$all
+||wiadomostka005.site^$all
 ||wiadomostka010.site^$all
 ||wiadomostka019.site^$all
 ||wiadomostka037.site^$all
@@ -15556,6 +15577,7 @@
 ||wydanie-polskie24.cyou^$all
 ||wydarzeniaprzeszle.space^$all
 ||wydarzeniaroku020.site^$all
+||wydarzenia-online.waw.pl^$all
 ||wydarzenia.net.pl^$all
 ||wygeneruj-kody.net^$all
 ||wygodnybiznespolska.cyou^$all
@@ -15847,6 +15869,7 @@
 ||zgarnijplik.pl^$all
 ||zgcslam.apnet.pl^$all
 ||zgliwic.xyz^$all
+||zgloszenie102.site^$all
 ||zgloszenie186.site^$all
 ||zgloszenie212.site^$all
 ||zgloszenie260.site^$all
