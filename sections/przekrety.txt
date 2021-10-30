@@ -1,5 +1,4 @@
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa.*
-||taycan.com.pl^$all
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
@@ -8345,6 +8344,7 @@
 ||olx-pl.74882.space^$all
 ||olx-pl.94385.xyz^$all
 ||olx-pl.112121.space^$all
+||olx-pl.474873.space^$all
 ||olx-pl.baserteniti.site^$all
 ||olx-pl.beitarprenn.cf^$all
 ||olx-pl.cc^$all
@@ -9981,6 +9981,7 @@
 ||pl-program.biz^$all
 ||pl-program.us^$all
 ||pl-program.xyz^$all
+||pl-progr-neu.maxfakt.xyz^$all
 ||pl-pro.program-pro1.site^$all
 ||pl-react-prog.criptfast.xyz^$all
 ||pl-receivepays.xyz^$all
@@ -12183,6 +12184,7 @@
 ||tastebuddy.se^$all
 ||tasty-gossip.com^$all
 ||tauron.surge.sh^$all
+||taycan.com.pl^$all
 ||taylorspub.com^$all
 ||tdggrthhbfgnahnmstjasrmst.myartsonline.com^$all
 ||tdradi-xyz.preview-domain.com^$all
@@ -13907,5 +13909,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||olx-pl.474873.space^$all
-||pl-progr-neu.maxfakt.xyz^$all
