@@ -1,7 +1,6 @@
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa.*
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
-||foteczki-wyciek.eu^$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
@@ -4768,6 +4767,7 @@
 ||fos.lomt.xyz^$all
 ||foteczka24.net^$all
 ||foteczkipl24.mypressonline.com^$all
+||foteczki-wyciek.eu^$all
 ||fotki-wersow.mypressonline.com^$all
 ||fotki.cleverapps.io^$all
 ||fotokraj.com^$all
@@ -8483,6 +8483,7 @@
 ||onet-technologie.online^$all
 ||onet-warszawa.xyz^$all
 ||onet-wazne.waw.pl^$all
+||onet-wiadomosci.czest.pl^$all
 ||onet-wiadomosc.online^$all
 ||onet-wiadomosc.xyz^$all
 ||onet-wielkopolskie.xyz^$all
@@ -9947,6 +9948,7 @@
 ||poczta.pl-orderpaid.cyou^$all
 ||poczta.pl-receive.work^$all
 ||poczta.pl-safeway.live^$all
+||poczta.weryfikacja-uzytkownika.site^$all
 ||poczta.wp-firewall.website^$all
 ||poczta.wp-pl.eu^$all
 ||poczteka.net^$all
@@ -12401,6 +12403,7 @@
 ||twojbon.com^$all
 ||twojebony.com.pl^$all
 ||twojefilmy.online^$all
+||twojeinformacje24.pl^$all
 ||twojemiaasto.dnsrobotuptime.ru^$all
 ||twoje-fakty.online^$all
 ||twoje-fb-logowanie7.dnsrobotuptime.ru^$all
@@ -13649,6 +13652,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||onet-wiadomosci.czest.pl^$all
-||poczta.weryfikacja-uzytkownika.site^$all
-||twojeinformacje24.pl^$all
