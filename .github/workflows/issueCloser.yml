@@ -1,0 +1,19 @@
+name: Portier
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  letsgo:
+    if: github.event.label.name == 'zatwierdzone' || github.event.label.name == 'odrzucone' || github.event.label.name == 'dawno zrobione'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v5
+        with:
+          script: |
+              github.rest.issues.update({
+                      owner: context.repo.owner,
+                      repo: context.repo.repo,
+                      issue_number: context.issue.number,
+                      state: "closed"
+              })
