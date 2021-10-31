@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 31 Oct 2021, 16:08 UTC+01
-! Version: 2021.10.31.2
+! Last modified: Sun, 31 Oct 2021, 20:09 UTC+01
+! Version: 2021.10.31.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1603,6 +1603,7 @@
 ||wnrne.com^$all
 ||wooptrk.com^$all
 ||worki-do-odkurzaczy.pl^$all
+||workstations.pl^$all
 ||worldoftankscheats.com^$all
 ||wpunkcie.pl^$all
 ||wraplo.pl^$all
@@ -1682,7 +1683,7 @@
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$document,domain=biz
-/^https:\/\/[-0-9a-z]{12,19}\.(?:com|life)\/\?u=[0-9a-z]{7,}&o=[0-9a-z]{7,}&t=/$document,domain=com|life
+/^https:\/\/[-0-9a-z]{12,}\.(?:com|life)\/\?u=[0-9a-z]{7,}&o=[0-9a-z]{7,}&t=/$document,domain=com|life
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$document,domain=site
 ||0n.click^$all
 ||9dcm.net^$all
@@ -1716,6 +1717,7 @@
 ||brzegiemziemi.pl^$all
 ||bulanmanabisadiam.com^$all
 ||camperoutlets.com^$all
+||casualdates-here.life^$all
 ||cerine-posals.icu^$all
 ||claimyourprizes*.life^$all
 ||clck-now.com^$all
@@ -6767,6 +6769,7 @@
 ||fos.lomt.xyz^$all
 ||foteczka24.net^$all
 ||foteczkipl24.mypressonline.com^$all
+||foteczki-wyciek.eu^$all
 ||fotki-wersow.mypressonline.com^$all
 ||fotki.cleverapps.io^$all
 ||fotokraj.com^$all
@@ -10482,6 +10485,7 @@
 ||onet-technologie.online^$all
 ||onet-warszawa.xyz^$all
 ||onet-wazne.waw.pl^$all
+||onet-wiadomosci.czest.pl^$all
 ||onet-wiadomosc.online^$all
 ||onet-wiadomosc.xyz^$all
 ||onet-wielkopolskie.xyz^$all
@@ -11946,6 +11950,7 @@
 ||poczta.pl-orderpaid.cyou^$all
 ||poczta.pl-receive.work^$all
 ||poczta.pl-safeway.live^$all
+||poczta.weryfikacja-uzytkownika.site^$all
 ||poczta.wp-firewall.website^$all
 ||poczta.wp-pl.eu^$all
 ||poczteka.net^$all
@@ -14400,6 +14405,7 @@
 ||twojbon.com^$all
 ||twojebony.com.pl^$all
 ||twojefilmy.online^$all
+||twojeinformacje24.pl^$all
 ||twojemiaasto.dnsrobotuptime.ru^$all
 ||twoje-fakty.online^$all
 ||twoje-fb-logowanie7.dnsrobotuptime.ru^$all
