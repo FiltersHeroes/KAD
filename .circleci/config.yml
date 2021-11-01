@@ -2,7 +2,7 @@ version: 2
 jobs:
   CERT:
     docker:
-    - image: polishfiltersteam/kad_image:2.26.8
+    - image: polishfiltersteam/kad_image:2.26.9
     working_directory: ~/git/KAD
     steps:
     - checkout
@@ -13,7 +13,7 @@ jobs:
           - sections/przekrety.txt
   LWS:
     docker:
-    - image: polishfiltersteam/kad_image:2.26.8
+    - image: polishfiltersteam/kad_image:2.26.9
     working_directory: ~/git/KAD
     steps:
     - checkout
@@ -24,7 +24,7 @@ jobs:
           - sections/podejrzane_inne_oszustwa.txt
   Aktualizacja:
     docker:
-    - image: polishfiltersteam/kad_image:2.26.8
+    - image: polishfiltersteam/kad_image:2.26.9
     working_directory: ~/git/KAD
     steps:
     - checkout
