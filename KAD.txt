@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 01 Nov 2021, 12:09 UTC+01
-! Version: 2021.11.1.0
+! Last modified: Mon, 01 Nov 2021, 16:08 UTC+01
+! Version: 2021.11.1.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -77,6 +77,7 @@
 ||alohafromdeer.com^$all
 ||alpimade.pl^$all
 ||altrarunningpl.com^$all
+||amorza.pl^$all
 ||androidgameshacks.com^$all
 ||andrzej-adryan.pl^$all
 ||angelclassy.com^$all
@@ -476,6 +477,7 @@
 ||esamochod.pl^$all
 ||essonne11.com^$all
 ||estelaz.pl^$all
+||etalfe.store^$all
 ||etilang.pl^$all
 ||etnies-polska.com^$all
 ||europan.pl^$all
@@ -676,6 +678,7 @@
 ||inwestujwrozwoj.pl^$all
 ||iperfumeriatestery.pl^$all
 ||ipzd.pl^$all
+||irufinlboock.com^$all
 ||isabellstudio.com.pl^$all
 ||itpesthetique.pl^$all
 ||iv24.pl^$all
@@ -924,7 +927,9 @@
 ||mobiluj.sk^$all
 ||mobverify.com^$all
 ||mocnyfull.com.pl^$all
+||modablask.com^$all
 ||modamart.pl^$all
+||modawanilia.com^$all
 ||modi4moda.com^$all
 ||modwebpro.pl^$all
 ||mojadietanamase.pl^$all
@@ -1329,6 +1334,7 @@
 ||sklepyhugoboss.pl^$all
 ||sklep-colway.com^$all
 ||sklep-colway.pl^$all
+||sklep-okazja.com^$all
 ||sklep.dagma.pl^$all
 ||sklep.ekoenergia24.eu^$all
 ||skupjajek.pl^$all
@@ -1435,6 +1441,7 @@
 ||tanie.to^$all
 ||teatromiasto.com.pl^$all
 ||techfan.pl^$all
+||teddywood.pl^$all
 ||telefonia.shoplo.com^$all
 ||telemediaa.pl^$all
 ||tengofoxfiles.com^$all
@@ -1450,6 +1457,8 @@
 ||tfaz.pl^$all
 ||theangelblankets.co^$all
 ||thebeso.pl^$all
+||thegladbox-pl.com^$all
+||theretroshop.pl^$all
 ||thermomix.vorwerk.pl/kup-thermomixr/|$document,domain=~przemysl-zamowienie-prezentacji
 ||theultimatebeds.com^$all
 ||the-titanium.com^$all
@@ -1546,6 +1555,7 @@
 ||vidaxl.pl^$all
 ||videodownloadconverter.com^$all
 ||vincenzodellavecchia.xyz^$all
+||viotaa.com^$all
 ||vipcheats.us^$all
 ||vision2020.pl^$all
 ||vitajuice.com.pl^$all
@@ -1680,6 +1690,7 @@
 ||z-promo.com^$all
 !
 ! Przekierowują do innych stron z przekrętami
+.net/c/*?s1=$document,domain=net
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$document,domain=biz
@@ -2477,6 +2488,7 @@
 ||allegro.pl.*.pl^$all,domain=~allegro.pl|pl
 ||allegro.su^$all
 ||alleqrolokalne.pl^$all
+||alleqrolokalnie.com^$all
 ||allianzmarket.biz^$all
 ||allianzmarket.com^$all
 ||alliegro.pl^$all
@@ -3345,6 +3357,7 @@
 ||calyfilmhd.over-blog.com^$all
 ||calyfilm-onlinepl.over-blog.com^$all
 ||camaleonshopping.com^$all
+||cameliatruta.com^$all
 ||cammalo.com^$all
 ||campaign-olx.pl^$all
 ||campanologyentombed.info^$all
@@ -6448,6 +6461,7 @@
 ||fakturo-wnia.gq^$all
 ||fakturo-wnia.ml^$all
 ||faktury-runner.duckdns.org^$all
+||fakty24bedogie.pl^$all
 ||fakty24gazeta.pl^$all
 ||fakty24h.eu^$all
 ||fakty24informacjelive.pl^$all
@@ -6459,6 +6473,7 @@
 ||fakty24live.pl^$all
 ||fakty24onlinee.net.pl^$all
 ||fakty24online.pl^$all
+||fakty24onnlinee.pl^$all
 ||fakty24onnnline.rf.gd^$all
 ||fakty24wmiesice.eu^$all
 ||fakty24zaginiony.eu^$all
@@ -6467,6 +6482,7 @@
 ||faktynazywo-24.eu^$all
 ||faktynews-online24.eu^$all
 ||faktypolska*.b-cdn.net^$all
+||faktyyy24.pl^$all
 ||faktyzaginiecie24.*^$all
 ||fakty-24-pl.com.pl^$all
 ||fakty-24-pl.pl^$all
@@ -7864,6 +7880,8 @@
 ||inpost.pl-savepaid.cyou^$all
 ||inpost.pl-trackcode-info-id321413.xyz^$all
 ||inpost.pl-trackcode-info-id478915.xyz^$all
+||inpost.pl-trackcode-info-id783215.xyz^$all
+||inpost.pl-trackcode-info-id896392.xyz^$all
 ||inpost.pl-trackcode-info-id983713.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.pl.aus-payforitto.pw^$all
@@ -8149,6 +8167,7 @@
 ||jawna.waw.pl^$all
 ||jazarabiam.waw.pl^$all
 ||jbfilmyseriale.pl^$all
+||jbvng.hottybabe.net^$all
 ||jccform.jazancci-display.info^$all
 ||jcpatronr.com^$all
 ||jdaldavno-com.preview-domain.com^$all
@@ -8242,6 +8261,7 @@
 ||just-education.info^$all
 ||jutrobedzie.is-best.net^$all
 ||jutup.pl^$all
+||juzczas.waw.pl^$all
 ||juzniedlugotosiestanie.cyou^$all
 ||juzzajakkisczas.site^$all
 ||jwi3ofp9gpgu8e9x9.xyz^$all
@@ -9034,6 +9054,7 @@
 ||margohack.za.pl^$all
 ||mariapolska.pl^$all
 ||mariola180.co.pl^$all
+||markdcross.com^$all
 ||marketbull.co.uk^$all
 ||marketgnit.info^$all
 ||marketgnsi.info^$all
@@ -9345,6 +9366,7 @@
 ||monosyllablesunreadinesses.info^$all
 ||monpay.site^$all
 ||montalvo-s.com^$all
+||monthlyselectionsdraw.com^$all
 ||montres-maroc.com^$all
 ||montrouge24.com^$all
 ||moontradefx.com^$all
@@ -14382,8 +14404,10 @@
 ||twojbon.com^$all
 ||twojebony.com.pl^$all
 ||twojefilmy.online^$all
+||twojeinformacje1.pl^$all
 ||twojeinformacje2.pl^$all
 ||twojeinformacje3.pl^$all
+||twojeinformacje4.pl^$all
 ||twojeinformacje5.pl^$all
 ||twojeinformacje6.pl^$all
 ||twojeinformacje7.pl^$all
@@ -14978,6 +15002,7 @@
 ||wiadomostka979.site^$all
 ||wiado-mosci5.netlify.app^$all
 ||wiado-mosci8.netlify.app^$all
+||widactwarznanagraniu.pl^$all
 ||wideleced.icu^$all
 ||widelec.icu^$all
 ||widget-eforsa.pl^$all
