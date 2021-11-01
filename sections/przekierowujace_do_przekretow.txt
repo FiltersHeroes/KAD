@@ -1,4 +1,5 @@
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
+.net/c/*?s1=$document,domain=net
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$document,domain=biz
 /^https:\/\/[-0-9a-z]{12,}\.(?:com|life)\/\?u=[0-9a-z]{7,}&o=[0-9a-z]{7,}&t=/$document,domain=com|life
