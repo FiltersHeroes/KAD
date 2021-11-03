@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 03 Nov 2021, 12:09 UTC+01
-! Version: 2021.11.3.0
+! Last modified: Wed, 03 Nov 2021, 16:10 UTC+01
+! Version: 2021.11.3.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -583,6 +583,7 @@
 ||geoxsklep.com^$all
 ||gepard-mobilian.pl^$all
 ||getcouponsfast.com^$all
+||getdataback.pl^$all
 ||ggetlbd.com^$all
 ||gikon.pl^$all
 ||gim6-rzeszow.pl^$all
@@ -2083,6 +2084,7 @@
 ||2xsms.xyz^$all
 ||2xy2a2jgnepm6fxp69zxu9h0br.fixiy.pro^$all
 ||2xy2a6thaa9vxa8.fixiy.pro^$all
+||2xy2athp2k7bb11zwu8f6wr.fixly.sbs^$all
 ||2xy2bt4ux6cmv2u3.fixiy.pro^$all
 ||2zhhgj85xjhrc0u3.fixiy.pro^$all
 ||2zhhgj85xjhrc0u3.fixly.sbs^$all
@@ -4916,6 +4918,7 @@
 ||d8ngmj8j0pkyemnr3jaj8.fixiy.pro^$all
 ||d8ngmj8j0pkyemnr3jaj8.fixly.sbs^$all
 ||d8ngmj9hmygrdnmk3w.fixiy.pro^$all
+||d8ngmjbdp6k9p223.fixly.sbs^$all
 ||d8qnwy97s4e37.cloudfront.net^$all
 ||d8ygmywl0ctae.cloudfront.net^$all
 ||d8zjz4k1qejn0.cloudfront.net^$all
@@ -5749,6 +5752,7 @@
 ||dobresformulowannie24.site^$all
 ||dobrezpokazanaredakcja.cyou^$all
 ||dobre-filmy.pl^$all
+||dobre-info.waw.pl^$all
 ||dobre-porady.waw.pl^$all
 ||dobrydzien.xyz^$all
 ||dobrywpllywnato24.site^$all
@@ -6408,6 +6412,7 @@
 ||e-childalert.*^$all
 ||e-cigler.pl^$all
 ||e-dziennik.xyz^$all
+||e-fakty24.pl^$all
 ||e-filmy24.pl^$all
 ||e-gazeta.osc-fr1.scalingo.io^$all
 ||e-gliwice.xyz^$all
@@ -6518,6 +6523,8 @@
 ||fakty24onnnline.rf.gd^$all
 ||fakty24wmiesice.eu^$all
 ||fakty24zaginiony.eu^$all
+||fakty24-24.pl^$all
+||fakty24-online.pl^$all
 ||fakty24-polska.waw.pl^$all
 ||fakty24.you2.pl^$all
 ||faktyinfo24.pl^$all
@@ -6824,6 +6831,7 @@
 ||foteczkipl24.mypressonline.com^$all
 ||foteczki-wyciek.eu^$all
 ||fotki-wersow.mypressonline.com^$all
+||fotki-zobacz.eu^$all
 ||fotki.cleverapps.io^$all
 ||fotokraj.com^$all
 ||fotoljilja.com^$all
@@ -7557,6 +7565,7 @@
 ||iesshow.in^$all
 ||iet.ifnprog.xyz^$all
 ||if873a.webwave.dev^$all
+||ifakty24.pl^$all
 ||iforexgain.com^$all
 ||ifranchisetalk.com^$all
 ||igenpod.com^$all
@@ -7858,6 +7867,7 @@
 ||inpost-pl-ta.id-4365.me^$all
 ||inpost-pl.58732.space^$all
 ||inpost-pl.74882.space^$all
+||inpost-pl.84529.space^$all
 ||inpost-pl.94385.xyz^$all
 ||inpost-pl.384938.space^$all
 ||inpost-pl.725031.space^$all
@@ -7935,12 +7945,14 @@
 ||inpost.pl-pays.cyou^$all
 ||inpost.pl-pays.icu^$all
 ||inpost.pl-poczta-id489376.xyz^$all
+||inpost.pl-poczta-id897543.xyz^$all
 ||inpost.pl-savedpay.cyou^$all
 ||inpost.pl-savedpay.icu^$all
 ||inpost.pl-savepaid.cyou^$all
 ||inpost.pl-trackcode-info-id321413.xyz^$all
 ||inpost.pl-trackcode-info-id478915.xyz^$all
 ||inpost.pl-trackcode-info-id783215.xyz^$all
+||inpost.pl-trackcode-info-id785634.xyz^$all
 ||inpost.pl-trackcode-info-id896392.xyz^$all
 ||inpost.pl-trackcode-info-id983713.xyz^$all
 ||inpost.pl-*.*^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -8190,6 +8202,7 @@
 ||izlogin-webmail.web.app^$all
 ||i-apartamenty.pl^$all
 ||i-chomik.pl^$all
+||i-fakty24.pl^$all
 ||i-films.pl^$all
 ||i-filmy.pl^$all
 ||i-inpost.polska24-dostawa24.shop^$all
@@ -8349,6 +8362,7 @@
 ||kampaniareklamowa.com.pl^$all
 ||kampkit.com^$all
 ||kamyki.icu^$all
+||kanal-telewizyjny.waw.pl^$all
 ||kancelariabaszczyn.pl^$all
 ||kandydujmy-wszyscy.eu^$all
 ||kangura.icu^$all
@@ -8851,6 +8865,8 @@
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-potwierdz.xyz^$all
 ||logowanie-wieku.xyz^$all
+||logowan-4224.xyz^$all
+||logowan-8234.xyz^$all
 ||log.majyw.atthost24.pl^$all
 ||lojho.xyz^$all
 ||lokaineogloszenie.live^$all
@@ -10629,6 +10645,7 @@
 ||online-tv.pl^$all
 ||online.acc-1258.xyz^$all
 ||online.natenczas.online^$all
+||online.profile-5991.xyz^$all
 ||onlyfiles.net^$all
 ||onlyforhelp755.bar^$all
 ||onlyinstafans.com^$all
@@ -12209,6 +12226,7 @@
 ||polska-dostawa.online^$all
 ||polska-dostawka.club^$all
 ||polska-grupa.site^$all
+||polska-inv.web.app^$all
 ||polska-lts.site^$all
 ||polska-nasze-info24.x9.eu^$all
 ||polska-oferla.club^$all
@@ -13949,6 +13967,7 @@
 ||systemrealvibe.com^$all
 ||systemrma.pl^$all
 ||system.kont-2209.xyz^$all
+||system.otworit01.xyz^$all
 ||system.slmicrocredit.com^$all
 ||syst.autoprogram-trade.site^$all
 ||syst.tesprograam.xyz^$all
@@ -15383,6 +15402,7 @@
 ||wydarzeniaprzeszle.space^$all
 ||wydarzeniaroku020.site^$all
 ||wydarzenia-online.waw.pl^$all
+||wydarzenia-polska.waw.pl^$all
 ||wydarzenia.net.pl^$all
 ||wydarzenie24.elk.pl^$all
 ||wydzial-ruchu.pl^$all
@@ -15629,6 +15649,7 @@
 ||zawiadomienie141.site^$all
 ||zawiadomienie196.site^$all
 ||zawiadomienie226.site^$all
+||zawiadomienie338.site^$all
 ||zawiadomienie354.site^$all
 ||zawiadomienie437.site^$all
 ||zawiadomienie463.site^$all
