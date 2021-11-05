@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 05 Nov 2021, 12:09 UTC+01
-! Version: 2021.11.5.0
+! Last modified: Fri, 05 Nov 2021, 16:09 UTC+01
+! Version: 2021.11.5.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7901,6 +7901,7 @@
 ||inpost-pl-safe.id-safety.store^$all
 ||inpost-pl-secure.id-safety.sbs^$all
 ||inpost-pl-secure.id-safety.shop^$all
+||inpost-pl-ssl.id-safety.sbs^$all
 ||inpost-pl-ta.id-4365.me^$all
 ||inpost-pl.58732.space^$all
 ||inpost-pl.74882.space^$all
@@ -7911,7 +7912,9 @@
 ||inpost-pl.725031.space^$all
 ||inpost-pl.785923.space^$all
 ||inpost-pl.855523.space^$all
+||inpost-pl.2653356-offerts.xyz^$all
 ||inpost-pl.5476128-order.xyz^$all
+||inpost-pl.6235482-bill-order.xyz^$all
 ||inpost-pl.6352915-offerts.xyz^$all
 ||inpost-pl.7758473.space^$all
 ||inpost-pl.britembuy.pw^$all
@@ -7964,6 +7967,7 @@
 ||inpost.olxkon*.*^$all,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.one^$all
 ||inpost.order-pl.art^$all
+||inpost.pay-order-safe.site^$all
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-basederecom.pw^$all
 ||inpost.pl-c.cf^$all
