@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 05 Nov 2021, 20:37 UTC+01
-! Version: 2021.11.5.1
+! Last modified: Fri, 05 Nov 2021, 23:08 UTC+01
+! Version: 2021.11.5.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -288,6 +288,7 @@
 ||cairn-westie.com.pl^$all
 ||calcionostra.pl^$all
 ||calistenix.pl^$all
+||calvinkleinsklep.pl^$all
 ||calzini.org^$all
 ||camiliana.pl^$all
 ||camperpolskasklep.com^$all
@@ -597,6 +598,7 @@
 ||glinkss.com^$all
 ||gmagazyn.pl^$all
 ||gnibrinfgoy.com^$all
+||gnootel.com^$all
 ||gojiberry500.pl^$all
 ||gokano.com^$all
 ||goldenrelations.pl^$all
@@ -1532,6 +1534,7 @@
 ||uggoutlet.pl^$all
 ||uggpolskasklep.com^$all
 ||uggwyprzedaz.pl^$all
+||uksale.pl^$all
 ||ukskrokus.pl^$all
 ||ukssvida.pl^$all
 ||ultracolors.pl^$all
@@ -6579,11 +6582,13 @@
 ||faktyzaginiecie24.*^$all
 ||fakty-24-pl.com.pl^$all
 ||fakty-24-pl.pl^$all
+||fakty-24-wydarzenia.pl^$all
 ||fakty-informacje24.you2.pl^$all
 ||fakty-onet48.*^$all
 ||fakty-polska24.eu^$all
 ||fakty-po-faktach.pl^$all
 ||fakt*.is-best.net^$all
+||fakt-24-wydarzenia.pl^$all
 ||fakt-online.waw.pl^$all
 ||falconoption.com^$all
 ||falconpeons.com^$all
@@ -10602,6 +10607,7 @@
 ||olx.pl.oferta.cyou^$all
 ||olx.pl.topaybbitfor.pw^$all
 ||olx.pl.transbuyingite.pw^$all
+||olx.pl.wysylka.me^$all
 ||olx.pl.wysylka.net^$all
 ||olx.pl.wysylka.shop^$all
 ||olx.pl.*.*^$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -11718,6 +11724,7 @@
 ||pieklodlakobiet.podpisz-petycje.eu^$all
 ||pieklokobiet.podpisz-petycje.eu^$all
 ||pieklo-kobiet.podpisz-petycje.eu^$all
+||pieknebajki.pl^$all
 ||piekne.bloguje-teraz.eu^$all
 ||piekniludzie.live^$all
 ||pieknozywicy.pl^$all
@@ -11942,6 +11949,9 @@
 ||pl-dostawa.top^$all
 ||pl-dpd-dostawa.30997.space^$all
 ||pl-fakt24.pl^$all
+||pl-fakty-24-wydarzenia.pl^$all
+||pl-fakty-wydarzenia.pl^$all
+||pl-fakt-24-wydarzenia.pl^$all
 ||pl-gazeta.osc-fr1.scalingo.io^$all
 ||pl-getcash.club^$all
 ||pl-getcash.xyz^$all
@@ -12567,6 +12577,7 @@
 ||pozostalospoorroczasu.cyou^$all
 ||pozyczkiwroclaw.com.pl^$all
 ||po-covid19.waw.pl^$all
+||po-szczepieniu.pl^$all
 ||po.fyybox.com^$all
 ||ppay.site^$all
 ||ppdos.capitalnoster.site^$all
@@ -14104,6 +14115,8 @@
 ||szczepieniebezigly.info^$all
 ||szczepieniebezigly.la^$all
 ||szczepienieprzeciwcovid.co.pl^$all
+||szczepimysie.org.pl^$all
+||szczepionki0.pl^$all
 ||szczepionki24.you2.pl^$all
 ||szczepionki.000webhostapp.com^$all
 ||szczesliwe-zakupy.click^$all
@@ -14137,6 +14150,7 @@
 ||szukamyjej.rest^$all
 ||szukamypl.rest^$all
 ||szukamyteraz.rest^$all
+||szukaszsiebie.pl^$all
 ||szybcyiwscielki7.wordpress.com^$all
 ||szybka7demka24h7.click^$all
 ||szybka-dostawa.pl^$all
@@ -15926,6 +15940,7 @@
 ||zwiazekbankowpolskich.com^$all
 ||zwierzeta-olx.pl^$all
 ||zwierzoszop.com^$all
+||zwyklyspacer.pl^$all
 ||zycienieuslaneluksusem.website^$all
 ||zyciezdnianadzien.cyou^$all
 ||zyciezycie.cam^$all
