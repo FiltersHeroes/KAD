@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 07 Nov 2021, 20:09 UTC+01
-! Version: 2021.11.7.2
+! Last modified: Sun, 07 Nov 2021, 23:09 UTC+01
+! Version: 2021.11.7.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2448,6 +2448,7 @@
 ||allegrolokalkie.*^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl-3dsecure.id-safety.sbs^$all
+||allegrolokalnie-pl-safe.id-safety.club^$all
 ||allegrolokalnie-pl.6839312.space^$all
 ||allegrolokalnie-pl.payregisway.pw^$all
 ||allegrolokalnie-pl.*^$all,domain=~translate.goog|~translate.google.*
@@ -6102,6 +6103,7 @@
 ||ebd-cda.pl^$all
 ||ebokpge.live^$all
 ||ebonplus.com/$document
+||ebonplus.com^$all
 ||ebookeo.pl^$all
 ||ebooks.com.pl^$all
 ||ebusiness-elotoss.website^$all
@@ -8045,6 +8047,7 @@
 ||invvest-pl.website^$all
 ||invxsler.com^$all
 ||inv-poland.web.app^$all
+||inv-polska.web.app^$all
 ||inv-space.info^$all
 ||inwestenergia1.space^$all
 ||inwestenergia2.space^$all
@@ -15389,6 +15392,7 @@
 ||xn--c3ca7brwp8cb5a8bdr7kqe.com^$all
 ||xn--emojezamwienie8324-x1b.pl^$all
 ||xn--faktygwat-xub.*^$all
+||xn--igraszkinocnezroksan-nkc.cba.pl^$all
 ||xn--ldgr-xva7266b.com^$all
 ||xn--leospizza-m6a.com^$all
 ||xn--lotos-aktualnoci-1bd.site^$all
