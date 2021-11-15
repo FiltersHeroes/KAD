@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 15 Nov 2021, 16:10 UTC+01
-! Version: 2021.11.15.1
+! Last modified: Mon, 15 Nov 2021, 20:09 UTC+01
+! Version: 2021.11.15.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2427,6 +2427,8 @@
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl-3dsecure.id-safety.click^$all
 ||allegrolokalnie-pl-safe.id-safety.click^$all
+||allegrolokalnie-pl-safe.id-safety.quest^$all
+||allegrolokalnie-pl.88654.space^$all
 ||allegrolokalnie-pl.6839312.space^$all
 ||allegrolokalnie-pl.payregisway.pw^$all
 ||allegrolokalnie-pl.*^$all,domain=~translate.goog|~translate.google.*
@@ -6181,6 +6183,7 @@
 ||edziennik.xyz^$all
 ||eerotans.com^$all
 ||eero-systems.xyz^$all
+||efakty24informacje.pl^$all
 ||effective-bussiness.info^$all
 ||effluvialmayflowers.com^$all
 ||eforsa.pl^$all
@@ -6405,6 +6408,7 @@
 ||e-childalert.*^$all
 ||e-cigler.pl^$all
 ||e-dziennik.xyz^$all
+||e-fakty24informacje.pl^$all
 ||e-filmy24.pl^$all
 ||e-gazeta.osc-fr1.scalingo.io^$all
 ||e-gliwice.xyz^$all
@@ -6511,6 +6515,8 @@
 ||fakty24h.eu^$all
 ||fakty24informacjelive.pl^$all
 ||fakty24informacjeonline.pl^$all
+||fakty24informacje-24.pl^$all
+||fakty24informacje-online.pl^$all
 ||fakty24informacje.pl^$all
 ||fakty24info.epizy.com^$all
 ||fakty24info.pl^$all
@@ -6973,6 +6979,7 @@
 ||gazeta24informacyjnie.pl^$all
 ||gazeta24info.pl^$all
 ||gazeta24pl.osc-fr1.scalingo.io^$all
+||gazeta24wazna.pl^$all
 ||gazetafakt24.pl^$all
 ||gazetagdynia.xyz^$all
 ||gazetainfo24.pl^$all
@@ -7581,6 +7588,7 @@
 ||iesshow.in^$all
 ||iet.ifnprog.xyz^$all
 ||if873a.webwave.dev^$all
+||ifakty24informacje.pl^$all
 ||iforexgain.com^$all
 ||ifranchisetalk.com^$all
 ||igenpod.com^$all
@@ -7863,6 +7871,7 @@
 ||inpostpl.com^$all
 ||inpost-a.id-43980.me^$all
 ||inpost-cli.id-info0837.ws^$all
+||inpost-cop.id-info7364.me^$all
 ||inpost-c.id-3828883.me^$all
 ||inpost-delivering.icu^$all
 ||inpost-delivery-pl.icu^$all
@@ -7905,6 +7914,7 @@
 ||inpost-pl-pay.site^$all
 ||inpost-pl-ptb.id-4989980.me^$all
 ||inpost-pl-safe.id-safety.click^$all
+||inpost-pl-safe.id-safety.quest^$all
 ||inpost-pl-secure.id-safety.shop^$all
 ||inpost-pl-ta.id-4365.me^$all
 ||inpost-pl.12354.site^$all
@@ -7928,6 +7938,7 @@
 ||inpost-pl.com^$all
 ||inpost-pl.deliverorder.pw^$all
 ||inpost-pl.getcashorder.xyz^$all
+||inpost-pl.getpay-3dsecur.xyz^$all
 ||inpost-pl.goodspurchase.pw^$all
 ||inpost-pl.id-safety.digital^$all
 ||inpost-pl.id-safety.quest^$all
@@ -7976,6 +7987,7 @@
 ||inpost.one^$all
 ||inpost.order-pl.art^$all
 ||inpost.pay-order-safe.site^$all
+||inpost.plsellingmyname.xyz^$all
 ||inpost.plskontas.cyou^$all
 ||inpost.plsoldertome.xyz^$all
 ||inpost.pl-basederecom.pw^$all
@@ -8257,6 +8269,7 @@
 ||izlogin-webmail.web.app^$all
 ||i-apartamenty.pl^$all
 ||i-chomik.pl^$all
+||i-fakty24informacje.pl^$all
 ||i-films.pl^$all
 ||i-filmy.pl^$all
 ||i-inpost.polska24-dostawa24.shop^$all
@@ -8393,7 +8406,12 @@
 ||juzkielce.xyz^$all
 ||juzkolobrzeg.xyz^$all
 ||juzkrakow.xyz^$all
+||juzlubin.xyz^$all
+||juzlublin.xyz^$all
 ||juzniedlugotosiestanie.cyou^$all
+||juzolsztyn.xyz^$all
+||juzopole.xyz^$all
+||juzpoznan.xyz^$all
 ||juzzajakkisczas.site^$all
 ||jwi3ofp9gpgu8e9x9.xyz^$all
 ||jwy.ifnprog.xyz^$all
@@ -10403,6 +10421,7 @@
 ||olx-i.pl^$all
 ||olx-j.id-43980.me^$all
 ||olx-j.pl^$all
+||olx-kbhr.id-info7364.me^$all
 ||olx-ko.pl^$all
 ||olx-kurier.pl^$all
 ||olx-k.pl^$all
@@ -10487,6 +10506,7 @@
 ||olx-pl.cc^$all
 ||olx-pl.com-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.depget.com^$all
+||olx-pl.europays.xyz^$all
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.eu^$all
 ||olx-pl.ez-pays.ru^$all
@@ -12431,6 +12451,7 @@
 ||polska--wiadomosci24h.x9.eu^$all
 ||polska.unface.icu^$all
 ||polskiagazeta24.serwerplus.pl^$all
+||polskidziennik.098.pl^$all
 ||polskidziennik.pl^$all
 ||polskieczasy0.online^$all
 ||polskieeinformacje.online^$all
@@ -15138,8 +15159,10 @@
 ||waypl-program.info^$all
 ||waytorich.xyz^$all
 ||waznagazeta24.pl^$all
+||wazne24gazeta.pl^$all
 ||wazneesprawy.online^$all
 ||waznefakty24.pl^$all
+||waznegazeta24.pl^$all
 ||wazneinfo.pl^$all
 ||waznesprawypolakkow.space^$all
 ||waznesprawywpolscee.online^$all
