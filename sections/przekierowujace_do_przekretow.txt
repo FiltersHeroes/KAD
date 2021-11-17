@@ -1,4 +1,3 @@
-||backguard.pl^$all
 .net/c/*?s1=$document,domain=net
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
@@ -20,6 +19,7 @@
 ||ascraftan.com^$all
 ||aselink.guru^$all
 ||astrazenega.co.uk^$all
+||backguard.pl^$all
 ||backup2.serverclienti.com^$all
 ||bestfollowers.org^$all
 ||bestoffer2021.info^$all
