@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 18 Nov 2021, 20:09 UTC+01
-! Version: 2021.11.18.2
+! Last modified: Thu, 18 Nov 2021, 23:09 UTC+01
+! Version: 2021.11.18.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3418,6 +3418,7 @@
 ||cassical.com^$all
 ||catalpasgunpapers.info^$all
 ||catalpaswaxworks.info^$all
+||catbutysklep.pl^$all
 ||caterpillarpolska.co^$all
 ||caterpillarpolska.top^$all
 ||catsplit.net.pl^$all
@@ -3566,6 +3567,7 @@
 ||ciekawostka0d1.site^$all
 ||ciekawostka0rz.site^$all
 ||ciekawostka1d1.site^$all
+||ciekawostka2d2.site^$all
 ||ciekawostka09q.site^$all
 ||ciekawostka19q.site^$all
 ||ciekawostka073.site^$all
@@ -3710,6 +3712,7 @@
 ||controlsteamsone.xyz^$all
 ||conversebutypl.com^$all
 ||conversepolskapl.com^$all
+||conversepromocje.pl^$all
 ||converti.pro^$all
 ||cool4mob.com^$all
 ||coolboxpl2.com^$all
@@ -5837,6 +5840,9 @@
 ||doniesienie1fp.site^$all
 ||doniesienie1hb.site^$all
 ||doniesienie1nz.site^$all
+||doniesienie2fp.site^$all
+||doniesienie2hb.site^$all
+||doniesienie2nz.site^$all
 ||doniesienie100.site^$all
 ||doniesienie238.site^$all
 ||doniesienie452.site^$all
@@ -5936,6 +5942,7 @@
 ||dpd-pl.834938.space^$all
 ||dpd-pl.safe-pay.site^$all
 ||dpd-pl.sec-transaction.site^$all
+||dpd-wne.my-oferta.com^$all
 ||dpejwyk5eyul1.cloudfront.net^$all
 ||dpkb8wsd5bmct.cloudfront.net^$all
 ||dppn96depxyay.cloudfront.net^$all
@@ -7734,16 +7741,19 @@
 ||info0aj.site^$all
 ||info0m3.site^$all
 ||info1aj.site^$all
+||info2aj.site^$all
 ||info08j.site^$all
 ||info18j.site^$all
 ||info19.me^$all
 ||info24fakty.epizy.com^$all
 ||info24gazeta.pl^$all
 ||info24.bydgoszcz.pl^$all
+||info28j.site^$all
 ||info034.site^$all
 ||info134.site^$all
 ||info341.site^$all
 ||info451.site^$all
+||info934.site^$all
 ||info983.site^$all
 ||info394290.wixsite.com^$all
 ||infobore.xyz^$all
@@ -7769,6 +7779,8 @@
 ||informacja0ou.site^$all
 ||informacja0uv.site^$all
 ||informacja1ou.site^$all
+||informacja2or.site^$all
+||informacja2ou.site^$all
 ||informacja02u.site^$all
 ||informacja025.site^$all
 ||informacja035.site^$all
@@ -8652,6 +8664,7 @@
 ||klinko24.xyz^$all
 ||klinks-com.preview-domain.com^$all
 ||klockren-marketing.se.oblyapp.com^$all
+||klonea.com^$all
 ||klor.capitalforester.site^$all
 ||kloundopret.xyz^$all
 ||klowa.xyz^$all
@@ -8706,6 +8719,10 @@
 ||komunikat1eu.site^$all
 ||komunikat1qn.site^$all
 ||komunikat1tf.site^$all
+||komunikat2eu.site^$all
+||komunikat2qn.site^$all
+||komunikat2tf.site^$all
+||komunikat9eu.site^$all
 ||komunikat021.site^$all
 ||komunikat345.site^$all
 ||koniecikroppka.website^$all
@@ -9478,6 +9495,7 @@
 ||meldunek1oj.site^$all
 ||meldunek1wg.site^$all
 ||meldunek03f.site^$all
+||meldunek9wg.site^$all
 ||meldunek126.site^$all
 ||meldunek202.site^$all
 ||meldunek607.site^$all
@@ -9597,6 +9615,7 @@
 ||mmoda.top^$all
 ||mmsolar.pl^$all
 ||mobgames.mobi^$all
+||mobikka.com^$all
 ||mobilefineart.com^$all
 ||mobilejmp.com^$all
 ||mobilepaczkomat.com^$all
@@ -9750,6 +9769,7 @@
 ||musiszotmwiedziecc24.cyou^$all
 ||musisztozappammietac.space^$all
 ||mus.titul-invest.site^$all
+||mutaty.com^$all
 ||mutlukadinlarakademisi.com^$all
 ||muzeum.cyou^$all
 ||muzyka.icu^$all
@@ -10000,6 +10020,8 @@
 ||news1ge.site^$all
 ||news1mn.site^$all
 ||news1my.site^$all
+||news2my.site^$all
+||news9my.site^$all
 ||news24zoom.com^$all
 ||news48.dkonto.pl^$all
 ||news236.site^$all
@@ -10159,13 +10181,17 @@
 ||nowe-informacje.pl^$all
 ||nowina0c5.site^$all
 ||nowina1c5.site^$all
+||nowina2c5.site^$all
 ||nowina07z.site^$all
+||nowina9c5.site^$all
 ||nowina09g.site^$all
 ||nowina09u.site^$all
 ||nowina17z.site^$all
 ||nowina018.site^$all
 ||nowina19u.site^$all
 ||nowina27z.site^$all
+||nowina29u.site^$all
+||nowina97z.site^$all
 ||nowina107.site^$all
 ||nowina112.site^$all
 ||nowina305.site^$all
@@ -10179,8 +10205,10 @@
 ||nowinka00i.site^$all
 ||nowinka0se.site^$all
 ||nowinka1bi.site^$all
+||nowinka2bi.site^$all
 ||nowinka11i.site^$all
 ||nowinka013.site^$all
+||nowinka22i.site^$all
 ||nowinka063.site^$all
 ||nowinka079.site^$all
 ||nowinka096.site^$all
@@ -10205,6 +10233,8 @@
 ||nowosc1m4.site^$all
 ||nowosc1pz.site^$all
 ||nowosc1xu.site^$all
+||nowosc2m4.site^$all
+||nowosc2pz.site^$all
 ||nowosc002.site^$all
 ||nowosc217.site^$all
 ||nowosc256.site^$all
@@ -13245,8 +13275,11 @@
 ||relacja0ye.site^$all
 ||relacja1ev.site^$all
 ||relacja1ff.site^$all
+||relacja2ev.site^$all
+||relacja2ff.site^$all
 ||relacja08h.site^$all
 ||relacja18h.site^$all
+||relacja28h.site^$all
 ||relacja066.site^$all
 ||relacja148.site^$all
 ||relacja171.site^$all
@@ -13308,6 +13341,8 @@
 ||rewelacja1cv.site^$all
 ||rewelacja1it.site^$all
 ||rewelacja1rn.site^$all
+||rewelacja2cv.site^$all
+||rewelacja2it.site^$all
 ||rewelacja010.site^$all
 ||rewelacja015.site^$all
 ||rewelacja027.site^$all
@@ -13628,6 +13663,8 @@
 ||sensacja1aj.site^$all
 ||sensacja1xi.site^$all
 ||sensacja02h.site^$all
+||sensacja2xi.site^$all
+||sensacja9xi.site^$all
 ||sensacja12h.site^$all
 ||sensacja151.site^$all
 ||sensacja873.site^$all
@@ -14370,7 +14407,10 @@
 ||sygnal1my.site^$all
 ||sygnal1qa.site^$all
 ||sygnal1ry.site^$all
+||sygnal2qa.site^$all
+||sygnal2ry.site^$all
 ||sygnal06m.site^$all
+||sygnal9qa.site^$all
 ||sygnal112.site^$all
 ||synderiliyo.com^$all
 ||sypialnia700.rest^$all
@@ -14852,6 +14892,7 @@
 ||transmisje-szkole.ct8.pl^$all
 ||transmisje.waw.pl^$all
 ||transmis.xyz^$all
+||transport1736151.xyz^$all
 ||trans-act.com^$all
 ||trappdf.com^$all
 ||travpayments.com^$all
@@ -15607,6 +15648,10 @@
 ||wiadomosc1bc.site^$all
 ||wiadomosc1di.site^$all
 ||wiadomosc1xx.site^$all
+||wiadomosc2bc.site^$all
+||wiadomosc2di.site^$all
+||wiadomosc2xx.site^$all
+||wiadomosc9di.site^$all
 ||wiadomosc017.rest^$all
 ||wiadomosc158.site^$all
 ||wiadomosc178.site^$all
@@ -15662,6 +15707,7 @@
 ||wiadomostka0sg.site^$all
 ||wiadomostka1is.site^$all
 ||wiadomostka1l8.site^$all
+||wiadomostka2is.site^$all
 ||wiadomostka005.site^$all
 ||wiadomostka010.site^$all
 ||wiadomostka019.site^$all
@@ -15669,6 +15715,7 @@
 ||wiadomostka077.site^$all
 ||wiadomostka177.site^$all
 ||wiadomostka209.site^$all
+||wiadomostka277.site^$all
 ||wiadomostka346.site^$all
 ||wiadomostka389.site^$all
 ||wiadomostka430.site^$all
@@ -15703,6 +15750,7 @@
 ||wiesc0qk.site^$all
 ||wiesc1o3.site^$all
 ||wiesc1qk.site^$all
+||wiesc2o3.site^$all
 ||wiesc07z.site^$all
 ||wiesc17z.site^$all
 ||wiesc045.site^$all
@@ -16009,10 +16057,12 @@
 ||wzabrzu.xyz^$all
 ||wzmianka0vg.site^$all
 ||wzmianka1vg.site^$all
+||wzmianka2vg.site^$all
 ||wzmianka06q.site^$all
 ||wzmianka08o.site^$all
 ||wzmianka16q.site^$all
 ||wzmianka18o.site^$all
+||wzmianka26q.site^$all
 ||wzmianka049.site^$all
 ||wzmianka066.site^$all
 ||wzmianka067.site^$all
@@ -16221,6 +16271,8 @@
 ||zawiadomienie0ff.site^$all
 ||zawiadomienie1af.site^$all
 ||zawiadomienie1d4.site^$all
+||zawiadomienie2d4.site^$all
+||zawiadomienie9af.site^$all
 ||zawiadomienie09s.site^$all
 ||zawiadomienie19s.site^$all
 ||zawiadomienie109.site^$all
@@ -16287,6 +16339,8 @@
 ||zgloszenie1cm.site^$all
 ||zgloszenie1mv.site^$all
 ||zgloszenie1ob.site^$all
+||zgloszenie2mv.site^$all
+||zgloszenie2ob.site^$all
 ||zgloszenie102.site^$all
 ||zgloszenie186.site^$all
 ||zgloszenie212.site^$all
