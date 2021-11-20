@@ -21,9 +21,9 @@ tyfloswiat.pl##^responseheader(location)
 /pobierz_*.exe$document
 /*-AsystentPobierania_*.exe$document
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy*|cloudfront.net
+@@||olx.org/ads/offer-eligibility$xhr,domain=www.olx.pl
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||tyfloswiat.pl^$removeheader=location
 ||uploadfile.pl/download.png$image
-@@||olx.org/ads/offer-eligibility$xhr,domain=www.olx.pl
