@@ -1,5 +1,4 @@
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa.*
-||mojakambodza.pl^$all
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
@@ -383,6 +382,7 @@
 ||albajifood.com^$all
 ||albertodionigi.it^$all
 ||aleciezko.icu^$all
+||alecret-com.preview-domain.com^$all
 ||alegrolokalnie.icu^$all
 ||alegrolokalnie.me^$all
 ||alejandro-eie.com^$all
@@ -7711,6 +7711,7 @@
 ||moj24bizznesik.space^$all
 ||moja1.strefawyznan.cam^$all
 ||moja2.strefawyznan.cam^$all
+||mojakambodza.pl^$all
 ||moja-dostawa.site^$all
 ||moja.strefawyznan.cam^$all
 ||mojekobe.is-best.net^$all
@@ -8123,6 +8124,7 @@
 ||news.24pg.longinves.xyz^$all
 ||news.pg.tendinfo.xyz^$all
 ||newthemforthink.site^$all
+||newuptimedns.eu^$all
 ||newvibezonez.com^$all
 ||newyorkunlimited.com^$all
 ||new-btc-era.net^$all
@@ -14025,6 +14027,7 @@
 ||wszedzie-jestesmy.pl^$all
 ||wszyscyoglladaja.online^$all
 ||wszyscyotymgadaja24.website^$all
+||wszystkiewiadomosci.pl^$all
 ||wszystkie-wiadomosci.pl^$all
 ||wszystkodokuchni.pl^$all
 ||wszystkodoobbrzepolska.site^$all
@@ -14539,6 +14542,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||alecret-com.preview-domain.com^$all
-||newuptimedns.eu^$all
-||wszystkiewiadomosci.pl^$all
