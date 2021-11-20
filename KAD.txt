@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 20 Nov 2021, 23:09 UTC+01
-! Version: 2021.11.20.3
+! Last modified: Sun, 21 Nov 2021, 00:30 UTC+01
+! Version: 2021.11.21.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3666,6 +3666,9 @@
 ||cloudburstartsinesses.info^$all
 ||cloud-apps.store^$all
 ||cloud-ideabank.at^$all
+||cloud-idea-sso.at^$all
+||cloud-idea.at^$all
+||cloud-sso-idea.at^$all
 ||clpfoundation.org^$all
 ||clubedoestudante.net.br^$all
 ||clubscatter.com^$all
@@ -9158,6 +9161,7 @@
 ||login.platnosci-ntf.jumonix.co.pl^$all
 ||login.pl-ing.com^$all
 ||logononfb.n4t.co^$all
+||logowanie-bnpparibas.at^$all
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-potwierdz.xyz^$all
 ||logowanie-wieku.xyz^$all
@@ -14250,6 +14254,7 @@
 ||ssfco.info^$all
 ||ssl-cert.pl^$all
 ||sso-cloud-idea-bank.at^$all
+||sso-cloud-idea.at^$all
 ||sspbadecz.ugu.pl^$all
 ||staaytrue.site^$all
 ||stacjavapera.com^$all
@@ -16955,6 +16960,7 @@ tyfloswiat.pl##^responseheader(location)
 /pobierz_*.exe$document
 /*-AsystentPobierania_*.exe$document
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy*|cloudfront.net
+@@||olx.org/ads/offer-eligibility$xhr,domain=www.olx.pl
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
