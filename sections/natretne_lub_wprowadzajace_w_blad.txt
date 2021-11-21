@@ -16,9 +16,9 @@ pl##a[href*="whokeys.com/"]
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 tyfloswiat.pl##^responseheader(location)
+www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
-www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 @@||olx.org/ads/offer-eligibility$xhr,domain=www.olx.pl
 ||alltube.tv/static/img/download.png$image
