@@ -1,5 +1,4 @@
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa.*
-||crypto-stimulate.com^$all
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
@@ -1906,6 +1905,7 @@
 ||cryptosworld.trade^$all
 ||cryptotrade.capital^$all
 ||crypto-engine.pl^$all
+||crypto-stimulate.com^$all
 ||crypto-trust.uk^$all
 ||crypto-worldinvestments.com^$all
 ||crysmawatches.com^$all
@@ -6080,7 +6080,9 @@
 ||inpost-pl.05687.space^$all
 ||inpost-pl.12354.site^$all
 ||inpost-pl.23440.space^$all
+||inpost-pl.23657.space^$all
 ||inpost-pl.54563.space^$all
+||inpost-pl.56879.space^$all
 ||inpost-pl.68357.space^$all
 ||inpost-pl.123241.site^$all
 ||inpost-pl.164069.space^$all
@@ -6131,6 +6133,7 @@
 ||inpost-pl.reigjoytobuy.pw^$all
 ||inpost-pl.safeorder.co^$all
 ||inpost-pl.safe-delivery.one^$all
+||inpost-pl.secur-oplata.site^$all
 ||inpost-sawj.id-845.me^$all
 ||inpost-security.icu^$all
 ||inpost-slh.my-oferta.com^$all
@@ -6688,6 +6691,7 @@
 ||kfc-s-a.com^$all
 ||kfsmradio.com^$all
 ||kghm-project.netlify.app^$all
+||kghm-starpl.netlify.app^$all
 ||kghm.surge.sh^$all
 ||kgh-ll.web.app^$all
 ||kgnm.surge.sh^$all
@@ -8201,6 +8205,7 @@
 ||niewiarygodne.cfolks.pl^$all
 ||niewidziialeswszysstkiego.space^$all
 ||niezabardzowiadomo.online^$all
+||niezalezne.eu^$all
 ||nieziemskie-rabaty.com^$all
 ||niezmarnujzycia.pl^$all
 ||nieznaszpowoodowdokonca.online^$all
@@ -8384,6 +8389,7 @@
 ||obuwiedrsale.pl^$all
 ||obuwiedr.com^$all
 ||obywatelskie.cfolks.pl^$all
+||obywatelskie.eu^$all
 ||ocelote.icu^$all
 ||oceniaj-wygranego.eu^$all
 ||oceniam.to^$all
@@ -9041,6 +9047,7 @@
 ||onlineaccessonlineacesonlineacess.weebly.com^$all
 ||onlinecda.pl^$all
 ||onlinecinema.eu^$all
+||onlinecords.com^$all
 ||onlinefakty24info.pl^$all
 ||onlinefakty24.pl^$all
 ||onlinefilmy24.pl^$all
@@ -10320,6 +10327,7 @@
 ||pl-include-fa.website^$all
 ||pl-info3.site^$all
 ||pl-info-24.pl^$all
+||pl-inpost.456546.space^$all
 ||pl-inpost.online^$all
 ||pl-inpost.polska24-dostawa24.shop^$all
 ||pl-inv.web.app^$all
@@ -14586,11 +14594,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||inpost-pl.23657.space^$all
-||inpost-pl.56879.space^$all
-||inpost-pl.secur-oplata.site^$all
-||kghm-starpl.netlify.app^$all
-||niezalezne.eu^$all
-||obywatelskie.eu^$all
-||onlinecords.com^$all
-||pl-inpost.456546.space^$all
