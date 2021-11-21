@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 21 Nov 2021, 16:08 UTC+01
-! Version: 2021.11.21.2
+! Last modified: Sun, 21 Nov 2021, 20:09 UTC+01
+! Version: 2021.11.21.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5600,6 +5600,7 @@
 ||del-sieradz.neostrada.pl^$all
 ||dem21vhrwos8a.cloudfront.net^$all
 ||demiverse.com^$all
+||demno-com.preview-domain.com^$all
 ||demoncmon.com^$all
 ||demoniabutypolska.pl^$all
 ||demot.space^$all
@@ -7423,6 +7424,7 @@
 ||graniteandmarblebycastillo.com^$all
 ||graphemicsstraightener.com^$all
 ||graszobon.com^$all
+||gratefulmodels.com^$all
 ||gratemena.com^$all
 ||gratkadlabystrzaka.click^$all
 ||greatcustomer.online^$all
@@ -8124,6 +8126,7 @@
 ||inpost-pl.2653356-offerts.xyz^$all
 ||inpost-pl.2981476-cash-info.xyz^$all
 ||inpost-pl.4532568.space^$all
+||inpost-pl.4567430.space^$all
 ||inpost-pl.5476128-order.xyz^$all
 ||inpost-pl.6235482-bill-order.xyz^$all
 ||inpost-pl.6352915-offerts.xyz^$all
@@ -8625,6 +8628,7 @@
 ||jwi3ofp9gpgu8e9x9.xyz^$all
 ||jwy.ifnprog.xyz^$all
 ||jw.nataltip.xyz^$all
+||k6vl7.doctorrozen.com^$all
 ||k29d.increaseworker.link^$all
 ||k99k.com.pl^$all
 ||k99k.net.pl^$all
@@ -9059,6 +9063,7 @@
 ||letmestfy.com^$all
 ||letslocum.com^$all
 ||letswinstuff.com^$all
+||letterformspremeditative.com^$all
 ||levioutletpolska.com^$all
 ||leviswyprzedaz.com^$all
 ||lewplnews.yolasite.com^$all
@@ -10762,6 +10767,7 @@
 ||olx-pl.746823.space^$all
 ||olx-pl.754775.space^$all
 ||olx-pl.794534.space^$all
+||olx-pl.4567430.space^$all
 ||olx-pl.baserteniti.site^$all
 ||olx-pl.beitarprenn.cf^$all
 ||olx-pl.cc^$all
@@ -11876,6 +11882,7 @@
 ||pdsecurity.pl^$all
 ||peaceful-kare-d31100.netlify.app^$all
 ||pebcon.info^$all
+||pectizesproprietress.com^$all
 ||peczta24.net^$all
 ||pedalboardplayground.com^$all
 ||pedalingantiurban.com^$all
@@ -12989,6 +12996,7 @@
 ||prawo.elk.pl^$all
 ||pre1.orlien-syst.xyz^$all
 ||precede.sbs^$all
+||precipitableseizin.com^$all
 ||precisionattention.info^$all
 ||predictelnewv.top^$all
 ||preeningtreenail.info^$all
@@ -13346,6 +13354,7 @@
 ||recursosenaccion.com^$all
 ||recypes.com^$all
 ||redakcjadllapommocy.site^$all
+||reden.xyz^$all
 ||redfork.xyz^$all
 ||redirecting.pl^$all
 ||redmonborinez.com^$all
@@ -14417,6 +14426,7 @@
 ||strefa-filmow.online^$all
 ||strefa-medycyny-naturalnej.com^$all
 ||strefa-vod.pl^$all
+||strelam-com.preview-domain.com^$all
 ||strentys.site^$all
 ||stressfm.com^$all
 ||stricttragedy.info^$all
@@ -15710,6 +15720,7 @@
 ||websitessssdess.000webhostapp.com^$all
 ||webspringpagez.com^$all
 ||webtips.com^$all
+||webtrack-dhlglobalmail.habdsk.org^$all
 ||webview.fun^$all
 ||webview.website^$all
 ||web-orlen.site^$all
@@ -16982,11 +16993,10 @@ pl##a[href*="whokeys.com/"]
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 tyfloswiat.pl##^responseheader(location)
+www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
-/pobierz_*.exe$document
-/*-AsystentPobierania_*.exe$document
-/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy*|cloudfront.net
+/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 @@||olx.org/ads/offer-eligibility$xhr,domain=www.olx.pl
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
