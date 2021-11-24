@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 23 Nov 2021, 23:10 UTC+01
-! Version: 2021.11.23.4
+! Last modified: Wed, 24 Nov 2021, 12:10 UTC+01
+! Version: 2021.11.24.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2458,6 +2458,7 @@
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
 ||allegrolokalnie.one^$all
+||allegrolokalnie.online^$all
 ||allegrolokalnie.pl.transpbuyitemss.pw^$all
 ||allegrolokalnie.site^$all
 ||allegrolokalnie.*^$document,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl
@@ -3006,6 +3007,7 @@
 ||biedronkaglobal.us^$all
 ||biedronka-global.biz^$all
 ||biedronka-global.us^$all
+||biedronka-news.us^$all
 ||biegnij.buzz^$all
 ||bielik.cyou^$all
 ||bielpak.pl^$all
@@ -3278,6 +3280,7 @@
 ||brudne-sprawy.m44m.com.pl^$all
 ||brudne-tajemnice.eu^$all
 ||brudne-tajemnice.pl^$all
+||bryconpty.com^$all
 ||br-stone.online^$all
 ||br.capital-prg6.site^$all
 ||br.plsystem5.xyz^$all
@@ -3643,6 +3646,7 @@
 ||closeremote.com^$all
 ||closetalk.ca^$all
 ||cloudburstartsinesses.info^$all
+||cloudserver184883.home.pl^$all
 ||cloud-apps.store^$all
 ||cloud-ideabank.at^$all
 ||clpfoundation.org^$all
@@ -3753,6 +3757,7 @@
 ||corollaownersclub.com^$all
 ||coronadisco.co.uk^$all
 ||corporatehubltd.com^$all
+||corporationorlen.biz^$all
 ||corporation-orlen.biz^$all
 ||cosdasiezrobbic.site^$all
 ||cosdlapollakkow.site^$all
@@ -7319,6 +7324,7 @@
 ||goraceinfo.pl^$all
 ||gorfaneea.com^$all
 ||gorgeouspaper.co.uk^$all
+||gorgorod-com.preview-domain.com^$all
 ||gorisemarkets.com^$all
 ||gorkov.xyz^$all
 ||gospodarstwo-rolne.com.pl^$all
@@ -7346,6 +7352,7 @@
 ||grandcapital.net^$all
 ||grandesaldi.pl^$all
 ||grands-poll.xyz^$all
+||granica-info.pl^$all
 ||granita.icu^$all
 ||graniteandmarblebycastillo.com^$all
 ||graphemicsstraightener.com^$all
@@ -8016,6 +8023,7 @@
 ||inpost-piatnosc-24.xyz^$all
 ||inpost-platnosc.in.net^$all
 ||inpost-pltfxv.ownoffferta.cc^$all
+||inpost-pl-3dsafe.id-safety.cyou^$all
 ||inpost-pl-delivering.icu^$all
 ||inpost-pl-dostawa.cyou^$all
 ||inpost-pl-nkfi.ownoffferta.casa^$all
@@ -8030,6 +8038,7 @@
 ||inpost-pl.23561.space^$all
 ||inpost-pl.23657.space^$all
 ||inpost-pl.35634.space^$all
+||inpost-pl.45456.space^$all
 ||inpost-pl.54563.space^$all
 ||inpost-pl.56879.space^$all
 ||inpost-pl.68357.space^$all
@@ -8081,6 +8090,7 @@
 ||inpost-zamowienie.pl^$all
 ||inpost.bezpieczna-oferta.com^$all
 ||inpost.bezpieczna-oferta.shop^$all
+||inpost.bezpieczny-kurier.com^$all
 ||inpost.bond^$all
 ||inpost.casa^$all
 ||inpost.cc^$all
@@ -10047,6 +10057,8 @@
 ||news-info.waw.pl^$all
 ||news-ltspl.info^$all
 ||news-l.info^$all
+||news-orlen.biz^$all
+||news-orlen.us^$all
 ||news-pgeprojektpl.info^$all
 ||news-pl.info^$all
 ||news-poland.biz^$all
@@ -10774,6 +10786,7 @@
 ||olx.online-pay.pl^$all
 ||olx.oplata-is.com^$all
 ||olx.orders-pls.biz^$all
+||olx.paye18.online^$all
 ||olx.paymenting.pl^$all
 ||olx.payment-otrymac.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pay-id183413.company^$all
@@ -11809,6 +11822,7 @@
 ||perfumeria-vlory.pl^$all
 ||perlaibracia.pl^$all
 ||perlowo.pl^$all
+||perpey.net^$all
 ||personal-gifts.de^$all
 ||perspektywa2012.za.pl^$all
 ||petachu.co.il^$all
@@ -11829,6 +11843,7 @@
 ||peyosts.net^$all
 ||peyou24.net^$all
 ||peyouts.net^$all
+||peypao.net^$all
 ||peypeo24.net^$all
 ||peypeo.net^$all
 ||peyper24.net^$all
@@ -16411,6 +16426,7 @@
 ||zzzyyzzzyyyzyyzyyyzzyyzyzzzzzzzzyyzzyyyyyzyzyyzzyzpol7196.cmkaarten.nl^$all
 ||z-kraju.co.pl^$all
 ||z-miasta.waw.pl^$all
+||z-ostatniej-chwili.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
 ||*dworzeconline24.*^$document
