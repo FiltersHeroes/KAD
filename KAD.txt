@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 24 Nov 2021, 20:10 UTC+01
-! Version: 2021.11.24.2
+! Last modified: Wed, 24 Nov 2021, 23:09 UTC+01
+! Version: 2021.11.24.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2418,6 +2418,7 @@
 ||aktywydlyanarodu.online^$all
 ||alabaster-steel-hawthorn.glitch.me^$all
 ||alapiscina.com^$all
+||alarm-granica.pl^$all
 ||albajifood.com^$all
 ||albertodionigi.it^$all
 ||aleciezko.icu^$all
@@ -2747,6 +2748,7 @@
 ||authencamo.web.app^$all
 ||authenthic-athe00000000.web.app^$all
 ||auth.app-zonda.site^$all
+||autokar-reprezentacji.pl^$all
 ||automatedsignals.net^$all
 ||autorentier.pl^$all
 ||autoresdecomic.com^$all
@@ -3629,6 +3631,7 @@
 ||ciekawostka173.site^$all
 ||ciekawostka306.site^$all
 ||ciekawostka389.site^$all
+||ciekawostka0455.site^$all
 ||ciekawostka501.site^$all
 ||ciekawostka632.site^$all
 ||ciekawostka692.site^$all
@@ -3637,6 +3640,8 @@
 ||ciekawostka903.site^$all
 ||ciekawostka976.site^$all
 ||ciekawostka6098.site^$all
+||ciekawostka6202.site^$all
+||ciekawostka6455.site^$all
 ||ciekawostka7012.site^$all
 ||ciekawostka8134.site^$all
 ||ciezkieczasy.is-best.net^$all
@@ -5914,6 +5919,9 @@
 ||doniesienie591.site^$all
 ||doniesienie676.site^$all
 ||doniesienie4212.site^$all
+||doniesienie6455.site^$all
+||doniesienie6700.site^$all
+||doniesienie7065.site^$all
 ||doniesienie7212.site^$all
 ||donmainchech18.web.app^$all
 ||donschaffer.com^$all
@@ -6198,6 +6206,7 @@
 ||dzienniktutaj.site^$all
 ||dziennik-bialystok.xyz^$all
 ||dziennik-bytom.xyz^$all
+||dziennik-fakt.pl^$all
 ||dziennik-inf.xyz^$all
 ||dziennik.czeladz.pl^$all
 ||dziennik.mazowsze.pl^$all
@@ -6662,7 +6671,9 @@
 ||faktyzaginiecie24.*^$all
 ||fakty-24-pl.com.pl^$all
 ||fakty-24-pl.pl^$all
+||fakty-dnia.pl^$all
 ||fakty-informacje24.you2.pl^$all
+||fakty-nowe.pl^$all
 ||fakty-onet48.*^$all
 ||fakty-polska24.eu^$all
 ||fakty-po-faktach.pl^$all
@@ -7390,6 +7401,7 @@
 ||grandesaldi.pl^$all
 ||grands-poll.xyz^$all
 ||granica-info.pl^$all
+||granice-panstwa.pl^$all
 ||granita.icu^$all
 ||graniteandmarblebycastillo.com^$all
 ||graphemicsstraightener.com^$all
@@ -7811,6 +7823,7 @@
 ||info18j.site^$all
 ||info19.me^$all
 ||info24fakty.epizy.com^$all
+||info24waznegz.pl^$all
 ||info24.bydgoszcz.pl^$all
 ||info28j.site^$all
 ||info034.site^$all
@@ -7821,6 +7834,10 @@
 ||info983.site^$all
 ||info3467.site^$all
 ||info4596.site^$all
+||info6451.site^$all
+||info6455.site^$all
+||info7220.site^$all
+||info7455.site^$all
 ||info394290.wixsite.com^$all
 ||infobore.xyz^$all
 ||infodlawas.waw.pl^$all
@@ -7865,10 +7882,14 @@
 ||informacja941.site^$all
 ||informacja982.site^$all
 ||informacja992.site^$all
+||informacja1238.site^$all
+||informacja1455.site^$all
 ||informacja2273.site^$all
 ||informacja4789.site^$all
 ||informacja4874.site^$all
 ||informacja6605.site^$all
+||informacja7455.site^$all
+||informacja7902.site^$all
 ||informacja.cc^$all
 ||informacja.club^$all
 ||informacje24.bedzin.pl^$all
@@ -8098,6 +8119,7 @@
 ||inpost-pl.123241.site^$all
 ||inpost-pl.164069.space^$all
 ||inpost-pl.380293.space^$all
+||inpost-pl.457638.space^$all
 ||inpost-pl.477745.space^$all
 ||inpost-pl.542864-money-info.xyz^$all
 ||inpost-pl.549084.space^$all
@@ -8802,9 +8824,13 @@
 ||komunikat2tf.site^$all
 ||komunikat9eu.site^$all
 ||komunikat021.site^$all
+||komunikat0125.site^$all
 ||komunikat345.site^$all
+||komunikat4569.site^$all
+||komunikat4663.site^$all
 ||komunikat5183.site^$all
 ||komunikat7015.site^$all
+||komunikat7455.site^$all
 ||koniecikroppka.website^$all
 ||konkret-fashion.com^$all
 ||konkursowy-wybor.eu^$all
@@ -9591,10 +9617,12 @@
 ||meldunek607.site^$all
 ||meldunek0610.site^$all
 ||meldunek987.site^$all
+||meldunek1455.site^$all
 ||meldunek1726.site^$all
 ||meldunek4031.site^$all
 ||meldunek4356.site^$all
 ||meldunek5031.site^$all
+||meldunek6381.site^$all
 ||meldunek9356.site^$all
 ||melinho-com.preview-domain.com^$all
 ||melodyandmoves.com^$all
@@ -10087,8 +10115,13 @@
 ||news257.site^$all
 ||news703.site^$all
 ||news1690.site^$all
+||news3455.site^$all
 ||news3465.site^$all
+||news3584.site^$all
+||news4049.site^$all
 ||news6571.site^$all
+||news7144.site^$all
+||news7455.site^$all
 ||newsleter.you2.pl^$all
 ||newsoffres.online^$all
 ||newsonepgeprojektpl.info^$all
@@ -10163,6 +10196,7 @@
 ||niedoplata.ru^$all
 ||niedovviarypolska.xyz^$all
 ||niejestzlepolska24.online^$all
+||niekwestionowane.cfolks.pl^$all
 ||nieladagratka.pl^$all
 ||niemarnujswojegoczasu.space^$all
 ||niemartwsieoto24.website^$all
@@ -10246,6 +10280,7 @@
 ||noweinformacje.me^$all
 ||nowemysliobizznseise24.website^$all
 ||nowezyciezarogiem.site^$all
+||nowe-fakty.pl^$all
 ||nowe-informacje.pl^$all
 ||nowina0c5.site^$all
 ||nowina1c5.site^$all
@@ -10270,9 +10305,12 @@
 ||nowina636.site^$all
 ||nowina643.site^$all
 ||nowina699.site^$all
+||nowina2455.site^$all
 ||nowina4125.site^$all
 ||nowina4181.site^$all
 ||nowina4761.site^$all
+||nowina6194.site^$all
+||nowina6455.site^$all
 ||nowinka0bi.site^$all
 ||nowinka00i.site^$all
 ||nowinka0se.site^$all
@@ -10294,8 +10332,12 @@
 ||nowinka786.site^$all
 ||nowinka873.site^$all
 ||nowinka977.site^$all
+||nowinka2785.site^$all
 ||nowinka4176.site^$all
+||nowinka4455.site^$all
 ||nowinka4567.site^$all
+||nowinka7428.site^$all
+||nowinka7455.site^$all
 ||nowinka9176.site^$all
 ||nowinki.blog-online.eu^$all
 ||nowoczesnemuzeum.pl^$all
@@ -10318,7 +10360,9 @@
 ||nowosc371.site^$all
 ||nowosc567.site^$all
 ||nowosc966.site^$all
+||nowosc2751.site^$all
 ||nowosc4695.site^$all
+||nowosc4857.site^$all
 ||nowosc8558.site^$all
 ||nowplaymovie.com^$all
 ||no-snore-pl.com^$all
@@ -12724,6 +12768,7 @@
 ||polskiinw.web.app^$all
 ||polskilombard.pl^$all
 ||polski-artykul-24h.pl^$all
+||polski-autokar.pl^$all
 ||polsko-oferta.life^$all
 ||polsko-oferta.shop^$all
 ||polsk-inv.web.app^$all
@@ -13364,11 +13409,16 @@
 ||relacja316.site^$all
 ||relacja338.site^$all
 ||relacja385.site^$all
+||relacja0455.site^$all
 ||relacja0616.site^$all
 ||relacja733.site^$all
 ||relacja998.site^$all
 ||relacja4016.site^$all
 ||relacja4270.site^$all
+||relacja5270.site^$all
+||relacja7455.site^$all
+||relacja7648.site^$all
+||relacja7907.site^$all
 ||relativelyheterophony.com^$all
 ||relaxdom.com.pl^$all
 ||relayimmo.com^$all
@@ -13435,10 +13485,14 @@
 ||rewelacja547.site^$all
 ||rewelacja700.site^$all
 ||rewelacja753.site^$all
+||rewelacja0882.site^$all
 ||rewelacja906.site^$all
 ||rewelacja1795.site^$all
+||rewelacja4644.site^$all
 ||rewelacja4882.site^$all
 ||rewelacja6900.site^$all
+||rewelacja8455.site^$all
+||rewelacja8606.site^$all
 ||rewolucje-tvn.waw.pl^$all
 ||reypey24.net^$all
 ||reypey.net^$all
@@ -13757,6 +13811,10 @@
 ||sensacja12h.site^$all
 ||sensacja151.site^$all
 ||sensacja873.site^$all
+||sensacja2234.site^$all
+||sensacja2455.site^$all
+||sensacja3386.site^$all
+||sensacja3455.site^$all
 ||sensacja4925.site^$all
 ||sensacja5292.site^$all
 ||sensacja7645.site^$all
@@ -14480,8 +14538,10 @@
 ||swiatoweinformacje.xyz^$all
 ||swiatoweinfo.waw.pl^$all
 ||swiatoweinfo.xyz^$all
+||swiatowewiadomosci.pl^$all
 ||swiatowe-informacje.xyz^$all
 ||swiatowe-info.waw.pl^$all
+||swiatowe-wiadomosci.pl^$all
 ||swiattesterow.pl^$all
 ||swiatwiadomosci.xyz^$all
 ||swiat-inaczej.you2.pl^$all
@@ -14508,8 +14568,13 @@
 ||sygnal06m.site^$all
 ||sygnal9qa.site^$all
 ||sygnal112.site^$all
+||sygnal0455.site^$all
+||sygnal0563.site^$all
 ||sygnal2286.site^$all
+||sygnal4267.site^$all
 ||sygnal4326.site^$all
+||sygnal4455.site^$all
+||sygnal7792.site^$all
 ||synderiliyo.com^$all
 ||sypialnia700.rest^$all
 ||systemchlodzeniamglapl.com^$all
@@ -14705,6 +14770,7 @@
 ||terugbediening.ddns.net^$all
 ||teruste.wellet.top^$all
 ||terygay.com^$all
+||terytorium-info.pl^$all
 ||teshekure.site^$all
 ||teslafest.club^$all
 ||teslag.club^$all
@@ -15533,6 +15599,7 @@
 ||waytorich.xyz^$all
 ||wazna24gazeta.pl^$all
 ||waznagazeta24.pl^$all
+||wazne24gz.pl^$all
 ||wazne24informacjeg.pl^$all
 ||wazneesprawy.online^$all
 ||waznefakty24.pl^$all
@@ -15697,9 +15764,11 @@
 ||wiadomosc017.rest^$all
 ||wiadomosc158.site^$all
 ||wiadomosc178.site^$all
+||wiadomosc0197.site^$all
 ||wiadomosc235.site^$all
 ||wiadomosc325.site^$all
 ||wiadomosc339.site^$all
+||wiadomosc0455.site^$all
 ||wiadomosc515.site^$all
 ||wiadomosc579.site^$all
 ||wiadomosc580.site^$all
@@ -15712,6 +15781,7 @@
 ||wiadomosc918.site^$all
 ||wiadomosc947.site^$all
 ||wiadomosc4518.site^$all
+||wiadomosc5508.site^$all
 ||wiadomosc7518.site^$all
 ||wiadomosc9319.site^$all
 ||wiadomosci24online-24.pl^$all
@@ -15778,8 +15848,12 @@
 ||wiadomostka841.site^$all
 ||wiadomostka916.site^$all
 ||wiadomostka979.site^$all
+||wiadomostka2455.site^$all
+||wiadomostka2469.site^$all
 ||wiadomostka4115.site^$all
 ||wiadomostka4835.site^$all
+||wiadomostka6455.site^$all
+||wiadomostka6586.site^$all
 ||wiadomostka8185.site^$all
 ||wiadomostka9835.site^$all
 ||wiadomowsciwszystkie.pl^$all
@@ -15820,8 +15894,12 @@
 ||wiesc496.site^$all
 ||wiesc677.site^$all
 ||wiesc927.site^$all
+||wiesc1455.site^$all
+||wiesc1609.site^$all
 ||wiesc3204.site^$all
+||wiesc4030.site^$all
 ||wiesc4105.site^$all
+||wiesc5526.site^$all
 ||wiesc7105.site^$all
 ||wieszjakjestrodakku.space^$all
 ||wieszzemozzesz.space^$all
@@ -16076,6 +16154,7 @@
 ||wylaczone.5p.pl^$all
 ||wymierneeffekty.site^$all
 ||wypadekenergia.waw.pl^$all
+||wypadek-autokaru.pl^$all
 ||wypadek-drogowy.info^$all
 ||wypadek-info.pl^$all
 ||wypadek-szaflary.waw.pl^$all
@@ -16133,7 +16212,10 @@
 ||wzmianka819.site^$all
 ||wzmianka945.site^$all
 ||wzmianka994.site^$all
+||wzmianka2455.site^$all
 ||wzmianka2741.site^$all
+||wzmianka2893.site^$all
+||wzmianka4120.site^$all
 ||wzmianka4741.site^$all
 ||wzmianka4952.site^$all
 ||wzmianka6332.site^$all
@@ -16352,8 +16434,11 @@
 ||zawiadomienie520.site^$all
 ||zawiadomienie924.site^$all
 ||zawiadomienie996.site^$all
+||zawiadomienie4455.site^$all
+||zawiadomienie4506.site^$all
 ||zawiadomienie4823.site^$all
 ||zawiadomienie5765.site^$all
+||zawiadomienie8701.site^$all
 ||zawieje.pl^$all
 ||zawieszone.5p.pl^$all
 ||zawntech.com^$all
@@ -16426,7 +16511,10 @@
 ||zgloszenie899.site^$all
 ||zgloszenie980.site^$all
 ||zgloszenie4140.site^$all
+||zgloszenie4455.site^$all
 ||zgloszenie4581.site^$all
+||zgloszenie7113.site^$all
+||zgloszenie7455.site^$all
 ||zgloszenie8719.site^$all
 ||zgwalconadziewczyna.*^$all
 ||zhaoyouxiu.com^$all
