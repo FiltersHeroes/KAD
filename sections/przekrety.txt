@@ -1,6 +1,3 @@
-||preview-domain.com/poczta/start-transaction/$all,domain=preview-domain.com
-/^https?:\/\/[a-z]{1,15}-com\.preview-domain\.com\/poczta\/[0-9]{1,15}\/[0-9]{1,15}\//$all,domain=preview-domain.com
-||yuanpaygroup.org^$all
 /tracking-load.html?ssl=$document,domain=~przekrety-z-falszywym-kurierem-dostawa.*
 /wp-includes/*podatki.gov.pl$document,domain=~przekrety-na-falszywy-zwrot-podatku.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -25,6 +22,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
+/^https?:\/\/[a-z]{1,15}-com\.preview-domain\.com\/poczta\/[0-9]{1,15}\/[0-9]{1,15}\//$all,domain=preview-domain.com
 /^https?:\/\/[\w]{1,5}\.adwokat-mk\.pl/$all,domain=adwokat-mk.pl|~www.adwokat-mk.pl
 |https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
@@ -874,6 +872,7 @@
 ||beasybd.com^$all
 ||beautybuyrewards.com^$all
 ||beauty-direct.pl^$all
+||beauty-global-media.com^$all
 ||bebevogue.com^$all
 ||bedacjuzprzytym.cyou^$all
 ||bedziemy-zawsze.pl^$all
@@ -8801,6 +8800,7 @@
 ||olx-pl.746823.space^$all
 ||olx-pl.794534.space^$all
 ||olx-pl.4567430.space^$all
+||olx-pl.4748834.space^$all
 ||olx-pl.baserteniti.site^$all
 ||olx-pl.beitarprenn.cf^$all
 ||olx-pl.cc^$all
@@ -9532,6 +9532,7 @@
 ||oxskincare.com^$all
 ||oxtersundeviatingly.com^$all
 ||ozfmskr.cn^$all
+||ozzywebsites.com^$all
 ||o-l-x.com^$all
 ||o-net1.pl^$all
 ||o-net2.pl^$all
@@ -9974,6 +9975,7 @@
 ||perspektywa2012.za.pl^$all
 ||petachu.co.il^$all
 ||petakpintar.com^$all
+||petplanetstore.com^$all
 ||pewiendzienzmieniazycie.site^$all
 ||pewyz.paraplandv.ru^$all
 ||pey24pey.net^$all
@@ -9999,6 +10001,7 @@
 ||peypets.net^$all
 ||peypis24.net^$all
 ||peyplug.net^$all
+||peypos24.net^$all
 ||peypos.net^$all
 ||peypote.net^$all
 ||peyrents.net^$all
@@ -11037,6 +11040,7 @@
 ||presdort-com.preview-domain.com^$all
 ||presidioinvestmentsltd.com^$all
 ||previaeqew.info^$all
+||preview-domain.com/poczta/start-transaction/$all,domain=preview-domain.com
 ||prevski.com^$all
 ||prfolder.com^$all
 ||priabafe.com^$all
@@ -11551,6 +11555,7 @@
 ||righeryasmils.xyz^$all
 ||rimpus.com^$all
 ||rimraphael.com^$all
+||rimworld.shdwtekco.net^$all
 ||ringminersfx.com^$all
 ||rinpey.net^$all
 ||riptiklo-com.preview-domain.com^$all
@@ -12131,6 +12136,7 @@
 ||skrocto.pl^$all
 ||skunks.cyou^$all
 ||skuter.c0.pl^$all
+||skyhome-e.com^$all
 ||skylineprofits.co.uk^$all
 ||skynews.shop^$all
 ||skyway.capital^$all
@@ -12293,6 +12299,7 @@
 ||sportowy-stream.pl^$all
 ||sportplus.pro^$all
 ||sport-bike.pl^$all
+||sport-nc.ir^$all
 ||sposob.bloguje-teraz8w.xyz^$all
 ||spotted-gdynia-photo2711.pl^$all
 ||spraszyn.home.pl^$all
@@ -12884,6 +12891,7 @@
 ||themattyg.com^$all
 ||themebird.com^$all
 ||themyams.com^$all
+||theneontree.in^$all
 ||thenextchapter.pl^$all
 ||theone-lotto.com^$all
 ||thepacificagroup.com^$all
@@ -14197,6 +14205,8 @@
 ||wydanie-polskie24.cyou^$all
 ||wydarzeniaprzeszle.space^$all
 ||wydarzenia-google.waw.pl^$all
+||wydarzenia-teraz.eu^$all
+||wydarzenia-teraz.pl^$all
 ||wydarzenia-tygodnia.waw.pl^$all
 ||wydarzenia-wideo.waw.pl^$all
 ||wydarzenia.net.pl^$all
@@ -14406,6 +14416,7 @@
 ||youtube-com.waw.pl^$all
 ||youtube.tm.pl^$all
 ||yrehrher.001www.com^$all
+||yuanpaygroup.org^$all
 ||yuan-online.com^$all
 ||yunosquares.com^$all
 ||yunta.tech^$all
@@ -14684,14 +14695,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||beauty-global-media.com^$all
-||olx-pl.4748834.space^$all
-||ozzywebsites.com^$all
-||petplanetstore.com^$all
-||peypos24.net^$all
-||rimworld.shdwtekco.net^$all
-||skyhome-e.com^$all
-||sport-nc.ir^$all
-||theneontree.in^$all
-||wydarzenia-teraz.eu^$all
-||wydarzenia-teraz.pl^$all
