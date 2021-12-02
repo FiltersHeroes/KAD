@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 02 Dec 2021, 16:10 UTC+01
-! Version: 2021.12.2.1
+! Last modified: Thu, 02 Dec 2021, 20:10 UTC+01
+! Version: 2021.12.2.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2418,6 +2418,7 @@
 ||alegrolokalnie.me^$all
 ||alejandro-eie.com^$all
 ||alejastokrotek.pl^$all
+||alejazdat.eu^$all
 ||alerownieztito.space^$all
 ||alertfakty.eu^$all
 ||alesmail.com^$all
@@ -2876,6 +2877,7 @@
 ||basen-olx.waw.pl^$all
 ||basicproduce.com^$all
 ||bastardo.xyz^$all
+||bautroibentrong.com^$all
 ||bawar-data-collect.com^$all
 ||bayonne24.com^$all
 ||bazafilm.pl^$all
@@ -3744,6 +3746,7 @@
 ||comeyforpres.com^$all
 ||come-inside.pl^$all
 ||commatube.com^$all
+||committeestar.world^$all
 ||communicationpedia.com^$all
 ||companynet-mbank.com^$all
 ||compensationrugby.com^$all
@@ -7396,6 +7399,7 @@
 ||goleta105.com^$all
 ||golfpak.com^$all
 ||gologfbb.tcp4.me^$all
+||golot.com.cn^$all
 ||golovne.xyz^$all
 ||gomaxits.com^$all
 ||gomboapp.com^$all
@@ -7990,6 +7994,11 @@
 ||informacje-mojemiasto24.eu^$all
 ||informacje-od-policjiasdas.dnsrobotuptime.ru^$all
 ||informacje-policyjne.pl^$all
+||informacje-polska-24.linuxpl.eu^$all
+||informacje-polska-24.odt.pl^$all
+||informacje-polska-24.pro-linuxpl.com^$all
+||informacje-polska-24.ssl2.pl^$all
+||informacje-polska-24.vot.pl^$all
 ||informacje-polska.pl^$all
 ||informacje-polskie.cyou^$all
 ||informacje-prosto-ze-swiata.dnsrobotuptime.ru^$all
@@ -8168,6 +8177,7 @@
 ||inpost-pl-3dsec.id-safety.cfd^$all
 ||inpost-pl-3dseif.id-safety.cfd^$all
 ||inpost-pl-3dssl.id-safety.cfd^$all
+||inpost-pl-3dssl.id-safety.co^$all
 ||inpost-pl-3ds.id-safety.co^$all
 ||inpost-pl-delivering.icu^$all
 ||inpost-pl-dostawa.cyou^$all
@@ -8183,6 +8193,7 @@
 ||inpost-pl-px.id98325.me^$all
 ||inpost-pl-safe.id-safety.art^$all
 ||inpost-pl-ta.id-4365.me^$all
+||inpost-pl-tl.oferta-nsf.me^$all
 ||inpost-pl.12354.site^$all
 ||inpost-pl.23561.space^$all
 ||inpost-pl.54563.space^$all
@@ -8228,6 +8239,7 @@
 ||inpost-pl.dostawa-id89863.xyz^$all
 ||inpost-pl.dostawa-id8496953.xyz^$all
 ||inpost-pl.dostawa-id9485815.xyz^$all
+||inpost-pl.dostawa-kurier-id685413.xyz^$all
 ||inpost-pl.dostawa-kurier-id795141.xyz^$all
 ||inpost-pl.dostawa-kurier-id839765.xyz^$all
 ||inpost-pl.goodspurchase.pw^$all
@@ -8240,8 +8252,10 @@
 ||inpost-pl.kurier-dostawa-id788615.xyz^$all
 ||inpost-pl.kurier-dostawa-id876578.xyz^$all
 ||inpost-pl.kurier-dostawa-id976134.xyz^$all
+||inpost-pl.kurier-dostawa-id9645613.xyz^$all
 ||inpost-pl.kurier-id7839145.xyz^$all
 ||inpost-pl.kurier-id8965471.xyz^$all
+||inpost-pl.kurier-id8976164.xyz^$all
 ||inpost-pl.kurier-id9685481.xyz^$all
 ||inpost-pl.moe-6541.click^$all
 ||inpost-pl.net^$all
@@ -8301,6 +8315,7 @@
 ||inpost.olxkon*.*^$all,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.one^$all
 ||inpost.order-pl.art^$all
+||inpost.otrzymanie.xyz^$all
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-basederecom.pw^$all
 ||inpost.pl-dostawa-id43268532.xyz^$all
@@ -8460,6 +8475,7 @@
 ||inv-poland.web.app^$all
 ||inv-polska.web.app^$all
 ||inv-space.info^$all
+||inv.nlandings.com^$all
 ||inwarsaw-24.xyz^$all
 ||inwarsaw-info24.xyz^$all
 ||inwenj.web.app^$all
@@ -10172,6 +10188,7 @@
 ||narwhalthrone.com^$all
 ||narzedzia200.com^$all
 ||nasdyh1.iownprllk.xyz^$all
+||nastepnyzmudne.site^$all
 ||naswiecie.work^$all
 ||naswoimmppodworku.space^$all
 ||naszagazeta.xyz^$all
@@ -10967,6 +10984,7 @@
 ||olx-pl.675367.space^$all
 ||olx-pl.746823.space^$all
 ||olx-pl.794534.space^$all
+||olx-pl.4325453.website^$all
 ||olx-pl.4567430.space^$all
 ||olx-pl.4748834.space^$all
 ||olx-pl.7947366.site^$all
@@ -14313,6 +14331,7 @@
 ||simpleway.one^$all
 ||simpleway.trade^$all
 ||simpleway.world^$all
+||sinfo.co.pl^$all
 ||siodemka24h7.click^$all
 ||sipenaccessories.com^$all
 ||sipentechadmin.com^$all
@@ -14553,6 +14572,7 @@
 ||sprawdzto.ml^$all
 ||sprawdz-identyfikacje.logowaniel.co.pl^$all
 ||sprawdz-identyfikacje.netafix-pl.digital^$all
+||sprawdz-identyfikacje.veridnotification.co.pl^$all
 ||sprawdz-identyfikacje.vernetaid.co.pl^$all
 ||sprawdz-swoje-iq.pl^$all
 ||sprawiedliwe.pl^$all
@@ -14610,6 +14630,7 @@
 ||startrainst.com^$all
 ||startuporlen.biz^$all
 ||startuporlen.us^$all
+||startuppge.us^$all
 ||startuprimed.com^$all
 ||startup-orlen.biz^$all
 ||startup-orlen.us^$all
@@ -15217,6 +15238,7 @@
 ||tlanddissipate.at^$all
 ||tmbinaryfx.com^$all
 ||tmopa.xyz^$all
+||tnsnano.com^$all
 ||toastertuesdays.com^$all
 ||tobiasalmroth.se^$all
 ||tobydevblog.com^$all
@@ -15323,6 +15345,7 @@
 ||totaltorf-com.preview-domain.com^$all
 ||touch2explore.com^$all
 ||toukolog.com^$all
+||toukrywasz.pl^$all
 ||tounteas.com^$all
 ||tourismoodle.emu.edu.tr^$all
 ||towfieworp.com^$all
@@ -15335,6 +15358,7 @@
 ||tozestaw.pl^$all
 ||tozsamosckurator.site^$all
 ||to-polska-mysl.xyz^$all
+||tpay.order-process.store^$all
 ||tpay.order-received.online^$all
 ||tpc.hu^$all
 ||tpxy8hy.cn^$all
