@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 04 Dec 2021, 16:11 UTC+01
-! Version: 2021.12.4.1
+! Last modified: Sat, 04 Dec 2021, 20:10 UTC+01
+! Version: 2021.12.4.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2055,7 +2055,6 @@
 /^https?:\/\/[\w]{1,5}\.adwokat-mk\.pl/$all,domain=adwokat-mk.pl|~www.adwokat-mk.pl
 |https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
-|http://chomikuj.pl^$document,domain=chomikuj.pl|~zalecane-polaczenie-szyfrowane-https.*
 ||0b8cc331813049912.temporary.link^$all
 ||00ckpr.cn^$all
 ||0oooo.xyz^$all
@@ -2298,6 +2297,7 @@
 ||adament.c0.pl^$all
 ||adamjarekelk.freehost.pl^$all
 ||adamrobles.com^$all
+||adaptcorrelation.top^$all
 ||adastra2019onlinezalukajfilm.wordpress.com^$all
 ||adblue-finder.com^$all
 ||adcast.ir^$all
@@ -2380,6 +2380,7 @@
 ||airsofts.xyz^$all
 ||airycloth.com^$all
 ||airydress.com^$all
+||aistmaterna.top^$all
 ||aisyming.com^$all
 ||ai-colab-research.com^$all
 ||ajstees.com^$all
@@ -3214,9 +3215,11 @@
 ||bobstiktok.com^$all
 ||bodeguia.com^$all
 ||boderinate.com^$all
+||bodyguard.com.pl^$all
 ||bodysuited.com^$all
 ||bodytech-emstrainer.com^$all
 ||bogactwostary.site^$all
+||bogaty44.site^$all
 ||bohemian-rhapsody-2018-online-napisy-pl-cda.over-blog.com^$all
 ||boiled-sulky-cupboard.glitch.me^$all
 ||boipelohlatshwayo.com^$all
@@ -3459,6 +3462,7 @@
 ||canyouheal.org^$all
 ||canyouhelpus20.bar^$all
 ||capekings.co.uk^$all
+||captureddreams.com.au^$all
 ||carambaba.com^$all
 ||caraopweveyo.com^$all
 ||cardinalholdingsltd.com^$all
@@ -3602,6 +3606,7 @@
 ||charlestonstork.com^$all
 ||charms-tech.com^$all
 ||chaveiroemgoiania.com^$all
+||chavoso.tgamesandroid.com^$all
 ||chcemyschudnac.pl^$all
 ||chceotym.pl^$all
 ||chckmailabig32.web.app^$all
@@ -7002,6 +7007,7 @@
 ||findyourlovenow*.com^$all
 ||findyour-realsex2.com^$all
 ||find-best-profits.com^$all
+||find-live.info^$all
 ||find.my-xiaomi.live^$all
 ||finexics.com^$all
 ||finlay.capital^$all
@@ -7379,6 +7385,7 @@
 ||germany-news.lowicz.pl^$all
 ||germany-news.lubin.pl^$all
 ||germany-news.malbork.pl^$all
+||gerundich-xyz.preview-domain.com^$all
 ||gessler-video.waw.pl^$all
 ||gessler-wypadek.waw.pl^$all
 ||getfilesfrom.net^$all
@@ -7556,6 +7563,7 @@
 ||greenso.com.vn^$all
 ||greenspacedxb.com^$all
 ||greentechits.com^$all
+||green-home.com.pl^$all
 ||greese.xyz^$all
 ||gregariousmyth.info^$all
 ||gregpeterslive.com^$all
@@ -9153,6 +9161,7 @@
 ||kryptointeres.pl^$all
 ||kryptono.exchange^$all
 ||kryptoportal.pl^$all
+||krzywy38.site^$all
 ||ksado.com^$all
 ||ksaikeerthi.com^$all
 ||ksero-krosno.pl^$all
@@ -9636,6 +9645,7 @@
 ||luvisaloon.com^$all
 ||luvisaloon.lemosindram.com^$all
 ||luxeeforex.com^$all
+||luxique.pl^$all
 ||luxoid.pl^$all
 ||luxurycapitals.com^$all
 ||luxurygiftpack.com^$all
@@ -12007,6 +12017,7 @@
 ||pat-l1fe.xyz^$all
 ||pat-life.xyz^$all
 ||pat-prog1.site^$all
+||paulcaltier.pl^$all
 ||paulotu.com^$all
 ||pavlowsz.pl^$all
 ||pay01-olx.info^$all
@@ -12477,6 +12488,7 @@
 ||picslab.co.za^$all
 ||pidepk.org^$all
 ||pieepisodes.info^$all
+||piekielny71.site^$all
 ||pieklodlakobiet.podpisz-petycje.eu^$all
 ||pieklokobiet.podpisz-petycje.eu^$all
 ||pieklo-kobiet.podpisz-petycje.eu^$all
@@ -15214,6 +15226,7 @@
 ||tamarispolska.pl^$all
 ||tamifashion.com^$all
 ||tamjuzktosbyl.cyou^$all
+||tampopo-loveocarina.com^$all
 ||taniekonta.crayon2.net^$all
 ||tankujemydzis.ga^$all
 ||tankujemyteraz.info^$all
@@ -15444,6 +15457,7 @@
 ||tlanddissipate.at^$all
 ||tlustydziewiec.site^$all
 ||tmbinaryfx.com^$all
+||tmcg.pl^$all
 ||tmopa.xyz^$all
 ||tnsnano.com^$all
 ||toastertuesdays.com^$all
@@ -15948,6 +15962,7 @@
 ||vacandym.com^$all
 ||vagabondbuty.com^$all
 ||vajestically.com^$all
+||valenti-torinto.pl^$all
 ||valetta.pl^$all
 ||validate-837a3.web.app^$all
 ||validate-cp-em10s.web.app^$all
@@ -16343,6 +16358,7 @@
 ||wiadomoscionet.pythonanywhere.com^$all
 ||wiadomoscipolskie.online^$all
 ||wiadomoscize-wiata.pl^$all
+||wiadomoscizswiata.pl^$all
 ||wiadomosci-bialystok.xyz^$all
 ||wiadomosci-bytom.xyz^$all
 ||wiadomosci-gazeta.pl^$all
