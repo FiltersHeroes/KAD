@@ -32,7 +32,6 @@
 /^https?:\/\/[\w]{1,5}\.adwokat-mk\.pl/$all,domain=adwokat-mk.pl|~www.adwokat-mk.pl
 |https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
-|http://chomikuj.pl^$document,domain=chomikuj.pl|~zalecane-polaczenie-szyfrowane-https.*
 ||0b8cc331813049912.temporary.link^$all
 ||00ckpr.cn^$all
 ||0oooo.xyz^$all
