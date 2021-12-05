@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 05 Dec 2021, 20:09 UTC+01
-! Version: 2021.12.5.2
+! Last modified: Sun, 05 Dec 2021, 20:32 UTC+01
+! Version: 2021.12.5.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2282,6 +2282,7 @@
 ||actualizarelect.890m.com^$all
 ||actuarialexampractice.com^$all
 ||acutedisseminatedencephalomyelitispedia.com^$all
+||adakiki.com^$all
 ||adambuchen.com^$all
 ||adament.c0.pl^$all
 ||adamjarekelk.freehost.pl^$all
@@ -3193,6 +3194,7 @@
 ||bncoposta.com^$all
 ||bnpglobalbank.com^$all
 ||bnppalba-biznesplanet.com^$all
+||bnpparibas-secure-biznes.at^$all
 ||bnpsecured.online^$all
 ||bobali.xyz^$all
 ||bobigny24.com^$all
@@ -3706,6 +3708,9 @@
 ||cloudserver184883.home.pl^$all
 ||cloud-apps.store^$all
 ||cloud-ideabank.at^$all
+||cloud-idea-sso.at^$all
+||cloud-idea.at^$all
+||cloud-sso-idea.at^$all
 ||clpfoundation.org^$all
 ||clubedoestudante.net.br^$all
 ||clubscatter.com^$all
@@ -6277,6 +6282,7 @@
 ||dziennik-bialystok.xyz^$all
 ||dziennik-bytom.xyz^$all
 ||dziennik-inf.xyz^$all
+||dziennik-weryfikacja.tk^$all
 ||dziennik.czeladz.pl^$all
 ||dziennik.mazowsze.pl^$all
 ||dziennik.warszawa.pl^$all
@@ -8690,6 +8696,7 @@
 ||jackwolfskinsklep.com^$all
 ||jacpuz.pl^$all
 ||jadrowy824.rest^$all
+||jagd-museum.de^$all
 ||jakbyspyttal.site^$all
 ||jakbytonazzwac.site^$all
 ||jakda.buzz^$all
@@ -9421,6 +9428,7 @@
 ||login.platnosci-ntf.jumonix.co.pl^$all
 ||login.pl-ing.com^$all
 ||logononfb.n4t.co^$all
+||logowanie-bnpparibas.at^$all
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-potwierdz.xyz^$all
 ||logowanie-wieku.xyz^$all
@@ -10032,6 +10040,7 @@
 ||mochkin.xyz^$all
 ||moda2020.pl^$all
 ||modal-sklep.pl^$all
+||moda-marzenie.com^$all
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
 ||moderka-sklep.pl^$all
@@ -12222,6 +12231,7 @@
 ||pay-pl.site^$all
 ||pay-reservation.site^$all
 ||pay.pocztapolska24.org^$all
+||pay.zus-wyplata.cf^$all
 ||pbshop.pl^$all
 ||pchactransfer.site^$all
 ||pcpalsonline.com^$all
@@ -13855,6 +13865,7 @@
 ||remarkablequest.top^$all
 ||remontim.pl^$all
 ||renegry.xyz^$all
+||reniferek24.pl^$all
 ||rentacquisition.com^$all
 ||rentapart24.com^$all
 ||repairmadi.com^$all
@@ -14512,6 +14523,7 @@
 ||skecherspl.com^$all
 ||skecherstanio.com^$all
 ||skecherswarszawa.com^$all
+||skechers-es.com^$all
 ||skelenron-xyz.preview-domain.com^$all
 ||skeptive.com^$all
 ||skidrowcrack.com^$all
@@ -14783,6 +14795,8 @@
 ||ssalong.se^$all
 ||ssfco.info^$all
 ||ssl-cert.pl^$all
+||sso-cloud-idea-bank.at^$all
+||sso-cloud-idea.at^$all
 ||sspbadecz.ugu.pl^$all
 ||staaytrue.site^$all
 ||stacjavapera.com^$all
@@ -17587,7 +17601,6 @@ www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
-@@||olx.org/ads/offer-eligibility$xhr,domain=www.olx.pl
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
