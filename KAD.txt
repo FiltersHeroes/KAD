@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 06 Dec 2021, 12:11 UTC+01
-! Version: 2021.12.6.0
+! Last modified: Mon, 06 Dec 2021, 16:09 UTC+01
+! Version: 2021.12.6.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2443,6 +2443,7 @@
 ||allegrolokalnie-pl-3dsafe.id-safety.co^$all
 ||allegrolokalnie-pl-3dsecure.id-safety.co^$all
 ||allegrolokalnie-pl-ns.id-safety.co^$all
+||allegrolokalnie-pl-safe.id-safety.eu^$all
 ||allegrolokalnie-pl-secure3d.id-safety.co^$all
 ||allegrolokalnie-pl.payregisway.pw^$all
 ||allegrolokalnie-pl.*^$all,domain=~translate.goog|~translate.google.*
@@ -2544,6 +2545,7 @@
 ||amazon-ck.heteml.net^$all
 ||amazon.coins-swap.io^$all
 ||ambrosiaenterprise.biz^$all
+||amerbroker.pl^$all
 ||amex-financials.com^$all
 ||amicabilitytimberman.com^$all
 ||amichiganavenuemedicalcenter.com^$all
@@ -2643,6 +2645,7 @@
 ||appsdorado.com^$all
 ||appstageco.site^$all
 ||apps.co.pl^$all
+||apps.pl-kghm.com^$all
 ||apptrader.com^$all
 ||appupstarttech.online^$all
 ||appwheelsdata.online^$all
@@ -3142,6 +3145,7 @@
 ||biurko.cyou^$all
 ||biuro-detektywi.eu^$all
 ||biuro-ruchu-drogowego.waw.pl^$all
+||bivinno.com^$all
 ||bizipromo.com^$all
 ||biznesdowygrania.cyou^$all
 ||biznesinpro.pl^$all
@@ -3797,6 +3801,7 @@
 ||comcoms.info^$all
 ||comelysoullessnesses.com^$all
 ||comelystyles.com^$all
+||comescosmetic.com^$all
 ||comeyforpres.com^$all
 ||come-inside.pl^$all
 ||comfortarch.com^$all
@@ -6109,6 +6114,7 @@
 ||dpd-lwa.id-info229.me^$all
 ||dpd-pl-bw.id-info7364.me^$all
 ||dpd-pl-qpuq.ownoffferta.cc^$all
+||dpd-pl-safe.id-safety.eu^$all
 ||dpd-pl-tdy.oferta-nn.me^$all
 ||dpd-pl-vi.oferta-bkr.me^$all
 ||dpd-pl.44112-online.sbs^$all
@@ -8194,6 +8200,7 @@
 ||info-od-policji.dnsrobotuptime.ru^$all
 ||info-paczka.net^$all
 ||info-polska.waw.pl^$all
+||info-poniedzialek.waw.pl^$all
 ||info-prosto-ze-swiata.dnsrobotuptime.ru^$all
 ||info-prosto-z-polski.dnsrobotuptime.ru^$all
 ||info-puls.czest.pl^$all
@@ -8259,6 +8266,7 @@
 ||inpostodbior.com^$all
 ||inpostpl.44112-online.sbs^$all
 ||inpostpl.com^$all
+||inpostpl.krajow-online.sbs^$all
 ||inpostpl.online-me.shop^$all
 ||inpostpl.pwerew24.icu^$all
 ||inpostpl.towar-55584.bond^$all
@@ -8373,6 +8381,7 @@
 ||inpost-pl.payregisway.pw^$all
 ||inpost-pl.pay-offering.icu^$all
 ||inpost-pl.poczta-id289574.xyz^$all
+||inpost-pl.poczta-id2865413.xyz^$all
 ||inpost-pl.poczta-id4983212.xyz^$all
 ||inpost-pl.price-pay.com^$all
 ||inpost-pl.purchaseitem.pw^$all
@@ -10202,6 +10211,7 @@
 ||mstr.patpat-pro.xyz^$all
 ||ms.hotu.xyz^$all
 ||mtefr.com^$all
+||mtloa.com^$all
 ||mtraskphotography.com^$all
 ||mtsas.freehost.pl^$all
 ||muchoparking.com^$all
@@ -10288,6 +10298,7 @@
 ||nadanie.com^$all
 ||nadbialystok.xyz^$all
 ||nadbydgoszcz.xyz^$all
+||nadbytom.xyz^$all
 ||nadmuchac530.rest^$all
 ||nadziejjaniegasnie.seohost.com.pl^$all
 ||nadzwyczajne.098.pl^$all
@@ -11151,6 +11162,7 @@
 ||olx-pl.id*.ru^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.info^$all
 ||olx-pl.iso-pay.net.ru^$all
+||olx-pl.krajow-online.sbs^$all
 ||olx-pl.ml^$all
 ||olx-pl.moneta.world^$all
 ||olx-pl.mpay-fs.info^$all
@@ -11163,6 +11175,7 @@
 ||olx-pl.oferto.cc^$all
 ||olx-pl.oformlenie-uslug.ru^$all
 ||olx-pl.onlinework226.com^$all
+||olx-pl.online-me.sbs^$all
 ||olx-pl.oplata-co.tk^$all
 ||olx-pl.org^$all
 ||olx-pl.painfo-221r.link^$all
@@ -11182,6 +11195,7 @@
 ||olx-pl.ru-*.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.safeorder.co^$all
 ||olx-pl.safe-delivery.win^$all
+||olx-pl.sec7selling.site^$all
 ||olx-pl.today^$all
 ||olx-pl.towar-55584.bond^$all
 ||olx-pl.zapitan-ie.rest^$all
@@ -11812,6 +11826,7 @@
 ||orlproooj.site^$all
 ||orl-pl.gazneftplatform.site^$all
 ||orl.edealand.pro^$all
+||orl.nlandings.com^$all
 ||ornovosummer.space^$all
 ||orsaybielizna.com^$all
 ||orthopt.com^$all
@@ -12011,6 +12026,7 @@
 ||patfteatarndt.info^$all
 ||pathfindermas.com^$all
 ||patrickdlg.com^$all
+||patrzem.pl^$all
 ||patrzonline.pl^$all
 ||pattern-trader.app^$all
 ||pattertrade.shop^$all
@@ -13082,6 +13098,7 @@
 ||polka-oferta.cyou^$all
 ||polki-nago.pl^$all
 ||pollainv.web.app^$all
+||poll-ini.web.app^$all
 ||poll-rk.web.app^$all
 ||poll.cityxman.com^$all
 ||polnd-news.info^$all
@@ -13440,6 +13457,7 @@
 ||priabafe.com^$all
 ||priaso.com^$all
 ||pricedrummer.com^$all
+||pricompat.com^$all
 ||priggishlygrazed.com^$all
 ||priggishlynopalitos.com^$all
 ||prikektfirstpl.info^$all
@@ -15937,6 +15955,7 @@
 ||update-1.com^$all
 ||update-accounts-id.online^$all
 ||update-paymentnow.ntftvcentre.website^$all
+||update-paymentnow.tvonlinenow.co.pl^$all
 ||update.*sf*.online^$all
 ||upgrade-flash-player.digital^$all
 ||uppdragledning.se^$all
