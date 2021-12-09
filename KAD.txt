@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 09 Dec 2021, 16:10 UTC+01
-! Version: 2021.12.9.1
+! Last modified: Thu, 09 Dec 2021, 20:11 UTC+01
+! Version: 2021.12.9.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -804,6 +804,7 @@
 ||kwaterynasezon.pl^$all
 ||laguna24.pl^$all
 ||laperfum.pl^$all
+||lasportivapolska.pl^$all
 ||ldrcp.pl^$all
 ||leadn.pl^$all
 ||leadzu.com^$all
@@ -2450,11 +2451,13 @@
 ||allegr0.taxiairportboeken.nl^$all
 ||allegrolokaline.club^$all
 ||allegrolokalkie.*^$all
+||allegrolokalne.me^$all
 ||allegrolokalne.*^$all
 ||allegrolokalnie-pl-3dsafe.id-safety.co^$all
 ||allegrolokalnie-pl-3dsecure.id-safety.co^$all
 ||allegrolokalnie-pl-3dsecure.id-safety.eu^$all
 ||allegrolokalnie-pl-ns.id-safety.co^$all
+||allegrolokalnie-pl-safe.dostawa-safe.online^$all
 ||allegrolokalnie-pl-safe.dostawa-safe.today^$all
 ||allegrolokalnie-pl-safe.id-safety.eu^$all
 ||allegrolokalnie-pl-secure3d.id-safety.co^$all
@@ -3378,6 +3381,7 @@
 ||broszka097.site^$all
 ||broudin-com.preview-domain.com^$all
 ||brownstone-wealth.com^$all
+||brudna-prawda.vot.pl^$all
 ||brudne-tajemnice.eu^$all
 ||brudne-tajemnice.pl^$all
 ||bryconpty.com^$all
@@ -3606,6 +3610,7 @@
 ||cdrvmmwmamqaxnzhkfghdkbjzvsgxfkimn.bitly.ws^$all
 ||cdsp.pl^$all
 ||ce1.capital-prg6.site^$all
+||ce79866.tmweb.ru^$all
 ||ce85237.tmweb.ru^$all
 ||ce88147.tmweb.ru^$all
 ||cedcon.info^$all
@@ -6213,6 +6218,8 @@
 ||dpd-pl-vi.oferta-bkr.me^$all
 ||dpd-pl.44112-online.sbs^$all
 ||dpd-pl.74943.pw^$all
+||dpd-pl.hajs-onekax.click^$all
+||dpd-pl.id738095.space^$all
 ||dpd-pl.id-3489.me^$all
 ||dpd-pl.safe-pay.site^$all
 ||dpd-s.id-9431.me^$all
@@ -6751,6 +6758,7 @@
 ||ewymianka.com.pl^$all
 ||exactitudepaginate.com^$all
 ||exaggeratecolleague.com^$all
+||exceedingyou.top^$all
 ||excellentfxtrading.com^$all
 ||excentral-int.com^$all
 ||excentral.com^$all
@@ -6852,6 +6860,7 @@
 ||facebok-desktop.pev.pl^$all
 ||faceboobko.*.*^$all
 ||facebook24-com-age.pro-linuxpl.com^$all
+||facebook24-com.cleverapps.io^$all
 ||facebookcom-43632337.techsso.com^$all
 ||facebookcom-49851167.techsso.com^$all
 ||facebookleak.com^$all
@@ -8503,6 +8512,7 @@
 ||inpost-pl-ouw.id-59877.me^$all
 ||inpost-pl-pay.site^$all
 ||inpost-pl-px.id98325.me^$all
+||inpost-pl-safe.dostawa-safe.online^$all
 ||inpost-pl-safe.dostawa-safe.today^$all
 ||inpost-pl-secure3d.id-safety.co^$all
 ||inpost-pl-ta.id-4365.me^$all
@@ -8574,6 +8584,7 @@
 ||inpost-pl.pay-offering.icu^$all
 ||inpost-pl.poczta-id289574.xyz^$all
 ||inpost-pl.poczta-id585319.xyz^$all
+||inpost-pl.poczta-id658703.xyz^$all
 ||inpost-pl.poczta-id874572.xyz^$all
 ||inpost-pl.poczta-id2865413.xyz^$all
 ||inpost-pl.poczta-id4983212.xyz^$all
@@ -8588,6 +8599,7 @@
 ||inpost-pl.trackcode-info-id678543.xyz^$all
 ||inpost-pl.trackcode-info-id784314.xyz^$all
 ||inpost-pl.trackcode-info-id894763.xyz^$all
+||inpost-pl.trackcode-info-id985463.xyz^$all
 ||inpost-pl.trackcode-info-id986453.xyz^$all
 ||inpost-pxa.id-9543.me^$all
 ||inpost-qhx.id-9543.me^$all
@@ -8728,6 +8740,7 @@
 ||introgoog.coocoldini.xyz^$all
 ||inuyasha-fan.com^$all
 ||inv1pl-budimnew.info^$all
+||invalidationshypertrophying.com^$all
 ||invec-t.web.app^$all
 ||invest2021gosummer.website^$all
 ||invest2021go-summer.site^$all
@@ -11445,6 +11458,7 @@
 ||olx-pl.in-order.store^$all
 ||olx-pl.iso-pay.net.ru^$all
 ||olx-pl.kilka-505129.xyz^$all
+||olx-pl.konto-meryt.bond^$all
 ||olx-pl.ko-partne99292.one^$all
 ||olx-pl.krajow-online.sbs^$all
 ||olx-pl.ml^$all
@@ -11453,6 +11467,7 @@
 ||olx-pl.my-dostawa.bar^$all
 ||olx-pl.my-dostawa.club^$all
 ||olx-pl.net^$all
+||olx-pl.odbior-86128.one^$all
 ||olx-pl.oferta-payment.*^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.oferta-pay.fun^$all
 ||olx-pl.oferta-pay.life^$all
@@ -12820,6 +12835,7 @@
 ||pib7bocaiuvadosul.com.br^$all
 ||picayune-tangible-detective.glitch.me^$all
 ||picie.cyou^$all
+||picowavedavower.com^$all
 ||picslab.co.za^$all
 ||pidepk.org^$all
 ||pieepisodes.info^$all
@@ -13857,6 +13873,7 @@
 ||prof.tsla-coin.xyz^$all
 ||proglottiddauber.com^$all
 ||proglottidtemblor.com^$all
+||prognosticationbacteremia.com^$all
 ||programm-pat.xyz^$all
 ||programtop-group.us^$all
 ||programu.pl^$all
@@ -15282,6 +15299,7 @@
 ||star.futureex.site^$all
 ||stashola.com^$all
 ||stateofdelaney.com^$all
+||staticparalysis.top^$all
 ||stational-danger.000webhostapp.com^$all
 ||status24.5p.pl^$all
 ||statusmarkets.com^$all
