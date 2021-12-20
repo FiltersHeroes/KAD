@@ -78,24 +78,6 @@ sed -i -r 's|$|\^\$all|' "$TEMP"/LIST.temp
 
 cat "$TEMP"/LIST.temp >> "$MAIN_PATH"/sections/przekrety.txt
 
-if [ -f "$TEMP"/LIST.temp ]; then
-    # Usuwamy domeny usunięte z CERT
-    wget -O "$TEMP"/domains.json https://hole.cert.pl/domains/domains.json
-    if [ -f "$TEMP"/domains.json ]; then
-        jq '.[] | select(.DeleteDate!=null).DomainAddress' -r "$TEMP"/domains.json > "$TEMP"/CERT_removed.txt
-        rm -rf "$TEMP"/domains.json
-        sed -i 's/^www\.//g' "$TEMP"/CERT_removed.txt
-        sort -u -o "$MAIN_PATH"/sections/przekrety.txt "$MAIN_PATH"/sections/przekrety.txt
-        sed -i -r "s|^|\|\||" "$TEMP"/CERT_removed.txt
-        sed -i -r 's|$|\^\$all|' "$TEMP"/CERT_removed.txt
-        sort -u -o "$TEMP"/CERT_removed.txt "$TEMP"/CERT_removed.txt
-        comm -23 "$MAIN_PATH"/sections/przekrety.txt "$TEMP"/CERT_removed.txt > "$TEMP"/LIST.temp
-        mv "$TEMP"/LIST.temp "$MAIN_PATH"/sections/przekrety.txt
-        rm -rf "$TEMP"/CERT_removed.txt
-        sort -uV -o "$MAIN_PATH"/sections/przekrety.txt "$MAIN_PATH"/sections/przekrety.txt
-    fi
-fi
-
 rm -rf "$TEMP"
 
 cd "$MAIN_PATH" || exit
