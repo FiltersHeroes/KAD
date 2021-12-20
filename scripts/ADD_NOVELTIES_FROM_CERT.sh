@@ -26,6 +26,14 @@ rm -r ./KADhosts.txt
 mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
 sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 
+OFFLINE="$MAIN_PATH"/scripts/CERT_offline.txt
+
+if [ -f "$OFFLINE" ]; then
+    comm -23 "$TEMP"/CERTHole_temp.txt "$OFFLINE" > "$CERT".2
+    mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
+    sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
+fi
+
 EXPIRED="$MAIN_PATH"/temp/CERT_expired.txt
 
 while IFS= read -r domain; do
@@ -38,6 +46,10 @@ while IFS= read -r domain; do
 done <"$TEMP"/CERTHole_temp.txt
 
 if [ -f "$EXPIRED" ]; then
+    if [ -f "$OFFLINE" ]; then
+        rm -rf "$OFFLINE"
+    fi
+    cp "$EXPIRED" "$OFFLINE"
     comm -23 "$TEMP"/CERTHole_temp.txt "$TEMP"/CERT_expired.txt >> "$TEMP"/LIST.temp
     rm -r "$TEMP"/CERTHole_temp.txt
     mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
@@ -49,19 +61,6 @@ if [ -f "$SCRIPT_PATH"/CERT_skip.txt ]; then
     sort -u -o "$SCRIPT_PATH"/CERT_skip.txt "$SCRIPT_PATH"/CERT_skip.txt
     comm -23 "$TEMP"/CERTHole_temp.txt "$SCRIPT_PATH"/CERT_skip.txt > "$TEMP"/LIST.temp
     mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
-fi
-
-# Usuwamy domeny usunięte z CERT
-wget -O "$TEMP"/domains.json https://hole.cert.pl/domains/domains.json
-if [ -f "$TEMP"/domains.json ]; then
-    jq '.[] | select(.DeleteDate!=null).DomainAddress' -r "$TEMP"/domains.json > "$TEMP"/CERT_removed.txt
-    rm -rf "$TEMP"/domains.json
-    sed -i 's/^www\.//g' "$TEMP"/CERT_removed.txt
-    sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
-    sort -u -o "$TEMP"/CERT_removed.txt "$TEMP"/CERT_removed.txt
-    comm -23 "$TEMP"/CERTHole_temp.txt "$TEMP"/CERT_removed.txt > "$TEMP"/LIST.temp
-    mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
-    rm -rf "$TEMP"/CERT_removed.txt
 fi
 
 if [ ! -f "$TEMP"/LIST.temp ]; then
@@ -78,6 +77,24 @@ sed -i -r "s|^|\|\||" "$TEMP"/LIST.temp
 sed -i -r 's|$|\^\$all|' "$TEMP"/LIST.temp
 
 cat "$TEMP"/LIST.temp >> "$MAIN_PATH"/sections/przekrety.txt
+
+if [ -f "$TEMP"/LIST.temp ]; then
+    # Usuwamy domeny usunięte z CERT
+    wget -O "$TEMP"/domains.json https://hole.cert.pl/domains/domains.json
+    if [ -f "$TEMP"/domains.json ]; then
+        jq '.[] | select(.DeleteDate!=null).DomainAddress' -r "$TEMP"/domains.json > "$TEMP"/CERT_removed.txt
+        rm -rf "$TEMP"/domains.json
+        sed -i 's/^www\.//g' "$TEMP"/CERT_removed.txt
+        sort -u -o "$MAIN_PATH"/sections/przekrety.txt "$MAIN_PATH"/sections/przekrety.txt
+        sed -i -r "s|^|\|\||" "$TEMP"/CERT_removed.txt
+        sed -i -r 's|$|\^\$all|' "$TEMP"/CERT_removed.txt
+        sort -u -o "$TEMP"/CERT_removed.txt "$TEMP"/CERT_removed.txt
+        comm -23 "$MAIN_PATH"/sections/przekrety.txt "$TEMP"/CERT_removed.txt > "$TEMP"/LIST.temp
+        mv "$TEMP"/LIST.temp "$MAIN_PATH"/sections/przekrety.txt
+        rm -rf "$TEMP"/CERT_removed.txt
+        sort -uV -o "$MAIN_PATH"/sections/przekrety.txt "$MAIN_PATH"/sections/przekrety.txt
+    fi
+fi
 
 rm -rf "$TEMP"
 

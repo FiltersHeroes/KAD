@@ -11,6 +11,7 @@ jobs:
         root: ./
         paths:
           - sections/przekrety.txt
+          - scripts/CERT_offline.txt
   LWS:
     docker:
     - image: polishfiltersteam/kad_image:2.26.9

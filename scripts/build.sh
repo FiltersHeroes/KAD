@@ -6,6 +6,8 @@ SCRIPT_PATH=$(dirname "$(realpath -s "$0")")
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium
 MAIN_PATH=$(git -C "$SCRIPT_PATH" rev-parse --show-toplevel)
 
+TEMP="$MAIN_PATH"/temp
+
 cd "$MAIN_PATH" || exit
 
 if [ -f "./sections/LWS/podejrzane_inne_oszustwa.txt" ]; then
@@ -18,6 +20,11 @@ if [ -f "./sections/CERT/przekrety.txt" ]; then
     mv ./sections/CERT/przekrety.txt ./sections/
 fi
 
+if [ -f "./scripts/CERT/CERT_offline.txt" ]; then
+    rm -rf ./scripts/CERT/CERT_offline.txt
+    mv ./scripts/CERT/CERT_offline.txt ./scripts
+fi
+
 ost_plik=$(git diff --name-only --pretty=format: | sort | uniq)
 function search() {
     echo "$ost_plik" | grep "$1"
@@ -27,7 +34,7 @@ function search() {
 CONFIG=$SCRIPT_PATH/VICHS.config
 
 # Konfiguracja nazwy użytkownika i maila dla CI
-if [ "$CI" = "true" ] ; then
+if [ "$CI" = "true" ]; then
     CI_USERNAME=$(grep -oP -m 1 '@CIusername \K.*' "$CONFIG")
     CI_EMAIL=$(grep -oP -m 1 '@CIemail \K.*' "$CONFIG")
     git config --global user.name "${CI_USERNAME}"
@@ -39,6 +46,9 @@ if [[ -n $(search "sections/podejrzane_inne_oszustwa.txt") ]]; then
     git commit -m "Nowości z LWS"
 fi
 if [[ -n $(search "sections/przekrety.txt") ]]; then
+    if [[ -n $(search "scripts/CERT_offline.txt") ]]; then
+        git add "$MAIN_PATH"/scripts/CERT_offline.txt
+    fi
     git add "$MAIN_PATH"/sections/przekrety.txt
     git commit -m "Nowości z listy CERT"
 fi
@@ -46,10 +56,10 @@ fi
 VICHS.sh ./KAD.txt
 cd "$MAIN_PATH"/.. || exit
 
-if [[ "$CI" = "true" ]] && [[ -z "$CIRCLECI" ]] ; then
+if [[ "$CI" = "true" ]] && [[ -z "$CIRCLECI" ]]; then
     git clone https://github.com/PolishFiltersTeam/KADhosts.git
 fi
-if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "true" ]] ; then
+if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "true" ]]; then
     git clone git@github.com:PolishFiltersTeam/KADhosts.git
 fi
 
