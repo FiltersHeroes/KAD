@@ -56,7 +56,8 @@ wget -O "$TEMP"/domains.json https://hole.cert.pl/domains/domains.json
 if [ -f "$TEMP"/domains.json ]; then
     jq '.[] | select(.DeleteDate!=null).DomainAddress' -r "$TEMP"/domains.json > "$TEMP"/CERT_removed.txt
     rm -rf "$TEMP"/domains.json
-    sed -ir "s/^www\.//" "$TEMP"/CERT_removed.txt
+    sed -i 's/^www\.//g' "$TEMP"/CERT_removed.txt
+    sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
     sort -u -o "$TEMP"/CERT_removed.txt "$TEMP"/CERT_removed.txt
     comm -23 "$TEMP"/CERTHole_temp.txt "$TEMP"/CERT_removed.txt > "$TEMP"/LIST.temp
     mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
