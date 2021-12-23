@@ -29,7 +29,17 @@ sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 OFFLINE="$MAIN_PATH"/scripts/CERT_offline.txt
 
 if [ -f "$OFFLINE" ]; then
+    sort -u -o "$OFFLINE" "$OFFLINE"
     comm -23 "$TEMP"/CERTHole_temp.txt "$OFFLINE" > "$CERT".2
+    mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
+    sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
+fi
+
+CERT_SKIP="$SCRIPT_PATH"/CERT_skip.txt
+
+if [ -f "$CERT_SKIP" ]; then
+    sort -u -o "$CERT_SKIP" "$CERT_SKIP"
+    comm -23 "$TEMP"/CERTHole_temp.txt "$CERT_SKIP" > "$CERT".2
     mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
     sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 fi
@@ -55,12 +65,6 @@ if [ -f "$EXPIRED" ]; then
     mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
     rm -r "$TEMP"/CERT_expired.txt
     sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
-fi
-
-if [ -f "$SCRIPT_PATH"/CERT_skip.txt ]; then
-    sort -u -o "$SCRIPT_PATH"/CERT_skip.txt "$SCRIPT_PATH"/CERT_skip.txt
-    comm -23 "$TEMP"/CERTHole_temp.txt "$SCRIPT_PATH"/CERT_skip.txt > "$TEMP"/LIST.temp
-    mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
 fi
 
 if [ ! -f "$TEMP"/LIST.temp ]; then
