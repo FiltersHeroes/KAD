@@ -12,10 +12,6 @@ jobs:
         paths:
           - sections/przekrety.txt
           - scripts/CERT_offline.txt
-    - store_artifacts:
-        path: sections/przekrety.txt
-    - store_artifacts:
-        path: scripts/CERT_offline.txt
   LWS:
     docker:
     - image: polishfiltersteam/kad_image:2.26.9

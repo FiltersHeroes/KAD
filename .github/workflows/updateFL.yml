@@ -46,5 +46,6 @@ jobs:
       - name: Aktualizacja całej listy
         env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+          SKIP_OFFLINE: true
         run: |
           ./scripts/build.sh

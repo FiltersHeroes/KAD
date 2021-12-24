@@ -28,7 +28,7 @@ sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 
 OFFLINE="$SCRIPT_PATH"/CERT_offline.txt
 
-if [ -f "$OFFLINE" ]; then
+if [ -f "$OFFLINE" ] && [ "$SKIP_OFFLINE" = "true" ]; then
     sort -u -o "$OFFLINE" "$OFFLINE"
     comm -23 "$TEMP"/CERTHole_temp.txt "$OFFLINE" >"$CERT".2
     mv "$CERT".2 "$TEMP"/CERTHole_temp.txt

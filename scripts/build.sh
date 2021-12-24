@@ -47,11 +47,12 @@ if [[ -n $(search "sections/podejrzane_inne_oszustwa.txt") ]]; then
 fi
 if [[ -n $(search "sections/przekrety.txt") ]]; then
     if [[ -n $(search "scripts/CERT_offline.txt") ]]; then
-        git add "$MAIN_PATH"/scripts/CERT_offline.txt
+        git add "$SCRIPT_PATH"/CERT_offline.txt
     fi
     git add "$MAIN_PATH"/sections/przekrety.txt
     git commit -m "Nowości z listy CERT"
     # Usuwamy domeny usunięte z CERT
+    mkdir -p "$TEMP"
     wget -O "$TEMP"/domains.json https://hole.cert.pl/domains/domains.json
     if [ -f "$TEMP"/domains.json ]; then
         jq '.[] | select(.DeleteDate!=null).DomainAddress' -r "$TEMP"/domains.json > "$TEMP"/CERT_removed.txt
