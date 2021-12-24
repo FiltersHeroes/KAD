@@ -13,24 +13,24 @@ cd "$TEMP" || exit
 CERT="$TEMP"/CERTHole.temp
 wget -O "$CERT" https://hole.cert.pl/domains/domains.txt
 wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
-pcregrep -o1 '^.*?0.0.0.0 (.*)' ./KADhosts.txt >> ./KADhosts_temp.txt
+pcregrep -o1 '^.*?0.0.0.0 (.*)' ./KADhosts.txt >>./KADhosts_temp.txt
 rm -rf ./KADhosts.txt
 mv ./KADhosts_temp.txt ./KADhosts.txt
 sed -i 's/^www\.//g' ./KADhosts.txt
 sed -i 's/^www\.//g' "$CERT"
 sort -u -o ./KADhosts.txt ./KADhosts.txt
 sort -u -o "$CERT" "$CERT"
-comm -13 ./KADhosts.txt "$CERT" >> "$CERT".2
+comm -13 ./KADhosts.txt "$CERT" >>"$CERT".2
 rm -r "$CERT"
 rm -r ./KADhosts.txt
 mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
 sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 
-OFFLINE="$MAIN_PATH"/scripts/CERT_offline.txt
+OFFLINE="$SCRIPT_PATH"/CERT_offline.txt
 
 if [ -f "$OFFLINE" ]; then
     sort -u -o "$OFFLINE" "$OFFLINE"
-    comm -23 "$TEMP"/CERTHole_temp.txt "$OFFLINE" > "$CERT".2
+    comm -23 "$TEMP"/CERTHole_temp.txt "$OFFLINE" >"$CERT".2
     mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
     sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 fi
@@ -39,7 +39,7 @@ CERT_SKIP="$SCRIPT_PATH"/CERT_skip.txt
 
 if [ -f "$CERT_SKIP" ]; then
     sort -u -o "$CERT_SKIP" "$CERT_SKIP"
-    comm -23 "$TEMP"/CERTHole_temp.txt "$CERT_SKIP" > "$CERT".2
+    comm -23 "$TEMP"/CERTHole_temp.txt "$CERT_SKIP" >"$CERT".2
     mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
     sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 fi
@@ -51,7 +51,7 @@ while IFS= read -r domain; do
     parked=$(echo "${hostname}" | grep -E "parkingcrew.net|parklogic.com|sedoparking.com")
     echo "Checking the status of domains"
     if [[ "${hostname}" =~ "NXDOMAIN" ]] || [ -n "${parked}" ]; then
-        echo "$domain" >> "$EXPIRED"
+        echo "$domain" >>"$EXPIRED"
     fi
 done <"$TEMP"/CERTHole_temp.txt
 
@@ -60,7 +60,7 @@ if [ -f "$EXPIRED" ]; then
         rm -rf "$OFFLINE"
     fi
     cp "$EXPIRED" "$OFFLINE"
-    comm -23 "$TEMP"/CERTHole_temp.txt "$TEMP"/CERT_expired.txt >> "$TEMP"/LIST.temp
+    comm -23 "$TEMP"/CERTHole_temp.txt "$TEMP"/CERT_expired.txt >>"$TEMP"/LIST.temp
     rm -r "$TEMP"/CERTHole_temp.txt
     mv "$TEMP"/LIST.temp "$TEMP"/CERTHole_temp.txt
     rm -r "$TEMP"/CERT_expired.txt
@@ -80,7 +80,7 @@ sed -i 's/[[:space:]]*$//' "$TEMP"/LIST.temp
 sed -i -r "s|^|\|\||" "$TEMP"/LIST.temp
 sed -i -r 's|$|\^\$all|' "$TEMP"/LIST.temp
 
-cat "$TEMP"/LIST.temp >> "$MAIN_PATH"/sections/przekrety.txt
+cat "$TEMP"/LIST.temp >>"$MAIN_PATH"/sections/przekrety.txt
 
 rm -rf "$TEMP"
 
