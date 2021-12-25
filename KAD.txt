@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 25 Dec 2021, 20:09 UTC+01
-! Version: 2021.12.25.2
+! Last modified: Sat, 25 Dec 2021, 23:09 UTC+01
+! Version: 2021.12.25.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2484,6 +2484,7 @@
 ||allegrolokalnie-pl.payregisway.pw^$all
 ||allegrolokalnie-pl.$all,domain=~translate.goog|~translate.google.*
 ||allegrolokalnie.75843.space^$all
+||allegrolokalnie.83432.space^$all
 ||allegrolokalnie.939689.space^$all
 ||allegrolokalnie.gifts^$all
 ||allegrolokalnie.ink^$all
@@ -2518,6 +2519,7 @@
 ||allegro-lokalniie.fun^$all
 ||allegro-m.pl^$all
 ||allegro-pl-7e2a33.ingress-daribow.easywp.com^$all
+||allegro-pl.jgax-ord512.sbs^$all
 ||allegro-pl.lokalnie.digital^$all
 ||allegro-pl.pols-oiue.sbs^$all
 ||allegro-pl.ustawienie-dostawy.sbs^$all
@@ -11109,6 +11111,7 @@
 ||ndeloxfilms.com^$all
 ||ndpd.id-093578.me^$all
 ||neatlif.com^$all
+||nebenam-com.preview-domain.com^$all
 ||nebertole-site.preview-domain.com^$all
 ||nebeska.xyz^$all
 ||nebula-9.com^$all
@@ -13348,6 +13351,7 @@
 ||pikirankitooyamang.co.vu^$all
 ||pikirankitooyamang.tarungdrajatsiokalama.com^$all
 ||pikiranmsjsdg.co.vu^$all
+||pikonto.com^$all
 ||pilkarskikup.com^$all
 ||pilkarskisklep.com^$all
 ||pillyways.xyz^$all
@@ -13362,7 +13366,6 @@
 ||pinkstar.pl^$all
 ||pinkvod.pl^$all
 ||pinkypants.top^$all
-||pinnaclepolska.com^$all
 ||pinpey.net^$all
 ||pinspey.net^$all
 ||pinvazo.com^$all
