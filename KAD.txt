@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 25 Dec 2021, 16:10 UTC+01
-! Version: 2021.12.25.1
+! Last modified: Sat, 25 Dec 2021, 20:09 UTC+01
+! Version: 2021.12.25.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -6346,6 +6346,7 @@
 ||dpdpickuq.top^$all
 ||dpdpi.dostawa-polska-789436532.xyz^$all
 ||dpdpl-info.informationabout-parcelpl.xyz^$all
+||dpdpl-info.myparcel-orderinfo.xyz^$all
 ||dpdpl.dostawa-obdior-9874536.xyz^$all
 ||dpdpl.dostawa-order-6744132.xyz^$all
 ||dpdpoland.orderingdlvry-courierpoland.xyz^$all
@@ -10031,6 +10032,7 @@
 ||lnpost.buyplatform-infome.xyz^$all
 ||lnpost.custompl-shipping.xyz^$all
 ||lnpost.kontogivecash-inform.space^$all
+||lnpost.money-orderinfo.xyz^$all
 ||lnpost.net^$all
 ||lnpost.paysell-inform.xyz^$all
 ||lnpost.pl-16290125.xyz^$all
@@ -12030,6 +12032,7 @@
 ||olx.custom-packageinfobiz.space^$all
 ||olx.deliver*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.delliver*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx.distributionfundspl-ptr.xyz^$all
 ||olx.doreczanie.pl^$all
 ||olx.doreczenle.pl^$all
 ||olx.dostawa-orders.casa^$all
