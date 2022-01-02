@@ -1,6 +1,5 @@
 .com/c/*?s1=$document,domain=com
 .net/c/*?s1=$document,domain=net
-||ggbetpromo.com^$all
 /jump?id=*&_tgurl=$document
 /site/redirectpage?ca=link&sid=$document
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
@@ -92,6 +91,7 @@
 ||gaming001.site^$all
 ||gazeta-pl.icu^$all
 ||getalinkandshare.com^$all
+||ggbetpromo.com^$all
 ||ggljjk.cc^$all
 ||giftprizewinner.com^$all
 ||global-mobile-apps-repository.life^$all
