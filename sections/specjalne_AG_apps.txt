@@ -4,11 +4,11 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~bing.*|~duckduck.*|~ecosia.org|~google.*|~pocztex.pl|~qwant.com|~startpage.com|~yahoo.*
 |http*://*/fb-login/$badfilter,document,domain=~facebook.com
 |http*://*/fb-login/$document,domain=~bing.*|~duckduck.*|~ecosia.org|~facebook.com|~google.*|~qwant.com|~startpage.com|~yahoo.*
+||allegrolokalnie.$badfilter,document,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl
+||allegrolokalnie.$document,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*|~zalukaj.vip
 ||chomikuj.$badfilter,document,domain=~chomikuj.pl
 ||chomikuj.$document,domain=~bing.*|~chomikuj.pl|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*
 ||legalniewsieci.$badfilter,document,domain=~legalniewsieci.pl
 ||legalniewsieci.$document,domain=~bing.*|~duckduck.*|~ecosia.org|~google.*|~legalniewsieci.pl|~qwant.com|~startpage.com|~yahoo.*
 ||zalukaj*.$badfilter,document,domain=~zalukaj.vip
 ||zalukaj*.$document,domain=~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*|~zalukaj.vip
-||allegrolokalnie.$document,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl,badfilter
- ||allegrolokalnie.$document,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*|~zalukaj.vip
