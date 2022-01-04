@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 04 Jan 2022, 16:09 UTC+01
-! Version: 2022.1.4.1
+! Last modified: Tue, 04 Jan 2022, 20:09 UTC+01
+! Version: 2022.1.4.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2565,6 +2565,7 @@
 ||allegrolokalnie-pl-3dseif.dostawa-id.live^$all
 ||allegrolokalnie-pl-cybersec.clear-dostawa.xyz^$all
 ||allegrolokalnie-pl-safe.dostawa-safe.today^$all
+||allegrolokalnie-pl-safe.id-512560.xyz^$all
 ||allegrolokalnie-pl-safe.id-safety.eu^$all
 ||allegrolokalnie-pl.dostawa-safe.today^$all
 ||allegrolokalnie-pl.id735267.space^$all
@@ -3845,6 +3846,7 @@
 ||cennyowinac.site^$all
 ||censuscoalition.com^$all
 ||centerpl.statnew78.xyz^$all
+||centfor-com.preview-domain.com^$all
 ||centogx.com^$all
 ||centralaodsylacz.site^$all
 ||centralmovies.network^$all
@@ -6538,6 +6540,7 @@
 ||dpd.76589.site^$all
 ||dpd.83465.space^$all
 ||dpd.756347.space^$all
+||dpd.985489.site^$all
 ||dpd.deliveryuser-ptr.xyz^$all
 ||dpd.ip-648342.pw^$all
 ||dpd.orderingpl-meinfo.xyz^$all
@@ -8918,6 +8921,7 @@
 ||inpostpl.konto-klasyczne.sbs^$all
 ||inpostpl.lot-info-73528.xyz^$all
 ||inpostpl.oyt-irw581.xyz^$all
+||inpostpl.podanie-dnny.pro^$all
 ||inpostpl.prosto-porostu.pro^$all
 ||inpostpl.przelew-expresowy.click^$all
 ||inpostpl.przelew-standart.club^$all
@@ -9126,6 +9130,7 @@
 ||inpost.fit^$all
 ||inpost.formularz.club^$all
 ||inpost.formularz.ml^$all
+||inpost.formullarz.xyz^$all
 ||inpost.generujkod.com^$all
 ||inpost.goldcashpl-inforrtg.xyz^$all
 ||inpost.id725251.space^$all
@@ -10588,6 +10593,7 @@
 ||mail-food-id.000webhostapp.com^$all
 ||mail-loginui.website.yandexcloud.net^$all
 ||mail-nevion.com^$all
+||mail-tiicketer.com^$all
 ||mail.inwestycyjne-wpolce-967mp.xyz^$all
 ||mail.kbdemolering.se^$all
 ||mail.kulturkurs.se^$all
@@ -12269,6 +12275,7 @@
 ||olx-pl.my-dostawa.bar^$all
 ||olx-pl.my-dostawa.club^$all
 ||olx-pl.nadanie-przesylki.online^$all
+||olx-pl.oferta-payment.com^$all
 ||olx-pl.oferta-payment.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.oferta-pay.digital^$all
 ||olx-pl.oferta-pay.fun^$all
@@ -12277,8 +12284,10 @@
 ||olx-pl.oferta-pay.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.oferto.cc^$all
 ||olx-pl.oformlenie-uslug.ru^$all
+||olx-pl.oina-5kaj5zx.sbs^$all
 ||olx-pl.okja-8981j.bar^$all
 ||olx-pl.onlinework226.com^$all
+||olx-pl.osq-4rq1.bond^$all
 ||olx-pl.painfo-221r.link^$all
 ||olx-pl.pay3d.me^$all
 ||olx-pl.payinggfor.pw^$all
@@ -12291,6 +12300,7 @@
 ||olx-pl.pay-secure.com.ru^$all
 ||olx-pl.pazka-125.pl^$all
 ||olx-pl.poczta-id658703.xyz^$all
+||olx-pl.podanie-dnny.pro^$all
 ||olx-pl.prosto-porostu.pro^$all
 ||olx-pl.przelew-99412.bond^$all
 ||olx-pl.przelew-expresowy.click^$all
@@ -12301,6 +12311,7 @@
 ||olx-pl.ru-*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.safeorder.co^$all
 ||olx-pl.safe-delivery.win^$all
+||olx-pl.security.oferta-payment.com^$all
 ||olx-pl.serwis-szybki5512.icu^$all
 ||olx-pl.szybkiodbior-pieniadz.work^$all
 ||olx-pl.today^$all
@@ -12431,10 +12442,12 @@
 ||olx.pl-orderpaid.cyou^$all
 ||olx.pl-orderpays.cyou^$all
 ||olx.pl-orderspaid.cyou^$all
+||olx.pl-payment.oferta-payment.com^$all
 ||olx.pl-payment.oferta-pay.com^$all
 ||olx.pl-payment.oferta-pay.net^$all
 ||olx.pl-pays.cyou^$all
 ||olx.pl-pays.icu^$all
+||olx.pl-poland.oferta-payment.com^$all
 ||olx.pl-poland.oferta-pay.net^$all
 ||olx.pl-process-safegate24.xyz^$all
 ||olx.pl-receivepaid.cyou^$all
@@ -12444,6 +12457,7 @@
 ||olx.pl-savedpay.icu^$all
 ||olx.pl-savepaid.cyou^$all
 ||olx.pl-securepay24-exchange.xyz^$all
+||olx.pl-security.oferta-payment.com^$all
 ||olx.pl-security.oferta-pay.net^$all
 ||olx.pl-zamawienie.shop^$all
 ||olx.pl-*.$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -12454,15 +12468,18 @@
 ||olx.pl.dostawy-online.info^$all
 ||olx.pl.itbuyingtofor.pw^$all
 ||olx.pl.itemcheck-gn.pw^$all
+||olx.pl.oferta-payment.com^$all
 ||olx.pl.oferta-pay.dev^$all
 ||olx.pl.oferta-pay.digital^$all
 ||olx.pl.oferta-pay.live^$all
 ||olx.pl.oferta-pay.space^$all
 ||olx.pl.oferta-pay.store^$all
+||olx.pl.pay.oferta-payment.com^$all
 ||olx.pl.pay.oferta-pay.net^$all
 ||olx.pl.pay.oferta-pay.store^$all
 ||olx.pl.safety.oferta-pay.net^$all
 ||olx.pl.safe.oferta-pay.net^$all
+||olx.pl.security.oferta-payment.com^$all
 ||olx.pl.security.oferta-pay.net^$all
 ||olx.pl.topaybbitfor.pw^$all
 ||olx.pl.tracking.oferta-pay.net^$all
@@ -13743,6 +13760,7 @@
 ||pkn-inv.surge.sh^$all
 ||pkn-orlen.surge.sh^$all
 ||pko24.space^$all
+||pkoinvestition.site^$all
 ||pkoinvestition.space^$all
 ||pkopl.com^$all
 ||pko-24.space^$all
@@ -14072,6 +14090,7 @@
 ||pl.oferto.org^$all
 ||pl.olx-ofert.art^$all
 ||pl.olx-ofert.life^$all
+||pl.olx.oferta-payment.com^$all
 ||pl.olx.oferta-pay.cc^$all
 ||pl.olx.oferta-pay.digital^$all
 ||pl.olx.oferta-pay.fun^$all
@@ -17937,6 +17956,7 @@
 ||wetieria.com^$all
 ||wet-cleaning.jp^$all
 ||wexness.cc^$all
+||wez-przydasie.site^$all
 ||wf.agakhanacademies.optimizia.co^$all
 ||wgliwicach.xyz^$all
 ||wglowiet.cyou^$all
@@ -18315,6 +18335,7 @@
 ||wwv-olx.pl^$all
 ||www2.lotosus.info^$all
 ||wwww-olx.pl^$all
+||www-apple-login-my.com^$all
 ||www-inpostapl.xyz^$all
 ||www-olxpget.work^$all
 ||www-olxpldilivery.club^$all
