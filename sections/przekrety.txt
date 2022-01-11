@@ -1,10 +1,9 @@
 /wp-content/*.htm$document,domain=~mozliwy-przekret-albo-oszustwo.*
 /wp-content/*.php$document,domain=~mozliwy-przekret-albo-oszustwo.*
-/^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
-||redcustompackaging.com^$all
-/^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
-/wp-includes/*.php$document,domain=~mozliwy-przekret.*
 /wp-includes/*.htm$document,domain=~mozliwy-przekret.*
+/wp-includes/*.php$document,domain=~mozliwy-przekret.*
+/^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
+/^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
 /^https?:\/\/([\w]{1,4}\.)?(info-onet|informujemy)(\d+)?\.pl/$all
@@ -476,12 +475,14 @@
 ||allegrolokaine.pl-uploadingbanktransfer.xyz^$all
 ||allegrolokaline.club^$all
 ||allegrolokalkie.$all
+||allegrolokalne-lnfome.pl-paytransferproces.xyz^$all
 ||allegrolokalne-lnfo.preprocesdata.xyz^$all
 ||allegrolokalne.com.pl^$all
 ||allegrolokalne.me^$all
 ||allegrolokalne.site^$all
 ||allegrolokalne.$all
 ||allegrolokalnie-pl-3dsafe.dostawa-id.live^$all
+||allegrolokalnie-pl-3dsafe.id-91501.xyz^$all
 ||allegrolokalnie-pl-3dsafe.notification-sender.xyz^$all
 ||allegrolokalnie-pl-3dsecure.dostawa-id.live^$all
 ||allegrolokalnie-pl-3dsecure.id-safety.eu^$all
@@ -4211,6 +4212,7 @@
 ||discorl.com^$all
 ||discozd.com^$all
 ||discqrdapp.com^$all
+||discqrde.com^$all
 ||discriminationnun.info^$all
 ||discrode.com^$all
 ||discrord-nitr.ru^$all
@@ -4532,6 +4534,7 @@
 ||dpdpl.dostawa-order-6744132.xyz^$all
 ||dpdpoland.orderingdlvry-courierpoland.xyz^$all
 ||dpd-ap.id-3828883.me^$all
+||dpd-com.oplata-u.site^$all
 ||dpd-com.sec-umowa.site^$all
 ||dpd-com.umowa3ds.site^$all
 ||dpd-hroz.id86-92.me^$all
@@ -4581,6 +4584,7 @@
 ||dpd.ip-648342.pw^$all
 ||dpd.orderingpl-meinfo.xyz^$all
 ||dpd.packageinfo-money.xyz^$all
+||dpd.transpay-67584.space^$all
 ||dpejwyk5eyul1.cloudfront.net^$all
 ||dpkb8wsd5bmct.cloudfront.net^$all
 ||dppn96depxyay.cloudfront.net^$all
@@ -6185,6 +6189,7 @@
 ||gq.pqueenpl.site^$all
 ||graalindelicacies.com^$all
 ||graalindelicacies.positivisticrivalling.com^$all
+||graciadev.com^$all
 ||gracious-saha-56755f.netlify.app^$all
 ||grafdruk.com.pl^$all
 ||graffitis.icu^$all
@@ -6990,6 +6995,7 @@
 ||inpostmobile.net^$all
 ||inpostmobile.org^$all
 ||inpostodbior.com^$all
+||inpostpi.dataprocesrequest.xyz^$all
 ||inpostpl.44112-online.sbs^$all
 ||inpostpl.cena-id9572.pl^$all
 ||inpostpl.com^$all
@@ -7191,6 +7197,7 @@
 ||inpost-pl.shop-41923.xyz^$all
 ||inpost-pl.trackcode-info-id894763.xyz^$all
 ||inpost-pl.trackcode-info-id986453.xyz^$all
+||inpost-polska.54856.space^$all
 ||inpost-polska.546865.space^$all
 ||inpost-pxa.id-9543.me^$all
 ||inpost-qhx.id-9543.me^$all
@@ -8431,6 +8438,7 @@
 ||lnposted247.com^$all
 ||lnposted.com^$all
 ||lnpostpaczka24.com^$all
+||lnpostpl-lnform.contactbank.xyz^$all
 ||lnpostpl.dostawa-obdior-9874536.xyz^$all
 ||lnpostpl.informacje-36274.xyz^$all
 ||lnpostpl.info-dostawa-46378232.xyz^$all
@@ -8455,6 +8463,7 @@
 ||lnpost.platformdispatchparcels-infopl.xyz^$all
 ||lnpost.pl-16290125.xyz^$all
 ||lnpost.pl-16951200.xyz^$all
+||lnpost.pl-160124131.site^$all
 ||lnpost.pl-160529013.online^$all
 ||lnpost.pl-165521202.xyz^$all
 ||lnpost.pl-176194110.xyz^$all
@@ -8476,6 +8485,7 @@
 ||lodpoduszka.site^$all
 ||lodzi.store^$all
 ||loere.capitalnoster.site^$all
+||loft.earnoninvst.tech^$all
 ||logcivil.com^$all
 ||logic.c55.com.au^$all
 ||loginauthui.website.yandexcloud.net^$all
@@ -10092,6 +10102,7 @@
 ||odbieram.in.net^$all
 ||odbieram.xyz^$all
 ||odbierz-kod.com^$all
+||odbierz-meble.pl^$all
 ||odbierz-paczke.bid^$all
 ||odbierz-paczke.host^$all
 ||odbierz.1549550.xyz^$all
@@ -10474,6 +10485,7 @@
 ||olx-pl.id*.ru^$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.in-order.store^$all
 ||olx-pl.iso-pay.net.ru^$all
+||olx-pl.jpjone1.com^$all
 ||olx-pl.jsmn-kkl1.icu^$all
 ||olx-pl.jto-oq12z.cyou^$all
 ||olx-pl.kilka-505129.xyz^$all
@@ -11120,6 +11132,7 @@
 ||orlenplget.net^$all
 ||orlenpl.com^$all
 ||orlenpl.pw^$all
+||orlenpl.wixsite.com^$all
 ||orlenpray.site^$all
 ||orlenprofit.biz^$all
 ||orlenprofit.us^$all
@@ -11365,6 +11378,7 @@
 ||palcewestchnac.site^$all
 ||palenate.com^$all
 ||palladiumpolska.com^$all
+||palma.qassamcount.com^$all
 ||palmera-pl.com^$all
 ||palmera.pl^$all
 ||palmzone.eu^$all
@@ -11423,6 +11437,7 @@
 ||paskudnyporownanie.site^$all
 ||pasozyt.icu^$all
 ||pasqualeparisi.com^$all
+||passalp.pl^$all
 ||passiveincome-tesla.biz^$all
 ||passive-czinvline.com^$all
 ||pastedputrefy.com^$all
@@ -12169,6 +12184,8 @@
 ||plprojektnew.surge.sh^$all
 ||plprojinpge.info^$all
 ||plsale.factoryclearance2021.ru^$all
+||plswiatowewiadomosci.pl^$all
+||plswiatowe-wiadomosci.pl^$all
 ||plswiatwiadomosci.pl^$all
 ||plswiatzwiadomosciami.pl^$all
 ||plswiat-wiadomosci.pl^$all
@@ -12187,7 +12204,11 @@
 ||plutostreams.com^$all
 ||plvz.com^$all
 ||plwestpge-tech1.info^$all
+||plwiadomosciswiatowe.pl^$all
+||plwiadomosciswiat.pl^$all
 ||plwiadomoscizswiata.pl^$all
+||plwiadomosci-swiatowe.pl^$all
+||plwiadomosci-swiat.pl^$all
 ||plwiadomosci-ze-swiata.pl^$all
 ||plwiadomosci-z-swiata.pl^$all
 ||plynskora.site^$all
@@ -14801,6 +14822,7 @@
 ||suaposales.com^$all
 ||sub3.blocked-site-hole-cert.pl^$all
 ||subjacentlydoctrine.com^$all
+||subscription-pay.tvshowapp.cam^$all
 ||subsidisedsurjective.com^$all
 ||substantialorlen.site^$all
 ||subtitlesdb.com^$all
@@ -17353,26 +17375,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||allegrolokalne-lnfome.pl-paytransferproces.xyz^$all
-||allegrolokalnie-pl-3dsafe.id-91501.xyz^$all
-||discqrde.com^$all
-||dpd-com.oplata-u.site^$all
-||dpd.transpay-67584.space^$all
-||graciadev.com^$all
-||inpostpi.dataprocesrequest.xyz^$all
-||inpost-polska.54856.space^$all
-||lnpost.pl-160124131.site^$all
-||lnpostpl-lnform.contactbank.xyz^$all
-||loft.earnoninvst.tech^$all
-||odbierz-meble.pl^$all
-||olx-pl.jpjone1.com^$all
-||orlenpl.wixsite.com^$all
-||palma.qassamcount.com^$all
-||passalp.pl^$all
-||plswiatowe-wiadomosci.pl^$all
-||plswiatowewiadomosci.pl^$all
-||plwiadomosci-swiatowe.pl^$all
-||plwiadomosciswiatowe.pl^$all
-||plwiadomosci-swiat.pl^$all
-||plwiadomosciswiat.pl^$all
-||subscription-pay.tvshowapp.cam^$all
