@@ -1,7 +1,3 @@
-/wp-content/*.htm$document,domain=~mozliwy-przekret-albo-oszustwo.*
-/wp-content/*.php$document,domain=~mozliwy-przekret-albo-oszustwo.*
-/wp-includes/*.htm$document,domain=~mozliwy-przekret.*
-/wp-includes/*.php$document,domain=~mozliwy-przekret.*
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
