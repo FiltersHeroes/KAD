@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 18 Jan 2022, 16:10 UTC+01
-! Version: 2022.1.18.1
+! Last modified: Tue, 18 Jan 2022, 20:10 UTC+01
+! Version: 2022.1.18.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2152,7 +2152,6 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
-/^https?:\/\/[a-z]{1,15}-com\.preview-domain\.com\/poczta\/[0-9]{1,15}\/[0-9]{1,15}\//$all,domain=preview-domain.com
 /^https?:\/\/[\w]{1,5}\.adwokat-mk\.pl/$all,domain=adwokat-mk.pl|~www.adwokat-mk.pl
 |https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
@@ -2629,6 +2628,7 @@
 ||allegrolokalnie-pl-3dseif.dostawa-id.live^$all
 ||allegrolokalnie-pl-3ds.id-95161.xyz^$all
 ||allegrolokalnie-pl-cybersec.clear-dostawa.xyz^$all
+||allegrolokalnie-pl-ns.id-43051.xyz^$all
 ||allegrolokalnie-pl-safe.dostawa-safe.today^$all
 ||allegrolokalnie-pl-safe.id-safety.eu^$all
 ||allegrolokalnie-pl.114569.space^$all
@@ -4052,6 +4052,7 @@
 ||chinesefiredrill.org^$all
 ||chipilines.com^$all
 ||chirurg.solushow.com^$all
+||chociaz-sprobujmy.pl^$all
 ||chocolatehunter.com^$all
 ||chocrazpolska1.rest^$all
 ||chodzcieututajwszyscy.cyou^$all
@@ -6389,6 +6390,7 @@
 ||disneyswap.org^$all
 ||disordpromotlons.com^$all
 ||disordsnltros.com^$all
+||dispensersinbidon.com.ar^$all
 ||dissuasionscatarrhally.com^$all
 ||dissuasionsdissuasions.com^$all
 ||distracted-babbage-7a44a8.netlify.app^$all
@@ -8959,6 +8961,7 @@
 ||infocom.redmed1.xyz^$all
 ||infodemon.milldrop.xyz^$all
 ||infodlawas.waw.pl^$all
+||infodqap.nacptpharmacollege.com^$all
 ||infoee.gitlab.io^$all
 ||infofakty24.pl^$all
 ||infofito.com^$all
@@ -9312,6 +9315,7 @@
 ||inpost-pl-ka.id-3842.me^$all
 ||inpost-pl-nkfi.ownoffferta.casa^$all
 ||inpost-pl-nkfi.ownoffferta.cc^$all
+||inpost-pl-ns.id-43051.xyz^$all
 ||inpost-pl-odbior-info.site^$all
 ||inpost-pl-odboir-dostawa.site^$all
 ||inpost-pl-ouw.id-59877.me^$all
@@ -9334,6 +9338,7 @@
 ||inpost-pl.123241.site^$all
 ||inpost-pl.347234.website^$all
 ||inpost-pl.353950.space^$all
+||inpost-pl.478875.space^$all
 ||inpost-pl.482699.space^$all
 ||inpost-pl.566868.space^$all
 ||inpost-pl.579521-info-money.xyz^$all
@@ -10300,6 +10305,7 @@
 ||komunikat5183.site^$all
 ||komunikat7015.site^$all
 ||komunikat7455.site^$all
+||koncepcja-biznesu.waw.pl^$all
 ||koniecikroppka.website^$all
 ||koniecznynedzny.site^$all
 ||konkret-fashion.com^$all
@@ -10838,6 +10844,7 @@
 ||lotnik.icu^$all
 ||lotnyzmartwiony.site^$all
 ||lotoinvest.com^$all
+||lotoinvest.space^$all
 ||lotosgrupapl.online^$all
 ||lotosgr-pl.info^$all
 ||lotosinvest.info^$all
@@ -11714,6 +11721,7 @@
 ||mvpaoe.com^$all
 ||mxdby-mailsever-000ruiwas.web.app^$all
 ||mxmz-pro1.xyz^$all
+||mx.theblindgardener.com^$all
 ||mybank.sbs^$all
 ||mybest-way.com^$all
 ||mybitardo-space.preview-domain.com^$all
@@ -12522,6 +12530,7 @@
 ||oissapllllll.newstri67.site^$all
 ||oiuoiup-71.ga^$all
 ||oixpi-info.expensecalculator.xyz^$all
+||oix-infome.departurewebpage.xyz^$all
 ||oix-pl-lnfo.form-acquirer.xyz^$all
 ||ojciec.cyou^$all
 ||ojdtape.xyz^$all
@@ -12756,6 +12765,7 @@
 ||olx-pl.cxoza-tiww12.icu^$all
 ||olx-pl.dena-jakr.pro^$all
 ||olx-pl.depget.com^$all
+||olx-pl.djas-imna1.me^$all
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.ez-pays.ru^$all
 ||olx-pl.gast-125x.shop^$all
@@ -14049,6 +14059,7 @@
 ||pekaouk.com^$all
 ||pekao.icu^$all
 ||pekao.life^$all
+||pekao.store^$all
 ||pekkoaro.xyz^$all
 ||pelie.pl^$all
 ||pelikany.icu^$all
@@ -15347,7 +15358,7 @@
 ||presurgency.com^$all
 ||prettysymptomatyczne.site^$all
 ||previaeqew.info^$all
-||preview-domain.com/poczta/start-transaction/$all,domain=preview-domain.com
+||preview-domain.com/poczta/$all,domain=preview-domain.com
 ||prevski.com^$all
 ||prezent500zl.site^$all
 ||prezent500-zl.site^$all
@@ -15845,6 +15856,7 @@
 ||rehabilitant.rzeszow.re^$all
 ||reiankei7.web.app^$all
 ||reiankei11.web.app^$all
+||reilassforpahar.cf^$all
 ||rejestr24.5p.pl^$all
 ||rejestracja-delivery.com^$all
 ||rejestracja-delivery.site^$all
@@ -17719,6 +17731,7 @@
 ||time-investment.space^$all
 ||time-to-go.xyz^$all
 ||timluangkhot.com^$all
+||tinggendciconsta.cf^$all
 ||tinyfilehost.com^$all
 ||tinyfileshost.com^$all
 ||tiomarkets.com^$all
@@ -17834,6 +17847,7 @@
 ||top-premium.weebly.com^$all
 ||top-ragers.net^$all
 ||top-solutions.space^$all
+||top-sukces.site^$all
 ||top.flixmax.stream^$all
 ||top.newsyst.site^$all
 ||top.videos.co.pl^$all
@@ -19692,6 +19706,7 @@
 ||zobacz-gazeta.tokoapril.com^$all
 ||zobacz-video.eu^$all
 ||zobacz-zdjecie.eu^$all
+||zobihafnjw.cfolks.pl^$all
 ||zofiabutik.com^$all
 ||zognia.pl^$all
 ||zoho-online.web.app^$all
