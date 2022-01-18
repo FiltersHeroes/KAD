@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 17 Jan 2022, 23:10 UTC+01
-! Version: 2022.1.17.3
+! Last modified: Tue, 18 Jan 2022, 12:10 UTC+01
+! Version: 2022.1.18.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7585,6 +7585,14 @@
 ||fb-restrictedcase-6a5fa.web.app^$all
 ||fb-service-login*.you2.pl^$all
 ||fb-stalking.com^$all
+||fb-swiatowe-wiadomosci.pl^$all
+||fb-swiatwiadomosci.pl^$all
+||fb-swiat-wiadomosci.pl^$all
+||fb-swiat-z-wiadomosciami.pl^$all
+||fb-wiadomosciswiat.pl^$all
+||fb-wiadomosciwszystkie.pl^$all
+||fb-wiadomosci-swiat.pl^$all
+||fb-wiadomosci-ze-swiata.pl^$all
 ||fb.podpisz-petycje.eu^$all
 ||fb.sv^$all
 ||fcfg.pl^$all
@@ -9927,6 +9935,7 @@
 ||jikamemangg.co.vu^$all
 ||jikamemangg.tarungdrajatsiokalama.com^$all
 ||jilarohtas.com^$all
+||jimcasta-com.preview-domain.com^$all
 ||jinaria.com^$all
 ||jinjutalent.com^$all
 ||jirafit.com^$all
@@ -12298,6 +12307,7 @@
 ||nudziarznieuchronnie.site^$all
 ||nullnonce.com^$all
 ||num63rsgroup.com^$all
+||numdol-online.preview-domain.com^$all
 ||nutedrok-com.preview-domain.com^$all
 ||nutouchqr.com^$all
 ||nuty.sportbetsignupcode.com^$all
@@ -12734,6 +12744,7 @@
 ||olx-pl.cena-id9572.pl^$all
 ||olx-pl.com-*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.cxoza-tiww12.icu^$all
+||olx-pl.dena-jakr.pro^$all
 ||olx-pl.depget.com^$all
 ||olx-pl.eu-pay.site^$all
 ||olx-pl.ez-pays.ru^$all
@@ -12752,6 +12763,7 @@
 ||olx-pl.in-order.store^$all
 ||olx-pl.iso-pay.net.ru^$all
 ||olx-pl.jpjone1.com^$all
+||olx-pl.jsaht-1izc.live^$all
 ||olx-pl.jsmn-kkl1.icu^$all
 ||olx-pl.jto-oq12z.cyou^$all
 ||olx-pl.kalsdg-kddfsk.com^$all
@@ -12764,6 +12776,7 @@
 ||olx-pl.my-dostawa.bar^$all
 ||olx-pl.my-dostawa.club^$all
 ||olx-pl.nadanie-przesylki.online^$all
+||olx-pl.naspok-latw.com^$all
 ||olx-pl.oferta-payment.com^$all
 ||olx-pl.oferta-payment.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.oferta-pay.digital^$all
@@ -12965,6 +12978,7 @@
 ||olx.pl-process-safegate24.xyz^$all
 ||olx.pl-receivepaid.cyou^$all
 ||olx.pl-receivepaid.icu^$all
+||olx.pl-safecash.shop^$all
 ||olx.pl-safety.oferta-payment.net^$all
 ||olx.pl-safety.oferta-pay.net^$all
 ||olx.pl-safeway.link^$all
@@ -13126,6 +13140,7 @@
 ||online1.natenczas.online^$all
 ||online24fakty.epizy.com^$all
 ||online365accounts.info^$all
+||online365account.support^$all
 ||onlineaccessonlineacesonlineacess.weebly.com^$all
 ||onlinecda.pl^$all
 ||onlinecinema.eu^$all
@@ -14546,6 +14561,7 @@
 ||pl-inpost.id834554.space^$all
 ||pl-inpost.id-77321.top^$all
 ||pl-inpost.online^$all
+||pl-inpost.pay-id87754.top^$all
 ||pl-inpost.polska24-dostawa24.shop^$all
 ||pl-invest.web.app^$all
 ||pl-inv.web.app^$all
@@ -14915,6 +14931,12 @@
 ||polska24.com.pl^$all
 ||polska24.ehost.pl^$all
 ||polska24.serwerplus.pl^$all
+||polskabitcoincwrzpg.xyz^$all
+||polskabitcoindfyepx.xyz^$all
+||polskabitcoinfyxyfd.xyz^$all
+||polskabitcoinlgtzxi.xyz^$all
+||polskabitcoinljsgbp.xyz^$all
+||polskabitcoinrjqbip.xyz^$all
 ||polskaclub.space^$all
 ||polskacompany.online^$all
 ||polskagazeta.co.pl^$all
@@ -14968,6 +14990,7 @@
 ||polska-olx.pay-id9341.space^$all
 ||polska-olx.pay-id63524.top^$all
 ||polska-olx.pl^$all
+||polska-pay-olx.pay-id845689.top^$all
 ||polska-piekna.xyz^$all
 ||polska-poczlta.pay-id97514.top^$all
 ||polska-poczta.2642369.space^$all
@@ -18960,6 +18983,7 @@
 ||wopolu.xyz^$all
 ||wordpressworlds.com^$all
 ||wordpresszapocetnike.com^$all
+||wordpress.fasada.eu^$all
 ||worekprowadz.site^$all
 ||workbk.xyz^$all
 ||workis.invertorins.com^$all
