@@ -20,7 +20,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
-/^https?:\/\/[a-z]{1,15}-com\.preview-domain\.com\/poczta\/[0-9]{1,15}\/[0-9]{1,15}\//$all,domain=preview-domain.com
+/^https?:\/\/[a-z0-9-]{1,25}\.preview-domain\.com\/poczta\//$all,domain=preview-domain.com
 /^https?:\/\/[\w]{1,5}\.adwokat-mk\.pl/$all,domain=adwokat-mk.pl|~www.adwokat-mk.pl
 |https://activmask.pl^$all
 |http*://*/fb-login/$document,domain=~facebook.com
