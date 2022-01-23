@@ -1,7 +1,6 @@
 .com/c/*?s1=$document,domain=com
 .net/c/*?s1=$document,domain=net
 /jump?id=*&_tgurl=$document
-||kyxhook.info^$all
 /site/redirectpage?ca=link&sid=$document
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
@@ -120,6 +119,7 @@
 ||kasyno-vulkan-vegas.com^$all
 ||kopula.org.pl^$all
 ||ksheeraorganics.com^$all
+||kyxhook.info^$all
 ||largetfarge.ml^$all
 ||largetfar.ga^$all
 ||lazieneczka.pl^$all
