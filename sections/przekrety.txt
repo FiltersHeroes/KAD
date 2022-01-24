@@ -1,9 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
-||cryptoventaja.com^$all
-||crypto-poland.online^$all
-||tecchgigo.com^$all
-||ghwr-offers.com^$all
-||investings-nigma.com^$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
@@ -139,6 +134,7 @@
 ||24h.opowiadanie24.online^$all
 ||24infolive.rf.gd^$all
 ||24livenewsuk.com^$all
+||24namiasto24.pl^$all
 ||24podatnik.com^$all
 ||24swiat.pl^$all
 ||24tradespace.com^$all
@@ -2431,7 +2427,9 @@
 ||cryptospacemine.com^$all
 ||cryptostrapp.com^$all
 ||cryptotrade.capital^$all
+||cryptoventaja.com^$all
 ||crypto-engine.pl^$all
+||crypto-poland.online^$all
 ||crypto-stimulate.com^$all
 ||crypto-trust.uk^$all
 ||crypto-worldinvestments.com^$all
@@ -4155,6 +4153,7 @@
 ||der4l3igtmkmv.cloudfront.net^$all
 ||derbycast.com^$all
 ||derebnos-com.preview-domain.com^$all
+||derlorbgrifwinsaluhr.tk^$all
 ||derpost.xyz^$all
 ||ders.masterfuls.xyz^$all
 ||dertgo-xyz.preview-domain.com^$all
@@ -6222,6 +6221,7 @@
 ||ghjhtjysrejlyrjtydftmyhcuydft.web.app^$all
 ||ghostpay.pw^$all
 ||ghostwriterreplacement.com^$all
+||ghwr-offers.com^$all
 ||ghyard.com^$all
 ||gibbingcontortionist.com^$all
 ||gicin95242.temp.swtest.ru^$all
@@ -7615,6 +7615,7 @@
 ||inpost.ua-dostawka.xyz^$all
 ||inpost.us^$all
 ||inpost.wyprzedaz-*.$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||inpos-t.dataverification.xyz^$all
 ||inpos-t.pl-remittance.xyz^$all
 ||inpozt.pl-4354856.xyz^$all
 ||inq-login.com^$all
@@ -7699,6 +7700,7 @@
 ||investingly.xyz^$all
 ||investingops.com^$all
 ||investingstate.com^$all
+||investings-nigma.com^$all
 ||investing-headlines.com^$all
 ||investing-newspaper.info^$all
 ||investing-pl.work^$all
@@ -10892,6 +10894,7 @@
 ||olx-pl.57476.space^$all
 ||olx-pl.541833.space^$all
 ||olx-pl.581851.space^$all
+||olx-pl.734627.space^$all
 ||olx-pl.735923.site^$all
 ||olx-pl.742853.space^$all
 ||olx-pl.743366.space^$all
@@ -13222,6 +13225,7 @@
 ||polska-nasze-info24.x9.eu^$all
 ||polska-oferla.club^$all
 ||polska-oferla.shop^$all
+||polska-olx.74256.xyz^$all
 ||polska-olx.pay-id1045.space^$all
 ||polska-olx.pay-id9341.space^$all
 ||polska-olx.pay-id63524.top^$all
@@ -13993,6 +13997,7 @@
 ||quotationgqsdah.xyz^$all
 ||quotex.io^$all
 ||quuirk.co^$all
+||qvd-txt.us^$all
 ||qwgn-txt.icu^$all
 ||qxluatbght.cfolks.pl^$all
 ||qyh-shrt.club^$all
@@ -15789,6 +15794,7 @@
 ||teamhalvarsnoren.se^$all
 ||teamowa124.weebly.com^$all
 ||teatrkuffer.pl^$all
+||tecchgigo.com^$all
 ||techcentretraining.com^$all
 ||techepedia.com^$all
 ||techinfo.redmed1.xyz^$all
@@ -18206,10 +18212,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||24namiasto24.pl^$all
-||derlorbgrifwinsaluhr.tk^$all
-||inpos-t.dataverification.xyz^$all
-||olx-pl.734627.space^$all
-||polska-olx.74256.xyz^$all
-||qvd-txt.us^$all
-||tecchgigo.com^$all
