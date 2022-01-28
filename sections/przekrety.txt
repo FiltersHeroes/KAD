@@ -1,11 +1,3 @@
-||showtv.pl^$all
-||e-film24.pl^$all
-||gdzieonline.pl^$all
-||alltube-tv.pl^$all
-||vod-kino.pl^$all
-||ekino-tv.tv^$all
-
-||absystem.trade^$all
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
@@ -294,6 +286,7 @@
 ||absolutezeros.duckdns.org^$all
 ||abstractway.top^$all
 ||absystem.pro^$all
+||absystem.trade^$all
 ||absystem.world^$all
 ||abtd-txt.click^$all
 ||academia.remtrainingcenter.com^$all
@@ -678,6 +671,7 @@
 ||allteamfranchisecorp.com^$all
 ||allthefan-online.preview-domain.com^$all
 ||alltradesfx.com^$all
+||alltube-tv.pl^$all
 ||alltube.com.pl^$all,domain=~alltube.pl|~alltube.tv
 ||all-player.pl^$all
 ||almdev.se^$all
@@ -4911,6 +4905,7 @@
 ||dpd-polska-wro.10581085.me^$all
 ||dpd-polska-wsn.40583929.me^$all
 ||dpd-polska.896401.space^$all
+||dpd-polska.order-id21788.space^$all
 ||dpd-polska.pay-id7438.space^$all
 ||dpd-polska.pay-id9341.space^$all
 ||dpd-polska.pay-id35484.space^$all
@@ -5310,6 +5305,7 @@
 ||ekarny.net^$all
 ||ekibun.net^$all
 ||ekino-tv.com.pl^$all
+||ekino-tv.tv^$all
 ||ekino.com.pl^$all
 ||ekino.nojo.tv^$all
 ||ekipaforex.pl^$all
@@ -5613,6 +5609,7 @@
 ||e-dziennik.xyz^$all
 ||e-fakty24-ez.pl^$all
 ||e-fakt.mazowsze.pl^$all
+||e-film24.pl^$all
 ||e-filmy24.pl^$all
 ||e-gazeta.osc-fr1.scalingo.io^$all
 ||e-gliwice.xyz^$all
@@ -6395,6 +6392,7 @@
 ||gdietrich.pl^$all
 ||gdnsk-lts.site^$all
 ||gdsis.cl^$all
+||gdzieonline.pl^$all
 ||gd-l.site^$all
 ||gearexperiment.com^$all
 ||gedigital.pl^$all
@@ -13828,6 +13826,7 @@
 ||polska-dpd.order-id842654.space^$all
 ||polska-grupa.site^$all
 ||polska-inpost.436844.space^$all
+||polska-inpost.order-id73100.space^$all
 ||polska-invested.firebaseapp.com^$all
 ||polska-invested.web.app^$all
 ||polska-investor.firebaseapp.com^$all
@@ -15644,6 +15643,7 @@
 ||showmeflix.com^$all
 ||showmovies.pl^$all
 ||showsplash.com^$all
+||showtv.pl^$all
 ||shp.benztrade.xyz^$all
 ||shtgr.shop^$all
 ||shunvola.com^$all
@@ -17686,6 +17686,7 @@
 ||vod-base.com^$all
 ||vod-box.net^$all
 ||vod-box.pl^$all
+||vod-kino.pl^$all
 ||vod-movie.pl^$all
 ||vod-play.pl^$all
 ||vod-plus.pl^$all
@@ -18657,6 +18658,7 @@
 ||yosukeigawa-portfolio.com^$all
 ||yotefiles.com^$all
 ||yotoro-com.preview-domain.com^$all
+||yotorso.uno^$all
 ||you24.eu^$all
 ||youbuyweshipusa.com^$all
 ||youmighthelp582.club^$all
@@ -19060,6 +19062,3 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
-||dpd-polska.order-id21788.space^$all
-||polska-inpost.order-id73100.space^$all
-||yotorso.uno^$all
