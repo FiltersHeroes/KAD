@@ -1,3 +1,10 @@
+||showtv.pl^$all
+||e-film24.pl^$all
+||gdzieonline.pl^$all
+||alltube-tv.pl^$all
+||vod-kino.pl^$all
+||ekino-tv.tv^$all
+
 ||absystem.trade^$all
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
