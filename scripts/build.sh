@@ -15,14 +15,29 @@ if [ -f "./sections/LWS/podejrzane_inne_oszustwa.txt" ]; then
     mv ./sections/LWS/podejrzane_inne_oszustwa.txt ./sections/
 fi
 
+if [ -f "./sections/LWS/sections/podejrzane_inne_oszustwa.txt" ]; then
+    rm -rf ./sections/podejrzane_inne_oszustwa.txt
+    mv ./sections/LWS/sections/podejrzane_inne_oszustwa.txt ./sections/
+fi
+
 if [ -f "./sections/CERT/przekrety.txt" ]; then
     rm -rf ./sections/przekrety.txt
     mv ./sections/CERT/przekrety.txt ./sections/
 fi
 
+if [ -f "./sections/CERT/sections/przekrety.txt" ]; then
+    rm -rf ./sections/przekrety.txt
+    mv ./sections/CERT/sections/przekrety.txt ./sections/
+fi
+
 if [ -f "./scripts/CERT/CERT_offline.txt" ]; then
     rm -rf ./scripts/CERT/CERT_offline.txt
     mv ./scripts/CERT/CERT_offline.txt ./scripts
+fi
+
+if [ -f "./sections/CERT/scripts/CERT_offline.txt " ]; then
+    rm -rf ./scripts/CERT/CERT_offline.txt
+    mv ./sections/CERT/scripts/CERT_offline.txt ./scripts
 fi
 
 ost_plik=$(git diff --name-only --pretty=format: | sort | uniq)

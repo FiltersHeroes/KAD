@@ -20,8 +20,8 @@ jobs:
         with:
           name: CERT
           path: |
-            - sections/przekrety.txt
-            - scripts/CERT_offline.txt
+            sections/przekrety.txt
+            scripts/CERT_offline.txt
   LWS:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:2.26.9
