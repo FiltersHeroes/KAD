@@ -28,7 +28,7 @@ sort -u -o "$TEMP"/CERTHole_temp.txt "$TEMP"/CERTHole_temp.txt
 
 OFFLINE="$SCRIPT_PATH"/CERT_offline.txt
 
-if [ -f "$OFFLINE" ] && [ "$SKIP_OFFLINE" = "true" ]; then
+if [ -f "$OFFLINE" ] && [ "$SKIP_OFFLINE" == "true" ]; then
     sort -u -o "$OFFLINE" "$OFFLINE"
     comm -23 "$TEMP"/CERTHole_temp.txt "$OFFLINE" >"$CERT".2
     mv "$CERT".2 "$TEMP"/CERTHole_temp.txt
@@ -46,14 +46,16 @@ fi
 
 EXPIRED="$MAIN_PATH"/temp/CERT_expired.txt
 
-while IFS= read -r domain; do
-    hostname=$(host -t ns "${domain}")
-    parked=$(echo "${hostname}" | grep -E "parkingcrew.net|parklogic.com|sedoparking.com")
-    echo "Checking the status of domains"
-    if [[ "${hostname}" =~ "NXDOMAIN" ]] || [ -n "${parked}" ]; then
-        echo "$domain" >>"$EXPIRED"
-    fi
-done <"$TEMP"/CERTHole_temp.txt
+if [ "$SKIP_OFFLINE" != "true" ]; then
+    while IFS= read -r domain; do
+        hostname=$(host -t ns "${domain}")
+        parked=$(echo "${hostname}" | grep -E "parkingcrew.net|parklogic.com|sedoparking.com")
+        echo "Checking the status of domains"
+        if [[ "${hostname}" =~ "NXDOMAIN" ]] || [ -n "${parked}" ]; then
+            echo "$domain" >>"$EXPIRED"
+        fi
+    done <"$TEMP"/CERTHole_temp.txt
+fi
 
 if [ -f "$EXPIRED" ]; then
     if [ -f "$OFFLINE" ]; then

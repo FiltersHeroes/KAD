@@ -1,8 +1,9 @@
 name: Aktualizacja listy
 
-on: workflow_dispatch
-  # schedule:
-  #     - cron: "0 11,15,19 * * *"
+on:
+  workflow_dispatch: null
+  schedule:
+      - cron: "0 8,12,16,20 * * *"
 
 jobs:
   CERT:
@@ -11,6 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Dodawanie nowości z CERT
+        env:
+          SKIP_OFFLINE: true
         run: |
           ./scripts/ADD_NOVELTIES_FROM_CERT.sh
       - uses: actions/upload-artifact@v2
@@ -46,6 +49,5 @@ jobs:
       - name: Aktualizacja całej listy
         env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
-          SKIP_OFFLINE: true
         run: |
           ./scripts/build.sh
