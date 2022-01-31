@@ -35,7 +35,7 @@ if [ -f "./scripts/CERT/CERT_offline.txt" ]; then
     mv ./scripts/CERT/CERT_offline.txt ./scripts
 fi
 
-if [ -f "./sections/CERT/scripts/CERT_offline.txt " ]; then
+if [ -f "./sections/CERT/scripts/CERT_offline.txt" ]; then
     rm -rf ./scripts/CERT/CERT_offline.txt
     mv ./sections/CERT/scripts/CERT_offline.txt ./scripts
 fi
