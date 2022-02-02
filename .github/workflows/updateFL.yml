@@ -37,7 +37,7 @@ jobs:
   Aktualizacja:
     needs: [CERT, LWS]
     runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/vichs_image:2.26.9
+    container: ghcr.io/filtersheroes/kad_image:2.26.9
     steps:
       - uses: actions/checkout@v2
       - uses: actions/download-artifact@v2
