@@ -11,6 +11,13 @@
 ||dirtydating.com^$all
 ||quickdates1.com^$all
 
+||fincloud.capital^$all
+||thecrystalcorp.trade^$all
+||fincloud.center^$all
+||idealtrade.co^$all
+
+||obligacje-spoleczne.pl^$all
+
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
