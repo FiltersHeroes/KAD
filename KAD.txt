@@ -3,7 +3,7 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 03 Feb 2022, 17:08 UTC+01
+! Last modified: Thu, 03 Feb 2022, 21:05 UTC+01
 ! Version: 2022.2.3.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -665,6 +665,7 @@
 ||health-partner.net^$all
 ||hejmosie.com^$all
 ||hellyhansenpolska.pl^$all
+||hemiss.online^$all
 ||henhaokanq.com^$all
 ||herbalife.pl^$all
 ||heshoppolska.pl^$all
@@ -686,6 +687,7 @@
 ||hugobosspl.top^$all
 ||hugobosspolska.me^$all
 ||hugobosspolska.top^$all
+||hugobossvip.com^$all
 ||humanverify.net^$all
 ||hunterkaloszeoutlet.pl^$all
 ||hunterpolskasklep.com^$all
@@ -872,6 +874,7 @@
 ||liveheroes.com^$all
 ||lnaff.pl^$all
 ||lnktime.com^$all
+||loftdeccor.pl^$all
 ||loktrk.com^$all
 ||lolalynch.pl^$all
 ||lombardfhu.net^$all
@@ -1051,6 +1054,7 @@
 ||new.yttdzmds.com^$all
 ||nextgen24h.pl^$all
 ||nfnry.store^$all
+||nfxqh.shop^$all
 ||nicolosi.pl^$all
 ||niechoruje.pl^$all
 ||nightclubpalma.pl^$all
@@ -1393,6 +1397,7 @@
 ||skecherssklep.com^$all
 ||skecherssklep.org^$all
 ||skecherssklep.pl^$all
+||sklep439461.shoparena.pl^$all
 ||sklep466452.shoparena.pl^$all
 ||sklep692845.shoparena.pl^$all
 ||sklep917219.shoparena.pl^$all
@@ -1528,6 +1533,7 @@
 ||telemediaa.pl^$all
 ||tengofoxfiles.com^$all
 ||tenuraa.com^$all
+||terokee.online^$all
 ||terrex.pl^$all
 ||teslamotors.com.pl^$all
 ||testerownia24h.pl^$all
@@ -1737,6 +1743,7 @@
 ||winteroff.pl^$all
 ||wirtuozseksu.pl^$all
 ||wisebanc.com^$all
+||wissaa.online^$all
 ||witaminadzadarmo.pl^$all
 ||witaminazadarmo.pl^$all
 ||wkladpompy.pl^$all
@@ -2173,6 +2180,7 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
+/click.php?key=*&cost=$document
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
@@ -2445,6 +2453,8 @@
 ||a66tr.1zx-corporation.xyz^$all
 ||a68aksz.chainkzal.xyz^$all
 ||a68kasnmm.chainkzal.xyz^$all
+||a92kasll.librailieu.site^$all
+||a92laaok.librailieu.site^$all
 ||a0502529.xsph.ru^$all
 ||aadvantagepanelsandfence.com^$all
 ||aaget.xyz^$all
@@ -4473,6 +4483,7 @@
 ||codebrew.nl^$all
 ||coderichardson.com^$all
 ||coderslashadmin.com^$all
+||codesit.site^$all
 ||codewang.tk^$all
 ||codigotributario.com.br^$all
 ||codiscoversimmeshed.com^$all
@@ -6708,6 +6719,7 @@
 ||difuhs838f.bar^$all
 ||digcord.com^$all
 ||digitalalt360.com^$all
+||digitalpublicize.com^$all
 ||digitalsmb.com^$all
 ||digitalxacademy.com^$all
 ||digivaporizer.com^$all
@@ -6727,6 +6739,7 @@
 ||directionxanc2021.ddns.net^$all
 ||directlyfrappes.com^$all
 ||dirproperties.com^$all
+||dirtydating.com^$all
 ||disaffirminggloomful.com^$all
 ||disappointeck.com^$all
 ||disavowershummingbird.com^$all
@@ -7127,6 +7140,7 @@
 ||dpd-ap.id-3828883.me^$all
 ||dpd-com.oplata-del.site^$all
 ||dpd-com.oplata-u.site^$all
+||dpd-com.pl-umowa.site^$all
 ||dpd-com.sec-umowa.site^$all
 ||dpd-com.umowa3ds.site^$all
 ||dpd-hroz.id86-92.me^$all
@@ -8030,6 +8044,7 @@
 ||fakty24-informacje.pl^$all
 ||fakty24-online.pl^$all
 ||fakty24.elk.pl^$all
+||fakty24.xyz^$all
 ||fakty24.you2.pl^$all
 ||faktyblog.mazowsze.pl^$all
 ||faktyinfo24.pl^$all
@@ -8279,6 +8294,8 @@
 ||finansowy-swiat.waw.pl^$all
 ||finantiko.com^$all
 ||finantiko.net^$all
+||fincloud.capital^$all
+||fincloud.center^$all
 ||find4date.com^$all
 ||findatafeed.com^$all
 ||findhergb566.club^$all
@@ -8363,7 +8380,9 @@
 ||fleeunadvised.pl^$all
 ||fletushkaonline.com^$all
 ||flexchilchutzfinpers.ml^$all
+||flingswipe.com^$all
 ||flirthits.com^$all
+||flirtwedwoje.com^$all
 ||floatingmotion.com^$all
 ||flowerstiik.com^$all
 ||flowsrectifie.at^$all
@@ -8421,6 +8440,7 @@
 ||fotki-wyciek.eu^$all
 ||fotki-zobacz.eu^$all
 ||fotki.cleverapps.io^$all
+||fotki.tefobon.com^$all
 ||fotopisik24.net^$all
 ||fotos.vote-in.eu^$all
 ||foto-cloud.o99o.net.pl^$all
@@ -8498,6 +8518,8 @@
 ||ftonykol-xyz.preview-domain.com^$all
 ||ftp-reklama.gpd24.pl^$all
 ||fuadp.com^$all
+||fuckforfree.com^$all
+||fuckworld.com^$all
 ||fuerst-von-elsheim.de^$all
 ||fulldownload.pl^$all
 ||fullerenesstereotyper.com^$all
@@ -8564,6 +8586,7 @@
 ||gabro.com.br^$all
 ||gaczynski.pl^$all
 ||gad6r4-uqps.club^$all
+||gadbik.website^$all
 ||gadgetarchive.com^$all
 ||gadgetland.dk^$all
 ||gadgettim.com^$all
@@ -8772,6 +8795,7 @@
 ||gettheflow.pl^$all
 ||getuna.com^$all
 ||getvoltbox.com^$all
+||get-hot-girls.com^$all
 ||get-huusk.com^$all
 ||get.bestdeal2060.info^$all
 ||gevotel.com^$all
@@ -9494,6 +9518,7 @@
 ||ideabank.credit^$all
 ||ideaenvied.com^$all
 ||ideainvest.info^$all
+||idealtrade.co^$all
 ||idealtripplan.com^$all
 ||idea-basing.com^$all
 ||idea-educ.site^$all
@@ -10076,6 +10101,7 @@
 ||inpost-pl.347234.website^$all
 ||inpost-pl.353950.space^$all
 ||inpost-pl.399537.me^$all
+||inpost-pl.445091.xyz^$all
 ||inpost-pl.478875.space^$all
 ||inpost-pl.482699.space^$all
 ||inpost-pl.534886.space^$all
@@ -10100,6 +10126,7 @@
 ||inpost-pl.798675-money-info.xyz^$all
 ||inpost-pl.812566.space^$all
 ||inpost-pl.845839.space^$all
+||inpost-pl.862387.xyz^$all
 ||inpost-pl.876584.space^$all
 ||inpost-pl.897144.xyz^$all
 ||inpost-pl.897574-money-info.xyz^$all
@@ -10966,6 +10993,7 @@
 ||katowice.ru^$all
 ||kawac.net^$all
 ||kayyha.com^$all
+||kazdemu-pomozemy.eu^$all
 ||kazdyjakoszaczyna.online^$all
 ||kbdemolering.se.oblyapp.com^$all
 ||kbdemolering.se^$all
@@ -11863,6 +11891,7 @@
 ||lovare.xyz^$all
 ||loveincafe.com^$all
 ||lovemydress.pl^$all
+||lovesingle.xyz^$all
 ||love-mission.com^$all
 ||love.telesthesiats.net^$all
 ||lovintrends.com^$all
@@ -12332,6 +12361,7 @@
 ||medycznapolska.pl^$all
 ||meetingsy.com^$all
 ||meetmidnight.club^$all
+||meetradar.com^$all
 ||megadown.net^$all
 ||megadown.us^$all
 ||megagalore.com^$all
@@ -12639,6 +12669,7 @@
 ||morenarewal.pl^$all
 ||moreti.pl^$all
 ||morev.lv^$all
+||more-2-flirt.com^$all
 ||more-money.casa^$all
 ||mornacoglobal.com^$all
 ||morozno.tech^$all
@@ -13009,6 +13040,10 @@
 ||networkave.com^$all
 ||neuralatlantic.com^$all
 ||neurkofs-com.preview-domain.com^$all
+||neuro2sdfgzn.xyz^$all
+||neuro2sdfhnl.xyz^$all
+||neuro2sdfmot.xyz^$all
+||neuro2sdfzwh.xyz^$all
 ||neurologiamt.com.br^$all
 ||neurorehabtraining.com^$all
 ||new1pl.promax78.site^$all
@@ -13451,6 +13486,7 @@
 ||objecie315.rest^$all
 ||objective-beaver-0b5be9.netlify.app^$all
 ||obkzrcclean2.az.pl^$all
+||obligacje-spoleczne.pl^$all
 ||oblodno.xyz^$all
 ||oblyapp.com^$all
 ||obok-ciebie.eu^$all
@@ -13581,6 +13617,7 @@
 ||ogloszenie-elektronika.$all
 ||ogloszenie-kupteraz-*.$all
 ||ogloszenie-lokalnie.pl^$all
+||ogloszenie-wazne.eu^$all
 ||ogloszeniie-kupteraz-pl-*.$all
 ||oglosznie-elektroniczne.$all
 ||ogluszeniezastepczy.site^$all
@@ -14265,6 +14302,7 @@
 ||onetujemy-wszyscy.waw.pl^$all
 ||onetujemy.waw.pl^$all
 ||onet-24.space^$all
+||onet-24.website^$all
 ||onet-belchatow.xyz^$all
 ||onet-biznesmeni.xyz^$all
 ||onet-biznes.online^$all
@@ -16593,6 +16631,7 @@
 ||poszukiwacz054.rest^$all
 ||poszukiwacz255.rest^$all
 ||poszukiwacz686.rest^$all
+||poszukiwacze.eu^$all
 ||poszukiwaczka452.rest^$all
 ||poszukiwaczka862.rest^$all
 ||poszukiwaczka897.rest^$all
@@ -16892,6 +16931,7 @@
 ||proga-lakoit.protrobit.site^$all
 ||proglottiddauber.com^$all
 ||proglottidtemblor.com^$all
+||prognemrndk.xyz^$all
 ||prognosticationbacteremia.com^$all
 ||programm-pat.xyz^$all
 ||programtop-group.us^$all
@@ -17016,20 +17056,27 @@
 ||przeadresowac10.bankmillenium-pl.com^$all
 ||przeadresowac14.bankmillenium-pl.com^$all
 ||przeadresowac19.bankmillenium-pl.com^$all
+||przeadresowac21.bankmillenium-pl.com^$all
 ||przeadresowac22.bankmillenium-pl.com^$all
 ||przeadresowac24.bankmillenium-pl.com^$all
 ||przeadresowac26.bankmillenium-pl.com^$all
+||przeadresowac29.bankmillenium-pl.com^$all
 ||przeadresowac33.bankmillenium-pl.com^$all
+||przeadresowac36.bankmillenium-pl.com^$all
 ||przeadresowac37.bankmillenium-pl.com^$all
 ||przeadresowac44.bankmillenium-pl.com^$all
 ||przeadresowac49.bankmillenium-pl.com^$all
+||przeadresowac52.bankmillenium-pl.com^$all
 ||przeadresowac53.bankmillenium-pl.com^$all
 ||przeadresowac59.bankmillenium-pl.com^$all
+||przeadresowac61.bankmillenium-pl.com^$all
 ||przeadresowac62.bankmillenium-pl.com^$all
 ||przeadresowac65.bankmillenium-pl.com^$all
 ||przeadresowac68.bankmillenium-pl.com^$all
 ||przeadresowac71.bankmillenium-pl.com^$all
 ||przeadresowac74.bankmillenium-pl.com^$all
+||przeadresowac75.bankmillenium-pl.com^$all
+||przeadresowac86.bankmillenium-pl.com^$all
 ||przeadresowac88.bankmillenium-pl.com^$all
 ||przeadresowac95.bankmillenium-pl.com^$all
 ||przeadresowac99.bankmillenium-pl.com^$all
@@ -17177,6 +17224,7 @@
 ||quebocalyalbum.byethost6.com^$all
 ||questionee.com^$all
 ||quickbookseastafrica.com^$all
+||quickdates1.com^$all
 ||quillingsimpermeable.com^$all
 ||quillingsimpermeable.positivisticrivalling.com^$all
 ||quillingsraking.com^$all
@@ -18345,6 +18393,7 @@
 ||sklep-denley.pl^$all
 ||sklep-domodi.com.pl^$all
 ||sklep-domodi.pl^$all
+||sklep-dt.com^$all
 ||sklep-promoda.com.pl^$all
 ||skleroz.pl^$all
 ||skoda-toimy-project.info^$all
@@ -19339,6 +19388,7 @@
 ||tesssla-pl.website^$all
 ||test1.clouds11.co^$all
 ||test1.copy.pc.pl^$all
+||test13jkliuh.xyz^$all
 ||testaprofit-pl.website^$all
 ||testcompetence.pl^$all
 ||testeryperfum.fcg.org.pl^$all
@@ -19380,6 +19430,7 @@
 ||theblogworld.xyz^$all
 ||thecolorofcalm.com^$all
 ||thecrypto-genius.net^$all
+||thecrystalcorp.trade^$all
 ||thedigitaltimes.com^$all
 ||thedogzspot.com^$all
 ||theesraerol.com^$all
@@ -19813,6 +19864,7 @@
 ||trzymajpoziom.pl^$all
 ||trzywyleczycsie.site^$all
 ||trzyzapalki2.site^$all
+||tr-master.site^$all
 ||tsapikytouring.com^$all
 ||tsarps.com^$all
 ||tscyesm7d.digitallyfit.top^$all
@@ -20330,6 +20382,9 @@
 ||vjar-msg.us^$all
 ||vkei-shrt.one^$all
 ||vlaamsebaaien.com^$all
+||vlchainlorfmq.xyz^$all
+||vlchainlorthz.xyz^$all
+||vlchaintuebip.xyz^$all
 ||vlntedpl.dostawa-obdior-9874536.xyz^$all
 ||vlntedpl.movementoffunds.xyz^$all
 ||vlntedpl.obdior-dostawa-7854463.xyz^$all
@@ -20461,6 +20516,7 @@
 ||waypl-program.info^$all
 ||waznagazeta24.pl^$all
 ||wazna-wiadomosc.eu^$all
+||wazna-wypowiedz.eu^$all
 ||wazne24wazniejsze.pl^$all
 ||wazneesprawy.online^$all
 ||waznefakty24.pl^$all
@@ -20791,6 +20847,7 @@
 ||wieczorne-informacje.waw.pl^$all
 ||wieczorne-wiadomosci.waw.pl^$all
 ||wiedzamleczny.site^$all
+||wiekowa-weryfikacja60.herokuapp.com^$all
 ||wiek-weryfikacja233.herokuapp.com^$all
 ||wiek-weryfikacja234.herokuapp.com^$all
 ||wiek-weryfikacja532.herokuapp.com^$all
