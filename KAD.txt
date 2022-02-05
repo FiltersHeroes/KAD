@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 04 Feb 2022, 21:06 UTC+01
-! Version: 2022.2.4.1
+! Last modified: Sat, 05 Feb 2022, 09:09 UTC+01
+! Version: 2022.2.5.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1828,8 +1828,17 @@
 ! Przekierowują do innych stron z przekrętami
 .com/c/*?s1=$document,domain=com
 .net/c/*?s1=$document,domain=net
+/fckupload/*.xml$document,domain=libron.pl
+/fck_files/*.xml$document,domain=m-vision.com.pl
+/files/*.xml$document,domain=kolorowemotyle.pl
+/file/*.xml$document,domain=akademiaplywania.com.pl|nieruchomosci-dla-ciebie.pl
+/fotki/*.xml$document,domain=italiamipiace.pl
+/gfx/*.xml$document,domain=ochroniarz.com.pl
 /jump?id=*&_tgurl=$document
 /site/redirectpage?ca=link&sid=$document
+/uploads/*.xml$document,domain=europartner.com.pl|zdrowiedlawszystkich.pl
+/upload/*.xml$document,domain=miniraj.pl
+/userfiles/*.xml$document,domain=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|fundacja-impuls.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|korio-olsztyn.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$document,domain=biz
@@ -1862,7 +1871,6 @@
 ||bigdater.me^$all
 ||bigprize-place.info^$all
 ||binom.noname.wtf^$all
-||bip.wuozprzemysl.pl/userfiles/*.xml$document
 ||bitcoinera.pl^$all
 ||bitgamez.com^$all
 ||bmscooperation.com^$document
@@ -1948,7 +1956,6 @@
 ||kacwyb.pl^$all
 ||kasynovulkan.pl^$all
 ||kasyno-vulkan-vegas.com^$all
-||kieryk.pl/img/userfiles/*.xml$document
 ||kopula.org.pl^$all
 ||ksheeraorganics.com^$all
 ||kyxhook.info^$all
@@ -1966,6 +1973,7 @@
 ||masiodls.com^$all
 ||meetonlyhot.com^$all
 ||megabonus-point*.life^$all
+||menbangclub.com^$all
 ||miresnahapsi.pro^$all
 ||mobiklivestmox.pl^$all
 ||mobile*-global-apps-stor*.life^$all
@@ -2005,6 +2013,7 @@
 ||qvikar.com^$all
 ||raucomtodentketp.cf^$all
 ||recepta.com.pl^$all
+||redirectsc.ru^$all
 ||rekrutacjaksos.pl^$all
 ||rescatecili.ml^$all
 ||rfv.pl^$all
@@ -2050,7 +2059,6 @@
 ||vun.fyi^$all
 ||vur.fyi^$all
 ||vvegas-today.com^$all
-||warszawa-pragapoludnie.sr.gov.pl/userfiles/*.xml$document
 ||weyewweg.mypi.co^$all
 ||wikmostwantedxc.pl^$all
 ||win-extra-box.life^$all
@@ -2733,6 +2741,7 @@
 ||alhecinvesting.website^$all
 ||aliceiuo.com^$all
 ||alicjaal.pl^$all
+||aliegrolokalne.commitpay.xyz^$all
 ||aliegrolokalnie.pl^$all
 ||aliencoding.com^$all
 ||aligore.online^$all
@@ -3581,6 +3590,7 @@
 ||bigmarketplace.ng^$all
 ||bigmoviesz.com^$all
 ||bignamestanfree.wixsite.com^$all
+||bigosext1.com^$all
 ||bigsecureeu.com^$all
 ||bigsmovie.us^$all
 ||bigstartnew.info^$all
@@ -11819,6 +11829,7 @@
 ||lokalnieoglaszam.pl^$all
 ||lokalnie-dostawa.fun^$all
 ||lokalnie-olx.pl^$all
+||lokalnie-telewizor.pl^$all
 ||lokalniprzewodnicy.com.pl^$all
 ||lokalny-informuje.dnsrobotuptime.ru^$all
 ||lokosta.xyz^$all
@@ -12915,6 +12926,7 @@
 ||n3vhrl.webwave.dev^$all
 ||n4i.ifnprog.xyz^$all
 ||n90p20.webwave.dev^$all
+||naagrywamy24.pl^$all
 ||nabla.sportbetsignupcode.com^$all
 ||nadajemyyynazywoo.cyou^$all
 ||nadania-onliine.xyz^$all
@@ -13668,6 +13680,7 @@
 ||ofmsamfisamfoa.bar^$all
 ||ofosamfoimsafiiga.bar^$all
 ||og1oszenia24h.pl^$all
+||og10szenia.pl^$all
 ||ogarniamy-sprawe.eu^$all
 ||ogarnietezyciie.online^$all
 ||ogarnij-zdjecia.$all
@@ -14427,6 +14440,7 @@
 ||one.xildii.site^$all
 ||onflix.us^$all
 ||onioq.xyz^$all
+||onizyca.website^$all
 ||oni-in.web.app^$all
 ||oni-maja.eu^$all
 ||oni.newsyst.site^$all
@@ -17669,6 +17683,7 @@
 ||reserv-comp.protrobit.site^$all
 ||residualfivfpx.xyz^$all
 ||ressivill.com^$all
+||restock.space^$all
 ||restricted.pl^$all
 ||restrictivessepaloid.com^$all
 ||restrictstick.com^$all
@@ -19370,6 +19385,7 @@
 ||teleskopmonokularowy-pl.com^$all
 ||telewizja-internetowa24.pl^$all
 ||telewizja-polska.waw.pl^$all
+||telewizory-lokalnie.pl^$all
 ||telewizyjny.wywiadpopolsku.bar^$all
 ||telin-newspapper.com^$all
 ||telpey.net^$all
