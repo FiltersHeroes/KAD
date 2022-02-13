@@ -3,7 +3,7 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 13 Feb 2022, 18:49 UTC+01
+! Last modified: Sun, 13 Feb 2022, 21:07 UTC+01
 ! Version: 2022.2.13.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -178,10 +178,6 @@
 ||bialywidelec.pl^$all
 ||biegostojazwierzat.pl^$all
 ||bifrost.pl^$all
-||biletyna.pl/event/view/id/157126$all
-||biletyna.pl/event/view/id/191978$all
-||biletyna.pl/event/view/id/192860$all
-||biletyna.pl/event/view/id/195694$all
 ||biletyna.pl/koncert/KULT/$all
 ||binfunailsur.com^$all
 ||binomo.com^$all
@@ -810,7 +806,7 @@
 ||klubwinarzeczpospolitej.pl^$all
 ||kmgubezpieczenia.pl^$all
 ||kobiecespojrzenie.pl^$all
-||kobold.vorwerk.pl/strona-glowna/zamow-prezentacje/|$document,domain=~przemysl-zamowienie-prezentacji
+||kobold.vorwerk.pl/strona-glowna/zamow-prezentacje/|$doc,domain=~przemysl-zamowienie-prezentacji
 ||kodyrabatowe.16mb.com^$all
 ||kodyumyslu.pl^$all
 ||kofiup.pl^$all
@@ -1550,7 +1546,7 @@
 ||thenaurysnb.com^$all
 ||thenorthfacepolska.pl^$all
 ||theretroshop.pl^$all
-||thermomix.vorwerk.pl/kup-thermomixr/|$document,domain=~przemysl-zamowienie-prezentacji
+||thermomix.vorwerk.pl/kup-thermomixr/|$doc,domain=~przemysl-zamowienie-prezentacji
 ||theultimatebeds.com^$all
 ||the-titanium.com^$all
 ||throwacupcake.com^$all
@@ -1824,24 +1820,24 @@
 ||z-promo.com^$all
 !
 ! Przekierowują do innych stron z przekrętami
-.com/c/*?s1=$document,domain=com
-.net/c/*?s1=$document,domain=net
-/fckupload/*.xml$document,domain=libron.pl
-/fck_files/*.xml$document,domain=m-vision.com.pl
-/files/*.xml$document,domain=kolorowemotyle.pl
-/file/*.xml$document,domain=akademiaplywania.com.pl|nieruchomosci-dla-ciebie.pl
-/fotki/*.xml$document,domain=italiamipiace.pl
-/gfx/*.xml$document,domain=ochroniarz.com.pl
-/jump?id=*&_tgurl=$document
-/site/redirectpage?ca=link&sid=$document
-/uploads/*.xml$document,domain=europartner.com.pl|zdrowiedlawszystkich.pl
-/upload/*.xml$document,domain=miniraj.pl
-/userfiles/*.xml$document,domain=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|fundacja-impuls.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|korio-olsztyn.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl
-/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$document,domain=top
-/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$document,domain=top
-/^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$document,domain=biz
-/^https:\/\/[-0-9a-z]{12,}\.(?:com|life)\/\?u=[0-9a-z]{7,}&o=[0-9a-z]{7,}&[tm]=/$document,domain=com|life
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$document,domain=site
+.com/c/*?s1=$doc,domain=com
+.net/c/*?s1=$doc,domain=net
+/fckupload/*.xml$doc,domain=libron.pl
+/fck_files/*.xml$doc,domain=m-vision.com.pl
+/files/*.xml$doc,domain=kolorowemotyle.pl
+/file/*.xml$doc,domain=akademiaplywania.com.pl|nieruchomosci-dla-ciebie.pl
+/fotki/*.xml$doc,domain=italiamipiace.pl
+/gfx/*.xml$doc,domain=ochroniarz.com.pl
+/jump?id=*&_tgurl=$doc
+/site/redirectpage?ca=link&sid=$doc
+/uploads/*.xml$doc,domain=europartner.com.pl|zdrowiedlawszystkich.pl
+/upload/*.xml$doc,domain=miniraj.pl
+/userfiles/*.xml$doc,domain=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|fundacja-impuls.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|korio-olsztyn.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl
+/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$doc,domain=top
+/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$doc,domain=top
+/^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
+/^https:\/\/[-0-9a-z]{12,}\.(?:com|life)\/\?u=[0-9a-z]{7,}&o=[0-9a-z]{7,}&[tm]=/$doc,domain=com|life
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 ||0n.click^$all
 ||9dcm.net^$all
 ||12monkiredirect.com^$all
@@ -1871,7 +1867,7 @@
 ||binom.noname.wtf^$all
 ||bitcoinera.pl^$all
 ||bitgamez.com^$all
-||bmscooperation.com^$document
+||bmscooperation.com^$doc
 ||bnmjjwinf292.com^$all
 ||braintest4you.com^$all
 ||brzegiemziemi.pl^$all
@@ -1906,7 +1902,7 @@
 ||eeu.pl^$all
 ||ehufgpp.com^$all
 ||eworldtrack.com^$all
-||exe.io^$document
+||exe.io^$doc
 ||extrava.shop^$all
 ||exy.ai^$all
 ||e-kino.tv^$all
@@ -2188,9 +2184,9 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
-/click.php?key=*&cost=$document
+/click.php?key=*&cost=$doc
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
-/^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$document,domain=com
+/^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
 /^https?:\/\/([\w]{1,4}\.)?(info-onet|informujemy)(\d+)?\.pl/$all
@@ -2204,16 +2200,16 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{3,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$document,popup,domain=life|live
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=vip
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$document,popup,domain=life|live
-/^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$document,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{3,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$doc,popup,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=vip
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$doc,popup,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$doc,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
-/^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$document,popup,domain=xyz
+/^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=xyz
 /^https?:\/\/[\w]{1,5}\.adwokat-mk\.pl/$all,domain=adwokat-mk.pl|~www.adwokat-mk.pl
 |https://activmask.pl^$all
-|http*://*/fb-login/$document,domain=~facebook.com
+|http*://*/fb-login/$doc,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0boronka.xyz^$all
 ||00ckpr.cn^$all
@@ -2363,7 +2359,7 @@
 ||24-fakt-az.pl^$all
 ||24-tvn.pl^$all
 ||24.daily-news-24.com^$all
-||24.eu^$document,domain=~www.24.eu
+||24.eu^$doc,domain=~www.24.eu
 ||27--01bbcpolice.powercoremedia.com^$all
 ||27--m01police.55fifayellow.com^$all
 ||27--m01police.best-rc-store.com^$all
@@ -2888,7 +2884,7 @@
 ||allegrolokalnie.pl.transpbuyitemss.pw^$all
 ||allegrolokalnie.replenishment-centerpl.xyz^$all
 ||allegrolokalnie.site^$all
-||allegrolokalnie.$document,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl
+||allegrolokalnie.$doc,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl
 ||allegrolokalniie.departure-pl.xyz^$all
 ||allegrolokalnii.digital^$all
 ||allegrolokal-ne.info-delivery.xyz^$all
@@ -4501,7 +4497,7 @@
 ||chodzimiiotoze.site^$all
 ||chomik24.com.pl^$all
 ||chomikuj*.opx.pl^$all,domain=pl
-||chomikuj.$document,domain=~chomikuj.pl
+||chomikuj.$doc,domain=~chomikuj.pl
 ||chomlkui.pl^$all
 ||chor-moniuszko.pl^$all
 ||chowsethrobs.pl^$all
@@ -5166,7 +5162,7 @@
 ||czyzyk.icu^$all
 ||c*.tmweb.ru/weryfikacja/$all
 ||c.gazrosnew.xyz^$all
-||c.pl^$document,domain=~www.c.pl
+||c.pl^$doc,domain=~www.c.pl
 ||d1a0f1vq14o00s.cloudfront.net^$all
 ||d1a2u2rops22e0.cloudfront.net^$all
 ||d1a7fvyq3boqtu.cloudfront.net^$all
@@ -7725,7 +7721,7 @@
 ||ebd-cda.pl^$all
 ||ebina-dolphins.com^$all
 ||ebokpge.live^$all
-||ebonplus.com/$document
+||ebonplus.com/$doc
 ||ebonplus.com^$all
 ||ebookeo.pl^$all
 ||ebooks.com.pl^$all
@@ -8124,7 +8120,7 @@
 ||eyrherrhereh.tcp4.me^$all
 ||eyupp.com^$all
 ||eyxspmbjxh.web.app^$all
-||ezalukaj*.$document
+||ezalukaj*.$doc
 ||ezcfd5.cc^$all
 ||eznepal.com^$all
 ||ezoliniawrozby.com^$all
@@ -8283,6 +8279,7 @@
 ||faktzz24.pl^$all
 ||fakt*.is-best.net^$all
 ||fakt-24.pl^$all
+||fakt-interia.pl^$all
 ||fakt.warmia.pl^$all
 ||falconoption.com^$all
 ||falconpeons.com^$all
@@ -9024,7 +9021,7 @@
 ||getihbank.online^$all
 ||getinbank-logowanie.com^$all
 ||getinbank-online.com^$all
-||getlnbank.$document
+||getlnbank.$doc
 ||getmarket.site^$all
 ||getmyfreetraffic.com^$all
 ||getonea.com^$all
@@ -9655,7 +9652,7 @@
 ||hosting159869.a2fee.netcup.net^$all
 ||hosting2120935.online.pro^$all
 ||hostinglive.in^$all
-||hosting*.online.pro^$document
+||hosting*.online.pro^$doc
 ||hostinnigeria.com^$all
 ||hostkrd.ovh^$all
 ||hostujmy.pl^$all
@@ -10695,6 +10692,7 @@
 ||inpost.plpuygt.xyz^$all
 ||inpost.plskontas.cyou^$all
 ||inpost.pl-basederecom.pw^$all
+||inpost.pl-dostawa55.eu^$all
 ||inpost.pl-dostawa-id43268532.xyz^$all
 ||inpost.pl-dostawa.life^$all
 ||inpost.pl-dostawa.live^$all
@@ -10731,12 +10729,12 @@
 ||inpost.pl-tracking-475296.xyz^$all
 ||inpost.pl-tracking.pw^$all
 ||inpost.pl-tracknumber458775.xyz^$all
-||inpost.pl-*.$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||inpost.pl-*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.pl.aus-payforitto.pw^$all
 ||inpost.pl.kaitemsbuying.pw^$all
 ||inpost.pl.mebuyit.pw^$all
-||inpost.pl.*.$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
-||inpost.polska*.$document^$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||inpost.pl.*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||inpost.polska*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.posterpl-konst.xyz^$all
 ||inpost.post-derive.com^$all
 ||inpost.post-dostawa.com^$all
@@ -10753,7 +10751,7 @@
 ||inpost.tufucourierpl-krt.xyz^$all
 ||inpost.ua-dostawka.xyz^$all
 ||inpost.us^$all
-||inpost.wyprzedaz-*.$document,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||inpost.wyprzedaz-*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpos-t.dataverification.xyz^$all
 ||inpos-t.pl-remittance.xyz^$all
 ||inpozt.pl-4354856.xyz^$all
@@ -11907,7 +11905,7 @@
 ||lefix.com.mx^$all
 ||leflix.us^$all
 ||leftbehind.pl^$all
-||legalniewsieci.$document,domain=~legalniewsieci.pl
+||legalniewsieci.$doc,domain=~legalniewsieci.pl
 ||legalpl.site^$all
 ||legalup.redmed1.xyz^$all
 ||legwan.cyou^$all
@@ -12091,7 +12089,7 @@
 ||lnpost.pl-info-18571601.site^$all
 ||lnpost.reselectiongoods.xyz^$all
 ||lnpost.sendingpay.xyz^$all
-||lnpost.$document
+||lnpost.$doc
 ||lnp-ost.usingdelivery.xyz^$all
 ||lnstagram.pp.ru^$all
 ||lnstahelp.com^$all
@@ -13502,8 +13500,8 @@
 ||neurologiamt.com.br^$all
 ||neurorehabtraining.com^$all
 ||new1pl.promax78.site^$all
-||new1.*.*.com^$document,domain=com
-||new1.*.*.ir^$document,domain=ir
+||new1.*.*.com^$doc,domain=com
+||new1.*.*.ir^$doc,domain=ir
 ||new2pltes.tenzex78.xyz^$all
 ||new0011.com^$all
 ||newbudimex-inpl.info^$all
@@ -14738,7 +14736,7 @@
 ||olx.pl-website.link^$all
 ||olx.pl-zamawienie.shop^$all
 ||olx.pl-zamowienie.shop^$all
-||olx.pl-*.$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx.pl-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pl.bskiikcom.pw^$all
 ||olx.pl.buyfcomtransit.site^$all
 ||olx.pl.comstransbuyit.site^$all
@@ -14757,12 +14755,12 @@
 ||olx.pl.topaybbitfor.pw^$all
 ||olx.pl.transaction.oferta-payment.net^$all
 ||olx.pl.transbuyingite.pw^$all
-||olx.pl.*.$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx.pl.*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.poland-ofer.cc^$all
 ||olx.poland-orders.shop^$all
 ||olx.polka-oferta.club^$all
 ||olx.polka-oferta.work^$all
-||olx.polska-*.$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx.polska-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.primind-banii.cc^$all
 ||olx.primind-banii.info^$all
 ||olx.przesylki-secure.com^$all
@@ -14778,7 +14776,7 @@
 ||olx.treatment-moneyinfo-ptr.xyz^$all
 ||olx.ua.safedeal.bar^$all
 ||olx.uz-wallet.online^$all
-||olx.wyprzedaz-*.$document,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx.wyprzedaz-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.wysyllka.pl^$all
 ||olx.zamowienie.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olyazbs-com.preview-domain.com^$all
@@ -15384,7 +15382,7 @@
 ||otomoto.kn2lm19a23.com^$all
 ||otrium.pl^$all
 ||otrymannya-covid.site^$all
-||otube.pl^$document,domain=otube.pl|~uwaga-natretne-reklamy.*
+||otube.pl^$doc,domain=otube.pl|~uwaga-natretne-reklamy.*
 ||otwarte24.com.pl^$all
 ||otworzoczyitakzobacyzsz.club^$all
 ||otymsieglosnogadda.cyou^$all
@@ -18720,6 +18718,7 @@
 ||servacc-vernou.tvshowsca.digital^$all
 ||servacc-vernou.tvshowsco.digital^$all
 ||servacc-vernou.tvshowsco.live^$all
+||servacc-vernou.tvshowsnight.icu^$all
 ||servacc-vernou.tvshowsnight.site^$all
 ||servant-pl-fa.website^$all
 ||servebro.d3e41lumzevlo0.amplifyapp.com^$all
@@ -19361,7 +19360,7 @@
 ||sroga.info.pl^$all
 ||srv39168.seohost.com.pl^$all
 ||srv173722.hoster-test.ru^$all
-||srv*.seohost.com.pl/weryfikacja/$document
+||srv*.seohost.com.pl/weryfikacja/$doc
 ||ssalong.se^$all
 ||ssfco.info^$all
 ||ssl-cert.pl^$all
@@ -20901,7 +20900,7 @@
 ||uzupelnic.b6ny.com^$all
 ||uzvaret-com.preview-domain.com^$all
 ||uzyskac-olx.xyz^$all
-||u*p*w.ha*.t.justns.ru^$document,domain=ru
+||u*p*w.ha*.t.justns.ru^$doc,domain=ru
 ||v1nted.xyz^$all
 ||v1t.gentrad.xyz^$all
 ||v3r1f1c4t10ns-s3rv1c3sp4g3.000webhostapp.com^$all
@@ -21005,7 +21004,7 @@
 ||videos.dandalinsunnah.com.duniyarcomputer.net^$all
 ||video-mems.eu^$all
 ||video-smieszne.eu^$all
-||vider.info^$document,domain=~uwaga-natretne-reklamy.*|vider.info
+||vider.info^$doc,domain=~uwaga-natretne-reklamy.*|vider.info
 ||vidmova.xyz^$all
 ||vidplayer.pl^$all
 ||viewexplicit.com^$all
@@ -21395,6 +21394,7 @@
 ||wesdorl-site.preview-domain.com^$all
 ||wesedroy-com.preview-domain.com^$all
 ||weselenet.pl^$all
+||wesfor.host^$all
 ||wesklose.xyz^$all
 ||wesole-maluszki.click^$all
 ||westboundtime.xyz^$all
@@ -21829,7 +21829,7 @@
 ||wp.pl.89151535.cube-cologne.com^$all
 ||wp.pl.cube-cologne.com^$all
 ||wp.pl.kegypz.com^$all
-||wp.*.top^$document,domain=top
+||wp.*.top^$doc,domain=top
 ||wracamypl.eu^$all
 ||wracam.click^$all
 ||wradomiu.xyz^$all
@@ -22026,7 +22026,7 @@
 ||x6sms.in^$all
 ||x7sms.in^$all
 ||x9sms.in^$all
-||x9.eu^$document,domain=~www.x9.eu
+||x9.eu^$doc,domain=~www.x9.eu
 ||x85pjz.webwave.dev^$all
 ||xabeyangex.xyz^$all
 ||xaj0faohs8av.bar^$all
@@ -22248,7 +22248,7 @@
 ||zak.ralt.site^$all
 ||zalbani.is-best.net^$all
 ||zaleznosc.gy-ve.com^$all
-||zalukaj*.$document,domain=~zalukaj.vip
+||zalukaj*.$doc,domain=~zalukaj.vip
 ||zamawianie-ogloszenia.com^$all
 ||zamekignorant.site^$all
 ||zamkniety-duza.site^$all
@@ -22467,7 +22467,7 @@
 ||znakomitypic.site^$all
 ||znamcie.pl^$all
 ||znaneleki.pl^$all
-||znany-lekarz.pl^$document
+||znany-lekarz.pl^$doc
 ||znikniecia24h.eu^$all
 ||znikniecie24.eu^$all
 ||zniknieci-ludzie.eu^$all
@@ -22538,28 +22538,28 @@
 ||z-miasta.waw.pl^$all
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
-||*dworzeconline24.$document
-||*dworzecporwaniepl*.$document
-||*dziewczynkaporwana.$document
-||*iporwania24.$document
-||*iporwania-24.pl^$document
-||*iporwania.$document
-||*iporwanie24.$document
-||*iporwanie.$document
-||*polskaporwanie.$document
-||*porwaniapolska24*.$document
-||*porwaniapolska48*.$document
-||*porwaniapolska.$document
-||*porwaniedziecka.$document
-||*porwaniepolska24*.$document
-||*porwaniepolska48*.$document
-||*porwaniepolska.$document
-||*poszukiwanadziewczynka.$document
-||*poszukiwananatalka.$document
-||*poszukiwanialaury.$document
-||*uprowadzeniedworzec.$document
-||*uprowadzniezdworca.$document
-||*-*.r*.cf*.rackcdn.com^$document,domain=rackcdn.com
+||*dworzeconline24.$doc
+||*dworzecporwaniepl*.$doc
+||*dziewczynkaporwana.$doc
+||*iporwania24.$doc
+||*iporwania-24.pl^$doc
+||*iporwania.$doc
+||*iporwanie24.$doc
+||*iporwanie.$doc
+||*polskaporwanie.$doc
+||*porwaniapolska24*.$doc
+||*porwaniapolska48*.$doc
+||*porwaniapolska.$doc
+||*porwaniedziecka.$doc
+||*porwaniepolska24*.$doc
+||*porwaniepolska48*.$doc
+||*porwaniepolska.$doc
+||*poszukiwanadziewczynka.$doc
+||*poszukiwananatalka.$doc
+||*poszukiwanialaury.$doc
+||*uprowadzeniedworzec.$doc
+||*uprowadzniezdworca.$doc
+||*-*.r*.cf*.rackcdn.com^$doc,domain=rackcdn.com
 ||*.atthost24.pl/weryfikacja/$all
 ||*.cal24.pl/weryfikacja/$all
 ||*.e-kei.pl/weryfikacja/$all
@@ -22956,7 +22956,7 @@ www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has( > div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:first-child:not(:empty):matches-path(,program,)
 ##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
-/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$document,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
+/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
