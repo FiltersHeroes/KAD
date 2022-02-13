@@ -2,7 +2,6 @@ kadantiscam.netlify.app,kadantiscam.netlify.com###kadguard
 www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has( > div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:first-child:not(:empty)
 !/^https?:\/\/[a-z0-9]{9,32}\.[a-z-]{6,16}(\.(com|net))?\.pl/$doc
 *$doc,domain=104.248.94.172
-*$doc,domain=104.248.94.172
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{3,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$doc,popup
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$doc,popup
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$doc,popup
