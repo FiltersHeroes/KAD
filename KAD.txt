@@ -3,7 +3,7 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 15 Feb 2022, 13:15 UTC+01
+! Last modified: Tue, 15 Feb 2022, 14:32 UTC+01
 ! Version: 2022.2.15.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -4328,6 +4328,7 @@
 ||cc75607.tmweb.ru^$all
 ||ccc-office.com^$all
 ||ccfundscapital.ltd^$all
+||ccf.gramsystem.site^$all
 ||ccgoo.xyz^$all
 ||cco0.cc^$all
 ||ccredits-agricole.com^$all
@@ -4828,6 +4829,7 @@
 ||conversepromocje.pl^$all
 ||converti.pro^$all
 ||convictionpraise.com^$all
+||convolvulusessustains.pl^$all
 ||cool4mob.com^$all
 ||coolboxpl2.com^$all
 ||cool-shop.pl^$all
@@ -8010,6 +8012,7 @@
 ||espacionatural.online^$all
 ||espaciont.com^$all
 ||espaciosreales.com^$all
+||espostal.com^$all
 ||esseller.com^$all
 ||essentializedcerise.com^$all
 ||estengrove.com^$all
@@ -10491,6 +10494,7 @@
 ||inpost-pl.682367.live^$all
 ||inpost-pl.701110.space^$all
 ||inpost-pl.712751.space^$all
+||inpost-pl.713262.xyz^$all
 ||inpost-pl.713412.xyz^$all
 ||inpost-pl.713452.xyz^$all
 ||inpost-pl.732145-order-info.xyz^$all
@@ -14474,6 +14478,7 @@
 ||olx-pl.188413.xyz^$all
 ||olx-pl.271712.xyz^$all
 ||olx-pl.321156.xyz^$all
+||olx-pl.534673.xyz^$all
 ||olx-pl.541833.space^$all
 ||olx-pl.581851.space^$all
 ||olx-pl.669012.space^$all
@@ -14549,6 +14554,7 @@
 ||olx-pl.konto-klasyczne.best^$all
 ||olx-pl.mdla3vdferof1.com^$all
 ||olx-pl.mieszk-lort.com^$all
+||olx-pl.mkazo01pwer.com^$all
 ||olx-pl.ml^$all
 ||olx-pl.mpay-fs.info^$all
 ||olx-pl.my-dostawa.bar^$all
@@ -16189,6 +16195,7 @@
 ||photobiologiessongful.com^$all
 ||photographymentor.com^$all
 ||photokinesis.biz^$all
+||photomappedwites.pl^$all
 ||phumva.com^$all
 ||phuocson.com.vn^$all
 ||piankapotezny.site^$all
@@ -16674,6 +16681,7 @@
 ||pl-olx.4648750.space^$all
 ||pl-olx.art^$all
 ||pl-olx.bank-payment.cf^$all
+||pl-olx.buy-id895101.xyz^$all
 ||pl-olx.click^$all
 ||pl-olx.digital^$all
 ||pl-olx.guru^$all
@@ -20706,6 +20714,7 @@
 ||tumbukdadasendiri1.co.vu^$all
 ||tumbukdadasendiri1.tarungdrajatsiokalama.com^$all
 ||tunehub247shop.com^$all
+||tunele200.com^$all
 ||tunele-sklep.com^$all
 ||tunido.ml^$all
 ||tunisianvacation.com^$all
@@ -20885,6 +20894,7 @@
 ||undefinedjacklights.info^$all
 ||undefinedmazaedia.info^$all
 ||undefinedpugged.com^$all
+||undefinedwites.pl^$all
 ||underdodrat.info^$all
 ||understandjkl.online^$all
 ||underwritedown.site^$all
@@ -21160,6 +21170,7 @@
 ||vider.info^$doc,domain=~uwaga-natretne-reklamy.*|vider.info
 ||vidmova.xyz^$all
 ||vidplayer.pl^$all
+||vienio.store^$all
 ||viewexplicit.com^$all
 ||viewit-studio.com^$all
 ||view-post.pl^$all
@@ -23112,8 +23123,8 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has( > div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:first-child:not(:empty):matches-path(,program,)
-##a[href*="weryfikacja/index"], a[href*="./weryfikacja/"], a[href*="/weryfikacja/"][target="_blank"], a[href^="/fb-login"]
 ##a[href^="sms:"][href*="?body="]
+##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image
