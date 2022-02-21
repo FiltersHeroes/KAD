@@ -39,6 +39,8 @@ jobs:
     container: ghcr.io/filtersheroes/kad_image:2.26.9-2
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - uses: actions/download-artifact@v2
         with:
           path: sections
