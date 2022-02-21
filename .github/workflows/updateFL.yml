@@ -8,14 +8,14 @@ on:
 jobs:
   CERT:
     runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/kad_image:2.26.9
+    container: ghcr.io/filtersheroes/kad_image:2.26.9-2
     steps:
       - uses: actions/checkout@v2
       - name: Dodawanie nowości z CERT
         env:
           SKIP_OFFLINE: true
         run: |
-          ./scripts/ADD_NOVELTIES_FROM_CERT.sh
+          ./scripts/addNoveltiesFromCert.py
       - uses: actions/upload-artifact@v2
         with:
           name: CERT
@@ -23,7 +23,7 @@ jobs:
             sections/CERT_novelties.txt
   LWS:
     runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/kad_image:2.26.9
+    container: ghcr.io/filtersheroes/kad_image:2.26.9-2
     steps:
       - uses: actions/checkout@v2
       - name: Dodawanie nowości z LWS
@@ -36,7 +36,7 @@ jobs:
   Aktualizacja:
     needs: [CERT, LWS]
     runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/kad_image:2.26.9
+    container: ghcr.io/filtersheroes/kad_image:2.26.9-2
     steps:
       - uses: actions/checkout@v2
       - uses: actions/download-artifact@v2
