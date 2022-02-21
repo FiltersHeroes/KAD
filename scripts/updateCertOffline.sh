@@ -15,6 +15,11 @@ wget -O "$CERT" https://hole.cert.pl/domains/domains.txt
 expired=$1
 sed -i 's/^www\.//g' "$CERT"
 sort -u -o "$CERT" "$CERT"
+python3 "$MAIN_PATH"/../ScriptsPlayground/scripts/Sd2D.py "$CERT" >>"$CERT".2
+cat "$CERT" "$CERT".2 >> "$CERT".3
+mv "$CERT".3 "$CERT"
+rm -rf "$CERT".2
+sort -u -o "$CERT" "$CERT"
 comm -12 "$expired" "$CERT" >> "$SCRIPT_PATH"/CERT_offline.txt
 rm -r "$CERT"
 sort -u -o "$SCRIPT_PATH"/CERT_offline.txt "$SCRIPT_PATH"/CERT_offline.txt
