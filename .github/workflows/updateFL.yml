@@ -3,7 +3,7 @@ name: Aktualizacja listy
 on:
   workflow_dispatch: null
   schedule:
-      - cron: "15 8,12,16,20 * * *"
+      - cron: "5 8,12,16,20 * * *"
 
 jobs:
   CERT:
@@ -20,8 +20,7 @@ jobs:
         with:
           name: CERT
           path: |
-            sections/przekrety.txt
-            scripts/CERT_offline.txt
+            sections/CERT_novelties.txt
   LWS:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:2.26.9
@@ -43,9 +42,6 @@ jobs:
       - uses: actions/download-artifact@v2
         with:
           path: sections
-      - uses: actions/download-artifact@v2
-        with:
-          path: scripts
       - name: Aktualizacja całej listy
         env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}

@@ -20,24 +20,19 @@ if [ -f "./sections/LWS/sections/podejrzane_inne_oszustwa.txt" ]; then
     mv ./sections/LWS/sections/podejrzane_inne_oszustwa.txt ./sections/
 fi
 
-if [ -f "./sections/CERT/przekrety.txt" ]; then
-    rm -rf ./sections/przekrety.txt
-    mv ./sections/CERT/przekrety.txt ./sections/
+if [ -f "./sections/CERT/CERT_novelties.txt" ]; then
+    mv ./sections/CERT/CERT_novelties.txt ./sections/
 fi
 
-if [ -f "./sections/CERT/sections/przekrety.txt" ]; then
-    rm -rf ./sections/przekrety.txt
-    mv ./sections/CERT/sections/przekrety.txt ./sections/
+if [ -f "./sections/CERT/sections/CERT_novelties.txt" ]; then
+    rm -rf ./sections/CERT_novelties.txt
+    mv ./sections/CERT/sections/CERT_novelties.txt ./sections/
 fi
 
-if [ -f "./scripts/CERT/CERT_offline.txt" ]; then
-    rm -rf ./scripts/CERT/CERT_offline.txt
-    mv ./scripts/CERT/CERT_offline.txt ./scripts
-fi
-
-if [ -f "./sections/CERT/scripts/CERT_offline.txt" ]; then
-    rm -rf ./scripts/CERT/CERT_offline.txt
-    mv ./sections/CERT/scripts/CERT_offline.txt ./scripts
+if [ -f "./sections/CERT_novelties.txt" ]; then
+    cat "./sections/przekrety.txt" "./sections/CERT_novelties.txt" >>"$MAIN_PATH"/sections/przekrety2.txt
+    rm -rf "./sections/CERT_novelties.txt"
+    mv "$MAIN_PATH"/sections/przekrety2.txt "./sections/przekrety.txt"
 fi
 
 ost_plik=$(git diff --name-only --pretty=format: | sort | uniq)
