@@ -1,3 +1,19 @@
+||com-verify.site^$all
+||walidacja-uzytkownika.site^$all
+||net-firewall.online^$all
+||safe-onet.space^$all
+||weryfikacja-uzytkownika.site^$all
+||wp-agreements.online^$all
+||ua-agreements.online^$all
+||mil-secure.site^$all
+||op-pl.site^$all
+||account-inbox.online^$all
+||interia-firewall.site^$all
+||kontrola-poczty.site^$all
+||mirohost.online^$all
+||mirohost.site^$all
+||mod-mil.online^$all
+||mod-mil.site^$all
 /click.php?key=*&cost=$doc
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,domain=com
@@ -8139,7 +8155,6 @@
 ||interia.cyou^$all
 ||interia.kontrola-bezpieczenstwa.space^$all
 ||interia.sprawdzanie-konta.space^$all
-||interia.walidacja-uzytkownika.site^$all
 ||interlineal.info^$all
 ||interlink-solutions.net^$all
 ||internetdrogist.com^$all
