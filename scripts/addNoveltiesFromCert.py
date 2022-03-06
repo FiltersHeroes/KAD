@@ -35,7 +35,7 @@ KADhosts_path = "./KADhosts.txt"
 
 download(CERT_path, "https://hole.cert.pl/domains/domains.txt")
 download(KADhosts_path,
-         "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt")
+         "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt")
 
 with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
         NamedTemporaryFile(dir='.', delete=False) as f_out:
