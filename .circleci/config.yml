@@ -6,7 +6,7 @@ jobs:
     working_directory: ~/git/KAD
     steps:
     - checkout
-    - run: ./scripts/ADD_NOVELTIES_FROM_CERT.sh
+    - run: ./scripts/addNoveltiesFromCert.py
     - persist_to_workspace:
         root: ./
         paths:
