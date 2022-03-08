@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 08 Mar 2022, 21:22 UTC+01
-! Version: 2022.3.8.3
+! Last modified: Tue, 08 Mar 2022, 22:42 UTC+01
+! Version: 2022.3.8.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -499,6 +499,7 @@
 ||essonne11.com^$all
 ||estelaz.pl^$all
 ||etalfe.store^$all
+||etaphy.online^$all
 ||etilang.pl^$all
 ||etnies-polska.com^$all
 ||europan.pl^$all
@@ -507,6 +508,7 @@
 ||excelz.com^$all
 ||exitopolska.com^$all
 ||expertbike.pl^$all
+||explotter.com^$all
 ||extragenerators.xyz^$all
 ||exw-wallet.com^$all
 ||e-cda.pl^$all
@@ -1279,6 +1281,7 @@
 ||riekerpoland.com^$all
 ||riekerpolska.com^$all
 ||riverbed.pl^$all
+||rociodolores.com^$all
 ||rok-tuwima.pl^$all
 ||roomdeco.pl^$all
 ||rosalieeve.pl^$all
@@ -1574,6 +1577,7 @@
 ||vansoldschool.pl^$all
 ||vanspolskapl.com^$all
 ||vapormax.pl^$all
+||varmusell.com^$all
 ||vavotel.com^$all
 ||vbapromo.com^$all
 ||vcascc.eu^$all
@@ -3981,6 +3985,7 @@
 ||boss-tour.com^$all
 ||bostoncosmo.com^$all
 ||bos-logowanie-24.com^$all
+||bots.io^$all
 ||botulinwags.com^$all
 ||boulevardcapivari.com^$all
 ||bouncepoprzedzic.site^$all
@@ -4230,6 +4235,7 @@
 ||capcutdownload.com^$all
 ||capekings.co.uk^$all
 ||capexciton.com^$all
+||capital-trade.eu^$all
 ||captureddreams.com.au^$all
 ||cap.capitalpol.xyz^$all
 ||carambaba.com^$all
@@ -4346,6 +4352,7 @@
 ||cd-projekt.firebaseapp.com^$all
 ||cd-projekt.web.app^$all
 ||cd-prok.web.app^$all
+||cd.capital-service.info^$all
 ||ce1.capital-prg6.site^$all
 ||ce81015.tmweb.ru^$all
 ||ceadresort.pl^$all
@@ -4932,6 +4939,7 @@
 ||crudesoldat.com^$all
 ||crwolny.top^$all
 ||cryplister.com^$all
+||crypneteasy.com^$all
 ||crypstart-ant.space^$all
 ||crypstart-appoint.space^$all
 ||crypstart-club.space^$all
@@ -9745,6 +9753,7 @@
 ||indianapolissportbet.com^$all
 ||indianewsfinance.com^$all
 ||indiavillage.co.nz^$all
+||indigocapitals.com^$all
 ||indoge-site.preview-domain.com^$all
 ||induakeriak1.co.vu^$all
 ||induakeriak.co.vu^$all
@@ -16266,6 +16275,7 @@
 ||pola-inw.web.app^$all
 ||pola-in.web.app^$all
 ||pola-kg.web.app^$all
+||pola-un.web.app^$all
 ||polcka-platform.web.app^$all
 ||polecaneprzezmamy.pl^$all
 ||polecic.icu^$all
@@ -19091,6 +19101,7 @@
 ||swift-dcdcdcd0cdc0d.web.app^$all
 ||swinka-morska.waw.pl^$all
 ||swinsuadore.tk^$all
+||swiss29.com^$all
 ||swissmarketfx.com^$all
 ||swissmarket.net^$all
 ||swivderfger.ml^$all
@@ -20520,6 +20531,7 @@
 ||violentisochronally.xyz^$all
 ||vipaudience.kinsta.cloud^$all
 ||vipshorka.info^$all
+||vip.capital-service.info^$all
 ||viralka.pl^$all
 ||viralstuff.xyz^$all
 ||virgilio2021.com^$all
@@ -22422,7 +22434,6 @@ szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has( > div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:first-child:not(:empty):matches-path(,program,)
-##a[href^="sms:"][href*="?body="]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 ||alltube.tv/static/img/download.png$image
