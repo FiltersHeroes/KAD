@@ -10,8 +10,7 @@ jobs:
     - persist_to_workspace:
         root: ./
         paths:
-          - sections/przekrety.txt
-          - scripts/CERT_offline.txt
+          - sections/CERT_novelties.txt
   LWS:
     docker:
     - image: polishfiltersteam/kad_image:2.26.9-2
