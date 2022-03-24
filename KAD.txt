@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 24 Mar 2022, 09:25 UTC+01
-! Version: 2022.3.24.0
+! Last modified: Thu, 24 Mar 2022, 13:34 UTC+01
+! Version: 2022.3.24.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7265,6 +7265,7 @@
 ||dpd-shipment.xyz^$all
 ||dpd-s.id-9431.me^$all
 ||dpd-vbgb.order84757.me^$all
+||dpd.deliveryinfo-2365.xyz^$all
 ||dpd.deliveryuser-ptr.xyz^$all
 ||dpd.dispatchproduct-659.xyz^$all
 ||dpd.formullarz.xyz^$all
@@ -10040,6 +10041,7 @@
 ||inpostpl.id0715963107.xyz^$all
 ||inpostpl.id05181516075.shop^$all
 ||inpostpl.id05651384088.live^$all
+||inpostpl.id06890473946.click^$all
 ||inpostpl.id08468456189.xyz^$all
 ||inpostpl.id09661800934.info^$all
 ||inpostpl.id-07974130575.buzz^$all
@@ -10103,6 +10105,7 @@
 ||inpost-kdhf.495839100.me^$all
 ||inpost-lfaw.order20493.me^$all
 ||inpost-lgye.id-845.me^$all
+||inpost-lyme.order294820.me^$all
 ||inpost-oferta.su^$all
 ||inpost-order-pl.567589.xyz^$all
 ||inpost-o.id-9843.me^$all
@@ -10251,6 +10254,7 @@
 ||inpost-polska-um.order87373.me^$all
 ||inpost-polska-wz.order7578.me^$all
 ||inpost-polska-yb.progress228.me^$all
+||inpost-polska-zql.order4678.me^$all
 ||inpost-polska.623141.xyz^$all
 ||inpost-polska.637685.xyz^$all
 ||inpost-polska.938347.space^$all
@@ -10934,6 +10938,7 @@
 ||kangot.com^$all
 ||kangura.icu^$all
 ||kapielprzepraszac.site^$all
+||kapimak-xyz.preview-domain.com^$all
 ||kapolska.xyz^$all
 ||kapsol.ir^$all
 ||kapustka.com.pl^$all
@@ -10957,6 +10962,7 @@
 ||kartawire.pl^$all
 ||karta-swiateczna.eu^$all
 ||karteli.xyz^$all
+||kartesnof.site^$all
 ||kartowkop.xyz^$all
 ||karugaterkuatmage.co.vu^$all
 ||kasa-sms.pl^$all
@@ -11655,6 +11661,7 @@
 ||lnp0st-info.goods-delivery.xyz^$all
 ||lnp0st.92568.xyz^$all
 ||lnp0st.659816.xyz^$all
+||lnp0s-t.shipmentgoods-956.xyz^$all
 ||lnpostpl.info-dostawa-46378232.xyz^$all
 ||lnpostwebpage.xyz^$all
 ||lnpost-delivery.xyz^$all
@@ -13586,6 +13593,7 @@
 ||obuwiedr.com^$all
 ||obywatelskie.cfolks.pl^$all
 ||obywatelskie.eu^$all
+||obywatel-rp24.pl^$all
 ||ocelote.icu^$all
 ||oceniam.to^$all
 ||ocenzobaczbizznes.cyou^$all
@@ -13935,10 +13943,12 @@
 ||olx-pl.id05651384088.live^$all
 ||olx-pl.id*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl.id-0549810596.shop^$all
+||olx-pl.id-0895602513.shop^$all
 ||olx-pl.id-07410516502.xyz^$all
 ||olx-pl.id-07974130575.buzz^$all
 ||olx-pl.id-056742498498.xyz^$all
 ||olx-pl.id-084390019848.click^$all
+||olx-pl.id-0643197564087.info^$all
 ||olx-pl.id-order81743.site^$all
 ||olx-pl.ip-pl015291819.shop^$all
 ||olx-pl.ip-pl017642034.buzz^$all
@@ -16185,6 +16195,7 @@
 ||polska-olx.268293.xyz^$all
 ||polska-olx.395172.xyz^$all
 ||polska-olx.459403.space^$all
+||polska-olx.618369.xyz^$all
 ||polska-olx.729361.xyz^$all
 ||polska-olx.815314.xyz^$all
 ||polska-olx.834392.space^$all
@@ -19847,6 +19858,7 @@
 ||type-pl.web.app^$all
 ||tyrholks-com.preview-domain.com^$all
 ||tytfgn688hceb.web.app^$all
+||ty-thkk.web.app^$all
 ||ty.capitalloredfd.site^$all
 ||ty.lepiejodpocznij.rest^$all
 ||tzaupye.top^$all
@@ -21031,6 +21043,7 @@
 ||wp-mint.web.app^$all
 ||wp-opinia.eu^$all
 ||wp-plzysk.online^$all
+||wp-pl-zaloguj-dodaj-client-ido2-o2-pl-challenge-cboqjdt0np70y6x.netlify.app^$all
 ||wp-portal.eu^$all
 ||wp-uwaga.eu^$all
 ||wp-wiadomosci.eu^$all
