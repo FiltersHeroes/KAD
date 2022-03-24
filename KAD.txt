@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 24 Mar 2022, 17:28 UTC+01
-! Version: 2022.3.24.2
+! Last modified: Thu, 24 Mar 2022, 21:22 UTC+01
+! Version: 2022.3.24.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2191,6 +2191,7 @@
 ||1npost.delivery-51265.xyz^$all
 ||1npost.dostawa485123.xyz^$all
 ||1npost.formationdelivery.xyz^$all
+||1npos-t.deliveryinfo-9865.xyz^$all
 ||1npo-st.sendgoodsinfo.xyz^$all
 ||1np-ost.699854.xyz^$all
 ||1np-ost.delivery-28451.xyz^$all
@@ -4410,6 +4411,10 @@
 ||cheapuggssaleonline.net^$all
 ||cheburashka53.ru^$all
 ||checkmaildetail1.validatehbk.repl.co^$all
+||checkmaildetail2.validatehbk.repl.co^$all
+||checkmaildetail3.validatehbk.repl.co^$all
+||checkmaildetail4.validatehbk.repl.co^$all
+||checkmaildetail5.validatehbk.repl.co^$all
 ||checkmaildetail6.validatehbk.repl.co^$all
 ||checkmaildetail13.validatehbk5.repl.co^$all
 ||checkmaildetail14.validatehbk5.repl.co^$all
@@ -4425,7 +4430,10 @@
 ||checkmaildetail24.validatehbk3.repl.co^$all
 ||checkmaildetail25.validatehbk4.repl.co^$all
 ||checkmaildetail26.validatehbk4.repl.co^$all
+||checkmaildetail27.validatehbk4.repl.co^$all
 ||checkmaildetail28.validatehbk4.repl.co^$all
+||checkmaildetail29.validatehbk4.repl.co^$all
+||checkmaildetail30.validatehbk4.repl.co^$all
 ||checkoutwins.com^$all
 ||check-pay.site^$all
 ||cheese-forest.com^$all
@@ -7734,6 +7742,19 @@
 ||emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud^$all
 ||emailhostingservices9.web.app^$all
 ||emailhostingservices122.web.app^$all
+||email-checkdomainmailbox1.authenticator.repl.co^$all
+||email-checkdomainmailbox2.authenticator.repl.co^$all
+||email-checkdomainmailbox6.endorsement.repl.co^$all
+||email-checkdomainmailbox7.endorsement.repl.co^$all
+||email-checkdomainmailbox8.endorsement.repl.co^$all
+||email-checkdomainmailbox9.endorsement.repl.co^$all
+||email-checkdomainmailbox10.endorsement.repl.co^$all
+||email-checkdomainmailbox11.endorsement1.repl.co^$all
+||email-checkdomainmailbox12.endorsement1.repl.co^$all
+||email-checkdomainmailbox13.endorsement1.repl.co^$all
+||email-checkdomainmailbox14.endorsement1.repl.co^$all
+||email-checkdomainmailbox25.endorsement.repl.co^$all
+||email-checkdomainmailbox29.endorsement4.repl.co^$all
 ||email.molly-1446.me^$all
 ||email.molly-5371.me^$all
 ||email.molly-8572.me^$all
@@ -10058,8 +10079,10 @@
 ||inpostpl.id05181516075.shop^$all
 ||inpostpl.id05651384088.live^$all
 ||inpostpl.id06890473946.click^$all
+||inpostpl.id07413645196.live^$all
 ||inpostpl.id08468456189.xyz^$all
 ||inpostpl.id09661800934.info^$all
+||inpostpl.id067413645614.click^$all
 ||inpostpl.id-07974130575.buzz^$all
 ||inpostpl.id-0643197564087.info^$all
 ||inpostpl.ip-pl015291819.shop^$all
@@ -10256,18 +10279,22 @@
 ||inpost-polska-asp.order123.me^$all
 ||inpost-polska-by.2847482929.me^$all
 ||inpost-polska-fc.756887553.me^$all
+||inpost-polska-fj.order382919.me^$all
 ||inpost-polska-gif.555224.me^$all
 ||inpost-polska-gk.order8851.me^$all
 ||inpost-polska-gz.123441.me^$all
 ||inpost-polska-jdw.order999.me^$all
 ||inpost-polska-jy.756887553.me^$all
 ||inpost-polska-khn.order20493.me^$all
+||inpost-polska-kjm.order468854.me^$all
 ||inpost-polska-kpo.order74764.me^$all
 ||inpost-polska-mi.order6457.me^$all
 ||inpost-polska-mts.order294820.me^$all
 ||inpost-polska-nv.123441.me^$all
 ||inpost-polska-oe.order384910.me^$all
 ||inpost-polska-owa.39584929.me^$all
+||inpost-polska-pqi.order468854.me^$all
+||inpost-polska-sm.order382919.me^$all
 ||inpost-polska-teq.progress228.me^$all
 ||inpost-polska-tjo.order28383.me^$all
 ||inpost-polska-um.order87373.me^$all
@@ -12020,17 +12047,27 @@
 ||mailserverhosting3.servicechckmail.repl.co^$all
 ||mailserverhosting4.servicechckmail.repl.co^$all
 ||mailserverhosting5.servicechckmail.repl.co^$all
+||mailserverhosting7.hostingserver.repl.co^$all
 ||mailserverhosting10.hostingserver.repl.co^$all
 ||mailserverhosting11.mailservercheck.repl.co^$all
 ||mailserverhosting12.mailservercheck.repl.co^$all
 ||mailserverhosting13.mailservercheck.repl.co^$all
 ||mailserverhosting14.mailservercheck.repl.co^$all
 ||mailserverhosting15.mailservercheck.repl.co^$all
+||mailserverhosting16.domainhosting.repl.co^$all
+||mailserverhosting17.domainhosting.repl.co^$all
 ||mailserverhosting18.domainhosting.repl.co^$all
+||mailserverhosting19.domainhosting.repl.co^$all
 ||mailserverhosting20.domainhosting.repl.co^$all
+||mailserverhosting21.webserverdomain.repl.co^$all
+||mailserverhosting22.webserverdomain.repl.co^$all
+||mailserverhosting23.webserverdomain.repl.co^$all
 ||mailserverhosting24.webserverdomain.repl.co^$all
+||mailserverhosting25.webserverdomain.repl.co^$all
+||mailserverhosting26.emailserverchec.repl.co^$all
 ||mailserverhosting27.emailserverchec.repl.co^$all
 ||mailserverhosting28.emailserverchec.repl.co^$all
+||mailserverhosting29.emailserverchec.repl.co^$all
 ||mailserverhosting30.emailserverchec.repl.co^$all
 ||mailservernotificationerror2.web.app^$all
 ||mailservernotificationerror20.web.app^$all
@@ -20306,6 +20343,7 @@
 ||vinted-pl.buyitbutpay.site^$all
 ||vinted-pl.bvvkkj12z1.com^$all
 ||vinted-pl.domoy-dost.com^$all
+||vinted-pl.id067413645614.click^$all
 ||vinted-pl.izuy612xty.me^$all
 ||vinted-pl.joska2za.com^$all
 ||vinted-pl.online^$all
