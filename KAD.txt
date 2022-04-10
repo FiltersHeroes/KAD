@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 10 Apr 2022, 22:54 UTC+02
-! Version: 2022.4.10.5
+! Last modified: Sun, 10 Apr 2022, 23:32 UTC+02
+! Version: 2022.4.10.6
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3231,6 +3231,7 @@
 ||amicusinvest.net^$all
 ||amirds.xyz^$all
 ||amonitalia.it^$all
+||amoviemedia.com^$all
 ||ampglobalfx.com^$all
 ||amplificationgain.com^$all
 ||amplo.xyz^$all
@@ -4716,6 +4717,7 @@
 ||cinemaleftech.com^$all
 ||cinemarkasian.com^$all
 ||cinematicfanatic.com^$all
+||cineplaynow.com^$all
 ||cingmoses.tk^$all
 ||circultural.com^$all
 ||cirleci.net^$all
@@ -10665,6 +10667,7 @@
 ||institute.institutepages.institutepages.workers.dev^$all
 ||instructvideo.com^$all
 ||instrumentassertive.com^$all
+||instytucjawsparciapracownikow.eu^$all
 ||insuredplusltd.com^$all
 ||intabatl-com.preview-domain.com^$all
 ||intactboffos.com^$all
@@ -21672,6 +21675,7 @@
 ||xref.icu^$all
 ||xsaz-offers.com^$all
 ||xshort.pw^$all
+||xstarmovie21.com^$all
 ||xtqs1z.webwave.dev^$all
 ||xuangeinvesting.xyz^$all
 ||xugifoo1.xyz^$all
@@ -22549,7 +22553,7 @@ speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
-www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has( > div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:first-child:not(:empty):matches-path(/\/[a-z0-9-]{1,64},program,/)
+www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has( > div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:first-child:not(:empty):matches-path(/\/[a-zA-Z0-9-]{1,99},program,/)
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 ||alltube.tv/static/img/download.png$image
