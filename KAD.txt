@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 10 Apr 2022, 18:28 UTC+02
-! Version: 2022.4.10.3
+! Last modified: Sun, 10 Apr 2022, 22:22 UTC+02
+! Version: 2022.4.10.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2071,6 +2071,7 @@
 ||exy.ai^$all
 ||e-kino.tv^$all
 ||e-kocyki.pl^$all
+||fast-date[.]site^$all
 ||fbpaty.com^$all
 ||feernews.biz^$all
 ||filmowo.co^$all
@@ -11914,6 +11915,7 @@
 ||lnpost-pl-pay.454367.space^$all
 ||lnpost-pl-pay.832915.space^$all
 ||lnpost-pl-pay.3756748.xyz^$all
+||lnpost-pl.67458.space^$all
 ||lnpost-pl.93821.space^$all
 ||lnpost-pl.165374.space^$all
 ||lnpost-pl.177348.space^$all
@@ -17746,6 +17748,7 @@
 ||reserv-booking.com^$all
 ||reserv-comp.protrobit.site^$all
 ||residualfivfpx.xyz^$all
+||resmiwepyr.ml^$all
 ||respanblo.tk^$all
 ||ressivill.com^$all
 ||restock.space^$all
@@ -17815,6 +17818,7 @@
 ||ridwankamil.co.vu^$all
 ||ridwankamil.tarungdrajatsiokalama.com^$all
 ||riekerpolska.pl^$all
+||rieprocgus.cf^$all
 ||righeryasmils.xyz^$all
 ||rigourdefoliators.com^$all
 ||riky.pl^$all
@@ -18175,6 +18179,7 @@
 ||secure-sms.co^$all
 ||secure-sms.one^$all
 ||secure-ua.space^$all
+||secure.agfxmarkets.com^$all
 ||secure.getinkank.com^$all
 ||secure.onewestbk.com^$all
 ||secure.platnosci-online.shop^$all
@@ -19344,6 +19349,7 @@
 ||tabxolabs.com^$all
 ||tachcinchonines.com^$all
 ||tachinidundefined.pl^$all
+||taconthypsisfmowolf.ga^$all
 ||tacticaltrainingdatabase.com^$all
 ||tadbut.pl^$all
 ||tadoms.space^$all
@@ -20620,6 +20626,7 @@
 ||vinted-pl.izuy612xty.me^$all
 ||vinted-pl.joska2za.com^$all
 ||vinted-pl.numerib047631057.shop^$all
+||vinted-pl.numerid05693472.top^$all
 ||vinted-pl.online^$all
 ||vinted-pl.plid0674391054.top^$all
 ||vinted-pl.plid05739426842.info^$all
@@ -22537,7 +22544,7 @@ speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 szukajka.tv##a[href*="alltube.com.pl"], a[href*="filmyonline.com.pl"], a[href*="fili.com.pl"], a[href*="twoje-seriale.tv"]
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
-www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has( > div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:first-child:not(:empty):matches-path(,program,)
+www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has( > div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:first-child:not(:empty):matches-path(/\/[a-z-] + ,program,/)
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 ||alltube.tv/static/img/download.png$image
