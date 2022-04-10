@@ -1,5 +1,4 @@
 .com/c/*?s1=$doc,domain=com
-||fast-date[.]site^$all
 .net/c/*?s1=$doc,domain=net
 /fckupload/*.xml$doc,domain=libron.pl
 /fck_files/*.xml$doc,domain=m-vision.com.pl
@@ -82,6 +81,7 @@
 ||exy.ai^$all
 ||e-kino.tv^$all
 ||e-kocyki.pl^$all
+||fast-date[.]site^$all
 ||fbpaty.com^$all
 ||feernews.biz^$all
 ||filmowo.co^$all
