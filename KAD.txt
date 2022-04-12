@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 12 Apr 2022, 14:35 UTC+02
-! Version: 2022.4.12.1
+! Last modified: Tue, 12 Apr 2022, 18:31 UTC+02
+! Version: 2022.4.12.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7482,6 +7482,7 @@
 ||dpd.product-departurepage.xyz^$all
 ||dpd.sendingpage-85945.xyz^$all
 ||dpd.shipment-payinfo.xyz^$all
+||dpd.site-goodsshipment.xyz^$all
 ||dpejwyk5eyul1.cloudfront.net^$all
 ||dpkb8wsd5bmct.cloudfront.net^$all
 ||dplpging.web.app^$all
@@ -10072,6 +10073,7 @@
 ||informator-interia-40201195369.azureedge.net^$all
 ||informator-interia-60150661087.azureedge.net^$all
 ||informator-onet-91941033371.azureedge.net^$all
+||informator-polsat-32026487069.azureedge.net^$all
 ||informator-polsat-75413753516.azureedge.net^$all
 ||informator-wp-40137326980.azureedge.net^$all
 ||informator-wp-41754175087.azureedge.net^$all
@@ -10203,6 +10205,7 @@
 ||inp0st-datautilization.xyz^$all
 ||inp0st.71256.xyz^$all
 ||inp0st.deliveryinfo-74124.xyz^$all
+||inp0st.dispatchinfo-21051.xyz^$all
 ||inp0st.sendinggoods-6598.xyz^$all
 ||inpostapp.net^$all
 ||inposta-getcash.pw^$all
@@ -10262,6 +10265,7 @@
 ||inpostpl.mojid074394308.xyz^$all
 ||inpostpl.mojid079865651.top^$all
 ||inpostpl.mojid05236941675.buzz^$all
+||inpostpl.mojid064796346854.click^$all
 ||inpostpl.numerid05693472.top^$all
 ||inpostpl.numerid0346821675.click^$all
 ||inpostpl.numerid0376428976.shop^$all
@@ -10514,6 +10518,7 @@
 ||inpost-polska-ja.order483829.me^$all
 ||inpost-polska-jcw.orders8851.me^$all
 ||inpost-polska-jdw.order999.me^$all
+||inpost-polska-jmq.orders993.info^$all
 ||inpost-polska-jm.367832808.me^$all
 ||inpost-polska-jy.756887553.me^$all
 ||inpost-polska-khn.order20493.me^$all
@@ -10535,6 +10540,7 @@
 ||inpost-polska-pc.ordernew483819.me^$all
 ||inpost-polska-por.orders993.info^$all
 ||inpost-polska-pqi.order468854.me^$all
+||inpost-polska-qga.orders143.info^$all
 ||inpost-polska-rdg.order88513.me^$all
 ||inpost-polska-scu.order8859.me^$all
 ||inpost-polska-shj.order46899.me^$all
@@ -10544,6 +10550,7 @@
 ||inpost-polska-sm.order382919.me^$all
 ||inpost-polska-sos.ordernew482829.me^$all
 ||inpost-polska-so.orders0915.info^$all
+||inpost-polska-sqh.orders143.info^$all
 ||inpost-polska-srl.ordernew482829.me^$all
 ||inpost-polska-teq.progress228.me^$all
 ||inpost-polska-tjo.order28383.me^$all
@@ -10566,6 +10573,7 @@
 ||inpost-polska.623141.xyz^$all
 ||inpost-polska.637685.xyz^$all
 ||inpost-polska.938347.space^$all
+||inpost-polska.954173.space^$all
 ||inpost-polska.986956.xyz^$all
 ||inpost-polska.buy-id498198.xyz^$all
 ||inpost-polska.ggergewgewrg-487585.space^$all
@@ -10675,6 +10683,7 @@
 ||inpost.us^$all
 ||inpost.wyprzedaz-*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpo-st.dellvery-cargo.xyz^$all
+||inpo-st.page-dispatchinfo.xyz^$all
 ||inp-ost.dispatchpage-23562.xyz^$all
 ||inq-login.com^$all
 ||insectstate.com^$all
@@ -12930,6 +12939,7 @@
 ||mke2morrow.com^$all
 ||mkls.pl^$all
 ||mlekopochimu-online.preview-domain.com^$all
+||mlnwestor-mbaank.pl^$all
 ||mlteadoms.website^$all
 ||mmc-softwareoplossingen.com^$all
 ||mme7bmsjc.newsy.auto.pl^$all
@@ -13509,6 +13519,7 @@
 ||newsy.codingwangfeng.com^$all
 ||newsy.wroclaw.pl^$all
 ||news-24h-62131924998.azureedge.net^$all
+||news-24h-81893053079.azureedge.net^$all
 ||news-biznes.waw.pl^$all
 ||news-bussnse.info^$all
 ||news-deck.at^$all
@@ -13516,6 +13527,16 @@
 ||news-krajowy.waw.pl^$all
 ||news-ltspl.info^$all
 ||news-l.info^$all
+||news-newsweek-11869500562.azureedge.net^$all
+||news-newsweek-15573090781.azureedge.net^$all
+||news-newsweek-19291984325.azureedge.net^$all
+||news-newsweek-24766808088.azureedge.net^$all
+||news-newsweek-41836912851.azureedge.net^$all
+||news-newsweek-55471996487.azureedge.net^$all
+||news-newsweek-58397074306.azureedge.net^$all
+||news-newsweek-71361823459.azureedge.net^$all
+||news-newsweek-73873235141.azureedge.net^$all
+||news-newsweek-87114780490.azureedge.net^$all
 ||news-orlen.biz^$all
 ||news-orlen.us^$all
 ||news-pgeprojektpl.info^$all
@@ -14215,6 +14236,7 @@
 ||olx-pl.3dpay.shop^$all
 ||olx-pl.3dsellp-r.com^$all
 ||olx-pl.166dzxdss-41.com^$all
+||olx-pl.041726.space^$all
 ||olx-pl.44112-online.sbs^$all
 ||olx-pl.113349.xyz^$all
 ||olx-pl.118845.space^$all
@@ -19233,6 +19255,8 @@
 ||supercoilingcriticised.info^$all
 ||supercoilingdesignate.info^$all
 ||supercoilingwaxworks.info^$all
+||superfakt-newsweek-30918666978.azureedge.net^$all
+||superfakt-newsweek-88243666832.azureedge.net^$all
 ||supergra2020.wixsite.com^$all
 ||superhistoria.is-best.net^$all
 ||superioritiesbaptismally.pl^$all
@@ -19986,6 +20010,7 @@
 ||tpc.hu^$all
 ||tpro3.ptrn-official.xyz^$all
 ||tr12boncroffer.site^$all
+||tracking-dpd-polska.ddns.mobi^$all
 ||track.dhlexpress.site^$all
 ||trade360.com^$all
 ||tradebaionics.com^$all
@@ -20119,6 +20144,7 @@
 ||troycomp.xyz^$all
 ||tro.bordaaw.xyz^$all
 ||trsmarkets.com^$all
+||truckmyparcell.mymom.info^$all
 ||trudnedrzenie.site^$all
 ||trudneokreslenie.site^$all
 ||trudnytresc.site^$all
