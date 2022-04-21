@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 21 Apr 2022, 10:28 UTC+02
-! Version: 2022.4.21.0
+! Last modified: Thu, 21 Apr 2022, 14:38 UTC+02
+! Version: 2022.4.21.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -9137,6 +9137,9 @@
 ||gogainshop.com^$all
 ||gogameportal.com^$all
 ||gogglebox-tv.pl^$all
+||gogglebox-video.pl^$all
+||gogglebox-wiedo.pl^$all
+||gogglebox-wypadki.pl^$all
 ||gogglebox.pl^$all
 ||gog.proga-max.xyz^$all
 ||goinvest2021.site^$all
@@ -10303,9 +10306,12 @@
 ||inpostpl.ve076124975346.xyz^$all
 ||inpostpl.ve0874136548964.buzz^$all
 ||inpostpl.ve0884260145379.shop^$all
+||inpostpl.wniosek0469234.xyz^$all
 ||inpostpl.wysylka-koor.pro^$all
 ||inpostpl.yqpo81ncal99.cc^$all
 ||inpostpl.zakupy-internetowe.click^$all
+||inpostpl.zamow49256.top^$all
+||inpostpl.zamow486934.shop^$all
 ||inpostpl.zamow576308.click^$all
 ||inpost-a.id-43980.me^$all
 ||inpost-bdji.orders993.info^$all
@@ -12739,6 +12745,7 @@
 ||media-24n.cleverapps.io^$all
 ||media-elektro.top^$all
 ||media-gessler.waw.pl^$all
+||media-gogglebox.pl^$all
 ||media.mazowsze.pl^$all
 ||media.socialblue.com^$all
 ||medical-library.org^$all
@@ -14457,6 +14464,8 @@
 ||olx-pl.vxcdkvj6-125.live^$all
 ||olx-pl.zakupy-internetowe.click^$all
 ||olx-pl.zamow49256.top^$all
+||olx-pl.zamow486934.shop^$all
+||olx-pl.zamow576308.click^$all
 ||olx-pl.zamow5493172.xyz^$all
 ||olx-pl.zlozenie-spoko.com^$all
 ||olx-polands.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -15134,6 +15143,7 @@
 ||orvestinfo.website^$all
 ||orzegowa.pl^$all
 ||orzekanie-zwyciezcy.eu^$all
+||or-info.site^$all
 ||or-lennk.web.app^$all
 ||or-pl-1.web.app^$all
 ||or-sucess.su^$all
@@ -17501,6 +17511,7 @@
 ||pubmax.com.pl^$all
 ||pudelek-24-34891829480.azureedge.net^$all
 ||pudelek-24-71044131031.azureedge.net^$all
+||pudelek-info.pl^$all
 ||pudelek-onet-59022208346.azureedge.net^$all
 ||pudelek-onet-71862775213.azureedge.net^$all
 ||pudelek-onet-82162019583.azureedge.net^$all
@@ -17883,6 +17894,7 @@
 ||relacja7455.site^$all
 ||relacja7648.site^$all
 ||relacja7907.site^$all
+||relacje-gogglebox.pl^$all
 ||relativelyheterophony.com^$all
 ||relaxdom.com.pl^$all
 ||relaxed-hawking-14d35a.netlify.app^$all
@@ -18714,6 +18726,7 @@
 ||sikorax.pl^$all
 ||sikorka.cyou^$all
 ||silnikstrazak.site^$all
+||silver-kurier.me^$all
 ||simon-31.com^$all
 ||simopy.comfort-plate.ru^$all
 ||simovie.net^$all
@@ -19308,6 +19321,7 @@
 ||sudessennt.com^$all
 ||sufferingsdevitrifies.com^$all
 ||sugarerstach.com^$all
+||sugarsunde.pl^$all
 ||sugerowac363.rest^$all
 ||suggestmychoice.com^$all
 ||suitgraze.com^$all
@@ -19664,6 +19678,7 @@
 ||temat.mojesprawy24.xyz^$all
 ||temperaturnik.com^$all
 ||temporary.nsx.pl^$all
+||tempow.xyz^$all
 ||ten1pro-pl.newprog87t.site^$all
 ||tenczas.biz^$all
 ||tendors-xyz.preview-domain.com^$all
@@ -20777,6 +20792,7 @@
 ||videoplex.pl^$all
 ||videostape.com^$all
 ||videosy-patrz.eu^$all
+||video-gogglebox.pl^$all
 ||video-mems.eu^$all
 ||video-monitoring.eu^$all
 ||video-ogladajmy.eu^$all
@@ -20843,7 +20859,9 @@
 ||vinted-pl.ve08545634907.xyz^$all
 ||vinted-pl.ve0894123470524.info^$all
 ||vinted-pl.vxcdkvj6-125.live^$all
+||vinted-pl.wniosek0469234.xyz^$all
 ||vinted-pl.zamow49256.top^$all
+||vinted-pl.zamow486934.shop^$all
 ||vinted-productdelivery.xyz^$all
 ||vinted-spending.xyz^$all
 ||vinted-tcjw.id-3842.me^$all
@@ -21363,6 +21381,7 @@
 ||widelec.icu^$all
 ||widensniff.com^$all
 ||wideo24-wypadki.pl^$all
+||wideo-gogglebox.pl^$all
 ||widget-eforsa.pl^$all
 ||wiecejeniemam.site^$all
 ||wiecpieg.site^$all
