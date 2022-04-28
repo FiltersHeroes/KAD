@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 28 Apr 2022, 10:28 UTC+02
-! Version: 2022.4.28.0
+! Last modified: Thu, 28 Apr 2022, 14:42 UTC+02
+! Version: 2022.4.28.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4632,6 +4632,7 @@
 ||bundle-deals.com^$all
 ||bunskil-site.preview-domain.com^$all
 ||buntownik527.site^$all
+||burist.xyz^$all
 ||buroch.online^$all
 ||buscorrespond.com^$all
 ||buseltrop.com^$all
@@ -7732,6 +7733,7 @@
 ||dpd.delivery74154.xyz^$all
 ||dpd.deliveryinfo-2365.xyz^$all
 ||dpd.deliveryuser-ptr.xyz^$all
+||dpd.delivery-userinform.xyz^$all
 ||dpd.dispatchproduct-659.xyz^$all
 ||dpd.formullarz.xyz^$all
 ||dpd.infogoodstransfer.xyz^$all
@@ -10744,10 +10746,12 @@
 ||inpost-polska-gpp.order46899.me^$all
 ||inpost-polska-gz.123441.me^$all
 ||inpost-polska-hco.order88513.me^$all
+||inpost-polska-hr.order9351.info^$all
 ||inpost-polska-hy.order9351.info^$all
 ||inpost-polska-icp.order9351.info^$all
 ||inpost-polska-ifd.order469854.me^$all
 ||inpost-polska-ip.order9t2035.info^$all
+||inpost-polska-iql.order9351.info^$all
 ||inpost-polska-isu.orders143.info^$all
 ||inpost-polska-ja.order483829.me^$all
 ||inpost-polska-jcw.orders8851.me^$all
@@ -10761,6 +10765,7 @@
 ||inpost-polska-kjm.order468854.me^$all
 ||inpost-polska-kj.orders993.info^$all
 ||inpost-polska-kpo.order74764.me^$all
+||inpost-polska-kvr.order9351.info^$all
 ||inpost-polska-lfp.order9351.info^$all
 ||inpost-polska-lls.order4939292.me^$all
 ||inpost-polska-lod.orders993.info^$all
@@ -10785,6 +10790,8 @@
 ||inpost-polska-pnd.order9t2035.info^$all
 ||inpost-polska-por.orders993.info^$all
 ||inpost-polska-pqi.order468854.me^$all
+||inpost-polska-prg.order9351.info^$all
+||inpost-polska-pui.order9351.info^$all
 ||inpost-polska-puy.order9351.info^$all
 ||inpost-polska-qei.order9351.info^$all
 ||inpost-polska-qga.orders143.info^$all
@@ -10841,6 +10848,7 @@
 ||inpost-polska-yue.orders993.info^$all
 ||inpost-polska-zcs.orders8821.info^$all
 ||inpost-polska-zql.order4678.me^$all
+||inpost-polska-zsg.order9351.info^$all
 ||inpost-polska-zub.orders0094.info^$all
 ||inpost-polska.623141.xyz^$all
 ||inpost-polska.637685.xyz^$all
@@ -11402,6 +11410,7 @@
 ||jnpost.productsendlng-user.xyz^$all
 ||jnpos-t.9754-deliveryform.xyz^$all
 ||jnpos-t.shipmentcargo-2451.xyz^$all
+||jnpos-t.usersend-product.xyz^$all
 ||joanliew.com^$all
 ||jobalti.xyz^$all
 ||jodhsvilmalna.tk^$all
@@ -12535,6 +12544,7 @@
 ||m4rkt.com^$all
 ||maadlen.pl^$all
 ||maaxi-pl1.site^$all
+||mabanquebnpparibas.gr^$all
 ||mabanque-bnpparibas-ref-31-fr.web.app^$all
 ||mabanque-bnpparibas-ref-34-fr.web.app^$all
 ||maccash.fun^$all
@@ -13165,6 +13175,7 @@
 ||mnmjunfamfam.bar^$all
 ||moaythink.pl^$all
 ||mobgames.mobi^$all
+||mobilaktywpl.pw^$all
 ||mobilefineart.com^$all
 ||mobilejmp.com^$all
 ||mobile-allegrolokalnie.shop^$all
@@ -16816,6 +16827,7 @@
 ||polska-lnpost.305271.space^$all
 ||polska-lnpost.314878.xyz^$all
 ||polska-lnpost.324543.space^$all
+||polska-lnpost.334565.fun^$all
 ||polska-lnpost.347843.space^$all
 ||polska-lnpost.355754.space^$all
 ||polska-lnpost.356785.space^$all
@@ -16905,6 +16917,7 @@
 ||polska-olx.paying-435654.xyz^$all
 ||polska-olx.pay-id63524.top^$all
 ||polska-olx.pl^$all
+||polska-pay-dpd.442443.pw^$all
 ||polska-pay-lnpost.726310.site^$all
 ||polska-pay-olx.381945.site^$all
 ||polska-pay-olx.563485.space^$all
@@ -17727,6 +17740,7 @@
 ||quantro.xyz^$all
 ||quantummarket.net^$all
 ||quantums-trade.com^$all
+||quantum-pl.space^$all
 ||quartexindustries.com^$all
 ||quatebirding.com^$all
 ||qubble.com^$all
@@ -18495,6 +18509,7 @@
 ||secure.xn--gtinhnk-g1c0176d.com^$all
 ||security-doge.com^$all
 ||see4ukm.bni-ecollection.com^$all
+||seerskol-site.preview-domain.com^$all
 ||seertikoler-xyz.preview-domain.com^$all
 ||seimor.website^$all
 ||sekcja590.rest^$all
@@ -20868,6 +20883,9 @@
 ||vinted-pl.bvvkkj12z1.com^$all
 ||vinted-pl.domoy-dost.com^$all
 ||vinted-pl.dost59495563.buzz^$all
+||vinted-pl.dostaw.buzz^$all
+||vinted-pl.dostaw.life^$all
+||vinted-pl.dostaw.xyz^$all
 ||vinted-pl.fast-d5863946.xyz^$all
 ||vinted-pl.fast-d5904573.shop^$all
 ||vinted-pl.fast-d69438967.click^$all
@@ -21892,6 +21910,7 @@
 ||xn--789-pkl3a7k8a6g9f.com^$all
 ||xn--999-dkl4k8g.com^$all
 ||xn--allegrolokalne-xlb.com^$all
+||xn--allegrolokaln-gp2g.com^$all
 ||xn--allgrolokaln-3d6fja.com^$all
 ||xn--allqrolokalnie-7z8g.com^$all
 ||xn--badrumsrenovering-gteborg-hsc.se^$all
