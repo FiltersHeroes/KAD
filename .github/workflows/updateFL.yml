@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:2.26.9-2
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Dodawanie nowości z CERT
         env:
           SKIP_OFFLINE: true
         run: |
           ./scripts/addNoveltiesFromCert.py
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: CERT
           path: |
@@ -25,11 +25,11 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:2.26.9-2
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Dodawanie nowości z LWS
         run: |
           ./scripts/ADD_NOVELTIES_FROM_LWS.sh
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: LWS
           path: sections/podejrzane_inne_oszustwa.txt
@@ -38,10 +38,10 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:2.26.9-2
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v3
         with:
           path: sections
       - name: Aktualizacja całej listy
