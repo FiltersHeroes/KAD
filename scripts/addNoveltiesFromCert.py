@@ -59,7 +59,7 @@ with open(CERT_path, "r", encoding='utf-8') as CERT, \
         f_out.write(str(line).encode())
     os.rename(f_out.name, CERT_path)
 
-offline_path = pj(main_path, "exclusions", "CERT_offline.txt")
+expired_path = pj(main_path, "exclusions", "CERT_expired.txt")
 
 differ = Differ()
 novelties = []
@@ -70,9 +70,9 @@ with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
             novelties.append(line.replace("+ ", ""))
 
 
-if os.path.isfile(offline_path):
+if os.path.isfile(expired_path):
     novelties_tmp = []
-    with open(offline_path, "r", encoding='utf-8') as offline_list:
+    with open(expired_path, "r", encoding='utf-8') as offline_list:
         for line in differ.compare(novelties, offline_list.readlines()):
             if line.startswith("-"):
                 if not "\n" in line:
@@ -100,8 +100,8 @@ if len(novelties_tmp) > 0:
 
 regex_list = []
 
-if os.path.isfile(offline_path):
-    with open(offline_path, "r", encoding='utf-8') as offline_list:
+if os.path.isfile(expired_path):
+    with open(expired_path, "r", encoding='utf-8') as offline_list:
         for line in offline_list:
             line = "^(.*\.)?" + re.escape(line.strip())+"$"
             regex_list.append(re.compile(line))
