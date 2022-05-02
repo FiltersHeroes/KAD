@@ -59,7 +59,7 @@ with open(CERT_path, "r", encoding='utf-8') as CERT, \
         f_out.write(str(line).encode())
     os.rename(f_out.name, CERT_path)
 
-offline_path = pj(script_path, "CERT_offline.txt")
+offline_path = pj(main_path, "exclusions", "CERT_offline.txt")
 
 differ = Differ()
 novelties = []
