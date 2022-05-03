@@ -6,7 +6,7 @@ jobs:
     working_directory: ~/git/KAD
     steps:
     - checkout
-    - run: ./scripts/addNoveltiesFromCert.py
+    - run: ./scripts/addNoveltiesFrom3p.py CERT
     - persist_to_workspace:
         root: ./
         paths:
@@ -17,7 +17,7 @@ jobs:
     working_directory: ~/git/KAD
     steps:
     - checkout
-    - run: ./scripts/ADD_NOVELTIES_FROM_LWS.sh
+    - run: ./scripts/addNoveltiesFrom3p.py LWS
     - persist_to_workspace:
         root: ./
         paths:

@@ -5,11 +5,13 @@
 # pylint: disable=missing-function-docstring
 
 import os
+import sys
 import shutil
 import re
 from tempfile import NamedTemporaryFile
 from difflib import Differ
-import requests
+from downloader import download
+from cleanup3p import cleanup3p
 
 pj = os.path.join
 pn = os.path.normpath
@@ -24,18 +26,22 @@ os.makedirs(temp_path)
 os.chdir(temp_path)
 
 
-def download(path, url):
-    response = requests.get(url, allow_redirects=True)
-    with open(path, "w", encoding='utf-8') as f:
-        f.write(response.text)
-
-
-CERT_path = "./CERTHole.temp"
+tp = sys.argv[1]
+tp_path = "./" + tp + ".txt"
 KADhosts_path = "./KADhosts.txt"
 
-download(CERT_path, "https://hole.cert.pl/domains/domains.txt")
 download(KADhosts_path,
          "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt")
+
+
+if tp == "CERT":
+    download(tp_path, "https://hole.cert.pl/domains/domains.txt")
+elif tp == "LWS":
+    import findSuspiciousDomains_LWS as findLWS
+    with open(tp_path, "w", encoding='utf-8') as tp_f:
+        for domain in findLWS.main():
+            tp_f.write(domain + "\n")
+
 
 with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
         NamedTemporaryFile(dir='.', delete=False) as f_out:
@@ -48,24 +54,15 @@ with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
         f_out.write(str(line+"\n").encode())
     os.rename(f_out.name, KADhosts_path)
 
-with open(CERT_path, "r", encoding='utf-8') as CERT, \
-        NamedTemporaryFile(dir='.', delete=False) as f_out:
-    lines = []
-    for line in CERT:
-        if not "\n" in line:
-            line = line + "\n"
-        lines.append(line.replace("www.", ""))
-    for line in sorted(set(lines)):
-        f_out.write(str(line).encode())
-    os.rename(f_out.name, CERT_path)
+cleanup3p(tp_path)
 
-expired_path = pj(main_path, "exclusions", "CERT_expired.txt")
+expired_path = pj(main_path, "exclusions", tp + "_expired.txt")
 
 differ = Differ()
 novelties = []
 with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
-        open(CERT_path, "r", encoding='utf-8') as CERT:
-    for line in differ.compare(KADhosts.readlines(), CERT.readlines()):
+        open(tp_path, "r", encoding='utf-8') as tp_f:
+    for line in differ.compare(KADhosts.readlines(), tp_f.readlines()):
         if line.startswith("+"):
             novelties.append(line.replace("+ ", ""))
 
@@ -83,7 +80,7 @@ if len(novelties_tmp) > 0:
     novelties = novelties_tmp
     novelties_tmp = []
 
-skip_path = pj(script_path, "CERT_skip.txt")
+skip_path = pj(script_path, tp + "_skip.txt")
 
 if os.path.isfile(skip_path):
     with open(skip_path, "r", encoding='utf-8') as skip_list:
@@ -112,9 +109,9 @@ if os.path.isfile(skip_path):
             line = "^(.*\.)?" + re.escape(line.strip())+"$"
             regex_list.append(re.compile(line))
 
-CERT_novelties_path = pj(main_path, "sections", "CERT_novelties.txt")
+tp_novelties_path = pj(main_path, "sections", tp + "_novelties.txt")
 
-with open(CERT_novelties_path, "w+", encoding='utf-8') as f_out:
+with open(tp_novelties_path, "w+", encoding='utf-8') as f_out:
     for entry in novelties:
         for regex in regex_list:
             entry = regex.sub(r'', entry)

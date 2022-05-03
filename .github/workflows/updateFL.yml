@@ -15,7 +15,7 @@ jobs:
         env:
           SKIP_OFFLINE: true
         run: |
-          ./scripts/addNoveltiesFromCert.py
+          ./scripts/addNoveltiesFrom3p.py CERT
       - uses: actions/upload-artifact@v3
         with:
           name: CERT
@@ -28,7 +28,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Dodawanie nowości z LWS
         run: |
-          ./scripts/ADD_NOVELTIES_FROM_LWS.sh
+          ./scripts/addNoveltiesFrom3p.py LWS
       - uses: actions/upload-artifact@v3
         with:
           name: LWS
