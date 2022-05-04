@@ -80,7 +80,7 @@ if len(novelties_tmp) > 0:
     novelties = novelties_tmp
     novelties_tmp = []
 
-skip_path = pj(script_path, tp + "_skip.txt")
+skip_path = pj(main_path, "exclusions", tp + "_skip.txt")
 
 if os.path.isfile(skip_path):
     with open(skip_path, "r", encoding='utf-8') as skip_list:
