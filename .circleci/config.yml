@@ -21,7 +21,7 @@ jobs:
     - persist_to_workspace:
         root: ./
         paths:
-          - sections/podejrzane_inne_oszustwa.txt
+          - sections/LWS_novelties.txt
   Aktualizacja:
     docker:
     - image: polishfiltersteam/kad_image:2.26.9-2

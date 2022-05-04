@@ -10,14 +10,13 @@ TEMP="$MAIN_PATH"/temp
 
 cd "$MAIN_PATH" || exit
 
-if [ -f "./sections/LWS/podejrzane_inne_oszustwa.txt" ]; then
-    rm -rf ./sections/podejrzane_inne_oszustwa.txt
-    mv ./sections/LWS/podejrzane_inne_oszustwa.txt ./sections/
+if [ -f "./sections/LWS/LWS_novelties.txt" ]; then
+    mv ./sections/LWS/LWS_novelties.txt ./sections/
 fi
 
-if [ -f "./sections/LWS/sections/podejrzane_inne_oszustwa.txt" ]; then
-    rm -rf ./sections/podejrzane_inne_oszustwa.txt
-    mv ./sections/LWS/sections/podejrzane_inne_oszustwa.txt ./sections/
+if [ -f "./sections/LWS/sections/LWS_novelties.txt" ]; then
+    rm -rf ./sections/LWS_novelties.txt
+    mv ./sections/LWS/sections/LWS_novelties.txt ./sections/
 fi
 
 if [ -f "./sections/CERT/CERT_novelties.txt" ]; then
@@ -33,6 +32,12 @@ if [ -f "./sections/CERT_novelties.txt" ]; then
     cat "./sections/przekrety.txt" "./sections/CERT_novelties.txt" >>"$MAIN_PATH"/sections/przekrety2.txt
     rm -rf "./sections/CERT_novelties.txt"
     mv "$MAIN_PATH"/sections/przekrety2.txt "./sections/przekrety.txt"
+fi
+
+if [ -f "./sections/LWS_novelties.txt" ]; then
+    cat "./sections/podejrzane_inne_oszustwa.txt" "./sections/LWS_novelties.txt" >>"$MAIN_PATH"/sections/podejrzane_inne_oszustwa2.txt
+    rm -rf "./sections/LWS_novelties.txt"
+    mv "$MAIN_PATH"/sections/podejrzane_inne_oszustwa2.txt "./sections/podejrzane_inne_oszustwa.txt"
 fi
 
 ost_plik=$(git diff --name-only --pretty=format: | sort | uniq)
@@ -56,9 +61,6 @@ if [[ -n $(search "sections/podejrzane_inne_oszustwa.txt") ]]; then
     git commit -m "Nowości z LWS"
 fi
 if [[ -n $(search "sections/przekrety.txt") ]]; then
-    if [[ -n $(search "scripts/CERT_offline.txt") ]]; then
-        git add "$SCRIPT_PATH"/CERT_offline.txt
-    fi
     git add "$MAIN_PATH"/sections/przekrety.txt
     git commit -m "Nowości z listy CERT"
     # Usuwamy domeny usunięte z CERT
@@ -87,10 +89,10 @@ VICHS.sh ./KAD.txt
 cd "$MAIN_PATH"/.. || exit
 
 if [[ "$CI" = "true" ]] && [[ -z "$CIRCLECI" ]]; then
-    git clone https://github.com/PolishFiltersTeam/KADhosts.git
+    git clone https://github.com/FiltersHeroes/KADhosts.git
 fi
 if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "true" ]]; then
-    git clone git@github.com:PolishFiltersTeam/KADhosts.git
+    git clone git@github.com:FiltersHeroes/KADhosts.git
 fi
 
 cd ./KADhosts || exit

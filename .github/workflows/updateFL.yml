@@ -32,7 +32,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: LWS
-          path: sections/podejrzane_inne_oszustwa.txt
+          path: sections/LWS_novelties.txt
   Aktualizacja:
     needs: [CERT, LWS]
     runs-on: ubuntu-latest
