@@ -12,7 +12,7 @@ def cleanup3p(tp_path):
         for line in tp_f:
             if not "\n" in line:
                 line = line + "\n"
-            lines.append(line.replace("www.", ""))
+            lines.append(line.replace("www.", "").lower())
         for line in sorted(set(lines)):
             f_out.write(str(line).encode())
         os.rename(f_out.name, tp_path)
