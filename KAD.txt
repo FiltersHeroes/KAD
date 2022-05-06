@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 06 May 2022, 14:39 UTC+02
-! Version: 2022.5.6.1
+! Last modified: Fri, 06 May 2022, 18:32 UTC+02
+! Version: 2022.5.6.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2862,6 +2862,7 @@
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0boronka.xyz^$all
+||0lx.70845.xyz^$all
 ||0lx.deliveryinform-user.xyz^$all
 ||0oooo.xyz^$all
 ||00ooo.xyz^$all
@@ -8905,6 +8906,7 @@
 ||fastshorka.info^$all
 ||fastteh.net^$all
 ||fasyin.site^$all
+||fatlyint.pl^$all
 ||faulall.pl^$all
 ||fauligenz.de^$all
 ||fau-syndikat.org^$all
@@ -9693,6 +9695,7 @@
 ||gologfbb.tcp4.me^$all
 ||golot.com.cn^$all
 ||golovne.xyz^$all
+||gomasil.xyz^$all
 ||gomaxits.com^$all
 ||gomboapp.com^$all
 ||gomobile24.net^$all
@@ -10818,6 +10821,7 @@
 ||inpostpl.pl-id047394651.top^$all
 ||inpostpl.pl-id0896180572.info^$all
 ||inpostpl.potwierdzenie-sp44zy.com^$all
+||inpostpl.przelew674935.life^$all
 ||inpostpl.rikod8gjjm.live^$all
 ||inpostpl.snas512.com^$all
 ||inpostpl.sprzedaz5719364.shop^$all
@@ -10881,6 +10885,7 @@
 ||inpost-gbjs.pl-id66424107.xyz^$all
 ||inpost-gdql.order131313.info^$all
 ||inpost-ghm.id-9467.com^$all
+||inpost-gpui.order12561361.info^$all
 ||inpost-g.id-3489.me^$all
 ||inpost-g.id-43980.me^$all
 ||inpost-g.id-59877.me^$all
@@ -11073,6 +11078,7 @@
 ||inpost-polska-ja.order1191966.info^$all
 ||inpost-polska-jbk.order1191966.info^$all
 ||inpost-polska-jg.order9351.info^$all
+||inpost-polska-ji.order12561361.info^$all
 ||inpost-polska-jmq.orders993.info^$all
 ||inpost-polska-jmz.order1191966.info^$all
 ||inpost-polska-jsl.order9351.info^$all
@@ -11199,6 +11205,7 @@
 ||inpost-zbkv.order9351.info^$all
 ||inpost-zpiu.order161516.info^$all
 ||inpost-zpnq.order161516.info^$all
+||inpost-zukf.order12561361.info^$all
 ||inpost.08124.xyz^$all
 ||inpost.47464.pw^$all
 ||inpost.642649.top^$all
@@ -15702,6 +15709,7 @@
 ||onlinehd.pl^$all
 ||onlinekino.pl^$all
 ||onlineluck.net^$all
+||onlinenews32.com^$all
 ||onlineparibas.us^$all
 ||onlineparibas.xyz^$all
 ||onlineplcenter.site^$all
@@ -17723,6 +17731,7 @@
 ||polska-lnpost.id7458697.space^$all
 ||polska-lnpost.id7459645.xyz^$all
 ||polska-lnpost.id-515561.pw^$all
+||polska-lnpost.id-834691.fun^$all
 ||polska-lnpost.id-854656.xyz^$all
 ||polska-lnpost.id-5748966.space^$all
 ||polska-lnpost.order-id453758.xyz^$all
@@ -19316,6 +19325,7 @@
 ||scrubhayana.com^$all
 ||sculptureco.com.au^$all
 ||sc-tradingco.com^$all
+||sdevy.com^$all
 ||sdkm.gr^$all
 ||sdorliner.com^$all
 ||sds-ksa.net^$all
@@ -19731,6 +19741,7 @@
 ||sim.nisst.xyz^$all
 ||sim.posst.xyz^$all
 ||sinedso-market.biz^$all
+||sinhok.trade^$all
 ||siocursilinkmanli.ml^$all
 ||sipenaccessories.com^$all
 ||sipentechadmin.com^$all
@@ -21936,6 +21947,8 @@
 ||vinted-pl.potwierdzenie-sp44zy.com^$all
 ||vinted-pl.przelew476942.top^$all
 ||vinted-pl.przelew569742.shop^$all
+||vinted-pl.przelew4874962.club^$all
+||vinted-pl.przelew6974265.club^$all
 ||vinted-pl.sprzedaz6579364.top^$all
 ||vinted-pl.sprzedaz6613794.life^$all
 ||vinted-pl.sprzedaz7569437.club^$all
@@ -21954,6 +21967,7 @@
 ||vinted.vip^$all
 ||violaosempestana.com^$all
 ||violentisochronally.xyz^$all
+||vionser-xyz.preview-domain.com^$all
 ||vipaudience.kinsta.cloud^$all
 ||vipshorka.info^$all
 ||vip.capital-service.info^$all
