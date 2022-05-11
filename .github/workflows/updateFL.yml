@@ -36,6 +36,8 @@ jobs:
   Aktualizacja:
     needs: [CERT, LWS]
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     container: ghcr.io/filtersheroes/kad_image:2.26.9-2
     steps:
       - uses: actions/checkout@v3
