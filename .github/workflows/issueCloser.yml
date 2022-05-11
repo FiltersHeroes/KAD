@@ -7,8 +7,10 @@ jobs:
   letsgo:
     if: github.event.label.name == 'zatwierdzone' || github.event.label.name == 'odrzucone' || github.event.label.name == 'dawno zrobione'
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
-      - uses: actions/github-script@v5
+      - uses: actions/github-script@v6
         with:
           script: |
               github.rest.issues.update({
