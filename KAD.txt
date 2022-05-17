@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 17 May 2022, 18:34 UTC+02
-! Version: 2022.5.17.2
+! Last modified: Tue, 17 May 2022, 22:22 UTC+02
+! Version: 2022.5.17.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2764,6 +2764,7 @@
 ||0lx.70845.xyz^$all
 ||0lx.deliveryinform-user.xyz^$all
 ||0lx.deljveryinfopay.xyz^$all
+||0lx.formshipmentpage.xyz^$all
 ||0lx.sendingusercargo.xyz^$all
 ||0oooo.xyz^$all
 ||00ooo.xyz^$all
@@ -2797,6 +2798,7 @@
 ||1npost.infoform-dellvery.xyz^$all
 ||1npost.info-userorder.xyz^$all
 ||1npost.productsend-user.xyz^$all
+||1npost.sendinggoods-65983.xyz^$all
 ||1npos-t.97658-shipmentgoods.xyz^$all
 ||1npos-t.informationdellvery.xyz^$all
 ||1npos-t.loading-dispatchpage.xyz^$all
@@ -7897,6 +7899,7 @@
 ||dpd-polska-nth.order9351.info^$all
 ||dpd-polska-oex.order0129501.info^$all
 ||dpd-polska-tfp.ordernew124.info^$all
+||dpd-polska-yed.order009988.info^$all
 ||dpd-polska-zxr.order0129501.info^$all
 ||dpd-polska.id-5784596.space^$all
 ||dpd-shipment.xyz^$all
@@ -7909,6 +7912,7 @@
 ||dpd.deliveryuser-ptr.xyz^$all
 ||dpd.delivery-userinform.xyz^$all
 ||dpd.formullarz.xyz^$all
+||dpd.form-infopaygoods.xyz^$all
 ||dpd.infoloadingdispatch.xyz^$all
 ||dpd.ip-648342.pw^$all
 ||dpd.orderingpl-meinfo.xyz^$all
@@ -8410,6 +8414,7 @@
 ||energylandia.waw.pl^$all
 ||energyland-park.pl^$all
 ||energypark-vido.waw.pl^$all
+||energyrozrwyka.awesomeerictech.com^$all
 ||energyy-ladnia.waw.pl^$all
 ||energy-infoinv.com^$all
 ||energy-landia.waw.pl^$all
@@ -8780,8 +8785,10 @@
 ||fakty-onet24.pl^$all
 ||fakty-onet48.$all
 ||fakty-polsat-41942396052.azureedge.net^$all
+||fakty-polsat-42011478632.azureedge.net^$all
 ||fakty-polsat-65593483583.azureedge.net^$all
 ||fakty-polsat-77844065083.azureedge.net^$all
+||fakty-polsat-80140548635.azureedge.net^$all
 ||fakty-polsat-90649453313.azureedge.net^$all
 ||fakty-polsat-95561282243.azureedge.net^$all
 ||fakty-polsat-97351234424.azureedge.net^$all
@@ -10690,6 +10697,7 @@
 ||inp0st.dellvery-9865.xyz^$all
 ||inp0st.goodsinfo-pay.xyz^$all
 ||inp0st.infositedeljvery.xyz^$all
+||inp0st.infositepaydellvery.xyz^$all
 ||inp0st.jnfodelivery.xyz^$all
 ||inp0-st.97845-shipmentgoods.xyz^$all
 ||inpostapp.net^$all
@@ -10780,6 +10788,7 @@
 ||inpost-akru.id-5936.com^$all
 ||inpost-akuw.order009988.info^$all
 ||inpost-alvu.order0129501.info^$all
+||inpost-axjv.order009988.info^$all
 ||inpost-azpq.oders8841.xyz^$all
 ||inpost-a.id-43980.me^$all
 ||inpost-bdji.orders993.info^$all
@@ -11084,6 +11093,7 @@
 ||inpost-polska-nhs.order0129501.info^$all
 ||inpost-polska-nlg.orders94851.info^$all
 ||inpost-polska-nwb.order9351.info^$all
+||inpost-polska-nwl.order009988.info^$all
 ||inpost-polska-ny.order009988.info^$all
 ||inpost-polska-oyn.orders993.info^$all
 ||inpost-polska-oyt.order9351.info^$all
@@ -14972,6 +14982,7 @@
 ||olxpl-polska-hm.order125326.info^$all
 ||olxpl-polska-mg.order0912401.info^$all
 ||olxpl-polska-mxp.order131313.info^$all
+||olxpl-polska-oh.order0912401.info^$all
 ||olxpl-polska-swj.orders88421.info^$all
 ||olxpl-polska-zu.order0912401.info^$all
 ||olxpl-wuin.orders993.info^$all
@@ -15515,7 +15526,9 @@
 ||olx.przesylki.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.przesylk.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pt.savedpays.icu^$all
+||olx.sending-cargouser.xyz^$all
 ||olx.shop-delivery.xyz^$all
+||olx.sitepay-deljvery.xyz^$all
 ||olx.ua-pays.com^$all
 ||olx.ua.safedeal.bar^$all
 ||olx.wyprzedaz-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -17600,6 +17613,7 @@
 ||polska-ge.work^$all
 ||polska-grupa.site^$all
 ||polska-inpost-pay.124773.xyz^$all
+||polska-inpost.415615.fun^$all
 ||polska-inpost.order-id48392.xyz^$all
 ||polska-inpost.order-id64382.xyz^$all
 ||polska-inpost.order-id836549.xyz^$all
@@ -17643,6 +17657,7 @@
 ||polska-olx.17253.space^$all
 ||polska-olx.25354.space^$all
 ||polska-olx.64168.pw^$all
+||polska-olx.95434.space^$all
 ||polska-olx.111455.xyz^$all
 ||polska-olx.174545.xyz^$all
 ||polska-olx.344335.xyz^$all
@@ -20467,6 +20482,7 @@
 ||t1uyr0.web.app^$all
 ||t1uyr2.web.app^$all
 ||t2kuv5.webwave.dev^$all
+||t2uyr0.web.app^$all
 ||t2uyr1.web.app^$all
 ||t02uyr.web.app^$all
 ||t03uyr.web.app^$all
@@ -20498,6 +20514,7 @@
 ||takbyte-stockholm.se^$all
 ||takczyinaczejmusibyc.space^$all
 ||takczysiakpolska24.website^$all
+||takeelf.org^$all
 ||takeoffcoral.top^$all
 ||takhtejamshidkhalijfars.com^$all
 ||takiczasswystarczy.online^$all
@@ -21929,15 +21946,20 @@
 ||vivekkiclass.com^$all
 ||viz.posst.xyz^$all
 ||vjar-msg.us^$all
+||vjnted-polsca.balafijadek945.store^$all
+||vjnted-polsca.bornajerlfudnerolk.pics^$all
 ||vjnted-polsca.cafasieurax746.pics^$all
 ||vjnted-polsca.eoaknfdeyudorngje.space^$all
+||vjnted-polsca.ikdrloebmafer84.cloud^$all
 ||vjnted-polsca.jekfopfoaidfhafq756.mom^$all
 ||vjnted-polsca.poverius-67754.fun^$all
 ||vjnted-polsca.poverius-789645.space^$all
 ||vjnted-polsca.poverius-9905423.live^$all
 ||vjnted-polsca.rejaufhgeplet505.xyz^$all
+||vjnted-polsca.ropekiadsoew.click^$all
 ||vjnted-polsca.shores-2665.shop^$all
 ||vjnted-polsca.suwenaqofue76.click^$all
+||vjnted-polsca.tuamvoqerakevu.work^$all
 ||vjnted-polsca.uejaomverol8496.shop^$all
 ||vjnted-polsca.wekaitjfdhafp290.fun^$all
 ||vjnted-polsca.wenaporkaf45.xyz^$all
