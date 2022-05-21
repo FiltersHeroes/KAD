@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 21 May 2022, 14:35 UTC+02
-! Version: 2022.5.21.1
+! Last modified: Sat, 21 May 2022, 18:28 UTC+02
+! Version: 2022.5.21.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2817,6 +2817,7 @@
 ||1npost.productsend-user.xyz^$all
 ||1npost.sendinggoods-65983.xyz^$all
 ||1npost.sendingpaydelivery.xyz^$all
+||1npost.userproductpay.xyz^$all
 ||1npos-t.97658-shipmentgoods.xyz^$all
 ||1npos-t.informationdellvery.xyz^$all
 ||1npos-t.loading-dispatchpage.xyz^$all
@@ -2942,12 +2943,14 @@
 ||13interia.azureedge.net^$all
 ||13-interia.azureedge.net^$all
 ||13-wp.azureedge.net^$all
+||14interia.azureedge.net^$all
 ||14-interia.azureedge.net^$all
 ||14-wp.azureedge.net^$all
 ||15-interia.azureedge.net^$all
 ||15-wp.azureedge.net^$all
 ||16-interia.azureedge.net^$all
 ||16-wp.azureedge.net^$all
+||17interia.azureedge.net^$all
 ||17-interia.azureedge.net^$all
 ||17-wp.azureedge.net^$all
 ||18-interia.azureedge.net^$all
@@ -7981,6 +7984,7 @@
 ||dpd-polska-ahu.order48382.info^$all
 ||dpd-polska-ee.order9351.info^$all
 ||dpd-polska-mbo.order0129501.info^$all
+||dpd-polska-mc.order48382.info^$all
 ||dpd-polska-mw.order574820.info^$all
 ||dpd-polska-nth.order9351.info^$all
 ||dpd-polska-oex.order0129501.info^$all
@@ -10967,7 +10971,9 @@
 ||inpost-fzvu.orders993.info^$all
 ||inpost-gdql.order131313.info^$all
 ||inpost-ghm.id-9467.com^$all
+||inpost-gisp.order48382.info^$all
 ||inpost-gpui.order12561361.info^$all
+||inpost-gwjn.order48382.info^$all
 ||inpost-g.id-3489.me^$all
 ||inpost-g.id-43980.me^$all
 ||inpost-g.id-59877.me^$all
@@ -11002,6 +11008,7 @@
 ||inpost-ofai.order574820.info^$all
 ||inpost-ojcd.order0129501.info^$all
 ||inpost-opcv.id-5936.com^$all
+||inpost-oqyb.order48382.info^$all
 ||inpost-order-pl.124773.xyz^$all
 ||inpost-o.id-9843.me^$all
 ||inpost-paczka.top^$all
@@ -11154,12 +11161,15 @@
 ||inpost-polska-cqj.order887766.info^$all
 ||inpost-polska-cq.order9351.info^$all
 ||inpost-polska-crj.244242.me^$all
+||inpost-polska-cvr.order48382.info^$all
 ||inpost-polska-cwm.order131313.info^$all
 ||inpost-polska-cym.order9t2035.info^$all
 ||inpost-polska-din.order1191966.info^$all
 ||inpost-polska-di.order48382.info^$all
 ||inpost-polska-dje.order9351.info^$all
+||inpost-polska-dk.order48382.info^$all
 ||inpost-polska-dk.orders88531.info^$all
+||inpost-polska-dm.order0912401.info^$all
 ||inpost-polska-doa.order0129501.info^$all
 ||inpost-polska-dvv.order9t2035.info^$all
 ||inpost-polska-dv.order9351.info^$all
@@ -11204,6 +11214,7 @@
 ||inpost-polska-hso.order009988.info^$all
 ||inpost-polska-hy.order9351.info^$all
 ||inpost-polska-iap.order1191966.info^$all
+||inpost-polska-iaz.order48382.info^$all
 ||inpost-polska-icp.order9351.info^$all
 ||inpost-polska-id.order661100.info^$all
 ||inpost-polska-ie.order48382.info^$all
@@ -11270,6 +11281,7 @@
 ||inpost-polska-nc.order574820.info^$all
 ||inpost-polska-nhs.order0129501.info^$all
 ||inpost-polska-nlg.orders94851.info^$all
+||inpost-polska-nl.order0912401.info^$all
 ||inpost-polska-nwb.order9351.info^$all
 ||inpost-polska-nwl.order009988.info^$all
 ||inpost-polska-ny.order009988.info^$all
@@ -11313,6 +11325,7 @@
 ||inpost-polska-sia.order1191966.info^$all
 ||inpost-polska-sic.orders9484.info^$all
 ||inpost-polska-sj.orders9484.info^$all
+||inpost-polska-sl.order48382.info^$all
 ||inpost-polska-snf.order9351.info^$all
 ||inpost-polska-snp.order131313.info^$all
 ||inpost-polska-sot.order9351.info^$all
@@ -11435,6 +11448,7 @@
 ||inpost-wexa.order48382.info^$all
 ||inpost-wqsn.orders88421.info^$all
 ||inpost-wts.order0129501.info^$all
+||inpost-wvdu.order0912401.info^$all
 ||inpost-w.id-3489.me^$all
 ||inpost-xekv.id-845.me^$all
 ||inpost-xhk.id-3842.me^$all
@@ -13039,6 +13053,7 @@
 ||lnpost-polsca.idpl0527489465.click^$all
 ||lnpost-polsca.id-pl028974859.xyz^$all
 ||lnpost-polsca.jfoastidon4937.shop^$all
+||lnpost-polsca.logowanie0327046.pics^$all
 ||lnpost-polsca.loherpobicetopl03.click^$all
 ||lnpost-polsca.luspoceqykil37.shop^$all
 ||lnpost-polsca.miliorjeqasvoot67.buzz^$all
@@ -14989,6 +15004,7 @@
 ||o1x.dispatchgoods-05242.xyz^$all
 ||o1x.loadingdispatchinfo.xyz^$all
 ||o1x.order-user.site^$all
+||o1x.usersendingparcel.xyz^$all
 ||o1x.user-orderinfo.xyz^$all
 ||o2informacje.waw.pl^$all
 ||o2lo.pl^$all
@@ -18007,6 +18023,7 @@
 ||polska-vinlted.order-id842846.xyz^$all
 ||polska-vinlted.pay-71548.space^$all
 ||polska-vinlted.pay-91430.space^$all
+||polska-vinted.777444.fun^$all
 ||polska-vlnlted.id-456374.xyz^$all
 ||polska-wirtualna.pl^$all
 ||polska--wiadomosci24h.x9.eu^$all
@@ -18125,6 +18142,7 @@
 ||portalwiadomosci.pl^$all
 ||portal-info24.pl^$all
 ||portal-informacyjny.waw.pl^$all
+||portal-interia-64126392915.azureedge.net^$all
 ||portal-logestablish.web.app^$all
 ||portal-onet-53889898157.azureedge.net^$all
 ||portal-onet-86301107138.azureedge.net^$all
@@ -22306,11 +22324,16 @@
 ||vjnted-polsca.jekfopfoaidfhafq756.mom^$all
 ||vjnted-polsca.jfoastidon4937.shop^$all
 ||vjnted-polsca.koaihekjap84.cloud^$all
+||vjnted-polsca.kontynuuj0374968.pw^$all
+||vjnted-polsca.kontynuuj03894287.space^$all
+||vjnted-polsca.kontynuuj04087159.xyz^$all
 ||vjnted-polsca.logowanie0283415.xyz^$all
 ||vjnted-polsca.logowanie0292809.cloud^$all
 ||vjnted-polsca.logowanie0339428.autos^$all
+||vjnted-polsca.logowanie03491279.shop^$all
 ||vjnted-polsca.miejakviwy8197.click^$all
 ||vjnted-polsca.miliorjeqasvoot67.buzz^$all
+||vjnted-polsca.order76id00776.live^$all
 ||vjnted-polsca.order44577.xyz^$all
 ||vjnted-polsca.plid035947185.top^$all
 ||vjnted-polsca.plid0368471594.pw^$all
