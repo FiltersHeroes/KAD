@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 21 May 2022, 10:26 UTC+02
-! Version: 2022.5.21.0
+! Last modified: Sat, 21 May 2022, 14:35 UTC+02
+! Version: 2022.5.21.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7978,6 +7978,7 @@
 ||dpd-pl.przelew-standart.work^$all
 ||dpd-pl.safe-pay.site^$all
 ||dpd-pl.srodkido-odebraniatu.xyz^$all
+||dpd-polska-ahu.order48382.info^$all
 ||dpd-polska-ee.order9351.info^$all
 ||dpd-polska-mbo.order0129501.info^$all
 ||dpd-polska-mw.order574820.info^$all
@@ -10478,6 +10479,7 @@
 ||impost.dellveryinfoform.xyz^$all
 ||impost.dellveryuser-65986.xyz^$all
 ||impost.dellvery-45812.xyz^$all
+||impost.payuser-product.xyz^$all
 ||impost.sendingparcel-user.xyz^$all
 ||impost.shipmentgoodsuser.xyz^$all
 ||impresza.pl^$all
@@ -10837,6 +10839,7 @@
 ||inovationproject55.tech^$all
 ||inp0st-datautilization.xyz^$all
 ||inp0st.845-infodelivery.xyz^$all
+||inp0st.5481024.xyz^$all
 ||inp0st.dellvery-9865.xyz^$all
 ||inp0st.goodsinfo-pay.xyz^$all
 ||inp0st.infositedeljvery.xyz^$all
@@ -11154,6 +11157,7 @@
 ||inpost-polska-cwm.order131313.info^$all
 ||inpost-polska-cym.order9t2035.info^$all
 ||inpost-polska-din.order1191966.info^$all
+||inpost-polska-di.order48382.info^$all
 ||inpost-polska-dje.order9351.info^$all
 ||inpost-polska-dk.orders88531.info^$all
 ||inpost-polska-doa.order0129501.info^$all
@@ -11187,6 +11191,7 @@
 ||inpost-polska-gi.order574820.info^$all
 ||inpost-polska-gk.order8851.me^$all
 ||inpost-polska-gr.order161516.info^$all
+||inpost-polska-gvs.order48382.info^$all
 ||inpost-polska-gxx.order1191966.info^$all
 ||inpost-polska-gyu.order0129501.info^$all
 ||inpost-polska-hct.order887766.info^$all
@@ -11203,6 +11208,7 @@
 ||inpost-polska-id.order661100.info^$all
 ||inpost-polska-ie.order48382.info^$all
 ||inpost-polska-ihf.order0129501.info^$all
+||inpost-polska-ihx.order48382.info^$all
 ||inpost-polska-ika.order009988.info^$all
 ||inpost-polska-ip.order9t2035.info^$all
 ||inpost-polska-iql.order9351.info^$all
@@ -11220,6 +11226,7 @@
 ||inpost-polska-jmq.orders993.info^$all
 ||inpost-polska-jmz.order1191966.info^$all
 ||inpost-polska-jpo.order48382.info^$all
+||inpost-polska-jse.order48382.info^$all
 ||inpost-polska-jsl.order9351.info^$all
 ||inpost-polska-jtn.order9351.info^$all
 ||inpost-polska-jyt.order48382.info^$all
@@ -11231,6 +11238,7 @@
 ||inpost-polska-kj.orders993.info^$all
 ||inpost-polska-kkg.order131313.info^$all
 ||inpost-polska-kl.order48382.info^$all
+||inpost-polska-kp.order48382.info^$all
 ||inpost-polska-kvh.orders88421.info^$all
 ||inpost-polska-kvr.order9351.info^$all
 ||inpost-polska-ky.order0129501.info^$all
@@ -11320,6 +11328,7 @@
 ||inpost-polska-tnd.order48382.info^$all
 ||inpost-polska-tv.order9351.info^$all
 ||inpost-polska-txv.order574820.info^$all
+||inpost-polska-ubd.order48382.info^$all
 ||inpost-polska-ue.orders0094.info^$all
 ||inpost-polska-umt.order009988.info^$all
 ||inpost-polska-uqc.order48382.info^$all
@@ -11328,8 +11337,10 @@
 ||inpost-polska-uye.order0129501.info^$all
 ||inpost-polska-uz.order9351.info^$all
 ||inpost-polska-vgn.order9351.info^$all
+||inpost-polska-vgz.order48382.info^$all
 ||inpost-polska-vkc.order9t2035.info^$all
 ||inpost-polska-vk.order9351.info^$all
+||inpost-polska-vp.order48382.info^$all
 ||inpost-polska-vv.order125326.info^$all
 ||inpost-polska-vw.order9351.info^$all
 ||inpost-polska-wfa.order12561361.info^$all
@@ -11393,6 +11404,7 @@
 ||inpost-qrvk.order009988.info^$all
 ||inpost-qyp.id-9467.com^$all
 ||inpost-q.id-9431.me^$all
+||inpost-rbgl.order48382.info^$all
 ||inpost-rdhx.order009988.info^$all
 ||inpost-rfpz.order574820.info^$all
 ||inpost-rghl.2584902.me^$all
@@ -11412,6 +11424,7 @@
 ||inpost-ttxo.order48382.info^$all
 ||inpost-tumi.order0912401.info^$all
 ||inpost-tyda.order0912401.info^$all
+||inpost-ujzs.order48382.info^$all
 ||inpost-upmo.order0129501.info^$all
 ||inpost-ustg.order121212.info^$all
 ||inpost-u.id-3828883.me^$all
@@ -11432,6 +11445,7 @@
 ||inpost-xrze.order125326.info^$all
 ||inpost-xuih.order887766.info^$all
 ||inpost-x.id-43895.me^$all
+||inpost-yszk.order48382.info^$all
 ||inpost-zamowienie.pl^$all
 ||inpost-zapz.order0912401.info^$all
 ||inpost-zbkv.order9351.info^$all
@@ -15089,7 +15103,9 @@
 ||oferta-132.order125326.info^$all
 ||oferta-135.order0129501.info^$all
 ||oferta-158.order9351.info^$all
+||oferta-202.order48382.info^$all
 ||oferta-243.order9t2035.info^$all
+||oferta-246.order48382.info^$all
 ||oferta-249.order887766.info^$all
 ||oferta-miesiaca.link^$all
 ||oferta-orlen.club^$all
@@ -16009,6 +16025,7 @@
 ||order0129501.info^$all
 ||order161516.info^$all
 ||order548920.info^$all
+||order662299.info^$all
 ||order1209501.info^$all
 ||order01295401.info^$all
 ||orderbingoo.com^$all
@@ -22290,6 +22307,8 @@
 ||vjnted-polsca.jfoastidon4937.shop^$all
 ||vjnted-polsca.koaihekjap84.cloud^$all
 ||vjnted-polsca.logowanie0283415.xyz^$all
+||vjnted-polsca.logowanie0292809.cloud^$all
+||vjnted-polsca.logowanie0339428.autos^$all
 ||vjnted-polsca.miejakviwy8197.click^$all
 ||vjnted-polsca.miliorjeqasvoot67.buzz^$all
 ||vjnted-polsca.order44577.xyz^$all
