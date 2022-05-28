@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 28 May 2022, 14:35 UTC+02
-! Version: 2022.5.28.1
+! Last modified: Sat, 28 May 2022, 18:31 UTC+02
+! Version: 2022.5.28.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3601,6 +3601,7 @@
 ||allegrolokalnie-pl.payregisway.pw^$all
 ||allegrolokalnie-pl.$all,domain=~translate.goog|~translate.google.*
 ||allegrolokalnie-polska.pay-id76664.top^$all
+||allegrolokalnie.76412.xyz^$all
 ||allegrolokalnie.398543.pw^$all
 ||allegrolokalnie.com.de^$all
 ||allegrolokalnie.com.ru^$all
@@ -11101,6 +11102,7 @@
 ||inpost-gdql.order131313.info^$all
 ||inpost-ghm.id-9467.com^$all
 ||inpost-gisp.order48382.info^$all
+||inpost-gott.order0912401.info^$all
 ||inpost-gpui.order12561361.info^$all
 ||inpost-grep.order9512951.info^$all
 ||inpost-gwjn.order48382.info^$all
@@ -11148,6 +11150,7 @@
 ||inpost-opcv.id-5936.com^$all
 ||inpost-oqyb.order48382.info^$all
 ||inpost-order-pl.124773.xyz^$all
+||inpost-ouak.order0912401.info^$all
 ||inpost-o.id-9843.me^$all
 ||inpost-paczka.top^$all
 ||inpost-paydellvery.xyz^$all
@@ -11518,6 +11521,7 @@
 ||inpost-polska-sr.order692612.info^$all
 ||inpost-polska-std.orders94851.info^$all
 ||inpost-polska-suc.order0129501.info^$all
+||inpost-polska-sv.order9512951.info^$all
 ||inpost-polska-sxu.order912412.info^$all
 ||inpost-polska-sys.order9351.info^$all
 ||inpost-polska-sy.order48382.info^$all
@@ -11642,6 +11646,7 @@
 ||inpost-ttxo.order48382.info^$all
 ||inpost-tumi.order0912401.info^$all
 ||inpost-tyda.order0912401.info^$all
+||inpost-udjw.order3590423.info^$all
 ||inpost-udrk.order912412.info^$all
 ||inpost-ujzs.order48382.info^$all
 ||inpost-upmo.order0129501.info^$all
@@ -11701,6 +11706,7 @@
 ||inpost.id4756483.me^$all
 ||inpost.id-track-pl32157819.xyz^$all
 ||inpost.id-track-pl43582364.xyz^$all
+||inpost.ilfool.org^$all
 ||inpost.jnfosending-product.xyz^$all
 ||inpost.klbox.org^$all
 ||inpost.link^$all
@@ -14223,6 +14229,7 @@
 ||mojapaczka-inpost.id-pl057184396.cloud^$all
 ||mojapaczka-inpost.kontynuowac682476.buzz^$all
 ||mojapaczka-inpost.mojid0634972.click^$all
+||mojapaczka-inpost.mojid01748694.xyz^$all
 ||mojapaczka-inpost.mojid03481596.pics^$all
 ||mojapaczka-inpost.mojid04782943.shop^$all
 ||mojapaczka-inpost.plid27187394.xyz^$all
@@ -18128,6 +18135,7 @@
 ||polska-vinted.777444.fun^$all
 ||polska-vinted.id-2866596.fun^$all
 ||polska-vlnlted.id-456374.xyz^$all
+||polska-vlnted.344657.com^$all
 ||polska-wirtualna.pl^$all
 ||polska--wiadomosci24h.x9.eu^$all
 ||polska.unface.icu^$all
@@ -22531,6 +22539,7 @@
 ||vlnted-es.63442.space^$all
 ||vlnted-paydelivery.xyz^$all
 ||vlnted-payout.xyz^$all
+||vlnted-polska.344657.com^$all
 ||vlnted.inf0-goodssending.xyz^$all
 ||vlnted.infocargo-dispatch.xyz^$all
 ||vlnted.infodelivery-user.site^$all
