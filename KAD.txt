@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 28 May 2022, 10:27 UTC+02
-! Version: 2022.5.28.0
+! Last modified: Sat, 28 May 2022, 14:35 UTC+02
+! Version: 2022.5.28.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2775,6 +2775,7 @@
 ||0lx.70845.xyz^$all
 ||0lx.deliveryinform-user.xyz^$all
 ||0lx.deljveryinfopay.xyz^$all
+||0lx.formpaydispatchcargo.xyz^$all
 ||0lx.formshipmentpage.xyz^$all
 ||0lx.productsiteuser.xyz^$all
 ||0lx.sendingusercargo.xyz^$all
@@ -4964,6 +4965,7 @@
 ||carduz.xyz^$all
 ||carefreeazbeekeepers.com^$all
 ||carefulnes.pl^$all
+||cargopaysite-inpost.xyz^$all
 ||cargoshipmentinfo.xyz^$all
 ||cargo-sendingpage.xyz^$all
 ||carhopjeyo.com^$all
@@ -7999,6 +8001,7 @@
 ||dpd-com.umowa-p.site^$all
 ||dpd-hotn.order0912401.info^$all
 ||dpd-hroz.id86-92.me^$all
+||dpd-infodelivery.xyz^$all
 ||dpd-info.info^$all
 ||dpd-jwez.id-info004.me^$all
 ||dpd-lnfodelibery.site^$all
@@ -11136,6 +11139,7 @@
 ||inpost-ndpm.orders091.info^$all
 ||inpost-nlgo.order692612.info^$all
 ||inpost-noop.order4939292.me^$all
+||inpost-nsue.order9512951.info^$all
 ||inpost-nvtj.order9512951.info^$all
 ||inpost-nwyr.order125326.info^$all
 ||inpost-nyfh.id-9467.com^$all
@@ -11368,6 +11372,7 @@
 ||inpost-polska-hr.order9351.info^$all
 ||inpost-polska-hso.order009988.info^$all
 ||inpost-polska-hy.order9351.info^$all
+||inpost-polska-hzm.order9512951.info^$all
 ||inpost-polska-iap.order1191966.info^$all
 ||inpost-polska-iaz.order48382.info^$all
 ||inpost-polska-icp.order9351.info^$all
@@ -11398,6 +11403,7 @@
 ||inpost-polska-jse.order48382.info^$all
 ||inpost-polska-jsl.order9351.info^$all
 ||inpost-polska-jtn.order9351.info^$all
+||inpost-polska-juf.order9512951.info^$all
 ||inpost-polska-jxw.order692612.info^$all
 ||inpost-polska-jyt.order48382.info^$all
 ||inpost-polska-jy.order161516.info^$all
@@ -11573,6 +11579,7 @@
 ||inpost-polska-yem.orders0094.info^$all
 ||inpost-polska-ygl.order912412.info^$all
 ||inpost-polska-yi.order0129501.info^$all
+||inpost-polska-yma.order9512951.info^$all
 ||inpost-polska-yoz.order1191966.info^$all
 ||inpost-polska-ypu.order48382.info^$all
 ||inpost-polska-yqd.order574820.info^$all
@@ -14215,6 +14222,9 @@
 ||mojapaczka-dpd.pl-id07495154.buzz^$all
 ||mojapaczka-inpost.id-pl057184396.cloud^$all
 ||mojapaczka-inpost.kontynuowac682476.buzz^$all
+||mojapaczka-inpost.mojid0634972.click^$all
+||mojapaczka-inpost.mojid03481596.pics^$all
+||mojapaczka-inpost.mojid04782943.shop^$all
 ||mojapaczka-inpost.plid27187394.xyz^$all
 ||mojapaczka-inpost.plid179483265.click^$all
 ||mojapaczka-inpost.plid274849365.shop^$all
@@ -17332,6 +17342,7 @@
 ||pivotfirm.co^$all
 ||piwearskegpulpsurhuu.tk^$all
 ||pixelgame.pl^$all
+||pi-0ix.track54375.xyz^$all
 ||pj-prow.web.app^$all
 ||pkbox.org^$all
 ||pknlpl.com^$all
