@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 02 Jun 2022, 10:27 UTC+02
-! Version: 2022.6.2.1
+! Last modified: Thu, 02 Jun 2022, 14:45 UTC+02
+! Version: 2022.6.2.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2824,6 +2824,7 @@
 ||1npost.productsend-user.xyz^$all
 ||1npost.sendinggoods-65983.xyz^$all
 ||1npost.sendingpaydelivery.xyz^$all
+||1npost.shipmentgoods-pay.xyz^$all
 ||1npost.userproductpay.xyz^$all
 ||1npos-t.97658-shipmentgoods.xyz^$all
 ||1npos-t.informationdellvery.xyz^$all
@@ -3347,6 +3348,9 @@
 ||accumulateuio.online^$all
 ||acc-2209.xyz^$all
 ||acc-update.netafuxu.club^$all
+||acc.eligibility.2dadc428c7a061f729458acc01304c8f.ml^$all
+||acc.eligibility.565ceeedeaf636bc00b97844fbf986d9.ml^$all
+||acc.eligibility.d95679752134a2d9eb61dbd7b91c4bcc.ml^$all
 ||acc.eligibility.perlointer.gq^$all
 ||acdpedia.com^$all
 ||aceplusactivation.com^$all
@@ -10040,6 +10044,7 @@
 ||gurphil.com^$all
 ||gurunanaks.com^$all
 ||gur.ralt.site^$all
+||gussan.pl^$all
 ||gustavotenorio.com^$all
 ||gutagony.top^$all
 ||gutfilm.pl^$all
@@ -10238,6 +10243,7 @@
 ||help-icloud.co^$all
 ||help.pirgolik.cf^$all
 ||help.progsecures.com^$all
+||help.wenlortemon.gq^$all
 ||helsoar.com^$all
 ||hematosisessentialized.com^$all
 ||hemipterequippers.xyz^$all
@@ -10622,6 +10628,7 @@
 ||infbiztr.xyz^$all
 ||infinity4x.io^$all
 ||infinitytest.site^$all
+||infin-prof.alxprogs.xyz^$all
 ||inflab.info^$all
 ||influencearabia.com^$all
 ||info0aj.site^$all
@@ -11554,6 +11561,7 @@
 ||inpost-polska-puy.order9351.info^$all
 ||inpost-polska-pv.order125326.info^$all
 ||inpost-polska-pwb.order9512951.info^$all
+||inpost-polska-pxd.order2588322.info^$all
 ||inpost-polska-qei.order9351.info^$all
 ||inpost-polska-qga.orders143.info^$all
 ||inpost-polska-qg.order0912401.info^$all
@@ -11568,6 +11576,7 @@
 ||inpost-polska-qwb.order48382.info^$all
 ||inpost-polska-qwq.order912412.info^$all
 ||inpost-polska-rc.order009988.info^$all
+||inpost-polska-rg.order0912401.info^$all
 ||inpost-polska-rg.order1191966.info^$all
 ||inpost-polska-rm.order912412.info^$all
 ||inpost-polska-rnt.order912412.info^$all
@@ -11721,6 +11730,7 @@
 ||inpost-qrvk.order009988.info^$all
 ||inpost-qtso.order9512951.info^$all
 ||inpost-qyp.id-9467.com^$all
+||inpost-qzyw.order2588322.info^$all
 ||inpost-q.id-9431.me^$all
 ||inpost-rbgl.order48382.info^$all
 ||inpost-rdhx.order009988.info^$all
@@ -11790,6 +11800,7 @@
 ||inpost-zpnq.order161516.info^$all
 ||inpost-zukf.order12561361.info^$all
 ||inpost-zwdj.order3590423.info^$all
+||inpost-zwei.order2588322.info^$all
 ||inpost.9-sendingproductuser.xyz^$all
 ||inpost.47464.pw^$all
 ||inpost.642649.top^$all
@@ -12021,6 +12032,7 @@
 ||inpost.ua-dostawka.xyz^$all
 ||inpost.us^$all
 ||inpost.utiworl.org^$all
+||inpost.werfgo.org^$all
 ||inpost.weryfi.org^$all
 ||inpost.werynm.org^$all
 ||inpost.wyprzedaz-*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -14328,6 +14340,7 @@
 ||mod-mil.online^$all
 ||mod-mil.site^$all
 ||moferta.xyz^$all
+||mogadyu.web.app^$all
 ||mogejuzsobiesprawdzic.online^$all
 ||moglobytoooznaczac.website^$all
 ||mogrilla.pw^$all
@@ -14775,6 +14788,7 @@
 ||nem.capitalloredfd.site^$all
 ||neon81552.site^$all
 ||neontool.com^$all
+||neon-hamster-579cec.netlify.app^$all
 ||neotrade.io^$all
 ||nephrect.pl^$all
 ||neqtarin.com^$all
@@ -14933,6 +14947,7 @@
 ||news-onet-63314636518.azureedge.net^$all
 ||news-op-54214271815.azureedge.net^$all
 ||news-op-66313771265.azureedge.net^$all
+||news-op-68109690830.azureedge.net^$all
 ||news-op-89607125487.azureedge.net^$all
 ||news-orlen.biz^$all
 ||news-orlen.us^$all
@@ -15336,6 +15351,7 @@
 ||obadatrendy.com^$all
 ||obalic-kilka.site^$all
 ||obiegtaxi.site^$all
+||objazdowe-nie.eu^$all
 ||objecie315.rest^$all
 ||objectionmanager.com^$all
 ||objectionmanager.tk^$all
@@ -20071,6 +20087,7 @@
 ||servervalidationcheck659.web.app^$all
 ||server*.nazwa.pl/weryfikacja/$all
 ||server-101.yolasite.com^$all
+||server-updatesigninchase-com.tilda.ws^$all
 ||serviceabilitydemential.com^$all
 ||servicecheck5.wixsite.com^$all
 ||service-account-payment-genuinelsmath.eu^$all
@@ -20227,6 +20244,7 @@
 ||silasibiri.site^$all
 ||silnikstrazak.site^$all
 ||silver-kurier.me^$all
+||simgol.win^$all
 ||simovie.net^$all
 ||simpledealers.com^$all
 ||simpleway.one^$all
@@ -22685,6 +22703,7 @@
 ||vlnted-polska.593846.fun^$all
 ||vlnted-polska.765656.space^$all
 ||vlnted-polska.897863.space^$all
+||vlnted-polska.id-574923.com^$all
 ||vlnted.dostava3682074.cloud^$all
 ||vlnted.dostava4506319.mom^$all
 ||vlnted.inf0-goodssending.xyz^$all
