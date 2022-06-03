@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 02 Jun 2022, 22:22 UTC+02
-! Version: 2022.6.2.4
+! Last modified: Fri, 03 Jun 2022, 10:24 UTC+02
+! Version: 2022.6.3.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3842,6 +3842,7 @@
 ||apple-login-iphone.info^$all
 ||apple-login.in^$all
 ||apple-*.deviceoffergiveaways.icu^$all
+||apple.appleveify.us^$all
 ||apple.com-*.$all,domain=live|xyz
 ||apple.com.sn-id.us^$all
 ||apple.findmy-devices.co^$all
@@ -11192,6 +11193,7 @@
 ||inpost-krwo.order0912401.info^$all
 ||inpost-kssw.order0912401.info^$all
 ||inpost-ktsg.order9512951.info^$all
+||inpost-ktxj.order77711902.info^$all
 ||inpost-kyzf.order48382.info^$all
 ||inpost-lbza.order8859.me^$all
 ||inpost-lgye.id-845.me^$all
@@ -11673,6 +11675,7 @@
 ||inpost-polska-wn.order9351.info^$all
 ||inpost-polska-wn.order9351.ph^$all
 ||inpost-polska-wpa.order2588322.info^$all
+||inpost-polska-wpg.order77711902.info^$all
 ||inpost-polska-wp.order2588322.info^$all
 ||inpost-polska-wq.order125326.info^$all
 ||inpost-polska-wta.order1191966.info^$all
@@ -11785,6 +11788,7 @@
 ||inpost-ujzs.order48382.info^$all
 ||inpost-upmo.order0129501.info^$all
 ||inpost-ustg.order121212.info^$all
+||inpost-uveq.order77711902.info^$all
 ||inpost-uwfg.order0912401.info^$all
 ||inpost-u.id-3828883.me^$all
 ||inpost-vage.order2588322.info^$all
@@ -18040,6 +18044,7 @@
 ||pointersthiabendazole.com^$all
 ||pointersthiabendazole.exactitudepaginate.com^$all
 ||point-pl.com^$all
+||poisda.win^$all
 ||poiska-gazeta.eu^$all
 ||poiskienasze.eu^$all
 ||poivesbedardemar.cf^$all
