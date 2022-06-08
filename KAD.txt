@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 08 Jun 2022, 14:41 UTC+02
-! Version: 2022.6.8.1
+! Last modified: Wed, 08 Jun 2022, 18:29 UTC+02
+! Version: 2022.6.8.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2776,6 +2776,7 @@
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0boronka.xyz^$all
+||0lx-pl.837269plid.pics^$all
 ||0lx.70845.xyz^$all
 ||0lx.deliveryinform-user.xyz^$all
 ||0lx.deljveryinfopay.xyz^$all
@@ -8524,6 +8525,7 @@
 ||elepaypln.xyz^$all
 ||elfin198.site^$all
 ||elfinfoka.site^$all
+||eliplop.xyz^$all
 ||elitecryptotrade.com^$all
 ||elitefitzone.com^$all
 ||elitegadgetinsider.com^$all
@@ -11260,6 +11262,7 @@
 ||inpost-mpbq.order0129501.info^$all
 ||inpost-mpq.id-9467.com^$all
 ||inpost-mvej.order0912401.info^$all
+||inpost-mxbo.order77711902.info^$all
 ||inpost-ndpm.orders091.info^$all
 ||inpost-nglr.order2588322.info^$all
 ||inpost-nhmx.order77711902.info^$all
@@ -11446,6 +11449,7 @@
 ||inpost-polska-ca.order912412.info^$all
 ||inpost-polska-cgo.order131313.info^$all
 ||inpost-polska-ckb.order77711902.info^$all
+||inpost-polska-clq.order77711902.info^$all
 ||inpost-polska-co.order125326.info^$all
 ||inpost-polska-cpw.order77711902.info^$all
 ||inpost-polska-cqj.order887766.info^$all
@@ -11553,6 +11557,7 @@
 ||inpost-polska-ja.order1191966.info^$all
 ||inpost-polska-jbk.order1191966.info^$all
 ||inpost-polska-jcw.order661100.info^$all
+||inpost-polska-jed.order77711902.info^$all
 ||inpost-polska-jep.order77711902.info^$all
 ||inpost-polska-jf.order0912401.info^$all
 ||inpost-polska-jg.order9351.info^$all
@@ -11566,6 +11571,7 @@
 ||inpost-polska-jmz.order1191966.info^$all
 ||inpost-polska-jno.order912412.info^$all
 ||inpost-polska-jpo.order48382.info^$all
+||inpost-polska-jr.order77711902.info^$all
 ||inpost-polska-jse.order48382.info^$all
 ||inpost-polska-jsl.order9351.info^$all
 ||inpost-polska-jtk.order2588322.info^$all
@@ -11619,6 +11625,7 @@
 ||inpost-polska-mc.order912412.info^$all
 ||inpost-polska-mel.order131313.info^$all
 ||inpost-polska-mh.order121212.info^$all
+||inpost-polska-mja.order77711902.info^$all
 ||inpost-polska-mmc.order9512951.info^$all
 ||inpost-polska-mmu.order9351.info^$all
 ||inpost-polska-mm.order2104124.info^$all
@@ -11891,6 +11898,7 @@
 ||inpost-upmo.order0129501.info^$all
 ||inpost-ustg.order121212.info^$all
 ||inpost-uveq.order77711902.info^$all
+||inpost-uvfh.order77711902.info^$all
 ||inpost-uwfg.order0912401.info^$all
 ||inpost-u.id-3828883.me^$all
 ||inpost-vage.order2588322.info^$all
@@ -12838,6 +12846,7 @@
 ||kasonet.pl^$all
 ||kasoop.chainkzal.xyz^$all
 ||kassa-olx.295503plid.pics^$all
+||kassa-olx.837269plid.pics^$all
 ||kassa-olx.idpl7183069.mom^$all
 ||kassa-olx.naprzod539475.pics^$all
 ||kasuyte.maximizerss.xyz^$all
@@ -14610,6 +14619,7 @@
 ||morruj.com^$all
 ||mortezasalehii.ir^$all
 ||mortgagecalculatorfan.com^$all
+||mosriw.loan^$all
 ||mossersrepartition.info^$all
 ||motive-business.online^$all
 ||motys.pl^$all
@@ -14952,6 +14962,7 @@
 ||neetresult2016.com^$all
 ||nefanza.com^$all
 ||nefder-online.preview-domain.com^$all
+||neforts-xyz.preview-domain.com^$all
 ||negerti-com.preview-domain.com^$all
 ||nekrestova-com.preview-domain.com^$all
 ||nem17.avistaserver.com^$all
@@ -15740,6 +15751,8 @@
 ||oiuoiup-71.ga^$all
 ||oix-pi.168423plid.xyz^$all
 ||oix-pi.sprzedaz84925.pics^$all
+||oix-pl.295503plid.pics^$all
+||oix-pl.961873plid.xyz^$all
 ||oix-pl.dostava3682074.cloud^$all
 ||oix-pl.dostava5726318.pics^$all
 ||oix-pl.dostava6194057.beauty^$all
@@ -17054,6 +17067,7 @@
 ||pacificinvestmentsltd.com^$all
 ||pacseanet.com^$all
 ||paczinfo.com^$all
+||paczka-pl.174856przelew.pw^$all
 ||paczka-pl.482167plid.mom^$all
 ||paczka-pl.naprzod714936.shop^$all
 ||paczka-pl.udacsiedo3674816.fun^$all
@@ -22297,6 +22311,7 @@
 ||tyczenie127.site^$all
 ||tye.my-chatprogram.xyz^$all
 ||tylkotutajinfosygnal.randsnap.com^$all
+||tympanis.pl^$all
 ||type-lp.web.app^$all
 ||type-pl.web.app^$all
 ||typujemy-zdjecia.eu^$all
