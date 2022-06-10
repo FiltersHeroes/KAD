@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 10 Jun 2022, 10:25 UTC+02
-! Version: 2022.6.10.0
+! Last modified: Fri, 10 Jun 2022, 14:41 UTC+02
+! Version: 2022.6.10.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2847,6 +2847,7 @@
 ||01x.cargodelivery-inform.xyz^$all
 ||01x.user-sendproduct.xyz^$all
 ||1z309-urps.co^$all
+||1-energy.azureedge.net^$all
 ||1-interia.azureedge.net^$all
 ||1-onet.azureedge.net^$all
 ||1-pl.truoutlpl24.site^$all
@@ -2866,6 +2867,7 @@
 ||2supermocna-tasma-klejaca-pl.com^$all
 ||2uts.com^$all
 ||2xsms.xyz^$all
+||2-energy.azureedge.net^$all
 ||2-interia.azureedge.net^$all
 ||2-onet.azureedge.net^$all
 ||2-remove-virus.com^$all
@@ -2886,6 +2888,7 @@
 ||3w2k701z6i94wgr.choobin-co.ir^$all
 ||3xsms.xyz^$all
 ||3-139-92-223.cprapid.com^$all
+||3-energy.azureedge.net^$all
 ||3-interia.azureedge.net^$all
 ||3-onet.azureedge.net^$all
 ||3-wp.azureedge.net^$all
@@ -2899,6 +2902,7 @@
 ||4onet.azureedge.net^$all
 ||4po5zg-bit.com^$all
 ||4ricardo.xyz^$all
+||4-energy.azureedge.net^$all
 ||4-interia.azureedge.net^$all
 ||4-onet.azureedge.net^$all
 ||4-wp.azureedge.net^$all
@@ -2912,6 +2916,7 @@
 ||5sms.xyz^$all
 ||5tysiecy.pl^$all
 ||05yzb-upqs.us^$all
+||5-energy.azureedge.net^$all
 ||5-interia.azureedge.net^$all
 ||5-onet.azureedge.net^$all
 ||5-wp.azureedge.net^$all
@@ -2922,6 +2927,7 @@
 ||6sms.in^$all
 ||6sms.pw^$all
 ||6sms.xyz^$all
+||6-energy.azureedge.net^$all
 ||6-interia.azureedge.net^$all
 ||6-onet.azureedge.net^$all
 ||6-wp.azureedge.net^$all
@@ -2934,6 +2940,7 @@
 ||7sms.pw^$all
 ||07sms.xyz^$all
 ||7sms.xyz^$all
+||7-energy.azureedge.net^$all
 ||7-interia.azureedge.net^$all
 ||7-onet.azureedge.net^$all
 ||7-wp.azureedge.net^$all
@@ -2944,6 +2951,7 @@
 ||8sms.pw^$all
 ||08sms.xyz^$all
 ||8sms.xyz^$all
+||8-energy.azureedge.net^$all
 ||8-interia.azureedge.net^$all
 ||8-onet.azureedge.net^$all
 ||8-shipmentcargo.xyz^$all
@@ -2956,6 +2964,7 @@
 ||9onet.azureedge.net^$all
 ||09sms.in^$all
 ||9sms.xyz^$all
+||9-energy.azureedge.net^$all
 ||9-interia.azureedge.net^$all
 ||9-onet.azureedge.net^$all
 ||9-wp.azureedge.net^$all
@@ -2969,22 +2978,27 @@
 ||11onet.azureedge.net^$all
 ||11shots.com^$all
 ||11sms.xyz^$all
+||11-energy.azureedge.net^$all
 ||11-interia.azureedge.net^$all
 ||11-wp.azureedge.net^$all
 ||12interia.azureedge.net^$all
 ||12onet.azureedge.net^$all
+||12-energy.azureedge.net^$all
 ||12-interia.azureedge.net^$all
 ||12-wp.azureedge.net^$all
 ||13interia.azureedge.net^$all
 ||13onet.azureedge.net^$all
+||13-energy.azureedge.net^$all
 ||13-interia.azureedge.net^$all
 ||13-wp.azureedge.net^$all
 ||14interia.azureedge.net^$all
 ||14onet.azureedge.net^$all
+||14-energy.azureedge.net^$all
 ||14-interia.azureedge.net^$all
 ||14-wp.azureedge.net^$all
 ||15interia.azureedge.net^$all
 ||15onet.azureedge.net^$all
+||15-energy.azureedge.net^$all
 ||15-interia.azureedge.net^$all
 ||15-wp.azureedge.net^$all
 ||16interia.azureedge.net^$all
@@ -2993,27 +3007,33 @@
 ||16-wp.azureedge.net^$all
 ||17interia.azureedge.net^$all
 ||17onet.azureedge.net^$all
+||17-energy.azureedge.net^$all
 ||17-interia.azureedge.net^$all
 ||17-wp.azureedge.net^$all
 ||18interia.azureedge.net^$all
 ||18onet.azureedge.net^$all
+||18-energy.azureedge.net^$all
 ||18-interia.azureedge.net^$all
 ||18-wp.azureedge.net^$all
 ||19interia.azureedge.net^$all
 ||19onet.azureedge.net^$all
+||19-energy.azureedge.net^$all
 ||19-interia.azureedge.net^$all
 ||19-wp.azureedge.net^$all
 ||20interia.azureedge.net^$all
 ||20onet.azureedge.net^$all
 ||20-55-32-61.cprapid.com^$all
+||20-energy.azureedge.net^$all
 ||20-interia.azureedge.net^$all
 ||20-wp.azureedge.net^$all
 ||21interia.azureedge.net^$all
 ||21onet.azureedge.net^$all
 ||21steditionnaturalgh.com^$all
+||21-energy.azureedge.net^$all
 ||21-interia.azureedge.net^$all
 ||22interia.azureedge.net^$all
 ||22onet.azureedge.net^$all
+||22-energy.azureedge.net^$all
 ||22-interia.azureedge.net^$all
 ||23interia.azureedge.net^$all
 ||23onet.azureedge.net^$all
@@ -3038,9 +3058,11 @@
 ||24warszawa.rf.gd^$all
 ||24wazne.epizy.com^$all
 ||24xforex.com^$all
+||24-energy.azureedge.net^$all
 ||24-fakty-info.com.pl^$all
 ||24-fakt-az.pl^$all
 ||24-interia.azureedge.net^$all
+||24-klarowaneinformacje.bdl.pl^$all
 ||24-tvn.pl^$all
 ||24.daily-news-24.com^$all
 ||24.eu^$doc,domain=~www.24.eu
@@ -5142,6 +5164,7 @@
 ||centrolinguisticorobert.com^$all
 ||centrum24-app.cc^$all
 ||centrum24-app.pl^$all
+||centrum24.cc^$all
 ||centrumplay.pl^$all
 ||centrum-badan.pl^$all
 ||centrum-rozrywki.waw.pl^$all
@@ -7327,6 +7350,7 @@
 ||dardc0egqx057.cloudfront.net^$all
 ||dardos.xyz^$all
 ||darikas.com^$all
+||darikat.com^$all
 ||darmowawitamina.pl^$all
 ||darmowekino.pl^$all
 ||darmoweogladanie.pl^$all
@@ -7757,6 +7781,7 @@
 ||disordpromotlons.com^$all
 ||disordsnltros.com^$all
 ||disords.gift^$all
+||dispatchgoods-0.xyz^$all
 ||dispatchinfo-25412.xyz^$all
 ||dispensersinbidon.com.ar^$all
 ||dispersers.pl^$all
@@ -8634,6 +8659,7 @@
 ||energy-landia.waw.pl^$all
 ||energy-oilproject.info^$all
 ||energy-pgeproj.info^$all
+||energy.azureedge.net^$all
 ||enerreplo.online^$all
 ||enerreplo.site^$all
 ||enerreplo.space^$all
@@ -11070,6 +11096,7 @@
 ||inp0st.482167plid.mom^$all
 ||inp0st.5481024.xyz^$all
 ||inp0st.buyercargopaypage.xyz^$all
+||inp0st.deliverypay-1.xyz^$all
 ||inp0st.dellvery-9865.xyz^$all
 ||inp0st.goodsinfo-pay.xyz^$all
 ||inp0st.infositedeljvery.xyz^$all
@@ -11243,6 +11270,7 @@
 ||inpost-hudl.order2588322.info^$all
 ||inpost-huhw.order2588322.info^$all
 ||inpost-hxyl.order661100.info^$all
+||inpost-iczw.order77711902.info^$all
 ||inpost-iddj.order574820.info^$all
 ||inpost-ijdz.order0129501.info^$all
 ||inpost-ikvr.order0912401.info^$all
@@ -11252,6 +11280,7 @@
 ||inpost-isbj.order3590423.info^$all
 ||inpost-i.id-9431.me^$all
 ||inpost-i.id-9843.me^$all
+||inpost-jdcc.order77711902.info^$all
 ||inpost-jfms.order0912401.info^$all
 ||inpost-jgrl.order0912401.info^$all
 ||inpost-jhcp.order0129501.info^$all
@@ -11451,6 +11480,7 @@
 ||inpost-polska-bp.orders0094.info^$all
 ||inpost-polska-bq.order9351.info^$all
 ||inpost-polska-bra.order9351.info^$all
+||inpost-polska-brb.order77711902.info^$all
 ||inpost-polska-bst.order48382.info^$all
 ||inpost-polska-bsu.order77711902.info^$all
 ||inpost-polska-bs.order125326.info^$all
@@ -11771,6 +11801,7 @@
 ||inpost-polska-ujn.order2588322.info^$all
 ||inpost-polska-umt.order009988.info^$all
 ||inpost-polska-uqc.order48382.info^$all
+||inpost-polska-uvl.order77711902.info^$all
 ||inpost-polska-uvs.order9351.info^$all
 ||inpost-polska-uw.orders0094.info^$all
 ||inpost-polska-uye.order0129501.info^$all
@@ -11955,12 +11986,14 @@
 ||inpost-yazh.order912412.info^$all
 ||inpost-yszk.order48382.info^$all
 ||inpost-ywkn.order2588322.info^$all
+||inpost-zagc.order49125120.info^$all
 ||inpost-zamowienie.pl^$all
 ||inpost-zapz.order0912401.info^$all
 ||inpost-zbkv.order9351.info^$all
 ||inpost-zdxr.order0129501.info^$all
 ||inpost-zjgt.order77711902.info^$all
 ||inpost-zlsv.order0912401.info^$all
+||inpost-znye.order77711902.info^$all
 ||inpost-zpiu.order161516.info^$all
 ||inpost-zpnq.order161516.info^$all
 ||inpost-zukf.order12561361.info^$all
@@ -12482,6 +12515,7 @@
 ||in-post.formationdeljvery.xyz^$all
 ||in-post.id759466.pw^$all
 ||in-post.us^$all
+||in-post.zamow751308.beauty^$all
 ||in-prog.alxprogs.xyz^$all
 ||in-projj.web.app^$all
 ||in.capitalpol.xyz^$all
@@ -15621,6 +15655,7 @@
 ||obrot-pge.online^$all
 ||obrot-pge.today^$all
 ||obrzydliwyhop.site^$all
+||obscene-canisters.000webhostapp.com^$all
 ||observatoriofieg.com.br^$all
 ||obserward.xyz^$all
 ||obslugakelnerska20.wixsite.com^$all
@@ -20997,6 +21032,7 @@
 ||steersmensake.com^$all
 ||stefaniakl.pl^$all
 ||stefaniehoefer.pl^$all
+||steklmen-xyz.preview-domain.com^$all
 ||stemcommnunilty.com^$all
 ||stenakol-com.preview-domain.com^$all
 ||steranazgareaga.ml^$all
@@ -24111,6 +24147,7 @@
 ||yakari.id^$all
 ||yallafreelancers.com^$all
 ||yamayaku.com^$all
+||yangola-uno.preview-domain.com^$all
 ||yangqi-miss.com^$all
 ||yanks.trade^$all
 ||yaoqing.yz049.com^$all
