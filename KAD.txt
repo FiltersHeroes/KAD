@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 11 Jun 2022, 14:33 UTC+02
-! Version: 2022.6.11.1
+! Last modified: Sat, 11 Jun 2022, 18:26 UTC+02
+! Version: 2022.6.11.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2758,6 +2758,7 @@
 !
 ! Przekręty
 /click.php?key=*&cost=$doc
+/tds/ae?tds_campaign=$document
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
@@ -2828,6 +2829,7 @@
 ||1npost.cargosendingpage.xyz^$all
 ||1npost.cargosendinguser.xyz^$all
 ||1npost.deliverypay-06.xyz^$all
+||1npost.dellvery-6532.xyz^$all
 ||1npost.dellvery-08653.xyz^$all
 ||1npost.dispatchgoodsinform.xyz^$all
 ||1npost.infodeliverybuyer.xyz^$all
@@ -4606,6 +4608,7 @@
 ||biznesplanet-bnpparlba.net^$all
 ||biznesplanet-parlbabnp.com^$all
 ||biznesplanet-parlba.online^$all
+||biznesportal.eu^$all
 ||biznes-24.waw.pl^$all
 ||biznes-interia.tokoapril.com^$all
 ||biznes-wiadomosci.tokoapril.com^$all
@@ -7510,6 +7513,7 @@
 ||deljvery-78451.site^$all
 ||deljvery.034521.xyz^$all
 ||dellvery.7631545.xyz^$all
+||dellvery.dellvery-2345.xyz^$all
 ||deln.korto.xyz^$all
 ||delphilawadvisory.com^$all
 ||del.korto.xyz^$all
@@ -8911,15 +8915,32 @@
 ||f4pxu2.webwave.dev^$all
 ||f800e6f66d71.ngrok.io^$all
 ||f0574089.xsph.ru^$all
+||faabnka.pl^$all
+||faabnk.pl^$all
+||faabnnka.pl^$all
+||faacbkmk.pl^$all
 ||faakty24.pl^$all
 ||faanuus.com^$all
+||fabankk.pl^$all
+||fabbmk.pl^$all
+||fabbnka.pl^$all
+||fabbook.pl^$all
 ||fabfloors.com^$all
 ||fabiotv.com^$all
+||fabkasl.pl^$all
+||fabkas.pl^$all
+||fabklsam.pl^$all
+||fabnaks.pl^$all
 ||fabnbnk.pl^$all
 ||fabnbnpk.pl^$all
 ||fabnbnp.pl^$all
 ||fabnbn.pl^$all
 ||fabnbon.pl^$all
+||fabnka.pl^$all
+||fabnk.pl^$all
+||fabnmk.pl^$all
+||fabnnka.pl^$all
+||fabnok.pl^$all
 ||fabnxmklka.pl^$all
 ||fabnxmkl.pl^$all
 ||fabnxmkska.pl^$all
@@ -8928,13 +8949,36 @@
 ||fabrykawiadomosci.randsnap.com^$all
 ||fabryka.icu^$all
 ||fabsinternational.com^$all
+||fabuk.pl^$all
+||fabvnjok.pl^$all
+||fabvnok.pl^$all
 ||facbbkka.pl^$all
+||facbbook.pl^$all
+||facbkas.pl^$all
+||facbkka.pl^$all
+||facbkkmk.pl^$all
+||facbkmk.pl^$all
+||facbks.pl^$all
+||facbmkk.pl^$all
+||facbmk.pl^$all
+||facbnaokk.pl^$all
+||facbna.pl^$all
+||facbnk.pl^$all
 ||facbnnm.pl^$all
+||facbn.pl^$all
+||facboks.pl^$all
+||facbuk.pl^$all
+||facbuok.pl^$all
+||facbuuk.pl^$all
+||facbvnkks.pl^$all
+||facbvnk.pl^$all
+||faccbok.pl^$all
 ||faccebook*.5v.pl^$all
 ||faceb00kwatchvideo.pl^$all
 ||facebbooc.$all
 ||facebbook*.5v.pl^$all
 ||facebcok.com.pl^$all
+||facebmk.pl^$all
 ||facebok-desktop.pev.pl^$all
 ||faceboobko.tcp4.me^$all
 ||faceboobko.*.$all
@@ -8980,11 +9024,21 @@
 ||facesofirony.com^$all
 ||facewatch.borec.cz^$all
 ||facilitatehjk.online^$all
+||facmbl.pl^$all
+||facmbok.pl^$all
+||facmbook.pl^$all
+||facmb.pl^$all
+||facnblok.pl^$all
 ||factosphere.com^$all
+||facvbmk.pl^$all
 ||facvnbuok.pl^$all
 ||facvvbkk.pl^$all
 ||fadisto.store^$all
 ||faecbook.ct8.pl^$all
+||faejbk.pl^$all
+||faejbok.pl^$all
+||faejbook.pl^$all
+||faejbuok.pl^$all
 ||failmobile.net^$all
 ||faino.xyz^$all
 ||fairandwhiteboutique.com^$all
@@ -9095,15 +9149,24 @@
 ||familybudget.rest^$all
 ||familytree.swantech.ae^$all
 ||fan1inevsbudim.info^$all
+||fancbook.pl^$all
 ||fang-investing.website^$all
 ||fanido.tk^$all
 ||fanplplpgeinv1-tech.info^$all
 ||fantastic-gas.com^$all
 ||fantazja852.rest^$all
 ||fantazyjne-glosy.eu^$all
+||fanvbook.pl^$all
+||fanvjk.pl^$all
+||fanvjok.pl^$all
+||fanvook.pl^$all
 ||fanwestpge-pl1.info^$all
 ||fanyun.com^$all
 ||fan-budimex1.info^$all
+||faobnaks.pl^$all
+||faobnak.pl^$all
+||faoboak.pl^$all
+||faobokk.pl^$all
 ||fapproove.pl^$all
 ||faraazfoundation.com^$all
 ||farnolu.com^$all
@@ -9125,8 +9188,11 @@
 ||faulall.pl^$all
 ||fauligenz.de^$all
 ||fau-syndikat.org^$all
+||favbkkosa.pl^$all
+||favbmk.pl^$all
 ||favecover.com^$all
 ||favgroup.host^$all
+||favmbl.pl^$all
 ||favnbko.pl^$all
 ||favnbk.pl^$all
 ||favnbok.pl^$all
@@ -9137,11 +9203,24 @@
 ||fax.gaznf.xyz^$all
 ||fayingvisc.de^$all
 ||fb202022.tcp4.me^$all
+||fbaankka.pl^$all
+||fbakku.pl^$all
+||fbakk.pl^$all
+||fbaku.pl^$all
+||fbanka.pl^$all
+||fbankka.pl^$all
+||fbannka.pl^$all
+||fbaonkk.pl^$all
+||fbaonk.pl^$all
+||fbasnk.pl^$all
+||fbbanka.pl^$all
 ||fbdogfoodbeta.com^$all
 ||fbinternationals.net^$all
+||fbku.pl^$all
 ||fblinker.com^$all
 ||fblog84.cleverapps.io^$all
 ||fbloginverifyyy.tcp4.me^$all
+||fbokk.pl^$all
 ||fbonlogins.mypi.co^$all
 ||fbpay.orogdq1.xyz^$all
 ||fbpodgladacz.wordpress.com^$all
@@ -9154,6 +9233,8 @@
 ||fbt.programaticeu.xyz^$all
 ||fbu631iuh7s6ud.bar^$all
 ||fbvetu.n4t.co^$all
+||fbvnjk.pl^$all
+||fbvnjok.pl^$all
 ||fbvverifier.mypi.co^$all
 ||fb-ads.me^$all
 ||fb-fotkiporno.online^$all
@@ -9174,14 +9255,32 @@
 ||fdn4au.webwave.dev^$all
 ||fd-pge.web.app^$all
 ||fd.bteslaxilon.xyz^$all
+||feacebouk.pl^$all
+||feacebuk.pl^$all
+||feajcebuk.pl^$all
+||feavvbk.pl^$all
+||feavvbok.pl^$all
+||feavvbook.pl^$all
+||feavvbuk.pl^$all
+||feavvb.pl^$all
+||febka.pl^$all
 ||fecebook.com.pl^$all
 ||fecwighwhittlahass.ml^$all
 ||federalistgalenical.info^$all
 ||fednsmo-xyz.preview-domain.com^$all
 ||feednewers.com^$all
 ||feego.win^$all
+||feejbk.pl^$all
 ||feelingdistance.com^$all
 ||feelthestars.top^$all
+||fejavbook.pl^$all
+||fejbbbk.pl^$all
+||fejbjkl.pl^$all
+||fejbjk.pl^$all
+||fejbjok.pl^$all
+||fejbook.pl^$all
+||fejbuok.pl^$all
+||fejcebuk.pl^$all
 ||fejs.ml^$all
 ||fek.my-chatprogram.xyz^$all
 ||felisinvest.pro^$all
@@ -9191,6 +9290,7 @@
 ||fenixsecurities.eu^$all
 ||fenixsecurities.site^$all
 ||fenix-funds.pro^$all
+||fercebuk.pl^$all
 ||ferde.xyz^$all
 ||ferdont-com.preview-domain.com^$all
 ||fereturner.pl^$all
@@ -9205,6 +9305,15 @@
 ||festive-faraday.142-11-213-249.plesk.page^$all
 ||festor-xyz.preview-domain.com^$all
 ||fes.efitness.com^$all
+||ffacbbk.pl^$all
+||ffacbo.pl^$all
+||ffaccbkko.pl^$all
+||ffacebookk.pl^$all
+||ffackoanb.pl^$all
+||ffasbok.pl^$all
+||ffasbook.pl^$all
+||ffasnmva.pl^$all
+||ffasnmv.pl^$all
 ||ffs.capitalloredfd.site^$all
 ||fgenergy.pl^$all
 ||fggh.st6-investprog.site^$all
@@ -11224,6 +11333,7 @@
 ||inpost-akru.id-5936.com^$all
 ||inpost-akuw.order009988.info^$all
 ||inpost-alvu.order0129501.info^$all
+||inpost-anwn.order49125120.info^$all
 ||inpost-arhp.order9512951.info^$all
 ||inpost-axjv.order009988.info^$all
 ||inpost-azpq.oders8841.xyz^$all
@@ -11924,6 +12034,7 @@
 ||inpost-polska-zrg.order887766.info^$all
 ||inpost-polska-zr.order2588322.info^$all
 ||inpost-polska-zsg.order9351.info^$all
+||inpost-polska-zsg.order12859011.info^$all
 ||inpost-polska-zub.orders0094.info^$all
 ||inpost-polska-zve.order131313.info^$all
 ||inpost-polska-zwx.order2104124.info^$all
@@ -24330,6 +24441,8 @@
 ||zaglosuj-predko.eu^$all
 ||zaglosuj-teraz.$all
 ||zagool.loan^$all
+||zagubienifbnews.com.pl^$all
+||zagubienifbnews.pl^$all
 ||zagubionedzieci.com^$all
 ||zagubione-dzieci24h.eu^$all
 ||zagubione-dzieci.com^$all
