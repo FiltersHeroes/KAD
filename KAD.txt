@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 19 Jun 2022, 19:27 UTC+02
-! Version: 2022.6.19.4
+! Last modified: Sun, 19 Jun 2022, 22:21 UTC+02
+! Version: 2022.6.19.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -332,6 +332,7 @@
 ||butymoab2sklep.com^$all
 ||butynbsklep.pl^$all
 ||butynobullpolska.com^$all
+||butyonlinesklep.com^$all
 ||butyonrunning.com^$all
 ||butypalladium.com^$all
 ||butyplsklep.com^$all
@@ -367,6 +368,7 @@
 ||butyzimowesorel.com^$all
 ||buty-demonia.com^$all
 ||buuiipl.com^$all
+||buzzihome.com^$all
 ||buzzonclick.com^$all
 ||byagadget.com^$all
 ||bycmama-gabi.pl^$all
@@ -488,6 +490,7 @@
 ||crocspolska.cc^$all
 ||crocssklepy.com^$all
 ||crocsstorepolska.com^$all
+||crocswarsaw.com^$all
 ||crocsxpl.com^$all
 ||crwolny.top^$all
 ||cryptotradecentr.com^$all
@@ -810,6 +813,7 @@
 ||gold-barber.pl^$all
 ||goleemo.online^$all
 ||goodmenonthego.com^$all
+||goolerr.com^$all
 ||goryhotel.pl^$all
 ||gotowkanadowod.pl^$all
 ||gotowkatutaj.pl^$all
@@ -828,6 +832,7 @@
 ||groundiesbuty.com^$all
 ||groundiespolska.com^$all
 ||gryfkietrz.pl^$all
+||guesspl.com^$all
 ||guesssklep.pl^$all
 ||guess-polska.com^$all
 ||guitarforce.pl^$all
@@ -921,6 +926,7 @@
 ||ihydroflaskshop.com^$all
 ||ikohs.com^$all
 ||impulsband.pl^$all
+||inaessentials.pl^$all
 ||incruises.com^$all
 ||indaajach.com^$all
 ||infolinia-kontakt-telefon.pl^$all
@@ -1178,6 +1184,7 @@
 ||martens1460.pl^$all
 ||martens1460.top^$all
 ||martensbutysklep.com^$all
+||martensbuty.top^$all
 ||martensplsklep.com^$all
 ||martenspolska.co^$all
 ||martenspolska.pl^$all
@@ -1210,6 +1217,7 @@
 ||megastore24.pl^$all
 ||mejkmi.pl^$all
 ||melissapoland.com^$all
+||melissapolska.com^$all
 ||melodiakielce.pl^$all
 ||menezsstore.com^$all
 ||menshealthweb.co^$all
@@ -1244,6 +1252,8 @@
 ||missomall.com^$all
 ||mistrzmotywacji.pl^$all
 ||miumiupolska.pl^$all
+||mizunabuty.com^$all
+||mizunopolska.com^$all
 ||mizuno-polska.pl^$all
 ||mmajerski.pl^$all
 ||mobiapp-games.com^$all
@@ -1491,6 +1501,7 @@
 ||pessaistore.com^$all
 ||pewnyzabieg.pl^$all
 ||phillshop.myshopify.com^$all
+||phtno.com^$all
 ||phusimson.pl^$all
 ||phytolast.com^$all
 ||piechnik.com.pl^$all
@@ -1630,6 +1641,7 @@
 ||psiakademia.pl^$all
 ||psiasfora.pl^$all
 ||pubmax.com.pl^$all
+||pubmwa.com^$all
 ||pullany.com^$all
 ||pumaboss.vip^$all
 ||pumaibmw.com^$all
@@ -1638,6 +1650,7 @@
 ||puma-polska.pl^$all
 ||puna.pl^$all
 ||purething.pl^$all
+||puteaux24.com^$all
 ||px1alsry.com^$all
 ||pynio.pl^$all
 ||pysznatoskania.pl^$all
@@ -1851,8 +1864,10 @@
 ||skleppremium.com^$all
 ||skleptanie.pl^$all
 ||sklepuggpolska.com^$all
+||sklepyconversepolska.com^$all
 ||sklepygucci.pl^$all
 ||sklepyhugoboss.pl^$all
+||sklepyobuwnicze.com^$all
 ||sklep-bobas.pl^$all
 ||sklep-colway.com^$all
 ||sklep-colway.pl^$all
@@ -1907,6 +1922,7 @@
 ||sowaksiazki.pl^$all
 ||soynee.shop^$all
 ||spark-agd.pl^$all
+||spaxwear.com^$all
 ||spdobropole.pl^$all
 ||speechre.com^$all
 ||speedd.net^$all
@@ -2532,6 +2548,7 @@
 ||mobstarr.com^$all
 ||monetizer.info^$all
 ||my-traffic7.com^$all
+||naked-hd.xyz^$all
 ||namesakeoscilloscopemarquis.com^$all
 ||natrasiekorzysci.pl^$all
 ||naturgood.icu^$all
@@ -3733,7 +3750,6 @@
 ||alltradesfx.com^$all
 ||alltraffic.paseapizzi.com^$all
 ||alltube-tv.pl^$all
-||alltube.com.pl^$all,domain=~alltube.pl|~alltube.tv
 ||allveradesign.com^$all
 ||all-player.pl^$all
 ||all.in-group.xyz^$all
@@ -8237,6 +8253,7 @@
 ||droga-dalej.ml^$all
 ||droga-glosowanie.site^$all
 ||drogowe-akcje.ct8.pl^$all
+||drogowe-wypadki24h7.pl^$all
 ||drogowe-wypadki24.pl^$all
 ||drogowy-wypadek.info^$all
 ||drohiczyn24.online^$all
@@ -8958,6 +8975,7 @@
 ||facebook-com-pl.pl^$all
 ||facebook-com.page-pl.xyz^$all
 ||facebook-filmy.pl^$all
+||facebook-issues15.tk^$all
 ||facebook-issues51.tk^$all
 ||facebook-live24.eu^$all
 ||facebook-l.pl^$all
@@ -13794,6 +13812,7 @@
 ||lnstahelp.com^$all
 ||lnw-superslot.com^$all
 ||ln-post-purchaser.xyz^$all
+||ln.xlopl.com^$all
 ||lo2gin-4watching.tvshows2pay.website^$all
 ||loanme.pl^$all
 ||lobbyshred.top^$all
@@ -14840,6 +14859,7 @@
 ||mosriw.loan^$all
 ||mossersrepartition.info^$all
 ||motive-business.online^$all
+||moto-wypadki.pl^$all
 ||motys.pl^$all
 ||mountainhotel.it^$all
 ||mourao.net^$all
@@ -17634,6 +17654,7 @@
 ||payu24-pl.top^$all
 ||payu24.top^$all
 ||payu.hmcloud.pl^$all
+||payu.poland-olx.com^$all
 ||paywash.se^$all
 ||pay-home-*.*.$all
 ||pay-id-bank.eu^$all
@@ -21289,6 +21310,8 @@
 ||sub256.trdepl.xyz^$all
 ||sub258.trdepl.xyz^$all
 ||sub259.trdepl.xyz^$all
+||sub261.trdepl.xyz^$all
+||sub263.trdepl.xyz^$all
 ||subcommi.xyz^$all
 ||subjacentlydoctrine.com^$all
 ||sublimationpillowcases.com^$all
