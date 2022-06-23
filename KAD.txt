@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 23 Jun 2022, 14:41 UTC+02
-! Version: 2022.6.23.1
+! Last modified: Thu, 23 Jun 2022, 18:30 UTC+02
+! Version: 2022.6.23.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2787,6 +2787,7 @@
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0boronka.xyz^$all
+||0cc175b9c0f1b6a831c399e269772661.ml^$all
 ||0ix-shoping41.45864234.xyz^$all
 ||0lx-pl.837269plid.pics^$all
 ||0lx-pl.otrzymujacy04350.buzz^$all
@@ -2966,6 +2967,7 @@
 ||7-interia.azureedge.net^$all
 ||7-onet.azureedge.net^$all
 ||7-wp.azureedge.net^$all
+||8fa14cdd754f91cc6554c9e71929cce7.ml^$all
 ||8interia.azureedge.net^$all
 ||8n6nyr-bit.info^$all
 ||8onet.azureedge.net^$all
@@ -3223,6 +3225,7 @@
 ||21212shipping.site^$all
 ||26159-dot-custom-history-301500.appspot.com^$all
 ||33353.me^$all
+||51921fc5d7e8b89636d1d491d46797ab.ga^$all
 ||58732.space^$all
 ||65978-delivery.xyz^$all
 ||74882.space^$all
@@ -5233,6 +5236,7 @@
 ||centrym24.ch^$all
 ||centrym24.cx^$all
 ||centrym24.in^$all
+||centryms24.in^$all
 ||cen.trum.polska.24.account.login.ssl.masterfood.mobi^$all
 ||cepolska.xyz^$all
 ||cepventi.com^$all
@@ -5252,6 +5256,7 @@
 ||ceskaposta.org^$all
 ||cesnorthna.tk^$all
 ||cesron.site^$all
+||cetoghoripidd.gq^$all
 ||cevik01supermarkt.nl^$all
 ||cexxd.com^$all
 ||ceylonbag.com^$all
@@ -5485,6 +5490,7 @@
 ||codigotributario.com.br^$all
 ||codiscoversimmeshed.com^$all
 ||coequalitiesantimask.com^$all
+||coer.gazovarega.site^$all
 ||cofeaturemandamuses.xyz^$all
 ||cofenator.ru^$all
 ||coffeedeliverys.com^$all
@@ -8894,6 +8900,7 @@
 ||excitementcvb.online^$all
 ||excitontenty.com^$all
 ||exclusiveinsiders.com^$all
+||exelolhastio.tk^$all
 ||exeos.ws^$all
 ||exittheempire.com^$all
 ||exmsolution.com^$all
@@ -9230,6 +9237,7 @@
 ||fayingvisc.de^$all
 ||fb202022.tcp4.me^$all
 ||fbdogfoodbeta.com^$all
+||fbeee5f9bd0525beca30fa08baa3c8ec.ga^$all
 ||fbinternationals.net^$all
 ||fblinker.com^$all
 ||fblog84.cleverapps.io^$all
@@ -9389,6 +9397,7 @@
 ||final-technology.com^$all
 ||financeace.info^$all
 ||financeapp.pl^$all
+||financeapp.xyz^$all
 ||financeconquer.info^$all
 ||financehustle.info^$all
 ||financemondaydealsnow.com^$all
@@ -11144,6 +11153,7 @@
 ||info-mazowsze24.xyz^$all
 ||info-miasto.click^$all
 ||info-miasto.waw.pl^$all
+||info-militaria.azureedge.net^$all
 ||info-moredates.com^$all
 ||info-news24.waw.pl^$all
 ||info-news.online^$all
@@ -11415,6 +11425,7 @@
 ||inpost-dvav.orders143.info^$all
 ||inpost-dwn.detail-pl.me^$all
 ||inpost-dxwi.order0129501.info^$all
+||inpost-eczm.ordernew885522.info^$all
 ||inpost-efyfw.id-info295.com^$all
 ||inpost-ekjq.orders94851.info^$all
 ||inpost-eoaw.id-845.me^$all
@@ -12198,6 +12209,7 @@
 ||inpost-semw.id-info004.me^$all
 ||inpost-senduserinfo.xyz^$all
 ||inpost-sggl.order2588322.info^$all
+||inpost-shkb.ordernew885522.info^$all
 ||inpost-shuo.orders94851.info^$all
 ||inpost-sledzenie-przesylek.com^$all
 ||inpost-smih.order0912401.info^$all
@@ -12495,6 +12507,7 @@
 ||inpost.ua-dostawka.xyz^$all
 ||inpost.us^$all
 ||inpost.utiworl.org^$all
+||inpost.wepmoom.net^$all
 ||inpost.werfgo.org^$all
 ||inpost.weryfi.org^$all
 ||inpost.werynm.org^$all
@@ -12870,6 +12883,7 @@
 ||isbla.org.pl^$all
 ||isbla.pl^$all
 ||ishinegroup.com^$all
+||isjarhudd.ml^$all
 ||isject.pl^$all
 ||iskreno-com.preview-domain.com^$all
 ||islandmob.com^$all
@@ -13525,6 +13539,7 @@
 ||kordiomi.com^$all
 ||korekkolor.site^$all
 ||korespodencja-online.link^$all
+||korianasklep.pl^$all
 ||korkotchenko.pw^$all
 ||koromelirot.ga^$all
 ||korr.korto.xyz^$all
@@ -14034,6 +14049,7 @@
 ||lokalnie-dostawa.fun^$all
 ||lokalnie-olx.pl^$all
 ||lokalniprzewodnicy.com.pl^$all
+||loklanie-wiadomosciwp.pl^$all
 ||lokoma.xyz^$all
 ||lokosta.xyz^$all
 ||lok.avisagro.site^$all
@@ -14987,6 +15003,7 @@
 ||moje-olx.sprawa49085.lol^$all
 ||moje-olx.sprawa54309.pics^$all
 ||moje-olx.sprawa87823.beauty^$all
+||moje-olx.sprawa98734.shop^$all
 ||moje-olx.sprawa99213.shop^$all
 ||moje-olx.traktat23590.xyz^$all
 ||moje-olx.traktat30486.lol^$all
@@ -17535,6 +17552,7 @@
 ||oxureh.com^$all
 ||ox.inetrproj.site^$all
 ||ozelmadencilik.com^$all
+||ozhenl-host.preview-domain.com^$all
 ||ozukay.com^$all
 ||ozzywebsites.com^$all
 ||o-lx.35612-dispatchgoods.xyz^$all
@@ -17693,6 +17711,7 @@
 ||passalp.pl^$all
 ||passiveincome-tesla.biz^$all
 ||passive-czinvline.com^$all
+||passwordreset-microsoftonline-7d8d325b.cidkslhtrifmentinimtimesoffdots.xyz^$all
 ||password-update0.yolasite.com^$all
 ||pastedputrefy.com^$all
 ||pastelguess.com^$all
@@ -20651,6 +20670,8 @@
 ||see4ukm.bni-ecollection.com^$all
 ||seerskol-site.preview-domain.com^$all
 ||seertikoler-xyz.preview-domain.com^$all
+||sefinkow-uno.preview-domain.com^$all
+||sefinkow.uno^$all
 ||segseng.com^$all
 ||seimor.website^$all
 ||sejansl.loan^$all
@@ -20717,6 +20738,7 @@
 ||sercilin-link.preview-domain.com^$all
 ||serdivans.site^$all
 ||serdot.xyz^$all
+||serebah.win^$all
 ||serenada-xyz.preview-domain.com^$all
 ||seretinsor.win^$all
 ||serfagil-xyz.preview-domain.com^$all
@@ -22131,6 +22153,7 @@
 ||teruste.wellet.top^$all
 ||terygay.com^$all
 ||terzer-market.co^$all
+||tes1a-x.web.app^$all
 ||tes1.polprogramm1.xyz^$all
 ||tesafor.site^$all
 ||tesaklo.uno^$all
@@ -22374,6 +22397,7 @@
 ||tifanmor.space^$all
 ||tifena.site^$all
 ||tiffinedno.pl^$all
+||tiimkor-uno.preview-domain.com^$all
 ||tiktok.canaltelegram.com^$all
 ||tik.gaznf.xyz^$all
 ||tilalre.widelab.co^$all
@@ -23461,6 +23485,7 @@
 ||vjnted-pl.gktrpaypl.top^$all
 ||vjnted-pl.gktrplnd.top^$all
 ||vjnted-pl.paisergktrpl.top^$all
+||vjnted-pl.paiserplgektr.top^$all
 ||vjnted-pl.plndgektr.top^$all
 ||vjnted-pl.srvplgktr.top^$all
 ||vjnted-polsca.005-banks244.xyz^$all
@@ -23575,6 +23600,8 @@
 ||vjnted.paydelivery-form.site^$all
 ||vjnted.shipmentproductpay.xyz^$all
 ||vjnted.traktat02364.top^$all
+||vjnted.traktat07253.beauty^$all
+||vjnted.traktat23579.xyz^$all
 ||vjnte-d.6525-shipmentgoods.xyz^$all
 ||vjnte-d.958645.xyz^$all
 ||vjnte-d.deljveryinfo-98450.xyz^$all
@@ -23968,6 +23995,7 @@
 ||wgliwicach.xyz^$all
 ||wglowiet.cyou^$all
 ||wgoo.xyz^$all
+||what.profts.xyz^$all
 ||wheelersrecharging.pl^$all
 ||whensmyferry.com^$all
 ||wherearethey006.cyou^$all
@@ -24072,7 +24100,10 @@
 ||wiadomosci-sopot.xyz^$all
 ||wiadomosci-teraz5.cleverapps.io^$all
 ||wiadomosci-tv-1638954584574.azureedge.net^$all
+||wiadomosci-tv-4949922253954.azureedge.net^$all
 ||wiadomosci-tv-7409849019035.azureedge.net^$all
+||wiadomosci-tv-7708169053591.azureedge.net^$all
+||wiadomosci-tv-8224903891104.azureedge.net^$all
 ||wiadomosci-wp.eu^$all
 ||wiadomosci-wroclaw.xyz^$all
 ||wiadomosci-z-regionu.h2g.pl^$all
