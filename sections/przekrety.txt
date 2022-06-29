@@ -1,3 +1,9 @@
+||cbsmarket.co^$all
+||cryptofxasset.trade^$all
+||tradeblox.org^$all
+||easycapitaltrade.com^$all
+||trust-capital.ltd^$all
+||charycryptoassets.com^$all
 /click.php?key=*&cost=$doc
 /tds/ae?tds_campaign=$document
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
@@ -22,7 +28,7 @@
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=xyz
-|https://activmask.pl^$all
+||activmask.pl^$all
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
 ||0boronka.xyz^$all
