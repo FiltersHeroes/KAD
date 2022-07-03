@@ -20,5 +20,4 @@ www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
-||tyfloswiat.pl^$removeheader=location
 ||uploadfile.pl/download.png$image
