@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 10 Jul 2022, 19:02 UTC+02
-! Version: 2022.7.10.3
+! Last modified: Sun, 10 Jul 2022, 22:21 UTC+02
+! Version: 2022.7.10.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2369,7 +2369,7 @@
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$doc,domain=top
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?u=[0-9a-z]+&o=/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https?:\/\/((?!www)[a-z]{3,5}\.)?[-0-9a-z]{6,}\.(?:com|fun|guru|life|online|pw|site|space|top)\/\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$document,match-case,domain=com|fun|guru|life|online|pw|site|space|top
+/^https?:\/\/((?!www)[a-z]{3,}\.)?[-0-9a-z]{6,}\.(?:buzz|com|de|fun|guru|life|online|pw|site|space|top|us|xyz)\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$document,match-case,domain=buzz|com|de|fun|guru|life|online|pw|site|space|top|us|xyz
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 ||0n.click^$all
 ||12monkiredirect.com^$all
@@ -11775,6 +11775,7 @@
 ||inpost-polska-am.order77711902.info^$all
 ||inpost-polska-aom.order77711902.info^$all
 ||inpost-polska-aqd.order9351.info^$all
+||inpost-polska-aqk.orders8354.com^$all
 ||inpost-polska-au.order2588322.info^$all
 ||inpost-polska-aww.order0129501.info^$all
 ||inpost-polska-axu.orders9484.info^$all
@@ -14575,6 +14576,7 @@
 ||marketpluse.com^$all
 ||marketprotrade.com^$all
 ||markets-adk.com^$all
+||markett443form.3465912.xyz^$all
 ||marktinginfopl.com^$all
 ||mark-lawchambers.com^$all
 ||marlineslytically.xyz^$all
@@ -21994,6 +21996,7 @@
 ||tantales.com^$all
 ||tantawy-group.com^$all
 ||tantieapp.com^$all
+||tantreplanes.com^$all
 ||tanyarabourn.com^$all
 ||tao.gaznf.xyz^$all
 ||tapbother.com^$all
