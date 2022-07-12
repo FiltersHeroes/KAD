@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 12 Jul 2022, 18:34 UTC+02
-! Version: 2022.7.12.2
+! Last modified: Tue, 12 Jul 2022, 22:24 UTC+02
+! Version: 2022.7.12.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -56,6 +56,7 @@
 ||adblock-listefr.com^$all
 ||adeptia.pl^$all
 ||adidasbutypl.com^$all
+||adidaspolskapl.com^$all
 ||adipexretard.pl^$all
 ||adresowkapsa.pl^$all
 ||adwokaci-24.pl^$all
@@ -95,6 +96,7 @@
 ||allthatdesign.pl^$all
 ||all-4you.pl^$all
 ||alohafromdeer.com^$all
+||aloyogapolska.com^$all
 ||aloyogapolska.pl^$all
 ||alpcity.pl^$all
 ||altrabuty.pl^$all
@@ -351,6 +353,7 @@
 ||butytimberland.com^$all
 ||butyuggpromocja.com^$all
 ||butyunderarmourpolska.com^$all
+||butyvansoldskool.com^$all
 ||butyvibrams.pl^$all
 ||butyvibram.com^$all
 ||butywyprzedaz.com^$all
@@ -452,6 +455,7 @@
 ||conversepolskapl.com^$all
 ||conversepolskasklep.pl^$all
 ||conversepromocje.pl^$all
+||conversewarszawa.com^$all
 ||coolbox24.com^$all
 ||cooloutletpolska.me^$all
 ||cool-technology.com^$all
@@ -760,9 +764,11 @@
 ||gamezmelt.com^$all
 ||game-hack.biz^$all
 ||gamingpolska.pl^$all
+||gantpolska.com^$all
 ||garberaa.com^$all
 ||garciniacambogiaactives.pl^$all
 ||gardenfleks.pl^$all
+||gardenset.pl^$all
 ||garden-best-77.com^$all
 ||gdziesalon.pl^$all
 ||gemverify.com^$all
@@ -795,6 +801,7 @@
 ||gojiberry500.pl^$all
 ||gokano.com^$all
 ||goku-sklep.pl^$all
+||gola-polska.com^$all
 ||goldengoosepolska.pl^$all
 ||gold-barber.pl^$all
 ||goleemo.online^$all
@@ -824,6 +831,7 @@
 ||guzyl.com^$all
 ||gymsharkpolskae.pl^$all
 ||gymsharkpolska.pl^$all
+||gymsharkskleppolska.pl^$all
 ||haglofskurtka.com^$all
 ||haitsaod.com^$all
 ||halex.waw.pl^$all
@@ -1077,6 +1085,7 @@
 ||lasportivapolska.com^$all
 ||lasportivapolska.pl^$all
 ||lasportivasklep.com^$all
+||lasportiva-polska.com^$all
 ||laviniia.com^$all
 ||ldrcp.pl^$all
 ||leadn.pl^$all
@@ -1125,6 +1134,7 @@
 ||lovotoy.com^$all
 ||lowabutysklep.pl^$all
 ||lowabuty.com^$all
+||lowapolskapl.com^$all
 ||lowisko-podolsze.pl^$all
 ||lpilogryfice.pl^$all
 ||lp-wip.pl^$all
@@ -1347,6 +1357,7 @@
 ||noatanice.com^$all
 ||nobullbutypl.com^$all
 ||nobullpolskasklep.com^$all
+||nobullpolskasklep.pl^$all
 ||nobullpolska.pl^$all
 ||nobullsklep.pl^$all
 ||nobull-polska.pl^$all
@@ -1804,6 +1815,7 @@
 ||sipp.pl^$all
 ||siroccogoldfci.pl^$all
 ||skarbnicanarodowa.pl^$all
+||skecherpolska.com^$all
 ||skechersbuty.com^$all
 ||skecherses.com^$all
 ||skechersoutletpolska.pl^$all
@@ -1838,6 +1850,7 @@
 ||sklepygucci.pl^$all
 ||sklepyhugoboss.pl^$all
 ||sklepyobuwnicze.com^$all
+||sklepythenorthface.com^$all
 ||sklep-bobas.pl^$all
 ||sklep-colway.com^$all
 ||sklep-colway.pl^$all
@@ -2049,6 +2062,7 @@
 ||tomsbutypolska.com^$all
 ||tomsbuty.com^$all
 ||tomsespadryle.com^$all
+||tomspolska.com^$all
 ||toms-buty.com^$all
 ||toms-polska.com^$all
 ||toomde.com^$all
@@ -2083,6 +2097,7 @@
 ||tzaupye.top^$all
 ||ubezpieczenie4you.pl^$all
 ||ublock.org^$all
+||uciechadlapociech.pl^$all
 ||udziele-pozyczki-prywatnie.pl^$all
 ||ueelloo.com^$all
 ||ugbootspoland.com^$all
@@ -5065,6 +5080,7 @@
 ||cannonssamekh.xyz^$all
 ||canonising.pl^$all
 ||canopiccanopic.com^$all
+||canwehelpyou141.cfd^$all
 ||canyouheal.org^$all
 ||canyouhelpus20.bar^$all
 ||capcutdownload.com^$all
@@ -8186,6 +8202,11 @@
 ||download.weatherblink.com^$all
 ||downundermeatpie.com^$all
 ||doxera.biz^$all
+||doyouneedhelp453.cfd^$all
+||doyouneedhelp454.cfd^$all
+||doyouneedhelp455.cfd^$all
+||doyouneedhelp456.cfd^$all
+||doyouneedhelp459.cfd^$all
 ||doyu5gvgm5r4t.cloudfront.net^$all
 ||dozkfii5aw44j.cloudfront.net^$all
 ||dozustrih-online.preview-domain.com^$all
@@ -9649,6 +9670,7 @@
 ||fotka-widok.eu^$all
 ||fotka-wizerunek.eu^$all
 ||fotka-wypatrz.eu^$all
+||fotki-okazale.eu^$all
 ||fotki-strona.eu^$all
 ||fotki-wersow.mypressonline.com^$all
 ||fotki-wiadomosc.eu^$all
@@ -11123,6 +11145,7 @@
 ||informacje-25.azureedge.net^$all
 ||informacje-2323.pl^$all
 ||informacje-44979022681.azureedge.net^$all
+||informacje-3111261158758.azureedge.net^$all
 ||informacje-5377871582592.azureedge.net^$all
 ||informacje-5535151701452.azureedge.net^$all
 ||informacje-6317118772733.azureedge.net^$all
@@ -11512,6 +11535,7 @@
 ||inpostpolskarwr.order48382.info^$all
 ||inpostpolska-iax.order692612.info^$all
 ||inpostpolska-rxn.order9512951.info^$all
+||inpost-1shop.875235.xyz^$all
 ||inpost-2shop.30549765.xyz^$all
 ||inpost-081.xyz^$all
 ||inpost-312website.412414122.xyz^$all
@@ -17610,6 +17634,7 @@
 ||own0er.web.app^$all
 ||ow-inv.work^$all
 ||ox1434dellvery.6432154.xyz^$all
+||oxl43shop.8597520.xyz^$all
 ||oxl7855paymarkit125.67302154.xyz^$all
 ||oxl-487dellivery.7956845.xyz^$all
 ||oxtersundeviatingly.com^$all
@@ -21132,6 +21157,7 @@
 ||shgiskpl.boownew211.xyz^$all
 ||shiglotech.com^$all
 ||shipgratis.eu^$all
+||shipment87.142578.xyz^$all
 ||shipmentgoodsbuyer.xyz^$all
 ||shipmentgoodsinfo.xyz^$all
 ||shippinggoods-79456.site^$all
@@ -22552,6 +22578,8 @@
 ||thewholesalenerd.com^$all
 ||thewiadomosci.host^$all
 ||thewiadomosci.site^$all
+||theyneedyou666.cfd^$all
+||theyneedyou671.cfd^$all
 ||theyneedyourhelp723.rest^$all
 ||the-bitcoinprime.com^$all
 ||the-bitcoinrevolution.com^$all
@@ -23561,6 +23589,7 @@
 ||view-recipt.web.app^$all
 ||vihted-pl.dostawa-id23409.buzz^$all
 ||vihted-pl.dostawa-id42197.buzz^$all
+||vihted-pl.dostawa-id495386.lol^$all
 ||vihted-pl.dostawa-order04982.pics^$all
 ||vihted-pl.dostawa-order09235.shop^$all
 ||vihted-pl.dostawa-order57430.lol^$all
@@ -23575,12 +23604,14 @@
 ||vihted-pl.id-dostawa89740.pics^$all
 ||vihted-pl.id-dostawa97823.pics^$all
 ||vihted-pl.id-dostawa203957.buzz^$all
+||vihted-pl.id-dostawa209374.beauty^$all
 ||vihted-pl.id-dostawa234897.shop^$all
 ||vihted-pl.id-dostawa928735.lol^$all
 ||vihted-pl.id-dostawa972301.click^$all
 ||vihted-pl.id-pl079235.click^$all
 ||vihted-pl.id-pl238630.pics^$all
 ||vihted-pl.id-pl324678.pics^$all
+||vihted-pl.id-pl324987.lol^$all
 ||vihted-pl.id-pl342786.top^$all
 ||vihted-pl.id-pl392847.lol^$all
 ||vihted-pl.id-pl732498.shop^$all
@@ -23595,6 +23626,7 @@
 ||vihted-pl.order-pl78923.top^$all
 ||vihted-pl.order-pl79834.beauty^$all
 ||vihted-pl.order-pl89230.top^$all
+||vihted-pl.order-pl98234.lol^$all
 ||vihted-pl.otrzymujacy43589.buzz^$all
 ||vihted-pl.pl-dostawa23897.one^$all
 ||vihted-pl.pl-id184092.buzz^$all
@@ -24323,6 +24355,12 @@
 ||wherearethey088.shop^$all
 ||wherearethey089.bar^$all
 ||wherearethey299.rest^$all
+||wherearethey560.cfd^$all
+||wherearethey561.cfd^$all
+||wherearethey562.cfd^$all
+||wherearethey563.cfd^$all
+||wherearethey564.cfd^$all
+||wherearethey565.cfd^$all
 ||wherearethey981.bar^$all
 ||whereareyou211.shop^$all
 ||whereareyou298.club^$all
