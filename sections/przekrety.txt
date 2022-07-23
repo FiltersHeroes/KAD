@@ -1,5 +1,5 @@
- ||xfreepresent.com^$all 
- /click.php?key=*&cost=$doc
+||xfreepresent.com^$all 
+/click.php?key=*&cost=$doc
 /tds/ae?tds_campaign=$document
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,domain=com
@@ -23807,3 +23807,5 @@
 ||*.hekko24.pl/weryfikacja/$all
 ||*.kei.pl/weryfikacja/$all
 ||*.*.mirsolar.com.tr^$all
+||enchantevent.com^$all
+||unhideme.live^$all
