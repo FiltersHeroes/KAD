@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 24 Jul 2022, 21:17 UTC+02
-! Version: 2022.7.24.4
+! Last modified: Sun, 24 Jul 2022, 22:22 UTC+02
+! Version: 2022.7.24.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3549,6 +3549,7 @@
 ||akazoo.pl^$all
 ||akcjasamsung.e-kei.pl^$all
 ||akcjeroomf.pl^$all
+||akcjevosal.pl^$all
 ||akdw.com.br^$all
 ||akinegb.com^$all
 ||akme-club.pro^$all
@@ -12369,6 +12370,7 @@
 ||inpost-polska-lod.orders993.info^$all
 ||inpost-polska-lol.ordernew11010103.info^$all
 ||inpost-polska-lox.order9512951.info^$all
+||inpost-polska-lo.order8315.info^$all
 ||inpost-polska-lq.order0912401.info^$all
 ||inpost-polska-lr.order131313.info^$all
 ||inpost-polska-lse.order2588322.info^$all
@@ -12869,31 +12871,9 @@
 ||inpost.pay-058747.xyz^$all
 ||inpost.pldostarczyc.space^$all
 ||inpost.plfast.org^$all
-||inpost.pl-basederecom.pw^$all
-||inpost.pl-infov.site^$all
-||inpost.pl-info-trackcode-id734564.xyz^$all
-||inpost.pl-info-trackcode-id973214.xyz^$all
-||inpost.pl-kastaz.site^$all
-||inpost.pl-krq.site^$all
-||inpost.pl-numer-sciezki-id861234.xyz^$all
-||inpost.pl-numer-sciezki-id874321.xyz^$all
-||inpost.pl-pass.site^$all
-||inpost.pl-tass.site^$all
-||inpost.pl-trackcode-info-id321413.xyz^$all
-||inpost.pl-trackcode-info-id478915.xyz^$all
-||inpost.pl-trackcode-info-id745611.xyz^$all
-||inpost.pl-trackcode-info-id785634.xyz^$all
-||inpost.pl-trackcode-info-id983713.xyz^$all
-||inpost.pl-tracknumber458775.xyz^$all
 ||inpost.pl-*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
-||inpost.pl.aus-payforitto.pw^$all
-||inpost.pl.kaitemsbuying.pw^$all
-||inpost.pl.mebuyit.pw^$all
 ||inpost.pl.*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
-||inpost.polska24-dostawa24.shop^$all
-||inpost.polska24-dostawa24.xyz^$all
 ||inpost.polska*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
-||inpost.polska-akk.order692612.info^$all
 ||inpost.post-derive.com^$all
 ||inpost.post-dostawa.com^$all
 ||inpost.productdispatchsite.xyz^$all
@@ -14718,7 +14698,9 @@
 ||lucky-iproject.site^$all
 ||lucyonmued.site^$all
 ||ludziecosawstanie.online^$all
+||ludzie-uwaga.eu^$all
 ||ludzi-szukanie.rodeo^$all
+||ludzka-zawisc.eu^$all
 ||luisfelipedelatorre.com^$all
 ||lukajanezic.com^$all
 ||lukaszsoja.pl^$all
@@ -17034,7 +17016,6 @@
 ||olx-m.id-9843.me^$all
 ||olx-n.id-43980.me^$all
 ||olx-oddam.azurewebsites.net^$all
-||olx-oferta.pl^$all
 ||olx-oferta.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-offerta.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-onlineshopping.com^$all
@@ -17058,10 +17039,8 @@
 ||olx-pl-3dsafe.id-512560.xyz^$all
 ||olx-pl-delivery.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl-dostava.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
-||olx-pl-dostawa.xyz^$all
 ||olx-pl-dostawa.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl-id-*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
-||olx-pl-id.ru^$all
 ||olx-pl-id.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pl-lzp.id-59877.me^$all
 ||olx-pl-ns.5812759.live^$all
@@ -17179,7 +17158,6 @@
 ||olx-wyplata.pl^$all
 ||olx-wypllata.pl^$all
 ||olx-y.pl^$all
-||olx-zamowienie.so^$all
 ||olx-zamowienie.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-zaplata.pl^$all
 ||olx-z.pl^$all
@@ -17189,12 +17167,8 @@
 ||olx.310548.xyz^$all
 ||olx.837269plid.pics^$all
 ||olx.buying-57849.xyz^$all
-||olx.deliveryuser-deniedpl.xyz^$all
-||olx.delivery-polska.site^$all
 ||olx.deliver*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.deljvery-9865.xyz^$all
-||olx.dellivers.info^$all
-||olx.dellivery.su^$all
 ||olx.delliver*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.distributionfundspl-ptr.xyz^$all
 ||olx.dostawa23535.top^$all
@@ -17227,31 +17201,7 @@
 ||olx.payment-otrymac.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.paysafe.site^$all
 ||olx.payu-sio.com^$all
-||olx.pl-cash.info^$all
-||olx.pl-getservice.info^$all
-||olx.pl-informacje.info^$all
-||olx.pl-konto.co^$all
-||olx.pl-m-informacja.cyou^$all
-||olx.pl-m-informacja.icu^$all
-||olx.pl-m-informacja.info^$all
-||olx.pl-m-wysylka.site^$all
-||olx.pl-m-wysylka.website^$all
-||olx.pl-panel.info^$all
-||olx.pl-payment.oferta-pay.com^$all
-||olx.pl-traktaty24389.top^$all
-||olx.pl-zamawienie.shop^$all
 ||olx.pl-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
-||olx.pl.bskiikcom.pw^$all
-||olx.pl.buyfcomtransit.site^$all
-||olx.pl.comstransbuyit.site^$all
-||olx.pl.informacija.link^$all
-||olx.pl.itbuyingtofor.pw^$all
-||olx.pl.itemcheck-gn.pw^$all
-||olx.pl.oferta-payment.co^$all
-||olx.pl.save-deal.me^$all
-||olx.pl.topaybbitfor.pw^$all
-||olx.pl.transbuyingite.pw^$all
-||olx.pl.x-payment.win^$all
 ||olx.pl.*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.polska-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.primind-banii.cc^$all
@@ -19211,6 +19161,7 @@
 ||polskacompany.online^$all
 ||polskadenga.xyz^$all
 ||polskagroups.space^$all
+||polskainfo-778.azureedge.net^$all
 ||polskainfo-8852487412410.azureedge.net^$all
 ||polskalive.eu^$all
 ||polskanews.eu^$all
@@ -20875,7 +20826,9 @@
 ||rs.automaticprog.xyz^$all
 ||rtibkwao.pl^$all
 ||rtibkwaq.pl^$all
+||rtibkwa.pl^$all
 ||rtibkw.pl^$all
+||rtibk.pl^$all
 ||rt.in-group.xyz^$all
 ||ruater.pl^$all
 ||rubefacien.pl^$all
@@ -24178,6 +24131,7 @@
 ||virgilio2021.com^$all
 ||virginiavillageliquor.com^$all
 ||virlus.xyz^$all
+||virted-pl-fi551.order-ship.com^$all
 ||virtualcasino.pl^$all
 ||virtualna-polska.pl^$all
 ||visa-payment.sytes.net^$all
@@ -25554,6 +25508,7 @@
 ||you24.eu^$all
 ||youcanhelpthem1.bar^$all
 ||youmighthelp582.shop^$all
+||yoump.se^$all
 ||youorlen.xyz^$all
 ||yourfitway.com^$all
 ||yourflix.pl^$all
