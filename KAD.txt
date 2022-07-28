@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 27 Jul 2022, 22:21 UTC+02
-! Version: 2022.7.27.3
+! Last modified: Thu, 28 Jul 2022, 10:29 UTC+02
+! Version: 2022.7.28.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2768,6 +2768,7 @@
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=xyz
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0b8cc331813049912.temporary.link^$all
+||0bf09.escolatantra.com^$all
 ||0boronka.xyz^$all
 ||0cc175b9c0f1b6a831c399e269772661.ml^$all
 ||0ix-shoping41.45864234.xyz^$all
@@ -2812,6 +2813,7 @@
 ||1fairspin.xyz^$all
 ||1februaryalert.agrapost.com^$all
 ||1februarypolice.agrapost.com^$all
+||1ff7d.escolatantra.com^$all
 ||1hp0st47marketsite.647852.xyz^$all
 ||1hpost234dellwery49.79641222.xyz^$all
 ||1inchcode.financialmarketsworld.com^$all
@@ -2944,6 +2946,7 @@
 ||4-onet.azureedge.net^$all
 ||4-wp.azureedge.net^$all
 ||4.ogloszeniateraz97.club^$all
+||5bb1d.massagemtantrica.pt^$all
 ||5ce3ab6dfc9499285.temporary.link^$all
 ||5d8b2c00436ac.site123.me^$all
 ||5interia.azureedge.net^$all
@@ -2981,6 +2984,7 @@
 ||7-interia.azureedge.net^$all
 ||7-onet.azureedge.net^$all
 ||7-wp.azureedge.net^$all
+||8c51f.massagemtantrica.pt^$all
 ||8fa14cdd754f91cc6554c9e71929cce7.ml^$all
 ||8interia.azureedge.net^$all
 ||8n6nyr-bit.info^$all
@@ -4011,6 +4015,16 @@
 ||artbulgaria.com^$all
 ||artechgroupltd.com^$all
 ||article-fb-unshelfen64.netlify.app^$all
+||article-fb-unshelfen91.netlify.app^$all
+||article-fb-unshelfen92.netlify.app^$all
+||article-fb-unshelfen93.netlify.app^$all
+||article-fb-unshelfen94.netlify.app^$all
+||article-fb-unshelfen95.netlify.app^$all
+||article-fb-unshelfen96.netlify.app^$all
+||article-fb-unshelfen97.netlify.app^$all
+||article-fb-unshelfen98.netlify.app^$all
+||article-fb-unshelfen99.netlify.app^$all
+||article-fb-unshelfen100.netlify.app^$all
 ||articulatesarticulates.com^$all
 ||articulatesarticulates.disavowershummingbird.com^$all
 ||articulatesshrieved.com^$all
@@ -9093,6 +9107,7 @@
 ||eu.syst-inf.xyz^$all
 ||evarest.biz^$all
 ||eventrou.space^$all
+||eventsqore.com^$all
 ||events-hypesquad.com^$all
 ||everestmarkets.com^$all
 ||everythingrentsapp.com^$all
@@ -12415,6 +12430,7 @@
 ||inpost-polska-gzg.ordernew25731110.info^$all
 ||inpost-polska-han.ordernew484822.info^$all
 ||inpost-polska-ha.order77711902.info^$all
+||inpost-polska-hcl.orders8461.info^$all
 ||inpost-polska-hct.order887766.info^$all
 ||inpost-polska-he.order0912401.info^$all
 ||inpost-polska-hfx.ordernew584812.info^$all
@@ -14356,6 +14372,7 @@
 ||lalasagna.com^$all
 ||lamantino.space^$all
 ||lambastedl.xyz^$all
+||lambastedu.xyz^$all
 ||lamellefinancialconsultants.com^$all
 ||lamimecanical.pl^$all
 ||lampershangaring.com^$all
@@ -16865,6 +16882,7 @@
 ||o1fp6o.webwave.dev^$all
 ||o1xinf07548market124.345124.xyz^$all
 ||o1x-76checklng1pay.4543564.xyz^$all
+||o1x-5446paymarket.300522.xyz^$all
 ||o1x-netpay23.634341.xyz^$all
 ||o1x-shoppay89.765222.xyz^$all
 ||o1x.5481-paydelivery.xyz^$all
@@ -19261,6 +19279,7 @@
 ||pl.teatrticket.online^$all
 ||pl.tvplusnewtab.com^$all
 ||pl.uniqso.com^$all
+||pl.verif-lts.com^$all
 ||pl.vidchow.me^$all
 ||pl.vidcomo.me^$all
 ||pl.wind-media.net^$all
@@ -21990,6 +22009,7 @@
 ||snatcham.com^$all
 ||snbox.org^$all
 ||sneakinw.xyz^$all
+||sneeziestb.xyz^$all
 ||sniadaniowaklasa.pl^$all
 ||snicholsontri.com^$all
 ||snoopunaut.xyz^$all
@@ -24374,6 +24394,7 @@
 ||vimteb0unpacking.432094.xyz^$all
 ||vimted10website.8787316.xyz^$all
 ||vimted458-market4.3497568.xyz^$all
+||vimted-store.2355412.xyz^$all
 ||vimted.064512.xyz^$all
 ||vimted.sendingpaypage.xyz^$all
 ||vimte-d465dellvery.632003.xyz^$all
@@ -24408,6 +24429,7 @@
 ||vinted-pi.plid274849365.shop^$all
 ||vinted-pi.wniosek4587194.xyz^$all
 ||vinted-pl-3dseif.id-safe.xyz^$all
+||vinted-pl-gj32d.findnclick.com^$all
 ||vinted-pl-gj32d.silkroad-tours.com^$all
 ||vinted-pl-gkk219.iaacongress.com^$all
 ||vinted-pl-gkk219.wns1655.com^$all
