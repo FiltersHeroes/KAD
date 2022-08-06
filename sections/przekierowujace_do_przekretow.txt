@@ -1,5 +1,7 @@
 .com/c/*?s1=$doc,domain=com
 ||overorlenpost.my-free.website^$all
+||probescenter.com/api/v*/offer/^$doc
+||olmkcenter.com/api/v*/leads-workflow/^$doc
 .net/c/*?s1=$doc,domain=net
 /fckupload/*.xml$doc,domain=libron.pl
 /fck_files/*.xml$doc,domain=m-vision.com.pl
