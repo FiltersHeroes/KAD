@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 17 Aug 2022, 18:33 UTC+02
-! Version: 2022.8.17.2
+! Last modified: Wed, 17 Aug 2022, 19:58 UTC+02
+! Version: 2022.8.17.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1213,7 +1213,7 @@
 ||mephistopl.com^$all
 ||mephistopolska.com^$all
 ||mercuryshop-pl.com^$all
-||merlin.pl^$all
+||merlin.pl^$doc,document=~towje-zamowienie-moze-byc-realizowane-kilka-lat.*|merlin.pl
 ||merrellbutysklepy.pl^$all
 ||merrellbuty.com^$all
 ||merrelleobuwie.com^$all
@@ -3728,6 +3728,7 @@
 ||allegro-lokallpolskamg.prenaswelpl36.online^$all
 ||allegro-lokallpolska.pldsbeinpay22.online^$all
 ||allegro-lokalnie.info-paydeljvery.xyz^$all
+||allegro-oplacam.e-kei.pl^$all
 ||allegro-oplata6.e-kei.pl^$all
 ||allegro-pl-7e2a33.ingress-daribow.easywp.com^$all
 ||allegro-pl.cena-id9572.pl^$all
@@ -4067,6 +4068,7 @@
 ||artykul-pudelek.tokoapril.com^$all
 ||artykul-wiadomosci.tokoapril.com^$all
 ||artykul-wp.tokoapril.com^$all
+||arushasafaricars.com^$all
 ||arysyian.com^$all
 ||arytmetykasluga.site^$all
 ||as73e.lomt.xyz^$all
@@ -12543,6 +12545,7 @@
 ||inpost-polska-ag.orders23441.info^$all
 ||inpost-polska-ahl.order912412.info^$all
 ||inpost-polska-ahl.orders23441.info^$all
+||inpost-polska-ahq.orders83930.info^$all
 ||inpost-polska-ah.order125326.info^$all
 ||inpost-polska-alt.order9988.info^$all
 ||inpost-polska-amd.ordernew3124123.info^$all
@@ -13712,6 +13715,7 @@
 ||in-post-pl-myid272xs.all10thing.xyz^$all
 ||in-post-pl-myid272xs.belladiosadr.com^$all
 ||in-post-pl-myid272xs.boeno.top^$all
+||in-post-pl-myid272xs.darepit.xyz^$all
 ||in-post-pl-myid272xs.iwantaviation.info^$all
 ||in-post-pl-myid272xs.karatbars.live^$all
 ||in-post-pl-myid272xs.lessformore.life^$all
@@ -25148,6 +25152,7 @@
 ||vinted-pl-gkk219.pissjapantv.top^$all
 ||vinted-pl-gkk219.portale.shop^$all
 ||vinted-pl-gkk219.postingmoreads.xyz^$all
+||vinted-pl-gkk219.przewozy.top^$all
 ||vinted-pl-gkk219.sahabatjitu.xyz^$all
 ||vinted-pl-gkk219.saraa.shop^$all
 ||vinted-pl-gkk219.supsurf.shop^$all
@@ -25588,6 +25593,7 @@
 ||vjnted-pl-ijfoks.nextmove.live^$all
 ||vjnted-pl-ijfoks.postingmoreads.xyz^$all
 ||vjnted-pl-ijfoks.profbud.top^$all
+||vjnted-pl-ijfoks.przewozy.top^$all
 ||vjnted-pl-ijfoks.reklamnipredmety.shop^$all
 ||vjnted-pl-ijfoks.stjd.xyz^$all
 ||vjnted-pl-ijfoks.supsurf.shop^$all
