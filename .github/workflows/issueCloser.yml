@@ -5,7 +5,7 @@ on:
 
 jobs:
   letsgo:
-    if: github.event.label.name == 'zatwierdzone' || github.event.label.name == 'dawno zrobione'
+    if: github.event.label.name == 'zatwierdzone' || github.event.label.name == 'odrzucone' || github.event.label.name == 'dawno zrobione'
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -13,25 +13,19 @@ jobs:
       - uses: actions/github-script@v6
         with:
           script: |
-              github.rest.issues.update({
-                      owner: context.repo.owner,
-                      repo: context.repo.repo,
-                      issue_number: context.issue.number,
-                      state: "closed"
-              })
-  letsgo2:
-    if: github.event.label.name == 'odrzucone'
-    runs-on: ubuntu-latest
-    permissions:
-      issues: write
-    steps:
-      - uses: actions/github-script@v6
-        with:
-          script: |
+              var reason;
+              var labels = context.payload.issue.labels;
+              if(labels.some(e => e.name === "zatwierdzone")) {
+                reason = "completed"
+              } else if (labels.some(e => e.name === "dawno zrobione")) {
+                reason = "completed"
+              } else {
+                reason = "not_planned"
+              }
               github.rest.issues.update({
                       owner: context.repo.owner,
                       repo: context.repo.repo,
                       issue_number: context.issue.number,
                       state: "closed",
-                      state_reason: "not_planned"
+                      state_reason: reason
               })
