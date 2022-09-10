@@ -15,11 +15,11 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{3,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$doc,popup,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{3,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$popup,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=vip
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$doc,popup,domain=life|live
-/^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$doc,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$popup,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
+/^https?:\/\/([\w]{1,4}\.)?[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/\?utm_campaign=\w{40,}/$doc,match-case,domain=life|live|top|xyz
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=xyz
 |http*://*/fb-login/$doc,domain=~facebook.com
