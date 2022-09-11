@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 10 Sep 2022, 22:25 UTC+02
-! Version: 2022.9.10.3
+! Last modified: Sun, 11 Sep 2022, 02:18 UTC+02
+! Version: 2022.9.11.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2399,7 +2399,6 @@
 /uploads/*.xml$doc,domain=europartner.com.pl|zdrowiedlawszystkich.pl
 /upload/*.xml$doc,domain=miniraj.pl
 /userfiles/*.xml$doc,domain=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|fundacja-impuls.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|korio-olsztyn.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl
-/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?utm_campaign=\w{40,}&t=/$doc,domain=top
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
 /^https?:\/\/((?!www)[a-z]{3,}\.)?[-0-9a-z]{6,}\.(?:buzz|com|de|fun|guru|life|online|pw|site|space|top|us|xyz)\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,match-case,domain=buzz|com|de|fun|guru|life|online|pw|site|space|top|us|xyz
@@ -2775,10 +2774,10 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?\.\w+-?pocztex(\d+)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?.*-?emonitoring-?e?poczta[\w]{1,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?.*-?(fakty?|news|wiadomosci?)gwalt(\d+)?\.[\w]{2,14}/$all
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{3,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$doc,popup,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/\?utm_campaign=\w{40,}/$doc,match-case,domain=life|live|top|xyz
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{3,}\d{0,3}[a-z]{3,}\.li[fv]e\/(?:\d{10}|[a-z]{8})\/\?/$popup,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{6}\.vip\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=vip
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$doc,popup,domain=life|live
-/^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$doc,domain=life|live
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{7,}\.li[fv]e\/[a-z]{8}\/\?/$popup,domain=life|live
 /^https?:\/\/([\w]{1,4}\.)?[-0-9a-z]*prize[-0-9a-z]+\.li[fv]e\/\?u=[0-9a-z]+&o=[0-9a-z]+/$popup,domain=www.google.*
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=xyz
