@@ -1,4 +1,3 @@
-
 /pl/pge/87315823/1895292/|$doc,frame
 /pl/pge/start-transaction/index.php|$doc,frame,domain=~pl
 /pl/pge/pay.php|$doc,frame,domain=~pl
@@ -15,8 +14,8 @@
 /pl/pocztowy.pl/login/index.php?pay&$doc,frame,domain=~pl
 /pl/citibank/?pay&b=$doc,frame,domain=~pl
 /pl/bos-bank/?pay|$doc,frame,domain=~pl
-/pl/vwfs/portal/?pay|$doc,frame$doc,frame,domain=~pl
-/pl/plusbank/?pay|$doc,frame$doc,frame,domain=~pl
+/pl/vwfs/portal/?pay|$doc,frame,domain=~pl
+/pl/plusbank/?pay|$doc,frame,domain=~pl
 
 /click.php?key=*&cost=$doc
 /tds/ae?tds_campaign=$document
