@@ -3,8 +3,8 @@
 ! Homepage: https://kadantiscam.netlify.app
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 17 Sep 2022, 18:32 UTC+02
-! Version: 2022.9.17.3
+! Last modified: Sat, 17 Sep 2022, 22:24 UTC+02
+! Version: 2022.9.17.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -115,6 +115,7 @@
 ||animi2.com^$all
 ||ankiety-konsumenckie.pl^$all
 ||annaoer.shop^$all
+||annashop.pl^$all
 ||anwan.pl^$all
 ||apartamentypoleska.pl^$all
 ||aparthema.org.pl^$all
@@ -182,6 +183,7 @@
 ||basecamp-shop.com^$all
 ||baseny.club^$all
 ||bastalin.com^$all
+||bathdeco.pl^$all
 ||bazartani.pl^$all
 ||bazasprawdzianow.pl^$all
 ||bdz.com.pl^$all
@@ -594,12 +596,14 @@
 ||egalitaire.com.pl^$all
 ||eglobalcentral.pl^$all
 ||ekoplava.pl^$all
+||eko-groszek-sklad.com^$all
 ||eksperci-footbolu.com^$all
 ||ekspres-sklep.pl^$all
 ||elcap.pl^$all
 ||electaussi.com^$all
 ||electroline.pl^$all
 ||elefonty.pl^$all
+||elegrina.pl^$all
 ||elektro24h.pl^$all
 ||elektronicznyswiat.pl^$all
 ||elektrookazje.pl^$all
@@ -738,6 +742,7 @@
 ||fun-mobi.pl^$all
 ||furlapolska.com^$all
 ||furoshikibuty.com^$all
+||futado.pl^$all
 ||futurenet.club^$all
 ||fxgm.com^$all
 ||fxingb.top^$all
@@ -786,6 +791,7 @@
 ||gimnazjumniedrzwica.pl^$all
 ||gionatti.com^$all
 ||girrrly.com^$all
+||giyfusanlig.com^$all
 ||glams.pl^$all
 ||glinkss.com^$all
 ||gnibrinfgoy.com^$all
@@ -1468,6 +1474,7 @@
 ||pattern-trader.net^$all
 ||paulcaltier.pl^$all
 ||pawimex.com.pl^$all
+||payputs.com^$all
 ||pcmban.com^$all
 ||pcspeedup.com^$all
 ||pc-soft.pl^$all
@@ -1526,6 +1533,7 @@
 ||pl.easy-shop.eu^$all
 ||pl.godeal24.com^$all
 ||pl.gvgmall.com^$all
+||pl.heatpal.org^$all
 ||pl.heyfit.shop^$all
 ||pl.lucybreeze.com^$all
 ||pl.melaleuca.com^$all
@@ -1536,6 +1544,7 @@
 ||pl.store2021.net^$all
 ||pl.sylvettas-shop.com^$all
 ||pl.vitaminuk.com^$all
+||pl.wanderheat.net^$all
 ||pl.whokeys.com^$all
 ||pl.wolfsver.com^$all
 ||pl.xipurjoy.com^$all
@@ -1888,6 +1897,7 @@
 ||sneakerz2020.com^$all
 ||sneakfreak.pl^$all
 ||sockshock.com^$all
+||socoiuy.shop^$all
 ||sojbud.com.pl^$all
 ||solidarniplus.pl^$all
 ||solideo.com.pl^$all
@@ -2401,7 +2411,7 @@
 /userfiles/*.xml$doc,domain=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|fundacja-impuls.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|korio-olsztyn.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https?:\/\/((?!www)[a-z]{3,}\.)?[-0-9a-z]{6,}\.(?:buzz|com|de|fun|guru|life|online|pw|site|space|top|us|xyz)\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,match-case,domain=buzz|com|de|fun|guru|life|online|pw|site|space|top|us|xyz
+/^https?:\/\/((?!www)[a-z]{3,}|\d{2})?\.?[-0-9a-z]{6,}\.[a-z]{2,6}\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|online|pw|site|space|top|us|xyz
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 ||0n.click^$all
 ||12monkiredirect.com^$all
@@ -2632,6 +2642,7 @@
 ||xn--21955-gya.biz^$all
 ||xn--22455-udb.biz^$all
 ||xn--30986-udb.biz^$all
+||xoaald.treasurewalting.com^$all
 ||xtroglobal.com^$all
 ||xumefoo.ru^$all
 ||yarlnk.com^$all
@@ -3771,6 +3782,7 @@
 ||allcarecleanups.com^$all
 ||allegor.xyz^$all
 ||allegr0l0kalnie-user.763421.xyz^$all
+||allegr0lokalnie-delivery.8099096.xyz^$all
 ||allegr0lokalnie-goods.9032189.xyz^$all
 ||allegr0lokalnie-purchase.799093.xyz^$all
 ||allegr0.42356.net^$all
@@ -9450,6 +9462,7 @@
 ||effective-bussiness.info^$all
 ||effervescentphotobiologies.com^$all
 ||effluvialmayflowers.com^$all
+||efilmsy.pl^$all
 ||eforsa.pl^$all
 ||efoteczka.eu^$all
 ||efqx-shrt.one^$all
@@ -10312,6 +10325,7 @@
 ||filmline.pl^$all
 ||filmobo.com^$all
 ||filmofon.pl^$all
+||filmohit.pl^$all
 ||filmonlinebezlimitufot51.ek1.pl^$all
 ||filmonlinecda.pl^$all
 ||filmovnia.pl^$all
@@ -10334,6 +10348,7 @@
 ||filmyplus.pl^$all
 ||filmyroku.pl^$all
 ||filmyseriale.pl^$all
+||filmyzadarmo.com.pl^$all
 ||filmy-seriale24.pl^$all
 ||filmy-seriale.net^$all
 ||filmy-seriale.pl^$all
@@ -13136,6 +13151,7 @@
 ||inpost-pl-mynid2ihxa.cimaclub.live^$all
 ||inpost-pl-mynid2ihxa.eprix.live^$all
 ||inpost-pl-mynid2ihxa.feige123.top^$all
+||inpost-pl-mynid2ihxa.gdcdn.top^$all
 ||inpost-pl-mynid2ihxa.happyderi.xyz^$all
 ||inpost-pl-mynid2ihxa.heehoo.shop^$all
 ||inpost-pl-mynid2ihxa.hiyuu.life^$all
@@ -13147,6 +13163,7 @@
 ||inpost-pl-mynid2ihxa.kuzhuang.top^$all
 ||inpost-pl-mynid2ihxa.liaoyang.xyz^$all
 ||inpost-pl-mynid2ihxa.liqun.shop^$all
+||inpost-pl-mynid2ihxa.louruge.top^$all
 ||inpost-pl-mynid2ihxa.mfe.life^$all
 ||inpost-pl-mynid2ihxa.nextmove.live^$all
 ||inpost-pl-mynid2ihxa.osamet.shop^$all
@@ -14981,6 +14998,7 @@
 ||iwypadek-info24news.pl^$all
 ||ixotiw.pl^$all
 ||iyeuryetts.firebaseapp.com^$all
+||iyxwfilm.xyz^$all
 ||izalukaj.pl^$all
 ||izlogin-webmail.web.app^$all
 ||i-24-fakty-info.com.pl^$all
@@ -15498,6 +15516,7 @@
 ||kingmoviesfox.site^$all
 ||kingslandrealtyghana.com^$all
 ||kingsloaded.com.ng^$all
+||kingvod.pl^$all
 ||kinofilm-tv.pl^$all
 ||kinomaniak.cc^$all
 ||kinomaniak.pl^$all
@@ -17046,6 +17065,7 @@
 ||mfipxnfcga.cfolks.pl^$all
 ||mfoauf82fnab.bar^$all
 ||mfpgov.pl^$all
+||mgparikh.com^$all
 ||mgrgew.com^$all
 ||mgzhgs.com^$all
 ||mhishop.rn4.internetrnd.com^$all
@@ -18579,6 +18599,7 @@
 ||nudnicksfo.pl^$all
 ||nudziarznieuchronnie.site^$all
 ||nuengine-trust.live^$all
+||nufilm.live^$all
 ||nug.losm.xyz^$all
 ||nukecult.com^$all
 ||nullnonce.com^$all
@@ -21067,6 +21088,7 @@
 ||plynskora.site^$all
 ||plytanagrillapl.com^$all
 ||plywacniewolnik.site^$all
+||plzalukaj.icu^$all
 ||pl-12kg.web.app^$all
 ||pl-60f27199.service-local.waw.pl^$all
 ||pl-akceptuje.com^$all
@@ -21943,6 +21965,7 @@
 ||pon.titleinvest.site^$all
 ||pool-inc.web.app^$all
 ||pool-inv.web.app^$all
+||popcornflix.pl^$all
 ||poperygraz.xyz^$all
 ||poperyk.xyz^$all
 ||popfilm.pl^$all
@@ -23983,6 +24006,7 @@
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
 ||serwislaptopow.getleads.pl^$all
+||serwiszalukaj.icu^$all
 ||serwis-24-57224498711.azureedge.net^$all
 ||serwis-24-96524287248.azureedge.net^$all
 ||serwis-24-96933135128.azureedge.net^$all
@@ -25835,6 +25859,7 @@
 ||top-premium.weebly.com^$all
 ||top-ragers.net^$all
 ||top-sukces.site^$all
+||top-zalukaj-2022.icu^$all
 ||top.activeprov.xyz^$all
 ||top.app-copl.site^$all
 ||top.artaav.site^$all
@@ -26214,6 +26239,7 @@
 ||tv-wiadomosci-5513877742106.azureedge.net^$all
 ||tv-wiadomosci-6547595593676.azureedge.net^$all
 ||tv-wiadomosci-9188725362990.azureedge.net^$all
+||tv-zalukaj.pl^$all
 ||tv.gorzow.pl^$all
 ||tv.kolobrzeg.pl^$all
 ||twenty-wishes.000webhostapp.com^$all
@@ -26672,6 +26698,7 @@
 ||vasellyude.info^$all
 ||vasenu.space^$all
 ||vasia-weddings.com^$all
+||vaskicher.com^$all
 ||vaskol-uno.preview-domain.com^$all
 ||vassobest.com^$all
 ||vatnikol.website^$all
@@ -29365,6 +29392,7 @@
 ||wszedzietojest.eu^$all
 ||wszedzie-jestesmy.pl^$all
 ||wszyscy-nagrodzeni.eu^$all
+||wszystkiefilmy.pl^$all
 ||wszystkie-albo.eu^$all
 ||wszystko-problem.eu^$all
 ||wtc1.molods.xyz^$all
@@ -29855,7 +29883,8 @@
 ||zak.unlim-balticpipe.xyz^$all
 ||zalbani.is-best.net^$all
 ||zaleznosc.gy-ve.com^$all
-||zalukaj*.$doc,domain=~zalukaj.vip
+||zalukaj*.$doc,domain=~zalukaj.ru
+||zaluknij.pl^$all
 ||zamekignorant.site^$all
 ||zamelas-xyz.preview-domain.com^$all
 ||zamkniety-duza.site^$all
