@@ -9,7 +9,6 @@ import sys
 import shutil
 import re
 from tempfile import NamedTemporaryFile
-from difflib import Differ
 from downloader import download
 from cleanup3p import cleanup3p
 
@@ -58,42 +57,30 @@ cleanup3p(tp_path)
 
 expired_path = pj(main_path, "exclusions", tp + "_expired.txt")
 
-differ = Differ()
-novelties = []
-with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
-        open(tp_path, "r", encoding='utf-8') as tp_f:
-    for line in differ.compare(KADhosts.readlines(), tp_f.readlines()):
-        if line.startswith("+"):
-            novelties.append(line.replace("+ ", ""))
+KADhosts_list = {}
+with open(KADhosts_path, "r", encoding='utf-8') as KADhosts:
+    for line in KADhosts:
+        if line != "":
+            KADhosts_list[line.strip()] = ""
 
+novelties = {}
+with open(tp_path, "r", encoding='utf-8') as tp_f:
+    for line in tp_f:
+        if not line.strip() in KADhosts_list:
+            novelties[line.strip()] = ""
 
 if os.path.isfile(expired_path):
-    novelties_tmp = []
-    with open(expired_path, "r", encoding='utf-8') as offline_list:
-        for line in differ.compare(novelties, offline_list.readlines()):
-            if line.startswith("-"):
-                if not "\n" in line:
-                    line = line + "\n"
-                novelties_tmp.append(line.replace("- ", ""))
-
-if len(novelties_tmp) > 0:
-    novelties = novelties_tmp
-    novelties_tmp = []
+    with open(expired_path, "r", encoding='utf-8') as expired_list:
+        for line in expired_list:
+            if line.strip() in novelties:
+                del novelties[line.strip()]
 
 skip_path = pj(main_path, "exclusions", tp + "_skip.txt")
-
 if os.path.isfile(skip_path):
     with open(skip_path, "r", encoding='utf-8') as skip_list:
-        for line in differ.compare(novelties, skip_list.readlines()):
-            if line.startswith("-"):
-                if not "\n" in line:
-                    line = line + "\n"
-                novelties_tmp.append(line.replace("- ", ""))
-
-if len(novelties_tmp) > 0:
-    novelties = novelties_tmp
-    novelties_tmp = []
-
+        for line in skip_list:
+            if line.strip() in novelties:
+                del novelties[line.strip()]
 
 regex_list = []
 
