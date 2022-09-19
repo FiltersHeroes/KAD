@@ -3,7 +3,7 @@ name: Aktualizacja listy
 on:
   workflow_dispatch: null
   schedule:
-      - cron: "0 8,12,16,20 * * *"
+      - cron: "0 8,16,20 * * *"
 
 jobs:
   CERT:
@@ -45,6 +45,11 @@ jobs:
           fetch-depth: 0
       - uses: actions/download-artifact@v3
         with:
+          name: CERT
+          path: sections
+      - uses: actions/download-artifact@v3
+        with:
+          name: LWS
           path: sections
       - name: Aktualizacja całej listy
         env:
