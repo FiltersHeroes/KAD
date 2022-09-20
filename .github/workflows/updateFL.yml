@@ -8,7 +8,7 @@ on:
 jobs:
   CERT:
     runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/kad_image:3.0.1
+    container: ghcr.io/filtersheroes/kad_image:3.0.2
     steps:
       - uses: actions/checkout@v3
       - name: Dodawanie nowości z CERT
@@ -23,7 +23,7 @@ jobs:
             sections/CERT_novelties.txt
   LWS:
     runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/kad_image:3.0.1
+    container: ghcr.io/filtersheroes/kad_image:3.0.2
     steps:
       - uses: actions/checkout@v3
       - name: Dodawanie nowości z LWS
@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    container: ghcr.io/filtersheroes/kad_image:3.0.1
+    container: ghcr.io/filtersheroes/kad_image:3.0.2
     steps:
       - uses: actions/checkout@v3
         with:

@@ -2,7 +2,7 @@ version: 2
 jobs:
   CERT:
     docker:
-    - image: polishfiltersteam/kad_image:2.26.9-2
+    - image: polishfiltersteam/kad_image:3.0.2
     working_directory: ~/git/KAD
     steps:
     - checkout
@@ -13,7 +13,7 @@ jobs:
           - sections/CERT_novelties.txt
   LWS:
     docker:
-    - image: polishfiltersteam/kad_image:2.26.9-2
+    - image: polishfiltersteam/kad_image:3.0.2
     working_directory: ~/git/KAD
     steps:
     - checkout
@@ -24,13 +24,13 @@ jobs:
           - sections/LWS_novelties.txt
   Aktualizacja:
     docker:
-    - image: polishfiltersteam/kad_image:2.26.9-2
+    - image: polishfiltersteam/kad_image:3.0.2
     working_directory: ~/git/KAD
     steps:
     - checkout
     - attach_workspace:
         at: ./
-    - run: ./scripts/build.sh
+    - run: python3 ./scripts/build.py
 workflows:
   version: 2
   workflow:
