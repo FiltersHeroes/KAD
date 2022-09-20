@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 20 Sep 2022, 19:08 UTC+02:00
-! Version: 2022.9.20.3
+! Last modified: Tue, 20 Sep 2022, 22:24 UTC+02:00
+! Version: 2022.9.20.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5532,6 +5532,7 @@
 ||byamekug.de^$all
 ||byelaws.pl^$all
 ||byfygd5kd.rdl.pl^$all
+||bygma-cloud-app-ibm-cert.s3.ams03.cloud-object-storage.appdomain.cloud^$all
 ||byktem.pl^$all
 ||bylismy-i-bedziemy.pl^$all
 ||bylismy-zawsze.pl^$all
@@ -12226,6 +12227,7 @@
 ||ihpost-dispatch.2000873.xyz^$all
 ||ihpost-purchase.5490076.xyz^$all
 ||ihpost-shipment.5664322.xyz^$all
+||ihpost-shopping.7864530.xyz^$all
 ||ihpost-shopsite.30215421.xyz^$all
 ||ihpost-store.965820347.xyz^$all
 ||ihpost.6-informdelivery.xyz^$all
@@ -17224,6 +17226,7 @@
 ||lnp0st.dispatch-uyuuy.space^$all
 ||lnp0st.dispatch-vxc23.online^$all
 ||lnpost-delivery.xyz^$all
+||lnpost-info.gdbbf.click^$all
 ||lnpost-pl-45868.xyz^$all
 ||lnpost-pl.64574.space^$all
 ||lnpost-pl.721279.space^$all
@@ -18381,6 +18384,7 @@
 ||moja-paczka-pl-myid576xs.ganool.live^$all
 ||moja-paczka-pl-myid576xs.goringhall.live^$all
 ||moja-paczka-pl-myid576xs.gtheme.co^$all
+||moja-paczka-pl-myid576xs.inmeng.xyz^$all
 ||moja-paczka-pl-myid576xs.ipnio.xyz^$all
 ||moja-paczka-pl-myid576xs.jiasule.top^$all
 ||moja-paczka-pl-myid576xs.luisnglbrv.xyz^$all
@@ -20565,25 +20569,34 @@
 ||olx-pol-kxlsw2.ampj.top^$all
 ||olx-pol-kxlsw2.austenyo.shop^$all
 ||olx-pol-kxlsw2.bittip.xyz^$all
+||olx-pol-kxlsw2.boshen.top^$all
 ||olx-pol-kxlsw2.brambu.live^$all
 ||olx-pol-kxlsw2.bravica.live^$all
 ||olx-pol-kxlsw2.cenga.xyz^$all
 ||olx-pol-kxlsw2.cimaclub.live^$all
+||olx-pol-kxlsw2.cqsfw.xyz^$all
 ||olx-pol-kxlsw2.dantri.top^$all
 ||olx-pol-kxlsw2.digin.live^$all
 ||olx-pol-kxlsw2.dwane.live^$all
 ||olx-pol-kxlsw2.entame.top^$all
 ||olx-pol-kxlsw2.gdcdn.top^$all
 ||olx-pol-kxlsw2.hbjiaju.top^$all
+||olx-pol-kxlsw2.igems.xyz^$all
 ||olx-pol-kxlsw2.inventor-ride.xyz^$all
+||olx-pol-kxlsw2.izlet.xyz^$all
+||olx-pol-kxlsw2.jasonn.xyz^$all
 ||olx-pol-kxlsw2.kenek.xyz^$all
 ||olx-pol-kxlsw2.kerjaoey.xyz^$all
 ||olx-pol-kxlsw2.kios.top^$all
+||olx-pol-kxlsw2.komon.live^$all
+||olx-pol-kxlsw2.kreasi.top^$all
 ||olx-pol-kxlsw2.ktlxs.top^$all
+||olx-pol-kxlsw2.lahari.xyz^$all
 ||olx-pol-kxlsw2.lentful.top^$all
 ||olx-pol-kxlsw2.letroc.live^$all
 ||olx-pol-kxlsw2.louruge.top^$all
 ||olx-pol-kxlsw2.lxmall.top^$all
+||olx-pol-kxlsw2.marbeh.live^$all
 ||olx-pol-kxlsw2.meijidh1.xyz^$all
 ||olx-pol-kxlsw2.musicfa.xyz^$all
 ||olx-pol-kxlsw2.nslbk.top^$all
@@ -20595,10 +20608,13 @@
 ||olx-pol-kxlsw2.purves.xyz^$all
 ||olx-pol-kxlsw2.qihuu.xyz^$all
 ||olx-pol-kxlsw2.rajvic.xyz^$all
+||olx-pol-kxlsw2.ramanji.xyz^$all
 ||olx-pol-kxlsw2.rdrntwk.live^$all
 ||olx-pol-kxlsw2.remiel.xyz^$all
 ||olx-pol-kxlsw2.reseau3x.com^$all
 ||olx-pol-kxlsw2.rhumpa.xyz^$all
+||olx-pol-kxlsw2.rizhang.top^$all
+||olx-pol-kxlsw2.sakasa.xyz^$all
 ||olx-pol-kxlsw2.saute.live^$all
 ||olx-pol-kxlsw2.sjkdh.xyz^$all
 ||olx-pol-kxlsw2.smitraly.xyz^$all
@@ -20607,6 +20623,7 @@
 ||olx-pol-kxlsw2.tomsen.top^$all
 ||olx-pol-kxlsw2.tongse.top^$all
 ||olx-pol-kxlsw2.tubidye.xyz^$all
+||olx-pol-kxlsw2.tzdsb.top^$all
 ||olx-pol-kxlsw2.tzjtzj.top^$all
 ||olx-pol-kxlsw2.usnorr.live^$all
 ||olx-pol-kxlsw2.vanhien.xyz^$all
@@ -30830,6 +30847,7 @@
 ||vinted.wumogyk.org^$all
 ||vintedform-inform.1221235.xyz^$all
 ||vintedinfo-shipment.564348.xyz^$all
+||vintedinfo-store.342048.fun^$all
 ||vintedit.order632.info^$all
 ||vinteds-pln-dellvrs.ordesscoregk4.shop^$all
 ||vintedshop-goods.7776854.xyz^$all
