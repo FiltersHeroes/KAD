@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 24 Sep 2022, 10:47 UTC+02:00
-! Version: 2022.9.24.2
+! Last modified: Sat, 24 Sep 2022, 14:41 UTC+02:00
+! Version: 2022.9.24.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2491,6 +2491,7 @@
 ||gamefiles.pl^$all
 ||gaming001.site^$all
 ||getalinkandshare.com^$all
+||getluckygoto.com^$all
 ||getprize.club^$all
 ||ggbetpromo.com^$all
 ||ggljjk.cc^$all
@@ -2510,6 +2511,7 @@
 ||happywithvegas.com^$all
 ||hjyed.shop^$all
 ||hybriddistribution.dk^$all
+||ice-redirect.com^$all
 ||indexuniverse.eu^$all
 ||interia-24-pl.livejournal.com^$all
 ||interia-info.livejournal.com^$all
@@ -2586,6 +2588,7 @@
 ||rekrutacjaksos.pl^$all
 ||rescatecili.ml^$all
 ||rfv.pl^$all
+||richplayland.com^$all
 ||rinagym.pl^$all
 ||risecrypto.net^$all
 ||romeida.online^$all
@@ -2808,6 +2811,7 @@
 /pl/vwfs/portal/?pay|$doc,frame,domain=~pl
 /tds/ae?tds_campaign=$document
 |http*://*/fb-login/$doc,domain=~facebook.com
+|joocasino31.com^$all
 ||0-01x-merchandise.554217.xyz^$all
 ||0b8cc331813049912.temporary.link^$all
 ||0bf09.escolatantra.com^$all
@@ -3146,6 +3150,7 @@
 ||20-energy.azureedge.net^$all
 ||20-interia.azureedge.net^$all
 ||20-wp.azureedge.net^$all
+||20icecasino.com^$all
 ||20interia.azureedge.net^$all
 ||20onet.azureedge.net^$all
 ||21-energy.azureedge.net^$all
@@ -3162,6 +3167,7 @@
 ||23-energy.azureedge.net^$all
 ||23-interia.azureedge.net^$all
 ||23interia.azureedge.net^$all
+||23luckybirdcasino.com^$all
 ||23onet.azureedge.net^$all
 ||24-energy.azureedge.net^$all
 ||24-fakt-az.pl^$all
@@ -3204,6 +3210,7 @@
 ||25onet.azureedge.net^$all
 ||26imform-6dispatchgoo0ds78.64986532.xyz^$all
 ||27--m01police.55fifayellow.com^$all
+||27allrightcasino.com^$all
 ||28b8a-uqps.com^$all
 ||29a6d.laborartfilm.com^$all
 ||029serv-nowksa92a.doaleg.co.pl^$all
@@ -3214,6 +3221,7 @@
 ||31c5ff24944432411.temporary.link^$all
 ||034cargo-dispatch4321.30649856.xyz^$all
 ||40-77-24-31.cprapid.com^$all
+||48supercatcasino.com^$all
 ||51iangvwvups.us^$all
 ||52fdfc0721.borhbe.info^$all
 ||54-89freight3dispatch741.34531245.xyz^$all
@@ -3221,6 +3229,7 @@
 ||54v1nted8-informing.556545.xyz^$all
 ||59c9d-upqs.us^$all
 ||59shpmentpr0ducts732inpoct.3465986.xyz^$all
+||69slottica.com^$all
 ||076b5.yilmazmuh.com^$all
 ||82-118-23-62.cprapid.com^$all
 ||86b161333800bb901088124913512819.mail-bnpparibas-pl.online^$all
@@ -11017,6 +11026,7 @@
 ||frosty-credit-9294.on.fleek.co^$all
 ||frothedinbreedings.info^$all
 ||frouncingp.pl^$all
+||fruit-game.icu^$all
 ||fruitagega.com^$all
 ||fruklon-invest.pro^$all
 ||fsdf.teleportertyr.site^$all
@@ -11514,6 +11524,7 @@
 ||goonline.pw^$all
 ||goonline.times0912.xyz^$all
 ||goonlineblznes.live^$all
+||gooooootoooooo.com^$all
 ||goopl-invest.web.app^$all
 ||goopsevi.online^$all
 ||goosoo.in^$all
@@ -12226,6 +12237,14 @@
 ||ibriffath.com^$all
 ||ibusinessfamily.com^$all
 ||ic.newtrdin.xyz^$all
+||ice-casino34.com^$all
+||ice-casino-games.pl^$all
+||ice-casino-online.com^$all
+||icecasino73.com^$all
+||icecasino.com.pl^$all
+||icecasino.com^$all
+||iceccasino.pl^$all
+||icepromo.info^$all
 ||ichiziku.com^$all
 ||icioud-verify.com^$all
 ||icioud.co.cm^$all
@@ -13667,6 +13686,7 @@
 ||inpost-pl-mynid2ihxa.um-ka.top^$all
 ||inpost-pl-mynid2ihxa.vanhien.xyz^$all
 ||inpost-pl-mynid2ihxa.vivant.top^$all
+||inpost-pl-mynid2ihxa.wakeb.xyz^$all
 ||inpost-pl-mynid2ihxa.webfon.top^$all
 ||inpost-pl-mynid2ihxa.ztosmw.live^$all
 ||inpost-pl-nms.id-9523.me^$all
@@ -13700,6 +13720,7 @@
 ||inpost-pl-pacid273jks.liaoyang.org^$all
 ||inpost-pl-pacid273jks.liaoyang.xyz^$all
 ||inpost-pl-pacid273jks.marrus.xyz^$all
+||inpost-pl-pacid273jks.miuan.top^$all
 ||inpost-pl-pacid273jks.mosnn.top^$all
 ||inpost-pl-pacid273jks.mycsn.live^$all
 ||inpost-pl-pacid273jks.ohlucah.top^$all
@@ -16571,6 +16592,7 @@
 ||kassa-olx.traktat94035.shop^$all
 ||kastersoy.space^$all
 ||kasyes.prottesl.xyz^$all
+||kasynoice.pl^$all
 ||kasynopolska.wixsite.com^$all
 ||katasil.link^$all
 ||katastrofalnyzagiel.site^$all
@@ -19181,6 +19203,7 @@
 ||naszapolskagazeta-informacyjna.info^$all
 ||naszaprasa.digital^$all
 ||naszbiznes.xyz^$all
+||nasze-gierki.pl^$all
 ||nasze-historie.eu^$all
 ||nasze-info-pl.pl^$all
 ||nasze-informacjednia.com^$all
@@ -22486,7 +22509,10 @@
 ||oraciborzu.xyz^$all
 ||oradom.xyz^$all
 ||orang-orang.com^$all
+||orange-casino.icu^$all
 ||orange-kodzik.890m.com^$all
+||orange-quest.icu^$all
+||orange-winner.pl^$all
 ||orangeclient.quest^$all
 ||orangedoorrequest.com^$all
 ||oraten.pl^$all
@@ -26157,6 +26183,7 @@
 ||redundancybark.com^$all
 ||reef4perfumes.com^$all
 ||reefabl.pl^$all
+||reesfames.space^$all
 ||reexko.cyou^$all
 ||refakts-pull.com^$all
 ||reffco.info^$all
@@ -26613,6 +26640,7 @@
 ||s8powazkowska-modlinska.pl^$all
 ||s403827.ha003.t.justns.ru^$all
 ||s403832.ha003.t.justns.ru^$all
+||s413095.lpmotortest.com^$all
 ||s501565.smrtp.ru^$all
 ||s814038.lpmotortest.com^$all
 ||s859793.lpmotortest.com^$all
@@ -31851,7 +31879,9 @@
 ||vudustream.club^$all
 ||vuhejetlmgw.digital^$all
 ||vulcanisationrecasts.com^$all
+||vulkan40.bet^$all
 ||vulkanvegas18.com^$all
+||vulkanvegas143.com^$all
 ||vulkanvegasbonus.helpinghandimmigration.com^$all
 ||vunsako-xyz.preview-domain.com^$all
 ||vunsako.space^$all
@@ -32530,6 +32560,7 @@
 ||withthevikings.com^$all
 ||witumart.com^$all
 ||wizardly-brahmagupta-1302f2.netlify.app^$all
+||wizenedshe.com^$all
 ||wizerunek-foto.eu^$all
 ||wizerunek-kogos.eu^$all
 ||wizerunek-zdjecie.eu^$all
@@ -33592,6 +33623,7 @@
 ||zrzuta.com.pl^$all
 ||zs59u2vwvups.co^$all
 ||zs.vlchat.site^$all
+||zscewice.pl^$all
 ||zsl.sportbetsignupcode.com^$all
 ||zsmpk.com^$all
 ||ztydihfhvuomo3iw522y4oaga2no6bnt4vn3k5bssq-ipfs-nftstorage-link.translate.goog^$all
