@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 25 Sep 2022, 10:27 UTC+02:00
-! Version: 2022.9.25.0
+! Last modified: Sun, 25 Sep 2022, 14:40 UTC+02:00
+! Version: 2022.9.25.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3541,6 +3541,7 @@
 ||activ.online-like1.site^$all
 ||activatelearningonline.instructure.com^$all
 ||activmask.pl^$all
+||actor.tslx.quest^$all
 ||actualizarelect.890m.com^$all
 ||acutedisseminatedencephalomyelitispedia.com^$all
 ||acylatad.xyz^$all
@@ -4645,6 +4646,7 @@
 ||balwot.pl^$all
 ||bam.roonss.xyz^$all
 ||bamagastudios.com^$all
+||bamsta.space^$all
 ||bananasimplicity.com^$all
 ||bancontact.su^$all
 ||bandenmarkt.com^$all
@@ -9246,6 +9248,7 @@
 ||dpd-polska-eu.order2104124.info^$all
 ||dpd-polska-fcm.orders0911.info^$all
 ||dpd-polska-gbf.orders1381.xyz^$all
+||dpd-polska-hp.order9342.info^$all
 ||dpd-polska-hza.orders98511.info^$all
 ||dpd-polska-jgi.10494929.me^$all
 ||dpd-polska-lqd.203994920.me^$all
@@ -9295,6 +9298,7 @@
 ||dpd-zvj.oferta-pl.me^$all
 ||dpd.64875-sendinggoods.xyz^$all
 ||dpd.748124-buyerdelivery.xyz^$all
+||dpd.6598655.xyz^$all
 ||dpd.apebims.org^$all
 ||dpd.bkomfo.org^$all
 ||dpd.bkybuk.org^$all
@@ -13345,6 +13349,7 @@
 ||inpost-huda.orders23441.info^$all
 ||inpost-hudl.order2588322.info^$all
 ||inpost-huhw.order2588322.info^$all
+||inpost-hwuk.order9342.info^$all
 ||inpost-hxyl.order661100.info^$all
 ||inpost-i.id-4343.me^$all
 ||inpost-i.id-9431.me^$all
@@ -15055,6 +15060,7 @@
 ||inpost.deliveryuser-jnfo.xyz^$all
 ||inpost.deliwery-6523.xyz^$all
 ||inpost.deljveryforminfo.xyz^$all
+||inpost.digtekola.org^$all
 ||inpost.dipkytr.org^$all
 ||inpost.dispatchcargo-2541.xyz^$all
 ||inpost.dispatchgoods-5.xyz^$all
@@ -16954,6 +16960,7 @@
 ||kor.fishess.site^$all
 ||kor.okuportisskor.site^$all
 ||koranwothare.com^$all
+||kordlang-investing.pro^$all
 ||korekkolor.site^$all
 ||korespodencja-online.link^$all
 ||korkotchenko.pw^$all
@@ -26658,6 +26665,7 @@
 ||s403832.ha003.t.justns.ru^$all
 ||s413095.lpmotortest.com^$all
 ||s501565.smrtp.ru^$all
+||s598286.lpmotortest.com^$all
 ||s814038.lpmotortest.com^$all
 ||s859793.lpmotortest.com^$all
 ||s922352.lpmotortest.com^$all
@@ -30202,6 +30210,7 @@
 ||vimted10website.8787316.xyz^$all
 ||vimted458-market4.3497568.xyz^$all
 ||vimted-delievrysite.0874544.xyz^$all
+||vimted-delivery.65902154.xyz^$all
 ||vimted-marketinfo.648410121.xyz^$all
 ||vimted-store.2355412.xyz^$all
 ||vimted.064512.xyz^$all
@@ -33274,6 +33283,7 @@
 ||zabydgoszcz.xyz^$all
 ||zacarwahandberto.cf^$all
 ||zachod-slonca.eu^$all
+||zachodnidziennik.com^$all
 ||zachowajmy-spokoj.eu^$all
 ||zacznij-odpomocy.eu^$all
 ||zadecyduj-wygrana.eu^$all
