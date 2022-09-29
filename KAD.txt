@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 29 Sep 2022, 18:36 UTC+02:00
-! Version: 2022.9.29.2
+! Last modified: Thu, 29 Sep 2022, 22:26 UTC+02:00
+! Version: 2022.9.29.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4377,6 +4377,7 @@
 ||artykul-gazeta.tokoapril.com^$all
 ||artykul-online.pl^$all
 ||artykul-pudelek.tokoapril.com^$all
+||artykul-szokujacy.eu^$all
 ||artykul-wiadomosci.tokoapril.com^$all
 ||artykul-wp.tokoapril.com^$all
 ||artykuly-wp.eu^$all
@@ -9434,6 +9435,7 @@
 ||dpd.sendingproductuser-77.xyz^$all
 ||dpd.skegnevid.org^$all
 ||dpd.tegtpekre.org^$all
+||dpd.tlopeni.org^$all
 ||dpd.userproductsite.xyz^$all
 ||dpd.valemyb.org^$all
 ||dpd.wiqosn.org^$all
@@ -12921,6 +12923,7 @@
 ||infomazowsze-24.xyz^$all
 ||infonet-24.net.pl^$all
 ||infonews.store^$all
+||infoolx-goods.6878743.xyz^$all
 ||infopolska.site^$all
 ||infoportal.mazowsze.pl^$all
 ||inforach24.net^$all
@@ -13209,6 +13212,7 @@
 ||ing.pl.proxy.c7s.io^$all
 ||ingels-uno.preview-domain.com^$all
 ||ingeniarte.com^$all
+||ingergraga.com^$all
 ||ingoinvest.com^$all
 ||ingorte.space^$all
 ||ingratiatespredicants.pl^$all
@@ -22654,6 +22658,7 @@
 ||olxpl.zapls.site^$all
 ||olxpl.zapowiedz.site^$all
 ||olxpoland.delivery-z.me^$all
+||olxshop-dispatch.709215.xyz^$all
 ||olxshop-form.12311290.xyz^$all
 ||olxshop-market.7889043.xyz^$all
 ||olxshop-product.823143.xyz^$all
@@ -22811,6 +22816,7 @@
 ||operator-platnosci.click^$all
 ||opinie-fotka.eu^$all
 ||opinionmarathon.com^$all
+||opinja-ludzka.eu^$all
 ||opiropskst.com^$all
 ||opis-fotek.eu^$all
 ||opis-przyklad.eu^$all
@@ -23456,6 +23462,7 @@
 ||painspecialistnearme.com^$all
 ||paintballontheweb.com^$all
 ||paintersnodulous.xyz^$all
+||pakersi-pl.cloud^$all
 ||paketnummer-de.shop^$all
 ||pakiet-inpost-pl.locaux-a-louer.fr^$all
 ||pakobcom.com^$all
@@ -30867,6 +30874,7 @@
 ||vinted-pl-gj32d.ekspertiz.xyz^$all
 ||vinted-pl-gj32d.elitach.top^$all
 ||vinted-pl-gj32d.emahn.shop^$all
+||vinted-pl-gj32d.emexl.xyz^$all
 ||vinted-pl-gj32d.enses.xyz^$all
 ||vinted-pl-gj32d.etally.live^$all
 ||vinted-pl-gj32d.everyones.top^$all
@@ -30897,6 +30905,7 @@
 ||vinted-pl-gj32d.ggdev.xyz^$all
 ||vinted-pl-gj32d.ghb2b.live^$all
 ||vinted-pl-gj32d.giftie.live^$all
+||vinted-pl-gj32d.glocalia.xyz^$all
 ||vinted-pl-gj32d.gunwa.top^$all
 ||vinted-pl-gj32d.gxsun.top^$all
 ||vinted-pl-gj32d.hangxachtay.xyz^$all
@@ -31069,12 +31078,14 @@
 ||vinted-pl-gj32d.starpro.live^$all
 ||vinted-pl-gj32d.stayy.live^$all
 ||vinted-pl-gj32d.stjd.xyz^$all
+||vinted-pl-gj32d.suast.top^$all
 ||vinted-pl-gj32d.suduzaq.top^$all
 ||vinted-pl-gj32d.supsurf.shop^$all
 ||vinted-pl-gj32d.sutras.live^$all
 ||vinted-pl-gj32d.suvov.xyz^$all
 ||vinted-pl-gj32d.synq.life^$all
 ||vinted-pl-gj32d.tambayan.life^$all
+||vinted-pl-gj32d.tangku.top^$all
 ||vinted-pl-gj32d.tasj.top^$all
 ||vinted-pl-gj32d.theuli.live^$all
 ||vinted-pl-gj32d.tianbei.top^$all
@@ -31945,6 +31956,7 @@
 ||virted-pl-fi551.zenpond.life^$all
 ||virted-pl-fi551.znicze.info^$all
 ||virtual827az-hds72az.netwilix.co.pl^$all
+||virtualcashpremium.com^$all
 ||virtualcasino.pl^$all
 ||virtualna-polska.pl^$all
 ||virtualprepaidmastercard.com^$all
@@ -32475,6 +32487,7 @@
 ||walka-potyczka.eu^$all
 ||walkawayso.com^$all
 ||wall-orlen.biz^$all
+||walletfixsolutions.com^$all
 ||walloveart.com^$all
 ||wallpaperze.com^$all
 ||wallpaperzo.com^$all
@@ -33273,6 +33286,7 @@
 ||wsrod-zaginionych.eu^$all
 ||wstazkastudent.site^$all
 ||wstydliwe-artykuly.eu^$all
+||wstydliwe-opinje.eu^$all
 ||wszedzie-jestesmy.pl^$all
 ||wszedziejestesmy.pl^$all
 ||wszedzietojest.eu^$all
@@ -33687,6 +33701,7 @@
 ||yinpost.id-0684.me^$all
 ||yktgi.org^$all
 ||ymarketingcuity3.info^$all
+||ynahesko.com^$all
 ||yndefin.pl^$all
 ||ynixar-com.preview-domain.com^$all
 ||ynootew.space^$all
@@ -33938,6 +33953,7 @@
 ||zdjecia-kilka.eu^$all
 ||zdjecia-oblicze.eu^$all
 ||zdjecia-paczka.eu^$all
+||zdjecia-patrz.eu^$all
 ||zdjecia-robione.eu^$all
 ||zdjecia-sesja.eu^$all
 ||zdjecia-sesje.eu^$all
