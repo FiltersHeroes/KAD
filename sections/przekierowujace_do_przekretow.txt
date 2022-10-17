@@ -1,4 +1,3 @@
-||infonumer.pl^$all
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
@@ -119,6 +118,7 @@
 ||hybriddistribution.dk^$all
 ||ice-redirect.com^$all
 ||indexuniverse.eu^$all
+||infonumer.pl^$all
 ||interia-24-pl.livejournal.com^$all
 ||interia-info.livejournal.com^$all
 ||inwestopinia.pl^$all
