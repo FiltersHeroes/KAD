@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 23 Oct 2022, 22:26 UTC+02:00
-! Version: 2022.10.23.3
+! Last modified: Sun, 23 Oct 2022, 22:56 UTC+02:00
+! Version: 2022.10.23.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -17,6 +17,7 @@
 !
 !#safari_cb_affinity(security)
 ! Podejrzane i/lub strony połączone z innymi oszustwami
+
 ||1slo.pl^$all
 ||1vulkanvegas.com^$all
 ||3vulkanvegas.com^$all
@@ -170,6 +171,7 @@
 ||awin.com^$all
 ||axelarigatobuty.com^$all
 ||axelpoland.com^$all
+||axzoo.shop^$all
 ||ayngisehotnb.com^$all
 ||b2work.pl^$all
 ||b17-sklep.pl^$all
@@ -245,6 +247,7 @@
 ||blureflly.com^$all
 ||bmwipl.com^$all
 ||bnewsb.com^$all
+||bngeslanceiy.com^$all
 ||bobolove.pl^$all
 ||bodariri.com^$all
 ||bodyguard.com.pl^$all
@@ -392,6 +395,7 @@
 ||centrumnaukowe.eu^$all
 ||centrumofert.com^$all
 ||centrumzdrowotne.pl^$all
+||cerficati.com^$all
 ||chacopolska.com^$all
 ||chacospolska.pl^$all
 ||championclub.pl^$all
@@ -493,6 +497,7 @@
 ||danner-polska.com^$all
 ||dannerbutysklep.com^$all
 ||dannerpolska.com^$all
+||darentus.com^$all
 ||darmowe-ebooki.com.pl^$all
 ||darmowe-ebooki.net^$all
 ||darmowe-zakupy.com^$all
@@ -581,6 +586,7 @@
 ||e-mediowo.pl^$all
 ||e-remonty.eu^$all
 ||e-smartly.com^$all
+||e-toys.shop^$all
 ||e-udanezakupy.pl^$all
 ||easybuyfashion.takedrop.pl^$all
 ||easytommy.com^$all
@@ -860,6 +866,7 @@
 ||heywood.pl^$all
 ||hibids10.com^$all
 ||hilfiger-polska.com^$all
+||hint-home.shop^$all
 ||hitdnia.com.pl^$all
 ||hizars.com^$all
 ||hksfa.org^$all
@@ -878,6 +885,7 @@
 ||hokapolskaonline.com^$all
 ||holdenavenue.pl^$all
 ||hollister-sklep.com^$all
+||hollwala.com^$all
 ||home-hint.pl^$all
 ||home-outlet.pl^$all
 ||homearena.pl^$all
@@ -886,6 +894,7 @@
 ||hopiuns.com^$all
 ||horariel.com^$all
 ||hostedfiles.net^$all
+||hpregen.pl^$all
 ||hu.2021store.ru^$all
 ||huabil.com^$all
 ||hugobosspl.top^$all
@@ -953,6 +962,7 @@
 ||jelitto.pl^$all
 ||jerzylukaszwalczak.com.pl^$all
 ||jeunesseglobal.com^$all
+||jezpow.pl^$all
 ||jiajinna.com^$all
 ||jimmychoosklep.pl^$all
 ||jnhxs.shop^$all
@@ -962,6 +972,7 @@
 ||jordandamskie.pl^$all
 ||jordenmadsen.com^$all
 ||josefseibelwarszawa.com^$all
+||josyliving.com^$all
 ||jourlacy.com^$all
 ||jtdxg.shop^$all
 ||juicoburalrus.com^$all
@@ -997,6 +1008,7 @@
 ||kedsbuty.top^$all
 ||kedspolska.com^$all
 ||kedstrampki.com^$all
+||keeibuy.com^$all
 ||keenpolska.com^$all
 ||keenpolska.pl^$all
 ||keenpolskasklep.com^$all
@@ -1146,6 +1158,7 @@
 ||lyconet.com^$all
 ||madelline.pl^$all
 ||maelovema.com^$all
+||magazyn211.com^$all
 ||magforte.pl^$all
 ||maggno.online^$all
 ||magiccandles.eu^$all
@@ -1208,6 +1221,7 @@
 ||medshop.pl^$all
 ||medycznapolska.pl^$all
 ||megadownloader.co^$all
+||megaelectro.pl^$all
 ||megastore24.pl^$all
 ||mejkmi.pl^$all
 ||melissabuty.com^$all
@@ -1735,6 +1749,7 @@
 ||rosa-wypoczynek.pl^$all
 ||rosalieeve.pl^$all
 ||rosarstore.com^$all
+||rotimia.com^$all
 ||roulettenumber.com^$all
 ||roundupbarandgrill.com^$all
 ||rovingadventures.com^$all
@@ -1746,6 +1761,7 @@
 ||rrasave.com^$all
 ||rtvmax.pl^$all
 ||rubris.org^$all
+||rufustv.com^$all
 ||ruletka-systemy.com^$all
 ||ruletkasystem.eu^$all
 ||rumandcoco.com^$all
@@ -1756,6 +1772,7 @@
 ||rzezak.pl^$all
 ||s-mania.com^$all
 ||sacisfashion.com^$all
+||saerdstores.com^$all
 ||sagneatunyac.com^$all
 ||salewa-polska.com^$all
 ||salewasklep.com^$all
@@ -1955,6 +1972,7 @@
 ||sprzet-treningowy.com^$all
 ||spsienno.pl^$all
 ||srkgs.pl^$all
+||sroliuy.shop^$all
 ||stacjavapera.com^$all
 ||stalsrubiarnia.pl^$all
 ||staroil.pl^$all
@@ -2115,6 +2133,7 @@
 ||tulezka.com^$all
 ||tunalas.com^$all
 ||turystyczne-suwalki.pl^$all
+||twoj-smartphone.pl^$all
 ||twoj-typ.pl^$all
 ||twoj-voucher.com^$all
 ||twoja-kariera.pl^$all
@@ -2346,6 +2365,7 @@
 ||yaboris.com^$all
 ||ydaburnaleury.com^$all
 ||yellownet.pl^$all
+||yifu02.shop^$all
 ||yill666.com^$all
 ||yinbolallruick.com^$all
 ||yonounggan.com^$all
@@ -2367,6 +2387,7 @@
 ||zaho.pl^$all
 ||zajazdbanderoza.pl^$all
 ||zajazduzenka.pl^$all
+||zalandoipl.com^$all
 ||zalandovip.shop^$all
 ||zalukajfilmy.pl^$all
 ||zapachymarzen.pl^$all
@@ -2640,6 +2661,7 @@
 ||up.maschinen.ba^$all
 ||vegas777spin.com^$all
 ||vegas-redirect.com^$all
+||veinnotionmariner.com^$all
 ||vexacion.com^$all
 ||vitaltrading.pl^$all
 ||vnotrk.com^$all
@@ -2789,6 +2811,7 @@
 ||zgarniij_vouchher.skroc.pl^$all
 !
 ! Przekręty
+
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -6069,6 +6092,8 @@
 ||canopiccanopic.com^$all
 ||canyouheal.org^$all
 ||cap.capitalpol.xyz^$all
+||capartners.ltd^$all
+||capartners.world^$all
 ||capcutdownload.com^$all
 ||capekings.co.uk^$all
 ||capexciton.com^$all
@@ -6605,6 +6630,7 @@
 ||cluka.info^$all
 ||clutchglobemedia.com^$all
 ||clxitatey.com^$all
+||clydetrade.com^$all
 ||clydetrade.pro^$all
 ||cmako.pl^$all
 ||cmartketgitro0.info^$all
@@ -11447,6 +11473,7 @@
 ||fincbbmd.com.br^$all
 ||fincloud.capital^$all
 ||fincloud.center^$all
+||fincloud.life^$all
 ||fincloud.world^$all
 ||fincordasset.com^$all
 ||find-apples.live^$all
@@ -19657,6 +19684,7 @@
 ||megkor-online.preview-domain.com^$all
 ||megnatiz.com^$all
 ||megrezinvesting.xyz^$all
+||megrossinvest.com^$all
 ||megsthings.com^$all
 ||mehmetmetinmutlu.com^$all
 ||meicoe.com^$all
@@ -20748,6 +20776,8 @@
 ||natemat24.h2g.pl^$all
 ||natenczas.online^$all
 ||natik.maxiza.site^$all
+||nationalcasino.co^$all
+||nationalcasinolp.com^$all
 ||nationalitys.info^$all
 ||nationalprasharannews24.com^$all
 ||nationsdime.com^$all
@@ -21296,6 +21326,7 @@
 ||norsadurkenagos.tk^$all
 ||northdrop.com^$all
 ||northernswine.com^$all
+||northprofit.co^$all
 ||northsealogistics.com^$all
 ||nosidelko-polska-ji.ordernew484822.info^$all
 ||notaelonmusk.net^$all
@@ -25738,6 +25769,7 @@
 ||pl.89151535.cube-cologne.com^$all
 ||pl.*bitcoin*.tiptopko*.com^$all
 ||pl.active1pl.xyz^$all
+||pl.allegro-gworkzakup.tech^$all
 ||pl.allsports4free.club^$all
 ||pl.anticr.xyz^$all
 ||pl.bitcoin*.t*track*.com^$all
@@ -28354,6 +28386,7 @@
 ||reviviscen.pl^$all
 ||revnok-com.preview-domain.com^$all
 ||revoicebek.pl^$all
+||revolutexpert.ltd^$all
 ||revolution-fx.cc^$all
 ||revolutionizedcurved.pl^$all
 ||revosore.space^$all
@@ -32142,6 +32175,7 @@
 ||usam12hd.beget.tech^$all
 ||usario.com^$all
 ||usateslax.linatrade.lol^$all
+||usdtmarkt.tech^$all
 ||usechamber.com^$all
 ||usecsgo.com^$all
 ||usedbarcode.com^$all
