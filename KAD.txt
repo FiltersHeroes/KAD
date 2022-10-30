@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 30 Oct 2022, 21:22 UTC+01:00
-! Version: 2022.10.30.3
+! Last modified: Sun, 30 Oct 2022, 21:41 UTC+01:00
+! Version: 2022.10.30.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -209,6 +209,7 @@
 ||bert24.com^$all
 ||best2018games.com^$all
 ||bestbook-library.com^$all
+||bestbuypolska.pl^$all
 ||bestcena.pl^$all
 ||bestnfast.pl^$all
 ||bestofelektro.pl^$all
@@ -411,6 +412,7 @@
 ||chwiledowygrania.pl^$all
 ||cichodaje.pl^$all
 ||cicory.com^$all
+||cieplo-wegiel.com^$all
 ||cikelly.com^$all
 ||cinao.shop^$all
 ||cinemateka.pl^$all
@@ -571,6 +573,7 @@
 ||drukmet.eu^$all
 ||dsnpj.shop^$all
 ||dstreet.pl^$all
+||duanno.com^$all
 ||duirundbaill.com^$all
 ||duramo.pl^$all
 ||dwnlad.ws^$all
@@ -682,6 +685,7 @@
 ||fargonpozyczki.pl^$all
 ||fartuchy-kuchenne.pl^$all
 ||faryzeusz.pl^$all
+||fascinstore.com^$all
 ||fashionableman.pl^$all
 ||fasterfiles.net^$all
 ||fastflame.pl^$all
@@ -918,6 +922,7 @@
 ||icebugsklep.com^$all
 ||ichemia.pl^$all
 ||ideatur.pl^$all
+||iduplo.pl^$all
 ||iensutyldnor.com^$all
 ||ihncvptnn.com^$all
 ||ihydroflaskshop.com^$all
@@ -1032,6 +1037,7 @@
 ||kinslowwpolsce.pl^$all
 ||kinujemy.pl^$all
 ||kitcarforum.pl^$all
+||klenti.pl^$all
 ||klik-go.space^$all
 ||klikasz-i-masz.com^$all
 ||klockidladzieci.com.pl^$all
@@ -1386,6 +1392,7 @@
 ||nocuta.online^$all
 ||noostta.com^$all
 ||nordic16.com^$all
+||northfacepl.com^$all
 ||northfacepolska.pl^$all
 ||northfaces-polska.com^$all
 ||northfacesklep.com^$all
@@ -1776,6 +1783,7 @@
 ||salewa-polska.com^$all
 ||salewasklep.com^$all
 ||salewawarszawa.com^$all
+||saliasy.shop^$all
 ||salomompolska.com^$all
 ||salomon-polska.pl^$all
 ||salomonbuty.pl^$all
@@ -1836,6 +1844,7 @@
 ||shoestyle.pl^$all
 ||shogla.com^$all
 ||shop.brkcenter.com^$all
+||shopecoheat.co^$all
 ||shopolo.pl^$all
 ||shoppingink.com^$all
 ||shops.onlinecheaps2021.ru^$all
@@ -1921,6 +1930,7 @@
 ||sneakerpassion.eu^$all
 ||sneakersclassic.pl^$all
 ||sneakerseccopolska.com^$all
+||sneakersowo.pl^$all
 ||sneakerspace.pl^$all
 ||sneakersshop.pl^$all
 ||sneakersworld.eu^$all
@@ -2378,6 +2388,7 @@
 ||yummymobile.pl^$all
 ||yweia.top^$all
 ||z-promo.com^$all
+||za5zl.pl^$all
 ||zabawkowo.fun^$all
 ||zabawlandia.pl^$all
 ||zabiczyn.pl^$all
@@ -2405,12 +2416,14 @@
 ||zennoa-poland.com^$all
 ||zennoa.com^$all
 ||zephyrgifts.com^$all
+||zetiuue.com^$all
 ||zevlike.com^$all
 ||zfiuenduasinty.com^$all
 ||zhuysga.com^$all
 ||zielonakaruzela.pl^$all
 ||zielonewariacje.pl^$all
 ||zielono.net^$all
+||zimadeal.com^$all
 ||zimadeals.pl^$all
 ||ziololecznictwo.pl^$all
 ||zkotami.pl^$all
@@ -6830,6 +6843,7 @@
 ||coinfirst.com^$all
 ||coinlife.click^$all
 ||coinmarketsolutions.com^$all
+||coinmatrixfx.uk^$all
 ||coinparc.com^$all
 ||coins-eu.tslco.xyz^$all
 ||coinseu.tslco.xyz^$all
@@ -12210,6 +12224,7 @@
 ||gb.autoprogram-trade.site^$all
 ||gbedufm.com^$all
 ||gbtrade24.net^$all
+||gcblondonltd.com^$all
 ||gcesab.com^$all
 ||gcijewel.com^$all
 ||gd-l.site^$all
@@ -13503,6 +13518,7 @@
 ||ikasgok-invest.pro^$all
 ||ikbox.org^$all
 ||ikcffqy1j.digital^$all
+||ikici.com^$all
 ||ikikili.s3.us-west-004.backblazeb2.com^$all
 ||ikko-pkobp.com^$all
 ||ikko-pkobpi.com^$all
@@ -21550,6 +21566,7 @@
 ||nngoo.xyz^$all
 ||nnngo.xyz^$all
 ||no50.com^$all
+||no-skope.online^$all
 ||no-snore-pl.com^$all
 ||no-tilt.site^$all
 ||nobodyinfinity.site^$all
@@ -21650,7 +21667,6 @@
 ||nougol-com.preview-domain.com^$all
 ||nound.space^$all
 ||nouvellehub.com^$all
-||novaconcept-wroclaw.pl^$all
 ||novaklaw.com^$all
 ||novobrokers.com^$all
 ||novobrokers.io^$all
@@ -29645,6 +29661,7 @@
 ||serwer2199047.home.pl^$all
 ||serwer2224158.home.pl^$all
 ||serwer2249864.home.pl^$all
+||serwer2291177.home.pl^$all
 ||serwer*.home.pl/weryfikacja/$all
 ||serwer*.lh.pl/weryfikacja/$all
 ||serwer.pwr-edu-stud.space^$all
@@ -31779,6 +31796,7 @@
 ||topi.ssilpik.site^$all
 ||topi.winciw.site^$all
 ||topmovies.pl^$all
+||topofferss4you.com^$all
 ||topplingdo.pl^$all
 ||toprzeznich.eu^$all
 ||topsecureeu.com^$all
