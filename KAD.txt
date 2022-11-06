@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 06 Nov 2022, 19:31 UTC+01:00
-! Version: 2022.11.6.4
+! Last modified: Sun, 06 Nov 2022, 21:21 UTC+01:00
+! Version: 2022.11.6.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2459,7 +2459,7 @@
 .net/c/*?s1=$doc,domain=net
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https?:\/\/((?!www)[a-z]{3,}|\d{2})?\.?[-0-9a-z]{6,}\.[a-z]{2,6}\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|online|pw|site|space|top|us|xyz
+/^https?:\/\/((?!www)[a-z]{3,}|\d{2})?\.?[-0-9a-z]{6,}\.[a-z]{2,6}\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|space|top|us|xyz
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 /fck_files/*.xml$doc,domain=m-vision.com.pl
 /fckupload/*.xml$doc,domain=libron.pl
@@ -3497,6 +3497,7 @@
 ||0212806.ir^$all
 ||282918.me^$all
 ||299110.allegrolokalnie.ink^$all
+||435757ut.com^$all
 ||471058.pw^$all
 ||530908.selcdn.ru^$all
 ||543111.selcdn.ru^$all
@@ -17843,6 +17844,7 @@
 ||iyeuryetts.firebaseapp.com^$all
 ||iyxwfilm.xyz^$all
 ||izalukaj.pl^$all
+||izedup.com^$all
 ||izlogin-webmail.web.app^$all
 ||izmyzbeulif.digital^$all
 ||j0wsoc.webwave.dev^$all
@@ -22073,6 +22075,7 @@
 ||o1x-delivery.8954231117.xyz^$all
 ||o1x-deliverypage.58452222.xyz^$all
 ||o1x-informing.521785.xyz^$all
+||o1x-market.965141541221.xyz^$all
 ||o1x-merchandise.5642118.xyz^$all
 ||o1x-netpay23.634341.xyz^$all
 ||o1x-order632.com^$all
