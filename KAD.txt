@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 06 Nov 2022, 01:15 UTC+01:00
-! Version: 2022.11.6.0
+! Last modified: Sun, 06 Nov 2022, 09:24 UTC+01:00
+! Version: 2022.11.6.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4529,6 +4529,7 @@
 ||appleid.com-local-id.com^$all
 ||appleidworld.com^$all
 ||appleinfo.support^$all
+||apples-assistance.live^$all
 ||appleservicess.live^$all
 ||applesite.live^$all
 ||appletoken.club^$all
@@ -20065,6 +20066,7 @@
 ||mbankpl.online^$all
 ||mbankpleu.online^$all
 ||mbankprognozy2022.pl^$all
+||mbankscz.online^$all
 ||mbchainmonlkj.xyz^$all
 ||mbchainmonnba.xyz^$all
 ||mbnk-bezpieczne.com^$all
@@ -30667,6 +30669,7 @@
 ||stationere.pl^$all
 ||stationonline.sa.com^$all
 ||stationsolutions.sa.com^$all
+||statscoord.xyz^$all
 ||status24.5p.pl^$all
 ||status-mark.com^$all
 ||status.xn.pl^$all
