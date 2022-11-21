@@ -1,3 +1,17 @@
+||certo-kancelaria.pl^$all
+||kurcz-pozyczka.com^$all
+||orange-finansow-polska.net^$all
+||kviku.com^$all
+||cashbro.net^$all
+||creditron.org^$all
+||wygodnepozyczki.pl^$all
+||gotowkowe-pozyczki.pl^$all
+||finantous.com^$all
+||makura-usluga.com^$all
+||kredytznajomego.pl^$all
+||ofertanajuz.pl^$all
+||ofertanajuz.pl^$all
+||w1dzien-gotowka.pl^$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
