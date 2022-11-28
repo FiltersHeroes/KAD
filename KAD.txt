@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 28 Nov 2022, 00:08 UTC+01:00
-! Version: 2022.11.28.0
+! Last modified: Mon, 28 Nov 2022, 09:25 UTC+01:00
+! Version: 2022.11.28.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -33417,6 +33417,7 @@
 ||tpay.order-received.online^$all
 ||tpay.orderprocess.site^$all
 ||tpay.pl-order-received.online^$all
+||tpay.platnosci.shop^$all
 ||tpay.platnosci.site^$all
 ||tpc.hu^$all
 ||tposnoy.link^$all
@@ -38377,6 +38378,7 @@
 ||xxx.bank-online.cf^$all
 ||xxx.imo-tr.xyz^$all
 ||xxx.tsx-pl.xyz^$all
+||xyenawo.com^$all
 ||xyhogyi0.com^$all
 ||xynter-invest.pro^$all
 ||xyysyndromepedia.com^$all
