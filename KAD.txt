@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 05 Dec 2022, 21:18 UTC+01:00
-! Version: 2022.12.5.3
+! Last modified: Mon, 05 Dec 2022, 23:13 UTC+01:00
+! Version: 2022.12.5.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -200,6 +200,7 @@
 ||becconet.com^$all
 ||beciki.pl^$all
 ||beetlebits.pl^$all
+||beffino.com^$all
 ||belenkapoland.com^$all
 ||belenkapolska.com^$all
 ||bellarose.pl^$all
@@ -222,6 +223,7 @@
 ||bgconsulting.pl^$all
 ||bhjrw.shop^$all
 ||bialywidelec.pl^$all
+||biaseo.com^$all
 ||bibridget.com^$all
 ||biegostojazwierzat.pl^$all
 ||bifrost.pl^$all
@@ -393,6 +395,7 @@
 ||catpolska.com^$all
 ||cccbutyonlinepl.com^$all
 ||cda-bez-limitu.pl^$all
+||ceanshop.com^$all
 ||centre.com.pl^$all
 ||centrum-agd.net^$all
 ||centrum-medycyny.pl^$all
@@ -421,6 +424,7 @@
 ||cichodaje.pl^$all
 ||cicory.com^$all
 ||cieplo-wegiel.com^$all
+||ciimamore.com^$all
 ||cikelly.com^$all
 ||cinao.shop^$all
 ||cinemateka.pl^$all
@@ -434,6 +438,7 @@
 ||clarkswyprzedaz.com^$all
 ||claujay.com^$all
 ||cleanchelmno.pl^$all
+||cleankit.pl^$all
 ||cleeble.pl^$all
 ||clieyes.com^$all
 ||cloudtokenwallet.com^$all
@@ -546,6 +551,7 @@
 ||diadorabuty.com^$all
 ||diamentowamozaika.com^$all
 ||dietovo.pl^$all
+||diosair.shop^$all
 ||discount2021.ru^$all
 ||dlagier.com^$all
 ||dlmyfile.com^$all
@@ -604,6 +610,7 @@
 ||e-toys.shop^$all
 ||e-udanezakupy.pl^$all
 ||easybuyfashion.takedrop.pl^$all
+||easygolift.pl^$all
 ||easytommy.com^$all
 ||ebook4all.com.pl^$all
 ||ebutiklatika.pl^$all
@@ -850,6 +857,7 @@
 ||greatshoes.pl^$all
 ||green-home.com.pl^$all
 ||greenbarleyplus.pl^$all
+||grillorama.shop^$all
 ||grintello.com^$all
 ||grnpower.io^$all
 ||groundiesbuty.com^$all
@@ -1048,6 +1056,7 @@
 ||kennethcolepolska.com^$all
 ||kenyasum.shop^$all
 ||kenzoskleppolska.com^$all
+||kermitowy-sklep.pl^$all
 ||keykong.eu^$all
 ||kiansantan.com^$all
 ||kicksyou.pl^$all
@@ -1343,6 +1352,7 @@
 ||mutlum.pl^$all
 ||my-promo7.com^$all
 ||mydates.com^$all
+||myhank.pl^$all
 ||myway.com^$all
 ||n1-outlet.com^$all
 ||n-eats.site^$all
@@ -1689,6 +1699,7 @@
 ||promocjasklep.com^$all
 ||propicture.pl^$all
 ||proslimin.com^$all
+||proviredshop.pl^$all
 ||przedszkolefalenty.pl^$all
 ||przedszkoleszkrab.pl^$all
 ||przesylkonosz.pl^$all
@@ -1791,6 +1802,7 @@
 ||rok-tuwima.pl^$all
 ||roloyaa.com^$all
 ||roomdeco.pl^$all
+||roomik.pl^$all
 ||rosa-wypoczynek.pl^$all
 ||rosalieeve.pl^$all
 ||rosarstore.com^$all
@@ -2180,6 +2192,7 @@
 ||trampkisuperga.pl^$all
 ||trapikas.com^$all
 ||treatments.cliniccompare.com^$all
+||trendzy.pl^$all
 ||triggerinstalls.com^$all
 ||triumphrb.com^$all
 ||trybikowo.pl^$all
@@ -2918,7 +2931,6 @@
 /pl/vwfs/portal/?pay|$doc,frame,domain=~pl
 /tds/ae?tds_campaign=$document
 |http*://*/fb-login/$doc,domain=~facebook.com
-|joocasino31.com^$all
 ||0-01x-merchandise.554217.xyz^$all
 ||0b8cc331813049912.temporary.link^$all
 ||0bf09.escolatantra.com^$all
@@ -4488,6 +4500,7 @@
 ||ameliaz.pl^$all
 ||ameliazs.pl^$all
 ||amendablec.pl^$all
+||amgeshka.com^$all
 ||amhtthom-cdohtm.firebaseapp.com^$all
 ||amiabilit.com^$all
 ||amiakill.s3.us-west-004.backblazeb2.com^$all
@@ -5279,6 +5292,7 @@
 ||banetik.com^$all
 ||banewan.com^$all
 ||bangunpapua.com^$all
+||baninprost.dumbnonsimurjoli.cf^$all
 ||baniola-sklep.pl^$all
 ||bank-ing.web.app^$all
 ||bank-project.surge.sh^$all
@@ -5531,6 +5545,7 @@
 ||benaur-uno.preview-domain.com^$all
 ||benchmarkinglfb.com^$all
 ||bendrog-com.preview-domain.com^$all
+||beneko.com^$all
 ||benemsi.xyz^$all
 ||benfheipnv.com^$all
 ||benjak-xyz.preview-domain.com^$all
@@ -6387,6 +6402,7 @@
 ||buckeroospublicly.pl^$all
 ||buckraridg.pl^$all
 ||bucovinaimobiliare.com^$all
+||bud.teleportertyr.site^$all
 ||budderlieu.xyz^$all
 ||budet.space^$all
 ||budet.win^$all
@@ -6946,6 +6962,7 @@
 ||chat.zoologys.xyz^$all
 ||chateau-gai-kodzor.com^$all
 ||chatpro.chatpros.site^$all
+||chatprofitsystems.com^$all
 ||chatsex.vc^$all
 ||chayotesdealtura.com^$all
 ||chckmailabig32.web.app^$all
@@ -7234,6 +7251,7 @@
 ||cmyxnbrk09.digital^$all
 ||cn0nw6qregaplb-gw5ahxq.web.app^$all
 ||cnnespanol.net^$all
+||coaching.beyondsixfigures.org^$all
 ||coachzura.com^$all
 ||coadapta.pl^$all
 ||coalboxcon.pl^$all
@@ -7336,6 +7354,7 @@
 ||coindark-invest.pro^$all
 ||coindeskoption.com^$all
 ||coinfirst.com^$all
+||coinfxonline.com^$all
 ||coinlife.click^$all
 ||coinmarketsolutions.com^$all
 ||coinmatrixfx.uk^$all
@@ -7644,6 +7663,7 @@
 ||crawling-oval-axolotl.com^$all
 ||creakingju.com^$all
 ||create827a89z-ing7276a.netotvntf.co.pl^$all
+||creating.studio^$all
 ||creative-software.biz^$all
 ||creativedeno.com^$all
 ||creatsolutions.sa.com^$all
@@ -9847,6 +9867,7 @@
 ||delvery4512542.7965425.xyz^$all
 ||dem21vhrwos8a.cloudfront.net^$all
 ||dem-pp.neggs.xyz^$all
+||demandthemarket.co.uk^$all
 ||demegyleassikitt.gq^$all
 ||dementiash.com^$all
 ||demesundefined.xyz^$all
@@ -11559,6 +11580,7 @@
 ||enower.pl^$all
 ||enpgnig.pl^$all
 ||enpsguinee.com^$all
+||enr5727-go828az.regutv.co.pl^$all
 ||ensanguineductile.info^$all
 ||enstatitee.pl^$all
 ||enterococc.xyz^$all
@@ -12964,6 +12986,7 @@
 ||fxglobe.international^$all
 ||fxinvestments.live^$all
 ||fxlegitmining.com^$all
+||fxmastergold.com^$all
 ||fxpins.com^$all
 ||fxpoint.co^$all
 ||fxsmartcapitaltrade.com^$all
@@ -13439,7 +13462,9 @@
 ||go.affcountry.com^$all
 ||go.microcamsmart.com^$all
 ||go.my-fastorders.com^$all
+||go.prowebinar.uk^$all
 ||go.thehoth.com^$all
+||go.tribefit.co^$all
 ||go.we-euorders.com^$all
 ||goads.pro^$all
 ||goallineembroidery.com^$all
@@ -13681,6 +13706,7 @@
 ||griffonbac.com^$all
 ||grim.stecowkows.site^$all
 ||grimace.sbs^$all
+||grinhansi.cf^$all
 ||grlotosinvve.info^$all
 ||grm.views1pl.site^$all
 ||grocersgro.com^$all
@@ -19168,6 +19194,7 @@
 ||jonetflexx.pl^$all
 ||jonlehre.com^$all
 ||jons.morganprog.xyz^$all
+||joocasino31.com^$all
 ||jopii.neuro-unlim.xyz^$all
 ||joqdier-com.preview-domain.com^$all
 ||joqued.com^$all
@@ -19218,6 +19245,7 @@
 ||juicywin.pl^$all
 ||jujumonk.com^$all
 ||juklon-invest.pro^$all
+||julianhospacademy.cakedefi.com^$all
 ||julienhenryprince.com^$all
 ||july-australia.za.com^$all
 ||july-business.za.com^$all
@@ -19569,6 +19597,7 @@
 ||kimao.link^$all
 ||kimborlausi.site^$all
 ||kinfer.wixsite.com^$all
+||kingkong.co^$all
 ||kingmoviesfox.com^$all
 ||kingmoviesfox.site^$all
 ||kingowczar.pl^$all
@@ -20110,6 +20139,7 @@
 ||ld-apple.info^$all
 ||ld-is-gd.icu^$all
 ||ldaismfanmfjka.bar^$all
+||ldp.page^$all
 ||ldpd.id-43895.me^$all
 ||lds.biz^$all
 ||lea.fazt.online^$all
@@ -20170,6 +20200,7 @@
 ||lekebebek.com^$all
 ||lekibezrecepty.org^$all
 ||lektor-cda.pl^$all
+||lemlistfamily.com^$all
 ||lemsoka.com^$all
 ||lending-for-europe.eu^$all
 ||lendos-com.preview-domain.com^$all
@@ -20869,6 +20900,7 @@
 ||maddeningl.pl^$all
 ||made4mini.com^$all
 ||madebythecco.com^$all
+||madialatal.com^$all
 ||madisenharper.com^$all
 ||madmulla.duckdns.org^$all
 ||maedavenport.com^$all
@@ -21256,6 +21288,7 @@
 ||masoweinfo24.click^$all
 ||maspusabd.tarungdrajatsiokalama.com^$all
 ||mass.maxuziz.xyz^$all
+||masteringbusinessacumen.com^$all
 ||masteringdiabetes.org^$all
 ||masterinv.xyz^$all
 ||mastermaidllc.com^$all
@@ -21286,6 +21319,7 @@
 ||maueso.space^$all
 ||mauneperssourac.tk^$all
 ||mauricechilds.com^$all
+||mauricetrades.com^$all
 ||maursod.site^$all
 ||maury.pl^$all
 ||mavourneenpursinesses.com^$all
@@ -21343,6 +21377,7 @@
 ||mazowsze-info24.xyz^$all
 ||mazowszegazeta.xyz^$all
 ||mazowszeinfo24.xyz^$all
+||mb.provkop.xyz^$all
 ||mba.new-tesl1x.site^$all
 ||mbaank.abiartboutique.com^$all
 ||mbank24.net^$all
@@ -21715,6 +21750,7 @@
 ||mindhackfir.tk^$all
 ||mindixi.s3.us-west-004.backblazeb2.com^$all
 ||mindsqu.com^$all
+||mindvalley.com^$all
 ||minehsal.space^$all
 ||mini-pl.stat-pr.site^$all
 ||minicant.xyz^$all
@@ -27097,6 +27133,7 @@
 ||pasqualeparisi.com^$all
 ||passalon.xyz^$all
 ||passalp.pl^$all
+||passion.io^$all
 ||passive-czinvline.com^$all
 ||passiveincome-tesla.biz^$all
 ||passport.meta-log.site^$all
@@ -29840,6 +29877,7 @@
 ||program-top-group.biz^$all
 ||program-top-group.us^$all
 ||program-topcourse.biz^$all
+||program.iptvss.site^$all
 ||program.program-pro2.xyz^$all
 ||programmaxio.site^$all
 ||programtop-group.us^$all
@@ -30186,6 +30224,7 @@
 ||qameer.space^$all
 ||qavenus.website^$all
 ||qccc.maxiprogs.xyz^$all
+||qcty-offers.com^$all
 ||qcyux9efa.digital^$all
 ||qdb.globprstar.online^$all
 ||qe.gaznf.xyz^$all
@@ -31114,6 +31153,7 @@
 ||sadoonkow.site^$all
 ||safe-offer.co^$all
 ||safe-pay.info^$all
+||safeashouses-book.com^$all
 ||safeclaims.co.uk^$all
 ||safecryptotrade.com^$all
 ||safedebts.co.uk^$all
@@ -31865,6 +31905,7 @@
 ||shoppinfinfo-dpd.65974501.xyz^$all
 ||shopping0lx.5644344421.xyz^$all
 ||shopping0lx.7878767779.xyz^$all
+||shopping0lx.67565545432.xyz^$all
 ||shopping-0-lx.35121122225.xyz^$all
 ||shopping-0lx.6554342.xyz^$all
 ||shopping-allegrolokalnie.3659512.xyz^$all
@@ -31981,6 +32022,7 @@
 ||simpleway.one^$all
 ||simpleway.trade^$all
 ||simpleway.world^$all
+||simplifymultiply.com^$all
 ||simrogis.space^$all
 ||sincipital.xyz^$all
 ||sinedso-market.biz^$all
@@ -33396,6 +33438,7 @@
 ||tds.crptgen1.xyz^$all
 ||teadonm.host^$all
 ||teahousesy.com^$all
+||team-pow.com^$all
 ||teamgrade.my.id^$all
 ||teamhalvarsnoren.se^$all
 ||teamhunt.in^$all
