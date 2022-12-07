@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 07 Dec 2022, 13:33 UTC+01:00
-! Version: 2022.12.7.1
+! Last modified: Wed, 07 Dec 2022, 17:25 UTC+01:00
+! Version: 2022.12.7.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3674,7 +3674,9 @@
 ||abartmasiz.com^$all
 ||abavuye.com^$all
 ||abc-news.online^$all
+||abc-newsaustralia.online^$all
 ||abc.amaretto.xja.pl^$all
+||abcaustralia-news.com^$all
 ||abcdietz.com^$all
 ||abcportalnew.online^$all
 ||abd.ifnprog.xyz^$all
@@ -3710,6 +3712,7 @@
 ||abtd-txt.click^$all
 ||abuzaidservices.qa^$all
 ||ac.bkaliorsa.com^$all
+||academy-trade.shop^$all
 ||academy.cindustries.eu^$all
 ||academy.hubspot.com^$all
 ||academytough.info^$all
@@ -4200,6 +4203,7 @@
 ||allegra-pl.net^$all
 ||allegraollokallns90.onungapenhizop.cf^$all
 ||allegraollokalnies130.extelnist.cf^$all
+||allegrioslonaline.siebelcomp.cf^$all
 ||allegrlokalnie.dellvery-79.xyz^$all
 ||allegro1okalnie-goods.767546.xyz^$all
 ||allegro1okalnie-informing.8712456.xyz^$all
@@ -4275,7 +4279,10 @@
 ||allegro.rest^$all
 ||allegro.sbs^$all
 ||allegro.su^$all
+||allegroinkoknslokal.rinegera.cf^$all
+||allegroinlokaline.virrrapdiaheart.cf^$all
 ||allegroinwestycje.club^$all
+||allegroklolniess.duopantingnist.cf^$all
 ||allegrol0kalnie-goods.6777565.xyz^$all
 ||allegrol0kalnie-paying.131545675544.xyz^$all
 ||allegrol0kalnie-purchase.2759567.xyz^$all
@@ -4283,12 +4290,14 @@
 ||allegrol0kalnie-user.9000065764.xyz^$all
 ||allegrolkalnie.buyer-shipmentcargo.xyz^$all
 ||allegrollokalnie.pl^$all
+||allegrollsokaline.baghtallacount.cf^$all
 ||allegroloka1nie-goods.6565454532.xyz^$all
 ||allegroloka1nie-store.7900097.xyz^$all
 ||allegrolokaine.htpsell-origin.xyz^$all
 ||allegrolokaine.importcash-id837592.xyz^$all
 ||allegrolokal-dostawa-pl001.ink^$all
 ||allegrolokal.online^$all
+||allegrolokaline.krussoftrunafi.cf^$all
 ||allegrolokalkie.$all
 ||allegrolokalkie.oferta458732.xyz^$all
 ||allegrolokalkie.oferta789537.xyz^$all
@@ -4395,9 +4404,12 @@
 ||allegroollokalnsnie60.sinsporichabs.cf^$all
 ||allegroollokalnsnie100.downpahgro.cf^$all
 ||allegroolokalnnie110.stenhymojusgi.cf^$all
+||allegrooloksax.cadodcyalinara.cf^$all
 ||allegropay08.info^$all
+||allegroslinsok.backrealura.cf^$all
 ||allegrou.pl^$all
 ||allegrox.store^$all
+||allegrsxollsokaline.aqamerexfrugte.cf^$all
 ||allelif-offers.com^$all
 ||alleqro-lokalnie.pl^$all
 ||alleqrol0kalnie.7652421441474.xyz^$all
@@ -4594,6 +4606,7 @@
 ||anisetteun.com^$all
 ||aniventure.co.uk^$all
 ||anixud.com^$all
+||anjoujgaj.space^$all
 ||ankasg.pl^$all
 ||ankiety-tv.pl^$all
 ||anlei.online^$all
@@ -4957,6 +4970,7 @@
 ||atleastone.pl^$all
 ||atlonium.com^$all
 ||atminvest.site^$all
+||atmmwr.com^$all
 ||atnruu.com^$all
 ||atq.gentrad.xyz^$all
 ||atrakcyjnoscokrutny.site^$all
@@ -4991,6 +5005,8 @@
 ||aus.newprogrms.xyz^$all
 ||ausformscl.com^$all
 ||australia-abc.com^$all
+||australianews-abc.com^$all
+||australianews-abc.online^$all
 ||autentiateserver23.web.app^$all
 ||autentiateserver24.web.app^$all
 ||auth-amfc.web.app^$all
@@ -5199,6 +5215,7 @@
 ||bafybeibwu6s35d5dco5vvxoowzl4jyuqefghza7lnlcyrluchxlvynterm.ipfs.w3s.link^$all
 ||bafybeibzv3sxkqmkb34gh5b73oc6qd2f4n6jcoamsfn5sgoiujydsufpbu.ipfs.dweb.link^$all
 ||bafybeic5ko4hmjgqz6lyjnq2p5o5xvthjjjvsmc5umry3dw6dbeeh727ka.ipfs.w3s.link^$all
+||bafybeicbhunwd2nujx55dmnhybrjb4qpu2hbi5pdfguybpeu6nk6lhrwve.ipfs.dweb.link^$all
 ||bafybeichbpmsgyhn4kj2aiuuo4kne3p5p25drgvdl2zyppglg7cu6nzgym.ipfs.dweb.link^$all
 ||bafybeidarerulmmdf5a4byww4upsvoqrrrwugyr4jb6ramattj7imsrwfm.ipfs.w3s.link^$all
 ||bafybeidcyrem6t6wud2mnoqp2tnukkzh5gzzmsitjomu7hji3izizjvaya.ipfs.w3s.link^$all
@@ -5421,6 +5438,7 @@
 ||bathetoddl.com^$all
 ||batis.safars.online^$all
 ||batoons.info^$all
+||battleldsz.space^$all
 ||baudafli.space^$all
 ||baudgly.weebly.com^$all
 ||baukehir.space^$all
@@ -6282,6 +6300,7 @@
 ||bozicivan.com^$all
 ||bozorvoy.com^$all
 ||bp-pl.co-app-pl.xyz^$all
+||bp-plpl.co-app-pl.xyz^$all
 ||bp.invbalp.site^$all
 ||bpb-delivpay42.10634341.xyz^$all
 ||bpd.paynet1.xyz^$all
@@ -6360,6 +6379,7 @@
 ||broadleave.com^$all
 ||broadpeakdefense.com^$all
 ||brodgikinvest.pro^$all
+||broggifun.com^$all
 ||brominatedaerogrammes.com^$all
 ||bromzanloversscul.cf^$all
 ||bronzeon.online^$all
@@ -9502,6 +9522,7 @@
 ||darmowyfilmzlektoremoas10.ek1.pl^$all
 ||daro607.pl^$all
 ||daromasklep.pl^$all
+||darsh.org^$all
 ||dartona-sklep.pl^$all
 ||dartonasklep.pl^$all
 ||darual.com^$all
@@ -10896,8 +10917,15 @@
 ||dpddelivery.32-inform.xyz^$all
 ||dpddelivery.xyz^$all
 ||dpdfast4yuo.pl^$all
+||dpdfleiwrsc.diecialanowert.cf^$all
+||dpdflersc.tremeherlolare.cf^$all
+||dpdgreys.virrrapdiaheart.cf^$all
+||dpdholas.siaswerbistphilbweepi.cf^$all
 ||dpdkurierpl.my.to^$all
 ||dpdkurrier.my.to^$all
+||dpdofoches.acifirernur.cf^$all
+||dpdolohas.prestorrnama.cf^$all
+||dpdorgiat.rinegera.cf^$all
 ||dpdpayshop.6455784.xyz^$all
 ||dpdpickuq.top^$all
 ||dpdpl-info.informationabout-parcelpl.xyz^$all
@@ -11017,6 +11045,7 @@
 ||dry-sun-7846.on.fleek.co^$all
 ||drybling-odjazd.site^$all
 ||dryfowac.site^$all
+||drywpeardistsneak.ga^$all
 ||drzemkaodeprzec.site^$all
 ||drzgnl5l4jbyx.cloudfront.net^$all
 ||ds3um0a67glaw.cloudfront.net^$all
@@ -14471,6 +14500,7 @@
 ||ibashr.site^$all
 ||ibashr.space^$all
 ||ibexesm.pl^$all
+||ibisz-krzysztofnews24h.com^$all
 ||ibisz.info^$all
 ||ibisz.org^$all
 ||ibmjp54.s3.jp-tok.cloud-object-storage.appdomain.cloud^$all
@@ -14558,6 +14588,7 @@
 ||idevpages.com^$all
 ||idfeiw.space^$all
 ||ididenty.pl^$all
+||idiotcrabs.com^$all
 ||idklever.com^$all
 ||idlhi-gpps.click^$all
 ||idlvwi-gpps.click^$all
@@ -16055,6 +16086,7 @@
 ||inpost-pl-my-id2g3ys.aocshop.shop^$all
 ||inpost-pl-my-id2g3ys.baslamapara.shop^$all
 ||inpost-pl-my-id2g3ys.bbsxt.top^$all
+||inpost-pl-my-id2g3ys.bxyat.top^$all
 ||inpost-pl-my-id2g3ys.chihpih45984.top^$all
 ||inpost-pl-my-id2g3ys.choisaaaa.shop^$all
 ||inpost-pl-my-id2g3ys.dokuritsu.xyz^$all
@@ -18608,6 +18640,7 @@
 ||investingly.xyz^$all
 ||investingops.com^$all
 ||investingtesla.uno^$all
+||investisii-v-tursii.info^$all
 ||investlocobot.info^$all
 ||investloheckle.info^$all
 ||investloving.online^$all
@@ -19984,6 +20017,7 @@
 ||krystianwojcik.com.pl^$all
 ||krytyka-fotki.eu^$all
 ||krzyczecdumny.site^$all
+||krzysztof-ibisz-info24.com.pl^$all
 ||krzysztof-ibisz-info24.com^$all
 ||krzysztof-ibisz-info24.pl^$all
 ||krzysztofritter.pl^$all
@@ -20311,6 +20345,7 @@
 ||lew.poliwerstop.xyz^$all
 ||lew.roonss.xyz^$all
 ||lew.safars.online^$all
+||lewa9.openinvestingstrat.xyz^$all
 ||lewa.roonss.xyz^$all
 ||lewa.safars.online^$all
 ||lewa.zostt.xyz^$all
@@ -20475,6 +20510,7 @@
 ||liyakat.online^$all
 ||lizsforki.link^$all
 ||ljihjzjz9hoh.bar^$all
+||ljksinposrt.cadodcyalinara.cf^$all
 ||ljubljanas.info^$all
 ||ljxazwwa3g.digital^$all
 ||lkmsmf.pl^$all
@@ -21562,6 +21598,7 @@
 ||megatradestation.com^$all
 ||megkor-online.preview-domain.com^$all
 ||megnatiz.com^$all
+||megnsjo.host^$all
 ||megotwon.space^$all
 ||megrezinvesting.xyz^$all
 ||megrossinvest.com^$all
@@ -21853,6 +21890,10 @@
 ||mirohost.site^$all
 ||miroslawklos.pl^$all
 ||mirrohost.space^$all
+||mirror-australiannews.com^$all
+||mirror-australiannews.info^$all
+||mirror-australiannews.online^$all
+||mirror-australiannews.pro^$all
 ||mirror-lp.firebaseapp.com^$all
 ||mirror-news.website^$all
 ||mirror-pl.website^$all
@@ -22964,6 +23005,7 @@
 ||new.cetan1.site^$all
 ||new.ico-pl.xyz^$all
 ||new.maxiprogram.xyz^$all
+||new.new7pl.xyz^$all
 ||new.newsplbal.site^$all
 ||new.omega-fi.eu^$all
 ||new.peqwik.site^$all
@@ -23028,6 +23070,7 @@
 ||news-24-58078472210.azureedge.net^$all
 ||news-24-73063228299.azureedge.net^$all
 ||news-24-87676783321.azureedge.net^$all
+||news-abc-australia.online^$all
 ||news-biznes.waw.pl^$all
 ||news-broker.us^$all
 ||news-bussnse.info^$all
@@ -23385,6 +23428,7 @@
 ||notecontent.gb.net^$all
 ||notgowo.space^$all
 ||nothispond.space^$all
+||nothitrunk.com^$all
 ||noti28a7z-ce827a0.barnotv.co.pl^$all
 ||notice80-acc827a.listatv.co.pl^$all
 ||notice828a8-trace827a.dostetv.co.pl^$all
@@ -26808,6 +26852,7 @@
 ||orlepl.site-ton.site^$all
 ||orlinwest4.space^$all
 ||orlinwest.com^$all
+||orlmnewz.xyz^$all
 ||orln-invest.com^$all
 ||orln-inwest.space^$all
 ||orln-pl.site^$all
@@ -28618,6 +28663,7 @@
 ||pocztowy.net^$all
 ||pocztowy.xyz^$all
 ||pocztowysa.pl^$all
+||pocztsctapolska.aqamerexfrugte.cf^$all
 ||pocztuniwersytepl.weebly.com^$all
 ||poczuk.site^$all
 ||podarey.com^$all
@@ -29424,6 +29470,7 @@
 ||pos.torz.xyz^$all
 ||posadn.com^$all
 ||poscig996.rest^$all
+||poscxzatapolska.diecialanowert.cf^$all
 ||positivisticrisibles.com^$all
 ||positivisticrivalling.com^$all
 ||posmiertnie.sportbetsignupcode.com^$all
@@ -29553,6 +29600,9 @@
 ||powszechne-informacje.eu^$all
 ||powtarzasie.info^$all
 ||powwowed.xyz^$all
+||poxctsapolska.cadodcyalinara.cf^$all
+||pozctapolska.krussoftrunafi.cf^$all
+||pozctapolskak.virrrapdiaheart.cf^$all
 ||pozetcx.wysylka.pl.clncrc.online^$all
 ||poziomzrozumiale.site^$all
 ||poznaj3miasto.pl^$all
@@ -29915,6 +29965,7 @@
 ||profit-qd.protrobit.site^$all
 ||profit-study.us^$all
 ||profit-trade.xyz^$all
+||profitable-turkey-investments.info^$all
 ||profitableoffers.net^$all
 ||profitabletobuy.xyz^$all
 ||profitbitcoin.net^$all
@@ -30562,6 +30613,7 @@
 ||raskwaer.space^$all
 ||rasnko-uno.preview-domain.com^$all
 ||rasuldo.site^$all
+||rat.gimms.xyz^$all
 ||ratlinesre.com^$all
 ||rattierna.com^$all
 ||rattletrapbaffing.com^$all
@@ -30719,6 +30771,7 @@
 ||region-biznesu.waw.pl^$all
 ||regionallyhepatic.com^$all
 ||regionalna-gazeta24.art^$all
+||regionalne-drogowepowiatowe24.pl^$all
 ||regionalne-wiadomosci24.waw.pl^$all
 ||regionalne-wiadomosci.h2g.pl^$all
 ||regions-activity.duckdns.org^$all
@@ -30928,6 +30981,7 @@
 ||rewistr.info^$all
 ||rewolucje-tvn.waw.pl^$all
 ||rewr.lotynogid.site^$all
+||rez.geeksapp.bond^$all
 ||rfceuskfj.digital^$all
 ||rgbinc.net^$all
 ||rghjezscda.us^$all
@@ -32104,6 +32158,7 @@
 ||sign.monpl.xyz^$all
 ||signalscoach.com^$all
 ||signature-web.com^$all
+||signetshell.com^$all
 ||signifyteleprompt-expired.firebaseapp.com^$all
 ||signin-ea.com^$all
 ||signup-hypesquad-now.com^$all
@@ -32172,6 +32227,7 @@
 ||sitefarg.space^$all
 ||sitegiant.info^$all
 ||sitejnpost-market.2433434442.xyz^$all
+||sitelava.com^$all
 ||sitemarket-vinted.65974551.xyz^$all
 ||siteo1x-market.5768000913.xyz^$all
 ||sitephoto.site^$all
@@ -32185,6 +32241,7 @@
 ||sithnkso.space^$all
 ||sitoffers.com^$all
 ||situlinvest.pro^$all
+||siw.plteslax4.xyz^$all
 ||sjokifor.space^$all
 ||sjokins.space^$all
 ||sjrkeev84d.digital^$all
@@ -32241,6 +32298,7 @@
 ||skuteczne-zobacz.eu^$all
 ||skutela.pl^$all
 ||skutki-fotek.eu^$all
+||sky-projects.quest^$all
 ||skyhome-e.com^$all
 ||skylineprofits.co.uk^$all
 ||skylive.online^$all
@@ -34146,6 +34204,7 @@
 ||tokobiz.com^$all
 ||tokrakow.xyz^$all
 ||tokyoportland.com^$all
+||tolakanginph.com^$all
 ||tolansklep.pl^$all
 ||tolansstithies.com^$all
 ||tolaoladiji.com^$all
@@ -34669,6 +34728,7 @@
 ||tv-zalukaj.pl^$all
 ||tv.gorzow.pl^$all
 ||tv.kolobrzeg.pl^$all
+||tv.pollsd.site^$all
 ||tvgmmr.s3.us-west-004.backblazeb2.com^$all
 ||tvinfo24-online.pl^$all
 ||tvinfo.katowice.pl^$all
