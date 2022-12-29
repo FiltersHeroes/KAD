@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 29 Dec 2022, 09:21 UTC+01:00
-! Version: 2022.12.29.0
+! Last modified: Thu, 29 Dec 2022, 13:30 UTC+01:00
+! Version: 2022.12.29.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2959,6 +2959,7 @@
 /tds/ae?tds_campaign=$document
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0-01x-merchandise.554217.xyz^$all
+||0-lx.12store3444.xyz^$all
 ||0-lx.userstore-info.xyz^$all
 ||0-lxform.07shipment.xyz^$all
 ||0-lxshipment.form0page.xyz^$all
@@ -3021,6 +3022,7 @@
 ||0lx-store.6589855.xyz^$all
 ||0lx-store.0625154845.xyz^$all
 ||0lx-storeinform.3069999.xyz^$all
+||0lx.1storepageinfo.xyz^$all
 ||0lx.3pageinfo.xyz^$all
 ||0lx.3sitestore32.xyz^$all
 ||0lx.4shopping-info.xyz^$all
@@ -4081,6 +4083,7 @@
 ||agricole-sms.org^$all
 ||agriculturevote.com^$all
 ||agrigjttsw.co^$all
+||agrikultura-shop.online^$all
 ||agritech-utilajeagricole.ro^$all
 ||agrlcolc.pw^$all
 ||agrlcolc.space^$all
@@ -5254,6 +5257,7 @@
 ||avv-prod.web.app^$all
 ||aw18ff53.aweb.page^$all
 ||aw.chatonline.site^$all
+||awakesecurity.online^$all
 ||awazne-fakty.adepusa.com^$all
 ||awazne-pomoc.business-chatbots.com^$all
 ||awazne-tvn24.hejsokoly.waw.pl^$all
@@ -5319,6 +5323,7 @@
 ||b5.newappco.xyz^$all
 ||b6yf5b.webwave.dev^$all
 ||b7.newappco.xyz^$all
+||b9bafk.webwave.dev^$all
 ||b24-0fwdtd.bitrix24.site^$all
 ||b24-00gj2c.bitrix24.site^$all
 ||b24-1ftqhc.bitrix24.site^$all
@@ -5467,6 +5472,7 @@
 ||balekis.com^$all
 ||balera.pl^$all
 ||baletis.com^$all
+||balezka.com^$all
 ||balit.lazt.online^$all
 ||baliz.ballt.xyz^$all
 ||balkit.space^$all
@@ -5551,6 +5557,7 @@
 ||bankfotek.cleverapps.io^$all
 ||bankierpl.com^$all
 ||banking-bendingobank-au.com^$all
+||banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online^$all
 ||banking-pl.site^$all
 ||bankmelenium.online^$all
 ||bankmellennium.pl^$all
@@ -6346,6 +6353,7 @@
 ||blogs.hormonalwings.com^$all
 ||blogsite.prog-max1pro0g.site^$all
 ||blogstar.alxprogs.xyz^$all
+||blogxpress.online^$all
 ||blonde28a8a-law827.netfpwa.co.pl^$all
 ||blondish.info^$all
 ||bloodhou.com^$all
@@ -7487,6 +7495,7 @@
 ||cinemarkasian.com^$all
 ||cinematicfanatic.com^$all
 ||cineplaynow.com^$all
+||cineplexr.com^$all
 ||cingmoses.tk^$all
 ||ciorak.com^$all
 ||circadianliving.com^$all
@@ -9813,6 +9822,7 @@
 ||d-pd-shop.03211124.xyz^$all
 ||d-pd.21storepay.xyz^$all
 ||d-pd.7621storepay.xyz^$all
+||d-pd.formusershop.xyz^$all
 ||d-pd.product-senduser.xyz^$all
 ||d.jakzostacmilionereminwestujac.com^$all
 ||da01odyv8jm54.cloudfront.net^$all
@@ -10418,6 +10428,7 @@
 ||des.safars.online^$all
 ||desacapgzuducroe.cf^$all
 ||desastater.com^$all
+||desconfortozero.online^$all
 ||describableganef.xyz^$all
 ||desdeelring.com^$all
 ||desdren-com.preview-domain.com^$all
@@ -11116,6 +11127,7 @@
 ||dp-b.storeuser-info.xyz^$all
 ||dp-d-delivery.00322233.xyz^$all
 ||dp-d-delivery.6809342135.xyz^$all
+||dp-d.8dispatchgoods.xyz^$all
 ||dp-d.3232storeinfo.xyz^$all
 ||dp-d.2421545455.xyz^$all
 ||dp-d.receivingdelivery-info.xyz^$all
@@ -12020,6 +12032,7 @@
 ||elbravocomputer.com^$all
 ||elearning.physiotraining.com.gt^$all
 ||elecompl.online^$all
+||electricmap.monster^$all
 ||electrocanada.online^$all
 ||electroenchufe.com^$all
 ||electrumltc.org^$all
@@ -12549,6 +12562,7 @@
 ||f-trk.ws4k.in^$all
 ||f.point-appco.site^$all
 ||fa9a8.smilemobile.pt^$all
+||fa82728a-reg827a.raloksa.co.pl^$all
 ||fa.fondblagorus.xyz^$all
 ||fa.programchat.site^$all
 ||faakty24.pl^$all
@@ -12811,6 +12825,7 @@
 ||fascynowactendencja.site^$all
 ||fasdgas2e2e1.xyz^$all
 ||fasmol.org^$all
+||fast-news.waw.pl^$all
 ||fastandfurious7pl.wordpress.com^$all
 ||fastcash4vehicles.com^$all
 ||fastcryptofxtrade.com^$all
@@ -14445,6 +14460,7 @@
 ||gramercies.pl^$all
 ||gramtholpithosupp.tk^$all
 ||grandcapital.net^$all
+||grandleagues.com^$all
 ||grands-poll.xyz^$all
 ||granite-jaiden.com^$all
 ||granite-karl.com^$all
@@ -14773,6 +14789,7 @@
 ||hatbandsov.com^$all
 ||haterssacr.pl^$all
 ||haudeo.com^$all
+||haumrogue.link^$all
 ||hav.gaznf.xyz^$all
 ||havn.com.vn^$all
 ||hawenp.xyz^$all
@@ -19847,6 +19864,7 @@
 ||it-inwest.xyz^$all
 ||it-mantra.com^$all
 ||it-school.co.il^$all
+||itabz5.webwave.dev^$all
 ||itagrolys-com.preview-domain.com^$all
 ||itambana.galamaiitam.link^$all
 ||itbryzorti.tk^$all
@@ -22299,6 +22317,7 @@
 ||maker-warranty.space^$all
 ||makerspace.top^$all
 ||maketrade-pl.homes^$all
+||makeworkers.online^$all
 ||makingmoneys.space^$all
 ||makingreceipt.xyz^$all
 ||makis.appmaxiz.site^$all
@@ -22323,6 +22342,7 @@
 ||malwql.pl^$all
 ||mam-szanse.eu^$all
 ||mam.mostt.xyz^$all
+||mama-2bh.pages.dev^$all
 ||mamaleniwy.site^$all
 ||mame.motto.lol^$all
 ||mamihe.cf^$all
@@ -24056,6 +24076,7 @@
 ||naszemiasto.org.pl^$all
 ||naszepodworko.eu^$all
 ||naszglos24.laohost.net^$all
+||nataliagalante.online^$all
 ||nataliakubasik.pl^$all
 ||natangas.pl^$all
 ||natavotyy.eu^$all
@@ -24239,6 +24260,7 @@
 ||netfli.waw.pl^$all
 ||netflieza.com^$all
 ||netflipl.com^$all
+||netflipld.com^$all
 ||netflispl.com^$all
 ||netflix-promocja.pl^$all
 ||netflix-promocje.pl^$all
@@ -24250,6 +24272,7 @@
 ||netflix.pl.sri-india.com^$all
 ||netflix.promo3.ml^$all
 ||netflix.promocion3meses.com.co.conveniomobi.ga^$all
+||netfllpl.com^$all
 ||netflnza.com^$all
 ||netfluxtvvv.com.pl^$all
 ||netfluxtvvv.pl^$all
@@ -25472,6 +25495,7 @@
 ||oix-polsca.ruwemoiemallenus.buzz^$all
 ||oix-polsca.uejaomverol8496.shop^$all
 ||oj0isf.webwave.dev^$all
+||oj-x.16store3444.xyz^$all
 ||ojaivillasandgolf.com^$all
 ||ojx-site.33shoppinginfo.xyz^$all
 ||ojx.2marke-t-inform.xyz^$all
@@ -25539,6 +25563,7 @@
 ||ollx.81shoppinginfo.xyz^$all
 ||ollx.2544455444.xyz^$all
 ||ollx.3265154545.xyz^$all
+||ollx.store3444.xyz^$all
 ||olnlxggxi.granorbotrola.ml^$all
 ||olnlxigci.nuetever.ml^$all
 ||olnuhor-online.preview-domain.com^$all
@@ -27834,6 +27859,7 @@
 ||oolx.312storeuser.xyz^$all
 ||oolx.4999584555.xyz^$all
 ||oolx.id-3241.com^$all
+||oolx.storepageinfo.xyz^$all
 ||oonja.com^$all
 ||ooogo.xyz^$all
 ||op.vlchatonline.site^$all
@@ -29222,6 +29248,7 @@
 ||pgg-wegiel.pl^$all
 ||pgg-zakupy.info^$all
 ||pgg-zamowienia.pl^$all
+||pgg.info.pl^$all
 ||pgn-marketing.com^$all
 ||pgn-platform.com^$all
 ||pgnewspl.com^$all
@@ -30074,6 +30101,7 @@
 ||poczta-polska.ddns.net^$all
 ||poczta-polska.dynv6.net^$all
 ||poczta-polska.e-kei.pl^$all
+||poczta-polska.info^$all
 ||poczta-polska.jackyc.top^$all
 ||poczta-polska.net.pl^$all
 ||poczta-polska.sistemaventas.pe^$all
@@ -31558,6 +31586,7 @@
 ||profi-urge.space^$all
 ||profi-x.traderstatt.xyz^$all
 ||profiblog.pl4ainreaction.xyz^$all
+||profiitsmaks-pl.lexogyic.com^$all
 ||profiitsmaks-pl.thefastestprofit.com^$all
 ||profiitsmaks-pl.tohozaig.com^$all
 ||profiitsmaks-pl.wahozuoz.com^$all
@@ -32328,6 +32357,7 @@
 ||reagitl-com.preview-domain.com^$all
 ||real-prizes.life^$all
 ||real-profitz.com^$all
+||realeraoftens.online^$all
 ||realescort.club^$all
 ||realican.com^$all
 ||realismdead.info^$all
@@ -32441,6 +32471,7 @@
 ||regamtas.xyz^$all
 ||regencytower1.com^$all
 ||regeneracja.turbofelkel.pl^$all
+||regeneradascostas.online^$all
 ||regesto.win^$all
 ||regfastprog.site^$all
 ||reggae.biz.pl^$all
@@ -34282,6 +34313,7 @@
 ||softbet365.com^$all
 ||softmania.pl^$all
 ||softsmart.mobi^$all
+||software-review-site.com^$all
 ||sohohealthsolutions.com^$all
 ||sohpetyeri.com^$all
 ||soilbread.com^$all
@@ -35979,6 +36011,8 @@
 ||theoutdoorsurvivaltvnetwork.com^$all
 ||thepacificagroup.com^$all
 ||thepansarigroup.com^$all
+||theplanetbusiness.com^$all
+||thepolak.online^$all
 ||thepop.info^$all
 ||thepremierclinic.com^$all
 ||therapeutic-me.com^$all
@@ -36132,6 +36166,7 @@
 ||todays-newz.com^$all
 ||todolize.com^$all
 ||todovideosmusicales.es^$all
+||todziendobry.com^$all
 ||toe-corrector-pl.com^$all
 ||togakmandang.unaux.com^$all
 ||togdynia.xyz^$all
@@ -36436,6 +36471,7 @@
 ||transcendent-queijadas-e99992.netlify.app^$all
 ||transfer-olx.gq^$all
 ||transfilmapps.xyz^$all
+||transformandoseucorpo.online^$all
 ||translatorhunts.com^$all
 ||transmisja-szkola209.ct8.pl^$all
 ||transmisje-szkole.ct8.pl^$all
@@ -39653,12 +39689,14 @@
 ||vjltoawyx9b.digital^$all
 ||vjn-ted.22store-info.xyz^$all
 ||vjn-ted.marketsite3.xyz^$all
+||vjnnted.2merchandise.xyz^$all
 ||vjnt-eduser.3sitedeliveryinfo.xyz^$all
 ||vjnte-d.2store545.xyz^$all
 ||vjnte-d.24shop-store.xyz^$all
 ||vjnte-d.6525-shipmentgoods.xyz^$all
 ||vjnte-d.958645.xyz^$all
 ||vjnte-d.deljveryinfo-98450.xyz^$all
+||vjnte-d.merchandiseinfo.xyz^$all
 ||vjnte-d.store-info.xyz^$all
 ||vjnted09-form.763380.xyz^$all
 ||vjnted09-shop.3491254125.xyz^$all
@@ -40243,6 +40281,7 @@
 ||w.paczkoups.com^$all
 ||w.paczkwups.com^$all
 ||wa726a87-exp827a.adamos2310.com.pl^$all
+||wa928-in827a.zapoca.co.pl^$all
 ||waaskorson.uno^$all
 ||wadawdaw.investnev3.xyz^$all
 ||wagapas.site^$all
@@ -40924,6 +40963,7 @@
 ||wiiskos.space^$all
 ||wijnted.4214232333.xyz^$all
 ||wikil.telichkakol.xyz^$all
+||wildlifetracker.net^$all
 ||wilfredaltenwerth.pl^$all
 ||willpowerzero.info^$all
 ||wilmaks.website^$all
@@ -40980,6 +41020,7 @@
 ||winted-shopping.6453432109.xyz^$all
 ||winted-store.26666665955.xyz^$all
 ||winted.4store545.xyz^$all
+||winted.5merchandise.xyz^$all
 ||winted.32store-info.xyz^$all
 ||winted.432info324.xyz^$all
 ||winted.521storeinfo.xyz^$all
