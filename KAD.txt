@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 01 Jan 2023, 21:17 UTC+01:00
-! Version: 2023.1.1.3
+! Last modified: Mon, 02 Jan 2023, 09:22 UTC+01:00
+! Version: 2023.1.2.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5565,6 +5565,7 @@
 ||bankfotek.cleverapps.io^$all
 ||bankierpl.com^$all
 ||banking-bendingobank-au.com^$all
+||banking-ing.pl-id91hcu1qbah1iosfn18uajrf8990a19fbnqh18ha.com^$all
 ||banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online^$all
 ||banking-ing.pl-id5821uhab2d1zhb3412asb1hju4bhdfb5.com^$all
 ||banking-pl.site^$all
@@ -10559,11 +10560,15 @@
 ||dhi9ksq8khea1.cloudfront.net^$all
 ||dhib3cxtfdjncfgy.vdl.pl^$all
 ||dhl-b70571.ingress-erytho.ewp.live^$all
+||dhl-de1395.scuflicharthewer.ml^$all
 ||dhl-de1492.swathsorsi.ml^$all
 ||dhl-de1810.listitacepttenspe.ml^$all
+||dhl-de2561.quevasuhard.ml^$all
 ||dhl-de2845.ramkcompy.ml^$all
+||dhl-de3285.lankoron.ml^$all
 ||dhl-de4475.mutitexpfalechoo.ml^$all
 ||dhl-de4964.sniferam.ml^$all
+||dhl-de5652.kinglonsipithoga.ml^$all
 ||dhl-de5843.oslausiversimp.ml^$all
 ||dhl-de6061.grifdyedracemdsipeas.ml^$all
 ||dhl-de6293.knownolotancoa.ml^$all
@@ -10572,6 +10577,7 @@
 ||dhl-de8645.compgalamore.ml^$all
 ||dhl-de8739.gaihuara.ml^$all
 ||dhl-de9144.okarak.ml^$all
+||dhl-de9413.winblawgamoulneumo.ml^$all
 ||dhl-de9504.granorbotrola.ml^$all
 ||dhl-de9905.inraconla.ml^$all
 ||dhl-paket-express-international.cfolks.pl^$all
@@ -10585,17 +10591,24 @@
 ||dhlbazeos.tiokickrenimb.cf^$all
 ||dhlfh1l8xj4e6.cloudfront.net^$all
 ||dhlukbvti.listitacepttenspe.ml^$all
+||dhlukfnyl.clognurtco.ml^$all
+||dhlukhsbq.winblawgamoulneumo.ml^$all
 ||dhlukmdwj.tesnitenaho.ml^$all
 ||dhlukmhyp.nuetever.ml^$all
 ||dhlukmxqm.oralderpo.ml^$all
+||dhluknfsb.lankoron.ml^$all
+||dhlukoubm.peacofmu.ml^$all
 ||dhluksiph.okarak.ml^$all
+||dhluktbvo.quevasuhard.ml^$all
 ||dhluktsbh.erreto.ml^$all
 ||dhluktysv.rassnonsdeconsiewhor.ml^$all
 ||dhlukunzq.mutitexpfalechoo.ml^$all
+||dhlukuwgv.kinglonsipithoga.ml^$all
 ||dhlukvfwp.granorbotrola.ml^$all
 ||dhlukvijg.gytari.ml^$all
 ||dhlukwkwy.nlinernowebtu.ml^$all
 ||dhlukwtbb.vostwohncrim.ml^$all
+||dhlukyfsb.hecello.ml^$all
 ||dhm8324ka79wc.cloudfront.net^$all
 ||dhougvqhyr.cfolks.pl^$all
 ||dhreak.com^$all
@@ -11474,9 +11487,11 @@
 ||dpdpl.dostawa-order-6744132.xyz^$all
 ||dpdpldghz.mutitexpfalechoo.ml^$all
 ||dpdplglgx.listitacepttenspe.ml^$all
+||dpdplhmea.clognurtco.ml^$all
 ||dpdpliohu.compgalamore.ml^$all
 ||dpdpliyqm.vostwohncrim.ml^$all
 ||dpdplkpbq.onenespi.ml^$all
+||dpdplkrct.winblawgamoulneumo.ml^$all
 ||dpdpllewj.tuimeptaderpoltgin.ml^$all
 ||dpdpllyfu.gytari.ml^$all
 ||dpdplmbat.rassnonsdeconsiewhor.ml^$all
@@ -11487,6 +11502,7 @@
 ||dpdplpkhj.knownolotancoa.ml^$all
 ||dpdplqcrd.dioturnpestsi.ml^$all
 ||dpdpltwab.gaihuara.ml^$all
+||dpdpltxzx.hecello.ml^$all
 ||dpdpluirh.erreto.ml^$all
 ||dpdplwcrn.tesnitenaho.ml^$all
 ||dpdplwwuu.tupixmoupo.ml^$all
@@ -23174,12 +23190,17 @@
 ||mingovplberw.rassnonsdeconsiewhor.ml^$all
 ||mingovplepui.tesnitenaho.ml^$all
 ||mingovplgdhf.oslausiversimp.ml^$all
+||mingovplgfjc.reochilbyo.ml^$all
+||mingovplidtn.kinglonsipithoga.ml^$all
+||mingovpliuvc.scuflicharthewer.ml^$all
+||mingovpliytc.winblawgamoulneumo.ml^$all
 ||mingovpljfcm.swathsorsi.ml^$all
 ||mingovpljlie.mutitexpfalechoo.ml^$all
 ||mingovpljmuw.ketpdertantclud.ml^$all
 ||mingovplkpkx.dioturnpestsi.ml^$all
 ||mingovpllaak.oslausiversimp.ml^$all
 ||mingovpllciu.spiroxbar.ml^$all
+||mingovpllgjn.quevasuhard.ml^$all
 ||mingovplmxxg.faycesbdeals.ml^$all
 ||mingovplnjpo.reacibill.ml^$all
 ||mingovplobnw.tupixmoupo.ml^$all
@@ -23193,6 +23214,8 @@
 ||mingovpltkud.tuimeptaderpoltgin.ml^$all
 ||mingovplvlgo.olunimkallero.ml^$all
 ||mingovplwchc.toughsitehalan.ml^$all
+||mingovplxheq.peacofmu.ml^$all
+||mingovplynuq.clognurtco.ml^$all
 ||mingovplyxhy.gaihuara.ml^$all
 ||mini-pl.stat-pr.site^$all
 ||minicant.xyz^$all
@@ -38157,6 +38180,7 @@
 ||vinted-pl-gj32d.bitster.top^$all
 ||vinted-pl-gj32d.bitxion.top^$all
 ||vinted-pl-gj32d.bizful.top^$all
+||vinted-pl-gj32d.bjmxcyd.top^$all
 ||vinted-pl-gj32d.blissdom.shop^$all
 ||vinted-pl-gj32d.blmfm.top^$all
 ||vinted-pl-gj32d.bna-dan.live^$all
@@ -38470,6 +38494,7 @@
 ||vinted-pl-gj32d.liuwudy.xyz^$all
 ||vinted-pl-gj32d.lldaohang.xyz^$all
 ||vinted-pl-gj32d.loanid.xyz^$all
+||vinted-pl-gj32d.lovelb.top^$all
 ||vinted-pl-gj32d.lspgdh.top^$all
 ||vinted-pl-gj32d.lu2396.top^$all
 ||vinted-pl-gj32d.lugmtdn7534fng.xyz^$all
@@ -41643,6 +41668,7 @@
 ||wypadek-info24news.pl^$all
 ||wypadek-szaflary.waw.pl^$all
 ||wypadek-ttv.xyz^$all
+||wypadek-videosy.eu^$all
 ||wypadek-wp.eu5.net^$all
 ||wypadek-zakopianka.waw.pl^$all
 ||wypadekenergia.waw.pl^$all
