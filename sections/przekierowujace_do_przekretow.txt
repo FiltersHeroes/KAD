@@ -1,8 +1,6 @@
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
 /?track=*&key=$doc
-||downloadlocked.com^$all
-||expensivesurvey.click^$all
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
 /^https?:\/\/((?!www)[a-z]{3,}|\d{2})?\.?[-0-9a-z]{6,}\.[a-z]{2,6}\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|space|top|us|xyz
@@ -74,6 +72,7 @@
 ||devstartup.pl^$all
 ||dgu9g3a2kzqx2.cloudfront.net^$all
 ||dhufgpp.com^$all
+||downloadlocked.com^$all
 ||duryman.com^$all
 ||e-kino.tv^$all
 ||e-kocyki.pl^$all
@@ -83,6 +82,7 @@
 ||ehufgpp.com^$all
 ||eworldtrack.com^$all
 ||exe.io^$doc
+||expensivesurvey.click^$all
 ||extra-promo7.com^$all
 ||extrava.shop^$all
 ||exy.ai^$all
