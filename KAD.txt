@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 10 Jan 2023, 09:24 UTC+01:00
-! Version: 2023.1.10.0
+! Last modified: Tue, 10 Jan 2023, 13:34 UTC+01:00
+! Version: 2023.1.10.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3224,6 +3224,7 @@
 ||01x-payment.user0shop.xyz^$all
 ||01x.2storepaying.xyz^$all
 ||01x.12shop-site.xyz^$all
+||01x.112121222.xyz^$all
 ||01x.cargodelivery-inform.xyz^$all
 ||01x.user-sendproduct.xyz^$all
 ||1xsms.xyz^$all
@@ -5173,6 +5174,7 @@
 ||aroxtradeasset.com^$all
 ||arpucelnabahi.gq^$all
 ||arrentertainment.com^$all
+||arriveatbiz.club^$all
 ||arriveguar.com^$all
 ||ars.bashes.site^$all
 ||arsanilic.info^$all
@@ -10436,6 +10438,7 @@
 ||del1ver-inpomts2645.sd1o.wiki^$all
 ||del1ver-inpomts4076.nt24o.today^$all
 ||del1ver-inpomts4653.ml2s.wiki^$all
+||del-dhl-express.com^$all
 ||del.korto.xyz^$all
 ||dela.gokass.xyz^$all
 ||delaip.pl^$all
@@ -11557,6 +11560,7 @@
 ||dp-dgoods.132906.xyz^$all
 ||dp-dgoods.5342909.xyz^$all
 ||dp-dmarket.31333243.xyz^$all
+||dp-dmarket.48977769.xyz^$all
 ||dp-dmarket.infoshop0.xyz^$all
 ||dp-dmerchandise.9054332.xyz^$all
 ||dp-dshop.0pageproduct.xyz^$all
@@ -14617,6 +14621,7 @@
 ||ghostwriterreplacement.com^$all
 ||ghs.dropcanoiles.com^$all
 ||ghwr-offers.com^$all
+||gi1h.com^$all
 ||gi.crptgen1.xyz^$all
 ||gia.my-tes-programinc.xyz^$all
 ||gia.vishes.site^$all
@@ -14720,6 +14725,7 @@
 ||globalmaxis.com^$all
 ||globaltopcourse.us^$all
 ||globalwiadomosci.site^$all
+||globalzingnow.com^$all
 ||globe-delivery-express.com^$all
 ||globnews24.com^$all
 ||globnewsfinance.com^$all
@@ -14978,12 +14984,14 @@
 ||govtjobopenings.com^$all
 ||govvpl.xyz^$all
 ||goweralo-on.info^$all
+||gowmnpl.xyz^$all
 ||gozdzinskirafal.pl^$all
 ||gp.aximpoilc.com^$all
 ||gpgoq4d4g.digital^$all
 ||gph4y7.webwave.dev^$all
 ||gpnplnr.life^$all
 ||gpplnr.life^$all
+||gpro1.online-one.site^$all
 ||gpro.activpl-pro.site^$all
 ||gpro.stronieint.site^$all
 ||gproessl.com^$all
@@ -15347,6 +15355,7 @@
 ||harvestingwork.life^$all
 ||harvestingwork.top^$all
 ||harvestingwork.xyz^$all
+||harvestplan.site^$all
 ||has.dropcanoiles.com^$all
 ||has.gaznf.xyz^$all
 ||hashcontri.pl^$all
@@ -15899,6 +15908,7 @@
 ||iasaldws.pl^$all
 ||iasjnas.pl^$all
 ||iattle.com^$all
+||ib3y.com^$all
 ||ibashr.site^$all
 ||ibashr.space^$all
 ||ibexesm.pl^$all
@@ -20461,6 +20471,7 @@
 ||iqksmda.pl^$all
 ||iqua22-ia.web.app^$all
 ||iranck.pl^$all
+||iras-gov-sg.web.app^$all
 ||irbf.com^$all
 ||irealotime.pl^$all
 ||ireland365.cloud^$all
@@ -22803,6 +22814,7 @@
 ||m4o6v7.webwave.dev^$all
 ||m4rkt.com^$all
 ||m8zn.com^$all
+||m9wn.com^$all
 ||m-blog.maxipl-system.xyz^$all
 ||m-faccebook-com-paznokcie.5v.pl^$all
 ||m-facebook.ct8.pl^$all
@@ -23754,6 +23766,7 @@
 ||migticomjeumerdust.tk^$all
 ||miguelcantonzetina.com^$all
 ||migyxip.site^$all
+||mihidra.cl^$all
 ||miicroflonine.hostfree.pw^$all
 ||miina.xyz^$all
 ||miioioi.s3.us-west-004.backblazeb2.com^$all
@@ -24619,6 +24632,7 @@
 ||my-bnpparibas.com^$all
 ||my-chatprogram.xyz^$all
 ||my-diya-inc.com^$all
+||my-icloud.us.com^$all
 ||my-ininit.alxprogs.xyz^$all
 ||my-order.biz^$all
 ||my-paylife.at.cfolks.pl^$all
@@ -25927,6 +25941,8 @@
 ||o-lx-info.4995569999.xyz^$all
 ||o-lx.41storepay3355.xyz^$all
 ||o-lx.35612-dispatchgoods.xyz^$all
+||o-lx.412121222.xyz^$all
+||o-lx.512121222.xyz^$all
 ||o-lx.marke-t324.xyz^$all
 ||o-lx.shop-site.xyz^$all
 ||o-net1.pl^$all
@@ -26393,6 +26409,7 @@
 ||ollx.31storepage.xyz^$all
 ||ollx.32marke-t324.xyz^$all
 ||ollx.81shoppinginfo.xyz^$all
+||ollx.212121222.xyz^$all
 ||ollx.2544455444.xyz^$all
 ||ollx.3265154545.xyz^$all
 ||ollx.store3444.xyz^$all
@@ -28686,6 +28703,7 @@
 ||online365account.support^$all
 ||online365accounts.info^$all
 ||online-cda.pl^$all
+||online-connected.com^$all
 ||online-courses.co.il^$all
 ||online-film.pl^$all
 ||online-pekaoc24-pl.com^$all
@@ -28764,6 +28782,7 @@
 ||oolx.storepageinfo.xyz^$all
 ||oonja.com^$all
 ||ooogo.xyz^$all
+||op298a7z8-s27a.famippwa.co.pl^$all
 ||op.vlchatonline.site^$all
 ||opakowanie-nakretka.site^$all
 ||opalamy.com^$all
@@ -34039,6 +34058,7 @@
 ||s6.o-rln.co^$all
 ||s7.o-rln.co^$all
 ||s8powazkowska-modlinska.pl^$all
+||s9rk.com^$all
 ||s99ddciss.ha003.t.justns.ru^$all
 ||s145308.lpmotortest.com^$all
 ||s147310.lpmotortest.com^$all
@@ -36465,6 +36485,7 @@
 ||t-pl1.zoologys.xyz^$all
 ||t-pl2.blog4pl.xyz^$all
 ||t-pl.newplx.site^$all
+||t-pro.online-one.site^$all
 ||t-prog.tes21active.xyz^$all
 ||t-slx.program-pro2.xyz^$all
 ||t.neggs.xyz^$all
@@ -36973,6 +36994,7 @@
 ||tesslax.space^$all
 ||tesslla.fun^$all
 ||tesslla.space^$all
+||tesssew.whatpoliklin.xyz^$all
 ||test1.clouds11.co^$all
 ||test1.copy.pc.pl^$all
 ||test02century-env.4hfvsquzkh.us-east-1.elasticbeanstalk.com^$all
@@ -37758,6 +37780,7 @@
 ||trzymajnewsa.click^$all
 ||trzywyleczycsie.site^$all
 ||trzyzapalki2.site^$all
+||ts1.online-one.site^$all
 ||ts1apro.art^$all
 ||ts1apro.club^$all
 ||ts1apro.fun^$all
@@ -38470,6 +38493,7 @@
 ||utsgruffily.com^$all
 ||uttermosts.pl^$all
 ||uufycg-maintenance-2a77de039-hfbee.sitebeat.crazydomains.com^$all
+||uugaa.com^$all
 ||uuytvvcfd.weebly.com^$all
 ||uv.gaznf.xyz^$all
 ||uvar.uno^$all
@@ -38508,6 +38532,7 @@
 ||uzupelniajdane.ga^$all
 ||uzupelniajdane.gq^$all
 ||uzvaret-com.preview-domain.com^$all
+||v0kw3z.webwave.dev^$all
 ||v1-nted.delj-very324.xyz^$all
 ||v1.groupkzin.quest^$all
 ||v1.rpss-esp.xyz^$all
@@ -38534,6 +38559,7 @@
 ||v1nted.1232storeinfo.xyz^$all
 ||v1nted.3454shop-store.xyz^$all
 ||v1nted.748512.xyz^$all
+||v1nted.554545555.xyz^$all
 ||v1nted.4323333333.xyz^$all
 ||v1nted.dispatchgoods-buyer.xyz^$all
 ||v1nted.goodssending-site.xyz^$all
@@ -38838,6 +38864,7 @@
 ||vignature.info^$all
 ||vigorkay.com^$all
 ||vigorousactivity.info^$all
+||vigribim.com^$all
 ||vihte-d.3informshop.xyz^$all
 ||vihted033shopping.222122222.xyz^$all
 ||vihted-delivery.3542332433.xyz^$all
@@ -39021,6 +39048,7 @@
 ||vimtedsite.35608521.xyz^$all
 ||vin-lescude.fr^$all
 ||vin-ted.60845-shipmentgoods.xyz^$all
+||vin-ted.354545555.xyz^$all
 ||vin-ted.goods-sendingsite.xyz^$all
 ||vin.mostt.xyz^$all
 ||vincentlendler.com^$all
@@ -40914,6 +40942,7 @@
 ||vjjnted-store.3333333111.xyz^$all
 ||vjjnted.322122222.xyz^$all
 ||vjltoawyx9b.digital^$all
+||vjn-ted-store33.5544343.xyz^$all
 ||vjn-ted.22store-info.xyz^$all
 ||vjn-ted.marketsite3.xyz^$all
 ||vjnnted.2merchandise.xyz^$all
@@ -42221,6 +42250,7 @@
 ||willpowerzero.info^$all
 ||wilmaks.website^$all
 ||wimalds.pl^$all
+||wimted.154545555.xyz^$all
 ||win-ted.65322222122.xyz^$all
 ||windel1tpa1form3pell.paiserplgktrs.shop^$all
 ||windeltpa1formpll.plngektors.shop^$all
@@ -42924,6 +42954,7 @@
 ||xiiixcdf.s3.us-west-004.backblazeb2.com^$all
 ||xinzhouzixun.top^$all
 ||xiqlt.unhideme.live^$all
+||xixikpl.com^$all
 ||xixtanchi.space^$all
 ||xizyleo.sa.com^$all
 ||xjfj38gajs9as0.bar^$all
