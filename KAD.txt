@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 14 Jan 2023, 12:42 UTC+01:00
-! Version: 2023.1.14.1
+! Last modified: Sat, 14 Jan 2023, 12:57 UTC+01:00
+! Version: 2023.1.14.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -108,6 +108,7 @@
 ||altrarunningpl.com^$all
 ||altrarunningpolska.com^$all
 ||amgdoor.com^$all
+||amolis24.com^$all
 ||amorza.pl^$all
 ||anbuifoenbi.com^$all
 ||androidgameshacks.com^$all
@@ -299,6 +300,7 @@
 ||butucaterpillar.pl^$all
 ||buty-demonia.com^$all
 ||buty-hokaoneone.com^$all
+||buty-merrell.pl^$all
 ||butyadidaspl.com^$all
 ||butyairforce.com^$all
 ||butyaku.com^$all
@@ -422,6 +424,7 @@
 ||cherolion.com^$all
 ||chicladdy.com^$all
 ||chicsoso.com^$all
+||chiliel.com^$all
 ||chloewyprzedaz.com^$all
 ||chorsiny.shop^$all
 ||chris-jasnowidz.pl^$all
@@ -480,6 +483,7 @@
 ||cosogtmos.shop^$all
 ||cossiekroi.pl^$all
 ||costcoit.com^$all
+||courtuin.com^$all
 ||covidboxtest.com^$all
 ||cpabuild.com^$all
 ||cpb.com.pl^$all
@@ -579,6 +583,7 @@
 ||dominsal.shop^$all
 ||domki-kopalino.com.pl^$all
 ||dopalacze-sklep.org^$all
+||dopekurtka.pl^$all
 ||dopestore.pl^$all
 ||dorseo.pl^$all
 ||dowmarkets.com^$all
@@ -670,6 +675,7 @@
 ||emoda.com.pl^$all
 ||enata.store^$all
 ||enogestu.com^$all
+||enrriqstore.com^$all
 ||enterbuty.com.pl^$all
 ||entermedia.pl^$all
 ||eonline.pl^$all
@@ -793,6 +799,7 @@
 ||funskan.pl^$all
 ||furlapolska.com^$all
 ||furoshikibuty.com^$all
+||furtheing.top^$all
 ||futado.pl^$all
 ||futurenet.club^$all
 ||fxgm.com^$all
@@ -872,6 +879,7 @@
 ||grarpg.pl^$all
 ||gratyfikantgt.info^$all
 ||greatshoes.pl^$all
+||greatzio.com^$all
 ||green-home.com.pl^$all
 ||greenbarleyplus.pl^$all
 ||grillorama.shop^$all
@@ -901,6 +909,7 @@
 ||havaianaspolska.com^$all
 ||hayatghifari.com^$all
 ||hazel-projektowanie.com.pl^$all
+||hazidcandrar.shop^$all
 ||hctrd.shop^$all
 ||hdmovies.pl^$all
 ||headjordan.com^$all
@@ -1033,8 +1042,10 @@
 ||joy-box.pl^$all
 ||jtdxg.shop^$all
 ||juicoburalrus.com^$all
+||julyneeds.com^$all
 ||jump.ogtrk.net^$all
 ||jumphots.com^$all
+||jusktine.com^$all
 ||justicechic.com^$all
 ||jxtgf.shop^$all
 ||kaie.pl^$all
@@ -1221,6 +1232,7 @@
 ||lowisko-podolsze.pl^$all
 ||lp-wip.pl^$all
 ||lpilogryfice.pl^$all
+||lsomolai.shop^$all
 ||lubuskauniapracy.pl^$all
 ||lucyfeed.com^$all
 ||luna-jewels.pl^$all
@@ -1327,6 +1339,7 @@
 ||mielno-baltic.pl^$all
 ||miglisty.online^$all
 ||mikro24.pl^$all
+||mildreds.shop^$all
 ||mileneckydar.cc^$all
 ||milifoo.com^$all
 ||milosc.co^$all
@@ -1433,6 +1446,7 @@
 ||newbalancepolska.pl^$all
 ||newchicme.pl^$all
 ||neweraczapkisklep.com^$all
+||newhin.com^$all
 ||newmediaz.com^$all
 ||newpassporn.com^$all
 ||nextgen24h.pl^$all
@@ -1441,6 +1455,7 @@
 ||nfnry.store^$all
 ||nfxgo.shop^$all
 ||nfxqh.shop^$all
+||nianio.pl^$all
 ||nicesneaks.com^$all
 ||nicolosi.pl^$all
 ||niechoruje.pl^$all
@@ -1467,6 +1482,7 @@
 ||nobulpolska.me^$all
 ||noclegi-kozienice.pl^$all
 ||nocuta.online^$all
+||nolisao.shop^$all
 ||noostta.com^$all
 ||nordic16.com^$all
 ||northfacepl.com^$all
@@ -1595,6 +1611,7 @@
 ||pelie.pl^$all
 ||pellelife.com^$all
 ||pensjonatsportowy.pl^$all
+||peptydy24.pl^$all
 ||perfecttools.pl^$all
 ||perfecturist.pl^$all
 ||perfumeria-vlory.pl^$all
@@ -1606,6 +1623,7 @@
 ||pessaistore.com^$all
 ||pewnyzabieg.pl^$all
 ||phillshop.myshopify.com^$all
+||phoneland.pl^$all
 ||phtno.com^$all
 ||phytolast.com^$all
 ||piechnik.com.pl^$all
@@ -1690,6 +1708,7 @@
 ||popalz.online^$all
 ||popcornvod.com^$all
 ||popity.pl^$all
+||popsnavo.com^$all
 ||poradnikiosx.pl^$all
 ||poradybiurowe.pl^$all
 ||porsche-pl.com^$all
@@ -1944,6 +1963,7 @@
 ||shopecoheat.co^$all
 ||shopolo.pl^$all
 ||shoppingink.com^$all
+||shoppsours.com^$all
 ||shops.onlinecheaps2021.ru^$all
 ||shops.onlines2021.ru^$all
 ||shopsneakers.pl^$all
@@ -2246,6 +2266,7 @@
 ||triumphrb.com^$all
 ||trybikowo.pl^$all
 ||trzymajpoziom.pl^$all
+||tuinishop.com^$all
 ||tulezka.com^$all
 ||tunalas.com^$all
 ||turystyczne-suwalki.pl^$all
@@ -2297,6 +2318,7 @@
 ||vagabondsklep.me^$all
 ||valenti-torinto.pl^$all
 ||valetta.pl^$all
+||valinmix.com^$all
 ||vannes776.com^$all
 ||vansj.com^$all
 ||vansoldschool.pl^$all
@@ -2334,9 +2356,11 @@
 ||vidaxl.pl^$all
 ||videodownloadconverter.com^$all
 ||vincenzodellavecchia.xyz^$all
+||violaiy.shop^$all
 ||vionicpolska.pl^$all
 ||viotaa.com^$all
 ||virginborn-kast-sklep.pl^$all
+||visulan-complex.pl^$all
 ||vitajuice.com.pl^$all
 ||viume.online^$all
 ||vivavulkanvegas.com.pl^$all
@@ -2344,6 +2368,7 @@
 ||vivobarefootsklep.pl^$all
 ||vivobarefootspolska.com^$all
 ||vivozebra.pl^$all
+||vixeniain.com^$all
 ||vod4u.pl^$all
 ||vodplay.pl^$all
 ||voldemort.pl^$all
@@ -10233,6 +10258,7 @@
 ||d20182m7dmbezm.cloudfront.net^$all
 ||d34725q6gy71zj.cloudfront.net^$all
 ||d-chat.program-pro2.xyz^$all
+||d-pb.565988889.xyz^$all
 ||d-pd254commodity45sending.05487512.xyz^$all
 ||d-pd0782deljvery98.306520.xyz^$all
 ||d-pd-informing.7673232.xyz^$all
@@ -13037,6 +13063,7 @@
 ||eu.nextah.com^$all
 ||eu.profirev.site^$all
 ||eu.spacexvisitorcenter.xyz^$all
+||eu.tes-index.xyz^$all
 ||eu.tprogapp.xyz^$all
 ||eu.visitoronearthxrussellathletic.xyz^$all
 ||eua.anticr.xyz^$all
@@ -26792,6 +26819,7 @@
 ||olnlxxske.odciatisa.ml^$all
 ||olnlxybmc.scatgunssollo.ml^$all
 ||olnuhor-online.preview-domain.com^$all
+||ols.iptvss.site^$all
 ||olszewski.ehost.pl^$all
 ||oltarzew.com.pl^$all
 ||olufunkefajimi.com^$all
@@ -38331,6 +38359,7 @@
 ||tutajdodaj.pl^$all
 ||tutajmaszinformacje.click^$all
 ||tuvisodep.com^$all
+||tuxy9p.webwave.dev^$all
 ||tv0y2w.webwave.dev^$all
 ||tv90-platnosci.gmienslsoa.co.pl^$all
 ||tv728az-sh827a9z.kikashow.co.pl^$all
@@ -41267,6 +41296,7 @@
 ||vionser-xyz.preview-domain.com^$all
 ||vip-chan.xyz^$all
 ||vip.capital-service.info^$all
+||vip.pr.liveprog.site^$all
 ||vip.projactiv.xyz^$all
 ||vipaudience.kinsta.cloud^$all
 ||vipclub-pl.sbs^$all
@@ -42718,6 +42748,7 @@
 ||willpowerzero.info^$all
 ||wilmaks.website^$all
 ||wimalds.pl^$all
+||wimted-store.34855544.xyz^$all
 ||wimted.154545555.xyz^$all
 ||win-ted.65322222122.xyz^$all
 ||windel1tpa1form3pell.paiserplgktrs.shop^$all
