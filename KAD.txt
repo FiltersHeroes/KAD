@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 23 Jan 2023, 17:24 UTC+01:00
-! Version: 2023.1.23.2
+! Last modified: Mon, 23 Jan 2023, 21:18 UTC+01:00
+! Version: 2023.1.23.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3164,6 +3164,7 @@
 ||0utl00k1.yolasite.com^$all
 ||00x.eu^$all
 ||0zw22yu.cn^$all
+||1-chihuahua-secrets.com^$all
 ||1-energy.azureedge.net^$all
 ||1-interia.azureedge.net^$all
 ||1-onet.azureedge.net^$all
@@ -3215,6 +3216,7 @@
 ||1max.online-prog1.site^$all
 ||1max.pro-masters.xyz^$all
 ||1mpost.net^$all
+||1mpostinfo.61126566.xyz^$all
 ||1mppost4512dispatchg00ds1.97658412.xyz^$all
 ||1msk.witprogram.xyz^$all
 ||1my.plprogram-act.site^$all
@@ -3277,6 +3279,7 @@
 ||1npost.shipmentgoods-pay.xyz^$all
 ||1npost.userproductpay.xyz^$all
 ||1nposted-salement.03145783.xyz^$all
+||1npozt-324.75326595.xyz^$all
 ||1nws.online-one.xyz^$all
 ||1onet.azureedge.net^$all
 ||1pro1.plprogram-act.site^$all
@@ -3786,6 +3789,7 @@
 ||253.express-inpost.online^$all
 ||302komunikat.site^$all
 ||303udns.info^$all
+||303udns.online^$all
 ||308relacja.site^$all
 ||309ce2d6c3d.johncornell.com^$all
 ||326.allegro.lokalnie.cc^$all
@@ -3806,6 +3810,7 @@
 ||411medias.com^$all
 ||412komunikat.site^$all
 ||416weeddelivery.com^$all
+||420growessentials.com^$all
 ||429sygnal.site^$all
 ||433.allegro-lokalnie.icu^$all
 ||433.mobile-allegrolokalnie.shop^$all
@@ -4066,6 +4071,7 @@
 ||9033597a.bakerstreetfinance.tv^$all
 ||9054332.xyz^$all
 ||9054657.xyz^$all
+||9076565.xyz^$all
 ||9080098.xyz^$all
 ||9080790.xyz^$all
 ||9090897.xyz^$all
@@ -4935,6 +4941,7 @@
 ||allegrol0kalnii.162365659.xyz^$all
 ||allegrol0kalnje-store.09809676.xyz^$all
 ||allegrol-okalnieshop.7656876.xyz^$all
+||allegrol-ookalnie.42652333.xyz^$all
 ||allegrolkallnie.loyrafwademoshe.cf^$all
 ||allegrolkalnie.buyer-shipmentcargo.xyz^$all
 ||allegrollokallniie.vetrebackhelo.cf^$all
@@ -6045,6 +6052,7 @@
 ||b48qcr.webwave.dev^$all
 ||b061f6b112d.chefs-kitchen.co.uk^$all
 ||b67ada6f7ad.chefs-kitchen.co.uk^$all
+||b71c.com^$all
 ||b88a56a6.bakerstreetfinance.tv^$all
 ||b107.info^$all
 ||b108fk.webwave.dev^$all
@@ -7313,6 +7321,9 @@
 ||borando-sklep.pl^$all
 ||borclular.com^$all
 ||borderstroll.info^$all
+||boredstranger.com^$all
+||boredweirdo.com^$all
+||boredweirdos.com^$all
 ||borefak.uno^$all
 ||boresfno-com.preview-domain.com^$all
 ||borgesgesso.com^$all
@@ -7621,6 +7632,7 @@
 ||buzzlace.cf^$all
 ||bvilpr.com^$all
 ||bvuida.com^$all
+||bw1c.com^$all
 ||bwrghj.com^$all
 ||byamekug.de^$all
 ||bycwharmonii.pl^$all
@@ -7656,6 +7668,7 @@
 ||c39b126b5cec.ngrok.io^$all
 ||c43b9.nasilorulur.com^$all
 ||c73gfhdsjs8.bar^$all
+||c91c03ea6c46a86-cbc019be3d71d0a1a.slologa.co.pl^$all
 ||c93f5814e20.chefs-kitchen.co.uk^$all
 ||c97d1ab9dd9.chefs-kitchen.co.uk^$all
 ||c199bd51070.chefs-kitchen.co.uk^$all
@@ -7663,9 +7676,11 @@
 ||c220.info^$all
 ||c274aca9.sibforms.com^$all
 ||c368a1f3929.chefs-kitchen.co.uk^$all
+||c457.info^$all
 ||c513.info^$all
 ||c619c476bad.chefs-kitchen.co.uk^$all
 ||c698.info^$all
+||c716.info^$all
 ||c719a035a0a.chefs-kitchen.co.uk^$all
 ||c6723.nullserie.com^$all
 ||c8908857.sibforms.com^$all
@@ -8043,6 +8058,7 @@
 ||centryn24.in^$all
 ||centryns24.in^$all
 ||centun24.in^$all
+||centuryigr.com^$all
 ||centuseeing.com^$all
 ||cepventi.com^$all
 ||ceqqdf.com^$all
@@ -11104,6 +11120,7 @@
 ||deliivery32-oolx.548122222.xyz^$all
 ||deliivery85dp-d.154222121.xyz^$all
 ||deliivery5849inpos-t.323265656.xyz^$all
+||deliivery.25326595.xyz^$all
 ||deliliverclnqostpoln425.dellver45ollxpln07.ink^$all
 ||delillversollxpolanc482.dellver45ollxpln07.ink^$all
 ||delinqu.pl^$all
@@ -11118,6 +11135,7 @@
 ||delivery2you.page.link^$all
 ||delivery08-o1x.45555555566.xyz^$all
 ||delivery24polska.cyou^$all
+||delivery38.1phupg.com^$all
 ||delivery093v1nte-d.242121222.xyz^$all
 ||delivery758imposst.359554212.xyz^$all
 ||delivery840dpd.365988889.xyz^$all
@@ -11702,6 +11720,7 @@
 ||di6gscnksa178.cloudfront.net^$all
 ||di8q1cy7elae6.cloudfront.net^$all
 ||di9iwv3abis8q.cloudfront.net^$all
+||di9328a9z9-re9209dsa8z9.loganetko.live^$all
 ||di-spatch0lx.prod-uct31.xyz^$all
 ||diabetes-conditions.com^$all
 ||diabetesdropzone.com^$all
@@ -13334,6 +13353,7 @@
 ||eilitor.com^$all
 ||einpost.id-4343.me^$all
 ||eirror.com^$all
+||eisbergfreistadt.com^$all
 ||ejaculacaotardia.online^$all
 ||ejecensu.com^$all
 ||ejectazo.com^$all
@@ -13800,6 +13820,7 @@
 ||everestmarkets.com^$all
 ||everythingrentsapp.com^$all
 ||everyweekforum.xyz^$all
+||evg.finnewspl.com^$all
 ||evilerantimusic.com^$all
 ||evilerundefined.com^$all
 ||evinir.com^$all
@@ -15742,6 +15763,9 @@
 ||godsendyou.info^$all
 ||godsendyou.life^$all
 ||godsendyou.top^$all
+||godsendyouh.club^$all
+||godsendyouh.info^$all
+||godsendyouh.life^$all
 ||godsendyouh.top^$all
 ||godz276a8-na828z.kokawstv.co.pl^$all
 ||goesaroundjofyou.com^$all
@@ -16723,6 +16747,7 @@
 ||hostinnigeria.com^$all
 ||hostkrd.ovh^$all
 ||hostujmy.pl^$all
+||hot94320as9d-d9329a0z.loganetko.cfd^$all
 ||hot-movies.online^$all
 ||hot-stock.live^$all
 ||hotakeol.com^$all
@@ -16866,6 +16891,7 @@
 ||i1nvest.web.app^$all
 ||i1xrl5-upqs.co^$all
 ||i2dbi8.webwave.dev^$all
+||i2gy.com^$all
 ||i2nvest.web.app^$all
 ||i21bal.webwave.dev^$all
 ||i133.info^$all
@@ -17360,6 +17386,7 @@
 ||in-post-pl-myid272xs.zuacaralosdert.xyz^$all
 ||in-post-senddata.xyz^$all
 ||in-post.837269plid.pics^$all
+||in-post.51126566.xyz^$all
 ||in-post.dostawa-order01942.top^$all
 ||in-post.dostawa-order72340.top^$all
 ||in-post.dostawa-order89742.top^$all
@@ -17505,6 +17532,7 @@
 ||info6455.site^$all
 ||info7220.site^$all
 ||info7455.site^$all
+||info8610.com^$all
 ||info394290.wixsite.com^$all
 ||info-0lx.93223323.xyz^$all
 ||info-1npost.49215122111.xyz^$all
@@ -17590,6 +17618,7 @@
 ||info-o1x.shoppjngform.xyz^$all
 ||info-od-policji.dnsrobotuptime.ru^$all
 ||info-od-policji.pl^$all
+||info-olix.21126566.xyz^$all
 ||info-onet4.pl^$all
 ||info-onet8.pl^$all
 ||info-onet9.pl^$all
@@ -17666,6 +17695,7 @@
 ||infoinp0st.112122222.xyz^$all
 ||infoinp0st.623265656.xyz^$all
 ||infoinp0st.32652135151.xyz^$all
+||infoinp0zt.92652333.xyz^$all
 ||infoinpost-goods.7554309.xyz^$all
 ||infoinpozt.65612151222.xyz^$all
 ||infojhpost-goods.7867564566.xyz^$all
@@ -17959,6 +17989,7 @@
 ||informujmy-was.waw.pl^$all
 ||informujmywas.waw.pl^$all
 ||informujswiat.pl^$all
+||informvjjnted.153232656.xyz^$all
 ||informvjnted.4354666657.xyz^$all
 ||informvjnted.di-spatch99.xyz^$all
 ||infos.poliwerstop.xyz^$all
@@ -21261,6 +21292,7 @@
 ||invest-time.info^$all
 ||invest-trade-pl.cyou^$all
 ||invest-trade.cyou^$all
+||invest-trade.store^$all
 ||invest.infobadaniepl.xyz^$all
 ||investaz.us^$all
 ||investbopster.info^$all
@@ -21696,6 +21728,7 @@
 ||j2vl.com^$all
 ||j4ec-bitly.co^$all
 ||j6xl1kzht9pk5zw.asanrahvisa.ir^$all
+||j7el.com^$all
 ||j9yvvyc.591books.xyz^$all
 ||j772ki.webwave.dev^$all
 ||j-ntm.com^$all
@@ -22015,6 +22048,7 @@
 ||joedohn.site^$all
 ||joehuergo.com^$all
 ||joenwoodfun.info^$all
+||joesloandesign.com^$all
 ||jofas.org^$all
 ||johghvyrf.digital^$all
 ||joi.maskts-unlim.xyz^$all
@@ -26613,6 +26647,7 @@
 ||newclock24.eu5.net^$all
 ||newenergy-pgeproject.info^$all
 ||newergot.site^$all
+||newformedialog.com^$all
 ||newhom24h.pl^$all
 ||newhome24h.pl^$all
 ||newhuaisen.com^$all
@@ -26626,6 +26661,7 @@
 ||newmail00.000webhostapp.com^$all
 ||newnews.fun^$all
 ||neworgdp.com^$all
+||newpay.ico-eu.xyz^$all
 ||newpkocoin.site^$all
 ||newpl.newprot1.site^$all
 ||newpl.stat-pr.site^$all
@@ -28719,6 +28755,7 @@
 ||olx.310548.xyz^$all
 ||olx.837269plid.pics^$all
 ||olx.9568451.xyz^$all
+||olx.72652333.xyz^$all
 ||olx.365902154.xyz^$all
 ||olx.6021548745.xyz^$all
 ||olx.7321548745.xyz^$all
@@ -31224,6 +31261,7 @@
 ||parking920.rest^$all
 ||parkkolay.gelistirirken.com^$all
 ||parkodkrywcow.pl^$all
+||parkoldes.site^$all
 ||parkprasowy.awesomeerictech.com^$all
 ||parlbas.online^$all
 ||parlbas.viaromanonsolopizza.com^$all
@@ -32064,7 +32102,9 @@
 ||pl-info-24.online^$all
 ||pl-info-24.pl^$all
 ||pl-info-24.site^$all
+||pl-info.help^$all
 ||pl-info.online^$all
+||pl-info.pro^$all
 ||pl-info.store^$all
 ||pl-info.xyz^$all
 ||pl-inform.help^$all
@@ -32924,6 +32964,18 @@
 ||polan-pro1.polanfirm11.xyz^$all
 ||polan-prog2.polanfirm11.xyz^$all
 ||poland00.carrd.co^$all
+||poland-info.art^$all
+||poland-info.cloud^$all
+||poland-info.fun^$all
+||poland-info.info^$all
+||poland-info.live^$all
+||poland-info.online^$all
+||poland-info.pro^$all
+||poland-info.shop^$all
+||poland-info.site^$all
+||poland-info.space^$all
+||poland-info.store^$all
+||poland-info.website^$all
 ||poland-info.world^$all
 ||poland-inv.web.app^$all
 ||poland-lotos.site^$all
@@ -35006,6 +35058,7 @@
 ||razr-finance.com^$all
 ||razuvstorik.prprogram.site^$all
 ||rbbdigitalpark.com^$all
+||rbinternationalr-net.ddnss.eu^$all
 ||rcebanque.com^$all
 ||rcfuneral.com.br^$all
 ||rchelanrealrestmuwin.cf^$all
@@ -35945,6 +35998,7 @@
 ||say.abs.beauty^$all
 ||say.spice.skin^$all
 ||say.unlimitedprofit.autos^$all
+||saya.finnewspl.com^$all
 ||saycemx.net^$all
 ||sayfuzzypickles.net^$all
 ||sayideal.info^$all
@@ -36621,6 +36675,7 @@
 ||shopa1legrolokalnie.8795343.xyz^$all
 ||shopal-legrol0kalnie.4657666.xyz^$all
 ||shopallegr0lokalnie.8090008423.xyz^$all
+||shopallegro0lokalni-e.62652333.xyz^$all
 ||shopallegro-loklnie.65326555.xyz^$all
 ||shopallegrolokalnee.45326566.xyz^$all
 ||shopbest.online^$all
@@ -36673,6 +36728,7 @@
 ||shopping09o1x.25699995.xyz^$all
 ||shopping09vimted.31111232.xyz^$all
 ||shopping32-o1x4.248122222.xyz^$all
+||shopping32.35326595.xyz^$all
 ||shopping43.23322322.xyz^$all
 ||shopping43ojx.368989999.xyz^$all
 ||shopping48v1nted.669565666.xyz^$all
@@ -38009,6 +38065,8 @@
 ||supermakler.at^$all
 ||supermocna-tasma-klejaca-pl.com^$all
 ||supernutritionssubpopulation.xyz^$all
+||superollxstroy.targetstore.top^$all
+||superolnxstore.papershop.top^$all
 ||superserwisy.pl^$all
 ||supersindbad.com^$all
 ||supersmartberaking.com^$all
@@ -40430,6 +40488,7 @@
 ||v1.groupkzin.quest^$all
 ||v1.rpss-esp.xyz^$all
 ||v1nt-ed.11marketpay.xyz^$all
+||v1nte-d-shopping.953232656.xyz^$all
 ||v1nte-d.41marketshop.xyz^$all
 ||v1nte-d.33242userstore-info.xyz^$all
 ||v1nte-d.sendingproduct-34815.xyz^$all
@@ -42797,6 +42856,7 @@
 ||violentisochronally.xyz^$all
 ||vionser-xyz.preview-domain.com^$all
 ||vip-chan.xyz^$all
+||vip-gn.liveprog.site^$all
 ||vip.capital-service.info^$all
 ||vip.pr.liveprog.site^$all
 ||vip.projactiv.xyz^$all
@@ -44758,6 +44818,7 @@
 ||wybierz-glosuj.eu^$all
 ||wybierz-kandydata.eu^$all
 ||wybierzmy-zwyciezce.eu^$all
+||wybigok.com^$all
 ||wybor-absorpcja.site^$all
 ||wybor-podpunktu.eu^$all
 ||wybor-wygranego.eu^$all
@@ -45093,6 +45154,7 @@
 ||xstarter.sa.com^$all
 ||xsub240.qprogramtebei7.com^$all
 ||xsuccsess.space^$all
+||xt928dsa9z8-los.kontanetf.cloud^$all
 ||xteeslla.fun^$all
 ||xteeslla.space^$all
 ||xteeslla.store^$all
@@ -45247,6 +45309,8 @@
 ||youbizchance.life^$all
 ||youbizchance.top^$all
 ||youbizchance.xyz^$all
+||youblessing.club^$all
+||youblessing.info^$all
 ||youblessing.top^$all
 ||youcacodem.com^$all
 ||youcanhelpthem1.bar^$all
