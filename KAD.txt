@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 24 Jan 2023, 21:18 UTC+01:00
-! Version: 2023.1.24.3
+! Last modified: Wed, 25 Jan 2023, 13:34 UTC+01:00
+! Version: 2023.1.25.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3033,6 +3033,7 @@
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0-01x-merchandise.554217.xyz^$all
 ||0-lx.12store3444.xyz^$all
+||0-lx.71544512.xyz^$all
 ||0-lx.userstore-info.xyz^$all
 ||0-lxform.07shipment.xyz^$all
 ||0-lxshipment.form0page.xyz^$all
@@ -6118,6 +6119,7 @@
 ||baetin.site^$all
 ||bafkreiaziwxxrimupqlhtr6rew6rilkclk4ghyvh6baldmdjrfcf2nkzyu.ipfs.nftstorage.link^$all
 ||bafkreigin5zchgbbrulsnw6hrb67fsjauyuzwh2gkh6bcyjlga473c4zra.ipfs.nftstorage.link^$all
+||bafybeia2wjieil2kimjnrvtp7unyikkxzsxeyyb5omk577ym5nzrgzqzly.ipfs.dweb.link^$all
 ||bafybeiajfaxts62clr3irseqhff55olqpz2n2xcgh2tdev6slkjimbai64.ipfs.w3s.link^$all
 ||bafybeiarneh3wvpq7c4woy42gby37uiykorn5lfp23tg4efxmd5qudvopa.ipfs.w3s.link^$all
 ||bafybeiavotz2yjud3wl22zhzm6xv6k22xwk7vonwmwdtwflh6rh3ra5s7y.ipfs.w3s.link^$all
@@ -6253,6 +6255,7 @@
 ||banetik.com^$all
 ||banewan.com^$all
 ||bangunpapua.com^$all
+||baniahotel.pl^$all
 ||banikos.com^$all
 ||baninprost.dumbnonsimurjoli.cf^$all
 ||baniola-sklep.pl^$all
@@ -7034,6 +7037,7 @@
 ||blazeredno.xyz^$all
 ||blazinginvesting.xyz^$all
 ||blazwo.online^$all
+||blcpipe.com^$all
 ||bld.tpn-wq.xyz^$all
 ||ble3mder3d.com^$all
 ||bleacheritejayvees.com^$all
@@ -7925,6 +7929,7 @@
 ||cb33z-upgs.club^$all
 ||cb-maxpl.bond^$all
 ||cb-maxpl.quest^$all
+||cb-roblox.com^$all
 ||cbdnewsdirect.com^$all
 ||cbdsauve.com^$all
 ||cbsmarket.co^$all
@@ -9112,6 +9117,7 @@
 ||cryptergen.com^$all
 ||crypto-bonuses.xyz^$all
 ||crypto-engine.pl^$all
+||crypto-exchange24-m.pro^$all
 ||crypto-formula.click^$all
 ||crypto-guild.com^$all
 ||crypto-invest.monster^$all
@@ -12171,6 +12177,7 @@
 ||doint827a-di28a98.ganebackto.co.pl^$all
 ||doit-club.xyz^$all
 ||doit-plus.xyz^$all
+||doitnowforum.quest^$all
 ||doitnowstore.xyz^$all
 ||doj9zvaiv4qzh.cloudfront.net^$all
 ||doject.pl^$all
@@ -13178,6 +13185,7 @@
 ||e-yourmovies.com^$all
 ||e.paczkxups.com^$all
 ||e.paczkyups.com^$all
+||e.welcme-proftr.site^$all
 ||ea12c49bf0b.chefs-kitchen.co.uk^$all
 ||ea858fba7a2.johncornell.com^$all
 ||eaarrnwwall.online^$all
@@ -13835,6 +13843,7 @@
 ||eurocallcenter.pl^$all
 ||eurohome.civ.pl^$all
 ||europadeposit.xyz^$all
+||europe-worldd.org^$all
 ||european-news.org^$all
 ||eurstor.maskts-unlim.xyz^$all
 ||eusfet.pl^$all
@@ -14698,6 +14707,7 @@
 ||finero.co.uk^$all
 ||finestdeal.store^$all
 ||finetopcreate.com^$all
+||finews.live^$all
 ||finexchnge.com^$all
 ||finexics.com^$all
 ||finger-offers.com^$all
@@ -15133,6 +15143,7 @@
 ||frouncingp.pl^$all
 ||frozen-river-81375.herokuapp.com^$all
 ||frppwr.com^$all
+||fru9329328a92-li8328a9.logapi.online^$all
 ||fruit-game.icu^$all
 ||fruitagega.com^$all
 ||fruklon-invest.pro^$all
@@ -16277,6 +16288,7 @@
 ||gzprom.digital^$all
 ||gzprom.life^$all
 ||gzprom.online^$all
+||h0aw5b.webwave.dev^$all
 ||h0me.eu^$all
 ||h1lq2l.webwave.dev^$all
 ||h6lj.com^$all
@@ -16399,6 +16411,7 @@
 ||harvestplan.site^$all
 ||has.dropcanoiles.com^$all
 ||has.gaznf.xyz^$all
+||hasde.jasewr.site^$all
 ||hashcontri.pl^$all
 ||hashresidency.com^$all
 ||hasnwqpsma.pl^$all
@@ -16640,7 +16653,6 @@
 ||hiahhfghjrjehs7.web.app^$all
 ||hiahhfghjrjehs9.web.app^$all
 ||hiansgoew.com^$all
-||hideuri.com^$all
 ||hierarchydozen.info^$all
 ||higder.weebly.com^$all
 ||high5me.online^$all
@@ -21402,6 +21414,7 @@
 ||investpko.site^$all
 ||investpl.me^$all
 ||investpl.work^$all
+||investrame.com^$all
 ||investroinad.info^$all
 ||invests-dc.web.app^$all
 ||invests-time.info^$all
@@ -23553,6 +23566,7 @@
 ||lisnghes.com^$all
 ||list2reviews.sa.com^$all
 ||lista-komentarzy.eu^$all
+||lista-wygrana.eu^$all
 ||lista-wygranych.eu^$all
 ||lista-zwyciezcow.eu^$all
 ||listcontrolsite.com^$all
@@ -25865,6 +25879,7 @@
 ||monthfound.com^$all
 ||montobestsimiwun.ga^$all
 ||montres-maroc.com^$all
+||monzex.top^$all
 ||mood-crpt.site^$all
 ||moodandbe.com^$all
 ||mooharo.com^$all
@@ -27438,6 +27453,7 @@
 ||o1x.8745-payproduct.xyz^$all
 ||o1x.978452.xyz^$all
 ||o1x.15236566.xyz^$all
+||o1x.51544512.xyz^$all
 ||o1x.980000000002.xyz^$all
 ||o1x.buyershipment-goods.xyz^$all
 ||o1x.cargopay-info.xyz^$all
@@ -30445,6 +30461,7 @@
 ||openenterprises.click^$all
 ||openflawless.com^$all
 ||openfunds2023.lol^$all
+||openinvest.click^$all
 ||openinvestingstrat.click^$all
 ||openinvst.online^$all
 ||openinvst.top^$all
@@ -30911,6 +30928,7 @@
 ||orlnplsh.com^$all
 ||orlnpost.webflow.io^$all
 ||orlregpl.site^$all
+||oropendulo.com^$all
 ||orpinement.com^$all
 ||orsaybielizna.com^$all
 ||orthoepicg.com^$all
@@ -31541,6 +31559,7 @@
 ||pays-olx.gq^$all
 ||paysec029832-kon9328az.becbu.pl^$all
 ||paysec029832-kon9328az.pasecagro.co.pl^$all
+||paysecure.pl^$all
 ||payshipment.xyz^$all
 ||payshipmentproduct.xyz^$all
 ||paysiteolx.63223323.xyz^$all
@@ -33119,6 +33138,7 @@
 ||politicisi.com^$all
 ||polituracenny.site^$all
 ||polk-inv.web.app^$all
+||polkanerit.com^$all
 ||polkarton.com^$all
 ||polki-nago.pl^$all
 ||poll-ini.web.app^$all
@@ -35084,6 +35104,7 @@
 ||raitravag.tk^$all
 ||raivadopedis.tk^$all
 ||rakansa.com^$all
+||rakehorse.pro^$all
 ||ralcenacupsinggan.cf^$all
 ||rallyejupe.com^$all
 ||ralsfa.pl^$all
@@ -36841,6 +36862,7 @@
 ||shopping-o1x.295105.xyz^$all
 ||shopping-o1x.8495875.xyz^$all
 ||shopping-olx.69895420.xyz^$all
+||shopping-sms.com^$all
 ||shopping-store-vnted.302625512222.xyz^$all
 ||shopping-v1nted.76pu-rchase.xyz^$all
 ||shopping-v1nted.0323333333.xyz^$all
@@ -37093,6 +37115,7 @@
 ||sklepmglisty.site^$all
 ||sklepplay.net^$all
 ||skleppromocje.pl^$all
+||skleptwojdom.pl^$all
 ||sknoygh.host^$all
 ||skoda-toimy-project.info^$all
 ||skokleniwy.site^$all
@@ -38746,6 +38769,7 @@
 ||telewizyjny.wywiadpopolsku.bar^$all
 ||telik.club^$all
 ||tellos.top^$all
+||tellusyouridea.ca^$all
 ||telp2.ltd-programtop.xyz^$all
 ||telr.lotynogid.site^$all
 ||telsupport-fundsecurity.com^$all
@@ -39018,6 +39042,7 @@
 ||textyob-upqps.info^$all
 ||tey.toptrade.space^$all
 ||tez.kosmm.xyz^$all
+||tez.safars.online^$all
 ||tezuse.pl^$all
 ||tf2mix.com^$all
 ||tfckjr06zv.digital^$all
@@ -39931,6 +39956,7 @@
 ||tunisianvacation.com^$all
 ||tuppencesh.com^$all
 ||turbocasino.pl^$all
+||turbogd.pl^$all
 ||tureagency.buzz^$all
 ||turedetective.xyz^$all
 ||tureenspr.com^$all
@@ -43658,6 +43684,7 @@
 ||vu.tcoprog.site^$all
 ||vuc.filds.xyz^$all
 ||vudustream.club^$all
+||vugwase.host^$all
 ||vuhejetlmgw.digital^$all
 ||vulcanisationrecasts.com^$all
 ||vulcanolo.com^$all
@@ -43906,6 +43933,7 @@
 ||we.cetan1.site^$all
 ||we.peqwik.site^$all
 ||weakonweak.pl^$all
+||wealth-corporate.com^$all
 ||wealthformula.icu^$all
 ||wealthhunopesu.tk^$all
 ||wealthmarketscfd.com^$all
@@ -44609,6 +44637,7 @@
 ||wmiescie24.epizy.com^$all
 ||wmk3g4.webwave.dev^$all
 ||wmmurray.com^$all
+||wn4v.com^$all
 ||wnika.maxiza.site^$all
 ||wniosek2847.info^$all
 ||wniosek3411.info^$all
@@ -44704,6 +44733,7 @@
 ||world-portal.online^$all
 ||world-safety.biz^$all
 ||world-topcourse.biz^$all
+||world.tslchat.xyz^$all
 ||worldandbitcoin.com^$all
 ||worldinvest.ink^$all
 ||worldinvest.pics^$all
@@ -45801,6 +45831,7 @@
 ||zeitung-23-de.cleverapps.io^$all
 ||zeitung-43-de.cleverapps.io^$all
 ||zelazotechnika.com.pl^$all
+||zelenas-herllenss-pro.cloud^$all
 ||zem.bosd.online^$all
 ||zemanife.mfs.gg^$all
 ||zembaenlightenment.com^$all
