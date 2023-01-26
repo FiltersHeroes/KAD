@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 26 Jan 2023, 17:22 UTC+01:00
-! Version: 2023.1.26.2
+! Last modified: Thu, 26 Jan 2023, 21:17 UTC+01:00
+! Version: 2023.1.26.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2609,7 +2609,7 @@
 /?track=*&key=$doc
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https?:\/\/((?!www)[a-z]{3,}|\d{2})?\.?[-0-9a-z]{6,}\.[a-z]{2,6}\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|space|top|us|xyz
+/^https?:\/\/((?!www)[a-z]+|\d{2,4})?\.?[-0-9a-z]{5,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|skin|space|top|us|xyz
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 /fck_files/*.xml$doc,domain=m-vision.com.pl
 /fckupload/*.xml$doc,domain=libron.pl
@@ -4033,6 +4033,7 @@
 ||2431223.xyz^$all
 ||2435709.xyz^$all
 ||2544343.xyz^$all
+||02653233.xyz^$all
 ||2840790.xyz^$all
 ||3243111.xyz^$all
 ||3253454.xyz^$all
@@ -4109,6 +4110,7 @@
 ||67557687.xyz^$all
 ||67564534.xyz^$all
 ||67569887.xyz^$all
+||72650000.xyz^$all
 ||76780007.xyz^$all
 ||79003333.xyz^$all
 ||79212222.xyz^$all
@@ -13491,6 +13493,7 @@
 ||economistobsessive.top^$all
 ||economistswipe.com^$all
 ||economywatch.com^$all
+||ecoollxmarket.eleganceshop.top^$all
 ||ecophysiologyundefined.pl^$all
 ||ecotrust.makeup^$all
 ||ecraseurim.com^$all
@@ -36548,6 +36551,7 @@
 ||secure-ua.space^$all
 ||secure-velobank.top^$all
 ||secure.agfxmarkets.com^$all
+||secure.encryptedconnection.net^$all
 ||secure.feedsback.shop^$all
 ||secure.getinkank.com^$all
 ||secure.observers.bar^$all
@@ -38220,6 +38224,7 @@
 ||storeinfo-0lx.1322315121222.xyz^$all
 ||storeinfo-dpd.74215485555.xyz^$all
 ||storeinfo-vjnted.422122222.xyz^$all
+||storeinfo.62066623.xyz^$all
 ||storeinfovinted.360849788.xyz^$all
 ||storeinp0st-shop.34233342.xyz^$all
 ||storeinpost-site.76879863212.xyz^$all
@@ -41023,6 +41028,7 @@
 ||v1nted.1232storeinfo.xyz^$all
 ||v1nted.3454shop-store.xyz^$all
 ||v1nted.748512.xyz^$all
+||v1nted.54215455.xyz^$all
 ||v1nted.241254512.xyz^$all
 ||v1nted.554545555.xyz^$all
 ||v1nted.4323333333.xyz^$all
@@ -44939,6 +44945,7 @@
 ||winted.44125452.xyz^$all
 ||winted.412122222.xyz^$all
 ||winted.454542122.xyz^$all
+||winted.456326566.xyz^$all
 ||winted.465565989.xyz^$all
 ||winted.0511548412.xyz^$all
 ||winted.969565666.xyz^$all
