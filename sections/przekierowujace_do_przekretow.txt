@@ -1,3 +1,6 @@
+/\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$script,1p
+/\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$script,1p
+/counts.php?cat=1&t=$script,3p
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
 /?track=*&key=$doc
