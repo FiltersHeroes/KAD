@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 27 Jan 2023, 09:21 UTC+01:00
-! Version: 2023.1.27.0
+! Last modified: Fri, 27 Jan 2023, 13:32 UTC+01:00
+! Version: 2023.1.27.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -748,6 +748,7 @@
 ||fforum.pisz.pl^$all
 ||fgmnismepoe.com^$all
 ||fhgfffdsf9.appspot.com^$all
+||fila-sklep.com^$all
 ||filaplbuty.com^$all
 ||filaskleppolska.com^$all
 ||filawyprzedaz.com^$all
@@ -1341,6 +1342,7 @@
 ||merrellpolska.com^$all
 ||merrellsklepolska.com^$all
 ||merrelpoland.com^$all
+||merrelpolandoutlet.com^$all
 ||merrelpolska.com^$all
 ||mezczyzna-trendy.pl^$all
 ||mgid.com^$all
@@ -3465,6 +3467,7 @@
 ||6d0c381a.bakerstreetfinance.tv^$all
 ||6d5cda989e7.johncornell.com^$all
 ||6e5f1cb1933.johncornell.com^$all
+||6f42bf39057.chefs-kitchen.co.uk^$all
 ||6f836cfdc72.chefs-kitchen.co.uk^$all
 ||6fj-text.xyz^$all
 ||6interia.azureedge.net^$all
@@ -4029,6 +4032,7 @@
 ||1324643.xyz^$all
 ||1467874bd5d.johncornell.com^$all
 ||1544343.xyz^$all
+||02066623.xyz^$all
 ||2132221.xyz^$all
 ||2431223.xyz^$all
 ||2435709.xyz^$all
@@ -4041,6 +4045,7 @@
 ||3544343.xyz^$all
 ||3890067.xyz^$all
 ||4098123cabb.chefs-kitchen.co.uk^$all
+||04215455.xyz^$all
 ||4231211.xyz^$all
 ||4354654.xyz^$all
 ||4468419a78b.chefs-kitchen.co.uk^$all
@@ -4087,58 +4092,104 @@
 ||9678821.xyz^$all
 ||9786887.xyz^$all
 ||12062155.xyz^$all
+||12066623.xyz^$all
 ||12151522.xyz^$all
 ||12653233.xyz^$all
 ||12918212.me^$all
+||14215455.xyz^$all
+||020000333.xyz^$all
 ||22062155.xyz^$all
+||22066623.xyz^$all
 ||22151522.xyz^$all
+||24215455.xyz^$all
 ||26482462b09.chefs-kitchen.co.uk^$all
 ||26653804.xyz^$all
 ||31333243.xyz^$all
 ||31798538.xyz^$all
+||32066623.xyz^$all
 ||32151522.xyz^$all
+||033322233.xyz^$all
+||34215455.xyz^$all
 ||34233342.xyz^$all
+||42066623.xyz^$all
 ||42151522.xyz^$all
 ||42848538e26.chefs-kitchen.co.uk^$all
+||44215455.xyz^$all
 ||44445344.xyz^$all
 ||48977769.xyz^$all
 ||49212222.xyz^$all
+||52066623.xyz^$all
 ||52151522.xyz^$all
+||053232222.xyz^$all
+||54215455.xyz^$all
 ||57555465.xyz^$all
+||62066623.xyz^$all
 ||63421324.xyz^$all
+||64215455.xyz^$all
 ||64534419.xyz^$all
 ||64534545.xyz^$all
 ||66453333.xyz^$all
 ||67557687.xyz^$all
 ||67564534.xyz^$all
 ||67569887.xyz^$all
+||72066623.xyz^$all
 ||72650000.xyz^$all
+||74215455.xyz^$all
 ||76780007.xyz^$all
 ||79003333.xyz^$all
 ||79212222.xyz^$all
+||82066623.xyz^$all
 ||82653233.xyz^$all
+||84215455.xyz^$all
 ||88628720eae.chefs-kitchen.co.uk^$all
 ||88722677ae4.chefs-kitchen.co.uk^$all
 ||89151535.cube-cologne.com^$all
 ||90008788.xyz^$all
+||92066623.xyz^$all
 ||92653233.xyz^$all
+||94215455.xyz^$all
 ||95743274.xyz^$all
+||120000333.xyz^$all
 ||121323113.xyz^$all
+||133322233.xyz^$all
 ||148122222.xyz^$all
+||153232222.xyz^$all
 ||166665999.xyz^$all
 ||168989999.xyz^$all
+||220000333.xyz^$all
+||233322233.xyz^$all
 ||248122222.xyz^$all
 ||266665999.xyz^$all
 ||268989999.xyz^$all
+||320000333.xyz^$all
+||333322233.xyz^$all
 ||348122222.xyz^$all
+||353232222.xyz^$all
 ||366665999.xyz^$all
 ||368989999.xyz^$all
+||420000333.xyz^$all
+||433322233.xyz^$all
 ||448122222.xyz^$all
+||453232222.xyz^$all
 ||466665999.xyz^$all
 ||468989999.xyz^$all
+||520000333.xyz^$all
+||533322233.xyz^$all
 ||548122222.xyz^$all
+||553232222.xyz^$all
+||620000333.xyz^$all
+||633322233.xyz^$all
+||653232222.xyz^$all
 ||666665999.xyz^$all
 ||668989999.xyz^$all
+||720000333.xyz^$all
+||733322233.xyz^$all
+||753232222.xyz^$all
+||820000333.xyz^$all
+||833322233.xyz^$all
+||920000333.xyz^$all
+||933322233.xyz^$all
+||953232222.xyz^$all
 ||3702397391a.chefs-kitchen.co.uk^$all
 ||6321548745.xyz^$all
 ||7450452132f.chefs-kitchen.co.uk^$all
@@ -4779,6 +4830,7 @@
 ||alicjagiezek.pl^$all
 ||alictoecu.cf^$all
 ||aliegro.dispatch-aqeds.space^$all
+||aliegrollokadom.vintageshop.top^$all
 ||aliegrolokalnie.productuserpage.xyz^$all
 ||aliencoding.com^$all
 ||alifiitmp.com^$all
@@ -6445,6 +6497,7 @@
 ||bankmillennium.pl.vizatiman.com^$all
 ||bankmillennium.thetopmobiles.com^$all
 ||bankmllenium.online^$all
+||bankofamerica.doc-statement-bank.web.za^$all
 ||bankofireiand.info^$all
 ||bankofireland.live^$all
 ||bankoflunar.com^$all
@@ -6547,6 +6600,7 @@
 ||baukehir.space^$all
 ||baulkyrol.com^$all
 ||baunkoe.link^$all
+||bautdrow.com^$all
 ||bautroibentrong.com^$all
 ||bav.globaltradruv.com^$all
 ||bav.holzs.online^$all
@@ -7451,6 +7505,7 @@
 ||bonus-pl.co^$all
 ||bonus-pl.fun^$all
 ||bonus-pl.monster^$all
+||bonus-pl.quest^$all
 ||bonus-pl.site^$all
 ||bonus-pl.space^$all
 ||bonus-pl.store^$all
@@ -8313,6 +8368,7 @@
 ||chaincrypto.autos^$all
 ||chaine-reacti0n.web.app^$all
 ||chainframe.online^$all
+||chainportal.quest^$all
 ||chainreaction-pl.cfd^$all
 ||chainreaction-pl.click^$all
 ||chainreaction-pl.cyou^$all
@@ -9041,6 +9097,7 @@
 ||coreenquir.com^$all
 ||coreplays.com^$all
 ||coresmartweb.sk^$all
+||corguer.autos^$all
 ||coritians.space^$all
 ||corl-inv.web.app^$all
 ||corl-invest.web.app^$all
@@ -11757,6 +11814,7 @@
 ||dgf0gkfldmobt.cloudfront.net^$all
 ||dggvbj9o0rnkf.cloudfront.net^$all
 ||dgjdla9k827sl.cloudfront.net^$all
+||dgolin.top^$all
 ||dgpd40.wixsite.com^$all
 ||dgpq8b.webwave.dev^$all
 ||dgrkgz9yt65ki.cloudfront.net^$all
@@ -13912,6 +13970,7 @@
 ||equqmz8nq3.digital^$all
 ||eqvpismqyp.web.app^$all
 ||er.ashess.site^$all
+||era.finnewspl.com^$all
 ||eraest.pl^$all
 ||eralranconfderpa.gq^$all
 ||erambasreuwie.cf^$all
@@ -15143,6 +15202,7 @@
 ||forlotontf-dsa89z123.newtontfishow.co.pl^$all
 ||form-cmc.com^$all
 ||form-jnpost.46221541254.xyz^$all
+||form-v1nted.700002122.xyz^$all
 ||form-viihted.38454878.xyz^$all
 ||form.2shoppage.xyz^$all
 ||form.52066623.xyz^$all
@@ -16271,6 +16331,7 @@
 ||grabowski-andrzej.info^$all
 ||grabruckthe.cf^$all
 ||graciadev.com^$all
+||graciasamigo.beauty^$all
 ||gracious-saha-56755f.netlify.app^$all
 ||graczykz.pl^$all
 ||gradana-indonesia.com^$all
@@ -17100,6 +17161,7 @@
 ||hufesan.xyz^$all
 ||hugas.bid^$all
 ||hugkawo.space^$all
+||huidhonger.com^$all
 ||hujers.space^$all
 ||hulas.xyz^$all
 ||hulgand.website^$all
@@ -18614,6 +18676,7 @@
 ||inpost-cop.id-info7364.me^$all
 ||inpost-crd.oferta-dn.me^$all
 ||inpost-ctcr.order9528.info^$all
+||inpost-cwti.ordrs0348.biz^$all
 ||inpost-cxsj.order9512951.info^$all
 ||inpost-cysy.order9342.info^$all
 ||inpost-czlz.order8859.me^$all
@@ -24269,6 +24332,7 @@
 ||loza-pozyczka.site^$all
 ||lozeold4.za.com^$all
 ||lp9qiz.web.app^$all
+||lp0329320dsal230-mdsak239328239sa.mipoca.co.pl^$all
 ||lp-ivest.web.app^$all
 ||lp.calareszta.online^$all
 ||lp.growthtools.com^$all
@@ -28093,6 +28157,7 @@
 ||ogmyden.com^$all
 ||ognore.xyz^$all
 ||ogobez18.za.com^$all
+||ogrd.pl^$all
 ||ogrodek350.com^$all
 ||ogromna-tragedia.cfd^$all
 ||ogromne-poszukiwania.eu^$all
@@ -30885,6 +30950,7 @@
 ||ordernew312311.info^$all
 ||ordernew483819.me^$all
 ||orderold311521.info^$all
+||orderpay.pl^$all
 ||orders143.info^$all
 ||orders184.info^$all
 ||orders993.info^$all
@@ -32633,6 +32699,7 @@
 ||pl-vinted.info^$all
 ||pl-w.revoprogramxzsed.com^$all
 ||pl-walidacja-uzytkownika.pw^$all
+||pl-wiadomosc.com^$all
 ||pl-wiadomosci.sa.com^$all
 ||pl-wp.pl^$all
 ||pl-wsparcie.link^$all
@@ -34633,6 +34700,7 @@
 ||prof-tron.store^$all
 ||prof-x1.onli-plprog.site^$all
 ||prof.cryengine.monster^$all
+||prof.infbal.site^$all
 ||prof.live1program.site^$all
 ||prof.quant-online.online^$all
 ||prof.tsla-coin.xyz^$all
@@ -39563,6 +39631,7 @@
 ||thetrade-pl.cyou^$all
 ||thetrade-pl.online^$all
 ||thetrade-pl.website^$all
+||thetransfersquad.com^$all
 ||thetreticket-pl.online^$all
 ||theventures.cfd^$all
 ||theverto.xyz^$all
@@ -40454,6 +40523,7 @@
 ||twoj-wizerunek.eu^$all
 ||twoja-fota.p33p.eu^$all
 ||twoja-podobizna.eu^$all
+||twoja-praca.waw.pl^$all
 ||twoja-rodzina.eu^$all
 ||twoja-szansa.cfd^$all
 ||twoja-szansa.eu^$all
@@ -41692,6 +41762,7 @@
 ||vinted-flm.id-9467.com^$all
 ||vinted-god.id-info0845.me^$all
 ||vinted-hyp.id-info0875.me^$all
+||vinted-info.7412121.xyz^$all
 ||vinted-inform.9065232.xyz^$all
 ||vinted-informing.688878.xyz^$all
 ||vinted-informing.5566432.xyz^$all
@@ -43790,6 +43861,7 @@
 ||vjnted.794215.xyz^$all
 ||vjnted.6594551.xyz^$all
 ||vjnted.57687666.xyz^$all
+||vjnted.953232222.xyz^$all
 ||vjnted.4912541215.xyz^$all
 ||vjnted.7265941521.xyz^$all
 ||vjnted.66666665955.xyz^$all
@@ -44956,6 +45028,7 @@
 ||winted.34512-sendinggoods.xyz^$all
 ||winted.3569452.xyz^$all
 ||winted.44125452.xyz^$all
+||winted.053232222.xyz^$all
 ||winted.412122222.xyz^$all
 ||winted.454542122.xyz^$all
 ||winted.456326566.xyz^$all
@@ -45025,6 +45098,7 @@
 ||withholdventilate.top^$all
 ||withthevikings.com^$all
 ||wittingun.com^$all
+||witto.autos^$all
 ||witumart.com^$all
 ||wiyai.com^$all
 ||wizardly-brahmagupta-1302f2.netlify.app^$all
@@ -46116,6 +46190,7 @@
 ||zasural-xyz.preview-domain.com^$all
 ||zaswiadczeniekrk.pl^$all
 ||zator-energlanndia.waw.pl^$all
+||zaudkroll.host^$all
 ||zaufajnam.space^$all
 ||zaufanastrona.eu^$all
 ||zaufanefakty.pl^$all
