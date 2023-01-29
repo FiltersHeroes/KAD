@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 29 Jan 2023, 17:21 UTC+01:00
-! Version: 2023.1.29.3
+! Last modified: Sun, 29 Jan 2023, 21:17 UTC+01:00
+! Version: 2023.1.29.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3038,6 +3038,7 @@
 |http*://*/fb-login/$doc,domain=~facebook.com
 ||0-01x-merchandise.554217.xyz^$all
 ||0-lx.12store3444.xyz^$all
+||0-lx.45956233.xyz^$all
 ||0-lx.71544512.xyz^$all
 ||0-lx.userstore-info.xyz^$all
 ||0-lxform.07shipment.xyz^$all
@@ -4973,6 +4974,7 @@
 ||allegro-shipment.jbhgjkj.click^$all
 ||allegro-shipment.nmkkj.click^$all
 ||allegro-shipment.num70857.click^$all
+||allegro-shipment.std57325.click^$all
 ||allegro-shipment.ukjki.click^$all
 ||allegro-ups.e-kei.pl^$all
 ||allegro-w.id-2323.me^$all
@@ -17059,6 +17061,7 @@
 ||ho92830azns829-st828a7z.linefor.co.pl^$all
 ||ho92839az928s-st828a9s8z.platiosca.co.pl^$all
 ||ho9439423lds9321-mo8329sal32.murapica.co.pl^$all
+||ho032983210dsam-ldsa82932138a.experientv.co.pl^$all
 ||ho.prosystemorgo.com^$all
 ||hoarsehoar.xyz^$all
 ||hoatzinshelminthology.pl^$all
@@ -17950,6 +17953,7 @@
 ||info7455.site^$all
 ||info8610.com^$all
 ||info394290.wixsite.com^$all
+||info-0lx.65956233.xyz^$all
 ||info-0lx.93223323.xyz^$all
 ||info-1npost.49215122111.xyz^$all
 ||info-3.me^$all
@@ -18115,6 +18119,7 @@
 ||infoinp0st.32652135151.xyz^$all
 ||infoinp0zt.92652333.xyz^$all
 ||infoinpost-goods.7554309.xyz^$all
+||infoinpost.545545555.xyz^$all
 ||infoinpozt.65612151222.xyz^$all
 ||infojhpost-goods.7867564566.xyz^$all
 ||infojnpost.dis-patch9.xyz^$all
@@ -22472,6 +22477,7 @@
 ||jnpost.4587512.xyz^$all
 ||jnpost.112434522.xyz^$all
 ||jnpost.0321541221.xyz^$all
+||jnpost.556232333.xyz^$all
 ||jnpost.563223323.xyz^$all
 ||jnpost.02165454845.xyz^$all
 ||jnpost.2362023265.xyz^$all
@@ -23476,6 +23482,7 @@
 ||l7bt0i.webwave.dev^$all
 ||l67113b6.beget.tech^$all
 ||l77427-926984.us-south.cf.appdomain.cloud^$all
+||l-eu.czpro.site^$all
 ||l-pcom.web.app^$all
 ||l.loyalmp3.site^$all
 ||l.tp2-axz.xyz^$all
@@ -25121,6 +25128,8 @@
 ||masteringdiabetes.org^$all
 ||masterinv.xyz^$all
 ||mastermaidllc.com^$all
+||mastero1xlife.dolfinshop.top^$all
+||masterso1xhause.dronshop.top^$all
 ||mastersummer.fun^$all
 ||mastersummer.site^$all
 ||mastersummer.website^$all
@@ -26601,6 +26610,7 @@
 ||my-ininit.alxprogs.xyz^$all
 ||my-life222.com^$all
 ||my-order.biz^$all
+||my-order.cc^$all
 ||my-paylife.at.cfolks.pl^$all
 ||my-vaat-blog.com^$all
 ||my-zaprasza.online^$all
@@ -29329,6 +29339,7 @@
 ||olx.01541215.xyz^$all
 ||olx.9568451.xyz^$all
 ||olx.29212222.xyz^$all
+||olx.45322333.xyz^$all
 ||olx.72652333.xyz^$all
 ||olx.365902154.xyz^$all
 ||olx.6021548745.xyz^$all
@@ -30792,6 +30803,7 @@
 ||onet-o24.herokuapp.com^$all
 ||onet-ogloszenie.pl^$all
 ||onet-pl.net^$all
+||onet-pocztapl.weeblysite.com^$all
 ||onet-skandal.waw.pl^$all
 ||onet-wazne.waw.pl^$all
 ||onet-wiadomosci.czest.pl^$all
@@ -38469,6 +38481,7 @@
 ||storeollx.55store483.xyz^$all
 ||storeolx-goods.20000902123.xyz^$all
 ||storeolx-market.7980009000.xyz^$all
+||storeolx.423333222.xyz^$all
 ||storepage-dpd.4512545.xyz^$all
 ||storepay-inpost.648454451.xyz^$all
 ||storepay-vihted.032651254.xyz^$all
@@ -43402,6 +43415,7 @@
 ||vintedinfo.55420124.xyz^$all
 ||vintedit.order632.info^$all
 ||vintedl-market285.buyingthings.life^$all
+||vintedl-polsk2754.newdlshop.sbs^$all
 ||vintedl-polska023delfs.dellpolanddostawa014.homes^$all
 ||vintedl-polska42delfs013.ink^$all
 ||vintedl-polska163.plndspell71.one^$all
@@ -46255,6 +46269,7 @@
 ||zabudes.space^$all
 ||zabudes.uno^$all
 ||zabydgoszcz.xyz^$all
+||zac.news-espc.site^$all
 ||zacarwahandberto.cf^$all
 ||zachariasz76.pl^$all
 ||zachod-slonca.eu^$all
