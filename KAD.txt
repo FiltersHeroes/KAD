@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 01 Feb 2023, 09:22 UTC+01:00
-! Version: 2023.2.1.0
+! Last modified: Wed, 01 Feb 2023, 13:34 UTC+01:00
+! Version: 2023.2.1.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3043,6 +3043,7 @@
 ||0-lx.userstore-info.xyz^$all
 ||0-lxform.07shipment.xyz^$all
 ||0-lxmerchandise.546555.xyz^$all
+||0-lxpurchase.645876.xyz^$all
 ||0-lxshipment.form0page.xyz^$all
 ||0-lxshop.pr-oduct3.xyz^$all
 ||0b8cc331813049912.temporary.link^$all
@@ -3160,6 +3161,7 @@
 ||0lxpurchase.se-nding.xyz^$all
 ||0lxsending.form9goods.xyz^$all
 ||0lxshop-goods.6554546.xyz^$all
+||0lxshopping.7980543.xyz^$all
 ||00lxshopping.906546567.xyz^$all
 ||0lxstore-delivery.689700032123.xyz^$all
 ||0lxstore.me-rchandise24.xyz^$all
@@ -3532,6 +3534,7 @@
 ||08sms.xyz^$all
 ||8ungi3.csb.app^$all
 ||8w3t7ja9pu5jjea.max959.com^$all
+||09-0-2-erguj-3e54r9gh-w0e9jv-0sd8ghv-0das9jh-0hyf.obs.ap-southeast-1.myhuaweicloud.com^$all
 ||9-energy.azureedge.net^$all
 ||9-interia.azureedge.net^$all
 ||9-onet.azureedge.net^$all
@@ -4899,6 +4902,7 @@
 ||allegor.xyz^$all
 ||allegr0-l0kalnie.745344111.xyz^$all
 ||allegr0-lokalnie0.1756879.xyz^$all
+||allegr0-lokalnie76.642322.xyz^$all
 ||allegr0-lokalnie.64587909.xyz^$all
 ||allegr0-lokalnie.2333323241.xyz^$all
 ||allegr0-lokalnie.46555554653.xyz^$all
@@ -6358,6 +6362,7 @@
 ||bafkreiaziwxxrimupqlhtr6rew6rilkclk4ghyvh6baldmdjrfcf2nkzyu.ipfs.nftstorage.link^$all
 ||bafkreigin5zchgbbrulsnw6hrb67fsjauyuzwh2gkh6bcyjlga473c4zra.ipfs.nftstorage.link^$all
 ||bafybeia2wjieil2kimjnrvtp7unyikkxzsxeyyb5omk577ym5nzrgzqzly.ipfs.dweb.link^$all
+||bafybeiabgidxdsqrqq4ic33xafqyzgiw5lkipafjq5reinfnwm7apnipzm.ipfs.cf-ipfs.com^$all
 ||bafybeiajfaxts62clr3irseqhff55olqpz2n2xcgh2tdev6slkjimbai64.ipfs.w3s.link^$all
 ||bafybeiarneh3wvpq7c4woy42gby37uiykorn5lfp23tg4efxmd5qudvopa.ipfs.w3s.link^$all
 ||bafybeiavotz2yjud3wl22zhzm6xv6k22xwk7vonwmwdtwflh6rh3ra5s7y.ipfs.w3s.link^$all
@@ -6532,6 +6537,7 @@
 ||bankmilenium.online^$all
 ||bankmillemium.pl^$all
 ||bankmilleneum.online^$all
+||bankmilleneum.press^$all
 ||bankmilleneum.xyz^$all
 ||bankmillenium-pl.com^$all
 ||bankmillenium.xyz^$all
@@ -6698,6 +6704,7 @@
 ||bclfc.com^$all
 ||bclmcsha.com^$all
 ||bcned.com^$all
+||bcpln.site^$all
 ||bcquit.xyz^$all
 ||bd1.smartcheck.vn^$all
 ||bd.gaznf.xyz^$all
@@ -6864,6 +6871,7 @@
 ||bestbitcoinscasino.com^$all
 ||bestbitcoinscasinos.com^$all
 ||bestbodyin90days.com^$all
+||bestcryptotransaction.com^$all
 ||bestdealscard.com^$all
 ||bestfloorcoatings.com^$all
 ||bestfnncedaily.com^$all
@@ -6970,6 +6978,7 @@
 ||bhlfksitr9n.digital^$all
 ||bhootlab.com^$all
 ||bhorsi.com^$all
+||bhqk-offers.com^$all
 ||bhujnikmold.vdl.pl^$all
 ||bi-bussines.site^$all
 ||biancosta.xyz^$all
@@ -7298,6 +7307,7 @@
 ||bleacheritejayvees.com^$all
 ||bleacherss.pl^$all
 ||blebbingco.com^$all
+||bleckchain.top^$all
 ||bleedingva.com^$all
 ||blegawst.space^$all
 ||blenderon.org^$all
@@ -7325,6 +7335,7 @@
 ||blockchain-tesla.biz^$all
 ||blockchainjoblist.com^$all
 ||blockchein.top^$all
+||blockcheln.top^$all
 ||blockducator.com^$all
 ||blockkrado.com^$all
 ||blodgeninvesting.pro^$all
@@ -9620,6 +9631,7 @@
 ||cyprian-jaworski.pl^$all
 ||cyprianweb.pl^$all
 ||cyrantactro.tk^$all
+||cyriltack.fr^$all
 ||cyrklus414.pl^$all
 ||cysten.com^$all
 ||cystinuria.pl^$all
@@ -11521,6 +11533,7 @@
 ||delivery-inpostinfo.65642200.xyz^$all
 ||delivery-jhpost.2543521112.xyz^$all
 ||delivery-jn-post.55121122225.xyz^$all
+||delivery-jnpost.5645765.xyz^$all
 ||delivery-jnpost.7566879.xyz^$all
 ||delivery-jnpost.67958451.xyz^$all
 ||delivery-o1x-pay.377868.xyz^$all
@@ -12557,6 +12570,7 @@
 ||dominikaonline.com.pl^$all
 ||dominikas.pl^$all
 ||dominoes-eab.com^$all
+||domn.rpss-esp.xyz^$all
 ||domniespodzianek.com^$all
 ||domo1lxstroy.pizzastore.top^$all
 ||domodi-sklep.pl^$all
@@ -12701,6 +12715,7 @@
 ||dp-dmarket.48977769.xyz^$all
 ||dp-dmarket.infoshop0.xyz^$all
 ||dp-dmerchandise.9054332.xyz^$all
+||dp-dpurchase.4356643.xyz^$all
 ||dp-dshop.0pageproduct.xyz^$all
 ||dp-dshopping.9080790.xyz^$all
 ||dpb8jxtsymi35.cloudfront.net^$all
@@ -14772,6 +14787,7 @@
 ||fc7dd0d342f.johncornell.com^$all
 ||fc18ba4fbd8.chefs-kitchen.co.uk^$all
 ||fc.treespl.site^$all
+||fcd.rpss-esp.xyz^$all
 ||fcfg.pl^$all
 ||fchat1.cas-program.site^$all
 ||fcxs-offers.com^$all
@@ -15456,6 +15472,7 @@
 ||foxassessment.info^$all
 ||foxo.online^$all
 ||foxstarup.com^$all
+||foz.mastt.xyz^$all
 ||fp-calculator.com^$all
 ||fpm1.profitguru.online^$all
 ||fpmarketstrade.com^$all
@@ -18665,6 +18682,7 @@
 ||inovationprojec56t.tech^$all
 ||inovationproject55.tech^$all
 ||inownotamleavesuperimpactcheckposedtoyou.pages.dev^$all
+||inp0-st0.6345421.xyz^$all
 ||inp0-st.97845-shipmentgoods.xyz^$all
 ||inp0-st.84512211.xyz^$all
 ||inp0-stpurchase.8567645.xyz^$all
@@ -21841,6 +21859,7 @@
 ||investelonx.com^$all
 ||investeraow.info^$all
 ||investereu.life^$all
+||investerio-pl.cyou^$all
 ||investerio-pl.homes^$all
 ||investerio-pl.space^$all
 ||investero-pl.cyou^$all
@@ -22647,6 +22666,7 @@
 ||jons.morganprog.xyz^$all
 ||joocasino31.com^$all
 ||jopii.neuro-unlim.xyz^$all
+||joprof-pl.quest^$all
 ||joqdier-com.preview-domain.com^$all
 ||joqued.com^$all
 ||jordadokinvest.pro^$all
@@ -22788,6 +22808,7 @@
 ||kaftakoy.win^$all
 ||kahlonbrothersgov.com^$all
 ||kaifodoing.shop^$all
+||kaiis.plfcaty.xyz^$all
 ||kaingore.uno^$all
 ||kairendow.site^$all
 ||kaiserismi.pl^$all
@@ -24134,6 +24155,7 @@
 ||liveforothers804.bar^$all
 ||livehimalaya.com^$all
 ||liveinair.shop^$all
+||liveinvest-pl.cyou^$all
 ||livelaughpaintmonroe.com^$all
 ||livemetacopyright.com^$all
 ||livepixelgames.com^$all
@@ -25625,6 +25647,7 @@
 ||metodofumozero.online^$all
 ||metokroy.com^$all
 ||metonym.info^$all
+||metroinvst-pl.cyou^$all
 ||meugway.com^$all
 ||meupuy.co^$all
 ||meupuy.pics^$all
@@ -26421,6 +26444,7 @@
 ||momensj.space^$all
 ||momento-pl.homes^$all
 ||momento-trade-it.space^$all
+||momento-trade-pl.cyou^$all
 ||momento-trade-pl.online^$all
 ||momnept.xyz^$all
 ||momoxxio.com^$all
@@ -26578,6 +26602,7 @@
 ||mpolska.net^$all
 ||mposmyk.pl^$all
 ||mprog.online-one.site^$all
+||mptrack-pl.cyou^$all
 ||mq-poa.web.app^$all
 ||mq.stecowkows.site^$all
 ||mqmft.gazeta-regionalna.com^$all
@@ -28103,6 +28128,7 @@
 ||o1xpay-delivery.5764565455.xyz^$all
 ||o1xshipment.80946556.xyz^$all
 ||o1xshipment.4365552111.xyz^$all
+||o1xshop.6457776.xyz^$all
 ||o2-1.azureedge.net^$all
 ||o2-2.azureedge.net^$all
 ||o2-antispam.pl^$all
@@ -28549,6 +28575,7 @@
 ||oix-polsca.uejaomverol8496.shop^$all
 ||oix-shopping.6453232.xyz^$all
 ||oix.268989999.xyz^$all
+||oixproduct.80611121.xyz^$all
 ||oj0isf.webwave.dev^$all
 ||oj-x.16store3444.xyz^$all
 ||ojaivillasandgolf.com^$all
@@ -31727,6 +31754,7 @@
 ||outwarredw.pl^$all
 ||outwasting.com^$all
 ||ov846i.webwave.dev^$all
+||ovaflame-pl.cyou^$all
 ||ovcommendsa.gq^$all
 ||overallbetter.com^$all
 ||overbearun.pl^$all
@@ -32265,6 +32293,7 @@
 ||payvinted-purchase.7909856323.xyz^$all
 ||paywash.se^$all
 ||paywinted-delivery.7867876765.xyz^$all
+||payyinted00.8900989.xyz^$all
 ||payyinted76inform.6576000.xyz^$all
 ||payyinted-delivery.3544465008.xyz^$all
 ||payyinted-goods.5645553211.xyz^$all
@@ -32583,6 +32612,7 @@
 ||pgnn.nigma2fnrg.site^$all
 ||pgnpit.com^$all
 ||pgnplatform.com^$all
+||pgntodayup.com^$all
 ||pgsingnw.site^$all
 ||pgt-workshop.org^$all
 ||phatycym.com^$all
@@ -34925,6 +34955,7 @@
 ||pro-inw.web.app^$all
 ||pro-inwestor.com^$all
 ||pro-iu.web.app^$all
+||pro-l.czpro.site^$all
 ||pro-m.activ-chz.xyz^$all
 ||pro-masters1.site^$all
 ||pro-max-vik.site^$all
@@ -35662,6 +35693,7 @@
 ||qrthrsgxdq6.digital^$all
 ||qs2u71.webwave.dev^$all
 ||qsangvku11x.digital^$all
+||qsd3fn.webwave.dev^$all
 ||qsifj8qfkfvbjxv.bar^$all
 ||qt1e.com^$all
 ||qt.orogdq1.xyz^$all
@@ -35928,6 +35960,7 @@
 ||reagitl-com.preview-domain.com^$all
 ||real-prizes.life^$all
 ||real-profitz.com^$all
+||realbellstore.com^$all
 ||realbingosite.com^$all
 ||realeraoftens.online^$all
 ||realescort.club^$all
@@ -38629,6 +38662,7 @@
 ||store0lx-market.5642312.xyz^$all
 ||store0lx-market.53422311.xyz^$all
 ||store9allegrol0-kalnie.76800090.xyz^$all
+||store70-lx.4345442.xyz^$all
 ||store90form.xyz^$all
 ||store879impost.6026154555555.xyz^$all
 ||store1235oolx.28457455.xyz^$all
@@ -38915,6 +38949,8 @@
 ||successful-choice.autos^$all
 ||successfulcod.icu^$all
 ||successsystem-pl.cfd^$all
+||successsystem-pl.cyou^$all
+||successsystem-pl.quest^$all
 ||successsystem-pl.sbs^$all
 ||successyst.top^$all
 ||successystem.click^$all
@@ -39921,6 +39957,7 @@
 ||thebestoffersmain4you.com^$all
 ||thebillymadden.com^$all
 ||thebitcoinprimeapp.com^$all
+||thebitcosuprofits-pl.gigasprofit.com^$all
 ||thebitqtapp.com^$all
 ||thebtcuprofit.com^$all
 ||thecfdsociety.com^$all
@@ -40264,6 +40301,7 @@
 ||topmovies.pl^$all
 ||topofferss4you.com^$all
 ||topowok.host^$all
+||toppgni.com^$all
 ||topplcrypto.com^$all
 ||topplingdo.pl^$all
 ||toppmostcorppporation.shop^$all
@@ -40530,6 +40568,7 @@
 ||treeglos-com.preview-domain.com^$all
 ||treenailsprues.info^$all
 ||treesf.com^$all
+||treidfin-pl.cyou^$all
 ||treker-money.xyz^$all
 ||trello-tech.xyz^$all
 ||trend.maxximikitbook.xyz^$all
