@@ -5,8 +5,8 @@
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https?:\/\/((?!www)[a-z]+|\d{2,4})?\.?[-0-9a-z]{5,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|skin|space|top|us|xyz
 /^https?:\/\/((?!www)[a-z]+|\d{2,4})?\.?[-0-9a-z]{5,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|skin|space|top|us|xyz
+/^https?:\/\/((?!www)[a-z]+|\d{2,4})?\.?[-0-9a-z]{5,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|skin|space|top|us|xyz
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 /counts.php?cat=1&t=$3p,script
 /fck_files/*.xml$doc,domain=m-vision.com.pl
