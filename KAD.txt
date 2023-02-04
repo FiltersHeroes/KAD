@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 04 Feb 2023, 13:30 UTC+01:00
-! Version: 2023.2.4.1
+! Last modified: Sat, 04 Feb 2023, 17:22 UTC+01:00
+! Version: 2023.2.4.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2613,7 +2613,8 @@
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https?:\/\/((?!www)[a-z]+|\d{2,4})?\.?[-0-9a-z]{5,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|skin|space|top|us|xyz
+/^https?:\/\/((?!www)[a-z]+|\d{2,4})?\.?[-0-9a-z]{5,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|skin|space|top|us|xyz
+/^https?:\/\/((?!www)[a-z]+|\d{2,4})?\.?[-0-9a-z]{5,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|skin|space|top|us|xyz
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 /counts.php?cat=1&t=$3p,script
 /fck_files/*.xml$doc,domain=m-vision.com.pl
@@ -3066,6 +3067,7 @@
 ||0l-x-storeinform.12151522.xyz^$all
 ||0l-x.2store-page.xyz^$all
 ||0l-xdispatch.8675434.xyz^$all
+||0l-xgoods0.5544665.xyz^$all
 ||0l-xmarket.0merch-andise.xyz^$all
 ||0l-xproduct.897886.xyz^$all
 ||0llx-shopping.9545327.xyz^$all
@@ -5495,6 +5497,7 @@
 ||amiloj.com^$all
 ||amklw.pl^$all
 ||amkwl.pl^$all
+||amnwk2ws.pl^$all
 ||amonitalia.it^$all
 ||amortuota.com^$all
 ||amoviemedia.com^$all
@@ -6183,6 +6186,7 @@
 ||aurild.com^$all
 ||aus.newprogrms.xyz^$all
 ||ausformscl.com^$all
+||ausmygovalerts.myftp.org^$all
 ||australia-abc.com^$all
 ||australia-mirrornews.com^$all
 ||australiamygovalert.myftp.org^$all
@@ -6255,6 +6259,7 @@
 ||avisocuentas.com^$all
 ||avito.pay24in.ru^$all
 ||avito.payment-transfer.ru^$all
+||avizgroup.world^$all
 ||avnumit.site^$all
 ||avortxm3.com^$all
 ||avrszc.rf.gd^$all
@@ -8190,6 +8195,7 @@
 ||cainv.xyz^$all
 ||caixvinrited.jiutradavschatfoot.tk^$all
 ||cakepress.es^$all
+||cakwksa.pl^$all
 ||cakyher.pl^$all
 ||cal320a-ma928a.traacc.co.pl^$all
 ||caladyinu.info^$all
@@ -9535,6 +9541,7 @@
 ||crepesocto.com^$all
 ||crescendoregistration.online^$all
 ||cresessing.xyz^$all
+||cressgcobh.space^$all
 ||crestingsner.xyz^$all
 ||cretisgiol.gq^$all
 ||cri28a8s-lo828a.infoplant.co.pl^$all
@@ -15580,6 +15587,7 @@
 ||formihpost-goods.8977777776.xyz^$all
 ||forminpost-dispatch.4657641232.xyz^$all
 ||formo1x-merchandise.42312675.xyz^$all
+||formol-xshop.7677754.xyz^$all
 ||formpay95-inpo-st.35956323.xyz^$all
 ||forms-from-hypeteams-event.com^$all
 ||forms-hype-team.com^$all
@@ -21812,6 +21820,7 @@
 ||inpost.wyprzedaz-polska.cyou^$all
 ||inpost.xkdsw.top^$all
 ||inpost.xyz^$all
+||inpost.yasugaseraso.org^$all
 ||inpost.yedasoperas.org^$all
 ||inpost.yreleps.org^$all
 ||inpost.zarulif.top^$all
@@ -24624,7 +24633,9 @@
 ||lnpost-info.jbjhk.click^$all
 ||lnpost-info.jknlknk.click^$all
 ||lnpost-info.num48007.click^$all
+||lnpost-info.rcv82739.click^$all
 ||lnpost-info.std13182.click^$all
+||lnpost-info.std43019.click^$all
 ||lnpost-info.std57327.click^$all
 ||lnpost-info.std95216.click^$all
 ||lnpost-info.uid70744.click^$all
@@ -24689,6 +24700,7 @@
 ||lnpost.generujkody.me^$all
 ||lnpost.generujkody.net^$all
 ||lnpost.h-yuan.top^$all
+||lnpost.izicredit.top^$all
 ||lnpost.kirei-hada.top^$all
 ||lnpost.kody-odbioru.app^$all
 ||lnpost.kody-odbioru.cc^$all
@@ -25423,6 +25435,7 @@
 ||manuelcordoba.com^$all
 ||manvebader.com^$all
 ||manwardsaccelerator.pl^$all
+||manwks.pl^$all
 ||manyaka.net^$all
 ||maol.xoneprog.site^$all
 ||map-icloud.live^$all
@@ -28543,6 +28556,7 @@
 ||o1-x0merchandise.7565670.xyz^$all
 ||o1-x.523marketsite.xyz^$all
 ||o1-xdispatch.6311210.xyz^$all
+||o1-xpaying.6877557.xyz^$all
 ||o1-xshipment.goodpays05.xyz^$all
 ||o1-xshopping.35465878.xyz^$all
 ||o1fp6o.webwave.dev^$all
@@ -32296,6 +32310,7 @@
 ||owiqnadf.pl^$all
 ||owmqlwq.pl^$all
 ||own0er.web.app^$all
+||owpsmaw.pl^$all
 ||owpsmmw.pl^$all
 ||ox1434dellvery.6432154.xyz^$all
 ||oxercise.xyz^$all
@@ -32661,6 +32676,7 @@
 ||pawingrabb.xyz^$all
 ||pawkmqw.pl^$all
 ||paxdola.click^$all
+||pay0lx-delivery.7566890.xyz^$all
 ||pay00lx-goods.3253454.xyz^$all
 ||pay0lx-goods.8090009000.xyz^$all
 ||pay2me.pl^$all
@@ -36162,6 +36178,7 @@
 ||pv60mj.webwave.dev^$all
 ||pvjw5q.webwave.dev^$all
 ||pwl.nwsprspt.xyz^$all
+||pwomskaw.pl^$all
 ||pxclick.com^$all
 ||pxhub240d.digital^$all
 ||pxnq-msg.com^$all
@@ -36976,6 +36993,7 @@
 ||riptiklo-com.preview-domain.com^$all
 ||riserswint.xyz^$all
 ||risingindianews.com^$all
+||ristairsgroup.com^$all
 ||rita-law.com^$all
 ||ritschlian.info^$all
 ||ritualizin.com^$all
@@ -38317,6 +38335,7 @@
 ||shoppjng-74ingo48373.754124.xyz^$all
 ||shoppjngpayinf0rm.3300211.xyz^$all
 ||shoppro8941-o1x.domshop24.top^$all
+||shoppro.top^$all
 ||shopps894-o-lx.19565666.xyz^$all
 ||shopps-olx.82652323.xyz^$all
 ||shopsfashion2021.ru^$all
