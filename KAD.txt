@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 07 Feb 2023, 21:19 UTC+01:00
-! Version: 2023.2.7.3
+! Last modified: Wed, 08 Feb 2023, 09:22 UTC+01:00
+! Version: 2023.2.8.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7908,6 +7908,7 @@
 ||booking-online-verify.top^$all
 ||booking-pl.com-id24310.pw^$all
 ||booking-pl.store^$all
+||booking-transaction.top^$all
 ||booking-verifysend.com^$all
 ||booking.bezdeliv.by^$all
 ||booking.id13741.com^$all
@@ -13051,6 +13052,7 @@
 ||dochodydzisiaj.com^$all
 ||dochodzic.sportbetsignupcode.com^$all
 ||dochoibengoan.com^$all
+||dochowebpgnig.com^$all
 ||dociekanie-prawdy.eu^$all
 ||dockhandsc.com^$all
 ||doclo29z921-tvsho92dsalz.podtvshows.co.pl^$all
@@ -14437,6 +14439,7 @@
 ||elixica.com^$all
 ||elj.finnewspl.com^$all
 ||ellastikka.online^$all
+||ellectromaarcet.pl^$all
 ||ellipsone.live^$all
 ||elloo.online^$all
 ||elmashreqgt.com^$all
@@ -15776,6 +15779,7 @@
 ||finmomonesi.cf^$all
 ||finmsanfusandimasidma.bar^$all
 ||finnews-pl.announcestudent.co.in^$all
+||finnews-pl.situationcrude.co.in^$all
 ||finnews.live^$all
 ||finnewspl.com^$all
 ||finni-glass.site^$all
@@ -16972,6 +16976,7 @@
 ||godsendyouh.top^$all
 ||godz276a8-na828z.kokawstv.co.pl^$all
 ||goearnmoney.gives^$all
+||goearnmoremoney.sbs^$all
 ||goesaroundjofyou.com^$all
 ||goeswet.pl^$all
 ||goexbit.com^$all
@@ -17153,6 +17158,7 @@
 ||goracy-temat.pl^$all
 ||goracytemat.pl^$all
 ||goratic.site^$all
+||gordenasklep.pl^$all
 ||gorgeous-sherbet-768efd.netlify.app^$all
 ||gorgeouspaper.co.uk^$all
 ||gorgorod-com.preview-domain.com^$all
@@ -17256,6 +17262,7 @@
 ||graniteandmarblebycastillo.com^$all
 ||grantcharacter.info^$all
 ||granuloses.pl^$all
+||grapf.art^$all
 ||graphemicshypoderm.com^$all
 ||graphemicsstraightener.com^$all
 ||graphiola.com^$all
@@ -18237,6 +18244,7 @@
 ||i2nvest.web.app^$all
 ||i21bal.webwave.dev^$all
 ||i133.info^$all
+||i302.info^$all
 ||i523.info^$all
 ||i540.info^$all
 ||i943.info^$all
@@ -20615,6 +20623,7 @@
 ||inpost-pl.securitysell.site^$all
 ||inpost-pl.sg9.xyz^$all
 ||inpost-pl.shop-41923.xyz^$all
+||inpost-pl.slotgembira.top^$all
 ||inpost-pl.softwarefree.top^$all
 ||inpost-pl.sprawa02598.buzz^$all
 ||inpost-pl.system-pay2344.ml^$all
@@ -29864,6 +29873,7 @@
 ||ojaivillasandgolf.com^$all
 ||ojx-site.33shoppinginfo.xyz^$all
 ||ojx.2marke-t-inform.xyz^$all
+||ojx.15232333.xyz^$all
 ||ojx.45985666.xyz^$all
 ||ojx.55454544444.xyz^$all
 ||ojx.sitedelivery-info.xyz^$all
@@ -30163,6 +30173,7 @@
 ||olx-m.id-9843.me^$all
 ||olx-market.330121.xyz^$all
 ||olx-market.975211.xyz^$all
+||olx-market.13111657.xyz^$all
 ||olx-market.78412545.xyz^$all
 ||olx-market.702134512.xyz^$all
 ||olx-marketpay.54875412.xyz^$all
@@ -30740,6 +30751,7 @@
 ||olx-polska.h2g.pl^$all
 ||olx-polska.id-7568945.space^$all
 ||olx-praca.azureedge.net^$all
+||olx-product.6450008.xyz^$all
 ||olx-prywatne.waw.pl^$all
 ||olx-przesylk*.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx-pt.co^$all
@@ -33154,6 +33166,7 @@
 ||p.365win.pro^$all
 ||p.newtrdin.xyz^$all
 ||pa00s0z-lsx0200.xn--pawexax-qjb.co.pl^$all
+||pa932329-t93219a0.tomaszga.co.pl^$all
 ||pa-marketing.eu^$all
 ||pa-wos.web.app^$all
 ||paarla.com^$all
@@ -33163,6 +33176,7 @@
 ||pacifisms.com^$all
 ||pack2me.sa.com^$all
 ||packiestack.com^$all
+||packsdroppers.com^$all
 ||packsitracks.com^$all
 ||packsittracks.com^$all
 ||packspickers.com^$all
@@ -33514,6 +33528,7 @@
 ||pay-home-*.*.$all
 ||pay-id-bank.eu^$all
 ||pay-info.biz^$all
+||pay-olx-store.89888768.xyz^$all
 ||pay-olx.cf^$all
 ||pay-olx.gq^$all
 ||pay-polska-lnpost.123454.fun^$all
@@ -33749,6 +33764,7 @@
 ||peoplestax.buzz^$all
 ||peopletrade.xyz^$all
 ||peoplewellbeings.com^$all
+||peopllemaker.com^$all
 ||pepepe.3cx.eu^$all
 ||peps92920-d9828a.tributetv.co.pl^$all
 ||peptizable.live^$all
@@ -38360,6 +38376,7 @@
 ||sashpl.fun^$all
 ||sasiedzkinews.eu^$all
 ||sategrom-com.preview-domain.com^$all
+||satelevison.com^$all
 ||satgrat.com^$all
 ||satugadgets.com^$all
 ||saturn-b.planetz.care^$all
@@ -40244,6 +40261,7 @@
 ||store-infoinpost.8524114354.xyz^$all
 ||store-o1x.51111420.xyz^$all
 ||store-oix.65232333.xyz^$all
+||store-ojx.65612222.xyz^$all
 ||store-ol-x.0322315121222.xyz^$all
 ||store-ollx.65988956.xyz^$all
 ||store-ollx.420000333.xyz^$all
@@ -40493,6 +40511,7 @@
 ||sub467.stests.xyz^$all
 ||sub468.webmarkett.xyz^$all
 ||sub.gooradolfolderu.click^$all
+||sub.lontoozz.site^$all
 ||subcommi.xyz^$all
 ||subducted.live^$all
 ||subechoe.com^$all
@@ -48321,6 +48340,7 @@
 ||zachod-slonca.eu^$all
 ||zachodnidziennik.com^$all
 ||zachowajmy-spokoj.eu^$all
+||zaczniinvpg.com^$all
 ||zacznij-odpomocy.eu^$all
 ||zadecyduj-wygrana.eu^$all
 ||zadnyprzygodwyblakle.site^$all
