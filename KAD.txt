@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 13 Feb 2023, 17:24 UTC+01:00
-! Version: 2023.2.13.2
+! Last modified: Mon, 13 Feb 2023, 21:19 UTC+01:00
+! Version: 2023.2.13.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3127,6 +3127,7 @@
 ||00lx-dispatch.8799966.xyz^$all
 ||0lx-dispatch.34232232133.xyz^$all
 ||0lx-goods.879099.xyz^$all
+||00lx-goods.5479006.xyz^$all
 ||0lx-goods.9800078.xyz^$all
 ||00lx-goods.64111214.xyz^$all
 ||00lx-inform.653437.xyz^$all
@@ -3212,6 +3213,7 @@
 ||0lx.productsiteuser.xyz^$all
 ||0lx.sendingusercargo.xyz^$all
 ||0lx.shoppingsite.xyz^$all
+||0lxdispatch.7653121.xyz^$all
 ||0lxgoods.pu-rchase23.xyz^$all
 ||0lxinform-product.36577743325.xyz^$all
 ||0lxinform.0inform-page.xyz^$all
@@ -3219,6 +3221,7 @@
 ||0lxmarket09.70009087.xyz^$all
 ||0lxmarket.4632798.xyz^$all
 ||0lxproduct00.23111143.xyz^$all
+||0lxproduct.8790004.xyz^$all
 ||0lxproduct.53423311.xyz^$all
 ||0lxproduct.inform-sending.xyz^$all
 ||0lxpurchase.432333.xyz^$all
@@ -8026,6 +8029,7 @@
 ||bnparibas.site^$all
 ||bnparibaspl.com^$all
 ||bnparilbbas.fun^$all
+||bnparribas.site^$all
 ||bnpbanque.family.blog^$all
 ||bnpbizkliens.pw^$all
 ||bnpglobalbank.com^$all
@@ -9688,6 +9692,7 @@
 ||coi.maskts-unlim.xyz^$all
 ||coi.milproj.site^$all
 ||coin22.artaav.site^$all
+||coin-1n-npost.frostmagazin.cfd^$all
 ||coin-consider.space^$all
 ||coin-deputy.space^$all
 ||coin-eu.tslco.xyz^$all
@@ -12286,6 +12291,7 @@
 ||de92839sdal238-aj28328dsalz2.banetvat.co.pl^$all
 ||de832193dsa932-va8321932.beatamisko.co.pl^$all
 ||de.goearnmoremoney.mom^$all
+||de.goearnmoremoney.quest^$all
 ||de.newinformacija.xyz^$all
 ||de.program-capital.site^$all
 ||deadel.pl^$all
@@ -13418,6 +13424,7 @@
 ||dl56znh71ef5y.cloudfront.net^$all
 ||dl483ndvtytqn.cloudfront.net^$all
 ||dl093213sd-lk32193219a.panagnkies.co.pl^$all
+||dl0329320a-l92382d.monapola.co.pl^$all
 ||dl.sv^$all
 ||dla-ciebiee.eu^$all
 ||dladomu.biz^$all
@@ -13766,6 +13773,7 @@
 ||dozustrih-online.preview-domain.com^$all
 ||dp-b.32326566.xyz^$all
 ||dp-b.storeuser-info.xyz^$all
+||dp-d43.5323233.xyz^$all
 ||dp-d43shop.665956666.xyz^$all
 ||dp-d566.5550022.xyz^$all
 ||dp-d-delivery.00322233.xyz^$all
@@ -14983,6 +14991,7 @@
 ||elgrande.pl^$all
 ||elho.online^$all
 ||eliminasgordura.online^$all
+||eliteappalling.cn^$all
 ||eliteclubglobal.com^$all
 ||elitecryptotrade.com^$all
 ||elitefitzone.com^$all
@@ -16055,6 +16064,7 @@
 ||fdn4au.webwave.dev^$all
 ||fdsgd.b-berry.pt^$all
 ||fdx-ca.cloud^$all
+||fdx-ce.cloud^$all
 ||fe9ed993ed5.chefs-kitchen.co.uk^$all
 ||fe3679a17f7.chefs-kitchen.co.uk^$all
 ||fe9209a8z8273s-si2898dsa7z81s.boikals.co.pl^$all
@@ -17902,6 +17912,7 @@
 ||goonlinebnpparibas.pl^$all
 ||goonlinebnpparihas.pl^$all
 ||goonlinebnpparlbas.pl^$all
+||goonlline.parrlpac.com^$all
 ||gooonlinebnpparibas.pl^$all
 ||gooonlinebnpparibas.pro^$all
 ||gooooootoooooo.com^$all
@@ -19447,6 +19458,8 @@
 ||ilqaa.com^$all
 ||ils82832173218az8s82-ks828328a7s83.molswkaz.co.pl^$all
 ||im2020.vip^$all
+||im-post77.6458908.xyz^$all
+||im-post99.312323.xyz^$all
 ||im-postproduct.9678821.xyz^$all
 ||im-postshop.3243231.xyz^$all
 ||im-proj.web.app^$all
@@ -19540,6 +19553,7 @@
 ||impost-product.90000787.xyz^$all
 ||impost-purchase.7980132463.xyz^$all
 ||impost-shop.0in-forming.xyz^$all
+||impost-shop.657664.xyz^$all
 ||impost-shop.659845122.xyz^$all
 ||impost-shop.user0pay.xyz^$all
 ||impost-shopping.08745121.xyz^$all
@@ -20502,6 +20516,7 @@
 ||inp0st34-st0re.776787.xyz^$all
 ||inp0st87-shipment.978988.xyz^$all
 ||inp0st90goods.64557678.xyz^$all
+||inp0st555.423122.xyz^$all
 ||inp0st-0dispatch.53442322.xyz^$all
 ||inp0st-31shlpping.7977545.xyz^$all
 ||inp0st-datautilization.xyz^$all
@@ -23279,6 +23294,7 @@
 ||inpost.ubedasojaw.org^$all
 ||inpost.udnewc.org^$all
 ||inpost.ugxeyn.com^$all
+||inpost.umwogik.org^$all
 ||inpost.umwtop.org^$all
 ||inpost.usokerpa.org^$all
 ||inpost.uswloir.org^$all
@@ -29358,6 +29374,7 @@
 ||naszemiasto.org.pl^$all
 ||naszepodworko.eu^$all
 ||naszglos24.laohost.net^$all
+||naszpakunek.cloud^$all
 ||nat.onliprog.site^$all
 ||nataliagalante.online^$all
 ||nataliakubasik.pl^$all
@@ -30192,6 +30209,7 @@
 ||notasdiviben.tk^$all
 ||notcher.xyz^$all
 ||notdocker.com^$all
+||note-o1-lxc.glasmagazin.cfd^$all
 ||notecardpa.com^$all
 ||notecontent.gb.net^$all
 ||notgowo.space^$all
@@ -30350,6 +30368,7 @@
 ||nowpro.investnev3.xyz^$all
 ||nowy612.site^$all
 ||nowy8276a8-psi927a09.infotvnt.co.pl^$all
+||nowyfaceebook.pl^$all
 ||noz.fishess.site^$all
 ||np-ivest.web.app^$all
 ||npl.maxipl-system.xyz^$all
@@ -30447,6 +30466,7 @@
 ||o1-xshopping.90873243.xyz^$all
 ||o1dschool.site^$all
 ||o1fp6o.webwave.dev^$all
+||o1x12.654769.xyz^$all
 ||o1x12goods.900704.xyz^$all
 ||o1x90sending.0905443.xyz^$all
 ||o1x-11.4231943.xyz^$all
@@ -30467,6 +30487,7 @@
 ||o1x-merchandise.5768773111.xyz^$all
 ||o1x-netpay23.634341.xyz^$all
 ||o1x-order632.com^$all
+||o1x-product.4533321.xyz^$all
 ||o1x-product.75664212.xyz^$all
 ||o1x-purchase.7787898.xyz^$all
 ||o1x-shipment.5000921.xyz^$all
@@ -30540,6 +30561,7 @@
 ||o9sfsufhdgyysd.bar^$all
 ||o11x-delivery.908324108.xyz^$all
 ||o11x-inf0rming.366578.xyz^$all
+||o11x-shipment.756008.xyz^$all
 ||o11xdelivery.362955455.xyz^$all
 ||o054.info^$all
 ||o357.info^$all
@@ -30921,6 +30943,7 @@
 ||oix895marketsite.262955455.xyz^$all
 ||oix-delivery.21111420.xyz^$all
 ||oix-goods9.2132221.xyz^$all
+||oix-goods.645230.xyz^$all
 ||oix-market.6984522.xyz^$all
 ||oix-merchandise.8978886.xyz^$all
 ||oix-pi.168423plid.xyz^$all
@@ -34831,6 +34854,7 @@
 ||payvinted-market.8656545433.xyz^$all
 ||payvinted-purchase.7909856323.xyz^$all
 ||paywash.se^$all
+||payway.fun^$all
 ||paywinted-delivery.7867876765.xyz^$all
 ||payyinted00.8900989.xyz^$all
 ||payyinted76inform.6576000.xyz^$all
@@ -37659,6 +37683,7 @@
 ||prodostawa.cloud^$all
 ||producent-witaczy.pl^$all
 ||product0-lx.3d-ispatch.xyz^$all
+||product00lx.546721.xyz^$all
 ||product0lx.3243111.xyz^$all
 ||product00lx.786797759.xyz^$all
 ||product65-pay.327954.xyz^$all
@@ -38318,6 +38343,7 @@
 ||qavenus.website^$all
 ||qazprominvest-quiz.com^$all
 ||qc-cod.icu^$all
+||qc-cod.online^$all
 ||qccc.maxiprogs.xyz^$all
 ||qcenn.site^$all
 ||qcodeesonn.site^$all
@@ -38770,6 +38796,7 @@
 ||recuerdosfm.com^$all
 ||recuiled.info^$all
 ||recurrentl.com^$all
+||recursing-borg.31-172-80-232.plesk.page^$all
 ||recursosenaccion.com^$all
 ||recypes.com^$all
 ||red.televisionnet.pl^$all
@@ -40384,6 +40411,7 @@
 ||shop0lx-payment.7767688811.xyz^$all
 ||shop0lx-product.5768888797.xyz^$all
 ||shop0lx-store.1324643.xyz^$all
+||shop0lx.423197.xyz^$all
 ||shop0lx.645342.xyz^$all
 ||shop0ping.xyz^$all
 ||shop39olx.5542121.xyz^$all
@@ -43204,6 +43232,7 @@
 ||tipcorin.tk^$all
 ||tipicool.com^$all
 ||tippatillsammans.se^$all
+||tireallot.cn^$all
 ||tiskar-com.preview-domain.com^$all
 ||tissasumque.cf^$all
 ||tissler.se^$all
@@ -48587,6 +48616,7 @@
 ||wiarygodnekamerylokalnie.baronwines.net^$all
 ||wiarygodneprostefakty.holy-matter.com^$all
 ||wiashjako.space^$all
+||wibugotuji.site^$all
 ||wickeroutt.com^$all
 ||wickyrtt.com^$all
 ||widanslo-xyz.preview-domain.com^$all
