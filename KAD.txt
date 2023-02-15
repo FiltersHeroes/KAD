@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 15 Feb 2023, 13:35 UTC+01:00
-! Version: 2023.2.15.1
+! Last modified: Wed, 15 Feb 2023, 17:26 UTC+01:00
+! Version: 2023.2.15.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3065,6 +3065,7 @@
 /pl/vwfs/portal/?pay|$doc,frame,domain=~pl
 /tds/ae?tds_campaign=$document
 |http*://*/fb-login/$doc,domain=~facebook.com
+||0-0lxmarket.5767435.xyz^$all
 ||0-0lxmarket.8796556.xyz^$all
 ||0-01x-merchandise.554217.xyz^$all
 ||0-lx-delivery.1212223.xyz^$all
@@ -3448,6 +3449,7 @@
 ||2jvwb7vwvups.com^$all
 ||2kjpk5.cyou^$all
 ||2mil.fintodayai.autos^$all
+||2navi.com^$all
 ||2net.services-ai-tech.quest^$all
 ||2onet.azureedge.net^$all
 ||2org.onlinelearningcom.one^$all
@@ -7232,6 +7234,7 @@
 ||bbnhnl.com^$all
 ||bbnparibass.tech^$all
 ||bbnppariibaasc.tech^$all
+||bbnppariilbasc.tech^$all
 ||bbsthaicn.com^$all
 ||bbwqpsa.pl^$all
 ||bby.gzpr.xyz^$all
@@ -7432,6 +7435,7 @@
 ||best-prizes.life^$all
 ||best-sales.top^$all
 ||bestarabmoves.com^$all
+||bestbellstore.com^$all
 ||bestbetrating.ru^$all
 ||bestbettingsitez.com^$all
 ||bestbitcoinscasino.com^$all
@@ -9579,6 +9583,7 @@
 ||cjfgoe.com^$all
 ||cjkido2.redusketo.xyz^$all
 ||cjoun.win^$all
+||cjry5k.webwave.dev^$all
 ||cjsmm.in^$all
 ||cjui-text.xyz^$all
 ||ckdegl.com^$all
@@ -10248,6 +10253,7 @@
 ||cpl.trdplnow.online^$all
 ||cpowia.pl^$all
 ||cpp-discord.com^$all
+||cpp.pgrmlvl.site^$all
 ||cppchat.org^$all
 ||cpphost.com^$all
 ||cpprinter.com^$all
@@ -12754,6 +12760,7 @@
 ||dellver8768ollxplns.homeswentdplnd018.ink^$all
 ||dellver-179ollx.profhouse.sbs^$all
 ||dellver-386ollx.biostroy.cloud^$all
+||dellver-599ollx.storegroup.sbs^$all
 ||dellver-lnpost1pln.dellpolandswatmy18.pl^$all
 ||dellver-lnpost5plns.dostawahomeswent76.pl^$all
 ||dellver-lnpost6plnds.plnds-dostawanswent79.pl^$all
@@ -13440,6 +13447,7 @@
 ||dispatch00-lxpay.4231211.xyz^$all
 ||dispatch0lx.75680091.xyz^$all
 ||dispatch00o1x.9000065.xyz^$all
+||dispatch-0lx7.978609.xyz^$all
 ||dispatch-oix.7566640.xyz^$all
 ||dispatch-v1nted.7677777768.xyz^$all
 ||dispatchd-pdstore.687900.xyz^$all
@@ -14503,6 +14511,7 @@
 ||drudone.site^$all
 ||druga92.site^$all
 ||drugastrona.org.pl^$all
+||drukarnia.site^$all
 ||drvooqv0b6ivi.cloudfront.net^$all
 ||drwyjoz8ylty.cloudfront.net^$all
 ||drx6dyfdqoorw.cloudfront.net^$all
@@ -18019,6 +18028,7 @@
 ||goonline-bnpparibas-pl.online^$all
 ||goonline-bnpparibas-pl.xyz^$all
 ||goonline-bnpparibas.thatplantshop.com^$all
+||goonline-bnppraibas.online^$all
 ||goonline.bnppaibas.fun^$all
 ||goonline.bnppairbas.tech^$all
 ||goonline.bnppairlbas.tech^$all
@@ -18283,6 +18293,7 @@
 ||grotezka-xyz.preview-domain.com^$all
 ||grouchierd.pl^$all
 ||ground-invest.website^$all
+||groundthey.xyz^$all
 ||group-orlen.us^$all
 ||group.hospitalmap.website^$all
 ||groupemser.com^$all
@@ -19474,6 +19485,7 @@
 ||ihpost-goods.8097121.xyz^$all
 ||ihpost-info.1321011.xyz^$all
 ||ihpost-inform.5342109.xyz^$all
+||ihpost-market7.5767434.xyz^$all
 ||ihpost-merchandise.2675554555.xyz^$all
 ||ihpost-merchandise.7687000906.xyz^$all
 ||ihpost-pay.form35.xyz^$all
@@ -21693,6 +21705,7 @@
 ||inpost-pl.securateord.one^$all
 ||inpost-pl.secure-id924891.xyz^$all
 ||inpost-pl.securitysell.site^$all
+||inpost-pl.seopedia.top^$all
 ||inpost-pl.sg9.xyz^$all
 ||inpost-pl.shop-41923.xyz^$all
 ||inpost-pl.slotgembira.top^$all
@@ -28985,6 +28998,7 @@
 ||more-2-flirt.com^$all
 ||moreindivudualhere.com^$all
 ||morenessg.com^$all
+||moreqq.site^$all
 ||morev.lv^$all
 ||morgenmorg.xyz^$all
 ||morgetso.uno^$all
@@ -29008,6 +29022,7 @@
 ||mosgoy.space^$all
 ||moshane.space^$all
 ||mosnahae.space^$all
+||mosonlineinfo.top^$all
 ||mosriiu.com^$all
 ||mosriw.loan^$all
 ||mosroy.site^$all
@@ -29854,6 +29869,7 @@
 ||new1.*.*.com^$doc,domain=com
 ||new1.*.*.ir^$doc,domain=ir
 ||new1.ewalzd3lrgz58k9.insmahsan.com^$all
+||new1.online-like1.site^$all
 ||new1.pb5rjzmo6r80vgh.gozaraneh.ir^$all
 ||new3.eu-point.site^$all
 ||new3pl.site^$all
@@ -30734,6 +30750,7 @@
 ||o1xpay-delivery.5764565455.xyz^$all
 ||o1xpu-rchase.76888788.xyz^$all
 ||o1xpurchase45.78656453.xyz^$all
+||o1xpurchase.4323435.xyz^$all
 ||o1xshipment.80946556.xyz^$all
 ||o1xshipment.4365552111.xyz^$all
 ||o1xshop.5465745.xyz^$all
@@ -31128,6 +31145,7 @@
 ||oigosiw.space^$all
 ||oiilexsending.cyou^$all
 ||oiix-market.4231768.xyz^$all
+||oiix-purchase.5465776.xyz^$all
 ||oil-pl.web.app^$all
 ||oil-profit-app.financialmarketsworld.com^$all
 ||oil-profits.com^$all
@@ -31217,6 +31235,7 @@
 ||oixgoods.768788.xyz^$all
 ||oixmarket.9090087.xyz^$all
 ||oixproduct09.897909.xyz^$all
+||oixproduct.2343762.xyz^$all
 ||oixproduct.80611121.xyz^$all
 ||oixpurchase.856645.xyz^$all
 ||oixsite.4445381.xyz^$all
@@ -31258,6 +31277,7 @@
 ||ol09329320s9-kol3203289ad.slopzont.co.pl^$all
 ||ol283782328as-98ds928asd87178a.replsowa.co.pl^$all
 ||ol-flow.web.app^$all
+||ol-lxproduct.5767741.xyz^$all
 ||ol-plow.web.app^$all
 ||ol-x-deljvery.254125455.xyz^$all
 ||ol-x-store.456556566.xyz^$all
@@ -31275,6 +31295,7 @@
 ||ol-xgoods.6900080.xyz^$all
 ||ol-xgoods.8790006.xyz^$all
 ||ol-xgoods.info6dispatch.xyz^$all
+||ol-xmerchandise.2347865.xyz^$all
 ||ol-xmerchandise.sendi-ng.xyz^$all
 ||ol-xpayment.4445300.xyz^$all
 ||ol-xproduct.5465746.xyz^$all
@@ -31310,11 +31331,13 @@
 ||oll-compan.protrobit.site^$all
 ||oll-program.protrobit.site^$all
 ||oll-ress.protrobit.site^$all
+||oll-xgoods.4323321.xyz^$all
 ||ollando.com^$all
 ||ollbadrom.com^$all
 ||ollex-dopstawa.online^$all
 ||ollx231.1212sho-pping343.xyz^$all
 ||ollx-dispatch.9090897.xyz^$all
+||ollx-goods7.2343956.xyz^$all
 ||ollx-market.546657.xyz^$all
 ||ollx-market.5465709.xyz^$all
 ||ollx-oddam.waw.pl^$all
@@ -33472,6 +33495,7 @@
 ||olx.transakcja.pw^$all
 ||olx.tujasokerga.org^$all
 ||olx.ua-pays.com^$all
+||olx.ugalerfed.org^$all
 ||olx.ugxeyn.com^$all
 ||olx.umelsoe.org^$all
 ||olx.umowa927455.top^$all
@@ -35577,6 +35601,7 @@
 ||pip.zostt.xyz^$all
 ||pipapupa.pl^$all
 ||pipe1.polprogramm1.xyz^$all
+||pipe-baltinvest.live^$all
 ||pipe.bittum-foundation.shop^$all
 ||pipebalect.com^$all
 ||pipelessfe.com^$all
@@ -35631,6 +35656,7 @@
 ||pkobp.pl.justns.ru^$all
 ||pkobpcoin.click^$all
 ||pkobpcoin.site^$all
+||pkobploan.com.pl^$all
 ||pkobploan.pl^$all
 ||pkobploan.site^$all
 ||pkobq.pl^$all
@@ -35901,6 +35927,7 @@
 ||pl.g-pay.me^$all
 ||pl.get-money.live^$all
 ||pl.ggpoct-laretqq.online^$all
+||pl.goearnmoremoney.life^$all
 ||pl.goearnmoremoney.quest^$all
 ||pl.goearnmoremoney.skin^$all
 ||pl.h-pay.me^$all
@@ -38963,6 +38990,7 @@
 ||realprojectnow.autos^$all
 ||realread-today.com^$all
 ||realshorka.info^$all
+||realtapadiya.com^$all
 ||realvalues.vn^$all
 ||realwonderstore.us^$all
 ||realwski.pl^$all
@@ -40648,6 +40676,7 @@
 ||shooping-infovjnted.1333333111.xyz^$all
 ||shoopsollxxuhq.dostawton.homes^$all
 ||shootoutx.online^$all
+||shop0-lx.4323547.xyz^$all
 ||shop0-lx.8903211.xyz^$all
 ||shop0-lx.6877777877.xyz^$all
 ||shop0d-pd.6800989.xyz^$all
@@ -40756,6 +40785,7 @@
 ||shoppay-1npost.4000026001.xyz^$all
 ||shoppay-inp0st.12650512222.xyz^$all
 ||shoppinfinfo-dpd.65974501.xyz^$all
+||shopping0-lx.2343231.xyz^$all
 ||shopping0lx.13243323.xyz^$all
 ||shopping00lx.54788876.xyz^$all
 ||shopping0lx.5644344421.xyz^$all
@@ -45226,6 +45256,7 @@
 ||verify00.pl^$all
 ||verify0003.wixsite.com^$all
 ||verify-email.space^$all
+||verify-itech.com^$all
 ||verify-mail-account.web.app^$all
 ||verify-mail.space^$all
 ||verify-now.tvshowsapp.cfd^$all
@@ -49133,6 +49164,7 @@
 ||withthevikings.com^$all
 ||wittingun.com^$all
 ||witto.autos^$all
+||wittylife.top^$all
 ||witumart.com^$all
 ||witumki.life^$all
 ||wiyai.com^$all
