@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 18 Feb 2023, 13:31 UTC+01:00
-! Version: 2023.2.18.1
+! Last modified: Sat, 18 Feb 2023, 17:22 UTC+01:00
+! Version: 2023.2.18.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3248,6 +3248,7 @@
 ||0lxdelivery.6578774.xyz^$all
 ||0lxdispatch.7653121.xyz^$all
 ||0lxdispatch.8904354.xyz^$all
+||00lxgoods.65766656.xyz^$all
 ||0lxgoods.pu-rchase23.xyz^$all
 ||00lxinfo.7569890.xyz^$all
 ||0lxinform-product.36577743325.xyz^$all
@@ -8195,6 +8196,7 @@
 ||bnp.coast-bank.com^$all
 ||bnp.gonline-pl.site^$all
 ||bnp.parinbas.pl.bnp.parinbas.pl.ustawienie.info^$all
+||bnp.parribaas.online^$all
 ||bnp.testdomena.pl^$all
 ||bnp.user-bnp-test.ext.e-point.pl^$all
 ||bnparbas.xyz^$all
@@ -12468,6 +12470,7 @@
 ||dazhbuupola9m.cloudfront.net^$all
 ||db0ild0kb4um3.cloudfront.net^$all
 ||db8pg3je9y3ei.cloudfront.net^$all
+||db-dshop.65760645.xyz^$all
 ||db-dshopping.375480.xyz^$all
 ||dbd3bzqstwii6.cloudfront.net^$all
 ||dbd8zrlvot44b.cloudfront.net^$all
@@ -12745,6 +12748,7 @@
 ||delivery-dpd.64684512.xyz^$all
 ||delivery-dpd.64781200.xyz^$all
 ||delivery-dpdinfo.32656555.xyz^$all
+||delivery-impost.1324476.xyz^$all
 ||delivery-impost.8900098765.xyz^$all
 ||delivery-info.7648512.xyz^$all
 ||delivery-infovint-ed.3555555222.xyz^$all
@@ -12901,6 +12905,7 @@
 ||dellver76ollxpln.tenc-dostawapolcka026.buzz^$all
 ||dellver89ollxpls.pay-wentdostawahome094.eu^$all
 ||dellver92ollxpln009.ink^$all
+||dellver397-ollx.mirstoredom.shop^$all
 ||dellver862ollxpln.pln-wendostawahome025.buzz^$all
 ||dellver2645ollxplns.polandsdostawahome015.one^$all
 ||dellver3589ollxpln.polska-wentsdostawa021.buzz^$all
@@ -14071,6 +14076,7 @@
 ||dp-d.2421545455.xyz^$all
 ||dp-d.receivingdelivery-info.xyz^$all
 ||dp-ddelivery.423786.xyz^$all
+||dp-ddelivery.35874446.xyz^$all
 ||dp-ddelivery.90008788.xyz^$all
 ||dp-ddispatch0.4233354.xyz^$all
 ||dp-ddispatch.9089421.xyz^$all
@@ -14084,6 +14090,7 @@
 ||dp-dmarket.infoshop0.xyz^$all
 ||dp-dmerchandise.7568999.xyz^$all
 ||dp-dmerchandise.9054332.xyz^$all
+||dp-dproduct5.3645086.xyz^$all
 ||dp-dpurchase.4356643.xyz^$all
 ||dp-dshop8.6879888.xyz^$all
 ||dp-dshop.0pageproduct.xyz^$all
@@ -18220,6 +18227,7 @@
 ||goodsd-pd.8goods-info.xyz^$all
 ||goodsd-pdinfo.6800977.xyz^$all
 ||goodsd-pdinform.35465555.xyz^$all
+||goodsdp-d.99048985.xyz^$all
 ||goodsdpd.8567121.xyz^$all
 ||goodsdpd.9033333233.xyz^$all
 ||goodsform.xyz^$all
@@ -19718,6 +19726,7 @@
 ||igmholdings.com^$all
 ||ignorowacprzeciazony.site^$all
 ||igozet.com^$all
+||ih-post46.1324466.xyz^$all
 ||ih-post900.63212221.xyz^$all
 ||ih-post902.7980809.xyz^$all
 ||ih-post.7560090.xyz^$all
@@ -19874,6 +19883,7 @@
 ||ils82832173218az8s82-ks828328a7s83.molswkaz.co.pl^$all
 ||im2020.vip^$all
 ||im-post7shop.5767089.xyz^$all
+||im-post44.3645499.xyz^$all
 ||im-post77.6458908.xyz^$all
 ||im-post99.312323.xyz^$all
 ||im-postproduct.9678821.xyz^$all
@@ -21887,6 +21897,7 @@
 ||inpost-pl.8403534.xyz^$all
 ||inpost-pl.9473873-info-mycash.xyz^$all
 ||inpost-pl.advous.top^$all
+||inpost-pl.ashkan.top^$all
 ||inpost-pl.britembuy.pw^$all
 ||inpost-pl.buyngitems.pw^$all
 ||inpost-pl.cers-site-83393.xyz^$all
@@ -23912,6 +23923,7 @@
 ||inpostpolskaajs.order2588322.info^$all
 ||inpostpolskarwr.order48382.info^$all
 ||inpostshop-pay.7653321.xyz^$all
+||inpostshop.4657431.xyz^$all
 ||inpoststore43.8523021.xyz^$all
 ||inpoststore.64878122.xyz^$all
 ||inpostxjpp.order9528.info^$all
@@ -30264,6 +30276,7 @@
 ||newbanker.us^$all
 ||newbt.eurproject.xyz^$all
 ||newcab.online^$all
+||newcentrs.world^$all
 ||newchat.cas-program.site^$all
 ||newclock24.eu5.net^$all
 ||newenergy-pgeproject.info^$all
@@ -31152,6 +31165,7 @@
 ||o-jx.1shopping-site.xyz^$all
 ||o-l-x.36666552.xyz^$all
 ||o-llx.pageinfo.xyz^$all
+||o-llxgoods.3645441.xyz^$all
 ||o-lx-info.4995569999.xyz^$all
 ||o-lx-store.62322333.xyz^$all
 ||o-lx.41storepay3355.xyz^$all
@@ -31749,6 +31763,7 @@
 ||ollx.store3444.xyz^$all
 ||ollxproduct.5323222.xyz^$all
 ||ollxshop.6456560.xyz^$all
+||ollxshopping.6576768.xyz^$all
 ||ollxstore.7908990.xyz^$all
 ||olnlxakka.crunidtrevlaboncalc.ml^$all
 ||olnlxbvkl.rwomanealorda.cf^$all
@@ -32734,6 +32749,7 @@
 ||olx.lotsa.life^$all
 ||olx.manager.name^$all
 ||olx.mastra.top^$all
+||olx.memkledopi.org^$all
 ||olx.merch-pays.ru^$all
 ||olx.merchant-b.me^$all
 ||olx.merchant-pay.top^$all
@@ -34211,6 +34227,7 @@
 ||onyxprofit.com^$all
 ||onyxprofit.pro^$all
 ||oo4.org^$all
+||oo-lxgoods.1324432.xyz^$all
 ||oocuhyejdcvvvd.vdl.pl^$all
 ||ooget.xyz^$all
 ||ooglytech.com^$all
@@ -41245,6 +41262,7 @@
 ||shopihpost-paying.5099000434.xyz^$all
 ||shopihpost.32435654.xyz^$all
 ||shopihpost.46555645465.xyz^$all
+||shopijhpost.6576645.xyz^$all
 ||shopimpost.4644434342.xyz^$all
 ||shopinfovinted.3065294.xyz^$all
 ||shopinfovjnted.52651125455.xyz^$all
@@ -48939,6 +48957,7 @@
 ||waterfowlerdonations.xyz^$all
 ||waterskiin.xyz^$all
 ||watils.website^$all
+||wattpol-sapfhdifhud.online^$all
 ||wattz.reviss.site^$all
 ||watz.reviss.site^$all
 ||waugoo.space^$all
