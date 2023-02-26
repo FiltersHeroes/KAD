@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 26 Feb 2023, 17:22 UTC+01:00
-! Version: 2023.2.26.5
+! Last modified: Sun, 26 Feb 2023, 21:18 UTC+01:00
+! Version: 2023.2.26.6
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2666,8 +2666,9 @@
 /\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
+/^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/$doc
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https:\/\/\d{9}\.[a-z]*\.?[a-z]{3,}\.[a-z]{2}\/\d{6}\.html$/$document,domain=cl|eu|pl
+/^https:\/\/\d{9}\.[a-z]*\.?[a-z]{3,}\.[a-z]{2}\/\d{6}\.html$/$doc,domain=cl|eu|pl
 /^https?:\/\/(?!www)[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|im|info|life|live|mobi|online|pw|quest|shop|site|skin|space|top|us|xyz|yachts
 /^https?:\/\/(?!www)[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|im|info|life|live|mobi|online|pw|quest|shop|site|skin|space|top|us|xyz|yachts
 /^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
@@ -7241,6 +7242,7 @@
 ||bankmellennium.pl^$all
 ||bankmilenium.one^$all
 ||bankmilenium.online^$all
+||bankmilennium.su^$all
 ||bankmillemium.pl^$all
 ||bankmilleneum.online^$all
 ||bankmilleneum.press^$all
@@ -7523,6 +7525,7 @@
 ||beehivestr.com^$all
 ||beehiveswa.com^$all
 ||beehrm.com^$all
+||beep.videodaewoo.pw^$all
 ||beerseleqt.com^$all
 ||beetetr.xyz^$all
 ||beflagu.pl^$all
@@ -8048,6 +8051,7 @@
 ||bitqsinvstm-pl.biferyal.com^$all
 ||bitqsinvstm-pl.wahozuoz.com^$all
 ||bitqt.org^$all
+||bits.videodaewoo.pw^$all
 ||bitsnew.benchmarkit.solutions^$all
 ||bitwa-opodium.eu^$all
 ||bityinvestment.com^$all
@@ -17467,6 +17471,7 @@
 ||freakshub.com^$all
 ||fred-frost.com^$all
 ||free-download-0159.avangardastudiofryzur.pl^$all
+||free-download-0160.rankinguniversidad.es^$all
 ||free.mymapsexpress.com^$all
 ||freecalalalrealeg.tk^$all
 ||freedisclord.com^$all
@@ -18026,6 +18031,7 @@
 ||gessler-wypadek.waw.pl^$all
 ||gestko.top^$all
 ||get8tec.polanfirm11.xyz^$all
+||get-file-0235.wissenswecker.de^$all
 ||get-file-0291.rankinguniversidad.es^$all
 ||get-file-0464.ekasa24.pl^$all
 ||get-file-0589.artpiotr.pl^$all
@@ -19313,6 +19319,7 @@
 ||hellorajadesa.com^$all
 ||helloworld.ddnsking.com^$all
 ||helmansklep.pl^$all
+||helmet-offers.com^$all
 ||helona-resort.com^$all
 ||help12344440.wixsite.com^$all
 ||help-feedback-amzn1.xyz^$all
@@ -28137,6 +28144,7 @@
 ||maol.xoneprog.site^$all
 ||map-icloud.live^$all
 ||map.solprof.site^$all
+||mapa.grixmotiove.com^$all
 ||mapail.maxuziz.xyz^$all
 ||mapleroyalspriceguide.com^$all
 ||mapromot.pl^$all
@@ -31527,6 +31535,7 @@
 ||o1x.5481-paydelivery.xyz^$all
 ||o1x.8745-payproduct.xyz^$all
 ||o1x.978452.xyz^$all
+||o1x.2455552.xyz^$all
 ||o1x.5455552.xyz^$all
 ||o1x.5666645.xyz^$all
 ||o1x.6062155.xyz^$all
@@ -31598,6 +31607,7 @@
 ||o-llx.pageinfo.xyz^$all
 ||o-llxdelivery.3216754.xyz^$all
 ||o-llxgoods.3645441.xyz^$all
+||o-lx4.1563333.xyz^$all
 ||o-lx-info.4995569999.xyz^$all
 ||o-lx-store.62322333.xyz^$all
 ||o-lx.41storepay3355.xyz^$all
@@ -32055,6 +32065,7 @@
 ||oix-shop.55999556.xyz^$all
 ||oix-shopping.6453232.xyz^$all
 ||oix.4566332.xyz^$all
+||oix.5532000.xyz^$all
 ||oix.35320000.xyz^$all
 ||oix.55320000.xyz^$all
 ||oix.65320000.xyz^$all
@@ -33085,6 +33096,7 @@
 ||olx.1632222.xyz^$all
 ||olx.3333200.xyz^$all
 ||olx.4598996.xyz^$all
+||olx.5563333.xyz^$all
 ||olx.8592323.xyz^$all
 ||olx.9568451.xyz^$all
 ||olx.12700021.xyz^$all
@@ -35864,6 +35876,7 @@
 ||pawelkoscian.pl^$all
 ||pawingrabb.xyz^$all
 ||pawkmqw.pl^$all
+||paxar.videodaewoo.pw^$all
 ||paxdola.click^$all
 ||pay0lx-delivery.7566890.xyz^$all
 ||pay00lx-goods.3253454.xyz^$all
@@ -36084,6 +36097,7 @@
 ||peisorsn.link^$all
 ||pek.trdplnow.online^$all
 ||pekano.xyz^$all
+||pekao24-bezpieczenstwo.net^$all
 ||pekao24-dezaktywacja.net^$all
 ||pekao24-dostep.xyz^$all
 ||pekao24-logowanie.info^$all
@@ -42748,6 +42762,7 @@
 ||ssl-cert.pl^$all
 ||ssl-profile.pl^$all
 ||ssl.dotpay.club^$all
+||ssl.konto.czarnaniebieska.pl^$all
 ||ssl.twojekonto.krzysztofweb.pl^$all
 ||ssl.zaloguj-netflix.pl^$all
 ||ssl.zweryfikowac-netflix.pl^$all
@@ -51185,6 +51200,7 @@
 ||xx2022xx-invest.com^$all
 ||xxq.gzpr.xyz^$all
 ||xxsms.xyz^$all
+||xxx-download-0097.wissenswecker.de^$all
 ||xxx-download-0359.ekasa24.pl^$all
 ||xxx-download-0979.tempis-meble.pl^$all
 ||xxx.bank-online.cf^$all
@@ -51222,6 +51238,7 @@
 ||yamayaku.com^$all
 ||yammerers.life^$all
 ||yangitm.link^$all
+||yangkyi.videodaewoo.pw^$all
 ||yangola-uno.preview-domain.com^$all
 ||yangos.space^$all
 ||yangow.site^$all
@@ -51533,6 +51550,7 @@
 ||zakres-poszuikiwiawczy.eu^$all
 ||zaktua928skaz-nowyfor29a.nowyalteg.co.pl^$all
 ||zaktuada9283-fi29a.altegver.co.pl^$all
+||zaktuakonto.wodnikpolsky.pl^$all
 ||zaktualizacja-platnosci.codice.live^$all
 ||zaktualizacja-platnosci.netaflixu.life^$all
 ||zaktualizacja-platnosci.netfix-pl.life^$all
