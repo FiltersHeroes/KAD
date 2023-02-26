@@ -1,6 +1,7 @@
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
 /?track=*&key=$doc
+||onetdsgo.com^$all
 /\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
