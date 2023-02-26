@@ -1,16 +1,14 @@
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
 /?track=*&key=$doc
-||onetdsgo.com^$all
-||wyszukiwarkafilmow.pl^$all
 /\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https?:\/\/(?!www)[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|im|info|life|live|mobi|online|pw|quest|shop|site|skin|space|top|us|xyz|yachts
-/^https?:\/\/(?!www)[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|im|info|life|live|mobi|online|pw|quest|shop|site|skin|space|top|us|xyz|yachts
-/^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 /^https:\/\/\d{9}\.[a-z]*\.?[a-z]{3,}\.[a-z]{2}\/\d{6}\.html$/$document,domain=cl|eu|pl
+/^https?:\/\/(?!www)[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|im|info|life|live|mobi|online|pw|quest|shop|site|skin|space|top|us|xyz|yachts
+/^https?:\/\/(?!www)[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,6}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case,domain=buzz|com|de|fun|guru|im|info|life|live|mobi|online|pw|quest|shop|site|skin|space|top|us|xyz|yachts
+/^https?:\/\/([\w]{1,4}\.)?[a-z]{9,}([0-9]{1,2})?\.site\/\?utm_campaign=[_0-9a-zA-Z]+&[to]=[0-9a-z]+/$doc,domain=site
 /counts.php?cat=1&t=$3p,script
 /fck_files/*.xml$doc,domain=m-vision.com.pl
 /fckupload/*.xml$doc,domain=libron.pl
@@ -185,6 +183,7 @@
 ||ogladaj.link^$all
 ||okna-lesnik.pl^$all
 ||olmkcenter.com/api/v*/leads-workflow/$doc
+||onetdsgo.com^$all
 ||onlybest-deal4u.com^$all
 ||oo.waw.pl^$all
 ||overorlenpost.my-free.website^$all
@@ -259,6 +258,7 @@
 ||wiiktee.online^$all
 ||wikmostwantedxc.pl^$all
 ||wykonajzadanie.pl^$all
+||wyszukiwarkafilmow.pl^$all
 ||xn--21955-gya.biz^$all
 ||xn--22455-udb.biz^$all
 ||xn--30986-udb.biz^$all
