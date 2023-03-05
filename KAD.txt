@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 05 Mar 2023, 17:22 UTC+01:00
-! Version: 2023.3.5.3
+! Last modified: Sun, 05 Mar 2023, 21:18 UTC+01:00
+! Version: 2023.3.5.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3340,6 +3340,7 @@
 ||0lxdelivery.4653502.xyz^$all
 ||0lxdelivery.5465721.xyz^$all
 ||0lxdelivery.6578774.xyz^$all
+||0lxdelivery.78969887.xyz^$all
 ||0lxdispatch.7653121.xyz^$all
 ||0lxdispatch.8904354.xyz^$all
 ||00lxgoods.4565242.xyz^$all
@@ -5457,6 +5458,7 @@
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl-oferta.ml^$all
 ||allegro.pl.*.pl^$all,domain=~allegro.pl|pl
+||allegro.pl.konto-info.pl^$all
 ||allegro.pl.lokalnie.me^$all
 ||allegro.pl.sholtem.pl^$all
 ||allegro.pl.showlten.pl^$all
@@ -5684,6 +5686,7 @@
 ||allesettlemenb.top^$all
 ||allesettlemend.top^$all
 ||allesettlemene.top^$all
+||allesettlemenne.top^$all
 ||allesvouus12.web.app^$all
 ||allesvouus46.web.app^$all
 ||allesvouus54.web.app^$all
@@ -7778,6 +7781,7 @@
 ||bestoccasions4youonlynow.com^$all
 ||bestoffer2you.com^$all
 ||bestofgroup.tech^$all
+||bestofwins.com^$all
 ||bestoilbiz.com^$all
 ||bestowthew.com^$all
 ||bestphotoprints.com^$all
@@ -21456,6 +21460,7 @@
 ||ing-pl.net^$all
 ||ing.pl.proxy.c7s.io^$all
 ||ingapp.online^$all
+||ingbank-zablokowany-pl.info^$all
 ||ingbank-zablokowany.net^$all
 ||ingbezpieczenstwo.com^$all
 ||ingels-uno.preview-domain.com^$all
@@ -41119,6 +41124,7 @@
 ||roguy.info^$all
 ||rogxmatch.com^$all
 ||rojer-active.com^$all
+||rokinola.site^$all
 ||rokinols.space^$all
 ||rolhos-starts.web.app^$all
 ||rolhos-way.web.app^$all
@@ -46886,6 +46892,7 @@
 ||v1ntedpage-delivery.7564562111.xyz^$all
 ||v1ntedpage.paymarket0.xyz^$all
 ||v1ntedshop.3544789890.xyz^$all
+||v1ntedstore.63567565.xyz^$all
 ||v1nteed32delllweryy754.548411.xyz^$all
 ||v1t.gentrad.xyz^$all
 ||v3r1f1c4t10n-1d3nt1typr0t3c.000webhostapp.com^$all
@@ -49017,6 +49024,7 @@
 ||vinted.fkortold.org^$all
 ||vinted.formpaydelivery.site^$all
 ||vinted.fqshequ.top^$all
+||vinted.fundwallet.online^$all
 ||vinted.gelhoty.org^$all
 ||vinted.gespeku.org^$all
 ||vinted.gezfumdo.org^$all
@@ -52255,6 +52263,7 @@
 ||zakres-poszuikiwiawczy.eu^$all
 ||zaktua928skaz-nowyfor29a.nowyalteg.co.pl^$all
 ||zaktuada9283-fi29a.altegver.co.pl^$all
+||zaktuak.alleshop.co.pl^$all
 ||zaktuakonto.wodnikpolsky.pl^$all
 ||zaktualizacja-platnosci.codice.live^$all
 ||zaktualizacja-platnosci.netaflixu.life^$all
