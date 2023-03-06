@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 05 Mar 2023, 21:18 UTC+01:00
-! Version: 2023.3.5.4
+! Last modified: Mon, 06 Mar 2023, 09:24 UTC+01:00
+! Version: 2023.3.6.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3099,6 +3099,7 @@
 /pl/vwfs/portal/?pay|$doc,frame,domain=~pl
 /tds/ae?tds_campaign=$document
 |http*://*/fb-login/$doc,domain=~facebook.com
+||0-0llx.12313123.xyz^$all
 ||0-0lxmarket.5767435.xyz^$all
 ||0-0lxmarket.8796556.xyz^$all
 ||0-01x-merchandise.554217.xyz^$all
@@ -5217,6 +5218,7 @@
 ||alegro-lokalniie.25326566.xyz^$all
 ||alegro-polsca.doaepfen15.shop^$all
 ||alegro-takepay42.95743274.xyz^$all
+||alegro.pl.konto-info.pl^$all
 ||alegrol0kalni.15623333.xyz^$all
 ||alegroloka-lnie.35623333.xyz^$all
 ||alegrolokalnie-delivery.3200052.xyz^$all
@@ -6972,6 +6974,7 @@
 ||azowel.com^$all
 ||azpricerank.com^$all
 ||azsxxf3rm.digital^$all
+||azure-cdn-738992990283-micro.theleafcompany.co.nz^$all
 ||azure-org-microsofteam.codeplex.pe^$all
 ||azurhabits.com^$all
 ||azwmscscka.rf.gd^$all
@@ -9008,6 +9011,7 @@
 ||buy.polski-gaz.info^$all
 ||buy.polskigazociag.top^$all
 ||buycutegifts.com^$all
+||buyditicenter.com^$all
 ||buyerdispatchgoods.xyz^$all
 ||buyfoammattress.com^$all
 ||buyfreelab.com^$all
@@ -14362,6 +14366,7 @@
 ||doomsdayerportholes.xyz^$all
 ||doomtrench.top^$all
 ||dooperty.com^$all
+||doorsho.com^$all
 ||doorwear.net^$all
 ||dooskwt.com^$all
 ||dooyoouwoorkherre-354128.asia^$all
@@ -17613,6 +17618,7 @@
 ||fotka-wypatrz.eu^$all
 ||fotka-zadziwiajaca.eu^$all
 ||fotke-wstawimy.eu^$all
+||fotki-ludzie.eu^$all
 ||fotki-niegodne.eu^$all
 ||fotki-nieudane.eu^$all
 ||fotki-okazale.eu^$all
@@ -19698,6 +19704,7 @@
 ||hfkgd.gazeta-regionalna.com^$all
 ||hfmblr.com^$all
 ||hg.boxflox.org^$all
+||hggfttsrdttfsaeadyjyasasasajas.weebly.com^$all
 ||hgrzesik.pl^$all
 ||hgsssdd.ikasop.site^$all
 ||hh.ppaco.xyz^$all
@@ -20659,6 +20666,7 @@
 ||in171ovationproject.tech^$all
 ||in-f.info^$all
 ||in-p0st.5343548.xyz^$all
+||in-p0st.5475536.xyz^$all
 ||in-p0stshopping.576756.xyz^$all
 ||in-poland.web.app^$all
 ||in-post000.7563123.xyz^$all
@@ -27707,6 +27715,7 @@
 ||lnpost.advous.top^$all
 ||lnpost.bignaturals.xyz^$all
 ||lnpost.bitcoinlife.xyz^$all
+||lnpost.canlitvizle.xyz^$all
 ||lnpost.discountvacations.xyz^$all
 ||lnpost.duitbux.xyz^$all
 ||lnpost.generujkody.app^$all
@@ -35114,6 +35123,7 @@
 ||onetrade-pl.xyz^$all
 ||onets-site.yolasite.com^$all
 ||onett.net.pl^$all
+||onettttini.weebly.com^$all
 ||onetujemy3.waw.pl^$all
 ||onetujemy-wszyscy.waw.pl^$all
 ||onetujemy.waw.pl^$all
@@ -36274,6 +36284,7 @@
 ||paribass.biz^$all
 ||paribass.co^$all
 ||paribass.us^$all
+||paribasweb.com^$all
 ||paribnks.xyz^$all
 ||paribpnp.com^$all
 ||paridakinvest.pro^$all
@@ -36898,6 +36909,7 @@
 ||pggsa.net^$all
 ||pggsklep.net^$all
 ||pggwegiel.net^$all
+||pginis.site^$all
 ||pgn-marketing.com^$all
 ||pgn-platform.com^$all
 ||pgnewspl.com^$all
@@ -40925,6 +40937,7 @@
 ||revnok-com.preview-domain.com^$all
 ||revoicebek.pl^$all
 ||revoltress.xyz^$all
+||revolut-id-verify.com^$all
 ||revolut.buzz^$all
 ||revolut.win^$all
 ||revolutexpert.ltd^$all
@@ -42590,6 +42603,7 @@
 ||signalities.com^$all
 ||signalscoach.com^$all
 ||signature-web.com^$all
+||signeaweb.app^$all
 ||signetshell.com^$all
 ||signifyteleprompt-expired.firebaseapp.com^$all
 ||signin-ea.com^$all
@@ -43324,6 +43338,7 @@
 ||srv184538.hoster-test.ru^$all
 ||srv185028.hoster-test.ru^$all
 ||srv187256.hoster-test.ru^$all
+||srv187577.hoster-test.ru^$all
 ||srv*.seohost.com.pl/weryfikacja/$doc
 ||ss78328328a-ls832173218a.marjamo.co.pl^$all
 ||ss.beeps.name^$all
@@ -44371,6 +44386,7 @@
 ||t24.cleverapps.io^$all
 ||t50-pl.invst5.site^$all
 ||t72r.com^$all
+||t397c4.webwave.dev^$all
 ||t899.info^$all
 ||t-mobiles.app^$all
 ||t-pl1.zoologys.xyz^$all
@@ -47605,6 +47621,7 @@
 ||vinted-informing.5566432.xyz^$all
 ||vinted-it.id13741.com^$all
 ||vinted-it.id148612.com^$all
+||vinted-it.receive56.online^$all
 ||vinted-jeg.id-info8767.me^$all
 ||vinted-jfdo.id-3842.me^$all
 ||vinted-kijy.id-info022.me^$all
@@ -49038,6 +49055,7 @@
 ||vinted.jeqcadko.org^$all
 ||vinted.kgebuki.org^$all
 ||vinted.kypelepsoprok.org^$all
+||vinted.load41245.cyou^$all
 ||vinted.load-12414.online^$all
 ||vinted.load-safe.cfd^$all
 ||vinted.lu33.top^$all
@@ -49063,8 +49081,10 @@
 ||vinted.reservation32481.cloud^$all
 ||vinted.reservation47215.cloud^$all
 ||vinted.reservation56883.cloud^$all
+||vinted.reservation65151.cloud^$all
 ||vinted.route2.live^$all
 ||vinted.safe-orders.cyou^$all
+||vinted.send21431.online^$all
 ||vinted.sendingparceluser.xyz^$all
 ||vinted.skegnevid.org^$all
 ||vinted.stico.shop^$all
@@ -50600,6 +50620,8 @@
 ||weryfikujemy-cie.top^$all
 ||weryfka.tk.dnsfordomains.ru^$all
 ||weryfka.top^$all
+||werykonta-mo20al.crealle.co.pl^$all
+||werykonta-o020ap.finansealle.co.pl^$all
 ||wesdorl-site.preview-domain.com^$all
 ||wesedroy-com.preview-domain.com^$all
 ||wesfor.host^$all
@@ -52655,6 +52677,7 @@
 ||zmopda.pl^$all
 ||zmwpoqii.pl^$all
 ||zn1qp7.webwave.dev^$all
+||zna555.webwave.dev^$all
 ||znajacysienarzeczycorka.site^$all
 ||znajdz-paczkomat-inpost.com^$all
 ||znajdz-prace.shop^$all
