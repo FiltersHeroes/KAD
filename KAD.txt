@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 11 Mar 2023, 09:21 UTC+01:00
-! Version: 2023.3.11.0
+! Last modified: Sat, 11 Mar 2023, 13:30 UTC+01:00
+! Version: 2023.3.11.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3321,11 +3321,13 @@
 ||00lx.65768090.xyz^$all
 ||00lx.75322300.xyz^$all
 ||0lx.75555500.xyz^$all
+||0lx.154154455.xyz^$all
 ||0lx.200002122.xyz^$all
 ||0lx.205323233.xyz^$all
 ||0lx.322221202.xyz^$all
 ||0lx.459232303.xyz^$all
 ||0lx.655921211.xyz^$all
+||0lx.854154455.xyz^$all
 ||0lx.3421545455.xyz^$all
 ||0lx.32605124555.xyz^$all
 ||0lx.46594345154.xyz^$all
@@ -3981,6 +3983,7 @@
 ||30piecesofs1lver.com^$all
 ||030y1-uqps.com^$all
 ||31c5ff24944432411.temporary.link^$all
+||32kufy2f2r.bmichno.pl^$all
 ||33d7ddd74d3.chefs-kitchen.co.uk^$all
 ||33delivery.33322322.xyz^$all
 ||034cargo-dispatch4321.30649856.xyz^$all
@@ -5430,6 +5433,7 @@
 ||allegro-fxyd.umowa24.site^$all
 ||allegro-hhz.id-9543.me^$all
 ||allegro-konto.radzico.co.pl^$all
+||allegro-konto.torza.co.pl^$all
 ||allegro-l0kalnie.9000657643.xyz^$all
 ||allegro-logowanie-8a27af.ingress-earth.easywp.com^$all
 ||allegro-logowanie.work.gd^$all
@@ -14002,6 +14006,7 @@
 ||di-libra-pl1.web.app^$all
 ||di-libra-pl.firebaseapp.com^$all
 ||di-quantumai-pl1.firebaseapp.com^$all
+||di-quantumai-pl2.firebaseapp.com^$all
 ||di-quantumai-pl.firebaseapp.com^$all
 ||di-spatch0lx.prod-uct31.xyz^$all
 ||di.goldfinn.xyz^$all
@@ -17175,6 +17180,9 @@
 ||fdghhkj.web.app^$all
 ||fdn4au.webwave.dev^$all
 ||fdnzx.com^$all
+||fds799a-allegro.pl.sprale.co.pl^$all
+||fds799a-ntflx.pl.sprale.co.pl^$all
+||fds799a-ntflx.pl.torza.co.pl^$all
 ||fds.neomai.site^$all
 ||fdsgd.b-berry.pt^$all
 ||fdx-ca.cloud^$all
@@ -18669,6 +18677,7 @@
 ||gessler-wypadek.waw.pl^$all
 ||gestko.top^$all
 ||get8tec.polanfirm11.xyz^$all
+||get-classic.com^$all
 ||get-file-0235.wissenswecker.de^$all
 ||get-file-0291.rankinguniversidad.es^$all
 ||get-file-0464.ekasa24.pl^$all
@@ -18871,6 +18880,7 @@
 ||gklqrdk.top^$all
 ||gkmkla.pl^$all
 ||gkrart.com^$all
+||gkrudehka0.mirkpol.pl^$all
 ||gl2h.com^$all
 ||gladdercya.com^$all
 ||gladiola.life^$all
@@ -19339,6 +19349,7 @@
 ||gp.aximpoilc.com^$all
 ||gpgoq4d4g.digital^$all
 ||gph4y7.webwave.dev^$all
+||gpmbjm516j.algsm.pl^$all
 ||gpnplnr.life^$all
 ||gpplnr.life^$all
 ||gpro1.online-one.site^$all
@@ -21058,6 +21069,7 @@
 ||impost.14545552.xyz^$all
 ||impost.15220021.xyz^$all
 ||impost.15484122.xyz^$all
+||impost.15663330.xyz^$all
 ||impost.15956233.xyz^$all
 ||impost.45956323.xyz^$all
 ||impost.50545110.xyz^$all
@@ -25920,6 +25932,7 @@
 ||jaroslawauto.pl^$all
 ||jaroslawservices.pl^$all
 ||jaroslawska.com.pl^$all
+||jarusahin.tk^$all
 ||jarvisburg.life^$all
 ||jasakifid.space^$all
 ||jascfgaxc.us^$all
@@ -31740,6 +31753,7 @@
 ||netflipld.com^$all
 ||netflispl.com^$all
 ||netflivpl.com^$all
+||netflix-konto.radzico.co.pl^$all
 ||netflix-konto.torza.co.pl^$all
 ||netflix-promocja.pl^$all
 ||netflix-promocje.pl^$all
@@ -32923,6 +32937,7 @@
 ||odalke.ml^$all
 ||odaokmdoiamfiamfamo.bar^$all
 ||odbierz-kod.com^$all
+||odbierz-przelewy24.space^$all
 ||odbierz.1549550.xyz^$all
 ||odbierz.fans^$all
 ||odbierz.fyi^$all
@@ -34360,6 +34375,7 @@
 ||olx.12412431.xyz^$all
 ||olx.12700021.xyz^$all
 ||olx.15322333.xyz^$all
+||olx.15522212.xyz^$all
 ||olx.15956320.xyz^$all
 ||olx.22700021.xyz^$all
 ||olx.25232122.xyz^$all
@@ -44293,6 +44309,7 @@
 ||ssl.dkarpinski.com.pl^$all
 ||ssl.dotpay.club^$all
 ||ssl.hannajeneralek.pl^$all
+||ssl.hanteljankowski.pl^$all
 ||ssl.kobielska.com.pl^$all
 ||ssl.kontactive.grochal.com.pl^$all
 ||ssl.kontactive.miroslkop.pl^$all
@@ -45030,6 +45047,7 @@
 ||suppl.pl-pr0fiprog.site^$all
 ||supplementqwe.online^$all
 ||supply-id9481.net^$all
+||supplyfirebrand.com^$all
 ||suppmaralich.ml^$all
 ||support1.trocable.ga^$all
 ||support2.p-traceable.ga^$all
@@ -50107,6 +50125,7 @@
 ||vinted.load-12414.online^$all
 ||vinted.load-23151.cfd^$all
 ||vinted.load-safe.cfd^$all
+||vinted.loado.online^$all
 ||vinted.lu33.top^$all
 ||vinted.mahotrops.org^$all
 ||vinted.mulct.top^$all
@@ -51211,6 +51230,7 @@
 ||vzcphnox5.digital^$all
 ||vzgvl7.webwave.dev^$all
 ||vzrst.redustenes.xyz^$all
+||w0ndzk9pxt.yennefer6664.pl^$all
 ||w1.infoplnew.site^$all
 ||w1.meetpartnershp2023.cfd^$all
 ||w1.start-proff.site^$all
@@ -52157,6 +52177,7 @@
 ||winted.745212.xyz^$all
 ||winted.945212.xyz^$all
 ||winted.3569452.xyz^$all
+||winted.4712222.xyz^$all
 ||winted.5454522.xyz^$all
 ||winted.44125452.xyz^$all
 ||winted.053232222.xyz^$all
@@ -53307,6 +53328,7 @@
 ||yyb92t.webwave.dev^$all
 ||yyh.gzpr.xyz^$all
 ||yzapphot.com^$all
+||yzv9v4n4vg.automacher.pl^$all
 ||z0iwu0.web.app^$all
 ||z1.finprotect.click^$all
 ||z1gcix.webwave.dev^$all
