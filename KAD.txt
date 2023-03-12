@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 12 Mar 2023, 21:17 UTC+01:00
-! Version: 2023.3.12.4
+! Last modified: Sun, 12 Mar 2023, 22:45 UTC+01:00
+! Version: 2023.3.12.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -75,6 +75,7 @@
 ||agroturist.com.pl^$all
 ||aidamuse.com^$all
 ||aiglesklep.com^$all
+||aildeda.com^$all
 ||air90shop.com^$all
 ||airycloth.com^$all
 ||airydress.com^$all
@@ -191,6 +192,7 @@
 ||bajeranckie.pl^$all
 ||bakaron.com^$all
 ||bali-shop.pl^$all
+||banatik.com^$all
 ||banvar.com^$all
 ||bartekzukiewicz.pl^$all
 ||bartelik-brukarstwo.pl^$all
@@ -304,6 +306,7 @@
 ||buffalopolska.com^$all
 ||buffalopolska.net^$all
 ||bugioqazibloy.com^$all
+||buna-pl.com^$all
 ||bunclok.pl^$all
 ||burnbooster.pl^$all
 ||burtin.eu^$all
@@ -344,6 +347,7 @@
 ||butyjordansklep.pl^$all
 ||butykeenoutlet.com^$all
 ||butykeenoutlets.com^$all
+||butykorki.com^$all
 ||butylasportiva.com^$all
 ||butylotto.pl^$all
 ||butylowapolska.com^$all
@@ -530,6 +534,7 @@
 ||ctbike.pl^$all
 ||cugnfiloukver.com^$all
 ||cukierniasowa.com.pl^$all
+||cukooy.com^$all
 ||cunblrsron.com^$all
 ||customy-shop.com^$all
 ||cvkui.shop^$all
@@ -645,6 +650,7 @@
 ||e-smartly.com^$all
 ||e-toys.shop^$all
 ||e-udanezakupy.pl^$all
+||eailuly.com^$all
 ||easybuyfashion.takedrop.pl^$all
 ||easygolift.pl^$all
 ||easytommy.com^$all
@@ -735,6 +741,7 @@
 ||explotter.com^$all
 ||extra-advice4u.com^$all
 ||extragenerators.xyz^$all
+||extrasales.shop^$all
 ||exw-wallet.com^$all
 ||ezuby-store.com^$all
 ||f4u.pl^$all
@@ -853,7 +860,9 @@
 ||gardenset.pl^$all
 ||gardenxl.eu^$all
 ||gariger.top^$all
+||gatu.pl^$all
 ||gdziesalon.pl^$all
+||geiagge.com^$all
 ||gemverify.com^$all
 ||generatorkodow.hpu.pl^$all
 ||genetrk.com^$all
@@ -915,11 +924,13 @@
 ||grnpower.io^$all
 ||groundiesbuty.com^$all
 ||groundiespolska.com^$all
+||groundnutco.shop^$all
 ||gryfkietrz.pl^$all
 ||guess-polska.com^$all
 ||guesspl.com^$all
 ||guesssklep.pl^$all
 ||guitarforce.pl^$all
+||gurios.store^$all
 ||guzyl.com^$all
 ||gymsharkskleppolska.pl^$all
 ||haglofskurtka.com^$all
@@ -1234,6 +1245,7 @@
 ||levisodziez.com^$all
 ||lexatrade.com^$all
 ||liferobr.com^$all
+||ligahurt.pl^$all
 ||lightpots.pl^$all
 ||likeapril.com^$all
 ||linkz.it^$all
@@ -1331,6 +1343,7 @@
 ||mayonez.pl^$all
 ||mazoni488.com^$all
 ||mazurpawel.pl^$all
+||mdzks-store.com^$all
 ||meble24.ovel.pl^$all
 ||meble-i-ogrod.com^$all
 ||meble-smolec.pl^$all
@@ -1440,6 +1453,7 @@
 ||mulikit.com^$all
 ||munopuzzle.com^$all
 ||murarzplus.pl^$all
+||murielw.shop^$all
 ||music.jbl-solo.com^$all
 ||musika.pl^$all
 ||mutaty.com^$all
@@ -1639,6 +1653,7 @@
 ||palmzone.eu^$all
 ||panalarm.pl^$all
 ||paola-beauty.com^$all
+||paolinee.com^$all
 ||papierosy24.com^$all
 ||papla.pl^$all
 ||paraamo.online^$all
@@ -1847,6 +1862,7 @@
 ||pz21.pl^$all
 ||qanifinasrilk.com^$all
 ||qiouat.online^$all
+||qsexyfoxvn.shop^$all
 ||qsuanxutynkpy.com^$all
 ||quadre.pl^$all
 ||quayaustraliapolska.pl^$all
@@ -1854,6 +1870,7 @@
 ||quick-eye.pl^$all
 ||quizzstar.com^$all
 ||qutiftn.shop^$all
+||qzhip.shop^$all
 ||rabat-teraz-sklep.com^$all
 ||rabikoli.com^$all
 ||racerstore.pl^$all
@@ -2043,6 +2060,7 @@
 ||siniaki.pl^$all
 ||sipp.pl^$all
 ||siroccogoldfci.pl^$all
+||sitilaelah.com^$all
 ||skarbnicanarodowa.pl^$all
 ||skecherpolska.com^$all
 ||skechers-es.com^$all
@@ -2058,6 +2076,7 @@
 ||skecherssklep.pl^$all
 ||skecherstanio.com^$all
 ||skecherswarszawa.com^$all
+||skinheaven.pl^$all
 ||sklep200.com^$all
 ||sklep439461.shoparena.pl^$all
 ||sklep466452.shoparena.pl^$all
@@ -2250,6 +2269,7 @@
 ||teddywood.pl^$all
 ||telefonia.shoplo.com^$all
 ||telemediaa.pl^$all
+||temenow.com^$all
 ||tenuraa.com^$all
 ||terokee.online^$all
 ||terrex.pl^$all
@@ -2325,6 +2345,7 @@
 ||torama.shop^$all
 ||torrenteo.nojo.tv^$all
 ||torysmeble.pl^$all
+||totopua.com^$all
 ||towarzyskizamosc.pl^$all
 ||track.adsfast.com^$all
 ||tradecompany.pl^$all
@@ -2418,6 +2439,7 @@
 ||versalka.pl^$all
 ||veryvoga.pl^$all
 ||vetgfx.com^$all
+||veuood.com^$all
 ||vewvwm.myshopify.com^$all
 ||vfastdownload.com^$all
 ||vfgjt.shop^$all
@@ -4075,6 +4097,7 @@
 ||123hdmovies.club^$all
 ||123inp0st.1523021.xyz^$all
 ||123mopie.com^$all
+||123mopie.nwsautodaily.com^$all
 ||123moviesflix.xyz^$all
 ||123moviesfox.co^$all
 ||123moviesfoxs.com^$all
@@ -5119,6 +5142,7 @@
 ||aistocktrack.com^$all
 ||aitallipl.xyz^$all
 ||aitech23.online^$all
+||aitmovie.com^$all
 ||aitution.xyz^$all
 ||aivoskwo.space^$all
 ||aizdge.webwave.dev^$all
@@ -9570,6 +9594,8 @@
 ||cda-vod.prv.pl^$all
 ||cda-zalukaj.pl^$all
 ||cda-zalukaj.prv.pl^$all
+||cda-zobacz.pl^$all
+||cda.film^$all
 ||cdaflix.eu^$all
 ||cdaflix.pl^$all
 ||cdcahearings.com^$all
@@ -10073,6 +10099,7 @@
 ||cimabues.live^$all
 ||cimchizeeg.com^$all
 ||ciment.app^$all
+||cimovies.org^$all
 ||cinatewind.tk^$all
 ||cindatolka.site^$all
 ||cinderousi.com^$all
@@ -15815,6 +15842,7 @@
 ||effervescentphotobiologies.com^$all
 ||effulgent-pika-617831.netlify.app^$all
 ||efilmsy.pl^$all
+||efilmy-online.pl^$all
 ||eflird.com^$all
 ||efmbkr.com^$all
 ||eforsa.pl^$all
@@ -17260,6 +17288,7 @@
 ||fili.nojo.tv^$all
 ||fili.tube^$all
 ||filiatreault-lab.com^$all
+||filihd.pl^$all
 ||filimolo.com^$all
 ||filiplena.info.pl^$all
 ||filis.pl^$all
@@ -17270,6 +17299,7 @@
 ||filler-izaiah-timpani.webnode.pt^$all
 ||fillmorecentral.instructure.com^$all
 ||fillnort.xyz^$all
+||film24owo.pl^$all
 ||film9278a9z-sap27a89z.fixmaxi.co.pl^$all
 ||film-base.pl^$all
 ||film-flix.pl^$all
@@ -17278,6 +17308,7 @@
 ||film-rs.revolublog.com^$all
 ||film-vod.pl^$all
 ||filman-pl.pl^$all
+||filmanza.pl^$all
 ||filmasyhd.pl^$all
 ||filmbest.video.blog^$all
 ||filmdopobraniacbd92.ek1.pl^$all
@@ -17627,6 +17658,7 @@
 ||flirtwedwoje.com^$all
 ||flixalages.com^$all
 ||flixbeat.online^$all
+||flixmax.stream^$all
 ||flixmovies22.xyz^$all
 ||fllcjh5kdl.digital^$all
 ||fllo287a76-no28a7z.net9827a.co.pl^$all
@@ -19757,6 +19789,7 @@
 ||hazz.antbprogram.xyz^$all
 ||hb-sgb.pl^$all
 ||hbkkweremarijugodiafofesmakaaguruigbunwankemmadumajekwauka.pages.dev^$all
+||hbomax4k.online^$all
 ||hbonicovideo.over-blog.com^$all
 ||hbsgb.pl^$all
 ||hbwqvinrited.spilleapassba.tk^$all
@@ -26106,6 +26139,7 @@
 ||jofas.org^$all
 ||johghvyrf.digital^$all
 ||johnmurtagh.net^$all
+||johnwick4movi.com^$all
 ||joi.maskts-unlim.xyz^$all
 ||joihgameto.com^$all
 ||join-hypesquad-group.ml^$all
@@ -26253,6 +26287,7 @@
 ||justsoldphilly.com^$all
 ||justt-watch-now.xyz^$all
 ||justthat.sa.com^$all
+||justwatchflim.com^$all
 ||justynaboron.pl^$all
 ||justynaroj.com.pl^$all
 ||justynaroj.pl^$all
@@ -26718,6 +26753,7 @@
 ||kinovod.tv^$all
 ||kinroforthjowardcham.cf^$all
 ||kintilloconsulting.com^$all
+||kintilmovies.xyz^$all
 ||kintsugipayment.com^$all
 ||kionfxtrade.com^$all
 ||kios.wertykolor.site^$all
@@ -27227,6 +27263,7 @@
 ||kurwawileka.pl^$all
 ||kurwision.pl^$all
 ||kushawahaenterprisesmaner.com^$all
+||kuvanido.site^$all
 ||kvach.sheffsistema.site^$all
 ||kvelhfowdx.cfolks.pl^$all
 ||kveriwhiho.space^$all
@@ -28275,6 +28312,7 @@
 ||logoukr.com^$all
 ||logowan-4224.xyz^$all
 ||logowan-8234.xyz^$all
+||logowanie-2023.bio^$all
 ||logowanie-2023.ink^$all
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-pekao24.pl^$all
@@ -30727,6 +30765,7 @@
 ||movetaste.com^$all
 ||movie-o1-lx.ultraorder.cfd^$all
 ||moviebluray.com^$all
+||moviecpot.com^$all
 ||moviemedia123.com^$all
 ||moviemediaz.com^$all
 ||moviemientosiari.com^$all
@@ -34179,6 +34218,7 @@
 ||olx.653212549.xyz^$all
 ||olx.656232333.xyz^$all
 ||olx.665421545.xyz^$all
+||olx.745521215.xyz^$all
 ||olx.765421545.xyz^$all
 ||olx.6021548745.xyz^$all
 ||olx.7321548745.xyz^$all
@@ -35733,6 +35773,7 @@
 ||onlinefakty24.pl^$all
 ||onlinefakty24info.pl^$all
 ||onlinefilmy24.pl^$all
+||onlineflix.pl^$all
 ||onlinegamblinglist.com^$all
 ||onlinehd.pl^$all
 ||onlinekino.pl^$all
@@ -39915,6 +39956,7 @@
 ||primebit.com^$all
 ||primecapital.pro^$all
 ||primeshopee.com^$all
+||primevod.pl^$all
 ||primew.space^$all
 ||primme-uppps.us^$all
 ||prinages.com^$all
@@ -49665,6 +49707,7 @@
 ||vinted.reservation65151.cloud^$all
 ||vinted.reservation82856.cloud^$all
 ||vinted.reserve-s.online^$all
+||vinted.resive-j.online^$all
 ||vinted.route2.live^$all
 ||vinted.safe-orders.cyou^$all
 ||vinted.send21431.online^$all
@@ -50603,10 +50646,12 @@
 ||vodfilmy.tumblr.com^$all
 ||vodflix.tv^$all
 ||vodhome.pl^$all
+||vodkin.pl^$all
 ||vodlife.pl^$all
 ||vodnaekranie.pl^$all
 ||vodouskoin.com^$all
 ||vodpremium.com.pl^$all
+||vodster.pl^$all
 ||vodstrefa.pl^$all
 ||voemli.xyz^$all
 ||voerparadijs.nl^$all
@@ -50918,6 +50963,7 @@
 ||watch4-now83az.stream4netv.co.pl^$all
 ||watch.flixdaddy.site^$all
 ||watchablessingled.xyz^$all
+||watchanime21.com^$all
 ||watchgamesseemore.hu^$all
 ||watchkeeper.info^$all
 ||watchmeplayandlearn.com^$all
@@ -53853,6 +53899,7 @@
 ##a[href*="pufgilsofp.sbs"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
+||ceskvabal.xyz^$important,xhr
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
 ~pl##a[href*="whokeys.com/"]:lang(pl)
