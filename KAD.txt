@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 18 Mar 2023, 17:22 UTC+01:00
-! Version: 2023.3.18.2
+! Last modified: Sat, 18 Mar 2023, 20:43 UTC+01:00
+! Version: 2023.3.18.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -486,6 +486,7 @@
 ||columbiaoutletpolska.pl^$all
 ||columbiapolska.com^$all
 ||comfortmedplus.pl^$all
+||comfybaby.pl^$all
 ||completenice.com^$all
 ||computersfd.company.site^$all
 ||concash.pl^$all
@@ -916,6 +917,7 @@
 ||granicasportu.pl^$all
 ||grarpg.pl^$all
 ||gratyfikantgt.info^$all
+||greatbike.pl^$all
 ||greatshoes.pl^$all
 ||greatzio.com^$all
 ||green-home.com.pl^$all
@@ -933,6 +935,7 @@
 ||guitarforce.pl^$all
 ||gurios.store^$all
 ||guzyl.com^$all
+||gymsharksklep.pl^$all
 ||gymsharkskleppolska.pl^$all
 ||haglofskurtka.com^$all
 ||haitsaod.com^$all
@@ -1183,6 +1186,7 @@
 ||konkret-fashion.com^$all
 ||konkursynagrody.pl^$all
 ||korektorpostury.pl^$all
+||korkipilkarskie.com^$all
 ||kororoweszyszki.pl^$all
 ||korzysci.com^$all
 ||kosmetyki24.eu^$all
@@ -1253,6 +1257,7 @@
 ||litoren.com^$all
 ||littlebaby-shop.com^$all
 ||littlestore.pl^$all
+||liujopolska.com^$all
 ||liveheroes.com^$all
 ||llanny.com^$all
 ||llarue.com^$all
@@ -1706,6 +1711,7 @@
 ||pimrentcar.pl^$all
 ||pinapple.pl^$all
 ||pinkies.pl^$all
+||pinkpine.ie^$all
 ||pinksneaks.pl^$all
 ||pinnaclepolska.com^$all
 ||piosenkanaszkle.pl^$all
@@ -2148,6 +2154,7 @@
 ||solidarniplus.pl^$all
 ||solideo.com.pl^$all
 ||solonix.pl^$all
+||solovairpolska.com^$all
 ||solvusoft.com^$all
 ||sonerastore.com^$all
 ||sonyalpha.pl^$all
@@ -2235,6 +2242,7 @@
 ||suprabuty.pl^$all
 ||suunfay.com^$all
 ||svaeastore.com^$all
+||swagster.pl^$all
 ||swatti-wear.com^$all
 ||swiatpremixow.pl^$all
 ||swiatpsychoterapii.pl^$all
@@ -2427,6 +2435,7 @@
 ||vegatestsklep.pl^$all
 ||veja-polska.com^$all
 ||vejabutyoutlet.com^$all
+||vejapoland.com^$all
 ||vejapolska.com^$all
 ||vejapolska.pl^$all
 ||vejapromocje.com^$all
@@ -2969,11 +2978,16 @@
 ||37.228.116.200^$all
 ||40.114.216.185^$all
 ||45.145.185.65^$all
+||45.150.108.213^$doc,domain=~cobalt-strike-beacon-backdoor.*
 ||51.77.145.209^$all
 ||51.210.43.4^$all
+||87.120.254.39^$doc,domain=~cobalt-strike-beacon-backdoor.*
+||92.204.160.240^$doc,domain=~cobalt-strike-beacon-backdoor.*
 ||102.130.124.5^$all
 ||104.248.94.172^$all
+||108.61.242.65^$doc,domain=~cobalt-strike-beacon-backdoor.*
 ||142.93.134.136^$all
+||146.70.78.43^$doc,domain=~cobalt-strike-beacon-backdoor.*
 ||157.230.23.122^$all
 ||159.65.193.7^$all
 ||167.99.34.247^$all
@@ -3946,6 +3960,7 @@
 ||18-interia.azureedge.net^$all
 ||18-wp.azureedge.net^$all
 ||18interia.azureedge.net^$all
+||18m-nflx.pl.2303.pl^$all
 ||18onet.azureedge.net^$all
 ||19-energy.azureedge.net^$all
 ||19-interia.azureedge.net^$all
@@ -3983,6 +3998,7 @@
 ||23-interia.azureedge.net^$all
 ||23interia.azureedge.net^$all
 ||23luckybirdcasino.com^$all
+||23nflx-actuali03.2303.pl^$all
 ||23onet.azureedge.net^$all
 ||24-energy.azureedge.net^$all
 ||24-fakt-az.pl^$all
@@ -4043,6 +4059,7 @@
 ||28a2633c2b6.johncornell.com^$all
 ||28b8a-uqps.com^$all
 ||28dayshealthychallenge.com^$all
+||28wzkq36i3.oliwcia.life^$all
 ||29a6d.laborartfilm.com^$all
 ||029serv-nowksa92a.doaleg.co.pl^$all
 ||30b55543e98.chefs-kitchen.co.uk^$all
@@ -4108,6 +4125,8 @@
 ||82a9d4fb409.chefs-kitchen.co.uk^$all
 ||82e7946e1f7.johncornell.com^$all
 ||82mf98-ale-gro.bywicio.pl^$all
+||82nflx-actuali23.1703.pl^$all
+||82ns8-a8s2-netflix.2303.pl^$all
 ||84a891d6885.johncornell.com^$all
 ||85d13b0024b.johncornell.com^$all
 ||85ddc6d851b.chefs-kitchen.co.uk^$all
@@ -4878,6 +4897,8 @@
 ||activmask.pl^$all
 ||activq.profitactiv1.top^$all
 ||activv.cloud^$all
+||actlzcj-nflxknt.2303.pl^$all
+||actlzcjknt-nflxknt03.2303.pl^$all
 ||actor.tslx.quest^$all
 ||actualinpoilshaas.com^$all
 ||actualizarelect.890m.com^$all
@@ -13752,6 +13773,7 @@
 ||dellver16085-ollx.mainly.ink^$all
 ||dellver17189-ollx.expressive.cfd^$all
 ||dellver18820-ollx.finalhealth.online^$all
+||dellver27746-ollx.lookfor.life^$all
 ||dellver36820-ollx.eleganthome.click^$all
 ||dellver-179ollx.profhouse.sbs^$all
 ||dellver-386ollx.biostroy.cloud^$all
@@ -20668,6 +20690,7 @@
 ||hometop4360-dpd.megashopland.top^$all
 ||homford.com^$all
 ||homiliary.info^$all
+||homlpqj.online^$all
 ||homophylycap.com^$all
 ||homtexual.pl^$all
 ||hondei-com.preview-domain.com^$all
@@ -26641,6 +26664,7 @@
 ||jnpost.112434522.xyz^$all
 ||jnpost.152322115.xyz^$all
 ||jnpost.0321541221.xyz^$all
+||jnpost.435432616.xyz^$all
 ||jnpost.435432619.xyz^$all
 ||jnpost.534514351.xyz^$all
 ||jnpost.534514352.xyz^$all
@@ -27459,6 +27483,8 @@
 ||knowledgeuplift.com^$all
 ||knowlz.org^$all
 ||knowyourplanet.net^$all
+||knto23-actlzcja03.2303.pl^$all
+||knto-actlzcja.2303.pl^$all
 ||knto-ntflx-serwis-knto.mrcolo.co.pl^$all
 ||knudornit.cf^$all
 ||ko0goq.weebly.com^$all
@@ -28796,6 +28822,7 @@
 ||lnpost-shopping.65484521.xyz^$all
 ||lnpost-wstrzymane.pl^$all
 ||lnpost.1nightstand.xyz^$all
+||lnpost.10002.xyz^$all
 ||lnpost.75322333.xyz^$all
 ||lnpost.063245165121.xyz^$all
 ||lnpost.$doc
@@ -32690,6 +32717,7 @@
 ||nfarm.org^$all
 ||nfbio.com^$all
 ||nfdj39.cyou^$all
+||nflx-twoje18.2303.pl^$all
 ||nfsafimsaimdosadoasmfsaim.bar^$all
 ||nft-handel.com^$all
 ||nftsmeal.com^$all
@@ -33392,12 +33420,15 @@
 ||o2mail00login11page.weebly.com^$all
 ||o4kvv6.webwave.dev^$all
 ||o7ur.com^$all
+||o8a-9s1-netflix.2303.pl^$all
 ||o8p1pq.web.app^$all
 ||o9sfsufhdgyysd.bar^$all
 ||o11x-delivery.908324108.xyz^$all
 ||o11x-inf0rming.366578.xyz^$all
 ||o11x-shipment.756008.xyz^$all
 ||o11xdelivery.362955455.xyz^$all
+||o20a92-29a02.nflxxt.eu^$all
+||o20a-8a8-netflix.2303.pl^$all
 ||o029ap23-i29320a.loctv.co.pl^$all
 ||o39ld5.webwave.dev^$all
 ||o054.info^$all
@@ -46148,6 +46179,7 @@
 ||tanrichow.com^$all
 ||tanskoe.site^$all
 ||tantales.com^$all
+||tantalocpq.online^$all
 ||tantawy-group.com^$all
 ||tantieapp.com^$all
 ||tantreplanes.com^$all
@@ -48783,6 +48815,8 @@
 ||velenas-verllen-pro.cloud^$all
 ||velica.com.br^$all
 ||velizorthost.ml^$all
+||vellobank.fun^$all
+||vellobank.top^$all
 ||velo-pros.online^$all
 ||velo-pros.store^$all
 ||velobank.at0.site^$all
@@ -49224,6 +49258,7 @@
 ||vinobas.click^$all
 ||vinpost.id-87233.me^$all
 ||vint-d.322delj-very324.xyz^$all
+||vint-ed.08759576.xyz^$all
 ||vint-ed.id-umowa02934.beauty^$all
 ||vint-ed.id-umowa23478.pics^$all
 ||vint-ed.logplgo174693a.pics^$all
@@ -51720,6 +51755,7 @@
 ||vlnted.144store.xyz^$all
 ||vlnted.834608twojid.pics^$all
 ||vlnted.5765730.xyz^$all
+||vlnted.08759575.xyz^$all
 ||vlnted.726523215.xyz^$all
 ||vlnted.dostava3682074.cloud^$all
 ||vlnted.dostava4506319.mom^$all
@@ -53636,6 +53672,7 @@
 ||xl3283281a-ls8329a.bomflak.co.pl^$all
 ||xla-support.com.fozzyhost.com^$all
 ||xlabsai.com^$all
+||xli20a-ksd092.rejpsol.co.pl^$all
 ||xljyfy2l9a.digital^$all
 ||xlodion-invest.pro^$all
 ||xlqescwacc.cfolks.pl^$all
