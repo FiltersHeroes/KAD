@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 20 Mar 2023, 13:34 UTC+01:00
-! Version: 2023.3.20.1
+! Last modified: Mon, 20 Mar 2023, 17:26 UTC+01:00
+! Version: 2023.3.20.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3236,6 +3236,7 @@
 ||0llx.23523557.xyz^$all
 ||0llx.44441124.xyz^$all
 ||0llx.54375356.xyz^$all
+||0llx.57357377.xyz^$all
 ||0lx24goods.43549875.xyz^$all
 ||0lx43.32021545.xyz^$all
 ||0lx43store.54323521.xyz^$all
@@ -3387,10 +3388,12 @@
 ||0lx.60021220.xyz^$all
 ||0lx.65555500.xyz^$all
 ||00lx.65768090.xyz^$all
+||0lx.69656566.xyz^$all
 ||0lx.72123218.xyz^$all
 ||00lx.75322300.xyz^$all
 ||0lx.75555500.xyz^$all
 ||0lx.77867793.xyz^$all
+||0lx.79656566.xyz^$all
 ||0lx.94125455.xyz^$all
 ||0lx.154154455.xyz^$all
 ||0lx.200002122.xyz^$all
@@ -3543,6 +3546,7 @@
 ||1mppost4512dispatchg00ds1.97658412.xyz^$all
 ||1msk.witprogram.xyz^$all
 ||1mst.online-like1.site^$all
+||1mstrs.online-like1.site^$all
 ||1my.plprogram-act.site^$all
 ||1np0st-4goods.675634.xyz^$all
 ||1np0st-payshop458.703412.xyz^$all
@@ -3614,6 +3618,7 @@
 ||1nves7.site^$all
 ||1nws.online-one.xyz^$all
 ||1onet.azureedge.net^$all
+||1pnew.cas-program.site^$all
 ||1pro1.inprog.top^$all
 ||1pro1.plprogram-act.site^$all
 ||1pro-pl.live1program.site^$all
@@ -3784,6 +3789,7 @@
 ||5-shop-sms.com^$all
 ||5-wp.azureedge.net^$all
 ||5.finparticlesapp.cfd^$all
+||5.milproj.site^$all
 ||5.thefinancialdvisor.bond^$all
 ||5bb1d.massagemtantrica.pt^$all
 ||05c3b2b5dc0.chefs-kitchen.co.uk^$all
@@ -4398,28 +4404,44 @@
 ||138095.space^$all
 ||139271.000webhostapp.com^$all
 ||140093.space^$all
+||142577-o929a.ntpsla.co.pl^$all
 ||158655cd.bakerstreetfinance.tv^$all
+||171493-o929a.ntpsla.co.pl^$all
 ||189054.xyz^$all
 ||0212806.ir^$all
 ||213222.xyz^$all
 ||234234.pro-activprofit.site^$all
+||246898-o929a.ntpsla.co.pl^$all
+||250704-o929a.ntpsla.co.pl^$all
 ||282918.me^$all
+||287109-o929a.ntpsla.co.pl^$all
+||295873-o929a.ntpsla.co.pl^$all
 ||299110.allegrolokalnie.ink^$all
 ||327651fedd5.chefs-kitchen.co.uk^$all
+||336565-o929a.ntpsla.co.pl^$all
 ||345345.pro-activprofit.site^$all
+||347989-o929a.ntpsla.co.pl^$all
 ||380040fa679.johncornell.com^$all
 ||380935.xyz^$all
+||409945-409945.ntpsla.co.pl^$all
 ||432333.xyz^$all
 ||435423.xyz^$all
 ||435757ut.com^$all
+||439147-o929a.ntpsla.co.pl^$all
+||457713-o929a.ntpsla.co.pl^$all
+||465712-o929a.ntpsla.co.pl^$all
+||470948-o929a.ntpsla.co.pl^$all
 ||471058.pw^$all
+||525186-o929a.ntpsla.co.pl^$all
 ||530908.selcdn.ru^$all
 ||534600.xyz^$all
 ||543111.selcdn.ru^$all
+||543500-o929a.ntpsla.co.pl^$all
 ||548739.space^$all
 ||553521.selcdn.ru^$all
 ||555305.selcdn.ru^$all
 ||564544.xyz^$all
+||573090-o929a.ntpsla.co.pl^$all
 ||575184.allegrolokalnie.ink^$all
 ||576411.xyz^$all
 ||576756.xyz^$all
@@ -4429,16 +4451,19 @@
 ||0625886bde5.chefs-kitchen.co.uk^$all
 ||626525.selcdn.ru^$all
 ||634511-zaplata.net^$all
+||642289-o929a.ntpsla.co.pl^$all
 ||645342.xyz^$all
 ||645344.xyz^$all
 ||645346.xyz^$all
 ||645455.xyz^$all
 ||656115.selcdn.ru^$all
 ||663234.web19.swisscenter.com^$all
+||664671-o929a.ntpsla.co.pl^$all
 ||666511.selcdn.ru^$all
 ||671421.selcdn.ru^$all
 ||675664.xyz^$all
 ||687900.xyz^$all
+||718294-o929a.ntpsla.co.pl^$all
 ||727986e0012.chefs-kitchen.co.uk^$all
 ||741847.allegrolokalnie.gifts^$all
 ||745655.xyz^$all
@@ -4454,10 +4479,17 @@
 ||811448f08b4.chefs-kitchen.co.uk^$all
 ||828302o172-p02393o.plattvntfx.co.pl^$all
 ||855523.space^$all
+||866775-o929a.ntpsla.co.pl^$all
 ||867563.xyz^$all
+||887668-o929a.ntpsla.co.pl^$all
+||887711-o929a.ntpsla.co.pl^$all
+||899259-o929a.ntpsla.co.pl^$all
 ||904611.xyz^$all
+||913769-o929a.ntpsla.co.pl^$all
 ||978024.xyz^$all
+||994827-o929a.ntpsla.co.pl^$all
 ||997231.xyz^$all
+||997943-o929a.ntpsla.co.pl^$all
 ||1109263-co58611.tw1.ru^$all
 ||1215431.xyz^$all
 ||1322210.xyz^$all
@@ -5109,6 +5141,7 @@
 ||ag.polkopolata.online^$all
 ||aga40.pl^$all
 ||aga.impeloter.xyz^$all
+||aga.polkopolata.online^$all
 ||agacerie.live^$all
 ||agahon.com^$all
 ||againstalloddsnj.org^$all
@@ -5273,6 +5306,7 @@
 ||akceptowanie.pl^$all
 ||akcjasamsung.e-kei.pl^$all
 ||akcjebetra.pl^$all
+||akcjeipieniadze.online^$all
 ||akcjeorlmangil.pl^$all
 ||akcjeorlnoteca.pl^$all
 ||akcjeorlredeve.pl^$all
@@ -6284,6 +6318,7 @@
 ||anjingnation.com^$all
 ||anjoujgaj.space^$all
 ||ankasg.pl^$all
+||ankieta-new.tpros.xyz^$all
 ||ankieterzyzdalni.world^$all
 ||ankiety-tv.pl^$all
 ||anlei.online^$all
@@ -6373,6 +6408,7 @@
 ||anuriacryp.xyz^$all
 ||anvocoldunc.cf^$all
 ||anyplaceun.xyz^$all
+||anzz.dowss.site^$all
 ||aoaei.com^$all
 ||aobten.pl^$all
 ||aocate.pl^$all
@@ -6387,6 +6423,7 @@
 ||ap9329320aj-l93218daj.monikapla.co.pl^$all
 ||ap.newinfs.xyz^$all
 ||ap.newinos.xyz^$all
+||ap.rusites.site^$all
 ||apahn4glrg.sosinadrian.pl^$all
 ||apalaciosstore.online^$all
 ||apartments.executive.skin^$all
@@ -6720,6 +6757,7 @@
 ||asavvyjoe.com^$all
 ||ascelinvesting.website^$all
 ||asd.bandaprogram.xyz^$all
+||asdasd.ketoredus.xyz^$all
 ||asdfcadsf.planticrysa.xyz^$all
 ||asdgroupincorp.com^$all
 ||asdrheamrbwwvibdqdtkr5h2ihyjf9.web.app^$all
@@ -7140,6 +7178,7 @@
 ||avbtrk.com^$all
 ||avekig.com^$all
 ||avellas.info^$all
+||aversiyawf.space^$all
 ||aversko.space^$all
 ||avertingde.com^$all
 ||avetrade-ai.cyou^$all
@@ -7177,6 +7216,7 @@
 ||awesomepagez.com^$all
 ||awestrickenfarraginous.com^$all
 ||awffwi.com^$all
+||awfsa.prlmaxiiisok.xyz^$all
 ||awningfabricreview.com^$all
 ||awrbid.pl^$all
 ||awsdesksupport.com^$all
@@ -7352,7 +7392,9 @@
 ||backyardappsaudi.com^$all
 ||bactericid.xyz^$all
 ||bacteriostatic.info^$all
+||bad.investtraderxreh.com^$all
 ||bad.tcoprog.site^$all
+||badalekor-investing.pro^$all
 ||badanus.com^$all
 ||badarngood.com^$all
 ||bade.laqwer.online^$all
@@ -7366,6 +7408,7 @@
 ||badola-sklep.pl^$all
 ||badplaza.net^$all
 ||badyner-investing.pro^$all
+||badz.bndrprogram.site^$all
 ||bae.waprogram.site^$all
 ||baetin.site^$all
 ||bafkreiaziwxxrimupqlhtr6rew6rilkclk4ghyvh6baldmdjrfcf2nkzyu.ipfs.nftstorage.link^$all
@@ -7512,6 +7555,7 @@
 ||balitraffic.com^$all
 ||baliwid.com^$all
 ||baliz.ballt.xyz^$all
+||balkanpro.online^$all
 ||balkit.space^$all
 ||ball.roonss.xyz^$all
 ||balla.zartt.site^$all
@@ -8575,6 +8619,7 @@
 ||bk.da520.top^$all
 ||bkaliorsa.com^$all
 ||bkmctrl.webd.pro^$all
+||bkmgft.s3.us-east-005.backblazeb2.com^$all
 ||bko.tineda.xyz^$all
 ||bkwo0e.webwave.dev^$all
 ||bkylgs.com^$all
@@ -8643,6 +8688,7 @@
 ||blkscrw.com^$all
 ||bllog.plprogram-act.site^$all
 ||blo-my.okkwi.site^$all
+||blo.invbalp.site^$all
 ||blo.rusites.site^$all
 ||blochgor.host^$all
 ||blockchain-tesla.biz^$all
@@ -8655,6 +8701,7 @@
 ||blodgeninvesting.pro^$all
 ||blodion-invest.com^$all
 ||bloementasje.nl^$all
+||blog1-niez-maska.neuro1.xyz^$all
 ||blog1.blog1pl.site^$all
 ||blog1.maxi9blog.xyz^$all
 ||blog1.maxipl-system.xyz^$all
@@ -8665,6 +8712,7 @@
 ||blog1.w1pl.site^$all
 ||blog1.zoologys.xyz^$all
 ||blog1bz.nev1evesplt.site^$all
+||blog1n.blog4pl.xyz^$all
 ||blog1x.nev1evesplt.site^$all
 ||blog2.t0project.site^$all
 ||blog3.im3unit.site^$all
@@ -8944,6 +8992,7 @@
 ||bombcrypto.biz^$all
 ||bombhour.net^$all
 ||bomdetect.com^$all
+||bomv.ketoredus.xyz^$all
 ||bon27a7-t726a.jasiukiewicz.com.pl^$all
 ||bon-darmowy.pl^$all
 ||bon.safars.online^$all
@@ -9444,6 +9493,7 @@
 ||byelaws.pl^$all
 ||byfygd5kd.rdl.pl^$all
 ||bygma-cloud-app-ibm-cert.s3.ams03.cloud-object-storage.appdomain.cloud^$all
+||byha.wertas.xyz^$all
 ||byktem.pl^$all
 ||bylismy-i-bedziemy.pl^$all
 ||bylismy-zawsze.pl^$all
@@ -9792,6 +9842,7 @@
 ||catsplit.net.pl^$all
 ||catsplit.pl^$all
 ||cattribe.net^$all
+||caucasusqq.online^$all
 ||cauran.com^$all
 ||causalgraphs.com^$all
 ||causeesthetics.cn^$all
@@ -9805,6 +9856,7 @@
 ||caxcol.webwave.dev^$all
 ||caz.gaznf.xyz^$all
 ||caz.livered.xyz^$all
+||cb1.proone1.top^$all
 ||cb33z-upgs.club^$all
 ||cb-maxpl.bond^$all
 ||cb-maxpl.quest^$all
@@ -9813,6 +9865,7 @@
 ||cbdnewsdirect.com^$all
 ||cbdoilqa.com^$all
 ||cbdsauve.com^$all
+||cbn.proone1.top^$all
 ||cbsmarket.co^$all
 ||cbtsmaskristen2soe.my.id^$all
 ||cc0ed3dcae1.bakerstreet.uk.com^$all
@@ -10171,6 +10224,7 @@
 ||chat.zoologys.xyz^$all
 ||chateau-gai-kodzor.com^$all
 ||chatl.pro-activprofit.site^$all
+||chatoffidhdep.nev1evesplt.site^$all
 ||chatprofitsystems.com^$all
 ||chatpros.site^$all
 ||chatsex.vc^$all
@@ -10448,6 +10502,7 @@
 ||cjsmm.in^$all
 ||cjui-text.xyz^$all
 ||ckdegl.com^$all
+||cklomah.online^$all
 ||ckmaicmasifianfia.bar^$all
 ||ckwmfo421-epoeqw.xyz^$all
 ||cl98329329a-e73219839a.touplx.co.pl^$all
@@ -10675,6 +10730,7 @@
 ||cohwintl.org^$all
 ||coi.maskts-unlim.xyz^$all
 ||coi.milproj.site^$all
+||coi.tchatonline.site^$all
 ||coin22.artaav.site^$all
 ||coin-1n-npost.frostmagazin.cfd^$all
 ||coin-consider.space^$all
@@ -10981,6 +11037,7 @@
 ||contlers.space^$all
 ||contones.com^$all
 ||contraeict.com^$all
+||contrast-b.store^$all
 ||contributedfg.online^$all
 ||contributiondance.com^$all
 ||controlconstruct.com^$all
@@ -13176,6 +13233,7 @@
 ||daleko898.site^$all
 ||dalenik.online^$all
 ||dalenmcmanus.com^$all
+||dalf.bosd.online^$all
 ||dalilyvdali.buzz^$all
 ||dalimes.com^$all
 ||daliros.com^$all
@@ -13356,6 +13414,7 @@
 ||dc7b.com^$all
 ||dc8zebibg15w1.cloudfront.net^$all
 ||dc78m6v3kidiv.cloudfront.net^$all
+||dc.aboutnews.top^$all
 ||dcao5m.webwave.dev^$all
 ||dcborodiph1sc.cloudfront.net^$all
 ||dcd5cde59d4.johncornell.com^$all
@@ -14251,6 +14310,7 @@
 ||dhlbazeos.tiokickrenimb.cf^$all
 ||dhlexpress.704950.ubuntu.buzz^$all
 ||dhlfh1l8xj4e6.cloudfront.net^$all
+||dhlpolska.einatgal.com^$all
 ||dhlukbaqi.doabaldepolcell.ml^$all
 ||dhlukbcnq.mastendxicountran.ga^$all
 ||dhlukbfdq.flutigvi.ga^$all
@@ -14447,6 +14507,7 @@
 ||dipd.3328154.xyz^$all
 ||dipoer.host^$all
 ||dippedsu.pl^$all
+||dipu.prlmaxiiisok.xyz^$all
 ||direct-energy.ltd^$all
 ||directingfilm.net^$all
 ||directionxanc2021.ddns.net^$all
@@ -14990,6 +15051,7 @@
 ||dorotadurbajlo.pl^$all
 ||dorstavka-o1x184.inbeauthajaffdimp.cf^$all
 ||dosiw.win^$all
+||dosk.treespl.site^$all
 ||doski.by^$all
 ||doslaska.xyz^$all
 ||dostarczac948.rest^$all
@@ -15744,6 +15806,7 @@
 ||drzgnl5l4jbyx.cloudfront.net^$all
 ||ds1.tradelifeworld.top^$all
 ||ds2ols.webwave.dev^$all
+||ds3.tradelifeworld.top^$all
 ||ds3um0a67glaw.cloudfront.net^$all
 ||ds4hg7hlkyywj.cloudfront.net^$all
 ||ds5p06ayhpfz3.cloudfront.net^$all
@@ -16231,6 +16294,7 @@
 ||edytka2111.pl^$all
 ||ee008.info^$all
 ||ee911e17b70.chefs-kitchen.co.uk^$all
+||ee.wertas.xyz^$all
 ||eecakesconf.at^$all
 ||eeebo.redusketo.xyz^$all
 ||eeinvv.web.app^$all
@@ -17064,6 +17128,8 @@
 ||eyaeya31.za.com^$all
 ||eyc3.canmaxiprog.site^$all
 ||eyc4.canmaxiprog.site^$all
+||eyd1.firecantrade.site^$all
+||eyd2.firecantrade.site^$all
 ||eyeballwoo.com^$all
 ||eyeglassreviews.com^$all
 ||eyeo.redandprog.site^$all
@@ -17075,8 +17141,17 @@
 ||eym5.firecantrade.site^$all
 ||eym6.firecantrade.site^$all
 ||eym7.firecantrade.site^$all
+||eym9.firecantrade.site^$all
 ||eyotac.com^$all
 ||eyrherrhereh.tcp4.me^$all
+||eys1.firecantrade.site^$all
+||eys4.firecantrade.site^$all
+||eys5.canpeoplefx.site^$all
+||eys6.canpeoplefx.site^$all
+||eys8.firecantrade.site^$all
+||eys10.firecantrade.site^$all
+||eys11.firecantrade.site^$all
+||eyt1.canfxprog.site^$all
 ||eyupp.com^$all
 ||eyxspmbjxh.web.app^$all
 ||eyz1.firecantrade.site^$all
@@ -17128,6 +17203,7 @@
 ||fa.polskadep.xyz^$all
 ||fa.programchat.site^$all
 ||fa.zlpolska.xyz^$all
+||faa.rusites.site^$all
 ||faakty24.pl^$all
 ||faanuus.com^$all
 ||fab.dishess.site^$all
@@ -17436,6 +17512,7 @@
 ||fasyin.site^$all
 ||fat.brlwin.online^$all
 ||fat.milproj.site^$all
+||fat.prosystemorgo.com^$all
 ||fatalne-zdjecie.eu^$all
 ||fatherandsonpals.com^$all
 ||fatigated.info^$all
@@ -18027,6 +18104,7 @@
 ||fitnesstips.pl^$all
 ||fitodieta.xyz^$all
 ||fitogerbookp.tk^$all
+||fitpro.maxi-bl0g.site^$all
 ||fitterpro.online^$all
 ||fitterpro.xyz^$all
 ||fitton.pl^$all
@@ -18617,6 +18695,7 @@
 ||fundrtmg.space^$all
 ||funds2023.lol^$all
 ||funds2023.quest^$all
+||funduszeeuropejskie.online^$all
 ||funford.space^$all
 ||funkhi.com^$all
 ||funmadebdigitalconcepts.com^$all
@@ -18706,6 +18785,7 @@
 ||g88yp7mxwg.wojtekzajac.pl^$all
 ||g89ktr.webwave.dev^$all
 ||g91hgoioh.xyz^$all
+||g368eb.webwave.dev^$all
 ||g371.info^$all
 ||g0800fc577294c3-v4e0b28ad2839435945.infavolat.co.pl^$all
 ||g916.info^$all
@@ -19147,6 +19227,7 @@
 ||gewcia.pl^$all
 ||geweal.pl^$all
 ||gewer.site^$all
+||gf.newspp.top^$all
 ||gfaw.plfcaty.xyz^$all
 ||gfg.dfrtraderxsys.com^$all
 ||gfhds.lareg.site^$all
@@ -19534,6 +19615,7 @@
 ||gomboapp.com^$all
 ||gomlew.site^$all
 ||gomobile24.net^$all
+||gomobile-bnp.com^$all
 ||gomorrahs.info^$all
 ||gon.kosmm.xyz^$all
 ||gon.safars.online^$all
@@ -20113,6 +20195,9 @@
 ||gyrostabil.com^$all
 ||gysnow.uno^$all
 ||gz24info.pl^$all
+||gzprminvsting.ru^$all
+||gzprmruessian.ru^$all
+||gzprmruissia.ru^$all
 ||gzprom.digital^$all
 ||gzprom.life^$all
 ||gzprom.online^$all
@@ -20149,6 +20234,7 @@
 ||hackerone773.com^$all
 ||hackheap.online^$all
 ||hackspost.com^$all
+||had.rutradersxprod.com^$all
 ||hadeng.online^$all
 ||hadietbook.net^$all
 ||hadsons-com.preview-domain.com^$all
@@ -20204,6 +20290,7 @@
 ||halyk-platform.site^$all
 ||halyk.website^$all
 ||halykbnk.space^$all
+||halz.antbprogram.xyz^$all
 ||hamdrik-investing.pro^$all
 ||hamegames.com^$all
 ||hamhev.com^$all
@@ -20309,6 +20396,7 @@
 ||hawkab.se^$all
 ||hawkfuel.com^$all
 ||hax.gaznf.xyz^$all
+||hax.prosystemorgo.com^$all
 ||hayalgemisi.com.tr^$all
 ||haymanot.net^$all
 ||hayregular.com^$all
@@ -20631,6 +20719,7 @@
 ||hilltoppacksapps.com^$all
 ||hiltonmahoganyrun.com^$all
 ||hilumcitro.com^$all
+||himalayapro.online^$all
 ||himalyangrp.com^$all
 ||himedic.vn^$all
 ||himkano-com.preview-domain.com^$all
@@ -20765,6 +20854,7 @@
 ||hope-pl.xyz^$all
 ||hopeforhealth.com.ph^$all
 ||hopetopinvest.pro^$all
+||hophip.redsistem.site^$all
 ||hoppe-llc.pl^$all
 ||hoppingove.com^$all
 ||hops.ltvprprog.site^$all
@@ -20951,6 +21041,7 @@
 ||huneweralearning.com^$all
 ||hunttim1.com^$all
 ||huouri.com^$all
+||hup.bandaprogram.xyz^$all
 ||hup.orogdq1.xyz^$all
 ||huqooqekarachi.pk^$all
 ||hurdlerund.xyz^$all
@@ -20979,6 +21070,7 @@
 ||hy-teslacoin-pl-57405.firebaseapp.com^$all
 ||hy-teslacoin-pl-574051.web.app^$all
 ||hy-teslacoin-pl-574052.web.app^$all
+||hy-teslacoin-pl-ed6f3.web.app^$all
 ||hy-teslacoin-pl-ed6f32.web.app^$all
 ||hy.gaznf.xyz^$all
 ||hyalinized.xyz^$all
@@ -25928,6 +26020,7 @@
 ||invi-z.web.app^$all
 ||inviespgntootler.com^$all
 ||inviestday.com^$all
+||inviestinprogz.ru^$all
 ||inviestnews.com^$all
 ||invistasites.com^$all
 ||invitatori.pl^$all
@@ -25940,12 +26033,14 @@
 ||invpl.net^$all
 ||invpl.org^$all
 ||invpl.us^$all
+||invproom.com^$all
 ||invst2.site^$all
 ||invst4all.com^$all
 ||invst.live^$all
 ||invst.pro^$all
 ||invst.store^$all
 ||invst.trade^$all
+||invstingazprm.ru^$all
 ||invstkz.buzz^$all
 ||invstorn.site^$all
 ||invstque-pl.xyz^$all
@@ -26031,6 +26126,7 @@
 ||inwestycyjne-wpolce-967mp.xyz^$all
 ||inwestycyjne-wpolce-984vm.xyz^$all
 ||inwestycyjnyprojekt.com^$all
+||inwiestycje.online^$all
 ||inwlot.web.app^$all
 ||inwound.life^$all
 ||inwqjw.pl^$all
@@ -26458,6 +26554,7 @@
 ||jaunpurlocals.com^$all
 ||javascriptzone.com^$all
 ||jawava.com^$all
+||jaworski-blog.blog4pl.xyz^$all
 ||jaxigui6.xyz^$all
 ||jayruncone.com^$all
 ||jaysprehea.pl^$all
@@ -26543,6 +26640,7 @@
 ||jglowkonsultasi.com^$all
 ||jgpropertiesservices.com^$all
 ||jgrupungeo.cfolks.pl^$all
+||jhfbhbfjd.s3.us-east-005.backblazeb2.com^$all
 ||jhpost-purchase.4234444534.xyz^$all
 ||jhpost-purchase.sh-0pping.xyz^$all
 ||jhpost-shopping.7988889788.xyz^$all
@@ -26582,6 +26680,7 @@
 ||jivenation.pl^$all
 ||jiveytra.pl^$all
 ||jj81pq.web.app^$all
+||jj.newspp.top^$all
 ||jjeh16y.web.app^$all
 ||jjhempdispensary.net^$all
 ||jjhnbw.s3.us-east-005.backblazeb2.com^$all
@@ -27013,6 +27112,7 @@
 ||kaftakoy.win^$all
 ||kahlonbrothersgov.com^$all
 ||kai-peng.com^$all
+||kai.prosystemorgo.com^$all
 ||kaifodoing.shop^$all
 ||kaiis.plfcaty.xyz^$all
 ||kaingore.uno^$all
@@ -27095,6 +27195,7 @@
 ||kapielprzepraszac.site^$all
 ||kapimak-xyz.preview-domain.com^$all
 ||kapital-platform.space^$all
+||kapitializacja.online^$all
 ||kaplanstrategies.info^$all
 ||kapsol.ir^$all
 ||kaputpoprzedni.site^$all
@@ -27554,6 +27655,22 @@
 ||knowlz.org^$all
 ||knowyourplanet.net^$all
 ||knto23-actlzcja03.2303.pl^$all
+||knto752542-nflx.ntpsla.co.pl^$all
+||knto-198615-nfl.ntpsla.co.pl^$all
+||knto-271230-nfl.ntpsla.co.pl^$all
+||knto-311260-nfl.ntpsla.co.pl^$all
+||knto-333004-nfl.ntpsla.co.pl^$all
+||knto-384984-nfl.ntpsla.co.pl^$all
+||knto-412321-nfl.ntpsla.co.pl^$all
+||knto-485441-nfl.ntpsla.co.pl^$all
+||knto-493236-nfl.ntpsla.co.pl^$all
+||knto-504111-nfl.ntpsla.co.pl^$all
+||knto-584386-nfl.ntpsla.co.pl^$all
+||knto-812613-nfl.ntpsla.co.pl^$all
+||knto-857121-nfl.ntpsla.co.pl^$all
+||knto-918871-nfl.ntpsla.co.pl^$all
+||knto-983993-nfl.ntpsla.co.pl^$all
+||knto-993513-nfl.ntpsla.co.pl^$all
 ||knto-actlzcja.2303.pl^$all
 ||knto-nflx-231994.info03.pl^$all
 ||knto-nflx-279755.info03.pl^$all
@@ -27925,6 +28042,7 @@
 ||kucamulak.pl^$all
 ||kucharzmiekka.site^$all
 ||kuchnia-24.com.pl^$all
+||kuchniazprzyszlosci.pl^$all
 ||kudotalk.com^$all
 ||kuh3ae.webwave.dev^$all
 ||kuhn14.com.pl^$all
@@ -28126,6 +28244,7 @@
 ||lamsqpska.pl^$all
 ||lan.gokass.xyz^$all
 ||lan.immediates.site^$all
+||lan.rutradersxprod.com^$all
 ||lan.viztt.xyz^$all
 ||lanapag.tk^$all
 ||lancerrr.com^$all
@@ -28468,6 +28587,7 @@
 ||libau.xoneprog.site^$all
 ||libaw.laqwer.online^$all
 ||libb.ttt-jj.xyz^$all
+||libbary.newprif.site^$all
 ||liberalny983.rest^$all
 ||liberateyourwealth.com^$all
 ||liberbankceunta.com^$all
@@ -28779,6 +28899,7 @@
 ||lkwnw.pages.dev^$all
 ||ll-ewo.web.app^$all
 ||ll.loyalmp3.site^$all
+||ll.miliomp.xyz^$all
 ||ll.prowrld.top^$all
 ||ll.zlpolska.xyz^$all
 ||llbs0e.webwave.dev^$all
@@ -28941,6 +29062,7 @@
 ||lnpost.paykasa.top^$all
 ||lnpost.pl8.site^$all
 ||lnpost.popykko.xyz^$all
+||lnpost.ppsp1.space^$all
 ||lnpost.pratapgarh.online^$all
 ||lnpost.rety7.fun^$all
 ||lnpost.rojgarresult.online^$all
@@ -29845,6 +29967,7 @@
 ||marcetc1576-ollox.preliminary.sbs^$all
 ||marcetc13065-ollox.separate.sbs^$all
 ||marcetc23244-ollox.integration.sbs^$all
+||marcetc25536-ollox.halfway.sbs^$all
 ||marcetc37511-ollox.backwards.sbs^$all
 ||marcetplaceonline.pl^$all
 ||marcets23651-ollox.totraining.cfd^$all
@@ -30023,6 +30146,7 @@
 ||marktrektitan.webnode.cz^$all
 ||marlenesayyes.com^$all
 ||marlineslytically.xyz^$all
+||marmaradone.online^$all
 ||maroon-jagged-spirit.glitch.me^$all
 ||marpagipening.tarungdrajatsiokalama.com^$all
 ||marpgn.com^$all
@@ -30301,6 +30425,7 @@
 ||md3.lifepeoplexf.top^$all
 ||md-pro.maxi-bl0g.site^$all
 ||md.misnet.eu^$all
+||mdb2.mxttrade.top^$all
 ||mdelivery.olx-pl.link^$all
 ||mdelivery.olx-pl.services^$all
 ||mdg-consultants.com^$all
@@ -30309,6 +30434,8 @@
 ||mdlsadamfimmfiaof.bar^$all
 ||mdpd.id-9431.me^$all
 ||mdrmuxify.com^$all
+||mds1.mxttrade.top^$all
+||mds2.mxttrade.top^$all
 ||mds.redusketo.xyz^$all
 ||mdx500.com^$all
 ||mdziok.pl^$all
@@ -31592,6 +31719,7 @@
 ||motive-business.online^$all
 ||motys.pl^$all
 ||mountainhotel.it^$all
+||mountup.online^$all
 ||mourao.net^$all
 ||mous1npostcents.plowshop.top^$all
 ||moussing.info^$all
@@ -32352,6 +32480,7 @@
 ||neettv.pl^$all
 ||neew.plprogram-act.site^$all
 ||neew.proone1.top^$all
+||neews.newprif.site^$all
 ||nefder-online.preview-domain.com^$all
 ||neforts-xyz.preview-domain.com^$all
 ||neft-pl.web.app^$all
@@ -32513,6 +32642,7 @@
 ||neura-pl1.neurals.xyz^$all
 ||neuraxitis.live^$all
 ||neurkofs-com.preview-domain.com^$all
+||neuro1.neuro1.xyz^$all
 ||neuro2invest.online^$all
 ||neuro2sdfgzn.xyz^$all
 ||neuro2sdfhnl.xyz^$all
@@ -32985,6 +33115,7 @@
 ||nn2000.info^$all
 ||nn.gaznf.xyz^$all
 ||nnaupdatelogin-blmd57da-creative212.4everland.app^$all
+||nner.teraw.site^$all
 ||nnfmhj.s3.us-east-005.backblazeb2.com^$all
 ||nngoo.xyz^$all
 ||nnnakug32uu8.xyz^$all
@@ -33049,6 +33180,7 @@
 ||noldanasklep.pl^$all
 ||nolineindia.com^$all
 ||noltanasklep.pl^$all
+||nolz.kowt.site^$all
 ||nombmucyconcats.tk^$all
 ||nomotiroslandlitt.tk^$all
 ||non.tyrider.xyz^$all
@@ -33312,8 +33444,13 @@
 ||nsifqowf10iwhg.bar^$all
 ||nsybsbvp7.digital^$all
 ||nt28ng.webwave.dev^$all
+||nt-knto170928.ntpsla.co.pl^$all
+||nt-knto238427.ntpsla.co.pl^$all
+||nt-knto330194.ntpsla.co.pl^$all
 ||ntechdev.com^$all
 ||ntflixo.pl^$all
+||ntfo29a-181760.ntpsla.co.pl^$all
+||ntfo29a-695261.ntpsla.co.pl^$all
 ||ntfo29a-o929a.ntpsla.co.pl^$all
 ||ntfpagos.online^$all
 ||nthas.apprety.site^$all
@@ -33735,6 +33872,7 @@
 ||odwrocic.site^$all
 ||odz2.firecantrade.site^$all
 ||odz4.firecantrade.site^$all
+||odz5.firecantrade.site^$all
 ||odz6.firecantrade.site^$all
 ||odziez918.rest^$all
 ||odziezoboz.site^$all
@@ -33858,6 +33996,7 @@
 ||offpign.com^$all
 ||offside2.000webhostapp.com^$all
 ||ofhusu2pqv.digital^$all
+||ofi.bandaprogram.xyz^$all
 ||oficer521.rest^$all
 ||oficjalnastrona.cfd^$all
 ||oficjalneprojekty.com^$all
@@ -35163,6 +35302,7 @@
 ||olx.32021222.xyz^$all
 ||olx.32211555.xyz^$all
 ||olx.32700021.xyz^$all
+||olx.35032333.xyz^$all
 ||olx.35121548.xyz^$all
 ||olx.42322333.xyz^$all
 ||olx.45322333.xyz^$all
@@ -35173,6 +35313,7 @@
 ||olx.54545552.xyz^$all
 ||olx.56511222.xyz^$all
 ||olx.56566323.xyz^$all
+||olx.65032333.xyz^$all
 ||olx.66666596.xyz^$all
 ||olx.66998999.xyz^$all
 ||olx.70021220.xyz^$all
@@ -39283,6 +39424,7 @@
 ||playvalheim.com^$all
 ||playvod.pl^$all
 ||playwrigh.com^$all
+||plaz.programbndr.site^$all
 ||plaz.projsite.site^$all
 ||plbanksecurity.xyz^$all
 ||plbase-prog.pl4ainreaction.xyz^$all
@@ -39298,6 +39440,12 @@
 ||plco.newstrdinfo.xyz^$all
 ||plcryptokom.com^$all
 ||plcryptokomar.com^$all
+||pld1.firecantrade.site^$all
+||pld2.firecantrade.site^$all
+||pld3.firecantrade.site^$all
+||pld4.firecantrade.site^$all
+||pld6.firecantrade.site^$all
+||pld7.firecantrade.site^$all
 ||pld108.truehost.cloud^$all
 ||pldomainerenautodns.bitol.biz^$all
 ||ple.kloa13.site^$all
@@ -39348,9 +39496,11 @@
 ||plkqweq.pl^$all
 ||plkrzys.prottesl.xyz^$all
 ||pll1.canmaxiprog.site^$all
+||pll2.canmaxiprog.site^$all
 ||pll3.canmaxiprog.site^$all
 ||pll4.canmaxiprog.site^$all
 ||pll5.canmaxiprog.site^$all
+||pll6.canmaxiprog.site^$all
 ||pll7.canmaxiprog.site^$all
 ||pll8.canmaxiprog.site^$all
 ||pll9.canmaxiprog.site^$all
@@ -39366,6 +39516,7 @@
 ||pllots.online^$all
 ||pllp.gamerplanet.club^$all
 ||pllsizl.s3.us-west-004.backblazeb2.com^$all
+||plm1.canmaxiprog.site^$all
 ||plm.rigklutnw.site^$all
 ||plmabnk.online^$all
 ||plmagic.com^$all
@@ -39429,6 +39580,10 @@
 ||plson.space^$all
 ||plssowaccessweb.weebly.com^$all
 ||plstorcup.unlim-balticpipe.xyz^$all
+||plt10.canfxprog.site^$all
+||plt11.canfxprog.site^$all
+||plt12.canfxprog.site^$all
+||plt13.canfxprog.site^$all
 ||pltech-pgeinv.info^$all
 ||pltechppge-plwest.info^$all
 ||pltechppge-plwestpl.info^$all
@@ -39489,6 +39644,7 @@
 ||plvnigmapl.gloryft.com^$all
 ||plvz.com^$all
 ||plwestpge-tech1.info^$all
+||plwlpwp0.000webhostapp.com^$all
 ||plwlpwp.000webhostapp.com^$all
 ||plx14.canfxprog.site^$all
 ||plying.info^$all
@@ -40478,6 +40634,7 @@
 ||pomoc-organizuj.eu^$all
 ||pomoc.konto.online.45-125-66-64.cprapid.com^$all
 ||pomoc.sprawdzanie-zabezpieczen.space^$all
+||pomocdlaobywateli.online^$all
 ||pomomento-com.preview-domain.com^$all
 ||pomorskiewiadomosci.pl^$all
 ||pomozpolaku466.rest^$all
@@ -41417,6 +41574,7 @@
 ||proimoos.space^$all
 ||proinvest.space^$all
 ||proinvestplus.me^$all
+||proinvgaz.net^$all
 ||proj-mrk.free9k.site^$all
 ||proj-newpl.info^$all
 ||proj-pl.nataltip.xyz^$all
@@ -41884,6 +42042,7 @@
 ||qpzpn5.webwave.dev^$all
 ||qqhr2008.com^$all
 ||qqqqttt.weebly.com^$all
+||qqqunt.alvargarsalv.site^$all
 ||qqttfx.s3.us-east-005.backblazeb2.com^$all
 ||qqyuqmpx1.digital^$all
 ||qr.gaznf.xyz^$all
@@ -42019,6 +42178,7 @@
 ||qwer.antcris.xyz^$all
 ||qwert.likeprog.xyz^$all
 ||qwes.telichkakol.xyz^$all
+||qwfewefrwetewwerew.start-proff.site^$all
 ||qwgn-txt.icu^$all
 ||qxbroker.com^$all
 ||qyh-shrt.club^$all
@@ -42038,6 +42198,7 @@
 ||r.devils-bay.com^$all
 ||r.lontoozz.site^$all
 ||r.marcukesh.top^$all
+||r.zlpolska.xyz^$all
 ||ra9320310sal-d93291sa.mikeanna.co.pl^$all
 ||ra.ttchatpro.site^$all
 ||rabbitgoestoyou.com^$all
@@ -42977,6 +43138,7 @@
 ||rugola.life^$all
 ||rugz.gzpr-neft.xyz^$all
 ||ruicloslawncatabfi.ga^$all
+||ruissianinvst.ru^$all
 ||rulelying.com^$all
 ||ruliestsub.com^$all
 ||rulnolix.voorttitpanafi.tk^$all
@@ -43020,6 +43182,7 @@
 ||rymona.pl^$all
 ||rynek-online.pisz.pl^$all
 ||rynekbitcoin.pl^$all
+||rynekfiniansowy.online^$all
 ||rynemoo9.info^$all
 ||rypybeo.xyz^$all
 ||rysunekrozstrzygnac.site^$all
@@ -46676,6 +46839,7 @@
 ||tes.neggs.xyz^$all
 ||tes.pipproj.site^$all
 ||tes.polteromik.xyz^$all
+||tes.prlmaxiiisok.xyz^$all
 ||tes.trapc3.site^$all
 ||tes.trdnewstory.link^$all
 ||tes.witprogram.xyz^$all
@@ -46800,6 +46964,7 @@
 ||tesr.job-bfl.xyz^$all
 ||tesralis.click^$all
 ||tess.kosmm.xyz^$all
+||tess.prlmaxiiisok.xyz^$all
 ||tess.tslopleu.com^$all
 ||tessalane-online.com^$all
 ||tessds.com^$all
@@ -46813,6 +46978,7 @@
 ||test02century-env.4hfvsquzkh.us-east-1.elasticbeanstalk.com^$all
 ||test13jkliuh.xyz^$all
 ||test.joomla-service.biz^$all
+||test.prlmaxiiisok.xyz^$all
 ||testet420.aumaxi.site^$all
 ||testosinvest2022.com^$all
 ||testowandomena.xyz^$all
@@ -46885,6 +47051,7 @@
 ||thawdrown.com^$all
 ||thawrrati.tk^$all
 ||thay.abs.beauty^$all
+||thder.maxiza.site^$all
 ||the2022-invest.com^$all
 ||the-bitcoin-era-pro.com^$all
 ||the-bitcoin-profit.com^$all
@@ -47137,6 +47304,7 @@
 ||titaniumon.online^$all
 ||titistore.top^$all
 ||titl.titleinvest.site^$all
+||tj4hng.s3.us-east-005.backblazeb2.com^$all
 ||tjhawaiianjewelry.com^$all
 ||tjome.in.net^$all
 ||tk-llp.web.app^$all
@@ -47328,6 +47496,7 @@
 ||toppol.com.pl^$all
 ||toprzeznich.eu^$all
 ||topsecureeu.com^$all
+||topshareio.com^$all
 ||topshorka.info^$all
 ||toptarotist.nl^$all
 ||toptrade.group^$all
@@ -48964,7 +49133,9 @@
 ||velo-pros.store^$all
 ||velobank.at0.site^$all
 ||velobank.top^$all
+||velobankk.fun^$all
 ||velobankk.top^$all
+||velobannk.fun^$all
 ||velobannk.top^$all
 ||vemesok.site^$all
 ||ven.reviss.site^$all
@@ -52297,6 +52468,7 @@
 ||watah.planticrysa.xyz^$all
 ||watav.planticrysa.xyz^$all
 ||watch4-now83az.stream4netv.co.pl^$all
+||watch.chronischakut.de^$all
 ||watch.flixdaddy.site^$all
 ||watchablessingled.xyz^$all
 ||watchanime21.com^$all
@@ -54464,6 +54636,7 @@
 ||zbukko.webwave.dev^$all
 ||zbydgoszczy.xyz^$all
 ||zbyk.drl.pl^$all
+||zcfkoe.webwave.dev^$all
 ||zcsamk.pl^$all
 ||zctk91.webwave.dev^$all
 ||zd7gux.webwave.dev^$all
@@ -54776,6 +54949,7 @@
 ||zoho-online.web.app^$all
 ||zoidiophilous.life^$all
 ||zojakucinski.pl^$all
+||zoklauwh.online^$all
 ||zolansklep.pl^$all
 ||zoligon-invest.pro^$all
 ||zolinton-invest.pro^$all
@@ -54802,6 +54976,7 @@
 ||zopehsiw.com^$all
 ||zorobabels.info^$all
 ||zosfekow.space^$all
+||zostbi.webwave.dev^$all
 ||zounhovsk.com^$all
 ||zov.redusestenes.xyz^$all
 ||zovemedia.buzz^$all
@@ -54829,6 +55004,7 @@
 ||zsiblog.technopium.com^$all
 ||zsl.sportbetsignupcode.com^$all
 ||zsmpk.com^$all
+||zt2xdf.s3.us-east-005.backblazeb2.com^$all
 ||ztydihfhvuomo3iw522y4oaga2no6bnt4vn3k5bssq-ipfs-nftstorage-link.translate.goog^$all
 ||zub.gimms.xyz^$all
 ||zuceisseru.com^$all
