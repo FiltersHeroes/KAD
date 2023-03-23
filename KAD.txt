@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 22 Mar 2023, 21:17 UTC+01:00
-! Version: 2023.3.22.3
+! Last modified: Thu, 23 Mar 2023, 09:21 UTC+01:00
+! Version: 2023.3.23.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3825,6 +3825,7 @@
 ||5rambiental.com.br^$all
 ||5snedir.com^$all
 ||5szc3.structuresilly.co.in^$all
+||5twv5.structuresilly.co.in^$all
 ||5tysiecy.pl^$all
 ||5v1nted34-site.774329.xyz^$all
 ||5x5j12lj09.grafkompania.pl^$all
@@ -5271,6 +5272,7 @@
 ||ai.avetrade-main.cyou^$all
 ||ai.infocos.xyz^$all
 ||aiaigame.top^$all
+||aianalog.ru^$all
 ||aichi-work.space^$all
 ||aigachu.com^$all
 ||aigretletch.pl^$all
@@ -5389,6 +5391,8 @@
 ||aktualizacja-162120-allgr.info03.pl^$all
 ||aktualizacja-220674-moje.info03.pl^$all
 ||aktualizacja-226512-relacja.info03.pl^$all
+||aktualizacja-230604-konto.knto-app.co.pl^$all
+||aktualizacja-248604-dane.all-mail.co.pl^$all
 ||aktualizacja-374085-factury.info03.pl^$all
 ||aktualizacja-381409-wzglad.info03.pl^$all
 ||aktualizacja-400022-moje.info03.pl^$all
@@ -5398,16 +5402,22 @@
 ||aktualizacja-531857-konto.info03.pl^$all
 ||aktualizacja-539737-moje.info03.pl^$all
 ||aktualizacja-557069-moje.info03.pl^$all
+||aktualizacja-569495-moje.knto-app.co.pl^$all
 ||aktualizacja-588113-wzglad.info03.pl^$all
 ||aktualizacja-600160-relacja.info03.pl^$all
+||aktualizacja-630580-istotny.knto-app.co.pl^$all
 ||aktualizacja-632793-sprawa.info03.pl^$all
+||aktualizacja-675205-konto.knto-app.co.pl^$all
+||aktualizacja-720064-faktury.knto-app.co.pl^$all
 ||aktualizacja-720589-faktury.mail-pl.co.pl^$all
 ||aktualizacja-755637-wzglad.info03.pl^$all
 ||aktualizacja-784046-konto.info03.pl^$all
+||aktualizacja-792696-wazna.knto-app.co.pl^$all
 ||aktualizacja-798772-moje.info03.pl^$all
 ||aktualizacja-842395-faktury.mail-all.co.pl^$all
 ||aktualizacja-947092-relacja.info03.pl^$all
 ||aktualizacja-949221-allgr.info03.pl^$all
+||aktualizacja-991587-faktury.knto-app.co.pl^$all
 ||aktualizacja-cyberatak-ug.weebly.com^$all
 ||aktualizacja-kont.weebly.com^$all
 ||aktualizacja-plat.kontontf.live^$all
@@ -6338,6 +6348,7 @@
 ||anarchyforsale.com^$all
 ||anasan.tk^$all
 ||anastazja.net.pl^$all
+||anatol.ariuszfilutowski.pl^$all
 ||anatoldec.pl^$all
 ||anattobusinessperson.com^$all
 ||anawlaw.pl^$all
@@ -6497,6 +6508,7 @@
 ||antkurier.com^$all
 ||antlion.pl^$all
 ||antonhoncharuk.com^$all
+||antoni.arkadiusz.net.pl^$all
 ||antonizofia.com.pl^$all
 ||antonresidential.com^$all
 ||antorcedno.com^$all
@@ -6746,6 +6758,7 @@
 ||arietid.space^$all
 ||aristodriv.pl^$all
 ||ariumdevelopment.com^$all
+||ariuszfilutowski.pl^$all
 ||arizonaacquisitions.com^$all
 ||arkadiusz.com.pl^$all
 ||arkadyevna.com^$all
@@ -9991,6 +10004,7 @@
 ||catalpaswaxworks.info^$all
 ||catarrhallycrepitate.com^$all
 ||catbyte.net^$all
+||catchoflifetime.com^$all
 ||catholicboutique.com^$all
 ||catsplit.net.pl^$all
 ||catsplit.pl^$all
@@ -13425,10 +13439,17 @@
 ||dance-studio-today.tk^$all
 ||dancep.pl^$all
 ||dandi11.pl^$all
+||dane-124630-moje.knto-app.co.pl^$all
+||dane-193440-twoje.knto-app.co.pl^$all
 ||dane-406477-twoje.mail-all.co.pl^$all
+||dane-475695-rachunki.knto-app.co.pl^$all
+||dane-484888-aktualizacja.knto-app.co.pl^$all
 ||dane-592783-faktury.mail-all.co.pl^$all
 ||dane-623980-dane.mail-all.co.pl^$all
+||dane-775479-wazna.knto-app.co.pl^$all
 ||dane-864899-faktury.mail-all.co.pl^$all
+||dane-884439-aktualizacja.knto-app.co.pl^$all
+||dane-966085-aktualizacja.knto-app.co.pl^$all
 ||dane-966501-dane.mail-all.co.pl^$all
 ||dangeh.pl^$all
 ||danialrazali.com^$all
@@ -17561,7 +17582,9 @@
 ||faktury-262081-konto.alikot.co.pl^$all
 ||faktury-542460-dane.all-mail.co.pl^$all
 ||faktury-731784-twoje.all-mail.co.pl^$all
+||faktury-811937-dane.knto-app.co.pl^$all
 ||faktury-825139-moje.mail-all.co.pl^$all
+||faktury-892935-istotny.knto-app.co.pl^$all
 ||faktury-947141-moje.knto-app.co.pl^$all
 ||faktury-runner.duckdns.org^$all
 ||fakty24-informacje.pl^$all
@@ -18374,6 +18397,7 @@
 ||flamsu.com^$all
 ||flarebac.pl^$all
 ||flashdims.uno^$all
+||flashfanatiker.de^$all
 ||flashplayer-info.top^$all
 ||flashplayerpl.top^$all
 ||flasmovie.shop^$all
@@ -18755,6 +18779,7 @@
 ||frameproblem.com^$all
 ||frametoframe.org^$all
 ||fran.fostt.xyz^$all
+||franciszek.jbokun.pl^$all
 ||franciszek.tzawadzk.pl^$all
 ||franciszekmaja.waw.pl^$all
 ||francizekn.com^$all
@@ -21520,6 +21545,7 @@
 ||iddice.com^$all
 ||idea-basing.com^$all
 ||idea-logowanie.at^$all
+||idea-on.de^$all
 ||ideabank-logowanie.net^$all
 ||ideabank.credit^$all
 ||ideaenvied.com^$all
@@ -22358,6 +22384,7 @@
 ||infofito.com^$all
 ||infoforum.top^$all
 ||infogoods45.xyz^$all
+||infogwiazdy24-miastopoznan.pl^$all
 ||infoherold.online^$all
 ||infoiaonline.site^$all
 ||infoih-post7.3216761.xyz^$all
@@ -22522,11 +22549,20 @@
 ||informacje-24.you2.pl^$all
 ||informacje-25.azureedge.net^$all
 ||informacje-2323.pl^$all
+||informacje-130300-faktury.knto-app.co.pl^$all
+||informacje-154287-wazna.knto-app.co.pl^$all
+||informacje-205771-istotny.power-soft.pl^$all
 ||informacje-273824-informacje.mail-all.co.pl^$all
+||informacje-310144-informacje.knto-app.co.pl^$all
 ||informacje-416724-faktury.mail-all.co.pl^$all
+||informacje-440314-moje.knto-app.co.pl^$all
+||informacje-453113-wazna.knto-app.co.pl^$all
+||informacje-491511-konto.knto-app.co.pl^$all
 ||informacje-546125-dane.mail-pl.co.pl^$all
 ||informacje-656051-faktury.mail-pl.co.pl^$all
 ||informacje-687344-twoje.mail-all.co.pl^$all
+||informacje-698647-wazna.knto-app.co.pl^$all
+||informacje-816044-twoje.knto-app.co.pl^$all
 ||informacje-957850-twoje.all-mail.co.pl^$all
 ||informacje-44979022681.azureedge.net^$all
 ||informacje-47517183909.azureedge.net^$all
@@ -23877,6 +23913,7 @@
 ||inpost-pl.ezdeliveries.eu^$all
 ||inpost-pl.fast-deliv-728282.xyz^$all
 ||inpost-pl.forfard-reset-372892.xyz^$all
+||inpost-pl.fuag.shop^$all
 ||inpost-pl.gamb-seton-36377.xyz^$all
 ||inpost-pl.gembling-deser-638276.xyz^$all
 ||inpost-pl.goodspurchase.pw^$all
@@ -26574,8 +26611,12 @@
 ||isspp.weebly.com^$all
 ||ist.titulinvest.site^$all
 ||isthisabug.com^$all
+||istotny-127165-konto.power-soft.pl^$all
 ||istotny-154676-konto.mail-pl.co.pl^$all
 ||istotny-195015-informacje.mail-pl.co.pl^$all
+||istotny-544747-aktualizacja.knto-app.co.pl^$all
+||istotny-711203-twoje.knto-app.co.pl^$all
+||istotny-895843-faktury.knto-app.co.pl^$all
 ||istotny-926383-konto.alikot.co.pl^$all
 ||istp27.jp^$all
 ||istrade.cc^$all
@@ -26793,6 +26834,7 @@
 ||jannatkhah.ir^$all
 ||janskowe.online^$all
 ||janta4.pl^$all
+||janusz.kaschka.pl^$all
 ||janwqpspa.pl^$all
 ||janzuzanna.info.pl^$all
 ||jaosew.pl^$all
@@ -26847,6 +26889,7 @@
 ||jbiden.poliakosta.online^$all
 ||jbjdhba.s3.us-east-005.backblazeb2.com^$all
 ||jbkjhk.s3.us-east-005.backblazeb2.com^$all
+||jbokun.pl^$all
 ||jbvng.hottybabe.net^$all
 ||jcketa.com^$all
 ||jclub1688.com^$all
@@ -27520,6 +27563,7 @@
 ||karma.ashleyshaw.ca^$all
 ||karnatakabeat.com^$all
 ||karnavalcicek.com^$all
+||karol.kaschka.pl^$all
 ||karolaz.pl^$all
 ||karolina-moza.pl^$all
 ||karolina-mozas.pl^$all
@@ -27538,6 +27582,7 @@
 ||kas-gov.web.app^$all
 ||kasa-sms.pl^$all
 ||kasarito.com^$all
+||kaschka.pl^$all
 ||kasde.neohus.xyz^$all
 ||kashtrack.com^$all
 ||kasi.plrogeu.site^$all
@@ -28020,6 +28065,7 @@
 ||kol.pro1program.site^$all
 ||kolagameh.com^$all
 ||kolas.crystalsvibes.com^$all
+||kolatek3.pl^$all
 ||kolbka.redsistem.site^$all
 ||kold.programbndr.site^$all
 ||kolekcjoner-zwyciezcow.eu^$all
@@ -28138,6 +28184,7 @@
 ||konto-357619-sprawa.info03.pl^$all
 ||konto-366122-sprawa.info03.pl^$all
 ||konto-371371-aktualizacja.info03.pl^$all
+||konto-375049-informacje.knto-app.co.pl^$all
 ||konto-375459-istotny.knto-app.co.pl^$all
 ||konto-400160-pomoc.pl-knto.co.pl^$all
 ||konto-439313-rachunki.info03.pl^$all
@@ -28145,9 +28192,13 @@
 ||konto-506916-twoje.info03.pl^$all
 ||konto-532162-relacja.info03.pl^$all
 ||konto-541931-sprawa.info03.pl^$all
+||konto-566606-wazna.knto-app.co.pl^$all
 ||konto-643444-aktualizacja.info03.pl^$all
+||konto-721138-aktualizacja.knto-app.co.pl^$all
 ||konto-754012-moje.info03.pl^$all
+||konto-755429-konto.knto-app.co.pl^$all
 ||konto-806033-wzglad.info03.pl^$all
+||konto-848733-rachunki.knto-app.co.pl^$all
 ||konto-913065-sprawa.info03.pl^$all
 ||konto-953488-aktualizacja.info03.pl^$all
 ||konto-958361-factury.alkontp.co.pl^$all
@@ -28271,6 +28322,7 @@
 ||kr-teslacoin-pl-8e7751.firebaseapp.com^$all
 ||kr-teslacoin-pl-85bc73.firebaseapp.com^$all
 ||kr-teslacoin-pl-af06d2.firebaseapp.com^$all
+||kr-teslacoin-pl-eca5b.web.app^$all
 ||kr-teslacoin-pl.firebaseapp.com^$all
 ||krabsinmok.com^$all
 ||kradenasklep.pl^$all
@@ -28438,6 +28490,7 @@
 ||kvetched.xyz^$all
 ||kviku.com^$all
 ||kvj6xr.webwave.dev^$all
+||kvqr0l.webwave.dev^$all
 ||kvs08a.webwave.dev^$all
 ||kvurvintesd.roidrothidchipark.tk^$all
 ||kvxf.lareg.site^$all
@@ -28478,6 +28531,7 @@
 ||l1qo.com^$all
 ||l2mood.com^$all
 ||l2royalties.com^$all
+||l3n3jl.webwave.dev^$all
 ||l4vazh.webwave.dev^$all
 ||l7bt0i.webwave.dev^$all
 ||l328.info^$all
@@ -31476,6 +31530,7 @@
 ||miraxonia.com^$all
 ||mireckakubas.pl^$all
 ||mirkpol.pl^$all
+||mirmining.top^$all
 ||mirohost.online^$all
 ||mirohost.site^$all
 ||miroslawklos.pl^$all
@@ -31827,11 +31882,15 @@
 ||mojapaczka-oix.orderyqrsas.click^$all
 ||mojapaczka-oix.orderzuztqr.click^$all
 ||mojblg.invst5.site^$all
+||moje-118668-konto.knto-app.co.pl^$all
 ||moje-161312-aktualizacja.info03.pl^$all
 ||moje-169519-rachunki.info03.pl^$all
+||moje-175349-rachunki.knto-app.co.pl^$all
 ||moje-206031-raport.info03.pl^$all
 ||moje-265901-relacja.info03.pl^$all
 ||moje-279639-moje.pl-algro.co.pl^$all
+||moje-317953-moje.knto-app.co.pl^$all
+||moje-320411-informacje.knto-app.co.pl^$all
 ||moje-321439-raport.info03.pl^$all
 ||moje-328846-raport.info03.pl^$all
 ||moje-375347-wzglad.info03.pl^$all
@@ -31840,17 +31899,23 @@
 ||moje-467476-twoje.info03.pl^$all
 ||moje-476362-konto.ploskon.co.pl^$all
 ||moje-544214-factury.info03.pl^$all
+||moje-581804-istotny.knto-app.co.pl^$all
 ||moje-599345-sprawa.info03.pl^$all
 ||moje-621127-aktualizacja.mail-all.co.pl^$all
 ||moje-624601-sprawa.info03.pl^$all
+||moje-645624-moje.knto-app.co.pl^$all
 ||moje-689007-twoje.info03.pl^$all
 ||moje-693480-rachunki.info03.pl^$all
+||moje-701630-rachunki.knto-app.co.pl^$all
+||moje-704303-twoje.knto-app.co.pl^$all
 ||moje-765864-raport.info03.pl^$all
 ||moje-771004-factury.insntfxcpl.co.pl^$all
 ||moje-783344-sprawa.info03.pl^$all
 ||moje-875470-moje.ntpsla.co.pl^$all
+||moje-879142-twoje.knto-app.co.pl^$all
 ||moje-942378-faktury.all-mail.co.pl^$all
 ||moje-945332-konto.info03.pl^$all
+||moje-949604-wazna.knto-app.co.pl^$all
 ||moje-987552-raport.info03.pl^$all
 ||moje-992364-wzglad.info03.pl^$all
 ||moje-994979-factury.info03.pl^$all
@@ -37405,6 +37470,7 @@
 ||oolx.08776854.xyz^$all
 ||oolx.9599993.xyz^$all
 ||oolx.15632333.xyz^$all
+||oolx.25632333.xyz^$all
 ||oolx.26666553.xyz^$all
 ||oolx.35232612.xyz^$all
 ||oolx.56666553.xyz^$all
@@ -42696,19 +42762,29 @@
 ||rachunki-271448-sprawa.info03.pl^$all
 ||rachunki-313772-sprawa.info03.pl^$all
 ||rachunki-335153-wazna.all-mail.co.pl^$all
+||rachunki-347275-konto.knto-app.co.pl^$all
+||rachunki-363641-konto.knto-app.co.pl^$all
 ||rachunki-384806-wazna.mail-all.co.pl^$all
+||rachunki-425234-twoje.knto-app.co.pl^$all
+||rachunki-449349-twoje.knto-app.co.pl^$all
 ||rachunki-451965-rachunki.info03.pl^$all
 ||rachunki-470008-relacja.info03.pl^$all
 ||rachunki-518796-informacje.all-mail.co.pl^$all
+||rachunki-519762-informacje.knto-app.co.pl^$all
 ||rachunki-537999-sprawa.info03.pl^$all
 ||rachunki-540337-sprawa.info03.pl^$all
 ||rachunki-555583-sprawa.info03.pl^$all
 ||rachunki-587569-konto.info03.pl^$all
 ||rachunki-591371-allgr.info03.pl^$all
+||rachunki-612321-informacje.knto-app.co.pl^$all
+||rachunki-615230-istotny.knto-app.co.pl^$all
 ||rachunki-617163-dane.all-mail.co.pl^$all
+||rachunki-639452-informacje.knto-app.co.pl^$all
 ||rachunki-655374-wazna.all-mail.co.pl^$all
+||rachunki-685052-twoje.knto-app.co.pl^$all
 ||rachunki-700353-rachunki.info03.pl^$all
 ||rachunki-734976-aktualizacja.pl-algro.co.pl^$all
+||rachunki-737386-dane.knto-app.co.pl^$all
 ||rachunki-769911-sprawa.info03.pl^$all
 ||rachunki-853508-aktualizacja.mail-all.co.pl^$all
 ||raclaw.transportwojtowicz.pl^$all
@@ -43554,6 +43630,8 @@
 ||romask.pl^$all
 ||rombakpagimas.tarungdrajatsiokalama.com^$all
 ||romeocispl.com^$all
+||romuald.jbokun.pl^$all
+||romuald.maciekmazur.pl^$all
 ||romuskat.pl^$all
 ||ron-mil.space^$all
 ||ronaruts.ml^$all
@@ -44996,6 +45074,7 @@
 ||shought.space^$all
 ||shoutsecular.com^$all
 ||shovelling.pl^$all
+||showbizeurope.com^$all
 ||showdownqu.pl^$all
 ||showmeflix.com^$all
 ||shownflx-185221.info03.pl^$all
@@ -45305,6 +45384,7 @@
 ||slavgrace.com^$all
 ||slavnis.link^$all
 ||slaweklor.pl^$all
+||slawoj.zagrycha.com.pl^$all
 ||slawomird.pl^$all
 ||slaxlfgjyo.digital^$all
 ||sleaver-com.preview-domain.com^$all
@@ -45478,6 +45558,7 @@
 ||soaungo.host^$all
 ||sob.dowss.site^$all
 ||sob.kosmm.xyz^$all
+||sobieslaw.arkadiusz.net.pl^$all
 ||sobieslaw.zabamaciek.pl^$all
 ||sobotnie-newsy.waw.pl^$all
 ||sobshamefu.pl^$all
@@ -45830,6 +45911,7 @@
 ||spurtcaden.pl^$all
 ||spurtretyp.pl^$all
 ||spvoting.com^$all
+||spycimir.klarska.pl^$all
 ||spymovies.org^$all
 ||spytek.bartoszjurowicz.pl^$all
 ||sq72mt.webwave.dev^$all
@@ -46477,6 +46559,7 @@
 ||sub.gooradolfolderu.click^$all
 ||sub.lontoozz.site^$all
 ||subangulation.com^$all
+||subbureaux.com^$all
 ||subcaudate.xyz^$all
 ||subcommi.xyz^$all
 ||subcompleteness.info^$all
@@ -46680,6 +46763,7 @@
 ||sv-forum.com^$all
 ||svaherafo.space^$all
 ||svanefalk.se^$all
+||svarog.riesenberg.pl^$all
 ||sveryintoffrers.net^$all
 ||svetpribu27.za.com^$all
 ||svezinvest.pics^$all
@@ -46994,6 +47078,7 @@
 ||taconthypsisfmowolf.ga^$all
 ||tacticalguy.com.pl^$all
 ||tacticaltrainingdatabase.com^$all
+||tactuautmw.online^$all
 ||tadalafilprice.online^$all
 ||tadbut.pl^$all
 ||tadeuszsara.pl^$all
@@ -48843,6 +48928,7 @@
 ||twoje-172972-konto.ploskon.co.pl^$all
 ||twoje-235976.0316.pl^$all
 ||twoje-279820-factury.info03.pl^$all
+||twoje-296618-informacje.knto-app.co.pl^$all
 ||twoje-297617-rachunki.info03.pl^$all
 ||twoje-297774-aktualizacja.info03.pl^$all
 ||twoje-328663-sprawa.info03.pl^$all
@@ -48861,11 +48947,15 @@
 ||twoje-748325-allgr.info03.pl^$all
 ||twoje-755077.acckontnft.co.pl^$all
 ||twoje-786861-factury.info03.pl^$all
+||twoje-805210-aktualizacja.knto-app.co.pl^$all
+||twoje-807182-dane.knto-app.co.pl^$all
 ||twoje-821146-raport.info03.pl^$all
 ||twoje-824903-relacja.info03.pl^$all
 ||twoje-895864-raport.ntpsla.co.pl^$all
 ||twoje-895891-konto.info03.pl^$all
+||twoje-915562-aktualizacja.knto-app.co.pl^$all
 ||twoje-943431-konto.info03.pl^$all
+||twoje-945310-aktualizacja.knto-app.co.pl^$all
 ||twoje-996832-twoje.info03.pl^$all
 ||twoje-fb-logowanie7.dnsrobotuptime.ru^$all
 ||twoje-fb-logowanie8.dnsrobotuptime.ru^$all
@@ -53163,6 +53253,14 @@
 ||waytoluck.tslx.pics^$all
 ||waywelth.com^$all
 ||wazirx.sbs^$all
+||wazna-394919-aktualizacja.knto-app.co.pl^$all
+||wazna-403420-dane.knto-app.co.pl^$all
+||wazna-439549-rachunki.knto-app.co.pl^$all
+||wazna-447024-aktualizacja.knto-app.co.pl^$all
+||wazna-473567-faktury.knto-app.co.pl^$all
+||wazna-515287-rachunki.knto-app.co.pl^$all
+||wazna-546056-twoje.knto-app.co.pl^$all
+||wazna-832950-konto.knto-app.co.pl^$all
 ||wazna-979525-konto.knto-app.co.pl^$all
 ||wazna-980263-wazna.knto-app.co.pl^$all
 ||wazna-wiadomosc.eu^$all
@@ -53344,6 +53442,7 @@
 ||weekend-news.waw.pl^$all
 ||weekendowe-info.waw.pl^$all
 ||weekendowe-newsy.waw.pl^$all
+||weekengvap.online^$all
 ||weeklyobserver.me^$all
 ||weeppudding.cn^$all
 ||weest.info^$all
@@ -55157,6 +55256,7 @@
 ||zaglosuje-teraz.eu^$all
 ||zaglosujemy-teraz.eu^$all
 ||zagool.loan^$all
+||zagrycha.com.pl^$all
 ||zagubione-dzieci24h.eu^$all
 ||zagubione-dzieci.com^$all
 ||zagubionedzieci.com^$all
@@ -55434,6 +55534,7 @@
 ||zenekai.pl^$all
 ||zengoye.site^$all
 ||zennexus.online^$all
+||zenon.zagrycha.com.pl^$all
 ||zenonmorasalex.pl^$all
 ||zens.pl^$all
 ||zeo.widomkoster.xyz^$all
