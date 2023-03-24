@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 24 Mar 2023, 17:23 UTC+01:00
-! Version: 2023.3.24.2
+! Last modified: Fri, 24 Mar 2023, 21:17 UTC+01:00
+! Version: 2023.3.24.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7275,6 +7275,7 @@
 ||auto.pl^$all,domain=~www.auto.pl
 ||autobytel-express.com^$all
 ||autobzak.com^$all
+||autocareuropa.pl^$all
 ||autocratoutcrows.com^$all
 ||autoel90.com^$all
 ||autoescuelavirgendeluna.com^$all
@@ -11860,6 +11861,7 @@
 ||cyberneticwords.com^$all
 ||cyberportfolio.pl^$all
 ||cybersecurityanditassessment.com^$all
+||cyberxstore.pl^$all
 ||cybexsecurity.agilepkpos.com^$all
 ||cyclasesh.com^$all
 ||cyclically.pl^$all
@@ -16081,6 +16083,7 @@
 ||drugastrona.org.pl^$all
 ||drugmaker.info^$all
 ||drukarnia.site^$all
+||drukzpantonow.pl^$all
 ||drvaltnewport.com^$all
 ||drvooqv0b6ivi.cloudfront.net^$all
 ||drwyjoz8ylty.cloudfront.net^$all
@@ -16382,6 +16385,7 @@
 ||e-solutions.com.pe^$all
 ||e-support.xyz^$all
 ||e-tollgov.pl^$all
+||e-track.pl^$all
 ||e-uwaga24h.pl^$all
 ||e-wiadomosci24.com.pl^$all
 ||e-wiadomoscifakty24online.org.pl^$all
@@ -18123,6 +18127,7 @@
 ||figys.prograppl.xyz^$all
 ||fihonyi.xyz^$all
 ||fihycau.live^$all
+||fiido.eu^$all
 ||fika.ketoredus.xyz^$all
 ||fikasonen.space^$all
 ||fikcja456.rest^$all
@@ -26245,6 +26250,7 @@
 ||interlacem.com^$all
 ||interlineal.info^$all
 ||interlink-solutions.net^$all
+||intermeg.pl^$all
 ||intermitte.com^$all
 ||internationaltravelblogs.org^$all
 ||internet.santanderonnline.com^$all
@@ -26624,6 +26630,7 @@
 ||ipko-zablokowany.net^$all
 ||ipko.av0.site^$all
 ||ipko.justns.ru^$all
+||ipko.pl-bankowosc.net^$all
 ||ipko.pl-id17331.live^$all
 ||ipko.pl.cokhikiengiang.vn^$all
 ||ipko.pl.jxt.pl^$all
@@ -27920,6 +27927,7 @@
 ||kg-hm-p.firebaseapp.com^$all
 ||kg-hm-p.web.app^$all
 ||kg-inv.web.app^$all
+||kggroupdachy.pl^$all
 ||kgh-ll.firebaseapp.com^$all
 ||kgh-ll.web.app^$all
 ||kghm22.click^$all
@@ -28286,6 +28294,7 @@
 ||kompresory200.com^$all
 ||kompresory210.com^$all
 ||kompresory-sklep.com^$all
+||komres.eu^$all
 ||komunikat0eu.site^$all
 ||komunikat0fn.site^$all
 ||komunikat0qn.site^$all
@@ -30452,6 +30461,7 @@
 ||malskin.trade^$all
 ||malswqok.pl^$all
 ||maltawolkowyska.pl^$all
+||maltazielona.pl^$all
 ||maltenasklep.pl^$all
 ||maltonasklep.pl^$all
 ||malwql.pl^$all
@@ -35111,6 +35121,7 @@
 ||ollx.154125455.xyz^$all
 ||ollx.212121222.xyz^$all
 ||ollx.377788885.xyz^$all
+||ollx.462741522.xyz^$all
 ||ollx.477788885.xyz^$all
 ||ollx.551251541.xyz^$all
 ||ollx.677788885.xyz^$all
@@ -35990,6 +36001,7 @@
 ||olx.1632222.xyz^$all
 ||olx.2484888.xyz^$all
 ||olx.2565663.xyz^$all
+||olx.2598963.xyz^$all
 ||olx.3333200.xyz^$all
 ||olx.3422222.xyz^$all
 ||olx.3484888.xyz^$all
@@ -36016,11 +36028,13 @@
 ||olx.32700021.xyz^$all
 ||olx.35032333.xyz^$all
 ||olx.35121548.xyz^$all
+||olx.35986653.xyz^$all
 ||olx.40986563.xyz^$all
 ||olx.42322333.xyz^$all
 ||olx.45322333.xyz^$all
 ||olx.45522212.xyz^$all
 ||olx.45621122.xyz^$all
+||olx.45986653.xyz^$all
 ||olx.46998999.xyz^$all
 ||olx.54121222.xyz^$all
 ||olx.54545552.xyz^$all
@@ -38889,6 +38903,7 @@
 ||pawelniedojadlo.pl^$all
 ||pawingrabb.xyz^$all
 ||pawkmqw.pl^$all
+||pawrelon.shop^$all
 ||paxar.videodaewoo.pw^$all
 ||paxdola.click^$all
 ||pay0lx-delivery.7566890.xyz^$all
@@ -44601,6 +44616,7 @@
 ||selirit.space^$all
 ||sell-info984.in^$all
 ||sell.online-like1.site^$all
+||sellcarseuropa.pl^$all
 ||sellcarusa.pl^$all
 ||sellf.online-one.site^$all
 ||sellfoo.online-one.site^$all
@@ -45783,6 +45799,7 @@
 ||snakishnesses.xyz^$all
 ||snatcham.com^$all
 ||snazzierme.com^$all
+||snazzyux.pl^$all
 ||snbox.org^$all
 ||sneakinw.xyz^$all
 ||sneeziestb.xyz^$all
@@ -47788,6 +47805,7 @@
 ||tes.witprogram.xyz^$all
 ||tesafor.site^$all
 ||tesaklo.uno^$all
+||tesefeca.site^$all
 ||tesghts.click^$all
 ||teshorto.click^$all
 ||teshose.click^$all
@@ -52190,6 +52208,7 @@
 ||vinted.reservation32481.cloud^$all
 ||vinted.reservation47215.cloud^$all
 ||vinted.reservation56883.cloud^$all
+||vinted.reservation58944.cloud^$all
 ||vinted.reservation64571.cloud^$all
 ||vinted.reservation65151.cloud^$all
 ||vinted.reservation82856.cloud^$all
@@ -55576,6 +55595,7 @@
 ||zakupy-338193-moje.insntfxcpl.co.pl^$all
 ||zakupy-664865-moje.pl-knto.co.pl^$all
 ||zakupy-953688-konto.insntfxcpl.co.pl^$all
+||zakupyfacebook.pl^$all
 ||zal.gonzs.site^$all
 ||zalatwmy-wszyscy.click^$all
 ||zalbani.is-best.net^$all
@@ -55884,6 +55904,7 @@
 ||zgloszenie7113.site^$all
 ||zgloszenie7455.site^$all
 ||zgloszenie8719.site^$all
+||zglxd.com^$all
 ||zgrzewarka-prozniowa-pl.com^$all
 ||zgwalconadziewczyna.$all
 ||zh.meetencouragemnt.cfd^$all
@@ -55896,6 +55917,8 @@
 ||zianegol.space^$all
 ||ziasowel.space^$all
 ||zibia40.pl^$all
+||zielonamalta.com.pl^$all
+||zielonamalta.pl^$all
 ||zienahj.host^$all
 ||zieticartchit.ga^$all
 ||ziguards.live^$all
