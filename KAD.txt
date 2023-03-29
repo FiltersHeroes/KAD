@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 30 Mar 2023, 00:06 UTC+02:00
-! Version: 2023.3.30.0
+! Last modified: Thu, 30 Mar 2023, 00:43 UTC+02:00
+! Version: 2023.3.30.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -12065,7 +12065,7 @@
 ||czw-biznes-wiadomosci.tokoapril.com^$all
 ||czwartek-biznes-fakty.tokoapril.com^$all
 ||czwartek-biznes-wiadomosci.tokoapril.com^$all
-||czyjtonumer.net^$all
+||czyjtonumer.net^$doc,domain=~uwazaj-na-pakiet-premium.*
 ||czystypowiat.pl^$all
 ||czytaj-info.newuptimedns.ru^$all
 ||czytaj-wp.tokoapril.com^$all
