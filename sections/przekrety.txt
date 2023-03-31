@@ -21,11 +21,6 @@
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
 /click.php?key=*&cost=$doc
-||rivobanc.com^$all
-||akcapitalone.com^$all
-||kraj-m.com^$all
-||handlowanie.org^$all
-||arielsystem.pro^$all
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
 /pl/bos-bank/?pay|$doc,frame,domain=~pl
 /pl/citibank/?pay&b=$doc,frame,domain=~pl
@@ -145,6 +140,7 @@
 ||0llx.44441124.xyz^$all
 ||0llx.54375356.xyz^$all
 ||0llx.57357377.xyz^$all
+||0llx.84342356.xyz^$all
 ||0lx24goods.43549875.xyz^$all
 ||0lx43.32021545.xyz^$all
 ||0lx43store.54323521.xyz^$all
@@ -472,6 +468,7 @@
 ||1k-daily-profitz.com^$all
 ||1login-wp.pl^$all
 ||1m-pro1.online-like1.site^$all
+||1mari1.inprog.top^$all
 ||1mark-et-info4.xyz^$all
 ||1market.com^$all
 ||1mast.program-pl1.site^$all
@@ -1672,6 +1669,7 @@
 ||a11egrolokalni-store.3562695.xyz^$all
 ||a11egrolokalnie-shop.7311219.xyz^$all
 ||a11egrolokalnie-shop.54451221.xyz^$all
+||a11egrolokalnie.65756540.xyz^$all
 ||a11egrolokalnie.2206215111.xyz^$all
 ||a11egrolokalnie.dispatch-goodspay.xyz^$all
 ||a11egrolokalnie.jnfodelivery-45481.xyz^$all
@@ -1724,6 +1722,7 @@
 ||aas.frankprogpr.site^$all
 ||aasbpb.webwave.dev^$all
 ||aat.can-info.site^$all
+||aavn.neomai.site^$all
 ||aawfvf.s3.us-east-005.backblazeb2.com^$all
 ||ab3d5c788a6.chefs-kitchen.co.uk^$all
 ||abang-abang.com^$all
@@ -1901,6 +1900,7 @@
 ||act-knto-nflx.klntfxp.co.pl^$all
 ||act-profit.protrobit.site^$all
 ||act.activpl-pro.site^$all
+||act.cas-program.site^$all
 ||act.live1program.site^$all
 ||act.oneprofit1.xyz^$all
 ||act.online-like1.site^$all
@@ -2287,6 +2287,7 @@
 ||akaz.programbndr.site^$all
 ||akazoo.pl^$all
 ||akc12.net^$all
+||akcapitalone.com^$all
 ||akceptowanie.pl^$all
 ||akcjasamsung.e-kei.pl^$all
 ||akcjebetra.pl^$all
@@ -2752,6 +2753,7 @@
 ||allegrol0kalnie-shopping.5764354651.xyz^$all
 ||allegrol0kalnie-user.9000065764.xyz^$all
 ||allegrol0kalnie.43233643.xyz^$all
+||allegrol0kalnie.65756541.xyz^$all
 ||allegrol0kalnie.75678767.xyz^$all
 ||allegrol0kalnieshop.1768904.xyz^$all
 ||allegrol0kalnii.162365659.xyz^$all
@@ -3225,6 +3227,7 @@
 ||amadeusplo.pl^$all
 ||amadeusz.diament.info.pl^$all
 ||amaedupl.weebly.com^$all
+||amalgamation.one^$all
 ||amaozn.cursosicomi.com^$all
 ||amaozn.skalateknik.com^$all
 ||amariceo.duckdns.org^$all
@@ -3465,6 +3468,7 @@
 ||antickvam.com^$all
 ||anticleric.com^$all
 ||anticonhmj.space^$all
+||anticrs.start-proff.site^$all
 ||anticultur.xyz^$all
 ||antifatigu.com^$all
 ||antifemin.com^$all
@@ -3734,6 +3738,7 @@
 ||arghya53genesh.com^$all
 ||argicys.com^$all
 ||ariariah.com^$all
+||arielsystem.pro^$all
 ||arietid.space^$all
 ||aristodriv.pl^$all
 ||ariumdevelopment.com^$all
@@ -3769,6 +3774,7 @@
 ||arriveguar.com^$all
 ||arroundtheline.com^$all
 ||ars.bashes.site^$all
+||ars.globaltradruv.com^$all
 ||arsanilic.info^$all
 ||arsenx.pl^$all
 ||arsjcckjso.info^$all
@@ -3855,6 +3861,7 @@
 ||asavvyjoe.com^$all
 ||ascelinvesting.website^$all
 ||asd.bandaprogram.xyz^$all
+||asdads.frankprogpr.site^$all
 ||asdasd.ketoredus.xyz^$all
 ||asdfcadsf.planticrysa.xyz^$all
 ||asdgroupincorp.com^$all
@@ -4269,6 +4276,7 @@
 ||auwlmsw.pl^$all
 ||av263.info^$all
 ||av363.info^$all
+||ava1.firehongtrade.life^$all
 ||ava.rutradersxprod.com^$all
 ||avail287a76z-ble928a.strotv2.co.pl^$all
 ||available928-info2jz.newshows.co.pl^$all
@@ -5069,6 +5077,7 @@
 ||bbwqpsa.pl^$all
 ||bbx.plfcaty.xyz^$all
 ||bby.gzpr.xyz^$all
+||bbyh.maximer.site^$all
 ||bbyyte.com^$all
 ||bc2care.com^$all
 ||bcach2.webwave.dev^$all
@@ -5908,6 +5917,9 @@
 ||blog-n.activpl.xyz^$all
 ||blog-neuro.neuro1.xyz^$all
 ||blog-nez.maxiprog.xyz^$all
+||blog-offish.invst5.site^$all
+||blog-offishl.invst5.site^$all
+||blog-offishls.invst5.site^$all
 ||blog-pl.jxpl.xyz^$all
 ||blog-pl.maxfakt0.site^$all
 ||blog-pl.prof-stat.site^$all
@@ -6704,6 +6716,7 @@
 ||buzzessens.com^$all
 ||buzzlace.cf^$all
 ||bv.eutrty.top^$all
+||bv.progrr.top^$all
 ||bvhcd.neonas.life^$all
 ||bvilpr.com^$all
 ||bvuida.com^$all
@@ -6832,6 +6845,7 @@
 ||cadsart-com.preview-domain.com^$all
 ||cae.prosystemorgo.com^$all
 ||caedpe.com^$all
+||caf.opentraderxwe.com^$all
 ||cafedepuebla.com^$all
 ||cafeelmundodelcafe.com^$all
 ||cafeoverflow.com^$all
@@ -6915,6 +6929,7 @@
 ||canny2618-ollox-pl.descent.top^$all
 ||canny4576-ollox-pls.genratrix.top^$all
 ||canny6947-ollox-pl.ingenious.top^$all
+||canny8357-ollox-pls.tableful.top^$all
 ||canofwsilc.space^$all
 ||canoilforpeople.site^$all
 ||canonising.pl^$all
@@ -7111,12 +7126,14 @@
 ||cc.propl.top^$all
 ||ccc-office.com^$all
 ||cccaiixa.cfolks.pl^$all
+||cccz.teraw.site^$all
 ||cce.miliomp.xyz^$all
 ||ccgoo.xyz^$all
 ||ccgvf.6686dh7.com^$all
 ||ccleaner.life^$all
 ||cco.widomkoster.xyz^$all
 ||cconi.maswwo.xyz^$all
+||ccr.apprety.site^$all
 ||ccsm.maswwo.xyz^$all
 ||ccsms.xyz^$all
 ||ccswpsvc.com^$all
@@ -7468,6 +7485,7 @@
 ||chat.intproject.xyz^$all
 ||chat.newpro1.xyz^$all
 ||chat.pro-activprofit.site^$all
+||chat.profitactiv1.top^$all
 ||chat.programpro.site^$all
 ||chat.stronieint.site^$all
 ||chat.views1pl.site^$all
@@ -7625,11 +7643,13 @@
 ||chrysalis.net.in^$all
 ||cht1.online-one.site^$all
 ||cht1.onlineact1.site^$all
+||cht1.profitactiv1.top^$all
 ||cht-pro1.program-pro2.xyz^$all
 ||chuansong.buzz^$all
 ||chuckleheads.info^$all
 ||chufasrest.pl^$all
 ||chuffy.info^$all
+||chum.sistprogram.xyz^$all
 ||chummier.info^$all
 ||chunghwapay.org^$all
 ||chupacabras100kms.com^$all
@@ -8163,6 +8183,7 @@
 ||comnoinmasox.cf^$all
 ||comp-lib.newtrd.xyz^$all
 ||comp.artaav.site^$all
+||comp.can-info.site^$all
 ||comp.ctiril.online^$all
 ||comp.fast4ik.site^$all
 ||comp.invst4.site^$all
@@ -8696,6 +8717,7 @@
 ||cryptobmode1.goprogramia.top^$all
 ||cryptobmode.goprogramia.top^$all
 ||cryptobtcearner.com^$all
+||cryptobx.goprogramia.top^$all
 ||cryptocloudminers.xyz^$all
 ||cryptocoin-explorer.quest^$all
 ||cryptocoinfolio.com^$all
@@ -8884,6 +8906,7 @@
 ||cx94417.tmweb.ru^$all
 ||cx.limitnes.com^$all
 ||cx.money^$all
+||cxcxc.teraw.site^$all
 ||cxuzbjyw6zjh.bar^$all
 ||cxvihv76v7ey.bar^$all
 ||cxvzx.site^$all
@@ -10558,6 +10581,7 @@
 ||dane-156541-moje.app-de.co.pl^$all
 ||dane-192187-wazna.showntpl.co.pl^$all
 ||dane-193440-twoje.knto-app.co.pl^$all
+||dane-230733-wazna.mailnf.co.pl^$all
 ||dane-356427-faktury.knto-app.co.pl^$all
 ||dane-369840-informacje.app-de.co.pl^$all
 ||dane-387485-faktury.knto-app.co.pl^$all
@@ -11204,6 +11228,7 @@
 ||dellver452-ollx.homelife.ink^$all
 ||dellver609-ollx.marketcentr.link^$all
 ||dellver665-ollx.storeinfo.ink^$all
+||dellver669-ollx.amalgamation.one^$all
 ||dellver754-ollx.proshope.life^$all
 ||dellver776-ollx.clubmaster.ink^$all
 ||dellver856-ollx.lifepaystore.click^$all
@@ -11335,6 +11360,7 @@
 ||denverwebsolutions.com^$all
 ||deoxygenat.xyz^$all
 ||dep15proc.nev1evesplt.site^$all
+||dep-offishl.prog-max1pro0g.site^$all
 ||dep.newstrdinfos.xyz^$all
 ||dep.pro1program.site^$all
 ||dep.program-pro2.xyz^$all
@@ -12501,6 +12527,7 @@
 ||download.televisionfanatic.com^$all
 ||download.weatherblink.com^$all
 ||downloads-mobile.com^$all
+||downsizeavonlake.com^$all
 ||downtownneworleanshotels.net^$all
 ||downundermeatpie.com^$all
 ||downwashpe.pl^$all
@@ -13895,6 +13922,7 @@
 ||elonmusknow.net^$all
 ||elonmuskstockfx.com^$all
 ||elonn.redsistem.site^$all
+||elonone.projectprog.click^$all
 ||elonpr.maxuziz.xyz^$all
 ||elonts.redsistem.site^$all
 ||elontxinvest.com^$all
@@ -14641,6 +14669,7 @@
 ||fa.fondblagorus.xyz^$all
 ||fa.polskadep.xyz^$all
 ||fa.programchat.site^$all
+||fa.rutradersxprod.com^$all
 ||fa.zlpolska.xyz^$all
 ||faa.rusites.site^$all
 ||faakty24.pl^$all
@@ -14815,6 +14844,7 @@
 ||faktury98512.net^$all
 ||faktury-111532-wazna.nf-app.co.pl^$all
 ||faktury-127245-moje.nf-app.co.pl^$all
+||faktury-144756-istotny.mailnf.co.pl^$all
 ||faktury-154031-aktualizacja.all-app.cfd^$all
 ||faktury-170345-konto.gershow.co.pl^$all
 ||faktury-213719-istotny.nf-app.co.pl^$all
@@ -14825,6 +14855,7 @@
 ||faktury-391445-wazna.showntpl.co.pl^$all
 ||faktury-442005-dane.knto-app.co.pl^$all
 ||faktury-449225-wazna.nf-app.co.pl^$all
+||faktury-494539-rachunki.mailnf.co.pl^$all
 ||faktury-530104-informacje.app-de.co.pl^$all
 ||faktury-542460-dane.all-mail.co.pl^$all
 ||faktury-554728-faktury.app-de.co.pl^$all
@@ -15044,6 +15075,7 @@
 ||fb3.firecantrade.site^$all
 ||fb4.canpeoplefx.site^$all
 ||fb5.canpeoplefx.site^$all
+||fb6.canpeoplefx.site^$all
 ||fb202022.tcp4.me^$all
 ||fb-ads.aag.co.id^$all
 ||fb-ads.me^$all
@@ -15213,6 +15245,7 @@
 ||ferk.onlinepow.xyz^$all
 ||ferrought.xyz^$all
 ||fers.masterpr-es.online^$all
+||fersa.masterpr-es.online^$all
 ||fersel.pl^$all
 ||fertileunderground.com^$all
 ||fertilityholiday.com^$all
@@ -16082,6 +16115,7 @@
 ||francizekn.com^$all
 ||francocastelo.com^$all
 ||frandiotrafcom.tk^$all
+||frankstaudig.pl^$all
 ||frankwallen.com^$all
 ||frantinvest.site^$all
 ||frasdl.com^$all
@@ -16189,6 +16223,7 @@
 ||fuadp.com^$all
 ||fubs-offers.com^$all
 ||fuchsia4u.com^$all
+||fuchsia.cyou^$all
 ||fuckforfree.com^$all
 ||fuckworld.com^$all
 ||fudlextent.pl^$all
@@ -16715,6 +16750,7 @@
 ||gerigoti.com^$all
 ||gerikow.win^$all
 ||germana.life^$all
+||germaniansx.com.pl^$all
 ||germthin.win^$all
 ||gerodontology.info^$all
 ||geroleno-host.preview-domain.com^$all
@@ -17605,6 +17641,7 @@
 ||ground-invest.website^$all
 ||groundthey.xyz^$all
 ||group-orlen.us^$all
+||group-sparta.online^$all
 ||group.hospitalmap.website^$all
 ||groupemser.com^$all
 ||grouporlen.biz^$all
@@ -17770,6 +17807,7 @@
 ||gwssml.com^$all
 ||gwweqasdzxc523dawe.xyz^$all
 ||gxh1iy.webwave.dev^$all
+||gxvvz.teraw.site^$all
 ||gy.marcukesh.top^$all
 ||gy.ppaco.xyz^$all
 ||gybnol.site^$all
@@ -17909,6 +17947,7 @@
 ||handifgft.xyz^$all
 ||handilin-invest.pro^$all
 ||handlowanie.info^$all
+||handlowanie.org^$all
 ||handmademusicalinstrumentfest.com^$all
 ||handshakeua.fun^$all
 ||handsigncentder.tk^$all
@@ -19309,6 +19348,7 @@
 ||impost.677845555.xyz^$all
 ||impost.835366830.xyz^$all
 ||impost.896594851.xyz^$all
+||impost.976784777.xyz^$all
 ||impost.3000026001.xyz^$all
 ||impost.5265154515.xyz^$all
 ||impost.7312457845.xyz^$all
@@ -24065,6 +24105,7 @@
 ||istotny-641621-konto.nf-app.pl^$all
 ||istotny-711203-twoje.knto-app.co.pl^$all
 ||istotny-738054-aktualizacja.gershow.co.pl^$all
+||istotny-742913-moje.mailnf.co.pl^$all
 ||istotny-749338-faktury.nf-app.co.pl^$all
 ||istotny-799777-informacje.showntpl.co.pl^$all
 ||istotny-814103-konto.app-net.pl^$all
@@ -24113,6 +24154,7 @@
 ||itsdebunked.org^$all
 ||itsmeelan.com^$all
 ||itsshowtime.top^$all
+||itt.can-info.site^$all
 ||ittisoft.com^$all
 ||iurome.com^$all
 ||ivanovawear.ru^$all
@@ -24425,6 +24467,7 @@
 ||jezebeaux.com^$all
 ||jezykobcywdomu.eu^$all
 ||jf.eutrty.top^$all
+||jfhd.inventnamb.click^$all
 ||jfvpoikhhga.digital^$all
 ||jfwf8p.webwave.dev^$all
 ||jfytcsjlphdgjnfdeymiytre.rf.gd^$all
@@ -25717,6 +25760,7 @@
 ||konto-913065-sprawa.info03.pl^$all
 ||konto-953488-aktualizacja.info03.pl^$all
 ||konto-958361-factury.alkontp.co.pl^$all
+||konto-963568-istotny.mailnf.co.pl^$all
 ||konto-971921-informacje.gershow.co.pl^$all
 ||konto-994942-twoje.info03.pl^$all
 ||konto-act03m.zewdrew.pl^$all
@@ -25847,6 +25891,7 @@
 ||krabsinmok.com^$all
 ||kradenasklep.pl^$all
 ||kradli-invest.pro^$all
+||kraj-m.com^$all
 ||kraj-proj.infbal.site^$all
 ||krajowa-grupa-spozywcza-sa-oddzia-swinoujscie.business.site^$all
 ||krajowe-aktualnosci.waw.pl^$all
@@ -26873,6 +26918,7 @@
 ||ln-post.live^$all
 ||ln-post.pl^$all
 ||ln.xlopl.com^$all
+||lnewsz.loyalmp3.site^$all
 ||lnfo.web-chat.eu^$all
 ||lnfodispatch.xyz^$all
 ||lnfosendingproduct.xyz^$all
@@ -28222,6 +28268,7 @@
 ||marzenaa.pl^$all
 ||marzenakocoand.pl^$all
 ||marzeniefalszywy.site^$all
+||mas1.canfxprog.site^$all
 ||mas1npostgroop.outlitshop.top^$all
 ||mas-project.teswp.xyz^$all
 ||mas.elespcoinn.site^$all
@@ -28851,6 +28898,7 @@
 ||midsaules.com^$all
 ||midtnadvertising.com^$all
 ||mie.depanticr.site^$all
+||mieczyslaw.heniekmusiol.pl^$all
 ||miejsce-udzial.eu^$all
 ||miejscedomowy.site^$all
 ||miejscowe-newsy24.waw.pl^$all
@@ -29525,6 +29573,7 @@
 ||moje-380796-rachunki.gershow.co.pl^$all
 ||moje-386239-rachunki.infonf.co.pl^$all
 ||moje-407352-raport.info03.pl^$all
+||moje-408706-istotny.mailnf.co.pl^$all
 ||moje-411787-faktury.nf-app.co.pl^$all
 ||moje-427596-rachunki.infonf.co.pl^$all
 ||moje-445780-aktualizacja.nf-app.pl^$all
@@ -29545,6 +29594,7 @@
 ||moje-668753-dane.infonf.co.pl^$all
 ||moje-689007-twoje.info03.pl^$all
 ||moje-693480-rachunki.info03.pl^$all
+||moje-699018-aktualizacja.mailnf.co.pl^$all
 ||moje-701630-rachunki.knto-app.co.pl^$all
 ||moje-704303-twoje.knto-app.co.pl^$all
 ||moje-765864-raport.info03.pl^$all
@@ -30493,6 +30543,7 @@
 ||nationalitys.info^$all
 ||nationalprasharannews24.com^$all
 ||nationsdime.com^$all
+||nativcom.pl^$all
 ||nativewpush.com^$all
 ||natura-kod.site^$all
 ||natural-1.za.com^$all
@@ -30886,6 +30937,7 @@
 ||newnews.fun^$all
 ||newoff.newprif.site^$all
 ||neworgdp.com^$all
+||newp.loyalmp3.site^$all
 ||newpay.ico-eu.xyz^$all
 ||newpkocoin.site^$all
 ||newpl.newprot1.site^$all
@@ -30990,6 +31042,7 @@
 ||newsiki-newsweek-87611660889.azureedge.net^$all
 ||newsiki-wazne-89732925967.azureedge.net^$all
 ||newsiki-wazne-90408025064.azureedge.net^$all
+||newsinceu.cfd^$all
 ||newsinfo24.shop^$all
 ||newsinfo26.shop^$all
 ||newsinfo28.shop^$all
@@ -31155,6 +31208,7 @@
 ||niemiecki.sportbetsignupcode.com^$all
 ||nieobliczalnyodblaskowy.site^$all
 ||niepochwalamzmierzyc.site^$all
+||nieprosbioran.tk^$all
 ||nieprzyjemnygrupa.site^$all
 ||niepsodziewanki24.xyz^$all
 ||niepuszczaj.eu^$all
@@ -32057,6 +32111,9 @@
 ||odz5.firecantrade.site^$all
 ||odz6.firecantrade.site^$all
 ||odz8.firecantrade.site^$all
+||odz9.canpeoplefx.site^$all
+||odz10.canpeoplefx.site^$all
+||odz11.canpeoplefx.site^$all
 ||odziez918.rest^$all
 ||odziezoboz.site^$all
 ||odzyskac12.site^$all
@@ -32598,6 +32655,7 @@
 ||ollx.44125445.xyz^$all
 ||ollx.45184122.xyz^$all
 ||ollx.45658553.xyz^$all
+||ollx.45735736.xyz^$all
 ||ollx.46566323.xyz^$all
 ||ollx.51313546.xyz^$all
 ||ollx.53453545.xyz^$all
@@ -37903,6 +37961,7 @@
 ||plnewspgnig.com^$all
 ||plnewsproject-pge.info^$all
 ||plnnjj.s3.us-west-004.backblazeb2.com^$all
+||plo029a-kl920a.rejepl.co.pl^$all
 ||plo.newinfoo.xyz^$all
 ||ploaaswot.host^$all
 ||plodsni.com^$all
@@ -40425,6 +40484,7 @@
 ||qepjfdlgq.digital^$all
 ||qf4e.com^$all
 ||qfxpdag5iyz.digital^$all
+||qgelbio-1316850103.cos.eu-frankfurt.myqcloud.com^$all
 ||qgescs59u.digital^$all
 ||qh521.com^$all
 ||qhvpek.webwave.dev^$all
@@ -40681,6 +40741,7 @@
 ||rachunki-617163-dane.all-mail.co.pl^$all
 ||rachunki-639452-informacje.knto-app.co.pl^$all
 ||rachunki-655374-wazna.all-mail.co.pl^$all
+||rachunki-668565-informacje.mailnf.co.pl^$all
 ||rachunki-685052-twoje.knto-app.co.pl^$all
 ||rachunki-700353-rachunki.info03.pl^$all
 ||rachunki-703173-aktualizacja.app-de.co.pl^$all
@@ -41429,6 +41490,7 @@
 ||rivafinancialsystems.com^$all
 ||rivalries.life^$all
 ||rivermarketcyclery.com^$all
+||rivobanc.com^$all
 ||riwtually.com^$all
 ||rixhone-website.preview-domain.com^$all
 ||riyoymfs.pl^$all
@@ -43176,6 +43238,8 @@
 ||site.40054444.xyz^$all
 ||site.52548745.xyz^$all
 ||site.admooddesign.com^$all
+||site.familia-friend.com^$all
+||site.find-yourfamily.com^$all
 ||site.ideagenuine.com^$all
 ||site.oneupsearch.com^$all
 ||site.worthplatform.com^$all
@@ -45942,6 +46006,7 @@
 ||timetovoid.com^$all
 ||timkolstrom.com^$all
 ||timouch.space^$all
+||timtheiss.pl^$all
 ||tinaverne.space^$all
 ||tincalphyt.pl^$all
 ||tingawurzpodsou.tk^$all
@@ -51383,6 +51448,7 @@
 ||waytoluck.tslx.pics^$all
 ||waywelth.com^$all
 ||wazirx.sbs^$all
+||wazna-201214-istotny.mailnf.co.pl^$all
 ||wazna-237640-dane.nf-app.co.pl^$all
 ||wazna-244650-wazna.gershow.co.pl^$all
 ||wazna-370848-istotny.nf-app.co.pl^$all
@@ -51398,8 +51464,10 @@
 ||wazna-515287-rachunki.knto-app.co.pl^$all
 ||wazna-540226-konto.app-net.pl^$all
 ||wazna-546056-twoje.knto-app.co.pl^$all
+||wazna-574853-konto.mailnf.co.pl^$all
 ||wazna-611177-rachunki.infonf.co.pl^$all
 ||wazna-661155-aktualizacja.gershow.co.pl^$all
+||wazna-775014-istotny.mailnf.co.pl^$all
 ||wazna-818514-faktury.app-de.co.pl^$all
 ||wazna-832950-konto.knto-app.co.pl^$all
 ||wazna-837797-informacje.app-net.pl^$all
@@ -52071,6 +52139,7 @@
 ||wimalds.pl^$all
 ||wimted-store.34855544.xyz^$all
 ||wimted.154545555.xyz^$all
+||wimted.976784771.xyz^$all
 ||win-ted.65322222122.xyz^$all
 ||win.whtbotred.site^$all
 ||windedness.live^$all
@@ -52817,6 +52886,7 @@
 ||wzmianka4952.site^$all
 ||wzmianka6332.site^$all
 ||wznoszacysiefalowac.site^$all
+||wzorkinapazurk.pl^$all
 ||wzuay1fik.digital^$all
 ||x0-iao.web.app^$all
 ||x0qenr.webwave.dev^$all
@@ -53480,6 +53550,7 @@
 ||zap.bashus.site^$all
 ||zapachwazyc.site^$all
 ||zapakujmy.cloud^$all
+||zapd.dasms.xyz^$all
 ||zapiac-teraz24.tech^$all
 ||zapis-monitoring.eu^$all
 ||zapisy-monitoring.eu^$all
@@ -54034,74 +54105,3 @@
 ||zzmalwo.pl^$all
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||0llx.84342356.xyz^$all
-||1mari1.inprog.top^$all
-||a11egrolokalnie.65756540.xyz^$all
-||aavn.neomai.site^$all
-||act.cas-program.site^$all
-||allegrol0kalnie.65756541.xyz^$all
-||amalgamation.one^$all
-||anticrs.start-proff.site^$all
-||ars.globaltradruv.com^$all
-||asdads.frankprogpr.site^$all
-||ava1.firehongtrade.life^$all
-||bbyh.maximer.site^$all
-||blog-offish.invst5.site^$all
-||blog-offishl.invst5.site^$all
-||blog-offishls.invst5.site^$all
-||bv.progrr.top^$all
-||caf.opentraderxwe.com^$all
-||canny8357-ollox-pls.tableful.top^$all
-||cccz.teraw.site^$all
-||ccr.apprety.site^$all
-||chat.profitactiv1.top^$all
-||cht1.profitactiv1.top^$all
-||chum.sistprogram.xyz^$all
-||comp.can-info.site^$all
-||cryptobx.goprogramia.top^$all
-||cxcxc.teraw.site^$all
-||dane-230733-wazna.mailnf.co.pl^$all
-||dellver669-ollx.amalgamation.one^$all
-||dep-offishl.prog-max1pro0g.site^$all
-||downsizeavonlake.com^$all
-||elonone.projectprog.click^$all
-||fa.rutradersxprod.com^$all
-||faktury-144756-istotny.mailnf.co.pl^$all
-||faktury-494539-rachunki.mailnf.co.pl^$all
-||fb6.canpeoplefx.site^$all
-||fersa.masterpr-es.online^$all
-||frankstaudig.pl^$all
-||fuchsia.cyou^$all
-||germaniansx.com.pl^$all
-||group-sparta.online^$all
-||gxvvz.teraw.site^$all
-||impost.976784777.xyz^$all
-||istotny-742913-moje.mailnf.co.pl^$all
-||itt.can-info.site^$all
-||jfhd.inventnamb.click^$all
-||konto-963568-istotny.mailnf.co.pl^$all
-||lnewsz.loyalmp3.site^$all
-||mas1.canfxprog.site^$all
-||mieczyslaw.heniekmusiol.pl^$all
-||moje-408706-istotny.mailnf.co.pl^$all
-||moje-699018-aktualizacja.mailnf.co.pl^$all
-||nativcom.pl^$all
-||newp.loyalmp3.site^$all
-||newsinceu.cfd^$all
-||nieprosbioran.tk^$all
-||odz10.canpeoplefx.site^$all
-||odz11.canpeoplefx.site^$all
-||odz9.canpeoplefx.site^$all
-||ollx.45735736.xyz^$all
-||plo029a-kl920a.rejepl.co.pl^$all
-||qgelbio-1316850103.cos.eu-frankfurt.myqcloud.com^$all
-||rachunki-668565-informacje.mailnf.co.pl^$all
-||site.familia-friend.com^$all
-||site.find-yourfamily.com^$all
-||timtheiss.pl^$all
-||wazna-201214-istotny.mailnf.co.pl^$all
-||wazna-574853-konto.mailnf.co.pl^$all
-||wazna-775014-istotny.mailnf.co.pl^$all
-||wimted.976784771.xyz^$all
-||wzorkinapazurk.pl^$all
-||zapd.dasms.xyz^$all
