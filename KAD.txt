@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 30 Mar 2023, 23:29 UTC+02:00
-! Version: 2023.3.30.6
+! Last modified: Fri, 31 Mar 2023, 10:21 UTC+02:00
+! Version: 2023.3.31.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5497,6 +5497,7 @@
 ||aktualizacja-630580-istotny.knto-app.co.pl^$all
 ||aktualizacja-632793-sprawa.info03.pl^$all
 ||aktualizacja-675205-konto.knto-app.co.pl^$all
+||aktualizacja-701330-rachunki.infonf.co.pl^$all
 ||aktualizacja-720064-faktury.knto-app.co.pl^$all
 ||aktualizacja-720589-faktury.mail-pl.co.pl^$all
 ||aktualizacja-755637-wzglad.info03.pl^$all
@@ -5505,6 +5506,7 @@
 ||aktualizacja-792696-wazna.knto-app.co.pl^$all
 ||aktualizacja-798772-moje.info03.pl^$all
 ||aktualizacja-842395-faktury.mail-all.co.pl^$all
+||aktualizacja-847982-istotny.infonf.co.pl^$all
 ||aktualizacja-947092-relacja.info03.pl^$all
 ||aktualizacja-949221-allgr.info03.pl^$all
 ||aktualizacja-991587-faktury.knto-app.co.pl^$all
@@ -6028,6 +6030,7 @@
 ||allegrolokalnie.oferta999555.xyz^$all
 ||allegrolokalnie.oferta.tech^$all
 ||allegrolokalnie.pl-oferty.online^$all
+||allegrolokalnii.385121552.xyz^$all
 ||allegrolokalnii.785121552.xyz^$all
 ||allegrolokalnii.985121552.xyz^$all
 ||allegrolokalniie.5784542.xyz^$all
@@ -7671,6 +7674,7 @@
 ||bafybeia2wjieil2kimjnrvtp7unyikkxzsxeyyb5omk577ym5nzrgzqzly.ipfs.dweb.link^$all
 ||bafybeia3mpocjfkdlaerq2jj64fpowvb2o3gv7gd5gvqzit3xbp6hazs5a.ipfs.dweb.link^$all
 ||bafybeia6pa2stquojkauqbrk7ymggry24fwg4eb3hmhwplfhnjnyzgwvy4.ipfs.fleek.cool^$all
+||bafybeia7tjd2adqgwfylpkizrqfmtwdkzh33olgrtbynmf4r6cn3vah37i.ipfs.dweb.link^$all
 ||bafybeiabgidxdsqrqq4ic33xafqyzgiw5lkipafjq5reinfnwm7apnipzm.ipfs.cf-ipfs.com^$all
 ||bafybeiacpwldibi4zy3lphdcrzw4tefltr4ubtcrebgagkdrku3xcpv76q.ipfs.cf-ipfs.com^$all
 ||bafybeiacyqz55aubmhji24b5p3q7y6k2f7v6vpo26lbg4ykyl4gzhpc25m.ipfs.dweb.link^$all
@@ -13694,6 +13698,8 @@
 ||dane-484888-aktualizacja.knto-app.co.pl^$all
 ||dane-501921-rachunki.knto-app.co.pl^$all
 ||dane-518147-dane.all-app.cfd^$all
+||dane-518497-twoje.infonf.co.pl^$all
+||dane-548146-aktualizacja.infonf.co.pl^$all
 ||dane-555326-informacje.showntpl.co.pl^$all
 ||dane-590107-aktualizacja.nf-app.co.pl^$all
 ||dane-592783-faktury.mail-all.co.pl^$all
@@ -13705,6 +13711,7 @@
 ||dane-758908-moje.nf-app.pl^$all
 ||dane-774473-wazna.all-app.cfd^$all
 ||dane-775479-wazna.knto-app.co.pl^$all
+||dane-838849-istotny.infonf.co.pl^$all
 ||dane-845865-wazna.knto-app.co.pl^$all
 ||dane-864899-faktury.mail-all.co.pl^$all
 ||dane-884439-aktualizacja.knto-app.co.pl^$all
@@ -17959,6 +17966,8 @@
 ||faktury-834916-konto.knto-app.co.pl^$all
 ||faktury-835763-twoje.showntpl.co.pl^$all
 ||faktury-839591-moje.app-de.co.pl^$all
+||faktury-858435-konto.infonf.co.pl^$all
+||faktury-864342-rachunki.infonf.co.pl^$all
 ||faktury-885709-informacje.all-app.cfd^$all
 ||faktury-886197-moje.app-de.co.pl^$all
 ||faktury-888526-informacje.nf-app.pl^$all
@@ -20925,6 +20934,7 @@
 ||h81kku.webwave.dev^$all
 ||h934.info^$all
 ||h4080016.hostingrd.pl^$all
+||h-a-3-balticpipe-pl.web.app^$all
 ||h-n-balticpipe-pl-5.web.app^$all
 ||h-n-balticpipe-pl.firebaseapp.com^$all
 ||h-n-balticpipe-pl.web.app^$all
@@ -23041,6 +23051,8 @@
 ||informacje-154287-wazna.knto-app.co.pl^$all
 ||informacje-182836-dane.app-net.pl^$all
 ||informacje-205771-istotny.power-soft.pl^$all
+||informacje-219758-informacje.infonf.co.pl^$all
+||informacje-259042-twoje.infonf.co.pl^$all
 ||informacje-268172-dane.showntpl.co.pl^$all
 ||informacje-273824-informacje.mail-all.co.pl^$all
 ||informacje-310144-informacje.knto-app.co.pl^$all
@@ -23054,6 +23066,7 @@
 ||informacje-453113-wazna.knto-app.co.pl^$all
 ||informacje-462166-aktualizacja.app-de.co.pl^$all
 ||informacje-491511-konto.knto-app.co.pl^$all
+||informacje-510008-twoje.infonf.co.pl^$all
 ||informacje-546125-dane.mail-pl.co.pl^$all
 ||informacje-602418-aktualizacja.gershow.co.pl^$all
 ||informacje-654115-istotny.all-app.cfd^$all
@@ -23066,7 +23079,9 @@
 ||informacje-698647-wazna.knto-app.co.pl^$all
 ||informacje-719588-dane.app-net.pl^$all
 ||informacje-779036-wazna.showntpl.co.pl^$all
+||informacje-799857-aktualizacja.infonf.co.pl^$all
 ||informacje-816044-twoje.knto-app.co.pl^$all
+||informacje-951148-istotny.infonf.co.pl^$all
 ||informacje-957850-twoje.all-mail.co.pl^$all
 ||informacje-992663-informacje.app-de.co.pl^$all
 ||informacje-44979022681.azureedge.net^$all
@@ -27179,6 +27194,7 @@
 ||istotny-895843-faktury.knto-app.co.pl^$all
 ||istotny-921079-rachunki.gershow.co.pl^$all
 ||istotny-926383-konto.alikot.co.pl^$all
+||istotny-933204-istotny.infonf.co.pl^$all
 ||istotny-974104-istotny.all-app.cfd^$all
 ||istp27.jp^$all
 ||istrade.cc^$all
@@ -28785,8 +28801,10 @@
 ||konto452142342342.online^$all
 ||konto-157541-factury.info03.pl^$all
 ||konto-210725-konto.gershow.co.pl^$all
+||konto-219102-moje.infonf.co.pl^$all
 ||konto-224143-faktury.showntpl.co.pl^$all
 ||konto-229510-rachunki.showntpl.co.pl^$all
+||konto-253130-moje.infonf.co.pl^$all
 ||konto-255966-konto.mail-all.co.pl^$all
 ||konto-307542-rachunki.ntpsla.co.pl^$all
 ||konto-357274-twoje.info03.pl^$all
@@ -28802,6 +28820,7 @@
 ||konto-527256-moje.gershow.co.pl^$all
 ||konto-532162-relacja.info03.pl^$all
 ||konto-533630-informacje.nf-app.co.pl^$all
+||konto-533944-wazna.infonf.co.pl^$all
 ||konto-541931-sprawa.info03.pl^$all
 ||konto-566606-wazna.knto-app.co.pl^$all
 ||konto-593637-informacje.nf-app.co.pl^$all
@@ -32611,6 +32630,7 @@
 ||moje-161312-aktualizacja.info03.pl^$all
 ||moje-169519-rachunki.info03.pl^$all
 ||moje-175349-rachunki.knto-app.co.pl^$all
+||moje-201967-moje.infonf.co.pl^$all
 ||moje-202856-dane.nf-app.co.pl^$all
 ||moje-206031-raport.info03.pl^$all
 ||moje-248208-faktury.gershow.co.pl^$all
@@ -32623,14 +32643,18 @@
 ||moje-328846-raport.info03.pl^$all
 ||moje-375347-wzglad.info03.pl^$all
 ||moje-380796-rachunki.gershow.co.pl^$all
+||moje-386239-rachunki.infonf.co.pl^$all
 ||moje-407352-raport.info03.pl^$all
 ||moje-411787-faktury.nf-app.co.pl^$all
+||moje-427596-rachunki.infonf.co.pl^$all
 ||moje-445780-aktualizacja.nf-app.pl^$all
+||moje-447739-moje.infonf.co.pl^$all
 ||moje-460591-twoje.info03.pl^$all
 ||moje-465797-istotny.alton.pl^$all
 ||moje-467476-twoje.info03.pl^$all
 ||moje-476362-konto.ploskon.co.pl^$all
 ||moje-485944-konto.gershow.co.pl^$all
+||moje-535433-wazna.infonf.co.pl^$all
 ||moje-544214-factury.info03.pl^$all
 ||moje-581804-istotny.knto-app.co.pl^$all
 ||moje-599345-sprawa.info03.pl^$all
@@ -32638,6 +32662,7 @@
 ||moje-624601-sprawa.info03.pl^$all
 ||moje-643032-faktury.showntpl.co.pl^$all
 ||moje-645624-moje.knto-app.co.pl^$all
+||moje-668753-dane.infonf.co.pl^$all
 ||moje-689007-twoje.info03.pl^$all
 ||moje-693480-rachunki.info03.pl^$all
 ||moje-701630-rachunki.knto-app.co.pl^$all
@@ -43312,6 +43337,7 @@
 ||przepadniecie.eu^$all
 ||przepijam.cyou^$all
 ||przepismix.pl^$all
+||przesylka-oix.com^$all
 ||przeszukiwanie-sieci.eu^$all
 ||przewidywanieslam.site^$all
 ||przewracacsieobliczac.site^$all
@@ -43729,6 +43755,7 @@
 ||rachunek5212.info^$all
 ||rachunek5812.info^$all
 ||rachunek-4121.net^$all
+||rachunki-129975-rachunki.infonf.co.pl^$all
 ||rachunki-140190-allgr.ntpsla.co.pl^$all
 ||rachunki-172018-factury.info03.pl^$all
 ||rachunki-183545-istotny.knto-app.co.pl^$all
@@ -43759,6 +43786,7 @@
 ||rachunki-591371-allgr.info03.pl^$all
 ||rachunki-612321-informacje.knto-app.co.pl^$all
 ||rachunki-615230-istotny.knto-app.co.pl^$all
+||rachunki-616107-rachunki.infonf.co.pl^$all
 ||rachunki-617163-dane.all-mail.co.pl^$all
 ||rachunki-639452-informacje.knto-app.co.pl^$all
 ||rachunki-655374-wazna.all-mail.co.pl^$all
@@ -47065,6 +47093,7 @@
 ||standpointsh.xyz^$all
 ||stanidlapiotr.pl^$all
 ||stanimir.kolatek3.pl^$all
+||stanislav.falkiewicz.nieruchomosci.pl^$all
 ||stanislaw.org.pl^$all
 ||stanislawpola.pl^$all
 ||stanmacho.pl^$all
@@ -50063,6 +50092,8 @@
 ||twojasprawa.monster^$all
 ||twojbon.com^$all
 ||twoje-115917-rachunki.info03.pl^$all
+||twoje-127228-konto.infonf.co.pl^$all
+||twoje-128024-wazna.infonf.co.pl^$all
 ||twoje-137651-factury.info03.pl^$all
 ||twoje-155909-wzglad.info03.pl^$all
 ||twoje-172972-konto.ploskon.co.pl^$all
@@ -50078,6 +50109,7 @@
 ||twoje-302647-faktury.all-app.cfd^$all
 ||twoje-328663-sprawa.info03.pl^$all
 ||twoje-341142-wazna.nf-app.pl^$all
+||twoje-346210-twoje.infonf.co.pl^$all
 ||twoje-369796-raport.info03.pl^$all
 ||twoje-379726-rachunki.info03.pl^$all
 ||twoje-380715-aktualizacja.app-net.pl^$all
@@ -50094,11 +50126,13 @@
 ||twoje-627305-factury.info03.pl^$all
 ||twoje-674857-sprawa.alikot.co.pl^$all
 ||twoje-683711-wazna.all-app.cfd^$all
+||twoje-708577-faktury.infonf.co.pl^$all
 ||twoje-710028-aktualizacja.info03.pl^$all
 ||twoje-728728-twoje.knto-app.co.pl^$all
 ||twoje-745033-factury.ntpsla.co.pl^$all
 ||twoje-748325-allgr.info03.pl^$all
 ||twoje-755077.acckontnft.co.pl^$all
+||twoje-767189-moje.infonf.co.pl^$all
 ||twoje-778797-twoje.gershow.co.pl^$all
 ||twoje-786861-factury.info03.pl^$all
 ||twoje-805210-aktualizacja.knto-app.co.pl^$all
@@ -50833,6 +50867,7 @@
 ||v1nted.166992.xyz^$all
 ||v1nted.748512.xyz^$all
 ||v1nted.25424562.xyz^$all
+||v1nted.43535334.xyz^$all
 ||v1nted.76125455.xyz^$all
 ||v1nted.152154555.xyz^$all
 ||v1nted.241254512.xyz^$all
@@ -54469,6 +54504,7 @@
 ||wazna-515287-rachunki.knto-app.co.pl^$all
 ||wazna-540226-konto.app-net.pl^$all
 ||wazna-546056-twoje.knto-app.co.pl^$all
+||wazna-611177-rachunki.infonf.co.pl^$all
 ||wazna-661155-aktualizacja.gershow.co.pl^$all
 ||wazna-818514-faktury.app-de.co.pl^$all
 ||wazna-832950-konto.knto-app.co.pl^$all
