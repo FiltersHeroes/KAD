@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 02 Apr 2023, 10:18 UTC+02:00
-! Version: 2023.4.2.1
+! Last modified: Sun, 02 Apr 2023, 14:28 UTC+02:00
+! Version: 2023.4.2.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3471,6 +3471,8 @@
 ||0lx.459232303.xyz^$all
 ||0lx.505412115.xyz^$all
 ||0lx.523651222.xyz^$all
+||0lx.543495340.xyz^$all
+||0lx.543495345.xyz^$all
 ||0lx.568464676.xyz^$all
 ||0lx.609070950.xyz^$all
 ||0lx.655921211.xyz^$all
@@ -4568,6 +4570,7 @@
 ||260878-o929a.ntpsla.co.pl^$all
 ||269934-istotny-2601.gro-app.co.pl^$all
 ||271743-moje-7994.gro-app.co.pl^$all
+||278918aktualizacja7764.rejepl.co.pl^$all
 ||282612aktualizacja8564.rejepl.co.pl^$all
 ||282918.me^$all
 ||284860potwierdz4911.allplat.cloud^$all
@@ -4586,6 +4589,7 @@
 ||314175-moje-8365.allapp.co.pl^$all
 ||316421-twoje-4235.gro-app.co.pl^$all
 ||325494-konto-3982.crtn.co.pl^$all
+||327578wery9421.rejepl.co.pl^$all
 ||327651fedd5.chefs-kitchen.co.uk^$all
 ||333141-twoje-5671.allapp.co.pl^$all
 ||334839weryfikacja3277.rejepl.co.pl^$all
@@ -4593,6 +4597,7 @@
 ||345345.pro-activprofit.site^$all
 ||345771-twoje-8148.tjall.co.pl^$all
 ||346346-konto-7813.tjall.co.pl^$all
+||346355aktualizacja9419.rejepl.co.pl^$all
 ||347989-o929a.ntpsla.co.pl^$all
 ||349128-o929a.ntpsla.co.pl^$all
 ||356644moje9658.allplat.cloud^$all
@@ -4626,6 +4631,7 @@
 ||435423.xyz^$all
 ||435757ut.com^$all
 ||435767aktualizacja4311.allplat.cloud^$all
+||438982moje4738.rejepl.co.pl^$all
 ||439147-o929a.ntpsla.co.pl^$all
 ||445555potwierdzenie9917.rejepl.co.pl^$all
 ||445876-wery-9654.crtn.co.pl^$all
@@ -4652,6 +4658,7 @@
 ||506244potwierdzenie1010.app-gro.online^$all
 ||510832potwierdz8343.rejepl.co.pl^$all
 ||511929-twoje-1618.app-gro.co.pl^$all
+||515212weryfikacja2390.rejepl.co.pl^$all
 ||518804wery2541.app-gro.online^$all
 ||521475-wery-3886.tjall.co.pl^$all
 ||525069twoje8497.allplat.cloud^$all
@@ -4668,6 +4675,7 @@
 ||542730-weryfikacja-6193.allapp.co.pl^$all
 ||543111.selcdn.ru^$all
 ||543500-o929a.ntpsla.co.pl^$all
+||543658konto8229.rejepl.co.pl^$all
 ||544345-wery-2592.allapp.co.pl^$all
 ||546454istotny8458.rejepl.co.pl^$all
 ||548739.space^$all
@@ -4676,6 +4684,7 @@
 ||555305.selcdn.ru^$all
 ||556696wery7555.app-gro.online^$all
 ||558481aktualizacja6311.app-gro.online^$all
+||559035moje4080.rejepl.co.pl^$all
 ||562919weryfikacja4827.app-gro.online^$all
 ||564049-o929a.ntpsla.co.pl^$all
 ||564544.xyz^$all
@@ -4785,13 +4794,16 @@
 ||827523-wery-2911.tjall.co.pl^$all
 ||828302o172-p02393o.plattvntfx.co.pl^$all
 ||830618aktualizacja2294.rejepl.co.pl^$all
+||832934konto5204.rejepl.co.pl^$all
 ||834443-aktualizacja-4098.crtn.co.pl^$all
 ||839140-weryfikacja-3302.allapp.co.pl^$all
 ||841235potwierdzenie7696.app-gro.online^$all
+||851307konto7485.rejepl.co.pl^$all
 ||852678potwierdz7268.rejepl.co.pl^$all
 ||853790konto1326.rejepl.co.pl^$all
 ||855523.space^$all
 ||858547twoje5501.allplat.cloud^$all
+||866277weryfikacja8652.rejepl.co.pl^$all
 ||866775-o929a.ntpsla.co.pl^$all
 ||867563.xyz^$all
 ||868943-twoje-9233.crtn.co.pl^$all
@@ -8336,6 +8348,7 @@
 ||bartlomiej.lukasiewicz.biz.pl^$all
 ||bartona-sklep.pl^$all
 ||bartonasklep.pl^$all
+||bartosz.marytusia.pl^$all
 ||bartoszkomar.pl^$all
 ||bartows.info^$all
 ||bartoza.pl^$all
@@ -14520,6 +14533,7 @@
 ||delivery.careersandaim.com^$all
 ||delivery.chartisland.com^$all
 ||delivery.coinbit-up.com^$all
+||delivery.cz-agro.com^$all
 ||delivery.dlznetworks.com^$all
 ||delivery.expressglobalx.com^$all
 ||delivery.hirwamaid.com^$all
@@ -16192,6 +16206,7 @@
 ||dpd.41544512.xyz^$all
 ||dpd.44585552.xyz^$all
 ||dpd.46565656.xyz^$all
+||dpd.50698079.xyz^$all
 ||dpd.64125455.xyz^$all
 ||dpd.64585552.xyz^$all
 ||dpd.86565656.xyz^$all
@@ -23422,6 +23437,7 @@
 ||informacje-491511-konto.knto-app.co.pl^$all
 ||informacje-510008-twoje.infonf.co.pl^$all
 ||informacje-546125-dane.mail-pl.co.pl^$all
+||informacje-550218.watchnpl.co.pl^$all
 ||informacje-602418-aktualizacja.gershow.co.pl^$all
 ||informacje-654115-istotny.all-app.cfd^$all
 ||informacje-656051-faktury.mail-pl.co.pl^$all
@@ -24918,6 +24934,7 @@
 ||inpost-pl.vpejn.top^$all
 ||inpost-pl.vuikhoe.pw^$all
 ||inpost-pl.wasd4.website^$all
+||inpost-pl.wedtm.online^$all
 ||inpost-pl.werpl271846.shop^$all
 ||inpost-pl.zapret.xyz^$all
 ||inpost-pl.zenco.top^$all
@@ -26954,6 +26971,7 @@
 ||inte.kliredor.xyz^$all
 ||integrabilities.life^$all
 ||integranegocios.cl^$all
+||integrityzxoz.cfd^$all
 ||integyyail.pl^$all
 ||intelbondfx.com^$all
 ||inteligentna-bransoletka-pl.com^$all
@@ -28142,6 +28160,7 @@
 ||jnpost.568464678.xyz^$all
 ||jnpost.652322115.xyz^$all
 ||jnpost.652333230.xyz^$all
+||jnpost.743231237.xyz^$all
 ||jnpost.743231238.xyz^$all
 ||jnpost.765375340.xyz^$all
 ||jnpost.02165454845.xyz^$all
@@ -28471,6 +28490,7 @@
 ||kamery112.xyz^$all
 ||kamery-wypadek.waw.pl^$all
 ||kamienica.sportbetsignupcode.com^$all
+||kamil.alicjakinga.pl^$all
 ||kamila.plprogram-act.site^$all
 ||kamilas.pl^$all
 ||kampkit.com^$all
@@ -29410,6 +29430,7 @@
 ||krystianwojcik.com.pl^$all
 ||kryszkiewicz.com.pl^$all
 ||krytyka-fotki.eu^$all
+||krzesimir.aniaagata.com.pl^$all
 ||krzychkb.pl^$all
 ||krzyczecdumny.site^$all
 ||krzys.diament.info.pl^$all
@@ -29419,6 +29440,7 @@
 ||krzysztof-ibisz-info24.eu^$all
 ||krzysztof-ibisz-info24.pl^$all
 ||krzysztof.bogma.warszawa.pl^$all
+||krzysztof.kingakinga1.pl^$all
 ||krzysztofhejne.pl^$all
 ||krzysztofpolewka.pl^$all
 ||krzysztofritter.pl^$all
@@ -30012,6 +30034,7 @@
 ||li9302329a-no832823a.mokonta.co.pl^$all
 ||li.online-cashhh.top^$all
 ||li.revoprogramxzsed.com^$all
+||liacossyscmum.tk^$all
 ||liadkov.host^$all
 ||liaerskow.com^$all
 ||liahycerp.tk^$all
@@ -31610,6 +31633,7 @@
 ||market.15326595.xyz^$all
 ||market.262365659.xyz^$all
 ||market.3245165121.xyz^$all
+||market.lekarzlekarz.com^$all
 ||marketapart2219-o1x.marketbirthday.top^$all
 ||marketbull.co.uk^$all
 ||marketbull.live^$all
@@ -32361,6 +32385,7 @@
 ||midsaules.com^$all
 ||midtnadvertising.com^$all
 ||mie.depanticr.site^$all
+||mieczyslaw.adaolga.warszawa.pl^$all
 ||mieczyslaw.heniekmusiol.pl^$all
 ||miejsce-udzial.eu^$all
 ||miejscedomowy.site^$all
@@ -32663,6 +32688,7 @@
 ||mirmining.top^$all
 ||mirohost.online^$all
 ||mirohost.site^$all
+||miroslaw.ameliagosia.com.pl^$all
 ||miroslawklos.pl^$all
 ||mirrohost.space^$all
 ||mirror-australiannews.com^$all
@@ -37124,6 +37150,8 @@
 ||olx.226512122.xyz^$all
 ||olx.356565555.xyz^$all
 ||olx.365902154.xyz^$all
+||olx.424141235.xyz^$all
+||olx.424141236.xyz^$all
 ||olx.453265653.xyz^$all
 ||olx.545521215.xyz^$all
 ||olx.605412115.xyz^$all
@@ -38407,6 +38435,7 @@
 ||olx.torina.top^$all
 ||olx.transakcja.pw^$all
 ||olx.tujasokerga.org^$all
+||olx.tumusica.pw^$all
 ||olx.tyhoploked.org^$all
 ||olx.ua-pays.com^$all
 ||olx.ugalerfed.org^$all
@@ -38419,6 +38448,7 @@
 ||olx.viajero.net^$all
 ||olx.viho.fun^$all
 ||olx.waleupl.org^$all
+||olx.wedtm.online^$all
 ||olx.weryfi.org^$all
 ||olx.worlabyr.org^$all
 ||olx.wyprzedaz-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -44204,6 +44234,7 @@
 ||rachunki-358233-moje.app-de.co.pl^$all
 ||rachunki-363641-konto.knto-app.co.pl^$all
 ||rachunki-384806-wazna.mail-all.co.pl^$all
+||rachunki-395719.watchnpl.co.pl^$all
 ||rachunki-425234-twoje.knto-app.co.pl^$all
 ||rachunki-449349-twoje.knto-app.co.pl^$all
 ||rachunki-451965-rachunki.info03.pl^$all
@@ -45050,6 +45081,7 @@
 ||robotnikw.site^$all
 ||robotykuchenne.com^$all
 ||robremind.info^$all
+||roch.emiliamilena.pl^$all
 ||rochainprtvvd.xyz^$all
 ||rochkisko.com^$all
 ||rockabyep.com^$all
@@ -47913,6 +47945,7 @@
 ||stressfm.com^$all
 ||strettoto.com^$all
 ||streuselpr.com^$all
+||stribog.monikajoanna.pl^$all
 ||stricttragedy.info^$all
 ||stridelegs.org^$all
 ||strikerbolt.com^$all
@@ -48276,6 +48309,7 @@
 ||svaherafo.space^$all
 ||svanefalk.se^$all
 ||svarog.adaolga.warszawa.pl^$all
+||svarog.ekomar.com.pl^$all
 ||svarog.riesenberg.pl^$all
 ||sveryintoffrers.net^$all
 ||svetpribu27.za.com^$all
@@ -54471,6 +54505,7 @@
 ||vl.fromnows.xyz^$all
 ||vl.waprogram.site^$all
 ||vladimeru.ariuszfilutowski.pl^$all
+||vladimeru.kingakinga1.pl^$all
 ||vlahsno.link^$all
 ||vlariteder.com^$all
 ||vlchainlorfmq.xyz^$all
