@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 03 Apr 2023, 22:16 UTC+02:00
-! Version: 2023.4.3.3
+! Last modified: Mon, 03 Apr 2023, 23:16 UTC+02:00
+! Version: 2023.4.3.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3188,6 +3188,7 @@
 /pl/vwfs/portal/?pay|$doc,frame,domain=~pl
 /tds/ae?tds_campaign=$document
 |http*://*/fb-login/$doc,domain=~facebook.com
+|http*://*/ym.html?email=*@$doc,domain=~to-moze-byc-phishing.*
 ||0-0llx.12313123.xyz^$all
 ||0-0lx.1231312.xyz^$all
 ||0-0lxmarket.5767435.xyz^$all
@@ -7751,6 +7752,7 @@
 ||authpass.s3.us-west-004.backblazeb2.com^$all
 ||auto-domain2-manaliner.pbclimbing.co.uk^$all
 ||auto-glaze.com^$all
+||auto-poznam.pl^$all
 ||auto-pp.newssinfos.xyz^$all
 ||auto-whats.maximizator.xyz^$all
 ||auto.newtrd.xyz^$all
@@ -9009,6 +9011,7 @@
 ||big2022-invest.com^$all
 ||big-bonus-deutschland.com^$all
 ||big-data-server.com^$all
+||big-fox701-ol-lix.vacillate.one^$all
 ||big-nerd.com^$all
 ||big-offers24.com^$all
 ||big-tipsnews.net^$all
@@ -23138,6 +23141,7 @@
 ||inceptove.eu^$all
 ||inchapvest.xyz^$all
 ||inchedalord.pl^$all
+||inchoate.top^$all
 ||incinerati.com^$all
 ||incisures.com^$all
 ||incl28a9-de982a.biznelo.co.pl^$all
@@ -51618,6 +51622,7 @@
 ||v1nted-at.reservation48823.cloud^$all
 ||v1nted-at.reservation60649.cloud^$all
 ||v1nted-at.reservation64329.cloud^$all
+||v1nted-at.reservation87839.cloud^$all
 ||v1nted-at.reservation90944.cloud^$all
 ||v1nted-inform.46mar-ket.xyz^$all
 ||v1nted-infosite.236553122222.xyz^$all
@@ -52414,6 +52419,7 @@
 ||vinted-de.confirm-deal-online.org^$all
 ||vinted-de.safety-secure.info^$all
 ||vinted-de.securespays.org^$all
+||vinted-de.wallet-take.info^$all
 ||vinted-delivery.000457888.xyz^$all
 ||vinted-delivery.8900092.xyz^$all
 ||vinted-delivery.08975445.xyz^$all
@@ -53854,6 +53860,7 @@
 ||vinted.554655417.xyz^$all
 ||vinted.554655434.xyz^$all
 ||vinted.556326566.xyz^$all
+||vinted.605956323.xyz^$all
 ||vinted.659823055.xyz^$all
 ||vinted.845638743.xyz^$all
 ||vinted.6521541212.xyz^$all
