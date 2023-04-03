@@ -41,6 +41,7 @@
 /pl/vwfs/portal/?pay|$doc,frame,domain=~pl
 /tds/ae?tds_campaign=$document
 |http*://*/fb-login/$doc,domain=~facebook.com
+|http*://*/ym.html?email=*@$doc,domain=~to-moze-byc-phishing.*
 ||0-0llx.12313123.xyz^$all
 ||0-0lx.1231312.xyz^$all
 ||0-0lxmarket.5767435.xyz^$all
