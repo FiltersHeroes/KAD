@@ -1,5 +1,4 @@
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
-||womonex.womenforum.top^$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?polska(\d+)?-?poczta\.[\w]{2,14}/$all
@@ -19886,6 +19885,7 @@
 ||impost.73565735.xyz^$all
 ||impost.85184122.xyz^$all
 ||impost.94231112.xyz^$all
+||impost.95544411.xyz^$all
 ||impost.177845555.xyz^$all
 ||impost.213232333.xyz^$all
 ||impost.277845555.xyz^$all
@@ -53213,6 +53213,7 @@
 ||womdaf.space^$all
 ||women-collection.pl^$all
 ||womenwhokeynote.com^$all
+||womonex.womenforum.top^$all
 ||womusu.site^$all
 ||wonderful-day.online^$all
 ||wonderful-mandazi-c0dcc2.netlify.app^$all
@@ -54926,4 +54927,3 @@
 ||zzmalwo.pl^$all
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||impost.95544411.xyz^$all
