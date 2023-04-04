@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 04 Apr 2023, 10:20 UTC+02:00
-! Version: 2023.4.4.0
+! Last modified: Tue, 04 Apr 2023, 14:30 UTC+02:00
+! Version: 2023.4.4.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3508,6 +3508,7 @@
 ||00lx.854687661.xyz^$all
 ||0lx.856467835.xyz^$all
 ||0lx.856467839.xyz^$all
+||0lx.926502122.xyz^$all
 ||0lx.3421545455.xyz^$all
 ||0lx.32605124555.xyz^$all
 ||0lx.46594345154.xyz^$all
@@ -4646,6 +4647,7 @@
 ||333141-twoje-5671.allapp.co.pl^$all
 ||334839weryfikacja3277.rejepl.co.pl^$all
 ||336565-o929a.ntpsla.co.pl^$all
+||343578kodem6054.all-app.cfd^$all
 ||345345.pro-activprofit.site^$all
 ||345771-twoje-8148.tjall.co.pl^$all
 ||346346-konto-7813.tjall.co.pl^$all
@@ -4657,6 +4659,7 @@
 ||359386-wery-1194.tjall.co.pl^$all
 ||362494-twoje-3570.crtn.co.pl^$all
 ||362786-potwierdzenie-6469.crtn.co.pl^$all
+||363138konto5963.all-app.cfd^$all
 ||363785-aktualizacja-3997.gro-app.co.pl^$all
 ||364089logowanie6117.knto.cloud^$all
 ||374383potwierdz5016.app-gro.online^$all
@@ -4680,6 +4683,7 @@
 ||401545-o929a.ntpsla.co.pl^$all
 ||401884-weryfikacja-6571.crtn.co.pl^$all
 ||402897moje3725.allplat.cloud^$all
+||403854kodsms3346.all-app.cfd^$all
 ||409945-409945.ntpsla.co.pl^$all
 ||411229-istotny-8188.tjall.co.pl^$all
 ||413456istotny8878.allplat.cloud^$all
@@ -4689,6 +4693,7 @@
 ||421203kodem.tslv.co.pl^$all
 ||421541konto6140.poczta.cfd^$all
 ||432333.xyz^$all
+||433083poczta7956.all-app.cfd^$all
 ||435423.xyz^$all
 ||435757ut.com^$all
 ||435767aktualizacja4311.allplat.cloud^$all
@@ -4754,6 +4759,7 @@
 ||556696wery7555.app-gro.online^$all
 ||558481aktualizacja6311.app-gro.online^$all
 ||559035moje4080.rejepl.co.pl^$all
+||559838dalej6167.all-app.cfd^$all
 ||562919weryfikacja4827.app-gro.online^$all
 ||564049-o929a.ntpsla.co.pl^$all
 ||564544.xyz^$all
@@ -4797,6 +4803,7 @@
 ||645344.xyz^$all
 ||645346.xyz^$all
 ||645455.xyz^$all
+||647376poczta1880.all-app.cfd^$all
 ||649361konto8071.poczta.cfd^$all
 ||649823kodem8440.knto.cloud^$all
 ||651262-twoje-5498.app-gro.co.pl^$all
@@ -4832,11 +4839,13 @@
 ||718294-o929a.ntpsla.co.pl^$all
 ||720273-aktualizacja-6239.crtn.co.pl^$all
 ||721331-wery-1431.kntlgr.co.pl^$all
+||722440dalej6082.all-app.cfd^$all
 ||727488moje8830.allplat.cloud^$all
 ||727986e0012.chefs-kitchen.co.uk^$all
 ||728342-wery-4562.crtn.co.pl^$all
 ||730121-weryfikacja-5686.sslsr.co.pl^$all
 ||732449aktualizacja3786.knto.cloud^$all
+||734918kodsms2238.all-app.cfd^$all
 ||735160logowanie.tslv.co.pl^$all
 ||735175weryfikacja5446.rejepl.co.pl^$all
 ||736607aktualizacja1833.all-app.cfd^$all
@@ -4888,6 +4897,7 @@
 ||853790konto1326.rejepl.co.pl^$all
 ||855523.space^$all
 ||858547twoje5501.allplat.cloud^$all
+||860545weryfikacja7273.all-app.cfd^$all
 ||866277weryfikacja8652.rejepl.co.pl^$all
 ||866775-o929a.ntpsla.co.pl^$all
 ||867563.xyz^$all
@@ -4896,6 +4906,7 @@
 ||872548-potwierdz-6408.app-all.co.pl^$all
 ||879425kodem4068.knto.cloud^$all
 ||881993aktualizacja7388.app-gro.online^$all
+||884200potwierdz5957.all-app.cfd^$all
 ||886034potwierdzenie2985.allplat.cloud^$all
 ||887601potwierdz2034.rejepl.co.pl^$all
 ||887668-o929a.ntpsla.co.pl^$all
@@ -9631,6 +9642,7 @@
 ||bnpparibasfortis.marketlogicsoftware.com^$all
 ||bnpparibos.in^$all
 ||bnpparibuas.in^$all
+||bnpparidas.ecshomework.org^$all
 ||bnpparidas.in^$all
 ||bnpparigas.in^$all
 ||bnpparilas.in^$all
@@ -9686,6 +9698,7 @@
 ||bogrondasklep.pl^$all
 ||bohemian-rhapsody-2018-online-napisy-pl-cda.over-blog.com^$all
 ||boiled-sulky-cupboard.glitch.me^$all
+||boiler.monster^$all
 ||boiltraumatic.cn^$all
 ||boingoli.site^$all
 ||boint.club^$all
@@ -10958,6 +10971,7 @@
 ||chainreaction-pl.world^$all
 ||chainreaction-pl.xyz^$all
 ||chainreaction.autos^$all
+||chainsuccess.cyou^$all
 ||chaintruncat.info^$all
 ||chaisenfuns.co^$all
 ||chaking-bagging.builderallwppro.com^$all
@@ -22651,6 +22665,7 @@
 ||ignacymaria.com.pl^$all
 ||ignorowacprzeciazony.site^$all
 ||igozet.com^$all
+||igplnh.codesandbox.io^$all
 ||ih-post24.4565435.xyz^$all
 ||ih-post46.1324466.xyz^$all
 ||ih-post900.63212221.xyz^$all
@@ -24974,6 +24989,7 @@
 ||inpost-pl.6352915-offerts.xyz^$all
 ||inpost-pl.8403534.xyz^$all
 ||inpost-pl.9473873-info-mycash.xyz^$all
+||inpost-pl.aaa7.xyz^$all
 ||inpost-pl.adgsfe2.fun^$all
 ||inpost-pl.advous.top^$all
 ||inpost-pl.agenciahb.pw^$all
@@ -24983,6 +24999,7 @@
 ||inpost-pl.britembuy.pw^$all
 ||inpost-pl.buyngitems.pw^$all
 ||inpost-pl.cers-site-83393.xyz^$all
+||inpost-pl.darkkey.online^$all
 ||inpost-pl.darou.top^$all
 ||inpost-pl.deliverorder.pw^$all
 ||inpost-pl.delivery-728192.xyz^$all
@@ -25005,6 +25022,7 @@
 ||inpost-pl.dostawasafe.xyz^$all
 ||inpost-pl.downloadlagu.shop^$all
 ||inpost-pl.eristica.online^$all
+||inpost-pl.eurothereum.xyz^$all
 ||inpost-pl.eviva.store^$all
 ||inpost-pl.ezdeliveries.eu^$all
 ||inpost-pl.fast-deliv-728282.xyz^$all
@@ -25014,6 +25032,7 @@
 ||inpost-pl.gdes.space^$all
 ||inpost-pl.gembling-deser-638276.xyz^$all
 ||inpost-pl.goodspurchase.pw^$all
+||inpost-pl.harinama.lol^$all
 ||inpost-pl.harinezumi.top^$all
 ||inpost-pl.herbata.top^$all
 ||inpost-pl.horsecr.club^$all
@@ -25096,6 +25115,7 @@
 ||inpost-pl.receivei.shop^$all
 ||inpost-pl.reigjoytobuy.pw^$all
 ||inpost-pl.rezerwacja-srodkow.com^$all
+||inpost-pl.ry13.xyz^$all
 ||inpost-pl.sadik.top^$all
 ||inpost-pl.safe-pl.xyz^$all
 ||inpost-pl.safeorder.co^$all
@@ -25114,6 +25134,7 @@
 ||inpost-pl.stiritv.xyz^$all
 ||inpost-pl.system-pay2344.ml^$all
 ||inpost-pl.takasho.site^$all
+||inpost-pl.techexpert.top^$all
 ||inpost-pl.tedan.top^$all
 ||inpost-pl.thegioimmo.xyz^$all
 ||inpost-pl.tilted-reset-72829.xyz^$all
@@ -30891,6 +30912,7 @@
 ||login.blocchain.pro^$all
 ||login.bnk.min247.online^$all
 ||login.bnppanibas-pl.com^$all
+||login.bnppanibaspl.com^$all
 ||login.bnpparlbaspl.com^$all
 ||login.hypeevent.repl.co^$all
 ||login.microsoftonline.com.office.ausunitypreprod.australianunity1.myshn.net^$all
@@ -31676,6 +31698,7 @@
 ||maol.xoneprog.site^$all
 ||map-icloud.live^$all
 ||map.solprof.site^$all
+||map.tcoprog.site^$all
 ||mapa.grixmotiove.com^$all
 ||mapail.maxuziz.xyz^$all
 ||maplejunkcars.com^$all
@@ -33958,6 +33981,7 @@
 ||myclipnotes.com^$all
 ||mycoflo.eu^$all
 ||mycoinology.com^$all
+||mycryp.goprogramia.top^$all
 ||mydeal-online.online^$all
 ||mydebitcardsecurity.myddns.me^$all
 ||mydetroitlawyer.com^$all
@@ -34038,6 +34062,7 @@
 ||myspecial.sa.com^$all
 ||mysticisma.com^$all
 ||mystifyin.xyz^$all
+||mystory.inprog.top^$all
 ||mytenbullets.com^$all
 ||mythicises.life^$all
 ||mythiols.com^$all
@@ -36381,6 +36406,7 @@
 ||ollx.7885462.xyz^$all
 ||ollx.7989656.xyz^$all
 ||ollx.8764878.xyz^$all
+||ollx.12155152.xyz^$all
 ||ollx.15184122.xyz^$all
 ||ollx.15320000.xyz^$all
 ||ollx.15989656.xyz^$all
@@ -36404,6 +36430,8 @@
 ||ollx.54256267.xyz^$all
 ||ollx.54256268.xyz^$all
 ||ollx.54256269.xyz^$all
+||ollx.62155152.xyz^$all
+||ollx.64851125.xyz^$all
 ||ollx.65464568.xyz^$all
 ||ollx.65626541.xyz^$all
 ||ollx.68654682.xyz^$all
@@ -37354,6 +37382,7 @@
 ||olx.15522212.xyz^$all
 ||olx.15956320.xyz^$all
 ||olx.15986653.xyz^$all
+||olx.22151512.xyz^$all
 ||olx.22265996.xyz^$all
 ||olx.22700021.xyz^$all
 ||olx.24512221.xyz^$all
@@ -37363,6 +37392,7 @@
 ||olx.30021220.xyz^$all
 ||olx.32021222.xyz^$all
 ||olx.32211555.xyz^$all
+||olx.32265996.xyz^$all
 ||olx.32700021.xyz^$all
 ||olx.35032333.xyz^$all
 ||olx.35121548.xyz^$all
@@ -39083,6 +39113,7 @@
 ||oolx.92342090.xyz^$all
 ||oolx.92342097.xyz^$all
 ||oolx.98152122.xyz^$all
+||oolx.181515212.xyz^$all
 ||oolx.459563231.xyz^$all
 ||oolx.532232333.xyz^$all
 ||oolx.659563231.xyz^$all
@@ -40824,6 +40855,7 @@
 ||pgnig0-1page.web.app^$all
 ||pgnig0lol.web.app^$all
 ||pgnig1-good.web.app^$all
+||pgnig23pgnig.web.app^$all
 ||pgnig23pl.web.app^$all
 ||pgnig23plgo.web.app^$all
 ||pgnig-1pl.web.app^$all
@@ -41544,6 +41576,7 @@
 ||platformie-lotos.site^$all
 ||platformnormalize.com^$all
 ||platformoftech.online^$all
+||platformofthefuture.com^$all
 ||platformorlen.biz^$all
 ||platformorlen.com^$all
 ||platformorlen.us^$all
@@ -42066,6 +42099,7 @@
 ||pocztapollskamarket.targetstore.top^$all
 ||pocztapolsalka58.jamcompprechicle.cf^$all
 ||pocztapolska-pl.order-ad.com^$all
+||pocztapolska-pomoc.com^$all
 ||pocztapolska.eu^$all
 ||pocztapolskaplischved2ahukewjq1-906680.ingress-comporellon.easywp.com^$all
 ||pocztapolskxsul.dostawton.homes^$all
@@ -43638,6 +43672,7 @@
 ||professionsuccess.info^$all
 ||professionsuccess.top^$all
 ||profetfloorisen.tk^$all
+||proffbornaiadss.site^$all
 ||proffi-md.rockstas.xyz^$all
 ||proffi-pl.online^$all
 ||proffi-pl.shop^$all
@@ -45023,6 +45058,7 @@
 ||relevancecatch.com^$all
 ||reliablene.pl^$all
 ||relianceopposed.com^$all
+||rellinesangla.tk^$all
 ||reloicates.com^$all
 ||remarkablequest.top^$all
 ||rememberject.com^$all
@@ -45144,6 +45180,7 @@
 ||reu.czprogtn.xyz^$all
 ||reutilized.xyz^$all
 ||reveal-app.com^$all
+||revenuerush.icu^$all
 ||reverent-morse-b91d11.netlify.app^$all
 ||reverent-yalow-e35ac8.netlify.app^$all
 ||reverers.fun^$all
@@ -51573,6 +51610,7 @@
 ||uufycg-maintenance-2a77de039-hfbee.sitebeat.crazydomains.com^$all
 ||uugaa.com^$all
 ||uuytvvcfd.weebly.com^$all
+||uuz.laqwer.online^$all
 ||uv.gaznf.xyz^$all
 ||uvar.uno^$all
 ||uvarovites.xyz^$all
@@ -52191,6 +52229,7 @@
 ||vihted.8980906.xyz^$all
 ||vihted.8980908.xyz^$all
 ||vihted.18451254.xyz^$all
+||vihted.526502122.xyz^$all
 ||vihted.320621545455.xyz^$all
 ||vihted.deliv-ery-4221.xyz^$all
 ||vihted.infodeljvery.site^$all
@@ -54676,6 +54715,7 @@
 ||vjnted.98895409.xyz^$all
 ||vjnted.305412115.xyz^$all
 ||vjnted.477887887.xyz^$all
+||vjnted.681515212.xyz^$all
 ||vjnted.4912541215.xyz^$all
 ||vjnted.7265941521.xyz^$all
 ||vjnted.66666665955.xyz^$all
@@ -55538,6 +55578,7 @@
 ||wenerlabnppdonateweb-a3aba7.ingress-earth.easywp.com^$all
 ||wentpays.top^$all
 ||wenyugs.com^$all
+||wepklbalta.com^$all
 ||weplay-events.pro^$all
 ||weplay-jr.com^$all
 ||weplbltka.com^$all
@@ -55564,6 +55605,7 @@
 ||wersow-24.atwebpages.com^$all
 ||wersow-gola24.mypressonline.com^$all
 ||werszner.pl^$all
+||werthechampions.space^$all
 ||weryfikacja-257896-9537.watpls.co.pl^$all
 ||weryfikacja-275767-7543.watchnpl.co.pl^$all
 ||weryfikacja-321015-1757.watchnpl.co.pl^$all
@@ -57089,6 +57131,7 @@
 ||yinpost.id-0684.me^$all
 ||yipessiest.com^$all
 ||yipsmyceli.pl^$all
+||yipwlyhxi46409fd47e77c3.ainnr.ru^$all
 ||yjaik.plfcaty.xyz^$all
 ||ykkdzqvj.headacheprotect.cc^$all
 ||yktgi.org^$all
@@ -57156,6 +57199,7 @@
 ||youlogging.life^$all
 ||youlogging.top^$all
 ||youlogging.xyz^$all
+||younggl.space^$all
 ||youngplatform.autos^$all
 ||youprecedence.club^$all
 ||youprecedence.info^$all
