@@ -2,6 +2,7 @@
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 ||ceskvabal.xyz^$important,xhr
+|http://zakupy.auchan.pl^$doc,domain=wymus-https-na-poczatku-adresu.*
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
 ~pl##a[href*="whokeys.com/"]:lang(pl)
