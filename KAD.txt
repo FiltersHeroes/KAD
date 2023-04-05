@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 05 Apr 2023, 18:25 UTC+02:00
-! Version: 2023.4.5.2
+! Last modified: Wed, 05 Apr 2023, 21:02 UTC+02:00
+! Version: 2023.4.5.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3890,6 +3890,7 @@
 ||4d3791f40bf.chefs-kitchen.co.uk^$all
 ||4e2eafd5.365software.co.uk^$all
 ||4efa1112b50.chefs-kitchen.co.uk^$all
+||4fafmus464.krasuccy.pl^$all
 ||4favo.com^$all
 ||4g08l491agijap65e6alj4quvepv63hf7db4onsljam9m7avt0sh580.siasky.net^$all
 ||4interia.azureedge.net^$all
@@ -4540,6 +4541,7 @@
 ||92571.000webhostapp.com^$all
 ||97635.000webhostapp.com^$all
 ||99063fc12c2.chefs-kitchen.co.uk^$all
+||100025potwierdz.jdhs.pl^$all
 ||101854moje7430.rejepl.co.pl^$all
 ||101882aktualizacja3486.knto.cloud^$all
 ||101961.logowanie-wieku.xyz^$all
@@ -4547,8 +4549,10 @@
 ||107972-moje-6542.app-gro.co.pl^$all
 ||112121.space^$all
 ||118633-twoje-1293.crtn.co.pl^$all
+||119920konto.jdhs.pl^$all
 ||120225kodem2411.knto.cloud^$all
 ||120792.logowanie-wieku.xyz^$all
+||121661kodem.jdhs.pl^$all
 ||126339potwierdz3134.poczta.cfd^$all
 ||127860logowanie5886.knto.cloud^$all
 ||128543konto8071.allplat.cloud^$all
@@ -4556,8 +4560,11 @@
 ||129677aktualizacja9775.rejepl.co.pl^$all
 ||131465aktualizacja8926.knto.cloud^$all
 ||131468-moje-8240.crtn.co.pl^$all
+||131988aktualizacja.jdhs.pl^$all
 ||132213.pro-activprofit.site^$all
+||132875kodem.jdhs.pl^$all
 ||132906.xyz^$all
+||133666logowanie.jdhs.pl^$all
 ||134099.space^$all
 ||135560-weryfikacja-5079.app-all.co.pl^$all
 ||138095.space^$all
@@ -4566,17 +4573,20 @@
 ||140093.space^$all
 ||140200-twoje-5539.gro-app.co.pl^$all
 ||140272-konto-5587.kntlgr.co.pl^$all
+||140535dalej.jdhs.pl^$all
 ||142577-o929a.ntpsla.co.pl^$all
 ||144053-weryfikacja-4788.app-all.co.pl^$all
 ||146332-weryfikacja-6222.app-gro.co.pl^$all
 ||148496potwierdz3991.rejepl.co.pl^$all
 ||149443potwierdz5483.knto.cloud^$all
+||151470kodsms.jdhs.pl^$all
 ||151664potwierdzenie7666.rejepl.co.pl^$all
 ||154121wery4811.app-gro.online^$all
 ||156549-potwierdz-8470.tjall.co.pl^$all
 ||158655cd.bakerstreetfinance.tv^$all
 ||158766twoje9689.allplat.cloud^$all
 ||159172potwierdzenie5672.app-gro.online^$all
+||167143weryfikacja.jdhs.pl^$all
 ||171493-o929a.ntpsla.co.pl^$all
 ||171649-weryfikacja-1742.allapp.co.pl^$all
 ||172557-twoje-4470.kntlgr.co.pl^$all
@@ -4604,18 +4614,23 @@
 ||213222.xyz^$all
 ||214455weryfikacja4938.rejepl.co.pl^$all
 ||215881dalej6292.knto.cloud^$all
+||216332dalej.jdhs.pl^$all
 ||219133aktualizacja4730.allplat.cloud^$all
 ||220271-potwierdz-7964.allapp.co.pl^$all
 ||221916twoje6642.rejepl.co.pl^$all
 ||226503poczta4261.knto.cloud^$all
+||227203poczta.jdhs.pl^$all
+||229820kodem.jdhs.pl^$all
 ||229878-konto-8926.gro-app.co.pl^$all
 ||234234.pro-activprofit.site^$all
 ||234503-wery-5185.kntlgr.co.pl^$all
 ||234605konto1867.rejepl.co.pl^$all
+||236187poczta.jdhs.pl^$all
 ||238660poczta7680.knto.cloud^$all
 ||241326aktualizacja7092.knto.cloud^$all
 ||244431potwierdzenie9793.allplat.cloud^$all
 ||244501-konto-7532.kntlgr.co.pl^$all
+||246851logowanie.jdhs.pl^$all
 ||246898-o929a.ntpsla.co.pl^$all
 ||249670-potwierdzenie-7622.gro-app.co.pl^$all
 ||250704-o929a.ntpsla.co.pl^$all
@@ -4629,6 +4644,7 @@
 ||271743-moje-7994.gro-app.co.pl^$all
 ||275264kodem.knto.cloud^$all
 ||276780konto2381.actnf.cfd^$all
+||277414konto.jdhs.pl^$all
 ||278918aktualizacja7764.rejepl.co.pl^$all
 ||282612aktualizacja8564.rejepl.co.pl^$all
 ||282918.me^$all
@@ -4643,6 +4659,8 @@
 ||297212-moje-9708.app-all.co.pl^$all
 ||299110.allegrolokalnie.ink^$all
 ||301723istotny9636.rejepl.co.pl^$all
+||303015potwierdz.jdhs.pl^$all
+||304939konto.jdhs.pl^$all
 ||307902istotny4919.rejepl.co.pl^$all
 ||308032-moje-2943.sslsr.co.pl^$all
 ||308249potwierdzenie4362.app-gro.online^$all
@@ -4654,6 +4672,7 @@
 ||327578wery9421.rejepl.co.pl^$all
 ||327651fedd5.chefs-kitchen.co.uk^$all
 ||333141-twoje-5671.allapp.co.pl^$all
+||334748kodsms.jdhs.pl^$all
 ||334839weryfikacja3277.rejepl.co.pl^$all
 ||336565-o929a.ntpsla.co.pl^$all
 ||343578kodem6054.all-app.cfd^$all
@@ -4702,6 +4721,8 @@
 ||416522twoje9812.allplat.cloud^$all
 ||421203kodem.tslv.co.pl^$all
 ||421541konto6140.poczta.cfd^$all
+||425772logowanie.jdhs.pl^$all
+||427243poczta.jdhs.pl^$all
 ||432333.xyz^$all
 ||433083poczta7956.all-app.cfd^$all
 ||435423.xyz^$all
@@ -4715,12 +4736,16 @@
 ||445876-wery-9654.crtn.co.pl^$all
 ||446220kodsms9477.knto.cloud^$all
 ||446243wery8397.rejepl.co.pl^$all
+||446487aktualizacja.jdhs.pl^$all
 ||447066potwierdzenie9109.allplat.cloud^$all
 ||450664twoje9728.allplat.cloud^$all
 ||457713-o929a.ntpsla.co.pl^$all
 ||458504-o929a.ntpsla.co.pl^$all
+||459275weryfikacja.jdhs.pl^$all
 ||460999aktualizacja5684.app-gro.online^$all
+||461894kodem.jdhs.pl^$all
 ||464023-konto-8240.app-all.co.pl^$all
+||464448kodsms.jdhs.pl^$all
 ||465712-o929a.ntpsla.co.pl^$all
 ||468003moje5421.allplat.cloud^$all
 ||470948-o929a.ntpsla.co.pl^$all
@@ -4743,6 +4768,8 @@
 ||511929-twoje-1618.app-gro.co.pl^$all
 ||515212weryfikacja2390.rejepl.co.pl^$all
 ||516080konto.knto.cloud^$all
+||518362poczta.jdhs.pl^$all
+||518558dalej.jdhs.pl^$all
 ||518804wery2541.app-gro.online^$all
 ||521475-wery-3886.tjall.co.pl^$all
 ||525069twoje8497.allplat.cloud^$all
@@ -4766,6 +4793,7 @@
 ||547925kodem.soulcar.pl^$all
 ||548739.space^$all
 ||553521.selcdn.ru^$all
+||553707dalej.jdhs.pl^$all
 ||554838kodsms.soulcar.pl^$all
 ||555024wery8891.app-gro.online^$all
 ||555305.selcdn.ru^$all
@@ -4792,11 +4820,14 @@
 ||583220konto9613.rejepl.co.pl^$all
 ||584056potwierdzenie9317.allplat.cloud^$all
 ||588265-potwierdz-8862.app-gro.co.pl^$all
+||592108weryfikacja.jdhs.pl^$all
+||592965logowanie.jdhs.pl^$all
 ||594705.selcdn.ru^$all
 ||596422.selcdn.ru^$all
 ||597189logowanie1374.knto.cloud^$all
 ||597535moje2918.rejepl.co.pl^$all
 ||605188poczta.knto.cloud^$all
+||606858poczta.jdhs.pl^$all
 ||607511logowanie8902.knto.cloud^$all
 ||609128-wery-3113.app-all.co.pl^$all
 ||617632kodsms1578.knto.cloud^$all
@@ -4805,12 +4836,15 @@
 ||622180aktualizacja8949.rejepl.co.pl^$all
 ||0625886bde5.chefs-kitchen.co.uk^$all
 ||626525.selcdn.ru^$all
+||626734logowanie.jdhs.pl^$all
 ||631640aktualizacja5371.allplat.cloud^$all
 ||631684dalej.mail-all.cfd^$all
+||632174potwierdz.jdhs.pl^$all
 ||632573weryfikacja1031.app-gro.online^$all
 ||634511-zaplata.net^$all
 ||636273aktualizacja1025.rejepl.co.pl^$all
 ||637287wery7907.app-gro.online^$all
+||637606kodem.jdhs.pl^$all
 ||641427-konto-2930.allapp.co.pl^$all
 ||642154-wery-4812.app-gro.co.pl^$all
 ||642289-o929a.ntpsla.co.pl^$all
@@ -4837,12 +4871,14 @@
 ||675316-potwierdzenie-7931.app-all.co.pl^$all
 ||675432-wery-9913.gro-app.co.pl^$all
 ||675664.xyz^$all
+||677372aktualizacja.jdhs.pl^$all
 ||684767istotny8018.allplat.cloud^$all
 ||687900.xyz^$all
 ||688906-potwierdzenie-6092.allapp.co.pl^$all
 ||690126istotny8703.rejepl.co.pl^$all
 ||698429konto8227.rejepl.co.pl^$all
 ||698925potwierdz8184.knto.cloud^$all
+||700101kodsms.jdhs.pl^$all
 ||702786potwierdz4302.app-gro.online^$all
 ||703023konto5698.rejepl.co.pl^$all
 ||705490-wery-9116.app-gro.co.pl^$all
@@ -4850,27 +4886,33 @@
 ||708350potwierdzenie2515.app-gro.online^$all
 ||710512-twoje-5404.app-gro.co.pl^$all
 ||710965-moje-3122.app-gro.co.pl^$all
+||713915potwierdz.jdhs.pl^$all
 ||717752-moje-7447.gro-app.co.pl^$all
 ||718103-twoje-2282.kntlgr.co.pl^$all
 ||718294-o929a.ntpsla.co.pl^$all
 ||720273-aktualizacja-6239.crtn.co.pl^$all
 ||721331-wery-1431.kntlgr.co.pl^$all
 ||722440dalej6082.all-app.cfd^$all
+||724799kodem.jdhs.pl^$all
+||726902weryfikacja.jdhs.pl^$all
 ||727488moje8830.allplat.cloud^$all
 ||727986e0012.chefs-kitchen.co.uk^$all
 ||728342-wery-4562.crtn.co.pl^$all
+||728888aktualizacja.jdhs.pl^$all
 ||730121-weryfikacja-5686.sslsr.co.pl^$all
 ||732449aktualizacja3786.knto.cloud^$all
 ||734918kodsms2238.all-app.cfd^$all
 ||735160logowanie.tslv.co.pl^$all
 ||735175weryfikacja5446.rejepl.co.pl^$all
 ||736607aktualizacja1833.all-app.cfd^$all
+||736814kodsms.jdhs.pl^$all
 ||741235potwierdz7468.allplat.cloud^$all
 ||741847.allegrolokalnie.gifts^$all
 ||742702potwierdzenie8031.rejepl.co.pl^$all
 ||743378-konto-1041.app-all.co.pl^$all
 ||745655.xyz^$all
 ||746532.xyz^$all
+||747832aktualizacja.jdhs.pl^$all
 ||748219.000webhostapp.com^$all
 ||750815potwierdz8077.rejepl.co.pl^$all
 ||751402-konto-7236.app-all.co.pl^$all
@@ -4892,6 +4934,7 @@
 ||787995b8fec.chefs-kitchen.co.uk^$all
 ||788426-aktualizacja-8001.kntlgr.co.pl^$all
 ||794454konto1108.app-gro.online^$all
+||794699konto.jdhs.pl^$all
 ||795803moje4586.app-gro.online^$all
 ||797363potwierdz4617.rejepl.co.pl^$all
 ||797436-potwierdz-7864.app-gro.co.pl^$all
@@ -4899,7 +4942,10 @@
 ||805800-o929a.ntpsla.co.pl^$all
 ||811448f08b4.chefs-kitchen.co.uk^$all
 ||815426-o929a.ntpsla.co.pl^$all
+||817565dalej.jdhs.pl^$all
+||820221kodem.jdhs.pl^$all
 ||825470konto2875.knto.cloud^$all
+||827512poczta.jdhs.pl^$all
 ||827523-wery-2911.tjall.co.pl^$all
 ||828302o172-p02393o.plattvntfx.co.pl^$all
 ||830618aktualizacja2294.rejepl.co.pl^$all
@@ -4912,6 +4958,7 @@
 ||851307konto7485.rejepl.co.pl^$all
 ||852678potwierdz7268.rejepl.co.pl^$all
 ||853790konto1326.rejepl.co.pl^$all
+||855404aktualizacja.jdhs.pl^$all
 ||855523.space^$all
 ||858547twoje5501.allplat.cloud^$all
 ||860545weryfikacja7273.all-app.cfd^$all
@@ -4921,6 +4968,7 @@
 ||868943-twoje-9233.crtn.co.pl^$all
 ||872180-aktualizacja-7582.app-all.co.pl^$all
 ||872548-potwierdz-6408.app-all.co.pl^$all
+||874908kodem.jdhs.pl^$all
 ||876847weryfikacja.soulcar.pl^$all
 ||879425kodem4068.knto.cloud^$all
 ||881993aktualizacja7388.app-gro.online^$all
@@ -4929,6 +4977,7 @@
 ||887601potwierdz2034.rejepl.co.pl^$all
 ||887668-o929a.ntpsla.co.pl^$all
 ||887711-o929a.ntpsla.co.pl^$all
+||892308kodem.jdhs.pl^$all
 ||892562konto7174.rejepl.co.pl^$all
 ||896556weryfikacja2887.allplat.cloud^$all
 ||899259-o929a.ntpsla.co.pl^$all
@@ -4948,6 +4997,7 @@
 ||947691konto5646.actnf.cfd^$all
 ||950448potwierdz6948.allplat.cloud^$all
 ||951556twoje4217.app-gro.online^$all
+||952809weryfikacja.jdhs.pl^$all
 ||957058aktualizacja8408.rejepl.co.pl^$all
 ||958845-twoje-3173.allapp.co.pl^$all
 ||962930konto9799.knto.cloud^$all
@@ -5861,6 +5911,7 @@
 ||aktualizacja-226512-relacja.info03.pl^$all
 ||aktualizacja-230604-konto.knto-app.co.pl^$all
 ||aktualizacja-232127.watchnpl.co.pl^$all
+||aktualizacja-237864.jdie.pl^$all
 ||aktualizacja-238001-dane.nf-app.co.pl^$all
 ||aktualizacja-248604-dane.all-mail.co.pl^$all
 ||aktualizacja-278819-twoje.nf-app.pl^$all
@@ -5876,10 +5927,12 @@
 ||aktualizacja-429379-factury.info03.pl^$all
 ||aktualizacja-461822-factury.info03.pl^$all
 ||aktualizacja-472052-istotny.app-de.co.pl^$all
+||aktualizacja-479891.jdie.pl^$all
 ||aktualizacja-510201-twoje.app-net.pl^$all
 ||aktualizacja-531857-konto.info03.pl^$all
 ||aktualizacja-539193.tslv.co.pl^$all
 ||aktualizacja-539737-moje.info03.pl^$all
+||aktualizacja-543604.jdie.pl^$all
 ||aktualizacja-549019-moje.gershow.co.pl^$all
 ||aktualizacja-554049-moje.showntpl.co.pl^$all
 ||aktualizacja-557069-moje.info03.pl^$all
@@ -5894,14 +5947,17 @@
 ||aktualizacja-701330-rachunki.infonf.co.pl^$all
 ||aktualizacja-720064-faktury.knto-app.co.pl^$all
 ||aktualizacja-720589-faktury.mail-pl.co.pl^$all
+||aktualizacja-720757.jdie.pl^$all
 ||aktualizacja-755637-wzglad.info03.pl^$all
 ||aktualizacja-779956-informacje.showntpl.co.pl^$all
 ||aktualizacja-784046-konto.info03.pl^$all
 ||aktualizacja-792696-wazna.knto-app.co.pl^$all
 ||aktualizacja-798772-moje.info03.pl^$all
 ||aktualizacja-815749-5770.watchnpl.co.pl^$all
+||aktualizacja-831774.jdie.pl^$all
 ||aktualizacja-842395-faktury.mail-all.co.pl^$all
 ||aktualizacja-847982-istotny.infonf.co.pl^$all
+||aktualizacja-925901.jdie.pl^$all
 ||aktualizacja-947092-relacja.info03.pl^$all
 ||aktualizacja-949221-allgr.info03.pl^$all
 ||aktualizacja-991587-faktury.knto-app.co.pl^$all
@@ -10886,6 +10942,7 @@
 ||centre.ng^$all
 ||centrodeneurologia.com^$all
 ||centrolinguisticorobert.com^$all
+||centrteslplusx.online^$all
 ||centrum24-app.cc^$all
 ||centrum24-app.pl^$all
 ||centrum24-zablokowany.info^$all
@@ -14191,6 +14248,9 @@
 ||dakota-sklep.pl^$all
 ||dal.bashes.site^$all
 ||dalawid.com^$all
+||dalej-123921.jdie.pl^$all
+||dalej-172122.jdie.pl^$all
+||dalej-457755.jdie.pl^$all
 ||dalej-bez.eu^$all
 ||daleko898.site^$all
 ||dalenik.online^$all
@@ -19980,6 +20040,7 @@
 ||fsdf.teleportertyr.site^$all
 ||fsfsfsf.livesketo.site^$all
 ||fsssag.lacktr.site^$all
+||ft8s20hnln.akarch.pl^$all
 ||ft8328ak-of832832a.pawelco.co.pl^$all
 ||ft.orogdq1.xyz^$all
 ||ft.qvjkw.bongsking.com^$all
@@ -22873,6 +22934,7 @@
 ||ihpost.45625561.xyz^$all
 ||ihpost.49778953.xyz^$all
 ||ihpost.65385687.xyz^$all
+||ihpost.77451222.xyz^$all
 ||ihpost.84756741.xyz^$all
 ||ihpost.353265653.xyz^$all
 ||ihpost.545656566.xyz^$all
@@ -26459,6 +26521,7 @@
 ||inpost.74512223.xyz^$all
 ||inpost.74594759.site^$all
 ||inpost.79747849.xyz^$all
+||inpost.081215474.xyz^$all
 ||inpost.89087987.xyz^$all
 ||inpost.94512221.xyz^$all
 ||inpost.94512223.xyz^$all
@@ -26472,6 +26535,7 @@
 ||inpost.526512122.xyz^$all
 ||inpost.541254542.xyz^$all
 ||inpost.577788885.xyz^$all
+||inpost.581215474.xyz^$all
 ||inpost.785412247.xyz^$all
 ||inpost.826512122.xyz^$all
 ||inpost.1212554111.xyz^$all
@@ -29467,8 +29531,17 @@
 ||kocham-cie.c0.pl^$all
 ||kod-sukcesu.life^$all
 ||kodakry.life^$all
+||kodem-299915.jdie.pl^$all
+||kodem-371735.jdie.pl^$all
+||kodem-615209.jdie.pl^$all
+||kodem-866186.jdie.pl^$all
+||kodem-923066.jdie.pl^$all
 ||kodilane.com^$all
 ||kodplnr.live^$all
+||kodsms-166331.jdie.pl^$all
+||kodsms-228876.jdie.pl^$all
+||kodsms-239580.jdie.pl^$all
+||kodsms-906416.jdie.pl^$all
 ||koeiafrica.com^$all
 ||koeq.wertykolor.site^$all
 ||koformation.pl^$all
@@ -29600,7 +29673,9 @@
 ||konto8267391-all-gro.a9s.co.pl^$all
 ||konto452142342342.online^$all
 ||konto-157541-factury.info03.pl^$all
+||konto-172694.jdie.pl^$all
 ||konto-210725-konto.gershow.co.pl^$all
+||konto-214504.jdie.pl^$all
 ||konto-219102-moje.infonf.co.pl^$all
 ||konto-224143-faktury.showntpl.co.pl^$all
 ||konto-229510-rachunki.showntpl.co.pl^$all
@@ -29627,6 +29702,7 @@
 ||konto-593637-informacje.nf-app.co.pl^$all
 ||konto-630810-aktualizacja.nf-app.co.pl^$all
 ||konto-643444-aktualizacja.info03.pl^$all
+||konto-714737.jdie.pl^$all
 ||konto-721138-aktualizacja.knto-app.co.pl^$all
 ||konto-748506-twoje.knto-app.co.pl^$all
 ||konto-754012-moje.info03.pl^$all
@@ -29635,6 +29711,7 @@
 ||konto-781303.al1gropla.co.pl^$all
 ||konto-789693-moje.app-de.co.pl^$all
 ||konto-806033-wzglad.info03.pl^$all
+||konto-839471.jdie.pl^$all
 ||konto-840251-moje.app-de.co.pl^$all
 ||konto-848733-rachunki.knto-app.co.pl^$all
 ||konto-909932-faktury.app-de.co.pl^$all
@@ -31126,6 +31203,16 @@
 ||logowanie-2023.ink^$all
 ||logowanie-2023.world^$all
 ||logowanie-2023.xyz^$all
+||logowanie-132816.jdie.pl^$all
+||logowanie-237290.jdie.pl^$all
+||logowanie-300770.jdie.pl^$all
+||logowanie-334279.jdie.pl^$all
+||logowanie-365194.jdie.pl^$all
+||logowanie-433212.jdie.pl^$all
+||logowanie-544523.jdie.pl^$all
+||logowanie-626119.jdie.pl^$all
+||logowanie-630237.jdie.pl^$all
+||logowanie-882164.jdie.pl^$all
 ||logowanie-facebook.mcjust.pl^$all
 ||logowanie-pekao24.pl^$all
 ||logowanie.identyfikacja-uzytkownika.link^$all
@@ -31407,6 +31494,7 @@
 ||lukajanezic.com^$all
 ||lukasleon.pl^$all
 ||lukasz84151.pl^$all
+||lukasz.michasiabadek.pl^$all
 ||lukaszlepicki.pl^$all
 ||lukaszmatu.pl^$all
 ||lukaszsoja.pl^$all
@@ -32626,6 +32714,7 @@
 ||merchandise0lx.goods-pay5.xyz^$all
 ||merchandise61-pay.787456.xyz^$all
 ||merchandise-ojx.32435554.xyz^$all
+||merchantropa.com^$all
 ||merciawu.com^$all
 ||mercuryo.co.com^$all
 ||mercuryo.co^$all
@@ -33917,6 +34006,7 @@
 ||msa-auer.com.pl^$all
 ||msaeq.tayki.site^$all
 ||msciwoj.dariuszkafel.pl^$all
+||msciwoj.magdappp.pl^$all
 ||mscpojqm3m.digital^$all
 ||msd.rpss-esp.xyz^$all
 ||msdom.loyalmp3.site^$all
@@ -41798,6 +41888,7 @@
 ||platformorlen.com^$all
 ||platformorlen.us^$all
 ||platformsn.site^$all
+||platformxproj.online^$all
 ||platinhes.com^$all
 ||platinum.jd5m.in^$all
 ||platnik*.online^$all
@@ -42178,6 +42269,12 @@
 ||poczekalni.cyou^$all
 ||poczt0netp1.webnode.page^$all
 ||poczta54343434.000webhostapp.com^$all
+||poczta-218905.jdie.pl^$all
+||poczta-362183.jdie.pl^$all
+||poczta-394709.jdie.pl^$all
+||poczta-580865.jdie.pl^$all
+||poczta-751348.jdie.pl^$all
+||poczta-962794.jdie.pl^$all
 ||poczta-dostawa-pl005.ink^$all
 ||poczta-home.com^$all
 ||poczta-mailowa.top^$all
@@ -43383,6 +43480,7 @@
 ||potsnoe.win^$all
 ||pottiestun.xyz^$all
 ||potwierdz-166629-4206.watpls.co.pl^$all
+||potwierdz-753697.jdie.pl^$all
 ||potwierdz-wiek.ml^$all
 ||potwierdzenie-333178-1458.ntplowat.co.pl^$all
 ||potwierdzenie-dodania.lskdp.co.pl^$all
@@ -55872,8 +55970,10 @@
 ||weryfikacja-275767-7543.watchnpl.co.pl^$all
 ||weryfikacja-321015-1757.watchnpl.co.pl^$all
 ||weryfikacja-432155-4549.watpls.co.pl^$all
+||weryfikacja-479907.jdie.pl^$all
 ||weryfikacja-480910-3017.watchnpl.co.pl^$all
 ||weryfikacja-796596-9406.watchnpl.co.pl^$all
+||weryfikacja-856896.jdie.pl^$all
 ||weryfikacja-888974-9138.watchnpl.co.pl^$all
 ||weryfikacja-facebookowa1.herokuapp.com^$all
 ||weryfikacja-facebookowa-10.herokuapp.com^$all
@@ -58672,6 +58772,7 @@
 ##a[href*="pufgilsofp.sbs"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
+|http://zakupy.auchan.pl^$doc,domain=wymus-https-na-poczatku-adresu.*
 ||ceskvabal.xyz^$important,xhr
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
