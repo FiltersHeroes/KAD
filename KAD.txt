@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 07 Apr 2023, 22:16 UTC+02:00
-! Version: 2023.4.7.3
+! Last modified: Fri, 07 Apr 2023, 23:46 UTC+02:00
+! Version: 2023.4.7.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -191,6 +191,7 @@
 ||baccanera.com^$all
 ||badizaz.com^$all
 ||badshop.pl^$all
+||baibiiany.com^$all
 ||baiibuy.com^$all
 ||bajeranckie.pl^$all
 ||bakaron.com^$all
@@ -619,6 +620,8 @@
 ||domki-kopalino.com.pl^$all
 ||dopalacze-sklep.org^$all
 ||dopekurtka.pl^$all
+||dopesnow-polska.com^$all
+||dopesnowsklep.com^$all
 ||dopestore.pl^$all
 ||dorseo.pl^$all
 ||dowmarkets.com^$all
@@ -759,6 +762,7 @@
 ||f4u.pl^$all
 ||f-ads.pl^$all
 ||fabryka-nagrod.com^$all
+||fadasshop.com^$all
 ||faitheoy.shop^$all
 ||fajnefanty.com^$all
 ||faldo.pl^$all
@@ -1099,6 +1103,7 @@
 ||jezpow.pl^$all
 ||jiajinna.com^$all
 ||jimmychoosklep.pl^$all
+||jnbsireuytpsahgen.com^$all
 ||jnhxs.shop^$all
 ||joga-makai.pl^$all
 ||jogalodz.pl^$all
@@ -1538,6 +1543,7 @@
 ||neocam.pl^$all
 ||nestandland.com^$all
 ||net-s.pl^$all
+||netcotto.com^$all
 ||netleaders.com^$all
 ||new.yttdzmds.com^$all
 ||newbalancepolska.pl^$all
@@ -2393,6 +2399,7 @@
 ||tomsbuty.com^$all
 ||tomsbutypolska.com^$all
 ||tomspolska.com^$all
+||tooles.net^$all
 ||toomde.com^$all
 ||toonk.pl^$all
 ||topceny.pl^$all
@@ -2467,6 +2474,7 @@
 ||vagabondbuty.com^$all
 ||vagabondpolska.com^$all
 ||vagabondsklep.me^$all
+||vakiline.com^$all
 ||valenti-torinto.pl^$all
 ||valetta.pl^$all
 ||valinmix.com^$all
@@ -4634,6 +4642,7 @@
 ||177911potwierdz-aktualizacja.jdhs.pl^$all
 ||178068logowanie9424.knto.cloud^$all
 ||179277-wery-3791.allapp.co.pl^$all
+||179501aktualizacja-dalej.mszmidt.pl^$all
 ||180214twoje3065.app-gro.online^$all
 ||181506konto-kodsms.mszmidt.pl^$all
 ||182668aktualizacja8538.knto.cloud^$all
@@ -4793,6 +4802,7 @@
 ||380335aktualizacja4730.app-gro.online^$all
 ||380935.xyz^$all
 ||381363dalej-kodsms.jdhs.pl^$all
+||382253potwierdz-poczta.poityi.pl^$all
 ||383161weryfikacja5526.knto.cloud^$all
 ||383702aktualizacja-potwierdz.klaudiaps.pl^$all
 ||384701-moje-1046.kntlgr.co.pl^$all
@@ -4833,6 +4843,7 @@
 ||428237kodem-poczta.dawideka.pl^$all
 ||429102konto-kodem.djmcy.pl^$all
 ||429779dalej-weryfikacja.jdhs.pl^$all
+||429921dalej-logowanie.poityi.pl^$all
 ||430465weryfikacja.jdhs.pl^$all
 ||432333.xyz^$all
 ||433083poczta7956.all-app.cfd^$all
@@ -4841,6 +4852,7 @@
 ||435757ut.com^$all
 ||435767aktualizacja4311.allplat.cloud^$all
 ||436621kodem-potwierdz.klaudiaps.pl^$all
+||437066kodsms-konto.mszmidt.pl^$all
 ||437438kodem-kodsms.mszmidt.pl^$all
 ||438297dalej-kodsms.jdhs.pl^$all
 ||438787dalej-weryfikacja.djmcy.pl^$all
@@ -4957,6 +4969,7 @@
 ||562701dalej-logowanie.jdhs.pl^$all
 ||562919weryfikacja4827.app-gro.online^$all
 ||564049-o929a.ntpsla.co.pl^$all
+||564242dalej-logowanie.poityi.pl^$all
 ||564291dalej-konto.chorw.com.pl^$all
 ||564544.xyz^$all
 ||567110potwierdz-weryfikacja.ernies.pl^$all
@@ -5018,6 +5031,7 @@
 ||637032poczta.idnd.pl^$all
 ||637287wery7907.app-gro.online^$all
 ||637606kodem.jdhs.pl^$all
+||639105weryfikacja-dalej.poityi.pl^$all
 ||641427-konto-2930.allapp.co.pl^$all
 ||642154-wery-4812.app-gro.co.pl^$all
 ||642289-o929a.ntpsla.co.pl^$all
@@ -5136,6 +5150,7 @@
 ||763672weryfikacja3872.app-gro.online^$all
 ||764537konto-aktualizacja.ernies.pl^$all
 ||765269dalej-kodsms.ernies.pl^$all
+||766741potwierdz-konto.poityi.pl^$all
 ||767917-weryfikacja-3786.kntlgr.co.pl^$all
 ||768183-potwierdzenie-3358.allapp.co.pl^$all
 ||768239.000webhostapp.com^$all
@@ -5159,6 +5174,7 @@
 ||797436-potwierdz-7864.app-gro.co.pl^$all
 ||799840logowanie-poczta.mszmidt.pl^$all
 ||800221-o929a.ntpsla.co.pl^$all
+||800357logowanie-kodem.mszmidt.pl^$all
 ||800448dalej-konto.mszmidt.pl^$all
 ||801316poczta-weryfikacja.ernies.pl^$all
 ||805800-o929a.ntpsla.co.pl^$all
@@ -5223,6 +5239,7 @@
 ||886034potwierdzenie2985.allplat.cloud^$all
 ||887601potwierdz2034.rejepl.co.pl^$all
 ||887668-o929a.ntpsla.co.pl^$all
+||887686konto-kodem.mszmidt.pl^$all
 ||887711-o929a.ntpsla.co.pl^$all
 ||890099aktualizacja-weryfikacja.dawideka.pl^$all
 ||892308kodem.jdhs.pl^$all
@@ -38783,6 +38800,7 @@
 ||olx.02265996.xyz^$all
 ||olx.2383655.xyz^$all
 ||olx.2383659.xyz^$all
+||olx.2451212.xyz^$all
 ||olx.2484888.xyz^$all
 ||olx.2565663.xyz^$all
 ||olx.2598963.xyz^$all
@@ -60378,7 +60396,7 @@
 ##a[href*="pufgilsofp.sbs"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
-|http://zakupy.auchan.pl^$doc,domain=wymus-https-na-poczatku-adresu.*
+|http://zakupy.auchan.pl^$doc,domain=~wymus-https-na-poczatku-adresu.*
 ||ceskvabal.xyz^$important,xhr
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||uploadfile.pl/download.png$image
