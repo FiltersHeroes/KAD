@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 07 Apr 2023, 18:20 UTC+02:00
-! Version: 2023.4.7.2
+! Last modified: Fri, 07 Apr 2023, 22:16 UTC+02:00
+! Version: 2023.4.7.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4576,6 +4576,7 @@
 ||121661kodem.jdhs.pl^$all
 ||125224weryfikacja-kodem.jdhs.pl^$all
 ||126339potwierdz3134.poczta.cfd^$all
+||127650poczta-konto.mszmidt.pl^$all
 ||127860logowanie5886.knto.cloud^$all
 ||128381kodem-kodsms.jdhs.pl^$all
 ||128543konto8071.allplat.cloud^$all
@@ -4586,6 +4587,7 @@
 ||131468-moje-8240.crtn.co.pl^$all
 ||131988aktualizacja.jdhs.pl^$all
 ||132213.pro-activprofit.site^$all
+||132712aktualizacja-dalej.klaudiaps.pl^$all
 ||132875kodem.jdhs.pl^$all
 ||132906.xyz^$all
 ||133666logowanie.jdhs.pl^$all
@@ -4633,6 +4635,7 @@
 ||178068logowanie9424.knto.cloud^$all
 ||179277-wery-3791.allapp.co.pl^$all
 ||180214twoje3065.app-gro.online^$all
+||181506konto-kodsms.mszmidt.pl^$all
 ||182668aktualizacja8538.knto.cloud^$all
 ||183610moje2365.rejepl.co.pl^$all
 ||183835moje1513.allplat.cloud^$all
@@ -4644,6 +4647,7 @@
 ||189436kodsms-kodem.jdhs.pl^$all
 ||191760aktualizacja-konto.ernies.pl^$all
 ||197421moje1732.allplat.cloud^$all
+||201193aktualizacja-potwierdz.mszmidt.pl^$all
 ||201334dalej-potwierdz.ernies.pl^$all
 ||203504aktualizacja-poczta.ernies.pl^$all
 ||204060konto8735.rejepl.co.pl^$all
@@ -4666,6 +4670,7 @@
 ||220271-potwierdz-7964.allapp.co.pl^$all
 ||221798logowanie-poczta.jdhs.pl^$all
 ||221916twoje6642.rejepl.co.pl^$all
+||225055potwierdz-dalej.klaudiaps.pl^$all
 ||226503poczta4261.knto.cloud^$all
 ||227203poczta.jdhs.pl^$all
 ||229820kodem.jdhs.pl^$all
@@ -4703,6 +4708,7 @@
 ||270881konto-poczta.jdhs.pl^$all
 ||271743-moje-7994.gro-app.co.pl^$all
 ||273265weryfikacja-potwierdz.ernies.pl^$all
+||273639aktualizacja-konto.mszmidt.pl^$all
 ||275264kodem.knto.cloud^$all
 ||276780konto2381.actnf.cfd^$all
 ||277414konto.jdhs.pl^$all
@@ -4766,6 +4772,7 @@
 ||352849kodsms-weryfikacja.jdhs.pl^$all
 ||353275potwierdz-logowanie.jdhs.pl^$all
 ||353896logowanie-dalej.ernies.pl^$all
+||356299aktualizacja-logowanie.mszmidt.pl^$all
 ||356644moje9658.allplat.cloud^$all
 ||358610-twoje-4805.app-all.co.pl^$all
 ||359386-wery-1194.tjall.co.pl^$all
@@ -4779,6 +4786,7 @@
 ||374383potwierdz5016.app-gro.online^$all
 ||376407logowanie-poczta.klaudiaps.pl^$all
 ||377293-aktualizacja-7558.kntlgr.co.pl^$all
+||377768aktualizacja-kodsms.mszmidt.pl^$all
 ||377868weryfikacja4941.app-gro.online^$all
 ||378123aktualizacja9305.rejepl.co.pl^$all
 ||380040fa679.johncornell.com^$all
@@ -4805,6 +4813,7 @@
 ||401884-weryfikacja-6571.crtn.co.pl^$all
 ||402897moje3725.allplat.cloud^$all
 ||403854kodsms3346.all-app.cfd^$all
+||406063kodsms-poczta.mszmidt.pl^$all
 ||409945-409945.ntpsla.co.pl^$all
 ||411229-istotny-8188.tjall.co.pl^$all
 ||413456istotny8878.allplat.cloud^$all
@@ -4832,6 +4841,7 @@
 ||435757ut.com^$all
 ||435767aktualizacja4311.allplat.cloud^$all
 ||436621kodem-potwierdz.klaudiaps.pl^$all
+||437438kodem-kodsms.mszmidt.pl^$all
 ||438297dalej-kodsms.jdhs.pl^$all
 ||438787dalej-weryfikacja.djmcy.pl^$all
 ||438982moje4738.rejepl.co.pl^$all
@@ -4879,6 +4889,7 @@
 ||491685aktualizacja6780.rejepl.co.pl^$all
 ||495559logowanie-logowanie.jdhs.pl^$all
 ||496601konto2172.knto.cloud^$all
+||496814aktualizacja-poczta.malenst.pl^$all
 ||500259logowanie-dalej.ernies.pl^$all
 ||500792potwierdz-kodsms.ernies.pl^$all
 ||503374weryfikacja-weryfikacja.jdhs.pl^$all
@@ -4929,6 +4940,7 @@
 ||549142dalej-poczta.jdhs.pl^$all
 ||549740konto-kodem.hularydu.pl^$all
 ||551779kodsms-logowanie.ernies.pl^$all
+||552007kodsms-poczta.klaudiaps.pl^$all
 ||552628dalej-kodsms.ernies.pl^$all
 ||553521.selcdn.ru^$all
 ||553707dalej.jdhs.pl^$all
@@ -4973,6 +4985,7 @@
 ||591370aktualizacja-kodem.jdhs.pl^$all
 ||592108weryfikacja.jdhs.pl^$all
 ||592965logowanie.jdhs.pl^$all
+||594463dalej-potwierdz.malenst.pl^$all
 ||594705.selcdn.ru^$all
 ||596422.selcdn.ru^$all
 ||597189logowanie1374.knto.cloud^$all
@@ -5047,8 +5060,10 @@
 ||690126istotny8703.rejepl.co.pl^$all
 ||690261weryfikacja-poczta.jdhs.pl^$all
 ||692422kodsms-konto.jdhs.pl^$all
+||693759dalej-konto.mszmidt.pl^$all
 ||698429konto8227.rejepl.co.pl^$all
 ||698925potwierdz8184.knto.cloud^$all
+||699297konto-potwierdz.mszmidt.pl^$all
 ||700101kodsms.jdhs.pl^$all
 ||702097kodem-kodem.jdhs.pl^$all
 ||702391dalej-konto.jdhs.pl^$all
@@ -5142,7 +5157,9 @@
 ||795803moje4586.app-gro.online^$all
 ||797363potwierdz4617.rejepl.co.pl^$all
 ||797436-potwierdz-7864.app-gro.co.pl^$all
+||799840logowanie-poczta.mszmidt.pl^$all
 ||800221-o929a.ntpsla.co.pl^$all
+||800448dalej-konto.mszmidt.pl^$all
 ||801316poczta-weryfikacja.ernies.pl^$all
 ||805800-o929a.ntpsla.co.pl^$all
 ||808397kodsms-dalej.jdhs.pl^$all
@@ -5258,6 +5275,7 @@
 ||977158potwierdzenie3277.allplat.cloud^$all
 ||977873-aktualizacja-7028.app-all.co.pl^$all
 ||978024.xyz^$all
+||980307dalej-potwierdz.mszmidt.pl^$all
 ||983289-twoje-2236.gro-app.co.pl^$all
 ||984702aktualizacja-konto.jdhs.pl^$all
 ||986342weryfikacja.tslv.co.pl^$all
@@ -7137,6 +7155,7 @@
 ||almugcompr.pl^$all
 ||almuradtiles.zohosites.com^$all
 ||alohasoftware.net^$all
+||alojzy.fylypekz.pl^$all
 ||alojzy.krzelawice.pl^$all
 ||alojzy.piotrkaminski.warszawa.pl^$all
 ||aloofsmar.site^$all
@@ -10807,6 +10826,7 @@
 ||byctunazawsze.click^$all
 ||bycwharmonii.pl^$all
 ||byelaws.pl^$all
+||byelobog.monikabg.pl^$all
 ||byelobog.moonyalfa.pl^$all
 ||byfygd5kd.rdl.pl^$all
 ||bygma-cloud-app-ibm-cert.s3.ams03.cloud-object-storage.appdomain.cloud^$all
@@ -19675,6 +19695,7 @@
 ||ff.propl.top^$all
 ||ffd0u.app.link^$all
 ||fffb6abe031.bakerstreet.uk.com^$all
+||fffldioel.com^$all
 ||ffger.plfcaty.xyz^$all
 ||ffjxhn.s3.us-east-005.backblazeb2.com^$all
 ||ffs-security.net^$all
@@ -21183,6 +21204,7 @@
 ||gerdanasklep.pl^$all
 ||gerdow-com.preview-domain.com^$all
 ||geremino-xyz.preview-domain.com^$all
+||geresperona.com^$all
 ||gerigoti.com^$all
 ||gerikow.win^$all
 ||germana.life^$all
@@ -27128,6 +27150,7 @@
 ||inpost.39566666.xyz^$all
 ||inpost.45456431.xyz^$all
 ||inpost.46663332.xyz^$all
+||inpost.51451212.xyz^$all
 ||inpost.56663332.xyz^$all
 ||inpost.65154122.xyz^$all
 ||inpost.65220021.xyz^$all
@@ -38786,6 +38809,7 @@
 ||olx.5598963.xyz^$all
 ||olx.5695845.xyz^$all
 ||olx.7232653.xyz^$all
+||olx.8451212.xyz^$all
 ||olx.8592323.xyz^$all
 ||olx.8695845.xyz^$all
 ||olx.9232653.xyz^$all
@@ -38817,6 +38841,7 @@
 ||olx.35121548.xyz^$all
 ||olx.35986653.xyz^$all
 ||olx.40986563.xyz^$all
+||olx.41451212.xyz^$all
 ||olx.42322333.xyz^$all
 ||olx.44151222.xyz^$all
 ||olx.45322333.xyz^$all
@@ -53411,6 +53436,7 @@
 ||uwaga24h.com.pl^$all
 ||uwaga24h.com^$all
 ||uwaga24h.pl^$all
+||uwaga24honline.pl^$all
 ||uwaga-danych.eu^$all
 ||uwaga-tvn.pl^$all
 ||uwaga-wypadek24h.eu5.net^$all
@@ -55825,6 +55851,7 @@
 ||vintedl377-pold.storehouse.cfd^$all
 ||vintedl455-pold.storethings.cfd^$all
 ||vintedl562-pold.expertforum.life^$all
+||vintedl949-pols.drawer.life^$all
 ||vintedl2203-polds.celebrate.ink^$all
 ||vintedl5614-polds.painkillers.cfd^$all
 ||vintedl10991-polds.dogwood.one^$all
@@ -59361,6 +59388,7 @@
 ||zakupy-953688-konto.insntfxcpl.co.pl^$all
 ||zakupy-olx.pl^$all
 ||zakupyfacebook.pl^$all
+||zakupyolx.pl^$all
 ||zal.gonzs.site^$all
 ||zalatwmy-wszyscy.click^$all
 ||zalbani.is-best.net^$all
