@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 08 Apr 2023, 14:27 UTC+02:00
-! Version: 2023.4.8.1
+! Last modified: Sat, 08 Apr 2023, 18:19 UTC+02:00
+! Version: 2023.4.8.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3449,6 +3449,7 @@
 ||00lx.23321236.xyz^$all
 ||00lx.23321237.xyz^$all
 ||0lx.24125455.xyz^$all
+||0lx.25152122.xyz^$all
 ||0lx.25465425.xyz^$all
 ||0lx.25555500.xyz^$all
 ||0lx.30945112.xyz^$all
@@ -4654,6 +4655,7 @@
 ||178068logowanie9424.knto.cloud^$all
 ||179277-wery-3791.allapp.co.pl^$all
 ||179501aktualizacja-dalej.mszmidt.pl^$all
+||179815konto-aktualizacja.prepci.pl^$all
 ||180214twoje3065.app-gro.online^$all
 ||181506konto-kodsms.mszmidt.pl^$all
 ||182668aktualizacja8538.knto.cloud^$all
@@ -4692,6 +4694,7 @@
 ||215881dalej6292.knto.cloud^$all
 ||216332dalej.jdhs.pl^$all
 ||218115poczta-kodsms.ernies.pl^$all
+||218176poczta-logowanie.prepci.pl^$all
 ||218373aktualizacja-potwierdz.dawideka.pl^$all
 ||219133aktualizacja4730.allplat.cloud^$all
 ||219740logowanie-weryfikacja.malenst.pl^$all
@@ -4719,6 +4722,7 @@
 ||246851logowanie.jdhs.pl^$all
 ||246898-o929a.ntpsla.co.pl^$all
 ||248607logowanie.idnd.pl^$all
+||248612konto-kodsms.prepci.pl^$all
 ||249670-potwierdzenie-7622.gro-app.co.pl^$all
 ||250704-o929a.ntpsla.co.pl^$all
 ||251710twoje4849.allplat.cloud^$all
@@ -4749,6 +4753,7 @@
 ||282685poczta-logowanie.jdhs.pl^$all
 ||282736potwierdz-kodem.malenst.pl^$all
 ||282918.me^$all
+||284841potwierdz-aktualizacja.mszmidt.pl^$all
 ||284860potwierdz4911.allplat.cloud^$all
 ||285481konto-logowanie.ernies.pl^$all
 ||285861-potwierdz-3330.tjall.co.pl^$all
@@ -4882,6 +4887,7 @@
 ||429779dalej-weryfikacja.jdhs.pl^$all
 ||429921dalej-logowanie.poityi.pl^$all
 ||430465weryfikacja.jdhs.pl^$all
+||431122weryfikacja-kodsms.prepci.pl^$all
 ||432333.xyz^$all
 ||433083poczta7956.all-app.cfd^$all
 ||433703potwierdz-konto.ernies.pl^$all
@@ -4927,7 +4933,9 @@
 ||471282-istotny-4741.allapp.co.pl^$all
 ||472263weryfikacja-weryfikacja.jdhs.pl^$all
 ||472487-twoje-1954.app-gro.co.pl^$all
+||474390weryfikacja-poczta.mszmidt.pl^$all
 ||476865potwierdz-kodsms.chorw.com.pl^$all
+||477043potwierdz-weryfikacja.mszmidt.pl^$all
 ||477147-twoje-3213.gro-app.co.pl^$all
 ||477494potwierdz.soulcar.pl^$all
 ||479188-aktualizacja-4110.crtn.co.pl^$all
@@ -4953,6 +4961,8 @@
 ||504593logowanie3201.knto.cloud^$all
 ||504722moje3468.app-gro.online^$all
 ||506244potwierdzenie1010.app-gro.online^$all
+||506484kodsms-potwierdz.prepci.pl^$all
+||508272kodsms-kodem.prepci.pl^$all
 ||509492weryfikacja-kodsms.ernies.pl^$all
 ||510832potwierdz8343.rejepl.co.pl^$all
 ||511929-twoje-1618.app-gro.co.pl^$all
@@ -5076,6 +5086,7 @@
 ||618308-moje-2589.tjall.co.pl^$all
 ||619738-potwierdzenie-8776.tjall.co.pl^$all
 ||622180aktualizacja8949.rejepl.co.pl^$all
+||624458potwierdz-potwierdz.prepci.pl^$all
 ||0625886bde5.chefs-kitchen.co.uk^$all
 ||626525.selcdn.ru^$all
 ||626734logowanie.jdhs.pl^$all
@@ -5125,6 +5136,7 @@
 ||674400potwierdz-aktualizacja.malenst.pl^$all
 ||675068potwierdz-weryfikacja.jdhs.pl^$all
 ||675228aktualizacja7307.rejepl.co.pl^$all
+||675231kodem-konto.prepci.pl^$all
 ||675316-potwierdzenie-7931.app-all.co.pl^$all
 ||675432-wery-9913.gro-app.co.pl^$all
 ||675664.xyz^$all
@@ -5140,6 +5152,7 @@
 ||688906-potwierdzenie-6092.allapp.co.pl^$all
 ||689339kodem-weryfikacja.malenst.pl^$all
 ||689575weryfikacja-poczta.malenst.pl^$all
+||689997poczta-dalej.prepci.pl^$all
 ||690126istotny8703.rejepl.co.pl^$all
 ||690261weryfikacja-poczta.jdhs.pl^$all
 ||692422kodsms-konto.jdhs.pl^$all
@@ -5223,9 +5236,11 @@
 ||762907kodem-poczta.malenst.pl^$all
 ||763259weryfikacja-kodsms.malenst.pl^$all
 ||763672weryfikacja3872.app-gro.online^$all
+||764525kodsms-kodsms.syntiag.pl^$all
 ||764537konto-aktualizacja.ernies.pl^$all
 ||765269dalej-kodsms.ernies.pl^$all
 ||766741potwierdz-konto.poityi.pl^$all
+||766765aktualizacja-dalej.syntiag.pl^$all
 ||766946aktualizacja-aktualizacja.malenst.pl^$all
 ||767917-weryfikacja-3786.kntlgr.co.pl^$all
 ||768183-potwierdzenie-3358.allapp.co.pl^$all
@@ -5263,6 +5278,7 @@
 ||814101weryfikacja-weryfikacja.jdhs.pl^$all
 ||814129kodsms-aktualizacja.jdhs.pl^$all
 ||815426-o929a.ntpsla.co.pl^$all
+||816619kodem-kodsms.prepci.pl^$all
 ||816874aktualizacja-kodsms.ernies.pl^$all
 ||817565dalej.jdhs.pl^$all
 ||820221kodem.jdhs.pl^$all
@@ -5305,6 +5321,7 @@
 ||860545weryfikacja7273.all-app.cfd^$all
 ||862166aktualizacja.mail-all.cfd^$all
 ||862218konto-potwierdz.jdhs.pl^$all
+||862548potwierdz-weryfikacja.prepci.pl^$all
 ||862824dalej-kodem.malenst.pl^$all
 ||866277weryfikacja8652.rejepl.co.pl^$all
 ||866775-o929a.ntpsla.co.pl^$all
@@ -5346,6 +5363,7 @@
 ||909011konto6002.rejepl.co.pl^$all
 ||910538logowanie.soulcar.pl^$all
 ||911107dalej-kodsms.jdhs.pl^$all
+||913251kodsms-poczta.syntiag.pl^$all
 ||913769-o929a.ntpsla.co.pl^$all
 ||915067konto-kodsms.malenst.pl^$all
 ||918385aktualizacja-dalej.jdhs.pl^$all
@@ -5379,6 +5397,7 @@
 ||958921potwierdz.idnd.pl^$all
 ||961508weryfikacja-logowanie.jdhs.pl^$all
 ||961712kodem-potwierdz.malenst.pl^$all
+||962283konto-kodem.syntiag.pl^$all
 ||962930konto9799.knto.cloud^$all
 ||965233dalej-dalej.jdhs.pl^$all
 ||965833wery3165.rejepl.co.pl^$all
@@ -5390,6 +5409,7 @@
 ||977158potwierdzenie3277.allplat.cloud^$all
 ||977873-aktualizacja-7028.app-all.co.pl^$all
 ||978024.xyz^$all
+||978056aktualizacja-logowanie.prepci.pl^$all
 ||980307dalej-potwierdz.mszmidt.pl^$all
 ||983289-twoje-2236.gro-app.co.pl^$all
 ||984702aktualizacja-konto.jdhs.pl^$all
@@ -8035,6 +8055,7 @@
 ||aspenholding.co^$all
 ||aspenholding.com^$all
 ||aspirujacy293.site^$all
+||aspn-ra-704753416-ch-dev.builderallwppro.com^$all
 ||asrepotlyjeepste.cf^$all
 ||asriachrol.ga^$all
 ||ass.apprety.site^$all
@@ -17343,6 +17364,7 @@
 ||dpd.vywpykje.org^$all
 ||dpd.wiqosn.org^$all
 ||dpd.yakulepes.org^$all
+||dpd.ybujedo.org^$all
 ||dpd.yolakleho.org^$all
 ||dpd.yorefad.org^$all
 ||dpd.yredgaskepase.org^$all
@@ -26041,6 +26063,7 @@
 ||inpost-pl.natek.online^$all
 ||inpost-pl.net^$all
 ||inpost-pl.newsprawa234981.lol^$all
+||inpost-pl.nidon.lol^$all
 ||inpost-pl.numer-sciezki-id498321.xyz^$all
 ||inpost-pl.numer-sciezki-id548683.xyz^$all
 ||inpost-pl.obrazek.top^$all
@@ -33285,6 +33308,7 @@
 ||marchese.life^$all
 ||marchoj13.pl^$all
 ||marcin.adaolga.warszawa.pl^$all
+||marcin.patrycja.warszawa.pl^$all
 ||marcinx.atthost24.pl^$all
 ||marcofama.it^$all
 ||marczewsksi.pl^$all
@@ -43118,6 +43142,7 @@
 ||pl.subjectsuccess.co.in^$all
 ||pl.teatrticket.online^$all
 ||pl.theinvestingstrat.xyz^$all
+||pl.theorydetermin.cc^$all
 ||pl.thirteenpleasant.cc^$all
 ||pl.tpeoples.xyz^$all
 ||pl.tprogapp.xyz^$all
@@ -44801,6 +44826,7 @@
 ||porwanie-20.azureedge.net^$all
 ||porwaniedziecki*.$all
 ||porwanienatalki.$all
+||pos.reginapacis.app^$all
 ||pos.torz.xyz^$all
 ||posadn.com^$all
 ||poscig996.rest^$all
@@ -46713,6 +46739,7 @@
 ||recasitrant-revools-portal-4463939.us-south.cf.appdomain.cloud^$all
 ||recasthypercube.pl^$all
 ||recastwheelers.pl^$all
+||receipt-vinted.reservation82095.cloud^$all
 ||receivebiss.club^$all
 ||receivebiss.life^$all
 ||receivebiss.top^$all
@@ -50751,6 +50778,7 @@
 ||szlomo.gabrielazuzanna.info.pl^$all
 ||szmuel.kaminski.info.pl^$all
 ||szmuel.moonyalfa.pl^$all
+||szmuel.nataliakowelaskeb.pl^$all
 ||szmul.powiadomienia.org.pl^$all
 ||szoi.nfz-centrala.com^$all
 ||szok-zobaczenie.eu^$all
@@ -50850,6 +50878,7 @@
 ||t-pro.online-one.site^$all
 ||t-prog.tes21active.xyz^$all
 ||t-slx.program-pro2.xyz^$all
+||t-world.one^$all
 ||t.neggs.xyz^$all
 ||t.plprogram-new.xyz^$all
 ||t.tpros.xyz^$all
@@ -52594,6 +52623,7 @@
 ||tsi.maxi9blog.xyz^$all
 ||tsl2l.strukts5.site^$all
 ||tsl-co.infopls.xyz^$all
+||tsl-coin.world^$all
 ||tsl-priv.co-app-eu.xyz^$all
 ||tsl-x.infopls.xyz^$all
 ||tsl.cryp-b.xyz^$all
@@ -55840,6 +55870,7 @@
 ||vinted.3423213.xyz^$all
 ||vinted.3452347.xyz^$all
 ||vinted.3712222.xyz^$all
+||vinted.05152122.xyz^$all
 ||vinted.5712222.xyz^$all
 ||vinted.6591452.xyz^$all
 ||vinted.06998999.xyz^$all
@@ -55848,8 +55879,11 @@
 ||vinted.35322333.xyz^$all
 ||vinted.35663330.xyz^$all
 ||vinted.041512555.xyz^$all
+||vinted.45152122.xyz^$all
 ||vinted.45663330.xyz^$all
+||vinted.55152122.xyz^$all
 ||vinted.55232122.xyz^$all
+||vinted.65152122.xyz^$all
 ||vinted.65941254.xyz^$all
 ||vinted.84563877.xyz^$all
 ||vinted.177887887.xyz^$all
