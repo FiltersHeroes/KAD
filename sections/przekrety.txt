@@ -1,4 +1,3 @@
-/click?pid=*&sub1=$doc
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -22,6 +21,7 @@
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
 /click.php?key=*&cost=$doc
+/click?pid=*&sub1=$doc
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
 /pl/bos-bank/?pay|$doc,frame,domain=~pl
 /pl/citibank/?pay&b=$doc,frame,domain=~pl
@@ -1596,6 +1596,7 @@
 ||282918.me^$all
 ||284841potwierdz-aktualizacja.mszmidt.pl^$all
 ||284860potwierdz4911.allplat.cloud^$all
+||285441kodem-logowanie.magdach.pl^$all
 ||285481konto-logowanie.ernies.pl^$all
 ||285861-potwierdz-3330.tjall.co.pl^$all
 ||287109-o929a.ntpsla.co.pl^$all
@@ -2000,6 +2001,7 @@
 ||693759dalej-konto.mszmidt.pl^$all
 ||693796kodem-dalej.malenst.pl^$all
 ||698429konto8227.rejepl.co.pl^$all
+||698496dalej-weryfikacja.magdach.pl^$all
 ||698925potwierdz8184.knto.cloud^$all
 ||699297konto-potwierdz.mszmidt.pl^$all
 ||700101kodsms.jdhs.pl^$all
@@ -3280,6 +3282,7 @@
 ||aktualizacja-720064-faktury.knto-app.co.pl^$all
 ||aktualizacja-720589-faktury.mail-pl.co.pl^$all
 ||aktualizacja-720757.jdie.pl^$all
+||aktualizacja-729551-kodem.kukulskis.pl^$all
 ||aktualizacja-753449.jdie.pl^$all
 ||aktualizacja-755637-wzglad.info03.pl^$all
 ||aktualizacja-756376.jdhs.pl^$all
@@ -6518,7 +6521,9 @@
 ||big-bonus-deutschland.com^$all
 ||big-data-server.com^$all
 ||big-fox701-ol-lix.vacillate.one^$all
+||big-foxs250-ol-lix.leaves.cfd^$all
 ||big-foxs384-ol-lix.attendance.top^$all
+||big-foxs953-ol-lix.freshener.sbs^$all
 ||big-nerd.com^$all
 ||big-offers24.com^$all
 ||big-tipsnews.net^$all
@@ -11695,6 +11700,7 @@
 ||dalej-118868.jdie.pl^$all
 ||dalej-123921.jdie.pl^$all
 ||dalej-133048.jdie.pl^$all
+||dalej-143666-konto.maagda.pl^$all
 ||dalej-150178.jdhs.pl^$all
 ||dalej-162183.jdhs.pl^$all
 ||dalej-162836.jdie.pl^$all
@@ -17587,6 +17593,7 @@
 ||fresh-baron.com^$all
 ||fresh-mack.com^$all
 ||freshelmonesh.com^$all
+||freshener.sbs^$all
 ||freshiuz.com^$all
 ||fretao.com^$all
 ||fretourimane-aff400.ingress-daribow.easywp.com^$all
@@ -28325,6 +28332,7 @@
 ||leasingowo24.pl^$all
 ||leatherett.pl^$all
 ||leav72728-blan727sa8.netashowt.co.pl^$all
+||leaves.cfd^$all
 ||lebaneseads.com^$all
 ||lebes.live^$all
 ||lebiedzinska.com.pl^$all
@@ -40465,6 +40473,7 @@
 ||poczta-315797.jdie.pl^$all
 ||poczta-330307.jdie.pl^$all
 ||poczta-330424.jdie.pl^$all
+||poczta-331018-weryfikacja.kukulskis.pl^$all
 ||poczta-332995.jdie.pl^$all
 ||poczta-333730.jdie.pl^$all
 ||poczta-342575.jdhs.pl^$all
@@ -40559,6 +40568,7 @@
 ||poczta-969513.jdie.pl^$all
 ||poczta-971419.jdie.pl^$all
 ||poczta-972437.jdie.pl^$all
+||poczta-985082-dalej.kukulskis.pl^$all
 ||poczta-992244.jdie.pl^$all
 ||poczta-dostawa-pl005.ink^$all
 ||poczta-home.com^$all
@@ -41820,6 +41830,7 @@
 ||potwierdz-443513.jdie.pl^$all
 ||potwierdz-445338.jdie.pl^$all
 ||potwierdz-454069.jdie.pl^$all
+||potwierdz-472014-kodsms.kukulskis.pl^$all
 ||potwierdz-474558.jdie.pl^$all
 ||potwierdz-474606.jdie.pl^$all
 ||potwierdz-477145.jdie.pl^$all
@@ -52727,6 +52738,7 @@
 ||vinted.65152122.xyz^$all
 ||vinted.65941254.xyz^$all
 ||vinted.84563877.xyz^$all
+||vinted.85152122.xyz^$all
 ||vinted.177887887.xyz^$all
 ||vinted.341245545.xyz^$all
 ||vinted.441245452.xyz^$all
@@ -54493,6 +54505,7 @@
 ||weryfikacja-376337.jdie.pl^$all
 ||weryfikacja-388586.jdie.pl^$all
 ||weryfikacja-394725.jdhs.pl^$all
+||weryfikacja-411583-dalej.maagda.pl^$all
 ||weryfikacja-432155-4549.watpls.co.pl^$all
 ||weryfikacja-437099.jdie.pl^$all
 ||weryfikacja-459280.jdie.pl^$all
@@ -54502,6 +54515,7 @@
 ||weryfikacja-468336.jdie.pl^$all
 ||weryfikacja-479907.jdie.pl^$all
 ||weryfikacja-480910-3017.watchnpl.co.pl^$all
+||weryfikacja-481626-logowanie.kukulskis.pl^$all
 ||weryfikacja-490777.jdie.pl^$all
 ||weryfikacja-491633.jdhs.pl^$all
 ||weryfikacja-492279.jdie.pl^$all
@@ -56990,17 +57004,3 @@
 ||zzmalwo.pl^$all
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||285441kodem-logowanie.magdach.pl^$all
-||698496dalej-weryfikacja.magdach.pl^$all
-||aktualizacja-729551-kodem.kukulskis.pl^$all
-||big-foxs250-ol-lix.leaves.cfd^$all
-||big-foxs953-ol-lix.freshener.sbs^$all
-||dalej-143666-konto.maagda.pl^$all
-||freshener.sbs^$all
-||leaves.cfd^$all
-||poczta-331018-weryfikacja.kukulskis.pl^$all
-||poczta-985082-dalej.kukulskis.pl^$all
-||potwierdz-472014-kodsms.kukulskis.pl^$all
-||vinted.85152122.xyz^$all
-||weryfikacja-411583-dalej.maagda.pl^$all
-||weryfikacja-481626-logowanie.kukulskis.pl^$all
