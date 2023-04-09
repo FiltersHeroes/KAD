@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 09 Apr 2023, 02:16 UTC+02:00
-! Version: 2023.4.9.0
+! Last modified: Sun, 09 Apr 2023, 10:18 UTC+02:00
+! Version: 2023.4.9.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -6335,14 +6335,17 @@
 ||aktualizacja-146509-wazna.knto-app.co.pl^$all
 ||aktualizacja-147043.jdie.pl^$all
 ||aktualizacja-149696.jdhs.pl^$all
+||aktualizacja-151425-aktualizacja.kwistasuzk.pl^$all
 ||aktualizacja-154234.jdhs.pl^$all
 ||aktualizacja-158142.jdie.pl^$all
 ||aktualizacja-162120-allgr.info03.pl^$all
 ||aktualizacja-166216-istotny.knto-app.co.pl^$all
+||aktualizacja-168489-potwierdz.kwistasuzk.pl^$all
 ||aktualizacja-183307.jdie.pl^$all
 ||aktualizacja-189840.jdie.pl^$all
 ||aktualizacja-191723.jdie.pl^$all
 ||aktualizacja-199635-istotny.app-de.co.pl^$all
+||aktualizacja-204478-weryfikacja.kwistasuzk.pl^$all
 ||aktualizacja-208960.watchnpl.co.pl^$all
 ||aktualizacja-212908.jdie.pl^$all
 ||aktualizacja-213003.jdie.pl^$all
@@ -6371,10 +6374,12 @@
 ||aktualizacja-322912.jdie.pl^$all
 ||aktualizacja-328195.jdie.pl^$all
 ||aktualizacja-329459.jdie.pl^$all
+||aktualizacja-340401-potwierdz.kwistasuzk.pl^$all
 ||aktualizacja-347797.jdie.pl^$all
 ||aktualizacja-350754.jdhs.pl^$all
 ||aktualizacja-352880.jdie.pl^$all
 ||aktualizacja-353056.jdie.pl^$all
+||aktualizacja-367171-dalej.kwistasuzk.pl^$all
 ||aktualizacja-374085-factury.info03.pl^$all
 ||aktualizacja-377038.jdie.pl^$all
 ||aktualizacja-381409-wzglad.info03.pl^$all
@@ -6409,6 +6414,7 @@
 ||aktualizacja-542751.jdie.pl^$all
 ||aktualizacja-543604.jdie.pl^$all
 ||aktualizacja-549019-moje.gershow.co.pl^$all
+||aktualizacja-551978-kodsms.kwistasuzk.pl^$all
 ||aktualizacja-554049-moje.showntpl.co.pl^$all
 ||aktualizacja-556477.jdie.pl^$all
 ||aktualizacja-557069-moje.info03.pl^$all
@@ -6440,6 +6446,7 @@
 ||aktualizacja-682914.jdie.pl^$all
 ||aktualizacja-688846.jdie.pl^$all
 ||aktualizacja-690565.jdie.pl^$all
+||aktualizacja-694302-kodem.kwistasuzk.pl^$all
 ||aktualizacja-701096.jdie.pl^$all
 ||aktualizacja-701330-rachunki.infonf.co.pl^$all
 ||aktualizacja-711243.jdie.pl^$all
@@ -6465,6 +6472,7 @@
 ||aktualizacja-822424.jdie.pl^$all
 ||aktualizacja-822686.jdie.pl^$all
 ||aktualizacja-826432.jdie.pl^$all
+||aktualizacja-829670-dalej.kwistasuzk.pl^$all
 ||aktualizacja-831774.jdie.pl^$all
 ||aktualizacja-842252.jdie.pl^$all
 ||aktualizacja-842395-faktury.mail-all.co.pl^$all
@@ -6477,6 +6485,7 @@
 ||aktualizacja-881494.jdie.pl^$all
 ||aktualizacja-885426.jdie.pl^$all
 ||aktualizacja-885584.jdie.pl^$all
+||aktualizacja-887293-kodsms.kwistasuzk.pl^$all
 ||aktualizacja-892233.jdhs.pl^$all
 ||aktualizacja-892489.jdie.pl^$all
 ||aktualizacja-903968.jdie.pl^$all
@@ -6488,6 +6497,8 @@
 ||aktualizacja-951765.jdhs.pl^$all
 ||aktualizacja-952918.jdie.pl^$all
 ||aktualizacja-954011.jdie.pl^$all
+||aktualizacja-955022-konto.kwistasuzk.pl^$all
+||aktualizacja-962345-konto.kwistasuzk.pl^$all
 ||aktualizacja-972525.jdie.pl^$all
 ||aktualizacja-991587-faktury.knto-app.co.pl^$all
 ||aktualizacja-cyberatak-ug.weebly.com^$all
@@ -14896,9 +14907,12 @@
 ||dalej-359343.jdie.pl^$all
 ||dalej-361963.jdie.pl^$all
 ||dalej-365790.jdie.pl^$all
+||dalej-366182-logowanie.kwistasuzk.pl^$all
 ||dalej-369095.jdie.pl^$all
 ||dalej-379734.jdie.pl^$all
+||dalej-388750-logowanie.kwistasuzk.pl^$all
 ||dalej-390114.jdie.pl^$all
+||dalej-395016-aktualizacja.kwistasuzk.pl^$all
 ||dalej-399680.jdie.pl^$all
 ||dalej-401659.jdie.pl^$all
 ||dalej-402281.jdhs.pl^$all
@@ -14921,6 +14935,7 @@
 ||dalej-526366.jdie.pl^$all
 ||dalej-529101.jdie.pl^$all
 ||dalej-553538.jdie.pl^$all
+||dalej-561964-poczta.kwistasuzk.pl^$all
 ||dalej-570724.jdhs.pl^$all
 ||dalej-571820.jdie.pl^$all
 ||dalej-580892.jdie.pl^$all
@@ -14935,6 +14950,7 @@
 ||dalej-640465.jdhs.pl^$all
 ||dalej-648018.jdhs.pl^$all
 ||dalej-653141.jdie.pl^$all
+||dalej-657069-potwierdz.kwistasuzk.pl^$all
 ||dalej-664839.jdie.pl^$all
 ||dalej-665788.jdie.pl^$all
 ||dalej-665944.jdie.pl^$all
@@ -30357,12 +30373,15 @@
 ||kodem-184286.jdie.pl^$all
 ||kodem-209550.jdie.pl^$all
 ||kodem-215222.jdie.pl^$all
+||kodem-234081-konto.kwistasuzk.pl^$all
 ||kodem-239651.jdie.pl^$all
 ||kodem-245337.jdie.pl^$all
 ||kodem-255772.jdie.pl^$all
 ||kodem-258116.jdhs.pl^$all
+||kodem-261201-poczta.kwistasuzk.pl^$all
 ||kodem-272060.jdie.pl^$all
 ||kodem-278095.jdie.pl^$all
+||kodem-299894-weryfikacja.kwistasuzk.pl^$all
 ||kodem-299915.jdie.pl^$all
 ||kodem-301880.jdie.pl^$all
 ||kodem-303369.jdie.pl^$all
@@ -30375,6 +30394,7 @@
 ||kodem-349529.jdie.pl^$all
 ||kodem-353594.jdhs.pl^$all
 ||kodem-354071.jdie.pl^$all
+||kodem-355801-kodsms.kwistasuzk.pl^$all
 ||kodem-359692.jdie.pl^$all
 ||kodem-362434.jdhs.pl^$all
 ||kodem-364103.jdie.pl^$all
@@ -30400,6 +30420,7 @@
 ||kodem-470567.jdhs.pl^$all
 ||kodem-490711.jdie.pl^$all
 ||kodem-502994.jdie.pl^$all
+||kodem-507953-poczta.kwistasuzk.pl^$all
 ||kodem-509062.jdie.pl^$all
 ||kodem-513195.jdie.pl^$all
 ||kodem-515448.jdie.pl^$all
@@ -30422,11 +30443,14 @@
 ||kodem-594562.jdie.pl^$all
 ||kodem-606067.jdie.pl^$all
 ||kodem-606794.jdie.pl^$all
+||kodem-608882-aktualizacja.kwistasuzk.pl^$all
 ||kodem-615209.jdie.pl^$all
 ||kodem-622681.jdie.pl^$all
 ||kodem-624829.jdie.pl^$all
+||kodem-630050-aktualizacja.kwistasuzk.pl^$all
 ||kodem-640738.jdie.pl^$all
 ||kodem-645448.jdie.pl^$all
+||kodem-658936-weryfikacja.kwistasuzk.pl^$all
 ||kodem-664057.jdie.pl^$all
 ||kodem-667127.jdie.pl^$all
 ||kodem-682533.jdie.pl^$all
@@ -30436,6 +30460,7 @@
 ||kodem-706539.jdie.pl^$all
 ||kodem-708068.jdhs.pl^$all
 ||kodem-715505.jdie.pl^$all
+||kodem-721431-aktualizacja.kwistasuzk.pl^$all
 ||kodem-736752.jdie.pl^$all
 ||kodem-737813.jdie.pl^$all
 ||kodem-749302.jdie.pl^$all
@@ -30471,6 +30496,7 @@
 ||kodem-967401.jdie.pl^$all
 ||kodem-979816.jdie.pl^$all
 ||kodem-982801.jdie.pl^$all
+||kodem-993491-kodsms.kwistasuzk.pl^$all
 ||kodem-994656-konto.maagda.pl^$all
 ||kodem-997153.jdie.pl^$all
 ||kodem-999470.jdie.pl^$all
@@ -30507,6 +30533,7 @@
 ||kodsms-318738.jdie.pl^$all
 ||kodsms-321588.jdie.pl^$all
 ||kodsms-327456.jdie.pl^$all
+||kodsms-332858-kodem.kwistasuzk.pl^$all
 ||kodsms-347789.jdie.pl^$all
 ||kodsms-354684.jdie.pl^$all
 ||kodsms-355680.jdie.pl^$all
@@ -30527,7 +30554,9 @@
 ||kodsms-467695.jdie.pl^$all
 ||kodsms-469599.jdie.pl^$all
 ||kodsms-485172.jdie.pl^$all
+||kodsms-486286-poczta.kwistasuzk.pl^$all
 ||kodsms-493054.jdhs.pl^$all
+||kodsms-495103-kodsms.kwistasuzk.pl^$all
 ||kodsms-519448.jdie.pl^$all
 ||kodsms-519891.jdie.pl^$all
 ||kodsms-520397.jdie.pl^$all
@@ -30541,6 +30570,7 @@
 ||kodsms-563625.jdhs.pl^$all
 ||kodsms-566288.jdie.pl^$all
 ||kodsms-576186.jdie.pl^$all
+||kodsms-577019-kodem.kwistasuzk.pl^$all
 ||kodsms-580271.jdhs.pl^$all
 ||kodsms-584923.jdhs.pl^$all
 ||kodsms-588747.jdie.pl^$all
@@ -30583,10 +30613,13 @@
 ||kodsms-799783.jdie.pl^$all
 ||kodsms-839243.jdhs.pl^$all
 ||kodsms-848535.jdie.pl^$all
+||kodsms-854539-poczta.kwistasuzk.pl^$all
 ||kodsms-856842.jdie.pl^$all
+||kodsms-864274-dalej.kwistasuzk.pl^$all
 ||kodsms-872769.jdie.pl^$all
 ||kodsms-880655.jdie.pl^$all
 ||kodsms-881814.jdie.pl^$all
+||kodsms-892612-potwierdz.kwistasuzk.pl^$all
 ||kodsms-906416.jdie.pl^$all
 ||kodsms-930569.jdie.pl^$all
 ||kodsms-933832.jdie.pl^$all
@@ -30594,6 +30627,7 @@
 ||kodsms-956670.jdie.pl^$all
 ||kodsms-960530.jdie.pl^$all
 ||kodsms-965798.jdie.pl^$all
+||kodsms-966295-poczta.kwistasuzk.pl^$all
 ||kodsms-977950-potwierdz.ptyseek.pl^$all
 ||kodsms-980438.jdie.pl^$all
 ||kodsms-990918.jdie.pl^$all
@@ -30729,6 +30763,8 @@
 ||konto8267391-all-gro.a9s.co.pl^$all
 ||konto452142342342.online^$all
 ||konto-111400.jdie.pl^$all
+||konto-114400-kodem.kwistasuzk.pl^$all
+||konto-114898-konto.kwistasuzk.pl^$all
 ||konto-123164.jdie.pl^$all
 ||konto-131914.jdie.pl^$all
 ||konto-133336.jdie.pl^$all
@@ -30785,6 +30821,7 @@
 ||konto-456979.jdie.pl^$all
 ||konto-458455.jdie.pl^$all
 ||konto-459107-wzglad.info03.pl^$all
+||konto-465081-kodem.kwistasuzk.pl^$all
 ||konto-468630.jdie.pl^$all
 ||konto-476738.jdie.pl^$all
 ||konto-485975.jdie.pl^$all
@@ -30802,6 +30839,7 @@
 ||konto-540147.jdie.pl^$all
 ||konto-541931-sprawa.info03.pl^$all
 ||konto-547930.jdie.pl^$all
+||konto-556282-poczta.kwistasuzk.pl^$all
 ||konto-560595.jdie.pl^$all
 ||konto-563193.jdie.pl^$all
 ||konto-566606-wazna.knto-app.co.pl^$all
@@ -30813,18 +30851,21 @@
 ||konto-604444.jdie.pl^$all
 ||konto-608623.jdie.pl^$all
 ||konto-615615.jdhs.pl^$all
+||konto-624089-potwierdz.kwistasuzk.pl^$all
 ||konto-630810-aktualizacja.nf-app.co.pl^$all
 ||konto-639041.jdie.pl^$all
 ||konto-639592.jdie.pl^$all
 ||konto-640924.jdie.pl^$all
 ||konto-643444-aktualizacja.info03.pl^$all
 ||konto-654378.jdie.pl^$all
+||konto-665510-kodsms.kwistasuzk.pl^$all
 ||konto-684549.jdie.pl^$all
 ||konto-687402.jdhs.pl^$all
 ||konto-690675.jdie.pl^$all
 ||konto-692245.jdie.pl^$all
 ||konto-694659.jdhs.pl^$all
 ||konto-711027.jdie.pl^$all
+||konto-711297-logowanie.kwistasuzk.pl^$all
 ||konto-712583.jdhs.pl^$all
 ||konto-714737.jdie.pl^$all
 ||konto-721138-aktualizacja.knto-app.co.pl^$all
@@ -30844,6 +30885,7 @@
 ||konto-802161.jdie.pl^$all
 ||konto-806033-wzglad.info03.pl^$all
 ||konto-807214.jdie.pl^$all
+||konto-815734-potwierdz.kwistasuzk.pl^$all
 ||konto-835882.jdie.pl^$all
 ||konto-839471.jdie.pl^$all
 ||konto-840251-moje.app-de.co.pl^$all
@@ -30862,6 +30904,7 @@
 ||konto-924465.jdie.pl^$all
 ||konto-924918.jdhs.pl^$all
 ||konto-928593.jdie.pl^$all
+||konto-928655-logowanie.kwistasuzk.pl^$all
 ||konto-936948.jdie.pl^$all
 ||konto-937556.jdie.pl^$all
 ||konto-943049.jdie.pl^$all
@@ -32394,6 +32437,7 @@
 ||logowanie-144949.jdie.pl^$all
 ||logowanie-150703.jdie.pl^$all
 ||logowanie-155554.jdie.pl^$all
+||logowanie-156111-aktualizacja.kwistasuzk.pl^$all
 ||logowanie-161972.jdie.pl^$all
 ||logowanie-162485.jdie.pl^$all
 ||logowanie-168202.jdie.pl^$all
@@ -32438,11 +32482,13 @@
 ||logowanie-421395.jdie.pl^$all
 ||logowanie-427094.jdie.pl^$all
 ||logowanie-429660.jdie.pl^$all
+||logowanie-431461-kodem.kwistasuzk.pl^$all
 ||logowanie-433212.jdie.pl^$all
 ||logowanie-434540.jdie.pl^$all
 ||logowanie-447601.jdie.pl^$all
 ||logowanie-448995.jdie.pl^$all
 ||logowanie-457089.jdie.pl^$all
+||logowanie-480924-kodsms.kwistasuzk.pl^$all
 ||logowanie-489215.jdie.pl^$all
 ||logowanie-492685.jdie.pl^$all
 ||logowanie-495528.jdie.pl^$all
@@ -32478,8 +32524,10 @@
 ||logowanie-779731-aktualizacja.ptyseek.pl^$all
 ||logowanie-815916.jdie.pl^$all
 ||logowanie-830412-kodem.kwistasuzk.pl^$all
+||logowanie-836730-dalej.kwistasuzk.pl^$all
 ||logowanie-845191.jdie.pl^$all
 ||logowanie-848292.jdie.pl^$all
+||logowanie-856449-kodem.kwistasuzk.pl^$all
 ||logowanie-873804.jdie.pl^$all
 ||logowanie-874785.jdie.pl^$all
 ||logowanie-877891.jdhs.pl^$all
@@ -32492,6 +32540,7 @@
 ||logowanie-909644.jdie.pl^$all
 ||logowanie-921546.jdie.pl^$all
 ||logowanie-924017.jdie.pl^$all
+||logowanie-927055-kodsms.kwistasuzk.pl^$all
 ||logowanie-930545.jdhs.pl^$all
 ||logowanie-936747.jdie.pl^$all
 ||logowanie-937807-aktualizacja.kwistasuzk.pl^$all
@@ -33496,6 +33545,7 @@
 ||marketplacecoupons.com^$all
 ||marketprotrade.com^$all
 ||markets-adk.com^$all
+||marketsfocus.click^$all
 ||marketstore170-1npoct.amvimaxhelp.top^$all
 ||marketsview.click^$all
 ||marketsxpert.com^$all
@@ -34784,6 +34834,7 @@
 ||moja-paczka.umowa-id23940.top^$all
 ||moja-paczka.umowa-pl76823.lol^$all
 ||moja-paczka.zalogowacsie93446.xyz^$all
+||moja-praca.waw.pl^$all
 ||moja-spolecznosc.eu^$all
 ||mojakambodza.pl^$all
 ||mojapaczka-aliegro.dispatch-ffds1.click^$all
@@ -36096,6 +36147,7 @@
 ||net-flex.pl^$all
 ||net-okey.com^$all
 ||net-promocja.pl^$all
+||net.cloture-payement.info^$all
 ||net.clypokloroe.xyz^$all
 ||net.redandprog.site^$all
 ||netaver.pl^$all
@@ -40365,6 +40417,7 @@
 ||olx.tumusica.pw^$all
 ||olx.tyhoploked.org^$all
 ||olx.ua-pays.com^$all
+||olx.udostawca.sa.com^$all
 ||olx.ugalerfed.org^$all
 ||olx.ugxeyn.com^$all
 ||olx.umelsoe.org^$all
@@ -43650,9 +43703,12 @@
 ||poczta-248040.jdie.pl^$all
 ||poczta-256717.jdie.pl^$all
 ||poczta-262736.jdie.pl^$all
+||poczta-265133-poczta.kwistasuzk.pl^$all
 ||poczta-268418.jdie.pl^$all
 ||poczta-288181.jdhs.pl^$all
+||poczta-299735-kodem.kwistasuzk.pl^$all
 ||poczta-300148.jdie.pl^$all
+||poczta-304388-kodsms.kwistasuzk.pl^$all
 ||poczta-310481.jdie.pl^$all
 ||poczta-315797.jdie.pl^$all
 ||poczta-330307.jdie.pl^$all
@@ -43660,7 +43716,9 @@
 ||poczta-331018-weryfikacja.kukulskis.pl^$all
 ||poczta-332995.jdie.pl^$all
 ||poczta-333730.jdie.pl^$all
+||poczta-337418-weryfikacja.kwistasuzk.pl^$all
 ||poczta-342575.jdhs.pl^$all
+||poczta-342651-weryfikacja.kwistasuzk.pl^$all
 ||poczta-362183.jdie.pl^$all
 ||poczta-369245.jdie.pl^$all
 ||poczta-390873.jdie.pl^$all
@@ -43686,6 +43744,7 @@
 ||poczta-521878.jdie.pl^$all
 ||poczta-534492.jdie.pl^$all
 ||poczta-535265.jdie.pl^$all
+||poczta-536937-weryfikacja.kwistasuzk.pl^$all
 ||poczta-537321.jdhs.pl^$all
 ||poczta-545614.jdie.pl^$all
 ||poczta-549325.jdie.pl^$all
@@ -43699,6 +43758,7 @@
 ||poczta-593257.jdie.pl^$all
 ||poczta-601111.jdie.pl^$all
 ||poczta-604968.jdie.pl^$all
+||poczta-613673-kodsms.kwistasuzk.pl^$all
 ||poczta-640834.jdie.pl^$all
 ||poczta-644458.jdie.pl^$all
 ||poczta-656059.jdie.pl^$all
@@ -43720,6 +43780,7 @@
 ||poczta-751348.jdie.pl^$all
 ||poczta-760678.jdie.pl^$all
 ||poczta-762126.jdhs.pl^$all
+||poczta-762600-konto.kwistasuzk.pl^$all
 ||poczta-762618.jdie.pl^$all
 ||poczta-763755.jdie.pl^$all
 ||poczta-779758.jdie.pl^$all
@@ -43733,6 +43794,7 @@
 ||poczta-812579.jdie.pl^$all
 ||poczta-828783.jdhs.pl^$all
 ||poczta-837146.jdie.pl^$all
+||poczta-838578-kodem.kwistasuzk.pl^$all
 ||poczta-843164.jdie.pl^$all
 ||poczta-845771.jdie.pl^$all
 ||poczta-847560.jdie.pl^$all
@@ -43754,6 +43816,7 @@
 ||poczta-971419.jdie.pl^$all
 ||poczta-972437.jdie.pl^$all
 ||poczta-985082-dalej.kukulskis.pl^$all
+||poczta-990976-konto.kwistasuzk.pl^$all
 ||poczta-992244.jdie.pl^$all
 ||poczta-dostawa-pl005.ink^$all
 ||poczta-home.com^$all
@@ -44971,6 +45034,7 @@
 ||potwierdz-124459.jdie.pl^$all
 ||potwierdz-144763.jdie.pl^$all
 ||potwierdz-152944.jdie.pl^$all
+||potwierdz-158603-kodsms.kwistasuzk.pl^$all
 ||potwierdz-162162.jdie.pl^$all
 ||potwierdz-165030.jdie.pl^$all
 ||potwierdz-166629-4206.watpls.co.pl^$all
@@ -44992,6 +45056,7 @@
 ||potwierdz-261072.jdie.pl^$all
 ||potwierdz-261602.jdie.pl^$all
 ||potwierdz-267167.jdie.pl^$all
+||potwierdz-298797-aktualizacja.kwistasuzk.pl^$all
 ||potwierdz-301278.jdie.pl^$all
 ||potwierdz-302448.jdie.pl^$all
 ||potwierdz-324799.jdie.pl^$all
@@ -45006,6 +45071,7 @@
 ||potwierdz-386192.jdie.pl^$all
 ||potwierdz-390875.jdie.pl^$all
 ||potwierdz-399676.jdie.pl^$all
+||potwierdz-400625-konto.kwistasuzk.pl^$all
 ||potwierdz-405669.jdie.pl^$all
 ||potwierdz-406977.jdhs.pl^$all
 ||potwierdz-407206.jdie.pl^$all
@@ -45024,6 +45090,8 @@
 ||potwierdz-486912.jdie.pl^$all
 ||potwierdz-494993.jdie.pl^$all
 ||potwierdz-497001.jdie.pl^$all
+||potwierdz-497309-konto.kwistasuzk.pl^$all
+||potwierdz-497796-logowanie.kwistasuzk.pl^$all
 ||potwierdz-512227.jdie.pl^$all
 ||potwierdz-531877.jdie.pl^$all
 ||potwierdz-532505-kodem.ptyseek.pl^$all
@@ -45055,6 +45123,7 @@
 ||potwierdz-750129.jdie.pl^$all
 ||potwierdz-750400.jdie.pl^$all
 ||potwierdz-753697.jdie.pl^$all
+||potwierdz-757971-kodsms.kwistasuzk.pl^$all
 ||potwierdz-759826.jdhs.pl^$all
 ||potwierdz-776480.jdie.pl^$all
 ||potwierdz-791010.jdie.pl^$all
@@ -45070,6 +45139,7 @@
 ||potwierdz-871973.jdie.pl^$all
 ||potwierdz-876645.jdie.pl^$all
 ||potwierdz-879655.jdie.pl^$all
+||potwierdz-883561-kodem.kwistasuzk.pl^$all
 ||potwierdz-891351.jdie.pl^$all
 ||potwierdz-891641.jdie.pl^$all
 ||potwierdz-901165.jdie.pl^$all
@@ -50442,6 +50512,7 @@
 ||success-ruog.foundation^$all
 ||success-wvg.beauty^$all
 ||success-yoi.foundation^$all
+||success-yqi.fun^$all
 ||successful-choice.autos^$all
 ||successfulcod.icu^$all
 ||successsystem-pl.cfd^$all
@@ -51213,6 +51284,7 @@
 ||teesslla.website^$all
 ||tegals-xyz.preview-domain.com^$all
 ||tegracked.space^$all
+||tehybir.online^$all
 ||teinfo.polkilopola.xyz^$all
 ||teitgae.space^$all
 ||teitsag.click^$all
@@ -57671,6 +57743,7 @@
 ||weryfikacja-214648.jdie.pl^$all
 ||weryfikacja-222242.jdhs.pl^$all
 ||weryfikacja-226171.jdie.pl^$all
+||weryfikacja-241764-konto.kwistasuzk.pl^$all
 ||weryfikacja-244973.jdie.pl^$all
 ||weryfikacja-251542.jdie.pl^$all
 ||weryfikacja-251703.jdie.pl^$all
@@ -57681,6 +57754,7 @@
 ||weryfikacja-275767-7543.watchnpl.co.pl^$all
 ||weryfikacja-281133.jdie.pl^$all
 ||weryfikacja-285170.jdie.pl^$all
+||weryfikacja-287691-logowanie.kwistasuzk.pl^$all
 ||weryfikacja-291818.jdhs.pl^$all
 ||weryfikacja-295441.jdie.pl^$all
 ||weryfikacja-298678.jdie.pl^$all
@@ -57699,6 +57773,7 @@
 ||weryfikacja-411583-dalej.maagda.pl^$all
 ||weryfikacja-432155-4549.watpls.co.pl^$all
 ||weryfikacja-437099.jdie.pl^$all
+||weryfikacja-457235-potwierdz.kwistasuzk.pl^$all
 ||weryfikacja-459280.jdie.pl^$all
 ||weryfikacja-459574.jdie.pl^$all
 ||weryfikacja-462246.jdhs.pl^$all
@@ -57720,6 +57795,7 @@
 ||weryfikacja-576398.jdie.pl^$all
 ||weryfikacja-588836.jdie.pl^$all
 ||weryfikacja-591534.jdie.pl^$all
+||weryfikacja-593345-potwierdz.kwistasuzk.pl^$all
 ||weryfikacja-594361-dalej.ptyseek.pl^$all
 ||weryfikacja-601961.jdie.pl^$all
 ||weryfikacja-602730.jdie.pl^$all
@@ -57750,6 +57826,7 @@
 ||weryfikacja-825140.jdie.pl^$all
 ||weryfikacja-827204.jdie.pl^$all
 ||weryfikacja-830391.jdie.pl^$all
+||weryfikacja-835629-potwierdz.kwistasuzk.pl^$all
 ||weryfikacja-837872.jdie.pl^$all
 ||weryfikacja-839702.jdie.pl^$all
 ||weryfikacja-841629.jdie.pl^$all
@@ -57763,6 +57840,7 @@
 ||weryfikacja-884312.jdie.pl^$all
 ||weryfikacja-888974-9138.watchnpl.co.pl^$all
 ||weryfikacja-890319.jdie.pl^$all
+||weryfikacja-893646-dalej.kwistasuzk.pl^$all
 ||weryfikacja-900947.jdie.pl^$all
 ||weryfikacja-906763.jdie.pl^$all
 ||weryfikacja-909634.jdhs.pl^$all
