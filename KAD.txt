@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 10 Apr 2023, 18:21 UTC+02:00
-! Version: 2023.4.10.4
+! Last modified: Mon, 10 Apr 2023, 19:29 UTC+02:00
+! Version: 2023.4.10.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -17345,6 +17345,7 @@
 ||dpd.46565656.xyz^$all
 ||dpd.50698075.xyz^$all
 ||dpd.50698079.xyz^$all
+||dpd.55952151.xyz^$all
 ||dpd.64125455.xyz^$all
 ||dpd.64585552.xyz^$all
 ||dpd.64638973.xyz^$all
@@ -20733,6 +20734,7 @@
 ||foto-kiepskie.eu^$all
 ||foto-przykre.eu^$all
 ||foto-szokujace.eu^$all
+||foto.56iryt.sbs^$all
 ||fotoactualidad.com^$all
 ||fotografia-album.eu^$all
 ||fotografia-blog.eu^$all
@@ -60926,7 +60928,7 @@ xja.pl,xn.pl##+js(refresh-defuser, 5)
 !
 ! Reguły specjalne
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
-!#if (ios || ext_safari)
+!#if (adguard_app_ios || adguard_ext_safari)
 !#include sections/specjalne_AG_regex.txt
 !#endif
 !#safari_cb_affinity
