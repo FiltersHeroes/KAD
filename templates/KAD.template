@@ -37,7 +37,7 @@
 !
 ! Reguły specjalne
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
-!#if (ios || ext_safari)
+!#if (adguard_app_ios || adguard_ext_safari)
 !#include sections/specjalne_AG_regex.txt
 !#endif
 !#safari_cb_affinity
