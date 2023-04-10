@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 10 Apr 2023, 16:22 UTC+02:00
-! Version: 2023.4.10.2
+! Last modified: Mon, 10 Apr 2023, 17:05 UTC+02:00
+! Version: 2023.4.10.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -60902,6 +60902,9 @@ xja.pl,xn.pl##+js(refresh-defuser, 5)
 !
 ! Reguły specjalne
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
+!#if (ios || ext_safari)
+!#include sections/specjalne_AG_regex.txt
+!#endif
 !#safari_cb_affinity
 !#if ext_ublock
 !#include sections/specjalne_uBO.txt
