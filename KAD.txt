@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 10 Apr 2023, 17:05 UTC+02:00
-! Version: 2023.4.10.3
+! Last modified: Mon, 10 Apr 2023, 18:21 UTC+02:00
+! Version: 2023.4.10.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5692,6 +5692,7 @@
 ||a.swif2ft.site^$all
 ||a.tes1-ssp.xyz^$all
 ||a.topfinkrok.site^$all
+||aa.limitnes.com^$all
 ||aa.onliprog.site^$all
 ||aa.tellsinv.xyz^$all
 ||aaazl.site^$all
@@ -14924,6 +14925,7 @@
 ||dalej-162183.jdhs.pl^$all
 ||dalej-162836.jdie.pl^$all
 ||dalej-165570.jdie.pl^$all
+||dalej-169266-aktualizacja.djmcy.pl^$all
 ||dalej-172122.jdie.pl^$all
 ||dalej-178857.jdie.pl^$all
 ||dalej-183512.jdie.pl^$all
@@ -14988,6 +14990,7 @@
 ||dalej-570724.jdhs.pl^$all
 ||dalej-571820.jdie.pl^$all
 ||dalej-580892.jdie.pl^$all
+||dalej-581570-poczta.djmcy.pl^$all
 ||dalej-586108.jdie.pl^$all
 ||dalej-588206.jdie.pl^$all
 ||dalej-602970.jdie.pl^$all
@@ -15637,6 +15640,7 @@
 ||delivery.36556556.xyz^$all
 ||delivery.57451222.xyz^$all
 ||delivery.64545552.xyz^$all
+||delivery.75236563.xyz^$all
 ||delivery.beliefandidea.com^$all
 ||delivery.brainteaserboutique.com^$all
 ||delivery.capacityglacier.com^$all
@@ -16862,7 +16866,9 @@
 ||doit-plus.xyz^$all
 ||doit-stroy2.xyz^$all
 ||doit.chain4online.quest^$all
+||doit.orkestra2plus.online^$all
 ||doit.richard2life.life^$all
+||doit.wealth-3plus.live^$all
 ||doitnowforum.quest^$all
 ||doitnowlife2.xyz^$all
 ||doitnowstore.xyz^$all
@@ -17342,7 +17348,9 @@
 ||dpd.64125455.xyz^$all
 ||dpd.64585552.xyz^$all
 ||dpd.64638973.xyz^$all
+||dpd.75952151.xyz^$all
 ||dpd.86565656.xyz^$all
+||dpd.554543435.xyz^$all
 ||dpd.752326323.xyz^$all
 ||dpd.5206215111.xyz^$all
 ||dpd.7214512584.xyz^$all
@@ -22259,6 +22267,7 @@
 ||grassrootsgreenhouse.net^$all
 ||graszobon.com^$all
 ||gratefulmodels.com^$all
+||gratka.35952151.xyz^$all
 ||graubfndens.live^$all
 ||gravement.xyz^$all
 ||gravidasa.com^$all
@@ -24536,6 +24545,7 @@
 ||infobin.space^$all
 ||infocargodellvery.xyz^$all
 ||infoccentronline.site^$all
+||infocoastalstates.com^$all
 ||infodeliveryuser.xyz^$all
 ||infodeljvery-65986.xyz^$all
 ||infodeparture.xyz^$all
@@ -26093,6 +26103,7 @@
 ||inpost-pl.bestsales.top^$all
 ||inpost-pl.britembuy.pw^$all
 ||inpost-pl.buyngitems.pw^$all
+||inpost-pl.canitia.online^$all
 ||inpost-pl.cers-site-83393.xyz^$all
 ||inpost-pl.darkkey.online^$all
 ||inpost-pl.darou.top^$all
@@ -30735,6 +30746,7 @@
 ||kodsms-918481-potwierdz.masterbolo.pl^$all
 ||kodsms-930569.jdie.pl^$all
 ||kodsms-933832.jdie.pl^$all
+||kodsms-936404-dalej.masterbolo.pl^$all
 ||kodsms-940283.jdie.pl^$all
 ||kodsms-949252-kodsms.masterbolo.pl^$all
 ||kodsms-956670.jdie.pl^$all
@@ -30978,6 +30990,7 @@
 ||konto-644999-kodem.loluiza.pl^$all
 ||konto-654378.jdie.pl^$all
 ||konto-665510-kodsms.kwistasuzk.pl^$all
+||konto-677308-aktualizacja.djmcy.pl^$all
 ||konto-684549.jdie.pl^$all
 ||konto-687402.jdhs.pl^$all
 ||konto-690675.jdie.pl^$all
@@ -31016,6 +31029,7 @@
 ||konto-858120.jdie.pl^$all
 ||konto-859578-weryfikacja.scenico.pl^$all
 ||konto-863096-dalej.scenico.pl^$all
+||konto-878215-dalej.wyktorias.pl^$all
 ||konto-880514.jdie.pl^$all
 ||konto-886390.jdie.pl^$all
 ||konto-889572-poczta.scenico.pl^$all
@@ -32623,6 +32637,7 @@
 ||logowanie-447601.jdie.pl^$all
 ||logowanie-448995.jdie.pl^$all
 ||logowanie-457089.jdie.pl^$all
+||logowanie-464552-kodem.djmcy.pl^$all
 ||logowanie-480924-kodsms.kwistasuzk.pl^$all
 ||logowanie-489215.jdie.pl^$all
 ||logowanie-492685.jdie.pl^$all
@@ -32668,6 +32683,7 @@
 ||logowanie-848292.jdie.pl^$all
 ||logowanie-856449-kodem.kwistasuzk.pl^$all
 ||logowanie-859287-poczta.scenico.pl^$all
+||logowanie-868704-kodsms.djmcy.pl^$all
 ||logowanie-873804.jdie.pl^$all
 ||logowanie-874785.jdie.pl^$all
 ||logowanie-877891.jdhs.pl^$all
@@ -42547,6 +42563,7 @@
 ||perturbssu.pl^$all
 ||pertwko.space^$all
 ||pertzimatsbarle.ga^$all
+||perusal.one^$all
 ||pervertible.fun^$all
 ||perwiscia.xyz^$all
 ||pesart.pl^$all
@@ -42785,6 +42802,7 @@
 ||photo.hds6.sbs^$all
 ||photo.jr948o.us^$all
 ||photo.krj7jt0.shop^$all
+||photo.vkj2.shop^$all
 ||photo.zarobuv.xyz^$all
 ||photobiologiessongful.com^$all
 ||photographymentor.com^$all
@@ -43297,6 +43315,7 @@
 ||pl.keenshaky.ink^$all
 ||pl.kegypz.com^$all
 ||pl.kr.btc-era24.site^$all
+||pl.limitnes.com^$all
 ||pl.live1program.site^$all
 ||pl.lnpost-lupappokupka.tech^$all
 ||pl.lnpost-zakupkaworkaemk.tech^$all
@@ -45279,6 +45298,7 @@
 ||potwierdz-566108.jdie.pl^$all
 ||potwierdz-580172.jdie.pl^$all
 ||potwierdz-581960.jdie.pl^$all
+||potwierdz-591292-aktualizacja.wyktorias.pl^$all
 ||potwierdz-594619.jdie.pl^$all
 ||potwierdz-596962.jdie.pl^$all
 ||potwierdz-606808.jdhs.pl^$all
@@ -45314,6 +45334,7 @@
 ||potwierdz-821039.jdie.pl^$all
 ||potwierdz-825810-logowanie.scenico.pl^$all
 ||potwierdz-830873.jdie.pl^$all
+||potwierdz-831922-dalej.wyktorias.pl^$all
 ||potwierdz-836379.jdie.pl^$all
 ||potwierdz-844851-kodsms.masterbolo.pl^$all
 ||potwierdz-847041.jdie.pl^$all
@@ -45627,6 +45648,7 @@
 ||priaso.com^$all
 ||priceactiontesla.biz^$all
 ||pricedrummer.com^$all
+||priceonemore.com^$all
 ||pricerange.top^$all
 ||pridbor.kasienkakonla.pl^$all
 ||pridbor.mrdrewniak.pl^$all
@@ -52309,6 +52331,7 @@
 ||top4.au-income934.online^$all
 ||top4.au-income936.online^$all
 ||top4.au-income938.online^$all
+||top4.au-income1062.online^$all
 ||top5.au-income908.online^$all
 ||top5.au-income921.online^$all
 ||top5.au-income931.online^$all
@@ -58016,6 +58039,7 @@
 ||weryfikacja-773541.jdie.pl^$all
 ||weryfikacja-780304.jdie.pl^$all
 ||weryfikacja-796596-9406.watchnpl.co.pl^$all
+||weryfikacja-800699-poczta.wyktorias.pl^$all
 ||weryfikacja-802428.jdie.pl^$all
 ||weryfikacja-803985.jdie.pl^$all
 ||weryfikacja-810157.jdhs.pl^$all
