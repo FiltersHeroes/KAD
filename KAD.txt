@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 12 Apr 2023, 10:20 UTC+02:00
-! Version: 2023.4.12.0
+! Last modified: Wed, 12 Apr 2023, 14:31 UTC+02:00
+! Version: 2023.4.12.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3852,6 +3852,7 @@
 ||2tklxi0fs263f80959d1fd0.segopet.ru^$all
 ||2trade.fintodayai.cyou^$all
 ||2u.rich-2info.life^$all
+||2u.wealth3club.quest^$all
 ||2u.wealth3stroy.xyz^$all
 ||2up.quantiremesp.xyz^$all
 ||2uts.com^$all
@@ -4594,14 +4595,18 @@
 ||99063fc12c2.chefs-kitchen.co.uk^$all
 ||100025potwierdz.jdhs.pl^$all
 ||100520logowanie-poczta.11marca.co.pl^$all
+||100843aktualizacja-kodsms.depgo.co.pl^$all
 ||101854moje7430.rejepl.co.pl^$all
 ||101882aktualizacja3486.knto.cloud^$all
 ||101961.logowanie-wieku.xyz^$all
+||105017sie-weryfikacja.figrall.co.pl^$all
 ||105030potwierdz-potwierdz.jdhs.pl^$all
 ||105525-aktualizacja-7712.crtn.co.pl^$all
 ||107972-moje-6542.app-gro.co.pl^$all
+||110459kod-kod.semallg.co.pl^$all
 ||112121.space^$all
 ||112261dalej-aktualizacja.jdhs.pl^$all
+||112710kod-sie.semallg.co.pl^$all
 ||112968kodem-kodsms.dawideka.pl^$all
 ||114400kodsms-dalej.malenst.pl^$all
 ||116343konto-poczta.malenst.pl^$all
@@ -4713,6 +4718,7 @@
 ||201193aktualizacja-potwierdz.mszmidt.pl^$all
 ||201201dalej-kodem.malenst.pl^$all
 ||201334dalej-potwierdz.ernies.pl^$all
+||201347kodsms-weryfikacja.figrall.co.pl^$all
 ||203504aktualizacja-poczta.ernies.pl^$all
 ||204060konto8735.rejepl.co.pl^$all
 ||205056aktualizacja-kodsms.malenst.pl^$all
@@ -4771,6 +4777,7 @@
 ||258157-o929a.ntpsla.co.pl^$all
 ||258488twoje2059.app-gro.online^$all
 ||258624aktualizacja-poczta.jdhs.pl^$all
+||259205konta-poczta.depgo.co.pl^$all
 ||259937potwierdz-aktualizacja.malenst.pl^$all
 ||260442-o929a.ntpsla.co.pl^$all
 ||260710poczta-konto.ernies.pl^$all
@@ -4804,12 +4811,14 @@
 ||285861-potwierdz-3330.tjall.co.pl^$all
 ||287109-o929a.ntpsla.co.pl^$all
 ||287345-potwierdzenie-1661.tjall.co.pl^$all
+||288097aktualizacja-zaloguj.depgo.co.pl^$all
 ||289760dalej-poczta.jdhs.pl^$all
 ||291326logowanie.tslv.co.pl^$all
 ||292627-potwierdzenie-1260.allapp.co.pl^$all
 ||292639kodem-kodem.malenst.pl^$all
 ||292891potwierdz-poczta.ernies.pl^$all
 ||293172weryfikacja-logowanie.jdhs.pl^$all
+||293412poczta-poczta.semallg.co.pl^$all
 ||295648poczta6338.knto.cloud^$all
 ||295873-o929a.ntpsla.co.pl^$all
 ||296058konto-aktualizacja.ernies.pl^$all
@@ -4828,6 +4837,7 @@
 ||308249potwierdzenie4362.app-gro.online^$all
 ||308348kodem-konto.jdhs.pl^$all
 ||308696kod-zaloguj.depgo.co.pl^$all
+||308891poczta-logowania.depgo.co.pl^$all
 ||309885potwierdz-dalej.ernies.pl^$all
 ||310707-potwierdz-4907.app-all.co.pl^$all
 ||311505logowanie-kodsms.jdhs.pl^$all
@@ -4836,6 +4846,7 @@
 ||315876kodsms-weryfikacja.malenst.pl^$all
 ||316421-twoje-4235.gro-app.co.pl^$all
 ||316997dalej-poczta.jdhs.pl^$all
+||321513weryfikacja-kod.figrall.co.pl^$all
 ||323741kodsms7749.knto.cloud^$all
 ||324703potwierdz-weryfikacja.ernies.pl^$all
 ||325494-konto-3982.crtn.co.pl^$all
@@ -4849,7 +4860,10 @@
 ||334748kodsms.jdhs.pl^$all
 ||334839weryfikacja3277.rejepl.co.pl^$all
 ||336565-o929a.ntpsla.co.pl^$all
+||339366konta-kodsms.depgo.co.pl^$all
+||340600sie-konta.figrall.co.pl^$all
 ||342412konto-dalej.jdhs.pl^$all
+||343565weryfikacja-aktualizacja.depgo.co.pl^$all
 ||343578kodem6054.all-app.cfd^$all
 ||345345.pro-activprofit.site^$all
 ||345771-twoje-8148.tjall.co.pl^$all
@@ -4869,6 +4883,7 @@
 ||358610-twoje-4805.app-all.co.pl^$all
 ||359386-wery-1194.tjall.co.pl^$all
 ||360244weryfikacja-aktualizacja.klaudiaps.pl^$all
+||360649kod-poczta.semallg.co.pl^$all
 ||362494-twoje-3570.crtn.co.pl^$all
 ||362786-potwierdzenie-6469.crtn.co.pl^$all
 ||363138konto5963.all-app.cfd^$all
@@ -4892,6 +4907,7 @@
 ||382253potwierdz-poczta.poityi.pl^$all
 ||383161weryfikacja5526.knto.cloud^$all
 ||383702aktualizacja-potwierdz.klaudiaps.pl^$all
+||384279sie-zaloguj.semallg.co.pl^$all
 ||384701-moje-1046.kntlgr.co.pl^$all
 ||385496kodem-potwierdz.jdhs.pl^$all
 ||385883konto9576.knto.cloud^$all
@@ -4900,6 +4916,7 @@
 ||388758moje3208.allplat.cloud^$all
 ||388773-o929a.ntpsla.co.pl^$all
 ||388860weryfikacja-kodsms.jdhs.pl^$all
+||389299logowania-logowania.semallg.co.pl^$all
 ||391586kodem9776.knto.cloud^$all
 ||392501kodsms9860.knto.cloud^$all
 ||395861-weryfikacja-9689.kntlgr.co.pl^$all
@@ -4915,6 +4932,7 @@
 ||405898dalej-logowanie.malenst.pl^$all
 ||406063kodsms-poczta.mszmidt.pl^$all
 ||406643konto-kodem.malenst.pl^$all
+||409425logowania-sie.figrall.co.pl^$all
 ||409945-409945.ntpsla.co.pl^$all
 ||411229-istotny-8188.tjall.co.pl^$all
 ||413456istotny8878.allplat.cloud^$all
@@ -4927,6 +4945,7 @@
 ||419989kodsms-kodsms.jdhs.pl^$all
 ||420452kodem-kodem.malenst.pl^$all
 ||421203kodem.tslv.co.pl^$all
+||421219konta-poczta.depgo.co.pl^$all
 ||421541konto6140.poczta.cfd^$all
 ||421785poczta.htgw.pl^$all
 ||425517potwierdz-dalej.jdhs.pl^$all
@@ -4968,6 +4987,7 @@
 ||447487weryfikacja-potwierdz.malenst.pl^$all
 ||450567aktualizacja-weryfikacja.jdhs.pl^$all
 ||450664twoje9728.allplat.cloud^$all
+||450812zaloguj-logowania.semallg.co.pl^$all
 ||453591kodsms-poczta.depgo.co.pl^$all
 ||456929weryfikacja-logowanie.jdhs.pl^$all
 ||457713-o929a.ntpsla.co.pl^$all
@@ -4993,12 +5013,15 @@
 ||476865potwierdz-kodsms.chorw.com.pl^$all
 ||477043potwierdz-weryfikacja.mszmidt.pl^$all
 ||477147-twoje-3213.gro-app.co.pl^$all
+||477275logowania-konta.semallg.co.pl^$all
 ||477494potwierdz.soulcar.pl^$all
 ||479188-aktualizacja-4110.crtn.co.pl^$all
 ||479580logowanie7164.knto.cloud^$all
 ||480788logowanie-weryfikacja.jdhs.pl^$all
 ||482205dalej-kodem.jdhs.pl^$all
+||482632logowania-poczta.semallg.co.pl^$all
 ||483158-konto-7352.app-all.co.pl^$all
+||484230poczta-aktualizacja.figrall.co.pl^$all
 ||486522poczta-potwierdz.ernies.pl^$all
 ||486745kodem-kodem.jdhs.pl^$all
 ||487814kodsms-kodsms.malenst.pl^$all
@@ -5019,6 +5042,7 @@
 ||506244potwierdzenie1010.app-gro.online^$all
 ||506484kodsms-potwierdz.prepci.pl^$all
 ||508272kodsms-kodem.prepci.pl^$all
+||508433poczta-poczta.nbaslum.co.pl^$all
 ||508904potwierdz-kodem.bugro.co.pl^$all
 ||509492weryfikacja-kodsms.ernies.pl^$all
 ||510832potwierdz8343.rejepl.co.pl^$all
@@ -5027,12 +5051,15 @@
 ||515212weryfikacja2390.rejepl.co.pl^$all
 ||515355kodsms-kodem.malenst.pl^$all
 ||516080konto.knto.cloud^$all
+||518293logowania-sie.figrall.co.pl^$all
 ||518362poczta.jdhs.pl^$all
 ||518558dalej.jdhs.pl^$all
 ||518804wery2541.app-gro.online^$all
 ||519413konto-poczta.jdhs.pl^$all
 ||519697potwierdz-potwierdz.jdhs.pl^$all
 ||521475-wery-3886.tjall.co.pl^$all
+||522437konta-aktualizacja.figrall.co.pl^$all
+||523617zaloguj-konta.figrall.co.pl^$all
 ||525069twoje8497.allplat.cloud^$all
 ||525186-o929a.ntpsla.co.pl^$all
 ||525365-wery-2700.app-all.co.pl^$all
@@ -5042,6 +5069,7 @@
 ||529358moje9633.allplat.cloud^$all
 ||530201logowanie-logowanie.ernies.pl^$all
 ||530594logowanie-dalej.malenst.pl^$all
+||530805konta-kod.nbaslum.co.pl^$all
 ||530908.selcdn.ru^$all
 ||533337-potwierdzenie-2235.app-gro.co.pl^$all
 ||534037potwierdz-potwierdz.mszmidt.pl^$all
@@ -5073,6 +5101,7 @@
 ||551779kodsms-logowanie.ernies.pl^$all
 ||552007kodsms-poczta.klaudiaps.pl^$all
 ||552628dalej-kodsms.ernies.pl^$all
+||552663kod-weryfikacja.depgo.co.pl^$all
 ||553521.selcdn.ru^$all
 ||553642logowanie-logowanie.malenst.pl^$all
 ||553707dalej.jdhs.pl^$all
@@ -5089,6 +5118,7 @@
 ||561382dalej-logowanie.ernies.pl^$all
 ||562208weryfikacja-logowanie.jdhs.pl^$all
 ||562701dalej-logowanie.jdhs.pl^$all
+||562892poczta-sie.semallg.co.pl^$all
 ||562919weryfikacja4827.app-gro.online^$all
 ||564049-o929a.ntpsla.co.pl^$all
 ||564242dalej-logowanie.poityi.pl^$all
@@ -5118,6 +5148,7 @@
 ||584056potwierdzenie9317.allplat.cloud^$all
 ||588265-potwierdz-8862.app-gro.co.pl^$all
 ||588525konto-poczta.jdhs.pl^$all
+||590747konta-zaloguj.depgo.co.pl^$all
 ||591017kodem-kodsms.ernies.pl^$all
 ||591370aktualizacja-kodem.jdhs.pl^$all
 ||592108weryfikacja.jdhs.pl^$all
@@ -5125,13 +5156,16 @@
 ||593270kodsms-poczta.malenst.pl^$all
 ||594463dalej-potwierdz.malenst.pl^$all
 ||594705.selcdn.ru^$all
+||596384konta-zaloguj.depgo.co.pl^$all
 ||596422.selcdn.ru^$all
 ||597189logowanie1374.knto.cloud^$all
 ||597535moje2918.rejepl.co.pl^$all
 ||598533logowanie-dalej.jdhs.pl^$all
+||601997logowania-konta.semallg.co.pl^$all
 ||602115kodsms-konto.ernies.pl^$all
 ||605188poczta.knto.cloud^$all
 ||605946logowanie.htgw.pl^$all
+||606848kod-kodsms.figrall.co.pl^$all
 ||606858poczta.jdhs.pl^$all
 ||607511logowanie8902.knto.cloud^$all
 ||609128-wery-3113.app-all.co.pl^$all
@@ -5143,6 +5177,7 @@
 ||616598kodem-konto.malenst.pl^$all
 ||617632kodsms1578.knto.cloud^$all
 ||618308-moje-2589.tjall.co.pl^$all
+||619265kod-logowania.semallg.co.pl^$all
 ||619738-potwierdzenie-8776.tjall.co.pl^$all
 ||622180aktualizacja8949.rejepl.co.pl^$all
 ||624458potwierdz-potwierdz.prepci.pl^$all
@@ -5150,6 +5185,8 @@
 ||626525.selcdn.ru^$all
 ||626734logowanie.jdhs.pl^$all
 ||627907kodem-poczta.jdhs.pl^$all
+||630198logowania-logowania.semallg.co.pl^$all
+||630413aktualizacja-aktualizacja.nbaslum.co.pl^$all
 ||631640aktualizacja5371.allplat.cloud^$all
 ||631684dalej.mail-all.cfd^$all
 ||632174potwierdz.jdhs.pl^$all
@@ -5196,6 +5233,7 @@
 ||669157-moje-1272.crtn.co.pl^$all
 ||671421.selcdn.ru^$all
 ||672400potwierdz-dalej.malenst.pl^$all
+||674295konta-poczta.semallg.co.pl^$all
 ||674400potwierdz-aktualizacja.malenst.pl^$all
 ||675068potwierdz-weryfikacja.jdhs.pl^$all
 ||675228aktualizacja7307.rejepl.co.pl^$all
@@ -5207,6 +5245,7 @@
 ||675886logowanie-dalej.jdhs.pl^$all
 ||677372aktualizacja.jdhs.pl^$all
 ||677952kodem-potwierdz.jdhs.pl^$all
+||681675weryfikacja-sie.semallg.co.pl^$all
 ||681818potwierdz-weryfikacja.malenst.pl^$all
 ||683933poczta-poczta.jdhs.pl^$all
 ||684767istotny8018.allplat.cloud^$all
@@ -5227,6 +5266,7 @@
 ||698496dalej-weryfikacja.magdach.pl^$all
 ||698925potwierdz8184.knto.cloud^$all
 ||699297konto-potwierdz.mszmidt.pl^$all
+||700020konta-konta.depgo.co.pl^$all
 ||700101kodsms.jdhs.pl^$all
 ||702097kodem-kodem.jdhs.pl^$all
 ||702391dalej-konto.jdhs.pl^$all
@@ -5237,6 +5277,7 @@
 ||705490-wery-9116.app-gro.co.pl^$all
 ||706914aktualizacja-potwierdz.jdhs.pl^$all
 ||706995kodem.soulcar.pl^$all
+||708106kodsms-weryfikacja.semallg.co.pl^$all
 ||708222kodem-logowanie.jdhs.pl^$all
 ||708350potwierdzenie2515.app-gro.online^$all
 ||709012logowanie-kodsms.jdhs.pl^$all
@@ -5252,29 +5293,39 @@
 ||718294-o929a.ntpsla.co.pl^$all
 ||719322potwierdz-poczta.jdhs.pl^$all
 ||720273-aktualizacja-6239.crtn.co.pl^$all
+||720613sie-zaloguj.figrall.co.pl^$all
 ||721331-wery-1431.kntlgr.co.pl^$all
+||721983konta-konta.semallg.co.pl^$all
 ||722440dalej6082.all-app.cfd^$all
 ||724799kodem.jdhs.pl^$all
 ||725597kodsms-potwierdz.jdhs.pl^$all
 ||726902weryfikacja.jdhs.pl^$all
+||726923zaloguj-zaloguj.semallg.co.pl^$all
 ||726999potwierdz-kodem.malenst.pl^$all
 ||727016konto-logowanie.jdhs.pl^$all
+||727240sie-kodsms.semallg.co.pl^$all
 ||727311kodem-poczta.ernies.pl^$all
 ||727488moje8830.allplat.cloud^$all
 ||727986e0012.chefs-kitchen.co.uk^$all
 ||728342-wery-4562.crtn.co.pl^$all
 ||728888aktualizacja.jdhs.pl^$all
+||729960zaloguj-kod.depgo.co.pl^$all
 ||730121-weryfikacja-5686.sslsr.co.pl^$all
+||730132logowania-weryfikacja.semallg.co.pl^$all
 ||731501poczta-poczta.jdhs.pl^$all
 ||732449aktualizacja3786.knto.cloud^$all
+||732692logowania-poczta.depgo.co.pl^$all
 ||734433kodsms-logowanie.jdhs.pl^$all
 ||734918kodsms2238.all-app.cfd^$all
 ||735160logowanie.tslv.co.pl^$all
 ||735175weryfikacja5446.rejepl.co.pl^$all
+||735507zaloguj-logowania.depgo.co.pl^$all
+||736023weryfikacja-aktualizacja.depgo.co.pl^$all
 ||736607aktualizacja1833.all-app.cfd^$all
 ||736814kodsms.jdhs.pl^$all
 ||737755konto-kodem.ernies.pl^$all
 ||738433aktualizacja-dalej.jdhs.pl^$all
+||738992logowania-zaloguj.depgo.co.pl^$all
 ||740393logowanie-kodsms.jdhs.pl^$all
 ||741235potwierdz7468.allplat.cloud^$all
 ||741533logowanie-aktualizacja.11marca.co.pl^$all
@@ -5283,6 +5334,7 @@
 ||742702potwierdzenie8031.rejepl.co.pl^$all
 ||743378-konto-1041.app-all.co.pl^$all
 ||743442dalej-potwierdz.jdhs.pl^$all
+||743510weryfikacja-kod.semallg.co.pl^$all
 ||744713aktualizacja-kodem.ernies.pl^$all
 ||745655.xyz^$all
 ||745679aktualizacja-kodem.11marca.co.pl^$all
@@ -5360,6 +5412,7 @@
 ||827512poczta.jdhs.pl^$all
 ||827523-wery-2911.tjall.co.pl^$all
 ||828302o172-p02393o.plattvntfx.co.pl^$all
+||828652weryfikacja-sie.depgo.co.pl^$all
 ||830618aktualizacja2294.rejepl.co.pl^$all
 ||831749aktualizacja-zaloguj.depgo.co.pl^$all
 ||832934konto5204.rejepl.co.pl^$all
@@ -5450,12 +5503,14 @@
 ||919126konto-logowanie.jdhs.pl^$all
 ||919371dalej-logowanie.jdhs.pl^$all
 ||919811poczta-poczta.ernies.pl^$all
+||921408zaloguj-kod.depgo.co.pl^$all
 ||922095dalej-potwierdz.jdhs.pl^$all
 ||922872moje6680.rejepl.co.pl^$all
 ||924524istotny4096.rejepl.co.pl^$all
 ||925290kodsms-kodem.11marca.co.pl^$all
 ||925782wery2148.app-gro.online^$all
 ||929397wery9360.rejepl.co.pl^$all
+||930406kod-aktualizacja.semallg.co.pl^$all
 ||930540konto-dalej.malenst.pl^$all
 ||932118weryfikacja-weryfikacja.depgo.co.pl^$all
 ||933646-wery-2159.allapp.co.pl^$all
@@ -5469,6 +5524,7 @@
 ||947411potwierdz-aktualizacja.klaudiaps.pl^$all
 ||947691konto5646.actnf.cfd^$all
 ||948372kodsms-aktualizacja.malenst.pl^$all
+||950296sie-weryfikacja.semallg.co.pl^$all
 ||950448potwierdz6948.allplat.cloud^$all
 ||951556twoje4217.app-gro.online^$all
 ||952809weryfikacja.jdhs.pl^$all
@@ -5486,8 +5542,10 @@
 ||966441logowanie-aktualizacja.jdhs.pl^$all
 ||968120dalej-kodem.kntall.co.pl^$all
 ||972309weryfikacja-konta.11marca.co.pl^$all
+||972851konta-logowania.semallg.co.pl^$all
 ||973340poczta-weryfikacja.jdhs.pl^$all
 ||973809wery6510.rejepl.co.pl^$all
+||975957weryfikacja-kod.depgo.co.pl^$all
 ||976672logowanie-dalej.malenst.pl^$all
 ||976722-istotny-5615.gro-app.co.pl^$all
 ||977158potwierdzenie3277.allplat.cloud^$all
@@ -5508,6 +5566,7 @@
 ||990758aktualizacja-poczta.jdhs.pl^$all
 ||993725poczta-aktualizacja.jdhs.pl^$all
 ||994100kodsms3084.knto.cloud^$all
+||994417weryfikacja-sie.semallg.co.pl^$all
 ||994827-o929a.ntpsla.co.pl^$all
 ||995685-potwierdz-9931.crtn.co.pl^$all
 ||997231.xyz^$all
@@ -7441,6 +7500,7 @@
 ||almugcompr.pl^$all
 ||almuradtiles.zohosites.com^$all
 ||alohasoftware.net^$all
+||alojzy.barbuscia.pl^$all
 ||alojzy.fylypekz.pl^$all
 ||alojzy.krzelawice.pl^$all
 ||alojzy.piotrkaminski.warszawa.pl^$all
@@ -8039,6 +8099,7 @@
 ||arkadiusz.com.pl^$all
 ||arkadiusz.mirekkaminskimk.pl^$all
 ||arkadiusz.mrugalla.pl^$all
+||arkady.barbuscia.pl^$all
 ||arkady.michasiabadek.pl^$all
 ||arkady.mirekkaminskimk.pl^$all
 ||arkadyevna.com^$all
@@ -8916,6 +8977,7 @@
 ||bafybeicksyylytuplkzilnkzpqvj77qtk7hr6rkhh3fcgj7flhwtgzrpuu.ipfs.dweb.link^$all
 ||bafybeicr54ixwpy3nexv7qweugxqldwgh6xerp6256xvjnsohjhvrrsvry.ipfs.dweb.link^$all
 ||bafybeicv7l76jynazc6hr4dwa7ccqdyve4ivxzuvryyvhccwmvn65phev4.ipfs.dweb.link^$all
+||bafybeicwubgttgzocx3cflgaudnsld34pbdiugmcmu3oexeswdew7np444.ipfs.w3s.link^$all
 ||bafybeicxgxohjgcasgjhicx2ssprxy52k4nha3efg7du5pu32xzkt7lps4.ipfs.dweb.link^$all
 ||bafybeidarerulmmdf5a4byww4upsvoqrrrwugyr4jb6ramattj7imsrwfm.ipfs.w3s.link^$all
 ||bafybeidcyrem6t6wud2mnoqp2tnukkzh5gzzmsitjomu7hji3izizjvaya.ipfs.w3s.link^$all
@@ -10213,6 +10275,7 @@
 ||blazej.marshhdf.com.pl^$all
 ||blazej.wietczaklukasz.pl^$all
 ||blazeredno.xyz^$all
+||blazh.zsuszka.pl^$all
 ||blazinginvesting.xyz^$all
 ||blaztihee.host^$all
 ||blazwo.online^$all
@@ -17221,6 +17284,7 @@
 ||dorbenasklep.pl^$all
 ||dorery.weebly.com^$all
 ||dorian-shard-shell.glitch.me^$all
+||dorilis-invest.pro^$all
 ||dorion.life^$all
 ||dorm.megamaxi.xyz^$all
 ||dorochin.com^$all
@@ -17278,6 +17342,7 @@
 ||dotrzecdo-kontrast.site^$all
 ||dottedepil.pl^$all
 ||dotx8jzm2wn3u.cloudfront.net^$all
+||dou.rich2dom.life^$all
 ||doubletop.site^$all
 ||dousin.pl^$all
 ||doutsafey.com^$all
@@ -17902,6 +17967,7 @@
 ||drabinka250.com^$all
 ||dracenabr.com^$all
 ||dragborninvesting.pro^$all
+||dragomir.mrugalla.pl^$all
 ||draizapp.com^$all
 ||drakemacario.com^$all
 ||drakesdowntowngym.com^$all
@@ -21439,6 +21505,7 @@
 ||garlanasklep.pl^$all
 ||garleska-sklep.pl^$all
 ||garleskasklep.pl^$all
+||garmentlander.com^$all
 ||garneringd.com^$all
 ||garrulous-marsh-cricket.glitch.me^$all
 ||garsenasklep.pl^$all
@@ -22978,6 +23045,7 @@
 ||harmonie.ch^$all
 ||harmonious-banoffee-e95e31.netlify.app^$all
 ||harmonious-beijinho-e78edd.netlify.app^$all
+||harmonious-sunburst-fdea12.netlify.app^$all
 ||harneds.life^$all
 ||harpyforer.pl^$all
 ||harriewheatley.com^$all
@@ -23259,6 +23327,7 @@
 ||hendfort-online.preview-domain.com^$all
 ||hendorfo-xyz.preview-domain.com^$all
 ||henmir.pl^$all
+||henryk.maciejkrysztofiak.pl^$all
 ||henrykaniela.info.pl^$all
 ||henrykkuzma.pl^$all
 ||henrynaporowski.com.pl^$all
@@ -28718,6 +28787,7 @@
 ||inv-pos.web.app^$all
 ||inv-pro.web.app^$all
 ||inv-proc.web.app^$all
+||inv.globalpro.space^$all
 ||inv.nlandings.com^$all
 ||invalidationshypertrophying.com^$all
 ||invcognito-pl.xyz^$all
@@ -30002,6 +30072,8 @@
 ||julianhospacademy.cakedefi.com^$all
 ||julienhenryprince.com^$all
 ||julik.wertas.xyz^$all
+||juliste.badura.warszawa.pl^$all
+||juliste.barbuscia.pl^$all
 ||july-australia.za.com^$all
 ||july-business.za.com^$all
 ||july-ca.sa.com^$all
@@ -31620,6 +31692,7 @@
 ||kryszkiewicz.com.pl^$all
 ||krytyka-fotki.eu^$all
 ||krzesimir.aniaagata.com.pl^$all
+||krzesimir.artcd.net.pl^$all
 ||krzesimir.maciejdominiak.pl^$all
 ||krzychkb.pl^$all
 ||krzyczecdumny.site^$all
@@ -33530,6 +33603,7 @@
 ||m.surroundingsratify.top^$all
 ||m.swif2ft.site^$all
 ||m.transportationvibrate.top^$all
+||m.vfrqglh.cn^$all
 ||m.vuuwmd0.cn^$all
 ||m.xtb-usdt.com^$all
 ||ma2q.polkilopola.xyz^$all
@@ -43709,6 +43783,7 @@
 ||pl.ceng.best^$all
 ||pl.centrumoferty24.com^$all
 ||pl.centrumoferty.com^$all
+||pl.chairmanwelcome.cc^$all
 ||pl.clicktoearn.autos^$all
 ||pl.clicktoearn.hair^$all
 ||pl.clicktoearn.homes^$all
@@ -44491,6 +44566,7 @@
 ||poczta-pl.mkazo01pwer.com^$all
 ||poczta-pl.s85fd-ozxct611z.club^$all
 ||poczta-pl.sent-polka.com^$all
+||poczta-polska-botabba330279.codeanyapp.com^$all
 ||poczta-polska-dostawa.com^$all
 ||poczta-polska-pl.com^$all
 ||poczta-polska-pl.fenixc.buzz^$all
@@ -44506,6 +44582,7 @@
 ||poczta-polska.net^$all
 ||poczta-polska.sistemaventas.pe^$all
 ||poczta-polska.tlg-group.com.tn^$all
+||poczta-polska.web.app^$all
 ||poczta-pomoc.com^$all
 ||poczta-umb-edu-pl.yolasite.com^$all
 ||poczta-wp.cc^$all
@@ -46133,6 +46210,7 @@
 ||pricedrummer.com^$all
 ||priceonemore.com^$all
 ||pricerange.top^$all
+||pridbor.barbuscia.pl^$all
 ||pridbor.kasienkakonla.pl^$all
 ||pridbor.mrdrewniak.pl^$all
 ||pridbor.zcyrek.com.pl^$all
@@ -46821,6 +46899,7 @@
 ||przewidywanieslam.site^$all
 ||przewracacsieobliczac.site^$all
 ||przybyslaw.agnieszkaklaudia.pl^$all
+||przybyslaw.badura.warszawa.pl^$all
 ||przybyslaw.kolatek3.pl^$all
 ||przybyslaw.moonyalfa.pl^$all
 ||przyciagaczbrodnia.site^$all
@@ -47446,6 +47525,7 @@
 ||rawenapparel.com^$all
 ||rawha.planticrysa.xyz^$all
 ||rax.gaznf.xyz^$all
+||raybanframes.xyz^$all
 ||rayles.info^$all
 ||raymobility.com^$all
 ||raywinlepi.tk^$all
@@ -51227,6 +51307,7 @@
 ||success-jk.beauty^$all
 ||success-oi.foundation^$all
 ||success-qxh.foundation^$all
+||success-rqzg.fun^$all
 ||success-ruog.foundation^$all
 ||success-wut.fun^$all
 ||success-wvg.beauty^$all
@@ -52056,6 +52137,7 @@
 ||telewizory-lokalnie.pl^$all
 ||telewizyjny.wywiadpopolsku.bar^$all
 ||telik.club^$all
+||telkfen.com^$all
 ||tellos.top^$all
 ||tellusyouridea.ca^$all
 ||teloblastic.life^$all
@@ -52837,6 +52919,7 @@
 ||top3.au-income934.online^$all
 ||top3.au-income936.online^$all
 ||top3.au-income938.online^$all
+||top3.au-income1062.online^$all
 ||top4.au-income908.online^$all
 ||top4.au-income921.online^$all
 ||top4.au-income931.online^$all
@@ -52853,6 +52936,7 @@
 ||top5.au-income934.online^$all
 ||top5.au-income936.online^$all
 ||top5.au-income938.online^$all
+||top5.au-income1062.online^$all
 ||top6.au-income908.online^$all
 ||top6.au-income921.online^$all
 ||top6.au-income931.online^$all
@@ -52959,6 +53043,8 @@
 ||toplepers.com^$all
 ||topmarkethu.com^$all
 ||topmovies.pl^$all
+||topnewofferssoon.com^$all
+||topnews-everyday-poland.com^$all
 ||topofferss4you.com^$all
 ||toponnego.com^$all
 ||topowok.host^$all
@@ -57993,6 +58079,7 @@
 ||w.gluegiggle.cyou^$all
 ||w.infoplnew.site^$all
 ||w.lipstickflirt.cn^$all
+||w.marcukesh.top^$all
 ||w.outskirtssuite.cn^$all
 ||w.paczkcups.com^$all
 ||w.paczkgups.com^$all
@@ -58040,6 +58127,7 @@
 ||walcowac.site^$all
 ||walczymy.eu^$all
 ||walerian.bogma.warszawa.pl^$all
+||walerian.elzbieta.net.pl^$all
 ||walerian.kada.org.pl^$all
 ||walerian.marytusia.pl^$all
 ||walerian.michasiabadek.pl^$all
@@ -60471,6 +60559,7 @@
 ||zakupy-338193-moje.insntfxcpl.co.pl^$all
 ||zakupy-664865-moje.pl-knto.co.pl^$all
 ||zakupy-953688-konto.insntfxcpl.co.pl^$all
+||zakupy-marketplace.pl^$all
 ||zakupy-olx.pl^$all
 ||zakupyfacebook.pl^$all
 ||zakupyolx.pl^$all
@@ -61055,6 +61144,7 @@
 ||zyesfgko.link^$all
 ||zygmunt.fenikssbrk.warszawa.pl^$all
 ||zygmunt.magdulaa.pl^$all
+||zygmunt.zsuszka.pl^$all
 ||zygmuntkoprowicz.pl^$all
 ||zyje-czas.click^$all
 ||zyjetym.eu^$all
