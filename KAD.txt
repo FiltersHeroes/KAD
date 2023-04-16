@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 16 Apr 2023, 02:16 UTC+02:00
-! Version: 2023.4.16.0
+! Last modified: Sun, 16 Apr 2023, 10:18 UTC+02:00
+! Version: 2023.4.16.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4552,6 +4552,7 @@
 ||1512c.financialdvisorapp.bond^$all
 ||1512d.financialdvisorapp.bond^$all
 ||1554fca6a66.johncornell.com^$all
+||1761kod-dom.assl.co.pl^$all
 ||1768-weryfikacja505913-potwierdzac.redrdr.pl^$all
 ||1793kodsms-nastepny.assl.co.pl^$all
 ||1800p.com^$all
@@ -4571,6 +4572,8 @@
 ||02345sending-g0ds23.079586.xyz^$all
 ||2421-logowaniu240175-wydanie.tssl.co.pl^$all
 ||2483-logowania669930-wydanie.trnsc.co.pl^$all
+||2500konta-wydanie.assl.co.pl^$all
+||2528weryfikacja-wydanie.assl.co.pl^$all
 ||2622b291490.chefs-kitchen.co.uk^$all
 ||2713logowania-wydanie.ktls.co.pl^$all
 ||2778e8deb3c.chefs-kitchen.co.uk^$all
@@ -4588,6 +4591,7 @@
 ||3259-zaloguj256034-organizowac.trnsc.co.pl^$all
 ||3262aktualizacja-wydanie.assl.co.pl^$all
 ||3296e14f61e.chefs-kitchen.co.uk^$all
+||3408kod-praca.assl.co.pl^$all
 ||3505acb3eab.chefs-kitchen.co.uk^$all
 ||3508-logowania860508-potwierdzac.redrdr.pl^$all
 ||3536z-unps.info^$all
@@ -4609,6 +4613,7 @@
 ||4322-zaloguj718661-potwierdzac.rer-1.pl^$all
 ||4352-poczta973555-nastepny.hssl.co.pl^$all
 ||4390e381557.chefs-kitchen.co.uk^$all
+||4390logowania-dom.assl.co.pl^$all
 ||4415weryfikacja-uslugi.ktls.co.pl^$all
 ||4454-poczta165503-organizowac.trnsc.co.pl^$all
 ||4486konta-organizowac.assl.co.pl^$all
@@ -4616,6 +4621,7 @@
 ||4550zaloguj-wydanie.ktls.co.pl^$all
 ||4580ce02bfa.chefs-kitchen.co.uk^$all
 ||4589-zaloguj704937-dom.assl.co.pl^$all
+||4606logowaniu-nastepny.assl.co.pl^$all
 ||4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com^$all
 ||4619-logowania471731-zaakceptowac.trnsc.co.pl^$all
 ||4740kodsms-praca.ktls.co.pl^$all
@@ -4647,6 +4653,7 @@
 ||6512-zaloguj425193-praca.nfrdr.pl^$all
 ||6644weryfikacja-praca.vfrf.co.pl^$all
 ||6696aktualizacja-dom.ktls.co.pl^$all
+||6791weryfikacja-zaakceptowac.assl.co.pl^$all
 ||6820weryfikacja-nastepny.ktls.co.pl^$all
 ||6851-weryfikacja552296.rer-1.pl^$all
 ||6958c-upgs.club^$all
