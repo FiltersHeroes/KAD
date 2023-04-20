@@ -21,7 +21,6 @@
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
 /click.php?key=*&cost=$doc
-||cfd.capital-trust.ltd^$all
 /click?pid=*&sub1=$doc
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
 /pl/bos-bank/?pay|$doc,frame,domain=~pl
@@ -10301,6 +10300,7 @@
 ||cfc-text.one^$all
 ||cfc.nikasr.xyz^$all
 ||cfcac9423cc58d7b019c37f2485fc8ba.ll-pl.co.pl^$all
+||cfd.capital-trust.ltd^$all
 ||cflare.net^$all
 ||cfuapicarone.com^$all
 ||cg08inc98pam7n23gcdp6omqg9b5771mj01dt5aj92bpar9h8voc8n0.siasky.net^$all
@@ -36193,6 +36193,7 @@
 ||newsy-wp-24298928561.azureedge.net^$all
 ||newsy-wp-40383225738.azureedge.net^$all
 ||newsy-wp-92205199237.azureedge.net^$all
+||newsydnia.click^$all
 ||newsyintera24.medianewsonline.com^$all
 ||newsyoucanread24.com^$all
 ||newtimatitorg.digital^$all
@@ -43467,6 +43468,7 @@
 ||pobierzpc.pl^$all
 ||pobierzpliki.pl^$all
 ||pobytu-gov.pl^$all
+||poc.yh9b.com^$all
 ||pochdmuch-online.preview-domain.com^$all
 ||pocheno-com.preview-domain.com^$all
 ||pochers-uno.preview-domain.com^$all
@@ -57280,6 +57282,7 @@
 ||vlnted.834608twojid.pics^$all
 ||vlnted.5765730.xyz^$all
 ||vlnted.08759575.xyz^$all
+||vlnted.641521541.xyz^$all
 ||vlnted.726523215.xyz^$all
 ||vlnted.854687667.xyz^$all
 ||vlnted.dostava3682074.cloud^$all
@@ -60647,6 +60650,3 @@
 ||zzmalwo.pl^$all
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||newsydnia.click^$all
-||poc.yh9b.com^$all
-||vlnted.641521541.xyz^$all
