@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 21 Apr 2023, 18:21 UTC+02:00
-! Version: 2023.4.21.2
+! Last modified: Fri, 21 Apr 2023, 22:16 UTC+02:00
+! Version: 2023.4.21.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3626,6 +3626,7 @@
 ||0lx.pay-shipmentproduct.xyz^$all
 ||0lx.productsiteuser.xyz^$all
 ||0lx.sendingusercargo.xyz^$all
+||0lx.shop-9.xyz^$all
 ||0lx.shoppingsite.xyz^$all
 ||0lx.site435.xyz^$all
 ||00lx.store1379.xyz^$all
@@ -20566,6 +20567,7 @@
 ||ehkinprost.propinoneleas.tk^$all
 ||ehmillionthanks.com^$all
 ||ehufeh.com^$all
+||ei0z.com^$all
 ||eiboer.xyz^$all
 ||eidjuki.s3.us-west-004.backblazeb2.com^$all
 ||eigafilms.com^$all
@@ -28622,6 +28624,7 @@
 ||inpost-pl.kotora.shop^$all
 ||inpost-pl.kurier-id897564.xyz^$all
 ||inpost-pl.lahealth.xyz^$all
+||inpost-pl.lineups.shop^$all
 ||inpost-pl.logplgo694816j.mom^$all
 ||inpost-pl.mm0.top^$all
 ||inpost-pl.momen-tese-62829.xyz^$all
@@ -32073,6 +32076,7 @@
 ||jnpost.informdelivery.site^$all
 ||jnpost.infoshippingproduct.xyz^$all
 ||jnpost.market-44.xyz^$all
+||jnpost.market-409.xyz^$all
 ||jnpost.shipmentgoods-buyer.xyz^$all
 ||jnpostdelievry.645121.xyz^$all
 ||jnpostinfo.payment17.xyz^$all
@@ -35505,6 +35509,7 @@
 ||losneriosa.site^$all
 ||losp.pl^$all
 ||losprzebieglosc.site^$all
+||losselver.online^$all
 ||lossmusical.info^$all
 ||lostkiw.com^$all
 ||lot-as.firebaseapp.com^$all
@@ -36438,9 +36443,11 @@
 ||marketvinted.0874588.xyz^$all
 ||marketvlnted.53223323.xyz^$all
 ||markidka.com^$all
+||markite-onlx260.cowberry.sbs^$all
 ||markite-onlx408.flush.sbs^$all
 ||markite-onlx538.kohlrabi.cfd^$all
 ||markite-onlx657.lecho.cfd^$all
+||markite-onlx729.pedestrian.cfd^$all
 ||markite-onlx736.objective.sbs^$all
 ||markite-onlx868.flush.sbs^$all
 ||markitecturedev.com^$all
@@ -38613,6 +38620,7 @@
 ||mypekaoa.com^$all
 ||mypekaosa.com^$all
 ||myplanodental.com^$all
+||mypoczta-pl.xyz^$all
 ||mypoczta-polska.web.app^$all
 ||mypolska-poczta.web.app^$all
 ||myporchswingplans.com^$all
@@ -58168,6 +58176,7 @@
 ||vinted-flm.id-9467.com^$all
 ||vinted-fr.id148612.com^$all
 ||vinted-god.id-info0845.me^$all
+||vinted-hu.orders4566.online^$all
 ||vinted-hyp.id-info0875.me^$all
 ||vinted-info.7412121.xyz^$all
 ||vinted-inform.9065232.xyz^$all
@@ -59545,6 +59554,7 @@
 ||vinted-sk.id93172.com^$all
 ||vinted-sk.order1723.pw^$all
 ||vinted-sk.order6273.shop^$all
+||vinted-sk.orders4566.online^$all
 ||vinted-sms.site^$all
 ||vinted-spending.xyz^$all
 ||vinted-sqfd.id-1349.me^$all
@@ -61825,6 +61835,7 @@
 ||wiadomosci-z-polski-24.pl^$all
 ||wiadomosci-z-regionu.h2g.pl^$all
 ||wiadomosci-zet.pl^$all
+||wiadomosci.click^$all
 ||wiadomosci.fakty24hnadobe.waw.pl^$all
 ||wiadomosci.faktypilnedlaciebie.waw.pl^$all
 ||wiadomosci.faktypl.szczecin.pl^$all
