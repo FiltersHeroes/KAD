@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 22 Apr 2023, 10:19 UTC+02:00
-! Version: 2023.4.22.0
+! Last modified: Sat, 22 Apr 2023, 14:29 UTC+02:00
+! Version: 2023.4.22.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -17651,12 +17651,14 @@
 ||delivery.dlznetworks.com^$all
 ||delivery.expressglobalx.com^$all
 ||delivery.friendshipdaily.com^$all
+||delivery.friendshiphellos.com^$all
 ||delivery.goodznow.com^$all
 ||delivery.gtiac.com^$all
 ||delivery.hirwamaid.com^$all
 ||delivery.hoakiennhan.com^$all
 ||delivery.jalanpropertymanagement.com^$all
 ||delivery.jessegaron.com^$all
+||delivery.market-4.xyz^$all
 ||delivery.misterwebhub.com^$all
 ||delivery.olx-pl.$all
 ||delivery.olx-pl.com^$all
@@ -30490,6 +30492,7 @@
 ||inpost.qismfl.org^$all
 ||inpost.rawonekt.org^$all
 ||inpost.repasanot.org^$all
+||inpost.reservation83964.cloud^$all
 ||inpost.sedanoxo.click^$all
 ||inpost.send-productuser.xyz^$all
 ||inpost.sending-informpay.xyz^$all
@@ -36446,6 +36449,7 @@
 ||marketvinted.0874588.xyz^$all
 ||marketvlnted.53223323.xyz^$all
 ||markidka.com^$all
+||markite-onlx67.toleration.one^$all
 ||markite-onlx260.cowberry.sbs^$all
 ||markite-onlx408.flush.sbs^$all
 ||markite-onlx538.kohlrabi.cfd^$all
@@ -40193,6 +40197,7 @@
 ||o1x.3deljveryinfo.xyz^$all
 ||o1x.12marke-t324.xyz^$all
 ||o1x.112storeuser.xyz^$all
+||o1x.495o8948.xyz^$all
 ||o1x.5481-paydelivery.xyz^$all
 ||o1x.8745-payproduct.xyz^$all
 ||o1x.978452.xyz^$all
@@ -45690,6 +45695,7 @@
 ||photo.hds6.sbs^$all
 ||photo.jr948o.us^$all
 ||photo.krj7jt0.shop^$all
+||photo.kw2r.shop^$all
 ||photo.ls2f.us^$all
 ||photo.n4ur0jp.us^$all
 ||photo.vkj2.shop^$all
@@ -47099,6 +47105,7 @@
 ||pocztahome.com.pl^$all
 ||pocztainteriapl.weeblysite.com^$all
 ||pocztaonepl.weebly.com^$all
+||pocztapl-polska.top^$all
 ||pocztaplska15.alourin.cf^$all
 ||pocztaplska25.souplaifor.cf^$all
 ||pocztaplska35.predsesifi.cf^$all
@@ -47568,6 +47575,7 @@
 ||polska-pilne-7120575063598.azureedge.net^$all
 ||polska-pilne-7183448191625.azureedge.net^$all
 ||polska-pilne-9421700455835.azureedge.net^$all
+||polska-pka.cyou^$all
 ||polska-pl.cc^$all
 ||polska-platform.web.app^$all
 ||polska-poczlta.pay-id934686.top^$all
@@ -48940,6 +48948,7 @@
 ||profinwest-pl.com^$all
 ||profisthebitsera-pl.bocokoyb.com^$all
 ||profisthebitsera-pl.civyjevy.com^$all
+||profisthebitsera-pl.cyboxowof.com^$all
 ||profisthebitsera-pl.kocomuat.com^$all
 ||profisthebitsera-pl.tehyjeje.com^$all
 ||profisthebitsera-po.betulaup.com^$all
@@ -51798,6 +51807,7 @@
 ||sesprate-com.preview-domain.com^$all
 ||sesquialterous.com^$all
 ||sessing.online^$all
+||sessionvalidation-cloudoauth.netlify.app^$all
 ||sessstelaltheiphleg.tk^$all
 ||set.kosmm.xyz^$all
 ||set.plstopiloret.xyz^$all
@@ -52681,6 +52691,7 @@
 ||sms-stats.com^$all
 ||sms-za-darmo.pl^$all
 ||sms.445152.pw^$all
+||sms.14151512.pw^$all
 ||sms.52465463.sbs^$all
 ||sms.adultfeast.com^$all
 ||sms.earth^$all
@@ -56534,6 +56545,7 @@
 ||twitchs-cs2.com^$all
 ||twitter-info-22759960930.azureedge.net^$all
 ||twitterchief.com^$all
+||twittple.com^$all
 ||two.bugaros.com^$all
 ||two.cointrust.site^$all
 ||two.damstonges.com^$all
