@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 23 Apr 2023, 08:55 UTC+02:00
-! Version: 2023.4.23.2
+! Last modified: Sun, 23 Apr 2023, 10:17 UTC+02:00
+! Version: 2023.4.23.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -45841,6 +45841,7 @@
 ||pinedrops.live^$all
 ||pinglexico.com^$all
 ||pingpaid.com^$all
+||pingpolska.herokuapp.com^$all
 ||pingsoftoronto.com^$all
 ||pinhager-xyz.preview-domain.com^$all
 ||pinionflowcharts.info^$all
