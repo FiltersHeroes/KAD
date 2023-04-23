@@ -3,6 +3,13 @@
 .net/c/*?s1=$doc,domain=net
 /?track=*&key=$doc
 ||spotfinex.com^$all
+||au9a3rqmvg.com^$all
+||yournewphones.com^$all
+||sovendus-network.com^$all
+||inuseme.com^$all
+||lilustriousdate.com^$all
+||antfa.link^$all
+^s1=*&click_id=$doc
 /\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/\?utm_campaign=\w{40,}/$doc,match-case,domain=life|live|top|xyz
