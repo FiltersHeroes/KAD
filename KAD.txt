@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 23 Apr 2023, 08:37 UTC+02:00
-! Version: 2023.4.23.1
+! Last modified: Sun, 23 Apr 2023, 08:55 UTC+02:00
+! Version: 2023.4.23.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -20271,15 +20271,7 @@
 ||e-uwaga24h.pl^$all
 ||e-wiadomosci24.com.pl^$all
 ||e-wiadomoscifakty24online.org.pl^$all
-||e-wyborcza24-e.cleverapps.io^$all
-||e-wyborcza24-i.cleverapps.io^$all
-||e-wyborcza24-o.cleverapps.io^$all
-||e-wyborcza24-p.cleverapps.io^$all
-||e-wyborcza24-r.cleverapps.io^$all
-||e-wyborcza24-t.cleverapps.io^$all
-||e-wyborcza24-u.cleverapps.io^$all
-||e-wyborcza24-w.cleverapps.io^$all
-||e-wyborcza24-y.cleverapps.io^$all
+||e-wyborcza24-*.cleverapps.io^$all
 ||e-wymiana.com^$all
 ||e-yourmovies.com^$all
 ||e.paczkxups.com^$all
