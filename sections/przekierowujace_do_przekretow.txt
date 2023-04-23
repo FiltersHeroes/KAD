@@ -2,14 +2,6 @@
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
 /?track=*&key=$doc
-||spotfinex.com^$all
-||au9a3rqmvg.com^$all
-||yournewphones.com^$all
-||sovendus-network.com^$all
-||inuseme.com^$all
-||lilustriousdate.com^$all
-||antfa.link^$all
-^s1=*&click_id=$doc
 /\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/\?utm_campaign=\w{40,}/$doc,match-case,domain=life|live|top|xyz
@@ -32,6 +24,7 @@
 /uploads/*.xml$doc,domain=europartner.com.pl|zdrowiedlawszystkich.pl
 /userfiles/*.xml$doc,domain=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|fundacja-impuls.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|korio-olsztyn.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl
 /zcvisitor/*?campaignid$doc
+^s1=*&click_id=$doc
 ||0n.click^$all
 ||12monki-redirect.com^$all
 ||12monkiredirect.com^$all
@@ -44,10 +37,12 @@
 ||alatcommu.gq^$all
 ||all-tube.pl^$all
 ||allgo.xyz^$all
+||antfa.link^$all
 ||apply-for-sex.com^$all
 ||ascraftan.com^$all
 ||aselink.guru^$all
 ||astrazenega.co.uk^$all
+||au9a3rqmvg.com^$all
 ||backguard.pl^$all
 ||beautifulasaflower.com^$all
 ||bestfollowers.org^$all
@@ -141,6 +136,7 @@
 ||indexuniverse.eu^$all
 ||interia-24-pl.livejournal.com^$all
 ||interia-info.livejournal.com^$all
+||inuseme.com^$all
 ||inwestopinia.pl^$all
 ||iphone-za-darmo.over-blog.com^$all
 ||iyfnzgb.com^$all
@@ -157,6 +153,7 @@
 ||lds.xyz/*?sbtag=$doc,domain=xyz
 ||legalsite.pl^$all
 ||liin.ml^$all
+||lilustriousdate.com^$all
 ||listaglawo.com^$all
 ||localcamsfinder.com^$all
 ||lockeddeal.com^$all
@@ -232,7 +229,9 @@
 ||skroc-link.ga^$all
 ||sm4ll.in^$all
 ||smrturl.co^$all
+||sovendus-network.com^$all
 ||specficnz.org^$all
+||spotfinex.com^$all
 ||sptzoom.info^$all
 ||ssl.mmtgo.me^$all
 ||syndication.exdynsrv.com^$all
@@ -279,6 +278,7 @@
 ||xtroglobal.com^$all
 ||xumefoo.ru^$all
 ||yarlnk.com^$all
+||yournewphones.com^$all
 ||youtube.com.*.*.com^$all,domain=com|~youtube.com
 ||yyn.us^$all
 ||zetreview.com^$all
