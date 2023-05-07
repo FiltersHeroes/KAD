@@ -2,7 +2,7 @@
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 ||ceskvabal.xyz^$important,xhr
-||http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https
+||http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https.*
 ||digitogy.eu^$all
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||remontujemysami.pl^$all
