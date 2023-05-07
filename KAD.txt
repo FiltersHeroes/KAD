@@ -2,7 +2,7 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 07 May 2023, 12:21 UTC+02:00
+! Last modified: Sun, 07 May 2023, 14:28 UTC+02:00
 ! Version: 2023.5.7.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -126,6 +126,7 @@
 ||anenlo.com^$all
 ||anfiueuynla.com^$all
 ||angelclassy.com^$all
+||angelikabutik.com^$all
 ||angelofreni.com^$all
 ||angelpl.shop^$all
 ||animi2.com^$all
@@ -143,6 +144,7 @@
 ||apteka2000.pl^$all
 ||aquafit24.pl^$all
 ||aquafit.sklep.pl^$all
+||archeageonline.pl^$all
 ||archfitpl.com^$all
 ||arcteryxpolska.com^$all
 ||arcticgamers.com^$all
@@ -950,6 +952,7 @@
 ||golluu.com^$all
 ||goodmenonthego.com^$all
 ||goryhotel.pl^$all
+||goskine.com^$all
 ||gotowka-doreki.eu^$all
 ||gotowkanadowod.pl^$all
 ||gotowkatutaj.pl^$all
@@ -1653,6 +1656,7 @@
 ||noweciezarowe.pl^$all
 ||nowecrocspolska.com^$all
 ||nowmarket.pl^$all
+||nsabiu.myshoplaza.com^$all
 ||ntabity.online^$all
 ||ntestin.online^$all
 ||nthus.online^$all
@@ -2046,10 +2050,12 @@
 ||rosa-wypoczynek.pl^$all
 ||rosalieeve.pl^$all
 ||rosarstore.com^$all
+||roselly.top^$all
 ||rotimia.com^$all
 ||roulettenumber.com^$all
 ||roundupbarandgrill.com^$all
 ||rovingadventures.com^$all
+||rower-bix.com^$all
 ||rowerbit.com^$all
 ||roweritto.com^$all
 ||rownet.pl^$all
@@ -2071,6 +2077,7 @@
 ||s-mania.com^$all
 ||sacisfashion.com^$all
 ||saerdstores.com^$all
+||safinxyzilepeoura.com^$all
 ||sagneatunyac.com^$all
 ||saiiabuy.com^$all
 ||saiussa.com^$all
@@ -2527,6 +2534,7 @@
 ||vagabondbuty.com^$all
 ||vagabondpolska.com^$all
 ||vagabondsklep.me^$all
+||vaitpa.shop^$all
 ||vakiline.com^$all
 ||valenti-torinto.pl^$all
 ||valetta.pl^$all
@@ -2573,6 +2581,7 @@
 ||violaiy.shop^$all
 ||vionicpolska.pl^$all
 ||viotaa.com^$all
+||vipcz.shop^$all
 ||vippl.shop^$all
 ||virginborn-kast-sklep.pl^$all
 ||visulan-complex.pl^$all
@@ -2766,6 +2775,7 @@
 ||zalandoipl.com^$all
 ||zalandovip.shop^$all
 ||zalukajfilmy.pl^$all
+||zapachowelove.pl^$all
 ||zapachymarzen.pl^$all
 ||zapakapl.com^$all
 ||zaprojektujiwybuduj.pl^$all
@@ -3071,8 +3081,10 @@
 ||vegas-redirect.com^$all
 ||veinnotionmariner.com^$all
 ||vexacion.com^$all
+||videos.co.pl^$all
 ||vitaltrading.pl^$all
 ||vnotrk.com^$all
+||vod.co.pl^$all
 ||vulkan18.com^$all
 ||vulkan-vegas-kasyno.com^$all
 ||vulkan-vegas.cc^$all
@@ -8248,7 +8260,6 @@
 ||adawle.xyz^$all
 ||adblue-finder.com^$all
 ||adcast.ir^$all
-||adcf653bed2570ee1a18821ad586c2a2.al-pl.co.pl^$all
 ||add.koliretiop.xyz^$all
 ||addablehap.xyz^$all
 ||addendumsq.xyz^$all
@@ -25297,7 +25308,6 @@
 ||gate2login-tvshow.gate2us.site^$all
 ||gatend.pl^$all
 ||gaterox.host^$all
-||gateway2tv.co.pl^$all
 ||gateway.funnelconsultants.com^$all
 ||gatidoa1.xyz^$all
 ||gatinsart.com^$all
@@ -26995,7 +27005,6 @@
 ||hd-online.skyrock.com^$all
 ||hd-peg.web.app^$all
 ||hd.loyalmp3.site^$all
-||hd.videos.co.pl^$all
 ||hd.zlpolska.xyz^$all
 ||hdc.pasvar.xyz^$all
 ||hdcaredept.com^$all
@@ -27924,7 +27933,6 @@
 ||identityver-acc.tvonlinenow.co.pl^$all
 ||identityver-acc.tvshowapp.co.pl^$all
 ||identyfikacja-uzytkownika.pw^$all
-||identyfikacje-now.show2gateway.co.pl^$all
 ||idevpages.com^$all
 ||idfeiw.space^$all
 ||ididenty.pl^$all
@@ -41611,7 +41619,6 @@
 ||newss.start-proff.site^$all
 ||newsspypro.com^$all
 ||newssurf.click^$all
-||newstartatus.co.pl^$all
 ||newstech.space^$all
 ||newstimeoftoday.com^$all
 ||newstorehome6915-o1x.whereshop.top^$all
@@ -43048,6 +43055,7 @@
 ||oix.3595812.xyz^$all
 ||oix.4566332.xyz^$all
 ||oix.5532000.xyz^$all
+||oix.5841515.xyz^$all
 ||oix.6879887.xyz^$all
 ||oix.7670987.xyz^$all
 ||oix.8665233.xyz^$all
@@ -55278,6 +55286,7 @@
 ||sms.idealrefreshing.com^$all
 ||sms.securityprod.com^$all
 ||sms.sedavisco.com^$all
+||sms.sivuv.com^$all
 ||smscyu-uqps.us^$all
 ||smsegf-uqps.us^$all
 ||smsi.site^$all
@@ -58518,7 +58527,6 @@
 ||top.prolte.site^$all
 ||top.ssilpik.site^$all
 ||top.strukts5.site^$all
-||top.videos.co.pl^$all
 ||top.w1pl.link^$all
 ||top.wiwym.xyz^$all
 ||topacol.pl^$all
@@ -63597,7 +63605,6 @@
 ||vod-player.pl^$all
 ||vod-plus.pl^$all
 ||vod-tv.pl^$all
-||vod.co.pl^$all
 ||vod.plus^$all
 ||vod.sheeds.site^$all
 ||vodafone.mybill-payment.com^$all
@@ -65561,7 +65568,6 @@
 ||wyecqcmkyhv.digital^$all
 ||wygodnepozyczki.pl^$all
 ||wygodny120.site^$all
-||wygrac4237a8azcs-pieniadze8321ja.rejallegro.co.pl^$all
 ||wygraj-dzisiaj.com^$all
 ||wygraj-iphone-x.tujest.pl^$all
 ||wygraj-super-nagrode.com^$all
@@ -67371,6 +67377,7 @@
 ||ceskvabal.xyz^$important,xhr
 ||digitogy.eu^$all
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
+||http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https.*
 ||remontujemysami.pl^$all
 ||uploadfile.pl/download.png$image
 ||wilczynscy-ogrody.pl^$all
