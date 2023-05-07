@@ -2,8 +2,6 @@
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
 /?track=*&key=$doc
-||videos.co.pl^$all
-||vod.co.pl^$all
 /\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/\?utm_campaign=\w{40,}/$doc,match-case,domain=life|live|top|xyz
@@ -255,8 +253,10 @@
 ||vegas-redirect.com^$all
 ||veinnotionmariner.com^$all
 ||vexacion.com^$all
+||videos.co.pl^$all
 ||vitaltrading.pl^$all
 ||vnotrk.com^$all
+||vod.co.pl^$all
 ||vulkan18.com^$all
 ||vulkan-vegas-kasyno.com^$all
 ||vulkan-vegas.cc^$all
