@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 13 May 2023, 19:58 UTC+02:00
-! Version: 2023.5.13.5
+! Last modified: Sat, 13 May 2023, 22:16 UTC+02:00
+! Version: 2023.5.13.6
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4608,6 +4608,7 @@
 ||6burgerz.com^$all
 ||6c02b09b0b4032cb4e16857b99590097.hospla.co.pl^$all
 ||6c5d80a120c.johncornell.com^$all
+||6c7d643c1fdf8c191a2e6767e29dcf58.wopma.co.pl^$all
 ||6c21c0c327f1f2478b06c0acb64d2a56.ll-pl.co.pl^$all
 ||6c052c78e0c663ec73f0ba2a160836d7.m-pl.co.pl^$all
 ||6c67e65878a33855ba0ce29e87e0a11a.alldom.co.pl^$all
@@ -4763,6 +4764,7 @@
 ||7e6a468d8c483964e23e8f4a4c6d7870.ll-pl.co.pl^$all
 ||7e14c91efc035a3c89d97f250b0939ce.ll-pl.co.pl^$all
 ||7e601d13f26c981ae1682f6863fbd993.tsl-pl.co.pl^$all
+||7e27064b7546aeda21bc9f1320f0a1c4.wopma.co.pl^$all
 ||7e37624de93.johncornell.com^$all
 ||7e72219ab158b0d8e9873aa162d97a71.hospla.co.pl^$all
 ||7ea9e344869b2f0f4e8facbb9766811b.krokla.co.pl^$all
@@ -5056,6 +5058,7 @@
 ||13-interia.azureedge.net^$all
 ||13-wp.azureedge.net^$all
 ||13a7ed8233595a0906502feead345acd.alldom.co.pl^$all
+||13a577026c4fcc6e72bbce475324f904.wopma.co.pl^$all
 ||13da495633319e29970e6fee60f801ab.twojedom.pl^$all
 ||13e9ed482a9a30108bd8f8d7f3e3dd43.tinopa.co.pl^$all
 ||13f787575acd946263c8ad6425f67fe6.alldom.co.pl^$all
@@ -6643,6 +6646,7 @@
 ||63717e08862a92d2f070c4d539fb0366.hospla.co.pl^$all
 ||64104a33d9da0.site123.me^$all
 ||65978-delivery.xyz^$all
+||65982eee2306b2e514e68d1222520019.wopma.co.pl^$all
 ||66454ea2c6206cfcf5559ee8f6bc256f.al-pl.co.pl^$all
 ||67158de0a134dbd63fc977a2c3baee15.alldom.co.pl^$all
 ||68052a212871c3f1644420ce29a5b0ca.twojedom.pl^$all
@@ -8367,6 +8371,7 @@
 ||a7939d4f3626fa26f2dd0308e0ebf0b3.ll-pl.co.pl^$all
 ||a09774f01a8901502dffa16012dacbd5.krokla.co.pl^$all
 ||a62926dffe169305d98db273ae7ac001.alldom.co.pl^$all
+||a85613a0a57abf9b19eaba8f9cb33bca.wopma.co.pl^$all
 ||a459830f0ee.bakerstreet.uk.com^$all
 ||a0502529.xsph.ru^$all
 ||a0644002bda5fd6ff22787f244a4694a.dopla.com.pl^$all
@@ -11845,6 +11850,7 @@
 ||badz.bndrprogram.site^$all
 ||bae.waprogram.site^$all
 ||baetin.site^$all
+||baf7aeb2f5d91883fa6e4540fbf7f863.wopma.co.pl^$all
 ||bafasprojectshub.com^$all
 ||bafkreiaziwxxrimupqlhtr6rew6rilkclk4ghyvh6baldmdjrfcf2nkzyu.ipfs.nftstorage.link^$all
 ||bafkreicvgitwreyqhxl3y2inctifwjztjc7nbodf7ztalme52ozhrshwmu.ipfs.dweb.link^$all
@@ -18716,6 +18722,7 @@
 ||d709wf8jcnhl9.cloudfront.net^$all
 ||d779b72d51696b77d40df5448907a9bb.alldom.co.pl^$all
 ||d794v4.webwave.dev^$all
+||d803e8daa1c1d45e029d4182d3d59ce8.wopma.co.pl^$all
 ||d902f6200483c9fda5ae0d9f3d0f3343.ll-pl.co.pl^$all
 ||d903kj34o3859.cloudfront.net^$all
 ||d936c1274f12ca31a8424537ffe4a5a9.dopla.com.pl^$all
@@ -24046,6 +24053,7 @@
 ||f9c94a34c8034b733988fb52c47dc8aa.alldom.co.pl^$all
 ||f9c4784607f59b962ddaea186b96565d.alldom.co.pl^$all
 ||f9c3339919846ad66e1003171fbd257a.djodom.co.pl^$all
+||f9cb64bf651cc1afd5790d88f95b92d5.wopma.co.pl^$all
 ||f09ced3fd7d044d1e985d4fa1cacb71d.sht.co.pl^$all
 ||f9d409e93da4cd953092c2f6c8508304.krokla.co.pl^$all
 ||f9db2cc593f5ada32601342b3c350cdd.alldom.co.pl^$all
@@ -24113,6 +24121,7 @@
 ||f2532bfd792.johncornell.com^$all
 ||f2713b22be5906ee5624b511fefaaf80.ll-pl.co.pl^$all
 ||f3376fe18c300b7fc7c12c2626b3becd.kklmn.co.pl^$all
+||f4051e5089cd1715052819b7b9f77114.wopma.co.pl^$all
 ||f4102eab9e86df965613d0d410c119cf.hospla.co.pl^$all
 ||f7251e80770335baf1ec95d506854446.twojedom.pl^$all
 ||f10632a83ec6d1b9ea9e242a153245ff.krokla.co.pl^$all
@@ -30256,6 +30265,7 @@
 ||informatorpolski-9411011743457.azureedge.net^$all
 ||informatorpolski-9767169254424.azureedge.net^$all
 ||informatycznie.com.pl^$all
+||informcas.inforedan.space^$all
 ||informfound.biz^$all
 ||informing7.xyz^$all
 ||informingo-lx.09sh-ipment.xyz^$all
@@ -35740,6 +35750,7 @@
 ||kenneth.marekcyfra.pl^$all
 ||kennethworkman.com^$all
 ||kenoticism.info^$all
+||kenspoook.site^$all
 ||kentaheachimali.tk^$all
 ||kentcounty1812.org^$all
 ||kentuckymoldremoval.com^$all
@@ -60955,6 +60966,7 @@
 ||tubiflix.us^$all
 ||tucarga.us^$all
 ||tucelcirapassu.ga^$all
+||tuco.site^$all
 ||tucums.info^$all
 ||tufesthandsunt.cf^$all
 ||tuffunmat.com^$all
