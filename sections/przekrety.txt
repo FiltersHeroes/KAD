@@ -20,9 +20,9 @@
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
+/^https?:\/\/([\w]{1,4}\.)?vinted-pl-[a-z0-9]{3,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
-/^https?:\/\/([\w]{1,4}\.)?vinted-pl-[a-z0-9]{3,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
 /pl/bos-bank/?pay|$doc,frame,domain=~pl
 /pl/citibank/?pay&b=$doc,frame,domain=~pl
@@ -6235,6 +6235,7 @@
 ||alfagennp.com^$all
 ||alfaofishl.hotpr0g.site^$all
 ||alfasheff.prlmaxiiisok.xyz^$all
+||alficumare.site^$all
 ||alfypeighs3.com^$all
 ||algidities.info^$all
 ||algoran-d.store^$all
@@ -64488,4 +64489,3 @@
 ||zzmalwo.pl^$all
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||alficumare.site^$all
