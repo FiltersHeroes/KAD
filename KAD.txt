@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 13 May 2023, 18:32 UTC+02:00
-! Version: 2023.5.13.3
+! Last modified: Sat, 13 May 2023, 18:54 UTC+02:00
+! Version: 2023.5.13.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3264,9 +3264,9 @@
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
+/^https?:\/\/([\w]{1,4}\.)?vinted-pl-[a-z0-9]{3,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
-/https?:\/\/([\w]{1,4}\.)?vinted-pl-[a-z0-9]{3,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
 /pl/bos-bank/?pay|$doc,frame,domain=~pl
 /pl/citibank/?pay&b=$doc,frame,domain=~pl
@@ -9479,6 +9479,7 @@
 ||alfagennp.com^$all
 ||alfaofishl.hotpr0g.site^$all
 ||alfasheff.prlmaxiiisok.xyz^$all
+||alficumare.site^$all
 ||alfypeighs3.com^$all
 ||algidities.info^$all
 ||algoran-d.store^$all
