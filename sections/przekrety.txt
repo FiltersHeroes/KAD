@@ -64473,7 +64473,8 @@
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
 ||steamkarta.pl^$all
-/vinted-pl-[a-z0-9]{3,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case||efes.site^$all
+/https?:\/\/([\w]{1,4}\.)?vinted-pl-[a-z0-9]{3,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
+||efes.site^$all
 ||frosss.site^$all
 ||ollx.43343454.xyz^$all
 ||ollx.43343456.xyz^$all
