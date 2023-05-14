@@ -23,8 +23,6 @@
 /^https?:\/\/([\w]{1,4}\.)?vinted-pl-[a-z0-9]{3,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
-||mopiez.com^$all
-||filmnice.com^$all
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
 /pl/bos-bank/?pay|$doc,frame,domain=~pl
 /pl/citibank/?pay&b=$doc,frame,domain=~pl
@@ -15658,6 +15656,7 @@
 ||d793522a3337f7ee5ce5ebc6d6e401f7.hospla.co.pl^$all
 ||d5470122cf4e8d7d152038ace6a9f1d1.hospla.co.pl^$all
 ||d5884764fe7f218fbed10d1a8f4f7584.dopla.com.pl^$all
+||d8038982dd62a7c3d629619f1818035d.nastep.pl^$all
 ||d8668495eb89cd824cf771e84eee0039.al-pl.co.pl^$all
 ||d688046799ead972ee60b0c5fd6bbeea.krokla.co.pl^$all
 ||d1054680866a5f4f02edae77fd962980.hospla.co.pl^$all
@@ -21953,6 +21952,7 @@
 ||filmiser.pl^$all
 ||filmiserial.pl^$all
 ||filmline.pl^$all
+||filmnice.com^$all
 ||filmobo.com^$all
 ||filmofon.pl^$all
 ||filmohit.pl^$all
@@ -36717,6 +36717,7 @@
 ||mars-b.dedust.care^$all
 ||mars.monocronia.com^$all
 ||marsh.patrykza.com.pl^$all
+||marsh.podgorski.sklep.pl^$all
 ||marshaledhebes.com^$all
 ||marshaling.info^$all
 ||marshtrade.com^$all
@@ -38480,6 +38481,7 @@
 ||mootnessve.pl^$all
 ||mopieflix.com^$all
 ||mopiex.com^$all
+||mopiez.com^$all
 ||mor.kowt.site^$all
 ||mor.safars.online^$all
 ||morassw-online.preview-domain.com^$all
@@ -46321,6 +46323,7 @@
 ||pgnkolis.site^$all
 ||pgnmaincompany.online^$all
 ||pgnmodeinn.com^$all
+||pgnmonet.site^$all
 ||pgnn.nigma2fnrg.site^$all
 ||pgnoneinfo.site^$all
 ||pgnossift.com^$all
@@ -48941,6 +48944,7 @@
 ||portalkont.weebly.com^$all
 ||portalos.pl^$all
 ||portalwiadomosci.pl^$all
+||portfelinwesnow.site^$all
 ||portionprofessional.com^$all
 ||portjyhj.space^$all
 ||portofolioroad.com^$all
@@ -50149,6 +50153,7 @@
 ||proslimusblog.xyz^$all
 ||prosopop.pl^$all
 ||prosothcour.ml^$all
+||prosperhub.site^$all
 ||prosperity-thinkers.info^$all
 ||prosperity-thinkers.us^$all
 ||prost-pl.pl-pr0fiprog.site^$all
@@ -53406,6 +53411,7 @@
 ||silaream.space^$all
 ||silasibiri.pw^$all
 ||silasibiri.site^$all
+||silenceraganim.site^$all
 ||silhouetti.com^$all
 ||silkow.website^$all
 ||sill-buyer.webnode.co.uk^$all
@@ -62999,6 +63005,7 @@
 ||worldtime.bond^$all
 ||worldtradeconsultants.com^$all
 ||worldtrustinfo.com^$all
+||wormoorses.site^$all
 ||wormys.info^$all
 ||worthcreation.info^$all
 ||worthlessness.xyz^$all
@@ -64711,10 +64718,3 @@
 ||zzmalwo.pl^$all
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||d8038982dd62a7c3d629619f1818035d.nastep.pl^$all
-||marsh.podgorski.sklep.pl^$all
-||pgnmonet.site^$all
-||portfelinwesnow.site^$all
-||prosperhub.site^$all
-||silenceraganim.site^$all
-||wormoorses.site^$all
