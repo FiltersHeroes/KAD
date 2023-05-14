@@ -23,6 +23,8 @@
 /^https?:\/\/([\w]{1,4}\.)?vinted-pl-[a-z0-9]{3,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
+||mopiez.com^$all
+||filmnice.com^$all
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
 /pl/bos-bank/?pay|$doc,frame,domain=~pl
 /pl/citibank/?pay&b=$doc,frame,domain=~pl
