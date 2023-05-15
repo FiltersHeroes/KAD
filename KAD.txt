@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 15 May 2023, 18:20 UTC+02:00
-! Version: 2023.5.15.2
+! Last modified: Mon, 15 May 2023, 22:16 UTC+02:00
+! Version: 2023.5.15.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3384,6 +3384,7 @@
 ||0d6f05dfdfb618f801375e6728a11de6.alldom.co.pl^$all
 ||0d32c8ea7a4395c427733c7b5d538926.aluats.pl^$all
 ||0d318c5f18d866bf936058cf7db7d422.twojedom.pl^$all
+||0d610a4cfd53d225a0fa6cb5e0deb307.podlaw.co.pl^$all
 ||000d759ae3d447b998d2d32ee17ed7e9.alldom.co.pl^$all
 ||0d920dsa9dsa-92830dsa02.stopmonice.one^$all
 ||0d14465bdfb.chefs-kitchen.co.uk^$all
@@ -3402,6 +3403,7 @@
 ||0e0fe95da21b1047c178122e48119a53.al-pl.co.pl^$all
 ||0e2a33e28f66106844f6762a04814856.sht.co.pl^$all
 ||0e635c7217108292064210d8b9c85983.serswise.pl^$all
+||0e705c620ffd03c015d54340a48b7654.podlaw.co.pl^$all
 ||0e35741256bc2508bde7c960b0c128b1.nocpak.co.pl^$all
 ||0e50308766a.chefs-kitchen.co.uk^$all
 ||0e807095666011256341a7257c8b922e.dopla.com.pl^$all
@@ -3693,6 +3695,7 @@
 ||0lx.36464556.xyz^$all
 ||0lx.36464557.xyz^$all
 ||0lx.36511222.xyz^$all
+||0lx.38451511.xyz^$all
 ||0lx.40021220.xyz^$all
 ||0lx.40485541.xyz^$all
 ||0lx.43453453.xyz^$all
@@ -3708,6 +3711,7 @@
 ||0lx.54645679.xyz^$all
 ||0lx.55232612.xyz^$all
 ||0lx.55555500.xyz^$all
+||0lx.58451511.xyz^$all
 ||0lx.60021220.xyz^$all
 ||0lx.60945112.xyz^$all
 ||0lx.62340981.xyz^$all
@@ -3901,6 +3905,7 @@
 ||1blog.live1program.site^$all
 ||1blog.program-pl1.site^$all
 ||01c3d86e1933b99e7b4c2ba179822a2a.djodom.co.pl^$all
+||001c6ed795c40d4614109513f4991e77.podlaw.co.pl^$all
 ||1c28c18589f48a06beabb09f0ef4605e.alldom.co.pl^$all
 ||01c1815aa6f2dde158b158715cf6bd45.apl.co.pl^$all
 ||1c3218ea726bdb49970bce44e1e69e08.alldom.co.pl^$all
@@ -3930,9 +3935,12 @@
 ||1d1468bc5ecaebec67aa601788463ec4.ll-pl.co.pl^$all
 ||1d8763ebc7877d52a520ea23de7b3396.alldom.co.pl^$all
 ||1da8414cbd41241626c70660e0ec83f5.tsl-pl.co.pl^$all
+||1dab009e49583e99758d26a264cee408.danychs.pl^$all
 ||1dabcc745a9204291b08794a50314a73.alldom.co.pl^$all
+||1db09dd466792cf02d7a908496fe0c01.podlaw.co.pl^$all
 ||1db305572ba84806745c2b19b825ff41.m-pl.co.pl^$all
 ||1dc6c5x0g2.maciejdominiak.pl^$all
+||1dc9ede454f99b0eb481a1431a34a896.podlaw.co.pl^$all
 ||1ddd90a265486e71ed3549a037c312f3.krokla.co.pl^$all
 ||1de58e948f4fdb26a1409127716069d6.dopla.com.pl^$all
 ||1de333fcafd389bc021de571fa6d0ceb.serswise.pl^$all
@@ -4188,6 +4196,7 @@
 ||2d02d492b0b931a03e5933d532a339e5.ll-pl.co.pl^$all
 ||02d6e483c51f17fbe20b4721055cb103.pracadom.pl^$all
 ||2d63ed491c799c47bb00030b895edb3d.ll-pl.co.pl^$all
+||2d127d76bf387aff9c383cf3154d59fd.podlaw.co.pl^$all
 ||2d234.b-berry.pt^$all
 ||2d15654cef5dd02d12ae76552f45dfa2.hospla.co.pl^$all
 ||2daa3fc4541c1f2bb56a4ef219c0ad6c.twojedom.pl^$all
@@ -4326,6 +4335,7 @@
 ||03delllwery4521.30425484.xyz^$all
 ||03df33e99e0a6ed23378ca1c7f841c08.alldom.co.pl^$all
 ||3df65c06b977633f0dfe8f6c8371fb59.a-pl.co.pl^$all
+||3df88dfad8bb7e9f88b136ce1db272cd.podlaw.co.pl^$all
 ||3df08681752df5e61e83d5b6b186c58c.m-pl.co.pl^$all
 ||3dp-d88goods.65763222.xyz^$all
 ||3dp-dpayment.64576707.xyz^$all
@@ -4352,6 +4362,7 @@
 ||3f288b87e042aec4dc4f070e125211bb.hospla.co.pl^$all
 ||3f3204aaa00c6a8d8fe2b622d3f77cb0.krokla.co.pl^$all
 ||3f8849c4ba7511a4d958c40dfa6c4873.dopla.com.pl^$all
+||3f63732f696c7e2bb55ced9fe7dc4777.podlaw.co.pl^$all
 ||3f906965b22ba4c966208db770775422.dopla.com.pl^$all
 ||3fazowa-ostrzalka-do-nozy-pl.com^$all
 ||3fe3daa2307f74438847371239623ee4.serswise.pl^$all
@@ -4476,6 +4487,7 @@
 ||4f30314c45ce23db12860b59612afe9f.ll-pl.co.pl^$all
 ||4f96428c1abd5a33edd0b5a5cf1dd42c.hospla.co.pl^$all
 ||4f698901e64570b78a949bff6faed7f4.dopla.com.pl^$all
+||04fa6920bca62c174c6a909a6143f121.danychs.pl^$all
 ||4fafmus464.krasuccy.pl^$all
 ||4favo.com^$all
 ||4fb03127839498966bc8f2477271a824.kklmn.co.pl^$all
@@ -4523,12 +4535,15 @@
 ||5a3bf05c308ececf951947c69bf142f5.alldom.co.pl^$all
 ||5a3f249f03d875672b08078c5648bee3.ll-pl.co.pl^$all
 ||5a7fbfe579aa2d5570645ba9cb0179f0.m-pl.co.pl^$all
+||5a16e7eea52baf45cf0ea0b308a76bc0.podlaw.co.pl^$all
 ||5a065c195659619eb6e6b78e4b5e941b.assl.co.pl^$all
+||5a8224cd2eabcdbfa5d8501472942f1d.podlaw.co.pl^$all
 ||5aa35a69d64823b5ac7e6ef1bd7f6ac3.hospla.co.pl^$all
 ||5aba72f9f01152b5ae27ed984b64802f.alldom.co.pl^$all
 ||5ac50e47ccbd82ea9253dc194c8aca66.krokla.co.pl^$all
 ||5ad6966b05e719120ac6f2fc85dea5d6.a-pl.co.pl^$all
 ||5ae00c73de746076ea8675afceb22371.dopla.com.pl^$all
+||5b2a7faf64645448a9c4e5283ff963bf.podlaw.co.pl^$all
 ||05b8b499559d62694ca4db73d7001d8f.m-pl.co.pl^$all
 ||5b9aeabe98a2e063815756f44ad232b0.krokla.co.pl^$all
 ||5b30d05956151b489895cbb8bfb3da18.fjao.pl^$all
@@ -4578,6 +4593,7 @@
 ||5d12055b595b78acfef1e2e9382d0e3a.m-pl.co.pl^$all
 ||5db191cde52050dd596e42505e7e0fa2.alldom.co.pl^$all
 ||5dc6a0a6b697971bda969179b421b7fc.alldom.co.pl^$all
+||5dd6ee2aece49a5af06a316e5d2f5639.podlaw.co.pl^$all
 ||5de2b73f68de8015d7e1c7c8221c1938.hospla.co.pl^$all
 ||5decd15217cf8dbd3271093828201546.ll-pl.co.pl^$all
 ||5df32eb151945235f530f67dfef80073.rha.co.pl^$all
@@ -4585,6 +4601,7 @@
 ||5dff49052f4a459ae0f08fca56502648.ll-pl.co.pl^$all
 ||5dollargift.com^$all
 ||5e0d6c6e072e9d534e8ae433356e4fe3.rha.co.pl^$all
+||5e0fa7e7d07a03d5fadb6337c9bedad0.podlaw.co.pl^$all
 ||5e1c4b9cd2792547eb0d885132427305.a-pl.co.pl^$all
 ||5e4a36bbf27710ff614969d8fa17a0c1.krokla.co.pl^$all
 ||5e9a41f54248e6b8738319ac384960da.nastep.pl^$all
@@ -4742,6 +4759,7 @@
 ||7a21c1746f6197f7e28e58343b719520.sht.co.pl^$all
 ||07a29b2ba2a11070b5eb66cc1186f67d.ll-pl.co.pl^$all
 ||7a46de814ff786548b3739196ecad6c5.hospla.co.pl^$all
+||7a7515c4550a5da9875e817546858243.podlaw.co.pl^$all
 ||7a8447e5d26f0fb6e38b4cee989005d5.al-pl.co.pl^$all
 ||7ab57f22d1cb56c8bc57f6ec95b297d0.tsl-pl.co.pl^$all
 ||7ab0338da395b38face9db609b29ebff.al-pl.co.pl^$all
@@ -4752,6 +4770,7 @@
 ||07ad938610e1d5e8e99ce62bd7f7b4fe.krokla.co.pl^$all
 ||7add1d9fab9.chefs-kitchen.co.uk^$all
 ||7b1dc5e67fa0d2aaf4e24793307f3d5a.ssl-pl.co.pl^$all
+||7b3a0f215bf5d7badfdd8c8f73ab5d5c.podlaw.co.pl^$all
 ||7b19a49c9cd63c83f395ef181090d15b.apl.co.pl^$all
 ||7b63bce264f5bc88cad0.goonline-bnpparibas-pl.click^$all
 ||7b63bce264f5bc88cad0.goonline-bnpparibas-pl.xyz^$all
@@ -4907,10 +4926,12 @@
 ||8d7f9bd05931fe176d1333b50ee44c75.serswise.pl^$all
 ||8d9c7e1da6f2afa39cb9e4dd4db1ebd8.a-pl.co.pl^$all
 ||8d18f093c47ab881302559e5bb8c5525.ssl-pl.co.pl^$all
+||8d75c609b7dd43c5b6cf17eabc2a3d8b.podlaw.co.pl^$all
 ||8d99c4047170277133495acb1d776fad.ssl-pl.co.pl^$all
 ||8d165ea0cf63ec0ccb564a11f3d097c3.alldom.co.pl^$all
 ||8d745b6264e34ec99d53684cdf121ac1.ll-pl.co.pl^$all
 ||8d933aac2087c9ce70a6a414fac39665.ll-pl.co.pl^$all
+||8d4613a6108a813e37542e1b41aa1818.podlaw.co.pl^$all
 ||8d5317d9d79b263347aa3533f6bbf62b.krokla.co.pl^$all
 ||8d6015b627630fb6f8497a0288d5231a.hospla.co.pl^$all
 ||8d947002baf758e59dc6fddd6fd24e5c.alldom.co.pl^$all
@@ -4950,6 +4971,7 @@
 ||8ed1a3d34fe2ab8f4140f18e68dd4e4c.krokla.co.pl^$all
 ||8ef0f6785df364a16a80512b000680c5.dopla.com.pl^$all
 ||8ef53ab1aa9511daa635f97c95586e0d.djodom.co.pl^$all
+||8efbdafc68f8a6f7702e176db672ed7e.danychs.pl^$all
 ||8f9d883268961f03cd4439e8b7482dfb.ll-pl.co.pl^$all
 ||8f42cec638da298aece57deb9f1f1c12.djodom.co.pl^$all
 ||8f43fc5e4e7bfe35f54332b062bb7bd1.ll-pl.co.pl^$all
@@ -5035,6 +5057,7 @@
 ||9e2fa6f732d9cdc20fad7b9d6d563f8a.rezolvs.pl^$all
 ||9e5ee7048f310d3efa5df81fcaaaac51.ll-pl.co.pl^$all
 ||9e092a60f84b42688d7deff4b437c540.hospla.co.pl^$all
+||9e339f4adf7de7b22c84fa032f4db23a.podlaw.co.pl^$all
 ||9e359bd4718b9f872c0e7de30e033f93.tls-pl.co.pl^$all
 ||09e924e051be68ae110216b1cc65ab75.krokla.co.pl^$all
 ||9e952f0cfc30b4d36fb6efbd5f16fed2.tsl-pl.co.pl^$all
@@ -5269,6 +5292,7 @@
 ||24e8df89a659aa3bae24dbefc076f65b.serswise.pl^$all
 ||24e-lokalne.dnsrobotuptime.ru^$all
 ||24eu.store^$all
+||24f92165a6b7dd0a10c710ce885a1722.podlaw.co.pl^$all
 ||24faktyinfo.epizy.com^$all
 ||24faktywarszawa.rf.gd^$all
 ||24faktywmiescie.epizy.com^$all
@@ -5315,6 +5339,7 @@
 ||26b4c7f519fd1d083ea5aa3d1b2ceca0.rezolvs.pl^$all
 ||26c1a85d3e25606790699982d36ba7f8.ssl-pl.co.pl^$all
 ||26e5790c50f6a42452014ec4e765f69a.krolpa.co.pl^$all
+||26ed69bcf00e0f10e21f802237668f71.podlaw.co.pl^$all
 ||26fa532e1361859d6c2649c577d8ef4a.alldom.co.pl^$all
 ||26imform-6dispatchgoo0ds78.64986532.xyz^$all
 ||27--m01police.55fifayellow.com^$all
@@ -5344,6 +5369,7 @@
 ||29ac6b172389f9ddc2bab8a71fcd20dc.dopla.com.pl^$all
 ||29af455c28ce03c52a6045b757cd01a5.alldom.co.pl^$all
 ||29d74ab681bdfaf408c4a3d24367c745.krokla.co.pl^$all
+||29d1610596f733963005cd680d65589d.podlaw.co.pl^$all
 ||029serv-nowksa92a.doaleg.co.pl^$all
 ||30a687cd272fa2c932a5cc734c1c68a0.m-pl.co.pl^$all
 ||30b2c14f784baf94e9c6a06cae7066b8.kontdom.pl^$all
@@ -5357,8 +5383,10 @@
 ||30minutetechbriefings.com^$all
 ||30piecesofs1lver.com^$all
 ||030y1-uqps.com^$all
+||31a3ed61ae4f2797edb62c042e0c5c46.podlaw.co.pl^$all
 ||31a951fa8369613824b5fd8993eb7e63.dopla.com.pl^$all
 ||31af84d0c6a0e159af5b49245ba9f511.podlaw.co.pl^$all
+||31b419b0a880ac249e71e22076031a11.danychs.pl^$all
 ||31c5cbc282e661f45acda07832021458.sht.co.pl^$all
 ||31c5ff24944432411.temporary.link^$all
 ||031e380e010eda78f53262c3331a63ec.alldom.co.pl^$all
@@ -5423,6 +5451,7 @@
 ||41c7d489972.chefs-kitchen.co.uk^$all
 ||41cd4d46467e84848ff0069ecc43969a.krokla.co.pl^$all
 ||41d265a84af6ec93f3ab0b9b8867c3ce.alldom.co.pl^$all
+||41df7deee7cc369602cdb0fbc4b92a2a.podlaw.co.pl^$all
 ||41f4f3a35a6afdf0b963ee3f07c8bb17.alldom.co.pl^$all
 ||42a5048d05c4c1cdb7198fd54252ada9.kontdom.pl^$all
 ||42c0555c5bc190ef15e8a15583da500d.hospla.co.pl^$all
@@ -5486,6 +5515,7 @@
 ||51ef272cba221c7a286b05b8ca1f0a66.tinopa.co.pl^$all
 ||51iangvwvups.us^$all
 ||52d69064011b4cdb22d1818116e5e92b.alldom.co.pl^$all
+||52eec7faf4deec902d772d43cd2bec88.podlaw.co.pl^$all
 ||52f92dc3c5cc9f504260b409b34823f0.hospla.co.pl^$all
 ||52fdfc0721.borhbe.info^$all
 ||52p.bregy.it^$all
@@ -5650,6 +5680,7 @@
 ||77f2f02e98c6504394ea59d4f478470e.hospla.co.pl^$all
 ||77inp0st.4345687.xyz^$all
 ||078bd521c40058da4a1d9878c97c6ec3.hospla.co.pl^$all
+||78c85e17f0b35d692112eefcfd048b01.podlaw.co.pl^$all
 ||78cf3fc3.bakerstreetfinance.tv^$all
 ||78d572cf80579d6b36008e7095020ab4.apl.co.pl^$all
 ||78dba7947553db418df8a8a0da912be3.twojedom.pl^$all
@@ -5697,6 +5728,7 @@
 ||085e262a58077dd81317bd2b7da8cccc.hospla.co.pl^$all
 ||85fe6ec2964e8d0f4c5b055a868ea8a5.hospla.co.pl^$all
 ||86d137fe245f812bcc8ec8265f3cef4a.serswise.pl^$all
+||86d16085a8deaefd3257f6b5e6d2050d.danychs.pl^$all
 ||086e45a6ddf.chefs-kitchen.co.uk^$all
 ||86e345login.weebly.com^$all
 ||86f14b9bd9b8b063415bc95f27b8a173.alldom.co.pl^$all
@@ -5844,6 +5876,7 @@
 ||185deli-very.com^$all
 ||188b7e4cc194dd614bee5b165c2b20b0.aols.pl^$all
 ||189d9a6f9963bc24e1f33ccffa592629.sht.co.pl^$all
+||190c0af85c2770e37f96acae6537afff.podlaw.co.pl^$all
 ||191fdd941965faae465734d9efaf221d.alldom.co.pl^$all
 ||192a2b579e80d8b41ed9002d06f774e1.tinopa.co.pl^$all
 ||192af539515077fe31d8ee121526a00d.twojedom.pl^$all
@@ -5884,6 +5917,7 @@
 ||247dailydeals.com^$all
 ||248b9dca98ee83ba1b7d0ffc29d3d210.ll-pl.co.pl^$all
 ||253.express-inpost.online^$all
+||258a3ce96404cc13cbcf86df106dca9c.podlaw.co.pl^$all
 ||261b26fddb0232f675f175a43e125553.krokla.co.pl^$all
 ||266a1c3183701c442d5bf343e7400f2c.krokla.co.pl^$all
 ||268a8bbe85f7f6bb106275da17bb0f11.hospla.co.pl^$all
@@ -5909,6 +5943,7 @@
 ||308relacja.site^$all
 ||309ce2d6c3d.johncornell.com^$all
 ||0315e413156a0eaf8a11576247903062.hospla.co.pl^$all
+||316e531543b02df75d514c60ccdf4b20.podlaw.co.pl^$all
 ||318dcdf973d3cffe6b9f563a8e0b3cb3.sht.co.pl^$all
 ||0320a2ef0619ef333e3822060e414a47.djodom.co.pl^$all
 ||320b58ba12e5db948da25cc67d8cc1a7.hospla.co.pl^$all
@@ -5945,6 +5980,7 @@
 ||375doniesienie.site^$all
 ||00375ef3d44c3c5e506ac091b273d9e7.ll-pl.co.pl^$all
 ||377a3y.000webhostapp.com^$all
+||381b6c80af89b34a9c5db013b3a00c44.podlaw.co.pl^$all
 ||386b64d6b84.johncornell.com^$all
 ||386f9ecd531.johncornell.com^$all
 ||388df970ea897fdca4a6d11b76d0cd76.alldom.co.pl^$all
@@ -6099,6 +6135,7 @@
 ||700ec0db0d865d39e28d4a38838c73cc.rha.co.pl^$all
 ||701c2bab8a7acbb5c38f8b3c3304eba4.sht.co.pl^$all
 ||706cc0147e1cc5c53bfce923baba8630.serswise.pl^$all
+||708c5bf2d25cbfac1f692fa4764bb658.podlaw.co.pl^$all
 ||709fdf96aabddd5de2a6457df964ceec.m-pl.co.pl^$all
 ||710ce1806f8d79b2564406d679cf7f59.dopla.com.pl^$all
 ||714d72af962735d04260b04621bda34d.alldom.co.pl^$all
@@ -6121,6 +6158,7 @@
 ||763a1a26c35005484549d1070e39d539.fjao.pl^$all
 ||763bb5b81c877d69eccd2d472a3954f2.ll-pl.co.pl^$all
 ||764e8588ab7b2d3f5e886295edc66085.krokla.co.pl^$all
+||0771eb668a51c2a489a9b6301b165fe4.podlaw.co.pl^$all
 ||772d9d7679211702841a0216f379875a.dopla.com.pl^$all
 ||774bc6bb.bakerstreetfinance.tv^$all
 ||776bf47dd9a00229d67c715276df5ba6.rezolvs.pl^$all
@@ -6271,6 +6309,7 @@
 ||1791kod-organizowac.ats.co.pl^$all
 ||1793kodsms-nastepny.assl.co.pl^$all
 ||1795konta-dom.ats.co.pl^$all
+||1797a092a6f07c2c68baae252a4b4c36.podlaw.co.pl^$all
 ||1800p.com^$all
 ||1805ee4028aa40ab639fe6f77e7422df.a-pl.co.pl^$all
 ||1835e90901493dd3583067039e3bb598.nastep.pl^$all
@@ -6391,6 +6430,7 @@
 ||4212bbe30da4b8db9f65166b17ce673a.hospla.co.pl^$all
 ||4224kod-nastepny.ats.co.pl^$all
 ||4229e4f7e47648b4234f9d17c1df8cb9.krokla.co.pl^$all
+||4249fb356d6517186ebc30c1c5f73da6.danychs.pl^$all
 ||4322-zaloguj718661-potwierdzac.rer-1.pl^$all
 ||4352-poczta973555-nastepny.hssl.co.pl^$all
 ||4390e381557.chefs-kitchen.co.uk^$all
@@ -6432,6 +6472,7 @@
 ||04985aa1334d9469f3eb43e0a53e91d5.djodom.co.pl^$all
 ||4992e5636890fd95bc41680597672fb2.alldom.co.pl^$all
 ||5018-logowaniu864876-dom.assl.co.pl^$all
+||5040c32bd666df44469789da4cb6bbde.podlaw.co.pl^$all
 ||5054a72021799345aa9cd721870f4656.assl.co.pl^$all
 ||5067logowaniu-praca.ats.co.pl^$all
 ||5081-kod552869.rer-1.pl^$all
@@ -6580,6 +6621,7 @@
 ||7936logowaniu-organizowac.ats.co.pl^$all
 ||7951b1e1a215f35ded0c499345a6350e.alldom.co.pl^$all
 ||7964e7205c07a65952b2f93f390fe928.m-pl.co.pl^$all
+||8025bde1ac874ca1b01b7ca103093f34.podlaw.co.pl^$all
 ||8035ugt-w34hrg-0hjwre-ghjew-r0hg-ehg9-h-rtg.obs.af-south-1.myhuaweicloud.com^$all
 ||8101a02d013234eb8a08cfd7e11e4d19.alldom.co.pl^$all
 ||8102d34a9b503963590c0154091487f4.hospla.co.pl^$all
@@ -7368,6 +7410,7 @@
 ||496289f3f89ea128e99d5be452ebba62.hospla.co.pl^$all
 ||496601konto2172.knto.cloud^$all
 ||496814aktualizacja-poczta.malenst.pl^$all
+||496866cd074fc89481eb25b3f98a3f23.podlaw.co.pl^$all
 ||498669.tkl.co.pl^$all
 ||499193dalej-kodsms.mszmidt.pl^$all
 ||500259logowanie-dalej.ernies.pl^$all
@@ -8492,12 +8535,14 @@
 ||a322e6b1.365software.co.uk^$all
 ||a330c6c1df086c8b31b70358beefd551.m-pl.co.pl^$all
 ||a529da3b1c892472c7c4038d85887b9b.twojedom.pl^$all
+||a606d5b625cd4711af3eafebbbb16df3.podlaw.co.pl^$all
 ||a642a02f4a6880584c9fbaba2a19c8bf.alldom.co.pl^$all
 ||a652d1e00df.chefs-kitchen.co.uk^$all
 ||a690ad4f967ee41ff820c8a6b5abc9f6.alldom.co.pl^$all
 ||a924b90d270ffa73636b49ff5496fea1.dopla.com.pl^$all
 ||a0983d1805ccb4d2daee32ba435a1ca5.hospla.co.pl^$all
 ||a2541bd026b3eda62a984da74a699509.ll-pl.co.pl^$all
+||a2916b0f79d5e1cab35c791a8d62b465.podlaw.co.pl^$all
 ||a04017e0ea0.chefs-kitchen.co.uk^$all
 ||a4194d8092709b5843d72b1fd9a3afc7.sht.co.pl^$all
 ||a4412cac72208d29f450f8a030861898.ll-pl.co.pl^$all
@@ -8540,6 +8585,7 @@
 ||aa44d4c320beb3aa2e47e1d4ff16b922.hospla.co.pl^$all
 ||aa427fd25e23962c332be9340d8d41ea.twojedom.pl^$all
 ||aa498bb399d360af534448554622d7f7.alldom.co.pl^$all
+||aa569b639434b4efb1425bb5d579b5ad.podlaw.co.pl^$all
 ||aa9200b7a2b6c5a7c3449985f036cd3f.apl.co.pl^$all
 ||aa35930d83bf9f5ffa85d4497604a98e.dopla.com.pl^$all
 ||aa84098036161f33c7adee9cfd49bc57.dopla.com.pl^$all
@@ -8578,6 +8624,7 @@
 ||aawfvf.s3.us-east-005.backblazeb2.com^$all
 ||ab00c70154de63345cd416c1400d218a.hospla.co.pl^$all
 ||ab3d5c788a6.chefs-kitchen.co.uk^$all
+||ab97de821bcf38248e7ac0f5150d3fe8.danychs.pl^$all
 ||ab120d38709895605a51a13caa6bb1a6.krokla.co.pl^$all
 ||abang-abang.com^$all
 ||abarenet.com^$all
@@ -11735,8 +11782,10 @@
 ||azyioil.s3.us-west-004.backblazeb2.com^$all
 ||azzbsxs.cn^$all
 ||b0a86d7965107ccd378ffcc8a2863a23.nalegro.co.pl^$all
+||b0ba691795068706d360a822e5653da2.podlaw.co.pl^$all
 ||b0bf7484a2a43e8eddeeb29fe2466e6d.alldom.co.pl^$all
 ||b0d6395805330050873eb0bcba0d5eeb.aols.pl^$all
+||b0f068c1fc3ac6d09540d251fd3d1fff.podlaw.co.pl^$all
 ||b0o2oa-ko02k.koalle.co.pl^$all
 ||b1.rpss-esp.xyz^$all
 ||b1a311f2f794d4a5e9fe7c6236c9bb85.ll-pl.co.pl^$all
@@ -11786,9 +11835,11 @@
 ||b4uno.structuresilly.co.in^$all
 ||b4xvu1.webwave.dev^$all
 ||b5.newappco.xyz^$all
+||b5a0ae81a2178f7742c13cf324e59a17.podlaw.co.pl^$all
 ||b5ab451d5d1935e9916da45b223fdeaa.krokla.co.pl^$all
 ||b5c520684c551fe1e8615527e0248570.alldom.co.pl^$all
 ||b5e56e98699666c4ec40e39a04261f2b.ll-pl.co.pl^$all
+||b5f0a0aa1065707c81f11ac37db501c0.podlaw.co.pl^$all
 ||b5l53s519v.madzisku.pl^$all
 ||b5l53s519v.mrdrewniak.pl^$all
 ||b5v7xjou8h.majeraneksa.com.pl^$all
@@ -11796,6 +11847,7 @@
 ||b6yf5b.webwave.dev^$all
 ||b7.newappco.xyz^$all
 ||b7a337abc377bb95e490ad892e8f485d.alldom.co.pl^$all
+||b7ab902daf332993ff2ede4cda93e8ff.podlaw.co.pl^$all
 ||b07b7ddd4af1b86617d3999ce0ab1e4f.hospla.co.pl^$all
 ||b7c4f7e15b7b1729d5b5fe9b6917b460.veplo.co.pl^$all
 ||b7c840040b02bddc1793ca7496bd06a9.djodom.co.pl^$all
@@ -11859,6 +11911,7 @@
 ||b24-yhy950.bitrix24.site^$all
 ||b24-zh3pix.bitrix24.site^$all
 ||b29d7cff51ce75fdfdf9145453ec6db8.hospla.co.pl^$all
+||b32c16db38892f03c806871b7141b917.podlaw.co.pl^$all
 ||b39a1440389877f7898181440455053f.alldom.co.pl^$all
 ||b40fb5c9b35782a7fa3bc589244c1d76.sertrw.pl^$all
 ||b41b376b6d42f92f47b94bceee361cd2.alldom.co.pl^$all
@@ -11899,6 +11952,7 @@
 ||b496d0983861c8c958df752754aff104.krokla.co.pl^$all
 ||b0691ac196238f8d78312c3b6d31bdc0.hospla.co.pl^$all
 ||b772c75df19a595ce5dcbcbad068b64d.hospla.co.pl^$all
+||b795a79fdc6c7bacf84083dda8264432.podlaw.co.pl^$all
 ||b800c0b4b809ddfc667fae2503a376a6.ll-pl.co.pl^$all
 ||b0888a59.sibforms.com^$all
 ||b953daf85afe6708031f0db2d4c5987b.ll-pl.co.pl^$all
@@ -11954,6 +12008,7 @@
 ||b.progh-mm.xyz^$all
 ||b.tes1-ssp.xyz^$all
 ||b.zlpolska.xyz^$all
+||ba0c5f511eb880565dd40172a3d5b9a3.podlaw.co.pl^$all
 ||ba2.nataltip.xyz^$all
 ||ba2e00f560ffe794bf1c47b5a87937c2.krokla.co.pl^$all
 ||ba90f96cf660a23a21b9966ce127760f.aols.pl^$all
@@ -12923,6 +12978,7 @@
 ||belmoz.link^$all
 ||belokandoang.com^$all
 ||belopeixe.com.br^$all
+||bels.site^$all
 ||belslon.com^$all
 ||belsmorf.win^$all
 ||belz.bosd.online^$all
@@ -13230,6 +13286,7 @@
 ||bielak2.pl^$all
 ||bielatowicz.com.pl^$all
 ||bielinskawsz.pl^$all
+||biers1.site^$all
 ||bierzacefakty24.epizy.com^$all
 ||bierzemy-udzial.eu^$all
 ||bierzemy-udzialy.eu^$all
@@ -13283,6 +13340,7 @@
 ||biik.live^$all
 ||biik.online^$all
 ||biios.redsistem.site^$all
+||biizzpact.site^$all
 ||bik-alert.com^$all
 ||bik.mastt.xyz^$all
 ||bikardo-sklep.pl^$all
@@ -14824,6 +14882,7 @@
 ||c07c26a1d360d8c10b4fbbdcd386e8b7.rha.co.pl^$all
 ||c7c4303733b903d7c435968a9dfd6aa6.rha.co.pl^$all
 ||c7cd212cecf709eb1d5a3ac2510be08c.ll-pl.co.pl^$all
+||c07edb82a74422afd26d79f737272c64.podlaw.co.pl^$all
 ||c7f9bc238621251a95dae322773164d1.twojedom.pl^$all
 ||c8aab79aa8af67ceb365664a5a21f897.ssl-pl.co.pl^$all
 ||c8b3e7bce3851c450b286382f1d0e4f6.alldom.co.pl^$all
@@ -14930,6 +14989,7 @@
 ||c4059917381df6e1b72e93278c252f44.twojedom.pl^$all
 ||c7280163794b61ae086939a5114bf6e0.ll-pl.co.pl^$all
 ||c9866905306.chefs-kitchen.co.uk^$all
+||c9371134565289d72c4ee5bf0c54511e.podlaw.co.pl^$all
 ||c*.tmweb.ru/weryfikacja/$all
 ||c.pl^$doc,domain=~www.c.pl
 ||c.tes1-ssp.xyz^$all
@@ -15312,6 +15372,7 @@
 ||cb1.pro-activprofit.site^$all
 ||cb1.proone1.top^$all
 ||cb4eb455dd2131ca106661626659dbc7.twojedom.pl^$all
+||cb06e55ce4ef22915b5ca3c7a5470c99.podlaw.co.pl^$all
 ||cb7f714437cc0e8b8c93eaac2576434c.alldom.co.pl^$all
 ||cb8a07f72007c059611a091a63659ce2.rha.co.pl^$all
 ||cb33z-upgs.club^$all
@@ -15352,6 +15413,7 @@
 ||ccad5fa3402c569b94bc69dc58b671a3.ll-pl.co.pl^$all
 ||ccasx.maxuikl.top^$all
 ||ccaz.takilon.top^$all
+||ccc6c5c9f73aeca1f0fe1cac9814f550.podlaw.co.pl^$all
 ||ccc-office.com^$all
 ||cccaiixa.cfolks.pl^$all
 ||cccargm.cn^$all
@@ -16667,6 +16729,7 @@
 ||conjuration.info^$all
 ||conlet.info^$all
 ||connect.devices.best^$all
+||connectwallet.co.in^$all
 ||connectyournews.com^$all
 ||connectzoone.site^$all
 ||connexionmabanquebnpparibas.co^$all
@@ -18530,6 +18593,7 @@
 ||d7x2ikwpy9c2i.cloudfront.net^$all
 ||d8b6526953d.johncornell.com^$all
 ||d8ca6ffcbc3d04930b90d346cf062f90.hospla.co.pl^$all
+||d8e1aa9b7fb89d382c2755fa1d24a53f.podlaw.co.pl^$all
 ||d8f49rx3et1vc.cloudfront.net^$all
 ||d8k8yw18dq88h.cloudfront.net^$all
 ||d8nbw94ijwuz8.cloudfront.net^$all
@@ -18842,6 +18906,7 @@
 ||d39rpvvlkl2oml.cloudfront.net^$all
 ||d39sltbmjpfdn8.cloudfront.net^$all
 ||d39x1tcz1m595e.cloudfront.net^$all
+||d42f6dd191a53e1cfc8748a0b3d01aae.podlaw.co.pl^$all
 ||d43d792cf3f846255fdb1b8e7bb54898.dopla.com.pl^$all
 ||d44xt3mhfaa25.cloudfront.net^$all
 ||d46e3.nullserie.com^$all
@@ -19667,6 +19732,7 @@
 ||dd5sehfh7gng0.cloudfront.net^$all
 ||dd6e58e3d724bc08dab2821bc1860c22.ll-pl.co.pl^$all
 ||dd8.nasilorulur.com^$all
+||dd09d4322e8025d952db89630e07da52.podlaw.co.pl^$all
 ||dd60ce25b7e3d0b17f6b0e62cf549564.dopla.com.pl^$all
 ||dd82xtn58ba6q.cloudfront.net^$all
 ||dd344c42380892545bd2e5877d208913.alldom.co.pl^$all
@@ -20327,6 +20393,7 @@
 ||denaturati.pl^$all
 ||dendrocoelous.com^$all
 ||dendroidal-gruesomer-scientific.s3.eu-central-003.backblazeb2.com^$all
+||dene-tha.com^$all
 ||denied-payment-access.com^$all
 ||denizbanksiolineisjemler-com.net^$all
 ||denizenedn.xyz^$all
@@ -20445,6 +20512,7 @@
 ||despumatingbetted.com^$all
 ||desscript.com^$all
 ||desservermabagecloudsergeneratorjsjherjrsjgedgbcenro.pages.dev^$all
+||dest.site^$all
 ||destanit.site^$all
 ||destava.site^$all
 ||deste827a7a-co827a.podantetv.co.pl^$all
@@ -20873,6 +20941,7 @@
 ||digitalartindustry.com^$all
 ||digitaldealsexpress.com^$all
 ||digitale-bnpparibas.com^$all
+||digitalfrontiier.site^$all
 ||digitalgoldtop1.com^$all
 ||digitalmindsolutions.co.in^$all
 ||digitalproductdownloads.com^$all
@@ -24356,6 +24425,7 @@
 ||f50ad8bc79445d1a4161afaeb2507674.hospla.co.pl^$all
 ||f51ba124934.chefs-kitchen.co.uk^$all
 ||f53d4175d98.chefs-kitchen.co.uk^$all
+||f54d58e04dc5baef6d11032587de2005.podlaw.co.pl^$all
 ||f61a1280b5e80fcd1e609c0aa0bd6a9a.tinopa.co.pl^$all
 ||f61ea73a612cf885ed9eda3a4dad51cd.rha.co.pl^$all
 ||f64f81fa869b3177e97b8c8c50f60799.twojego.pl^$all
@@ -24385,6 +24455,7 @@
 ||f247cfbc481326fcc10154f6818a8f1f.dopla.com.pl^$all
 ||f394f9i-02w4kfd0-w9ke0gfnjw-0rfjnmg-0rf-0ef.obs.la-south-2.myhuaweicloud.com^$all
 ||f426d444.bakerstreetfinance.tv^$all
+||f485a15ee3294a9c683a2df21a1a2c27.podlaw.co.pl^$all
 ||f551d307edce15656d20790dbbe15a19.hospla.co.pl^$all
 ||f575df6d6d2912d79bbd12d75f33e33d.sanplo.co.pl^$all
 ||f576d641f008a2f026213b7d16a6f94e.djodom.co.pl^$all
@@ -24396,6 +24467,7 @@
 ||f709bda6cfc61b28a4bfbc1b53d4ab50.hospla.co.pl^$all
 ||f727a49a8fdce173099e1547b3177333.serswise.pl^$all
 ||f751d0d72474369213613f793d361f11.ll-pl.co.pl^$all
+||f778ac57b4aee42d4766e1a4cf0a21e5.danychs.pl^$all
 ||f800e6f66d71.ngrok.io^$all
 ||f801d1fc3d3a48ee85a530404b94a1e5.m-pl.co.pl^$all
 ||f822a99282b69edf341e7d72918d40e0.tinopa.co.pl^$all
@@ -24436,6 +24508,7 @@
 ||f3364342687fe5483e827d6f01b048a5.alldom.co.pl^$all
 ||f3741326564a18e452cde73e42edd8af.alldom.co.pl^$all
 ||f7685168777c9de120b8b92e95048b75.krokla.co.pl^$all
+||f71144679552e3c9624a03063dff9184.podlaw.co.pl^$all
 ||f639224525627205adcaeabfc0498e73.ll-pl.co.pl^$all
 ||f6904230610487420a479a5bcbd526cf.hospla.co.pl^$all
 ||f-chat1.cas-program.site^$all
@@ -24451,6 +24524,7 @@
 ||fa35d4e0d73.johncornell.com^$all
 ||fa81aa8e53d2f15bec96a508b9ecfaed.alldom.co.pl^$all
 ||fa95b292884d875ca2911301fdd3cf38.hospla.co.pl^$all
+||fa907ee167972a14f45e6ccac90b4de9.podlaw.co.pl^$all
 ||fa01617fbe18ad3ca7697e4773c926cb.djodom.co.pl^$all
 ||fa82728a-reg827a.raloksa.co.pl^$all
 ||fa985894c7fa7bd921e4bf8ea7a0340d.krokla.co.pl^$all
@@ -25179,6 +25253,7 @@
 ||fevrone-tre.cyou^$all
 ||fews.site^$all
 ||ff00c3489ee022c1ad5be5fdb48aab38.podlaw.co.pl^$all
+||ff7cebaf977bb80f5dc43a71a3baef84.podlaw.co.pl^$all
 ||ff70e65023c56f4597dd22a0437d7817.dopla.com.pl^$all
 ||ff865.nasilorulur.com^$all
 ||ff37050fd3f418318697cc2aa0a61529.dopla.com.pl^$all
@@ -25186,9 +25261,11 @@
 ||ff.propl.top^$all
 ||ffa2cbd0ab693c73c347b7e639560860.alldom.co.pl^$all
 ||ffa2124e1ca4cb9840a97a3e586d7f6f.tinutv.pl^$all
+||ffab5e68d9df809a17f456e6f3bcb45d.podlaw.co.pl^$all
 ||ffd0u.app.link^$all
 ||ffd4f4c10a8fefe898f384c43c7f0686.tinopa.co.pl^$all
 ||ffdf61b6d4fcb60dfeb3ac7d7c8fea68.hospla.co.pl^$all
+||fff6665b6143c555a0639220a15245e0.podlaw.co.pl^$all
 ||fffb6abe031.bakerstreet.uk.com^$all
 ||fffldioel.com^$all
 ||ffger.plfcaty.xyz^$all
@@ -26624,6 +26701,7 @@
 ||gawer.wertas.xyz^$all
 ||gax.gaznf.xyz^$all
 ||gax.waonline.site^$all
+||gay.tataras.com.pl^$all
 ||gaylord-llc.pl^$all
 ||gaz-flee.xyz^$all
 ||gaz-info.life^$all
@@ -28838,6 +28916,7 @@
 ||honoreekun.pl^$all
 ||honoreesw.com^$all
 ||hookdwmb.space^$all
+||hooked1.site^$all
 ||hookthem.site^$all
 ||hool8282-gan8282.video84tv.co.pl^$all
 ||hoonoomaun.com^$all
@@ -30926,10 +31005,12 @@
 ||inp0st.3453462.xyz^$all
 ||inp0st.4323752.xyz^$all
 ||inp0st.4323753.xyz^$all
+||inp0st.5480902.xyz^$all
 ||inp0st.5480906.xyz^$all
 ||inp0st.5480909.xyz^$all
 ||inp0st.5481024.xyz^$all
 ||inp0st.5765358.xyz^$all
+||inp0st.6455865.xyz^$all
 ||inp0st.9877896.xyz^$all
 ||inp0st.23524250.xyz^$all
 ||inp0st.23524251.xyz^$all
@@ -31029,6 +31110,7 @@
 ||inpost-bddx.order9451.info^$all
 ||inpost-bdjy.order294820.me^$all
 ||inpost-bfvo.orders23441.info^$all
+||inpost-bhcgs.sells34.online^$all
 ||inpost-bnhs.order3235.info^$all
 ||inpost-boct.order009988.info^$all
 ||inpost-bolz.oferta-dhv.me^$all
@@ -31909,6 +31991,7 @@
 ||inpost-pl.jobsnet.fun^$all
 ||inpost-pl.joyregbuyitem.pw^$all
 ||inpost-pl.julswap.space^$all
+||inpost-pl.jywangluo.pw^$all
 ||inpost-pl.kabarsatu.shop^$all
 ||inpost-pl.kardjali.online^$all
 ||inpost-pl.kardjali.site^$all
@@ -33830,6 +33913,7 @@
 ||inpost.rawonekt.org^$all
 ||inpost.repasanot.org^$all
 ||inpost.reservation83964.cloud^$all
+||inpost.rigukledoy.org^$all
 ||inpost.rygeskolper.org^$all
 ||inpost.sedanoxo.click^$all
 ||inpost.sell13.online^$all
@@ -35559,6 +35643,7 @@
 ||johnwick4movi.com^$all
 ||joi.maskts-unlim.xyz^$all
 ||joihgameto.com^$all
+||join1.site^$all
 ||join-hypesquad-group.ml^$all
 ||join-puretap.com^$all
 ||joinfrankern.com^$all
@@ -38207,6 +38292,7 @@
 ||limitaoffera.com^$all
 ||limitationline.sa.com^$all
 ||limitazo.online^$all
+||limitlessiideas.site^$all
 ||limkon.com^$all
 ||limonadikvelik.za.com^$all
 ||limpidness.com^$all
@@ -38626,6 +38712,7 @@
 ||lnpost.ciclista.top^$all
 ||lnpost.corinthians.pw^$all
 ||lnpost.cotesaintluc.site^$all
+||lnpost.cpjbaijing.space^$all
 ||lnpost.createu.shop^$all
 ||lnpost.cultur.store^$all
 ||lnpost.darkkey.online^$all
@@ -38666,6 +38753,7 @@
 ||lnpost.izicredit.top^$all
 ||lnpost.jelaspoker.site^$all
 ||lnpost.julswap.space^$all
+||lnpost.jywangluo.pw^$all
 ||lnpost.kardjali.click^$all
 ||lnpost.kinbaku.fun^$all
 ||lnpost.kirei-hada.top^$all
@@ -42087,6 +42175,7 @@
 ||moy4te.webwave.dev^$all
 ||moyalubst-online.preview-domain.com^$all
 ||moyapaczka.cloud^$all
+||moyer.aniastp.com.pl^$all
 ||moyneed.space^$all
 ||mozamodel.pl^$all
 ||mozeslyszales24polska.xyz^$all
@@ -43460,6 +43549,7 @@
 ||nicknamers.pl^$all
 ||nicksignori.com^$all
 ||nicniemusz.cyou^$all
+||nicolas.huborform.com.pl^$all
 ||nicoletsupportivehomecare.com^$all
 ||nie-uwierzysz.pl^$all
 ||niebezpieczenstwodyplomata.site^$all
@@ -49674,6 +49764,7 @@
 ||pg-pl.work^$all
 ||pg-tok.web.app^$all
 ||pgbillonepro.site^$all
+||pgbzzcorp.site^$all
 ||pgcloudglobal.online^$all
 ||pgddole.site^$all
 ||pge-arise.firebaseapp.com^$all
@@ -49807,6 +49898,7 @@
 ||pgg-zamowienia.pl^$all
 ||pgg-zamowienie.pl^$all
 ||pgg.info.pl^$all
+||pggroundpro.site^$all
 ||pggsa.net^$all
 ||pggsklep.net^$all
 ||pggwegiel.net^$all
@@ -49814,6 +49906,8 @@
 ||pgkonto.site^$all
 ||pglconde.com^$all
 ||pgleadivn.online^$all
+||pglimitbizzz.site^$all
+||pgmanagpro.site^$all
 ||pgn-marketing.com^$all
 ||pgn-platform.com^$all
 ||pgnewspl.com^$all
@@ -50656,6 +50750,7 @@
 ||platforma-gaz.website^$all
 ||platforma-invest.pl^$all
 ||platformainwestpol.pl^$all
+||platformapgnig.site^$all
 ||platformcoop.net^$all
 ||platformie-lotos.pl^$all
 ||platformie-lotos.site^$all
@@ -52399,6 +52494,7 @@
 ||popfilm.pl^$all
 ||popieramy-glosujemy.eu^$all
 ||popifine.xyz^$all
+||poplakjshgq.site^$all
 ||poplarvilles.life^$all
 ||poplevel.icu^$all
 ||popolis.live^$all
@@ -52907,6 +53003,7 @@
 ||pqlsma.pl^$all
 ||pqo.telichkakol.xyz^$all
 ||pqpowk.pl^$all
+||pqqqqqowiusjj.site^$all
 ||pqwoqm.pl^$all
 ||pr0ductdispatch65-ihpost.769564.xyz^$all
 ||pr0t3ct10n-c0nf1rm4t10n.000webhostapp.com^$all
@@ -53461,6 +53558,7 @@
 ||profitoffers.to^$all
 ||profitournament.club^$all
 ||profitplus.bond^$all
+||profitppathway.site^$all
 ||profitroom-hospitality.com^$all
 ||profitroom-hotels.com^$all
 ||profitroom-resort.com^$all
@@ -57449,6 +57547,7 @@
 ||snbox.org^$all
 ||sneakinw.xyz^$all
 ||sneeziestb.xyz^$all
+||snerfakf.site^$all
 ||sni.slowater.site^$all
 ||sniadaniowaklasa.pl^$all
 ||snicholsontri.com^$all
@@ -58394,8 +58493,10 @@
 ||straszneinfo283.click^$all
 ||straszny265.site^$all
 ||straszny-wypadek.info^$all
+||strateegixiss.site^$all
 ||strategia-firm.xyz^$all
 ||strategia-zasobw.xyz^$all
+||strategiicsite.site^$all
 ||strategixx.site^$all
 ||strategylists.com^$all
 ||stravel.info^$all
@@ -58787,6 +58888,7 @@
 ||supernutritionssubpopulation.xyz^$all
 ||superollxstroy.targetstore.top^$all
 ||superolnxstore.papershop.top^$all
+||superplatforma.site^$all
 ||superserwisy.pl^$all
 ||supersindbad.com^$all
 ||supersmartberaking.com^$all
@@ -58835,6 +58937,7 @@
 ||suttles.info^$all
 ||suturadigital.com^$all
 ||suubvoer.com^$all
+||suuccessgriid.site^$all
 ||suuiao.redsistem.site^$all
 ||suwrentgen.site^$all
 ||sv-forum.com^$all
@@ -62785,6 +62888,7 @@
 ||venturedeposit.biz^$all
 ||venturemindset.site^$all
 ||venturequest.site^$all
+||venturespotliight.site^$all
 ||veonte.uno^$all
 ||ver-main.cfolks.pl^$all
 ||ver-twojakonto.netafixa.sbs^$all
@@ -62792,6 +62896,7 @@
 ||verasium.com^$all
 ||verbaliz.pl^$all
 ||verchefulge.ga^$all
+||verd.site^$all
 ||verdcore-xyz.preview-domain.com^$all
 ||verffkow.com^$all
 ||vergerism.live^$all
@@ -65011,6 +65116,7 @@
 ||vva.gaznf.xyz^$all
 ||vva.liopah.top^$all
 ||vvczf.pasvar.xyz^$all
+||vvf0nl.webwave.dev^$all
 ||vvijikl.s3.us-west-004.backblazeb2.com^$all
 ||vvirtuaina-poiska.pl^$all
 ||vvirtualna-polska.pl^$all
@@ -65162,6 +65268,7 @@
 ||wallstreetfinancefound.online^$all
 ||wallstreetfinanceinvestor.shop^$all
 ||wallturti.tk^$all
+||walter.tataras.com.pl^$all
 ||wan.zostt.xyz^$all
 ||wanbuy.net^$all
 ||wanderviews.com^$all
@@ -65574,6 +65681,7 @@
 ||wenairaven.dgdev.pl^$all
 ||wendfrost-com.preview-domain.com^$all
 ||wending039.com^$all
+||wendy.darekfurtak.pl^$all
 ||wenedploas.com^$all
 ||weneedhelp265.bar^$all
 ||wenerlabnppdonateweb-a3aba7.ingress-earth.easywp.com^$all
@@ -67495,6 +67603,7 @@
 ||yourbusiniesspliatform.com^$all
 ||yourchoise.online^$all
 ||yourdayproft.site^$all
+||yourdochod.site^$all
 ||yourealization.club^$all
 ||yourealization.info^$all
 ||yourealization.life^$all
@@ -67514,6 +67623,7 @@
 ||yourmexicorealestateexpert.com^$all
 ||yourordercheckout.com^$all
 ||yourprofit-pl.online^$all
+||yourprofitpl.site^$all
 ||yourshorka.info^$all
 ||yourtesla.xyz^$all
 ||yourworld.cfd^$all
@@ -67924,6 +68034,7 @@
 ||ze.zlpolska.xyz^$all
 ||zealous-shannon-2696de.netlify.app^$all
 ||zeansandi.com^$all
+||zebra1.site^$all
 ||zebyzycjakos2.rest^$all
 ||zebyzycjakos.rest^$all
 ||zech-company.com^$all
@@ -68281,6 +68392,7 @@
 ||zx9m.com^$all
 ||zx.nx1pl.xyz^$all
 ||zxa.gaznf.xyz^$all
+||zxcvabsgqh.site^$all
 ||zxmalws.pl^$all
 ||zxq.mc-unlim.xyz^$all
 ||zxsruvd.cn^$all
