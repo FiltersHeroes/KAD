@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 17 May 2023, 23:24 UTC+02:00
-! Version: 2023.5.17.5
+! Last modified: Wed, 17 May 2023, 23:43 UTC+02:00
+! Version: 2023.5.17.6
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1716,6 +1716,7 @@
 ||oleksy.net.pl^$all
 ||olukaipolska.com^$all
 ||omnistor.pl^$all
+||omsaitool.com^$all
 ||on-runningpolska.pl^$all
 ||onemed.com.pl^$all
 ||online-ruletka.pl^$all
@@ -3258,6 +3259,7 @@
 ||zcontentlocker7gpa8a.xyz^$all
 ||zejrzyj-zdjecia.bo.pl^$all
 ||zgarniij_vouchher.skroc.pl^$all
+!#safari_cb_affinity
 !
 ! Przekręty
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
@@ -3318,6 +3320,7 @@
 ||0-lx.4336451.xyz^$all
 ||00-lx.4445334.xyz^$all
 ||00-lx.4653450.xyz^$all
+||0-lx.5698488.xyz^$all
 ||0-lx.8090983.xyz^$all
 ||0-lx.8671216.xyz^$all
 ||00-lx.12412432.xyz^$all
@@ -13232,6 +13235,7 @@
 ||bezpieczenstwo-danych.online^$all
 ||bezpieczenstwo-danych.website^$all
 ||bezpieczenstwo.app^$all
+||bezpieczenstwo.site^$all
 ||bezpieczenstwo.tech^$all
 ||bezpieczenstwonaszejpoczty.pl^$all
 ||bezpieczna-dostawa.com.pl^$all
@@ -23676,6 +23680,7 @@
 ||embedtarp.com^$all
 ||emberometers.com^$all
 ||embracemen.xyz^$all
+||embraciingunknown.site^$all
 ||embracingcchange.site^$all
 ||embracingchallenge.site^$all
 ||embracingdiversity.site^$all
@@ -27374,6 +27379,7 @@
 ||gladiola.life^$all
 ||gladora-sklep.pl^$all
 ||gladorasklep.pl^$all
+||glamazzzon.site^$all
 ||glambeautynails.com^$all
 ||glamguruuu.site^$all
 ||glamor-o1-lx.cardesk.cfd^$all
@@ -48323,6 +48329,7 @@
 ||ooaifmal.fun^$all
 ||oocuhyejdcvvvd.vdl.pl^$all
 ||ooddtoppll.site^$all
+||oofcemce.site^$all
 ||ooget.xyz^$all
 ||ooglytech.com^$all
 ||oogrrd.vdee.ru^$all
@@ -48970,6 +48977,7 @@
 ||orthopt.com^$all
 ||orto-203sk-xxxx9w0s.netlify.app^$all
 ||orto-offers.com^$all
+||oruryhejkfjhf.site^$all
 ||orzech150.pl^$all
 ||orzegowa.pl^$all
 ||orzekanie-zwyciezcy.eu^$all
@@ -58843,6 +58851,7 @@
 ||store.254545222.xyz^$all
 ||store.648454855.xyz^$all
 ||store.948454855.xyz^$all
+||store.acmsantigua.com^$all
 ||store.apps.googleplay.pro^$all
 ||store.bellizzistar.com^$all
 ||store.destiny-api.com^$all
@@ -59685,6 +59694,7 @@
 ||szybkie.click^$all
 ||szybkiedpd4you.pl^$all
 ||szybkiefakty.eu5.net^$all
+||szybkiepolaczeniaa.site^$all
 ||szybkinetflix.pl^$all
 ||szybkipakunek.cloud^$all
 ||szybkipost.net^$all
@@ -62262,6 +62272,7 @@
 ||twojasprawa.monster^$all
 ||twojbon.com^$all
 ||twojczas.homes^$all
+||twojduzydochod.site^$all
 ||twoje-115917-rachunki.info03.pl^$all
 ||twoje-127228-konto.infonf.co.pl^$all
 ||twoje-128024-wazna.infonf.co.pl^$all
@@ -68961,6 +68972,7 @@
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
 !
+!#safari_cb_affinity(security)
 ! Blogspot
 ||5gb-internetu-pakiety.blogspot.com^$all
 ||24moviess.blogspot.com^$all
@@ -69381,9 +69393,6 @@ xja.pl,xn.pl##+js(refresh-defuser, 5)
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
 !#if (adguard_app_ios || adguard_app_mac || adguard_app_android)
 !#include sections/specjalne_AG_apps.txt
-!#endif
-!#if (adguard_app_ios || adguard_ext_safari)
-!#include sections/specjalne_AG_regex.txt
 !#endif
 !#safari_cb_affinity
 !#if ext_ublock
