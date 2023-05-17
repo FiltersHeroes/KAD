@@ -37,6 +37,9 @@
 !
 ! Reguły specjalne
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
+!#if (adguard_app_ios || adguard_app_mac || adguard_app_android)
+!#include sections/specjalne_AG_apps.txt
+!#endif
 !#if (adguard_app_ios || adguard_ext_safari)
 !#include sections/specjalne_AG_regex.txt
 !#endif
