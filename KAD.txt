@@ -2,8 +2,8 @@
 !
 ! Title: KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 17 May 2023, 22:16 UTC+02:00
-! Version: 2023.5.17.3
+! Last modified: Wed, 17 May 2023, 23:13 UTC+02:00
+! Version: 2023.5.17.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -11635,6 +11635,7 @@
 ||autofura.com.pl^$all
 ||autofxtrade.net^$all
 ||autogielda-alkinscy.pl^$all
+||autohandel-lipowscy.pl^$all
 ||autohandel-pilowski.pl^$all
 ||autohandel-samochodowy.pl^$all
 ||autohandelkatowice.pl^$all
@@ -15045,6 +15046,7 @@
 ||c10523420b964c061cbdd1c0bc40f4ac.m-pl.co.pl^$all
 ||c363488862f37369d737d20ca90590bd.ats.co.pl^$all
 ||c4059917381df6e1b72e93278c252f44.twojedom.pl^$all
+||c5268986938c21c207f6f2434504024a.acalgo.co.pl^$all
 ||c7280163794b61ae086939a5114bf6e0.ll-pl.co.pl^$all
 ||c9866905306.chefs-kitchen.co.uk^$all
 ||c9371134565289d72c4ee5bf0c54511e.podlaw.co.pl^$all
@@ -15816,6 +15818,7 @@
 ||chaaat.online-one.site^$all
 ||chaatt.cas-program.site^$all
 ||chab.fostt.xyz^$all
+||chad.magmarbis.pl^$all
 ||chain-up.art^$all
 ||chain-up.fun^$all
 ||chainblog.quest^$all
@@ -16875,6 +16878,7 @@
 ||convictionpraise.com^$all
 ||convolvulusessustains.pl^$all
 ||cooeesrq.com^$all
+||cook.bpkgregor.pl^$all
 ||cookbookcatalog.com^$all
 ||cool1.site^$all
 ||cool-germain.82-223-196-123.plesk.page^$all
@@ -19246,6 +19250,7 @@
 ||dad.tcoprog.site^$all
 ||dadad.ketoredus.xyz^$all
 ||dadaminitiendabar.com^$all
+||dadc5eb1d1e0bb7d6f8a9cbfc901dc14.acalgo.co.pl^$all
 ||daddycooker.com^$all
 ||daddyknowsall.com^$all
 ||dadlgg.webwave.dev^$all
@@ -47948,6 +47953,7 @@
 ||olx.viajero.live^$all
 ||olx.viajero.net^$all
 ||olx.viho.fun^$all
+||olx.vinceracancer.com^$all
 ||olx.waleupl.org^$all
 ||olx.wedtm.online^$all
 ||olx.weryfi.org^$all
@@ -69365,6 +69371,9 @@ xja.pl,xn.pl##+js(refresh-defuser, 5)
 !
 ! Reguły specjalne
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
+!#if (adguard_app_ios || adguard_app_mac || adguard_app_android)
+!#include sections/specjalne_AG_apps.txt
+!#endif
 !#if (adguard_app_ios || adguard_ext_safari)
 !#include sections/specjalne_AG_regex.txt
 !#endif
