@@ -24,10 +24,12 @@
 !
 ! Szybko wygaszające
 @include szybko_wygaszajace
+!#safari_cb_affinity
 !
 ! Przekręty
 @include przekrety
 !
+!#safari_cb_affinity(security)
 ! Blogspot
 @include blogspot
 !
@@ -39,9 +41,6 @@
 kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
 !#if (adguard_app_ios || adguard_app_mac || adguard_app_android)
 !#include sections/specjalne_AG_apps.txt
-!#endif
-!#if (adguard_app_ios || adguard_ext_safari)
-!#include sections/specjalne_AG_regex.txt
 !#endif
 !#safari_cb_affinity
 !#if ext_ublock
