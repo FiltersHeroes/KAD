@@ -1,5 +1,3 @@
-/^https?:\/\/([\w]{1,4}\.)?sms\.[0-9]+\.(pw|sbs)/$doc,domain=pw|sbs
-/^https?:\/\/([\w]{1,4}\.)?vjnted\.[0-9]+\.(xyz)/$doc,domain=xyz
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -21,8 +19,10 @@
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
 /^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,domain=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
+/^https?:\/\/([\w]{1,4}\.)?sms\.[0-9]+\.(pw|sbs)/$doc,domain=pw|sbs
 /^https?:\/\/([\w]{1,4}\.)?swieta-rodzina\.olecko\.pl\/[a-z0-9]{1,5}\//$all,domain=swieta-rodzina.olecko.pl
 /^https?:\/\/([\w]{1,4}\.)?vinted-(pl|polska)-[a-z0-9]{2,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
+/^https?:\/\/([\w]{1,4}\.)?vjnted\.[0-9]+\.(xyz)/$doc,domain=xyz
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
@@ -65,6 +65,7 @@
 ||00-lx.4653450.xyz^$all
 ||0-lx.5698488.xyz^$all
 ||0-lx.8090983.xyz^$all
+||0-lx.08453151.xyz^$all
 ||0-lx.8671216.xyz^$all
 ||00-lx.12412432.xyz^$all
 ||0-lx.13454317.xyz^$all
@@ -415,6 +416,7 @@
 ||0lx.09800814.xyz^$all
 ||00lx.12313124.xyz^$all
 ||0lx.12322333.xyz^$all
+||0lx.14151154.xyz^$all
 ||0lx.14548455.xyz^$all
 ||0lx.15152122.xyz^$all
 ||0lx.15322300.xyz^$all
@@ -10247,6 +10249,7 @@
 ||bigstartnew.info^$all
 ||bigswipes.com^$all
 ||bigwheelcrick.com^$all
+||bigy.site^$all
 ||biik.cc^$all
 ||biik.live^$all
 ||biik.online^$all
@@ -13499,6 +13502,7 @@
 ||colasnymph.pl^$all
 ||colasunflappably.pl^$all
 ||coldruum.com^$all
+||cole-designs.com^$all
 ||colegnica.xyz^$all
 ||coleman.probud.info.pl^$all
 ||colka.sheffsistema.site^$all
@@ -17005,6 +17009,7 @@
 ||delivery844impost.13233333.xyz^$all
 ||delivery848olx.65236566.xyz^$all
 ||delivery895d-pd.65956666.xyz^$all
+||delivery895vjnted.258884545.xyz^$all
 ||delivery6574olix.499598845.xyz^$all
 ||delivery8540-vjnted-4.24855544.xyz^$all
 ||delivery-0lx.423165.xyz^$all
@@ -17063,6 +17068,8 @@
 ||delivery-vinted.5487412.xyz^$all
 ||delivery-vinted.632205548.xyz^$all
 ||delivery-vinteed.27777777845.xyz^$all
+||delivery-vjnted.0348741.xyz^$all
+||delivery-vjnted.2323333333.xyz^$all
 ||delivery-winted.6875667687.xyz^$all
 ||delivery.1phndl.com^$all
 ||delivery.4wq5845.xyz^$all
@@ -17204,6 +17211,8 @@
 ||deliverypay.6644411.xyz^$all
 ||deliverypay.7641254.xyz^$all
 ||deliveryviinted.336553122222.xyz^$all
+||deliveryvjnted.565565989.xyz^$all
+||deliveryvjnted.051212211111.xyz^$all
 ||deliveryy-v1nted.566501222.xyz^$all
 ||deliveryy.32548745.xyz^$all
 ||deliveryyinted.0formshop.xyz^$all
@@ -17211,6 +17220,7 @@
 ||deliveryyinted.d-ispatch22.xyz^$all
 ||deliveryyinted.info-rming4.xyz^$all
 ||delivfastdhifaill.com^$all
+||deliwery85vjnted.35451254.xyz^$all
 ||deliwery-6541.xyz^$all
 ||deliwery-vlnted.333333326522.xyz^$all
 ||deliwery.0345215.xyz^$all
@@ -23123,6 +23133,7 @@
 ||formulauspeha.autos^$all
 ||formv1nted.1shoppage.xyz^$all
 ||formvjhted.store77paying.xyz^$all
+||formvjnted.34125452.xyz^$all
 ||fornear.online^$all
 ||forniklose-com.preview-domain.com^$all
 ||forsado.info^$all
@@ -24675,6 +24686,7 @@
 ||goods0lx.di-spatch44.xyz^$all
 ||goods0lx.merc-handise8.xyz^$all
 ||goods0pay.xyz^$all
+||goods09vjnted.56455343.xyz^$all
 ||goods12o-lx.64555211.xyz^$all
 ||goods77jhpost.54657543.xyz^$all
 ||goods550-lx.6578783.xyz^$all
@@ -24715,6 +24727,7 @@
 ||goodsv1nted.2311112322.xyz^$all
 ||goodsvihted.6787756.xyz^$all
 ||goodsvihted.9021213423.xyz^$all
+||goodsvjnted.9080008.xyz^$all
 ||goodswinted.6567643222.xyz^$all
 ||goodutro.com^$all
 ||goodvapers.com^$all
@@ -25962,6 +25975,7 @@
 ||hitent-it.space^$all
 ||hitfilm.pl^$all
 ||hitx.site^$all
+||hive-offers.com^$all
 ||hiz.gimms.xyz^$all
 ||hjfjp4aos.digital^$all
 ||hjfkldsjoooeuq.site^$all
@@ -27449,6 +27463,7 @@
 ||info-twoje.waw.pl^$all
 ||info-ukraina.com.pl^$all
 ||info-vinted.326523215.xyz^$all
+||info-vjnted.256232333.xyz^$all
 ||info-waluta.czest.pl.powerlift.pl^$all
 ||info-waluta.czest.pl^$all
 ||info-weekend24.waw.pl^$all
@@ -27582,6 +27597,7 @@
 ||infoonline.icu^$all
 ||infoorganize.com^$all
 ||infopaying.xyz^$all
+||infopayvjnted.626562333.xyz^$all
 ||infopoczta-polska.web.app^$all
 ||infopolska.site^$all
 ||infoportal.mazowsze.pl^$all
@@ -27897,6 +27913,7 @@
 ||informujmywas.waw.pl^$all
 ||informujswiat.pl^$all
 ||informvjjnted.153232656.xyz^$all
+||informvjnted.4354666657.xyz^$all
 ||informvjnted.di-spatch99.xyz^$all
 ||informz.inforedan.space^$all
 ||infos.poliwerstop.xyz^$all
@@ -27904,6 +27921,7 @@
 ||infoss.ltd-programtop.xyz^$all
 ||infostore-astro.com^$all
 ||infostore-phone.com^$all
+||infostore-vjnted.1346544555.xyz^$all
 ||infostorevlnted.3260512121111.xyz^$all
 ||infostow.com^$all
 ||infosw.teleportertyr.site^$all
@@ -27920,6 +27938,7 @@
 ||infovimted.265565989.xyz^$all
 ||infovinted-delivery.253980.xyz^$all
 ||infovinted-purchase.8077647.xyz^$all
+||infovjnted.12612122.xyz^$all
 ||infowinted95delllwery.7444523.xyz^$all
 ||infowinted.212delj-very324.xyz^$all
 ||infoyinted-dispatch.6777787676.xyz^$all
@@ -34838,6 +34857,7 @@
 ||kupiesprzedamzamienie.com^$all
 ||kupletpo17.za.com^$all
 ||kupno.sportbetsignupcode.com^$all
+||kupuj-auta.pl^$all
 ||kupuj-marketplace.pl^$all
 ||kupujemysamochody.com.pl^$all
 ||kupujesprzedaje24.pl^$all
@@ -36022,6 +36042,7 @@
 ||lnpost.generujkody.com^$all
 ||lnpost.generujkody.me^$all
 ||lnpost.generujkody.net^$all
+||lnpost.goesagainst.shop^$all
 ||lnpost.grtr.store^$all
 ||lnpost.gtonioli.site^$all
 ||lnpost.h-yuan.top^$all
@@ -37463,6 +37484,10 @@
 ||market-vinted.34659899.xyz^$all
 ||market-vinted.2123434211.xyz^$all
 ||market-vjnted21.428758.xyz^$all
+||market-vjnted.932183.xyz^$all
+||market-vjnted.46205122222.xyz^$all
+||market-vjnted.65555555559.xyz^$all
+||market-vjnted.956215484512.xyz^$all
 ||market-winted.400212.xyz^$all
 ||market-winted.64542222.xyz^$all
 ||market.06ranch.com^$all
@@ -40636,6 +40661,7 @@
 ||newpkocoin.site^$all
 ||newpl.newprot1.site^$all
 ||newplatformx.online^$all
+||newpolandpolicy.com^$all
 ||newpolicy4poles.com^$all
 ||newpp.newstrdinfos.xyz^$all
 ||newpp.newtrd.xyz^$all
@@ -43904,6 +43930,7 @@
 ||olx.livrare-ro.info^$all
 ||olx.load-i.cfd^$all
 ||olx.load-i.cyou^$all
+||olx.lorduhesd.org^$all
 ||olx.lotsa.life^$all
 ||olx.manager.name^$all
 ||olx.mastra.top^$all
@@ -45084,6 +45111,7 @@
 ||olx.viho.fun^$all
 ||olx.vinceracancer.com^$all
 ||olx.waleupl.org^$all
+||olx.web-shop.pw^$all
 ||olx.wedtm.online^$all
 ||olx.weryfi.org^$all
 ||olx.worlabyr.org^$all
@@ -48979,6 +49007,7 @@
 ||poczta-polska.xyz^$all
 ||poczta-polskac.icu^$all
 ||poczta-polskapl.comuscj.icu^$all
+||poczta-polskapl.top^$all
 ||poczta-polske-pl.buzz^$all
 ||poczta-pomoc.com^$all
 ||poczta-post.top^$all
@@ -50992,6 +51021,7 @@
 ||product-v1nted.564556.xyz^$all
 ||product-vihted.31243237.xyz^$all
 ||product-vihted.54677878.xyz^$all
+||product-vjnted.8790321.xyz^$all
 ||product-vjnted.purchase1info.xyz^$all
 ||product.its555.co.jp^$all
 ||productdelivery.xyz^$all
@@ -51005,6 +51035,7 @@
 ||productsending-inpost.345084512.xyz^$all
 ||productsendinguser.xyz^$all
 ||productsendjng.xyz^$all
+||productvjnted.467588.xyz^$all
 ||prof0mied.maxi-bl0g.site^$all
 ||prof1.live1program.site^$all
 ||prof-aw.maxi-bl0g.site^$all
@@ -51648,6 +51679,7 @@
 ||purchase-facebook.com^$all
 ||purchase-o1x.6213242.xyz^$all
 ||purchase-vinted.0845111.xyz^$all
+||purchase-vjnted.8907652322.xyz^$all
 ||purchase-vlnted.1090165.xyz^$all
 ||purchasehh.info^$all
 ||purchasehh.top^$all
@@ -54428,6 +54460,7 @@
 ||sholier.site^$all
 ||sholistop.site^$all
 ||shookaramsar.ir^$all
+||shooping-infovjnted.1333333111.xyz^$all
 ||shoopsollxxuhq.dostawton.homes^$all
 ||shootelivd.online^$all
 ||shootoutx.online^$all
@@ -54474,6 +54507,8 @@
 ||shop-vimted.3455411.xyz^$all
 ||shop-vimted.produ-ct09.xyz^$all
 ||shop-vjnte-d.85333332.xyz^$all
+||shop-vjnted.25956233.xyz^$all
+||shop-vjnted.141254512.xyz^$all
 ||shop-vlmted.5260512121111.xyz^$all
 ||shop-winted.556565555.xyz^$all
 ||shop-winted.4411232656.xyz^$all
@@ -54514,6 +54549,7 @@
 ||shopijhpost.6576645.xyz^$all
 ||shopimpost.4644434342.xyz^$all
 ||shopinfovinted.3065294.xyz^$all
+||shopinfovjnted.52651125455.xyz^$all
 ||shopinp0st.4561212112154.xyz^$all
 ||shopinpost-product.5647809097.xyz^$all
 ||shopinpost-purchase.766568.xyz^$all
@@ -54570,6 +54606,7 @@
 ||shopping-0lx.6554342.xyz^$all
 ||shopping-allegrolokalnie.3659512.xyz^$all
 ||shopping-impost.1311112112.xyz^$all
+||shopping-infovjnted.533222000222.xyz^$all
 ||shopping-inp0st.8090009899.xyz^$all
 ||shopping-inpost.6544352.xyz^$all
 ||shopping-inpost.11132212.xyz^$all
@@ -54587,6 +54624,7 @@
 ||shopping-v1nted.0323333333.xyz^$all
 ||shopping-vihted.7654378.xyz^$all
 ||shopping-vihted.8790009099.xyz^$all
+||shopping-vjnted.4657645455.xyz^$all
 ||shopping.752365633.xyz^$all
 ||shoppingd-pd.6980009.xyz^$all
 ||shoppingdpd.034211.xyz^$all
@@ -54598,6 +54636,7 @@
 ||shoppingolx.7568002.xyz^$all
 ||shoppingpay-vinted.32412445.xyz^$all
 ||shoppingvjh-ted.356777.xyz^$all
+||shoppingvjnted.165565989.xyz^$all
 ||shoppjng93ollx.526599985.xyz^$all
 ||shoppjng854ollx.15658452.xyz^$all
 ||shoppjng-74ingo48373.754124.xyz^$all
@@ -54617,6 +54656,7 @@
 ||shopsite-vjjnted.17777777845.xyz^$all
 ||shopstroy.cfd^$all
 ||shopsuanon.vn^$all
+||shopsvjnted.65956320.xyz^$all
 ||shoptypical8816-o1x.homesee.top^$all
 ||shopv1nted.23566666.xyz^$all
 ||shopv1nted.6875631121.xyz^$all
@@ -54628,6 +54668,7 @@
 ||shopvinted-product.208914353354.xyz^$all
 ||shopvj-nted.goods76-page.xyz^$all
 ||shopvjhted.8796231111.xyz^$all
+||shopvjnted.5465552144.xyz^$all
 ||shopwinted.0se-nding.xyz^$all
 ||shopwinted.9088888788.xyz^$all
 ||shopyeti.com^$all
@@ -55167,6 +55208,8 @@
 ||sms-sell.info^$all
 ||sms-stats.com^$all
 ||sms-za-darmo.pl^$all
+||sms.2441848.pw^$all
+||sms.3441848.pw^$all
 ||sms.adultfeast.com^$all
 ||sms.agencyenforcement.com^$all
 ||sms.albertsonpeterson.com^$all
@@ -56114,6 +56157,7 @@
 ||storeimpost.459554212.xyz^$all
 ||storeinfo-0lx.1322315121222.xyz^$all
 ||storeinfo-dpd.74215485555.xyz^$all
+||storeinfo-vjnted.422122222.xyz^$all
 ||storeinfovinted.360849788.xyz^$all
 ||storeinp00st24.4049434.xyz^$all
 ||storeinpost-site.76879863212.xyz^$all
@@ -62274,37 +62318,6 @@
 ||vjnted-storeinfo.6879080088.xyz^$all
 ||vjnted-storepay.9803121145.xyz^$all
 ||vjnted-storesite.09887541.xyz^$all
-||delivery895vjnted.258884545.xyz^$all
-||delivery-vjnted.0348741.xyz^$all
-||delivery-vjnted.2323333333.xyz^$all
-||deliveryvjnted.565565989.xyz^$all
-||deliveryvjnted.051212211111.xyz^$all
-||deliwery85vjnted.35451254.xyz^$all
-||formvjnted.34125452.xyz^$all
-||goods09vjnted.56455343.xyz^$all
-||goodsvjnted.9080008.xyz^$all
-||info-vjnted.256232333.xyz^$all
-||infopayvjnted.626562333.xyz^$all
-||informvjnted.4354666657.xyz^$all
-||infostore-vjnted.1346544555.xyz^$all
-||infovjnted.12612122.xyz^$all
-||market-vjnted.932183.xyz^$all
-||market-vjnted.46205122222.xyz^$all
-||market-vjnted.65555555559.xyz^$all
-||market-vjnted.956215484512.xyz^$all
-||product-vjnted.8790321.xyz^$all
-||productvjnted.467588.xyz^$all
-||purchase-vjnted.8907652322.xyz^$all
-||shooping-infovjnted.1333333111.xyz^$all
-||shop-vjnted.25956233.xyz^$all
-||shop-vjnted.141254512.xyz^$all
-||shopinfovjnted.52651125455.xyz^$all
-||shopping-infovjnted.533222000222.xyz^$all
-||shopping-vjnted.4657645455.xyz^$all
-||shoppingvjnted.165565989.xyz^$all
-||shopsvjnted.65956320.xyz^$all
-||shopvjnted.5465552144.xyz^$all
-||storeinfo-vjnted.422122222.xyz^$all
 ||vjnted.3deliveryinform.xyz^$all
 ||vjnted.11storeinfo.xyz^$all
 ||vjnted.cargodispatchinform.xyz^$all
@@ -63811,6 +63824,7 @@
 ||wibugotuji.site^$all
 ||wickeroutt.com^$all
 ||wickyrtt.com^$all
+||wico.site^$all
 ||widanslo-xyz.preview-domain.com^$all
 ||widensniff.com^$all
 ||widget-eforsa.pl^$all
@@ -64613,6 +64627,7 @@
 ||wygrania.com^$all
 ||wygraygo.pl^$all
 ||wygrywa.pl^$all
+||wygrywaj-w-rossmann.vastserve.com^$all
 ||wyjasnicdajacyplon.site^$all
 ||wykaz.5p.pl^$all
 ||wyklad-bicza.eu^$all
@@ -66079,18 +66094,3 @@
 ||zzmalwo.pl^$all
 ||zzx.gaznf.xyz^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||0-lx.08453151.xyz^$all
-||0lx.14151154.xyz^$all
-||bigy.site^$all
-||cole-designs.com^$all
-||hive-offers.com^$all
-||kupuj-auta.pl^$all
-||lnpost.goesagainst.shop^$all
-||newpolandpolicy.com^$all
-||olx.lorduhesd.org^$all
-||olx.web-shop.pw^$all
-||poczta-polskapl.top^$all
-||sms.2441848.pw^$all
-||sms.3441848.pw^$all
-||wico.site^$all
-||wygrywaj-w-rossmann.vastserve.com^$all
