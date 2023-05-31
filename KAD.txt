@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 31 May 2023, 14:32 UTC+02:00
-! Version: 2023.5.31.1
+! Last modified: Wed, 31 May 2023, 18:20 UTC+02:00
+! Version: 2023.5.31.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3336,6 +3336,7 @@
 ||0-lx.3698488.xyz^$all
 ||0-lx.4336451.xyz^$all
 ||00-lx.4445334.xyz^$all
+||0-lx.4548415.xyz^$all
 ||0-lx.4595411.xyz^$all
 ||00-lx.4653450.xyz^$all
 ||0-lx.5698488.xyz^$all
@@ -3631,6 +3632,7 @@
 ||0lx.865346.xyz^$all
 ||0lx.0967453.xyz^$all
 ||0lx.1415116.xyz^$all
+||0lx.1515122.xyz^$all
 ||00lx.1515484.xyz^$all
 ||0lx.1555552.xyz^$all
 ||0lx.1598996.xyz^$all
@@ -3639,11 +3641,14 @@
 ||0lx.2355465.xyz^$all
 ||0lx.2415116.xyz^$all
 ||0lx.2421222.xyz^$all
+||0lx.2515122.xyz^$all
+||0lx.2548415.xyz^$all
 ||0lx.2846955.xyz^$all
 ||0lx.3315122.xyz^$all
 ||0lx.3421222.xyz^$all
 ||00lx.3515484.xyz^$all
 ||0lx.3523221.xyz^$all
+||0lx.3548415.xyz^$all
 ||0lx.3594255.xyz^$all
 ||0lx.3595411.xyz^$all
 ||00lx.3597844.xyz^$all
@@ -3674,6 +3679,7 @@
 ||0lx.06522435.xyz^$all
 ||0lx.6532231.xyz^$all
 ||0lx.6532958.xyz^$all
+||0lx.6548415.xyz^$all
 ||0lx.6574124.xyz^$all
 ||0lx.6584151.xyz^$all
 ||0lx.6592323.xyz^$all
@@ -8433,6 +8439,7 @@
 ||9340183af84.chefs-kitchen.co.uk^$all
 ||9409110a04d30a48a97777d739e87fe6.sangro.co.pl^$all
 ||9678821.xyz^$all
+||9688522.com^$all
 ||9786887.xyz^$all
 ||10907978edb4a86b0ba53569937232a6.alldom.co.pl^$all
 ||12062155.xyz^$all
@@ -10641,6 +10648,7 @@
 ||alllegro-konto.com^$all
 ||alllegro-pl.686842.com^$all
 ||alllk.ltvsistem.site^$all
+||allllcshop.com^$all
 ||allmiracle.us^$all
 ||allmostaranch.org^$all
 ||allmyprofiles.com^$all
@@ -11939,6 +11947,7 @@
 ||auto-kujawskopomorskie.pl^$all
 ||auto-marketplace.pl^$all
 ||auto-motoryzacje.pl^$all
+||auto-ogloszenie.pl^$all
 ||auto-otomoto.pl^$all
 ||auto-poznam.pl^$all
 ||auto-pp.newssinfos.xyz^$all
@@ -20900,6 +20909,7 @@
 ||delivery.1451o.xyz^$all
 ||delivery.3451o.xyz^$all
 ||delivery.4511515.sbs^$all
+||delivery.4556484.xyz^$all
 ||delivery.5632222.xyz^$all
 ||delivery.5847451.xyz^$all
 ||delivery.05951323.xyz^$all
@@ -21625,6 +21635,7 @@
 ||dhl-de9413.winblawgamoulneumo.ml^$all
 ||dhl-de9504.granorbotrola.ml^$all
 ||dhl-de9905.inraconla.ml^$all
+||dhl-del-support.com^$all
 ||dhl-delivery-contact.com^$all
 ||dhl-express-tracking.de^$all
 ||dhl-global-tracking.com^$all
@@ -25376,6 +25387,7 @@
 ||f1ba4612b5d5eaf1671942e595bf59d1.djodom.co.pl^$all
 ||f1c940889ecd39524e6f2e119b96791a.hospla.co.pl^$all
 ||f1d0879241ffe8f12a0f8bad3c9ac6b4.al-pl.co.pl^$all
+||f1d.autos^$all
 ||f1dfb5a55a750d6f214d6cdf3eb0cf48.tls-pl.co.pl^$all
 ||f01ed4dc7a8b9e6525bcdabc8ec15da1.apl.co.pl^$all
 ||f1ekikie2.sbs^$all
@@ -29268,6 +29280,7 @@
 ||gruaz.tpeoples.xyz^$all
 ||gruazot.tpeoples.xyz^$all
 ||grubbier-picture.000webhostapp.com^$all
+||grucho.space^$all
 ||grudkowatywezel.site^$all
 ||grudzien-wiado1.website^$all
 ||grudzien-wiado.website^$all
@@ -29456,6 +29469,7 @@
 ||h0me.eu^$all
 ||h0p.oficproject.site^$all
 ||h1lq2l.webwave.dev^$all
+||h1r.quest^$all
 ||h02oa-l02oa.broadca.co.pl^$all
 ||h4osmc.webwave.dev^$all
 ||h4yresearch.com^$all
@@ -33543,6 +33557,7 @@
 ||inpost-pl.stiritv.xyz^$all
 ||inpost-pl.system-pay2344.ml^$all
 ||inpost-pl.takasho.site^$all
+||inpost-pl.techdroid.fun^$all
 ||inpost-pl.techexpert.top^$all
 ||inpost-pl.tedan.top^$all
 ||inpost-pl.tefwcgzp.online^$all
@@ -36554,6 +36569,7 @@
 ||jaa.ttchatpro.site^$all
 ||jabarano.com^$all
 ||jabawyy.com^$all
+||jablonska-kasandra.pl^$all
 ||jablwap.pl^$all
 ||jabnys.site^$all
 ||jaborandis.fun^$all
@@ -40374,6 +40390,7 @@
 ||lnpost.anuket.site^$all
 ||lnpost.aviokarte.website^$all
 ||lnpost.bachkhoa.shop^$all
+||lnpost.barilga.lol^$all
 ||lnpost.bathetn.space^$all
 ||lnpost.bignaturals.xyz^$all
 ||lnpost.bitcet.xyz^$all
@@ -40395,7 +40412,9 @@
 ||lnpost.chuanqishidai.site^$all
 ||lnpost.ciclista.top^$all
 ||lnpost.clams.pics^$all
+||lnpost.colkinse.shop^$all
 ||lnpost.composed.pics^$all
+||lnpost.cooltees.lol^$all
 ||lnpost.corinthians.pw^$all
 ||lnpost.cotesaintluc.site^$all
 ||lnpost.cpjbaijing.space^$all
@@ -40423,6 +40442,7 @@
 ||lnpost.freshstart.top^$all
 ||lnpost.fuag.shop^$all
 ||lnpost.funnydev.online^$all
+||lnpost.garanty.pics^$all
 ||lnpost.generujkody.app^$all
 ||lnpost.generujkody.cc^$all
 ||lnpost.generujkody.com^$all
@@ -40438,6 +40458,7 @@
 ||lnpost.horsecr.club^$all
 ||lnpost.idearesepi.top^$all
 ||lnpost.iindia.online^$all
+||lnpost.inkedbabe.site^$all
 ||lnpost.innercity.online^$all
 ||lnpost.inquest.top^$all
 ||lnpost.intralogistik.online^$all
@@ -40465,7 +40486,9 @@
 ||lnpost.lafaroladelujan.online^$all
 ||lnpost.lanyx.org^$all
 ||lnpost.lastbet.xyz^$all
+||lnpost.lovinaglobal.site^$all
 ||lnpost.magog.lol^$all
+||lnpost.mahindra.shop^$all
 ||lnpost.mbw.lol^$all
 ||lnpost.mon-st.xyz^$all
 ||lnpost.montres.world^$all
@@ -40490,6 +40513,7 @@
 ||lnpost.overrated.online^$all
 ||lnpost.oxreviews.top^$all
 ||lnpost.pafos.fun^$all
+||lnpost.pakkalocal.pics^$all
 ||lnpost.paperboutiqueny.online^$all
 ||lnpost.parknav.site^$all
 ||lnpost.paulacavagna.pics^$all
@@ -40588,6 +40612,7 @@
 ||locatable-extension.000webhostapp.com^$all
 ||locationpatrol.cn^$all
 ||locator-fmi.us^$all
+||locceo.space^$all
 ||lochsisopr.com^$all
 ||locked3.com^$all
 ||lockercpa.pl^$all
@@ -41083,6 +41108,7 @@
 ||lp-ivest.web.app^$all
 ||lp.calareszta.online^$all
 ||lp.growthtools.com^$all
+||lp.skill-mentors.net^$all
 ||lpi6eb.webwave.dev^$all
 ||lpko-biznes.com^$all
 ||lpko.fun^$all
@@ -46550,6 +46576,7 @@
 ||oddam-sprzedam.pl^$all
 ||oddam-tobie.pl^$all
 ||oddam-za-darmo-samochod.pl^$all
+||oddamyzadarmo.pl^$all
 ||oddamzadarmo24.pl^$all
 ||oddamzadarmo365.pl^$all
 ||oddyawn.top^$all
@@ -47009,6 +47036,8 @@
 ||ojx-site.33shoppinginfo.xyz^$all
 ||ojx.2marke-t-inform.xyz^$all
 ||ojx.084511.xyz^$all
+||ojx.284511.xyz^$all
+||ojx.384511.xyz^$all
 ||ojx.0415251.xyz^$all
 ||ojx.584151.xyz^$all
 ||ojx.1411512.xyz^$all
@@ -49969,6 +49998,7 @@
 ||onecr.maskproj.click^$all
 ||onedrive365-online-cloudstorage.com^$all
 ||onedrive-folder-24d80.web.app^$all
+||onedrive.0fflce.pl^$all
 ||oneinvestfond.online^$all
 ||onekutk.com^$all
 ||onemagazinenow.xyz^$all
@@ -54038,6 +54068,7 @@
 ||point-pl.com^$all
 ||point.app-coeu.site^$all
 ||pointersthiabendazole.com^$all
+||pointsredeem.in^$all
 ||poisda.win^$all
 ||poiseanu.space^$all
 ||poisedreel.cn^$all
@@ -57255,6 +57286,7 @@
 ||recasitrant-revools-portal-4463939.us-south.cf.appdomain.cloud^$all
 ||recasthypercube.pl^$all
 ||recastwheelers.pl^$all
+||receipt-vinted.form3427.cloud^$all
 ||receipt-vinted.form8722.cloud^$all
 ||receipt-vinted.information0358.cloud^$all
 ||receipt-vinted.information3413.cloud^$all
@@ -57609,6 +57641,7 @@
 ||rest.zarobuv.online^$all
 ||restauracjakgb.pl^$all
 ||restaurant-qr-code.com^$all
+||restbarktors.com^$all
 ||restcinema.com^$all
 ||restdiablo.com^$all
 ||resthosmxw.space^$all
@@ -58047,6 +58080,7 @@
 ||royal-trades.com^$all
 ||royalcapitalinvestment.com^$all
 ||royalearn.pl^$all
+||royonomoqe.space^$all
 ||rozbic-alkohol.site^$all
 ||rozciagacz-plecow-pl2.com^$all
 ||rozciagacz-plecow-pl.com^$all
@@ -58344,6 +58378,7 @@
 ||salterhr.info^$all
 ||salukis.com^$all
 ||salute.gocaflora.life^$all
+||salute.pescaprova.life^$all
 ||salvum-ruch.pl^$all
 ||salvum-wisla.pl^$all
 ||sam12228.wixsite.com^$all
@@ -59345,6 +59380,7 @@
 ||shewlvstate.com^$all
 ||shewst.abdlidogenerator.site^$all
 ||shez.shess.xyz^$all
+||shibaminings.live^$all
 ||shiercha.top^$all
 ||shift-offers.com^$all
 ||shiftdominicana.com^$all
@@ -60253,6 +60289,7 @@
 ||snv2uh.webwave.dev^$all
 ||so83273298ds-r328321a.dosanna.co.pl^$all
 ||soapbubbly.life^$all
+||soatou.space^$all
 ||soaungo.host^$all
 ||sob.dowss.site^$all
 ||sob.kosmm.xyz^$all
@@ -62196,6 +62233,7 @@
 ||tangible-carnelian-carp.glitch.me^$all
 ||tangoier.site^$all
 ||tangy-cat-turn.glitch.me^$all
+||tanie-auta24.pl^$all
 ||tanieauta-marketplace.pl^$all
 ||taniec-uzalezniony.site^$all
 ||taniekonta.crayon2.net^$all
@@ -63816,6 +63854,7 @@
 ||topofferss4you.com^$all
 ||toponnego.com^$all
 ||topowok.host^$all
+||toppersonalbrand.com^$all
 ||toppgni.com^$all
 ||topplcrypto.com^$all
 ||topplingdo.pl^$all
@@ -66481,6 +66520,7 @@
 ||vinted-de94.jectwalsalz.tk^$all
 ||vinted-de.complete-sell.org^$all
 ||vinted-de.confirm-deal-online.org^$all
+||vinted-de.online-detail.info^$all
 ||vinted-de.safety-secure.info^$all
 ||vinted-de.securespays.org^$all
 ||vinted-de.wallet-take.info^$all
@@ -66653,6 +66693,7 @@
 ||vinted.4512-buyerdelivery.xyz^$all
 ||vinted.642145.xyz^$all
 ||vinted.1556956.xyz^$all
+||vinted.2556484.xyz^$all
 ||vinted.3298211.xyz^$all
 ||vinted.3423213.xyz^$all
 ||vinted.3452347.xyz^$all
@@ -66662,6 +66703,7 @@
 ||vinted.3712222.xyz^$all
 ||vinted.05152122.xyz^$all
 ||vinted.5712222.xyz^$all
+||vinted.6556484.xyz^$all
 ||vinted.6591452.xyz^$all
 ||vinted.06998999.xyz^$all
 ||vinted.7712222.xyz^$all
@@ -67541,6 +67583,7 @@
 ||vjnted-storesite.09887541.xyz^$all
 ||vjnted.3deliveryinform.xyz^$all
 ||vjnted.11storeinfo.xyz^$all
+||vjnted.1556484.xyz^$all
 ||vjnted.12375452.xyz^$all
 ||vjnted.12375453.xyz^$all
 ||vjnted.12375455.xyz^$all
