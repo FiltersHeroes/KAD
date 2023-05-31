@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 31 May 2023, 22:16 UTC+02:00
-! Version: 2023.5.31.3
+! Last modified: Wed, 31 May 2023, 22:28 UTC+02:00
+! Version: 2023.5.31.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3151,29 +3151,29 @@
 ! Szybko wygaszające
 ||4ur.click^$all
 ||15b37.skroc.pl^$all
-||37.1.209.213^$all
-||37.228.116.200^$all
-||40.114.216.185^$all
-||45.145.185.65^$all
+||37.1.209.213^$all,important
+||37.228.116.200^$all,important
+||40.114.216.185^$all,important
+||45.145.185.65^$all,important
 ||45.150.108.213^$doc,domain=~cobalt-strike-beacon-backdoor.*
-||51.77.145.209^$all
-||51.210.43.4^$all
+||51.77.145.209^$all,important
+||51.210.43.4^$all,important
 ||87.120.254.39^$doc,domain=~cobalt-strike-beacon-backdoor.*
 ||92.204.160.240^$doc,domain=~cobalt-strike-beacon-backdoor.*
-||102.130.124.5^$all
-||104.248.94.172^$all
+||102.130.124.5^$all,important
+||104.248.94.172^$all,important
 ||108.61.242.65^$doc,domain=~cobalt-strike-beacon-backdoor.*
-||142.93.134.136^$all
+||142.93.134.136^$all,important
 ||146.70.78.43^$doc,domain=~cobalt-strike-beacon-backdoor.*
-||157.230.23.122^$all
-||159.65.193.7^$all
-||167.99.34.247^$all
-||185.34.52.4^$all
-||185.244.218.77^$all
-||188.240.210.199^$all
-||193.47.69.43^$all
-||198.98.56.43^$all
-||198.98.60.136^$all
+||157.230.23.122^$all,important
+||159.65.193.7^$all,important
+||167.99.34.247^$all,important
+||185.34.52.4^$all,important
+||185.244.218.77^$all,important
+||188.240.210.199^$all,important
+||193.47.69.43^$all,important
+||198.98.56.43^$all,important
+||198.98.60.136^$all,important
 ||4332.ws^$all
 ||ab4hr.com^$all
 ||ac-feedback.com^$all
