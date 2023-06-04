@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 04 Jun 2023, 14:29 UTC+02:00
-! Version: 2023.6.4.2
+! Last modified: Sun, 04 Jun 2023, 16:04 UTC+02:00
+! Version: 2023.6.4.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -67,6 +67,7 @@
 ||adwokaci-24.pl^$all
 ||adworkmedia.com^$all
 ||aeaeii.com^$all
+||aeio.shop^$all
 ||affiliater.pl^$all
 ||africanmango900.pl^$all
 ||africanmango.pl^$all
@@ -205,6 +206,7 @@
 ||bajeranckie.pl^$all
 ||bakaron.com^$all
 ||bali-shop.pl^$all
+||baltn.com^$all
 ||banatik.com^$all
 ||banvar.com^$all
 ||bartekzukiewicz.pl^$all
@@ -696,11 +698,13 @@
 ||easygolift.pl^$all
 ||easytommy.com^$all
 ||ebook4all.com.pl^$all
+||ebudmarket.com^$all
 ||ebutiklatika.pl^$all
 ||ecco-polska.pl^$all
 ||eccobuty.co^$all
 ||eccobutyoutlet.fun^$all
 ||eccobutypolska.com^$all
+||eccooutlet.pl^$all
 ||eccooutletpolska.com^$all
 ||eccooutletpolska.pl^$all
 ||eccooutletsklepinternetowy.com^$all
@@ -1255,6 +1259,7 @@
 ||kofiup.pl^$all
 ||koiluck.com^$all
 ||koisaibuy.com^$all
+||kokoeeshop.com^$all
 ||kokoszulka.pl^$all
 ||kokotow.pl^$all
 ||kolorfun.pl^$all
@@ -1382,6 +1387,7 @@
 ||lsomolai.shop^$all
 ||lubuskauniapracy.pl^$all
 ||lucyfeed.com^$all
+||luimoo.com^$all
 ||lululemonpolskasklep.com^$all
 ||luna-jewels.pl^$all
 ||luxique.pl^$all
@@ -1531,6 +1537,7 @@
 ||modablask.com^$all
 ||modadlamnie.shop^$all
 ||modamart.pl^$all
+||modamotyl.com^$all
 ||modawanilia.com^$all
 ||modi4moda.com^$all
 ||moellynshop.com^$all
@@ -2253,6 +2260,7 @@
 ||sklepguesspolska.com^$all
 ||sklepkeenpolska.com^$all
 ||sklepkjl.com^$all
+||sklepkody24.pl^$all
 ||sklepkurtkapolska.com^$all
 ||skleplasportivapolska.com^$all
 ||sklepmartenspl.com^$all
@@ -2396,6 +2404,7 @@
 ||suprabuty.pl^$all
 ||suunfay.com^$all
 ||svaeastore.com^$all
+||swagshoponline.pl^$all
 ||swagster.pl^$all
 ||swatti-wear.com^$all
 ||sweet-her.pl^$all
@@ -2793,6 +2802,7 @@
 ||yanjunijuni.com^$all
 ||ydaburnaleury.com^$all
 ||yellownet.pl^$all
+||yesiibuy.com^$all
 ||yeyaeo.com^$all
 ||yifu02.shop^$all
 ||yill666.com^$all
@@ -3169,16 +3179,16 @@
 ||37.228.116.200^$all
 ||40.114.216.185^$all
 ||45.145.185.65^$all
-||45.150.108.213^$doc,domain=~cobalt-strike-beacon-backdoor.*
+||45.150.108.213^$all
 ||51.77.145.209^$all
 ||51.210.43.4^$all
-||87.120.254.39^$doc,domain=~cobalt-strike-beacon-backdoor.*
-||92.204.160.240^$doc,domain=~cobalt-strike-beacon-backdoor.*
+||87.120.254.39^$all
+||92.204.160.240^$all
 ||102.130.124.5^$all
 ||104.248.94.172^$all
-||108.61.242.65^$doc,domain=~cobalt-strike-beacon-backdoor.*
+||108.61.242.65^$all
 ||142.93.134.136^$all
-||146.70.78.43^$doc,domain=~cobalt-strike-beacon-backdoor.*
+||146.70.78.43^$all
 ||157.230.23.122^$all
 ||159.65.193.7^$all
 ||167.99.34.247^$all
@@ -6407,6 +6417,7 @@
 ||649c933d5f437416a788227bfb12c88f.alldom.co.pl^$all
 ||649f06cdd46ac8c19c3071e316b0a0dc.alldom.co.pl^$all
 ||651.allegro-lokalnie.icu^$all
+||652.84512212.pw^$all
 ||654b891c47f0113ad560679052cf5004.rezolvs.pl^$all
 ||655f1fb566c2fae0f22150203b114f73.alldom.co.pl^$all
 ||656c9aba92f0e0eb0ef25342b054810a.hospla.co.pl^$all
@@ -10881,6 +10892,7 @@
 ||alphasierra.com.bd^$all
 ||alpiegerva.tk^$all
 ||alpsmarkets.com^$all
+||alqoiezzcnzmmz.site^$all
 ||alregolokal.com^$all
 ||alregrolokalne.3321-dispatch.xyz^$all
 ||alrilti.tk^$all
@@ -21194,6 +21206,7 @@
 ||delivery.beliefandidea.com^$all
 ||delivery.belmarsportfishing.com^$all
 ||delivery.biceristorante.com^$all
+||delivery.biol113.com^$all
 ||delivery.blingsity.com^$all
 ||delivery.brainteaserboutique.com^$all
 ||delivery.capacityglacier.com^$all
@@ -26701,6 +26714,7 @@
 ||fgy.tslopleu.com^$all
 ||fgyhzeretryzet.alevsesli.net^$all
 ||fgyy.innplats.top^$all
+||fh2.boats^$all
 ||fhanbe.com^$all
 ||fhbbinprost.dotsdehakip.tk^$all
 ||fhfhd.pasvar.xyz^$all
@@ -29491,6 +29505,7 @@
 ||greatingrdpl.site^$all
 ||greatinvest.xyz^$all
 ||greatopportuniity.site^$all
+||greatperspectivee.site^$all
 ||greatstlim.sa.com^$all
 ||grecized.info^$all
 ||grecja-praca.com^$all
@@ -30434,6 +30449,7 @@
 ||hifanuto.site^$all
 ||hifrequencymedia.com^$all
 ||higder.weebly.com^$all
+||higghersell.com^$all
 ||high5me.online^$all
 ||high-invstment.shop^$all
 ||high-tech-project.top^$all
@@ -48790,6 +48806,7 @@
 ||olx.1333200.xyz^$all
 ||olx.1421222.xyz^$all
 ||olx.01451212.xyz^$all
+||olx.1451455.xyz^$all
 ||olx.1484888.xyz^$all
 ||olx.1510212.xyz^$all
 ||olx.01541215.xyz^$all
@@ -48863,6 +48880,7 @@
 ||olx.14154851.xyz^$all
 ||olx.14512221.xyz^$all
 ||olx.14512222.xyz^$all
+||olx.14975585.xyz^$all
 ||olx.14985277.xyz^$all
 ||olx.15322333.xyz^$all
 ||olx.15522212.xyz^$all
@@ -48899,6 +48917,7 @@
 ||olx.44151222.xyz^$all
 ||olx.44151512.xyz^$all
 ||olx.44152011.xyz^$all
+||olx.44975585.xyz^$all
 ||olx.44985277.xyz^$all
 ||olx.45034534.xyz^$all
 ||olx.45034535.xyz^$all
@@ -52469,6 +52488,7 @@
 ||perochek.space^$all
 ||perousiithy.site^$all
 ||perpetualaffirm.shop^$all
+||perrolusiters.site^$all
 ||perrq.loyalmp3.site^$all
 ||perry.transprt.info.pl^$all
 ||perrysprovisions.com^$all
@@ -53788,6 +53808,7 @@
 ||plikownik2015.wordpress.com^$all
 ||pliks.pl^$all
 ||plikson.pl^$all
+||plineaarn.com^$all
 ||plineup.space^$all
 ||plinv-pl.web.app^$all
 ||plinv.net^$all
@@ -56450,6 +56471,7 @@
 ||productsendinguser.xyz^$all
 ||productsendjng.xyz^$all
 ||productvjnted.467588.xyz^$all
+||proeleccroma35.site^$all
 ||proelecroma.site^$all
 ||prof0mied.maxi-bl0g.site^$all
 ||prof1.live1program.site^$all
@@ -56855,6 +56877,7 @@
 ||prostle.online^$all
 ||prostozmiasta.b-cdn.net^$all
 ||prostozpolski365.pl^$all
+||prostys.com^$all
 ||prosuccsess-syst.sbs^$all
 ||prosystem2022.site^$all
 ||prosystem2022.store^$all
@@ -57297,6 +57320,7 @@
 ||qqoeiiieoiiwoiuir.site^$all
 ||qqqqttt.weebly.com^$all
 ||qqqunt.alvargarsalv.site^$all
+||qqqwpweofcskkj.com^$all
 ||qqttfx.s3.us-east-005.backblazeb2.com^$all
 ||qqyuqmpx1.digital^$all
 ||qr.gaznf.xyz^$all
@@ -62804,6 +62828,7 @@
 ||takprisj.link^$all
 ||taksamo810.site^$all
 ||tal.gaznf.xyz^$all
+||talcoskull.site^$all
 ||talentedprotest.com^$all
 ||talentmanagerpro.site^$all
 ||talentmaster.bio^$all
@@ -64553,6 +64578,7 @@
 ||tourherobits.com^$all
 ||tourismoodle.emu.edu.tr^$all
 ||tourneyin.com^$all
+||tourrrestt.site^$all
 ||touthxds.xyz^$all
 ||tow3727a-ni727az.finoawtv.co.pl^$all
 ||towardchance.club^$all
@@ -71783,6 +71809,7 @@
 ||zeo.widomkoster.xyz^$all
 ||zeon.autos^$all
 ||zephyrspaceblog61.site^$all
+||zephyrspaceeblog10.site^$all
 ||zepsucspecjalny.site^$all
 ||zerion.online^$all
 ||zerkalist.site^$all
@@ -71951,6 +71978,7 @@
 ||zmiazdzonynienasycony.site^$all
 ||zmiazdzycswedzenie.site^$all
 ||zmilczarek.pl^$all
+||zmnnajkkqqkdm.site^$all
 ||zmopda.pl^$all
 ||zmwpoqii.pl^$all
 ||zn1qp7.webwave.dev^$all
