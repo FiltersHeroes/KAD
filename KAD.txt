@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 04 Jul 2023, 18:24 UTC+02:00
-! Version: 2023.7.4.2
+! Last modified: Tue, 04 Jul 2023, 22:19 UTC+02:00
+! Version: 2023.7.4.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3809,7 +3809,13 @@
 ||0lx.504851.xyz^$all
 ||0lx.0532958.xyz^$all
 ||0lx.566992.xyz^$all
+||0lx.574542.xyz^$all
+||0lx.574543.xyz^$all
+||0lx.574544.xyz^$all
+||0lx.574545.xyz^$all
+||0lx.574546.xyz^$all
 ||0lx.574547.xyz^$all
+||0lx.574548.xyz^$all
 ||0lx.604851.xyz^$all
 ||0lx.649098.xyz^$all
 ||0lx.766992.xyz^$all
@@ -3819,6 +3825,7 @@
 ||0lx.0845115.xyz^$all
 ||0lx.865346.xyz^$all
 ||0lx.0967453.xyz^$all
+||0lx.1041122.xyz^$all
 ||0lx.1151151.xyz^$all
 ||0lx.1253648.xyz^$all
 ||0lx.1256841.xyz^$all
@@ -3834,6 +3841,7 @@
 ||00lx.1515484.xyz^$all
 ||0lx.1555552.xyz^$all
 ||0lx.1598996.xyz^$all
+||0lx.2041122.xyz^$all
 ||0lx.2151222.xyz^$all
 ||0lx.2232301.xyz^$all
 ||0lx.2245452.xyz^$all
@@ -3866,6 +3874,7 @@
 ||0lx.3595411.xyz^$all
 ||00lx.3597844.xyz^$all
 ||0lx.3847451.xyz^$all
+||0lx.4041122.xyz^$all
 ||0lx.4151222.xyz^$all
 ||0lx.4364630.xyz^$all
 ||0lx.4364631.xyz^$all
@@ -3911,6 +3920,7 @@
 ||0lx.7564570.xyz^$all
 ||0lx.7670980.xyz^$all
 ||0lx.7786779.xyz^$all
+||0lx.8041122.xyz^$all
 ||0lx.8041551.xyz^$all
 ||0lx.8450151.xyz^$all
 ||0lx.08451155.xyz^$all
@@ -4437,6 +4447,7 @@
 ||1npost.31245-deljvery.xyz^$all
 ||1npost.522451.xyz^$all
 ||1npost.522452.xyz^$all
+||1npost.522453.xyz^$all
 ||1npost.522454.xyz^$all
 ||1npost.522455.xyz^$all
 ||1npost.522456.xyz^$all
@@ -5984,6 +5995,7 @@
 ||31a3ed61ae4f2797edb62c042e0c5c46.podlaw.co.pl^$all
 ||31a951fa8369613824b5fd8993eb7e63.dopla.com.pl^$all
 ||31af84d0c6a0e159af5b49245ba9f511.podlaw.co.pl^$all
+||31aws.com^$all
 ||31b419b0a880ac249e71e22076031a11.danychs.pl^$all
 ||31c5cbc282e661f45acda07832021458.sht.co.pl^$all
 ||31c5ff24944432411.temporary.link^$all
@@ -24488,6 +24500,7 @@
 ||dpd.08411511.xyz^$all
 ||dpd.9054417.xyz^$all
 ||dpd.10415122.xyz^$all
+||dpd.13241341.xyz^$all
 ||dpd.13241347.xyz^$all
 ||dpd.13243088.xyz^$all
 ||dpd.14122222.xyz^$all
@@ -35710,6 +35723,7 @@
 ||inpost-pl.kardjali.site^$all
 ||inpost-pl.keneth.xyz^$all
 ||inpost-pl.kirei-hada.top^$all
+||inpost-pl.konkur.website^$all
 ||inpost-pl.kotora.shop^$all
 ||inpost-pl.kurier-id897564.xyz^$all
 ||inpost-pl.lahealth.xyz^$all
@@ -39449,6 +39463,7 @@
 ||jnpost.32541.xyz^$all
 ||jnpost.315402.xyz^$all
 ||jnpost.645345.xyz^$all
+||jnpost.645347.xyz^$all
 ||jnpost.1115151.xyz^$all
 ||jnpost.1253640.xyz^$all
 ||jnpost.1253647.xyz^$all
@@ -39465,6 +39480,10 @@
 ||jnpost.4751212.xyz^$all
 ||jnpost.5421545.xyz^$all
 ||jnpost.5751212.xyz^$all
+||jnpost.6453450.xyz^$all
+||jnpost.6453451.xyz^$all
+||jnpost.6453452.xyz^$all
+||jnpost.6453459.xyz^$all
 ||jnpost.6485410.xyz^$all
 ||jnpost.6757661.xyz^$all
 ||jnpost.6757667.xyz^$all
@@ -44738,6 +44757,9 @@
 ||marketpage-o-lx.83223323.xyz^$all
 ||marketpay-inpost.6320512.xyz^$all
 ||marketpay-olx.03458004.xyz^$all
+||marketplace-gdansk.pl^$all
+||marketplace-szczecin.pl^$all
+||marketplace-warszawa.pl^$all
 ||marketplace-zakupy.pl^$all
 ||marketplacecoupons.com^$all
 ||marketprotrade.com^$all
@@ -49284,8 +49306,10 @@
 ||o1x.5481-paydelivery.xyz^$all
 ||o1x.8745-payproduct.xyz^$all
 ||o1x.0598122.xyz^$all
+||o1x.0894515.xyz^$all
 ||o1x.978452.xyz^$all
 ||o1x.1598122.xyz^$all
+||o1x.1894515.xyz^$all
 ||o1x.2045152.xyz^$all
 ||o1x.2145151.xyz^$all
 ||o1x.2412544.xyz^$all
@@ -49293,6 +49317,7 @@
 ||o1x.2455552.xyz^$all
 ||o1x.2594845.xyz^$all
 ||o1x.2841515.xyz^$all
+||o1x.2894515.xyz^$all
 ||o1x.3451515.xyz^$all
 ||o1x.3594845.xyz^$all
 ||o1x.3841515.xyz^$all
@@ -49303,6 +49328,7 @@
 ||o1x.4534398.xyz^$all
 ||o1x.4598122.xyz^$all
 ||o1x.4841515.xyz^$all
+||o1x.4894515.xyz^$all
 ||o1x.5412544.xyz^$all
 ||o1x.5455552.xyz^$all
 ||o1x.5666645.xyz^$all
@@ -49347,6 +49373,7 @@
 ||o1x.79007084.xyz^$all
 ||o1x.79007085.xyz^$all
 ||o1x.79007086.xyz^$all
+||o1x.79007087.xyz^$all
 ||o1x.79007088.xyz^$all
 ||o1x.79007089.xyz^$all
 ||o1x.95455155.xyz^$all
@@ -49437,6 +49464,9 @@
 ||o-lx-store.62322333.xyz^$all
 ||o-lx.41storepay3355.xyz^$all
 ||o-lx.35612-dispatchgoods.xyz^$all
+||o-lx.1232094.xyz^$all
+||o-lx.1232095.xyz^$all
+||o-lx.1232096.xyz^$all
 ||o-lx.1415251.xyz^$all
 ||o-lx.1451517.xyz^$all
 ||o-lx.02322333.xyz^$all
@@ -50246,6 +50276,9 @@
 ||ol-x.08569-infodeliery.xyz^$all
 ||ol-x.654576.xyz^$all
 ||ol-x.4212222.xyz^$all
+||ol-x.4356746.xyz^$all
+||ol-x.4356747.xyz^$all
+||ol-x.4356748.xyz^$all
 ||ol-x.7687023.xyz^$all
 ||ol-x.7687803.xyz^$all
 ||ol-x.7687883.xyz^$all
@@ -50259,6 +50292,7 @@
 ||ol-x.30223333.xyz^$all
 ||ol-x.32446550.xyz^$all
 ||ol-x.32446554.xyz^$all
+||ol-x.32446555.xyz^$all
 ||ol-x.32446556.xyz^$all
 ||ol-x.32446558.xyz^$all
 ||ol-x.32446559.xyz^$all
@@ -50483,6 +50517,8 @@
 ||ollx.6765590.xyz^$all
 ||ollx.6851215.xyz^$all
 ||ollx.7656711.xyz^$all
+||ollx.7656712.xyz^$all
+||ollx.7656713.xyz^$all
 ||ollx.7656714.xyz^$all
 ||ollx.7656715.xyz^$all
 ||ollx.7656716.xyz^$all
@@ -51563,6 +51599,7 @@
 ||olx.2695845.xyz^$all
 ||olx.2794845.xyz^$all
 ||olx.2854510.xyz^$all
+||olx.3041122.xyz^$all
 ||olx.3145151.xyz^$all
 ||olx.3151212.xyz^$all
 ||olx.3222230.xyz^$all
@@ -51597,6 +51634,7 @@
 ||olx.4565332.xyz^$all
 ||olx.4598996.xyz^$all
 ||olx.4794845.xyz^$all
+||olx.5041122.xyz^$all
 ||olx.5145151.xyz^$all
 ||olx.5232653.xyz^$all
 ||olx.05236563.xyz^$all
@@ -53455,6 +53493,7 @@
 ||online.dinero-quant.shop^$all
 ||online.fastprof.pics^$all
 ||online.find-appie.net^$all
+||online.forms.app^$all
 ||online.ico-eu.xyz^$all
 ||online.infobadaniepl.xyz^$all
 ||online.mazowsze.pl^$all
@@ -64352,6 +64391,7 @@
 ||sms-short.pw^$all
 ||sms-smart.pw^$all
 ||sms-stats.com^$all
+||sms-wing.pw^$all
 ||sms-za-darmo.pl^$all
 ||sms.1415112.pw^$all
 ||sms.1995848.pw^$all
@@ -70203,6 +70243,7 @@
 ||v1nted.166992.xyz^$all
 ||v1nted.748512.xyz^$all
 ||v1nted.4898783.xyz^$all
+||v1nted.4898784.xyz^$all
 ||v1nted.4898786.xyz^$all
 ||v1nted.4898788.xyz^$all
 ||v1nted.4898789.xyz^$all
@@ -71611,6 +71652,7 @@
 ||vintedl275-pold.shophouses.ink^$all
 ||vintedl285-pold.forumlife.cfd^$all
 ||vintedl315-polds.valuable.one^$all
+||vintedl317-pols.protract.sbs^$all
 ||vintedl349-pols.doughnut.sbs^$all
 ||vintedl377-pold.storehouse.cfd^$all
 ||vintedl408-pols.key-note.cfd^$all
@@ -75202,6 +75244,7 @@
 ||xn--potwierd-konto-ncd.yolasite.com^$all
 ||xn--radiozet-wiadomoci-mod.pl^$all
 ||xn--radosaw-marzec-knc.pl^$all
+||xn--trjmiejskie-tajemnice-mcc.pl^$all
 ||xn--uaktualni-3db.weebly.com^$all
 ||xn--wadyslaw-6ob.diament.info.pl^$all
 ||xn--wit-iwiski-20b.pl^$all
