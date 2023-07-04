@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 04 Jul 2023, 14:37 UTC+02:00
-! Version: 2023.7.4.1
+! Last modified: Tue, 04 Jul 2023, 18:24 UTC+02:00
+! Version: 2023.7.4.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4064,6 +4064,7 @@
 ||0lx.80986563.xyz^$all
 ||0lx.84151153.xyz^$all
 ||00lx.84151154.xyz^$all
+||0lx.84151554.xyz^$all
 ||0lx.84512222.xyz^$all
 ||00lx.84515122.xyz^$all
 ||0lx.84515151.xyz^$all
@@ -4436,8 +4437,10 @@
 ||1npost.31245-deljvery.xyz^$all
 ||1npost.522451.xyz^$all
 ||1npost.522452.xyz^$all
+||1npost.522454.xyz^$all
 ||1npost.522455.xyz^$all
 ||1npost.522456.xyz^$all
+||1npost.522457.xyz^$all
 ||1npost.0548751.xyz^$all
 ||1npost.656577.xyz^$all
 ||1npost.2471545.xyz^$all
@@ -6057,6 +6060,7 @@
 ||40e154b0fef9241dce0c20ad3cb0cf4c.hospla.co.pl^$all
 ||40mayo.com^$all
 ||41a91be4e1fd9bf77c7ac033dcf35e13.apl.co.pl^$all
+||41aws.com^$all
 ||41b9358e89d830bd37d737367f4468f6.rha.co.pl^$all
 ||41bb1b134aa8d7ab94ccb6f214b54fb2.apl.co.pl^$all
 ||41bfa91d6f86414b10356e41a59b541c.navalip.pl^$all
@@ -6070,6 +6074,7 @@
 ||42eb6ae273ac19f404351e7b7a235799.a-pl.co.pl^$all
 ||43.1045112.pw^$all
 ||43.545121552.pw^$all
+||43aws.com^$all
 ||43c0ce4dc3969fa6216934757285067b.tls-pl.co.pl^$all
 ||44.141522223.pw^$all
 ||44b41de2eb54608742bb6799fef3cf1c.krokla.co.pl^$all
@@ -11212,6 +11217,7 @@
 ||allegrolokalnie.6084152.xyz^$all
 ||allegrolokalnie.6151151.xyz^$all
 ||allegrolokalnie.6445534.xyz^$all
+||allegrolokalnie.6445535.xyz^$all
 ||allegrolokalnie.7532000.xyz^$all
 ||allegrolokalnie.8658541.xyz^$all
 ||allegrolokalnie.8658547.xyz^$all
@@ -11652,6 +11658,7 @@
 ||amalgamation.one^$all
 ||amanda.barbaru.pl^$all
 ||amando.online^$all
+||amaon14.com^$all
 ||amaon15.com^$all
 ||amaon81.com^$all
 ||amaon83.com^$all
@@ -11672,6 +11679,7 @@
 ||amazon-600.com^$all
 ||amazon-2222.com^$all
 ||amazon-11111.com^$all
+||amazon-33333.com^$all
 ||amazon-55555.com^$all
 ||amazon-77777.com^$all
 ||amazon-99999.com^$all
@@ -12602,6 +12610,7 @@
 ||astrocash.org^$all
 ||astrologerramanthakur.com^$all
 ||astrologysuccess.com^$all
+||astroshopxe.xyz^$all
 ||astrostorefe.xyz^$all
 ||astrostorevnc.xyz^$all
 ||astrostorexyzbd.cyou^$all
@@ -13431,6 +13440,7 @@
 ||b.ant1-ees.xyz^$all
 ||b.catheyhomes.com^$all
 ||b.geo-in.pw^$all
+||b.gpt-tradebot.pw^$all
 ||b.newappco.xyz^$all
 ||b.progh-mm.xyz^$all
 ||b.tes1-ssp.xyz^$all
@@ -14145,6 +14155,8 @@
 ||batk.olled.xyz^$all
 ||batlangdi.gq^$all
 ||batoons.info^$all
+||batora-sklep.pl^$all
+||batorasklep.pl^$all
 ||batosan.shop^$all
 ||bats.dazll.click^$all
 ||batterymath.com^$all
@@ -16190,6 +16202,7 @@
 ||brightitem.com^$all
 ||brightlearningcare.com^$all
 ||brightwaydq.xyz^$all
+||brightwaydw.xyz^$all
 ||brigicstavgepode.ga^$all
 ||briightfuture.site^$all
 ||brikee.com^$all
@@ -17937,6 +17950,7 @@
 ||chitaudush7.za.com^$all
 ||chitkow.space^$all
 ||chivariedu.com^$all
+||chiyuannet.com^$all
 ||chjvdmlkzxms.cv9.ru^$all
 ||chklennpl.site^$all
 ||chl0sa-lops.rajmoca.co.pl^$all
@@ -22467,6 +22481,7 @@
 ||delivery.privatebeauties.com^$all
 ||delivery.qumenahegle.com^$all
 ||delivery.qumiauituero.com^$all
+||delivery.quneledrit.com^$all
 ||delivery.religaro1uiop.com^$all
 ||delivery.rollandorder.com^$all
 ||delivery.scrapshopper.com^$all
@@ -24111,7 +24126,10 @@
 ||doski.by^$all
 ||doslaska.xyz^$all
 ||dospena-sklep.pl^$all
+||dostaaava0ll.shop^$all
 ||dostacpieniadzeszybkozollix.shop^$all
+||dostana-sklep.pl^$all
+||dostanasklep.pl^$all
 ||dostarczac948.rest^$all
 ||dostatnyosegodnya.xyz^$all
 ||dostavaddpd.shop^$all
@@ -28347,6 +28365,7 @@
 ||filtershopcyouzvs.xyz^$all
 ||filtershopxyztn.xyz^$all
 ||filterstorect.xyz^$all
+||filterstoresn.cyou^$all
 ||filthsdeferrals.com^$all
 ||filtruisa.pl^$all
 ||filz.bosd.online^$all
@@ -29464,6 +29483,7 @@
 ||futurecareerdirect.com^$all
 ||futurein-2023.click^$all
 ||futurepay.globway.eu^$all
+||futurestepdr.xyz^$all
 ||futuretoday.lol^$all
 ||futuretoday.pro^$all
 ||futurodoscriptonfts.online^$all
@@ -29857,6 +29877,7 @@
 ||gbk.innplats.top^$all
 ||gboham.com^$all
 ||gbtrade24.net^$all
+||gbwhatsappdownloads.com^$all
 ||gbyos.com^$all
 ||gc.coolplattf.top^$all
 ||gcblondonltd.com^$all
@@ -30511,6 +30532,8 @@
 ||glovesfluent.com^$all
 ||glovestrue.com^$all
 ||glowbrand.xyz^$all
+||glowroaddm.xyz^$all
+||glowroaddy.xyz^$all
 ||glowroadfe.xyz^$all
 ||glowuplift.xyz^$all
 ||glowzoom.xyz^$all
@@ -32572,6 +32595,7 @@
 ||hummusscience.com^$all
 ||humongo.pl^$all
 ||humorous-mire-snowstorm.glitch.me^$all
+||humos.site^$all
 ||humoseethea.site^$all
 ||humphrey.zwaszka.pl^$all
 ||humphreysonlineclass.com^$all
@@ -32604,6 +32628,7 @@
 ||hut.orogdq1.xyz^$all
 ||hutans.uno^$all
 ||huusgaay.com^$all
+||huvmpeent.site^$all
 ||huwobot.com^$all
 ||hv3a5l.webwave.dev^$all
 ||hvfhde.lareg.site^$all
@@ -32914,6 +32939,7 @@
 ||ieasevr.cn^$all
 ||iedqpgsph2j.digital^$all
 ||iej0k6.webwave.dev^$all
+||iejq.homes^$all
 ||iemqualifiers.com^$all
 ||iens-life.site^$all
 ||ierdafrica.org.ng^$all
@@ -33218,6 +33244,7 @@
 ||immediate-invest.work^$all
 ||immediate-recondite-cesium.glitch.me^$all
 ||immediatedge-inv.com^$all
+||immediatedge-invest.com^$all
 ||immediateedgeadv.com^$all
 ||immediateedgepro.com^$all
 ||immediateegde.store^$all
@@ -33509,8 +33536,11 @@
 ||in-post.3875151.xyz^$all
 ||in-post.4356740.xyz^$all
 ||in-post.4356741.xyz^$all
+||in-post.4356745.xyz^$all
 ||in-post.4356749.xyz^$all
 ||in-post.13241342.xyz^$all
+||in-post.13241344.xyz^$all
+||in-post.13241345.xyz^$all
 ||in-post.51126566.xyz^$all
 ||in-post.dostawa-order01942.top^$all
 ||in-post.dostawa-order72340.top^$all
@@ -34624,7 +34654,12 @@
 ||inp0st.854-inpost-deljvery.xyz^$all
 ||inp0st.145212.xyz^$all
 ||inp0st.232088.xyz^$all
+||inp0st.320323.xyz^$all
+||inp0st.320325.xyz^$all
+||inp0st.320326.xyz^$all
 ||inp0st.320327.xyz^$all
+||inp0st.320328.xyz^$all
+||inp0st.320329.xyz^$all
 ||inp0st.387029twojid.beauty^$all
 ||inp0st.482167plid.mom^$all
 ||inp0st.645212.xyz^$all
@@ -37694,6 +37729,7 @@
 ||inpost.store^$all
 ||inpost.suds.top^$all
 ||inpost.syuivm.org^$all
+||inpost.tazbunlad.org^$all
 ||inpost.tech^$all
 ||inpost.tedherfyg.org^$all
 ||inpost.tejokgy.org^$all
@@ -43164,6 +43200,7 @@
 ||lnpost.visualdl.online^$all
 ||lnpost.warpol.fun^$all
 ||lnpost.wasd4.website^$all
+||lnpost.webocean.fun^$all
 ||lnpost.wkc.pw^$all
 ||lnpost.wlim.site^$all
 ||lnpost.wregroup.store^$all
@@ -43676,6 +43713,7 @@
 ||lotsync.com^$all
 ||lotto-spielgemeinschaften.com^$all
 ||lotusflow.site^$all
+||lotzk.com^$all
 ||loudbars.com^$all
 ||loudemotion.fun^$all
 ||loudrumorexperiential.com^$all
@@ -46098,6 +46136,7 @@
 ||mlekopochimu-online.preview-domain.com^$all
 ||mlenny.pl^$all
 ||mlife.activeprog3.top^$all
+||mlixg.com^$all
 ||mlnibra.btspolsky.top^$all
 ||mlnny.maskproj.click^$all
 ||mlnrob.mlnone.top^$all
@@ -47713,8 +47752,10 @@
 ||naturamarkets.com^$all
 ||nature-shopin.xyz^$all
 ||natureasremedy.com^$all
+||naturecyoudj.cyou^$all
 ||naturecyoust.xyz^$all
 ||naturecyouwx.cyou^$all
+||naturexyzstorevt.xyz^$all
 ||natwojeszczescie.site^$all
 ||natyh.takilon.top^$all
 ||natymswiecie.eu^$all
@@ -47984,6 +48025,7 @@
 ||netfxshows4-streaming2.checkrecords.co.pl^$all
 ||netggfixxxxx.com.pl^$all
 ||nethermore.info^$all
+||netioscorexyzshopff.xyz^$all
 ||netioscorexyzy.xyz^$all
 ||netishows4-streaming2.deeptv.co.pl^$all
 ||netlfix-update-online.builderallwppro.com^$all
@@ -48918,6 +48960,8 @@
 ||noweifnopl.click^$all
 ||noweinformacje.me^$all
 ||nowemozliiwosci.com^$all
+||nowena-sklep.pl^$all
+||nowenasklep.pl^$all
 ||nowenowinki.click^$all
 ||noweplikirobocze.weebly.com^$all
 ||nowewyzwaniie.site^$all
@@ -49301,6 +49345,8 @@
 ||o1x.74548485.xyz^$all
 ||o1x.79007083.xyz^$all
 ||o1x.79007084.xyz^$all
+||o1x.79007085.xyz^$all
+||o1x.79007086.xyz^$all
 ||o1x.79007088.xyz^$all
 ||o1x.79007089.xyz^$all
 ||o1x.95455155.xyz^$all
@@ -49426,6 +49472,7 @@
 ||o-lx.64454638.xyz^$all
 ||o-lx.66566323.xyz^$all
 ||o-lx.74455542.xyz^$all
+||o-lx.74809984.xyz^$all
 ||o-lx.74809989.xyz^$all
 ||o-lx.76566323.xyz^$all
 ||o-lx.153221545.xyz^$all
@@ -50149,6 +50196,7 @@
 ||okazja-auto.pl^$all
 ||okazja-dla-wszystkich.site^$all
 ||okazje-auta.pl^$all
+||okazje-meble.pl^$all
 ||okazje-ogloszenia.pl^$all
 ||okazje-ogrodkowe.pl^$all
 ||okazje-ogrodowe.pl^$all
@@ -50209,6 +50257,8 @@
 ||ol-x.24105151.xyz^$all
 ||ol-x.30125455.xyz^$all
 ||ol-x.30223333.xyz^$all
+||ol-x.32446550.xyz^$all
+||ol-x.32446554.xyz^$all
 ||ol-x.32446556.xyz^$all
 ||ol-x.32446558.xyz^$all
 ||ol-x.32446559.xyz^$all
@@ -50249,6 +50299,7 @@
 ||olafeer-uno.preview-domain.com^$all
 ||olakar.xyz^$all
 ||olakdjnshyque.site^$all
+||olanamphibian.xyz^$all
 ||olapaganc.com^$all
 ||olasp.apprety.site^$all
 ||olatokonow.net^$all
@@ -50431,7 +50482,11 @@
 ||ollx.6765543.xyz^$all
 ||ollx.6765590.xyz^$all
 ||ollx.6851215.xyz^$all
+||ollx.7656711.xyz^$all
 ||ollx.7656714.xyz^$all
+||ollx.7656715.xyz^$all
+||ollx.7656716.xyz^$all
+||ollx.7656717.xyz^$all
 ||ollx.7656744.xyz^$all
 ||ollx.7656746.xyz^$all
 ||ollx.7851215.xyz^$all
@@ -54278,8 +54333,10 @@
 ||otd.mystrblg.online^$all
 ||otenaj.com^$all
 ||oteralbomarter.xyz^$all
+||oteralbomartfilterd.xyz^$all
 ||oteralbomartvy.cyou^$all
 ||oteralbomartzn.xyz^$all
+||oteralbotruesightcu.xyz^$all
 ||oteralbotruesightvt.xyz^$all
 ||otf.dfrtraderxsys.com^$all
 ||othaolive.site^$all
@@ -56709,6 +56766,7 @@
 ||plbin.website^$all
 ||plblog1.tineda.xyz^$all
 ||plblog.investnev1.xyz^$all
+||plbotai.site^$all
 ||plbtckod.info^$all
 ||plc1.canpeoplefx.site^$all
 ||plcalyfilm.over-blog.com^$all
@@ -62097,6 +62155,7 @@
 ||rudeinversion.top^$all
 ||ruelydinglas.site^$all
 ||ruenknsolajdkakei.com^$all
+||ruethinbielvinbr.xyz^$all
 ||ruethinstorerf.xyz^$all
 ||rugola.life^$all
 ||rugz.gzpr-neft.xyz^$all
@@ -63440,6 +63499,7 @@
 ||shippinginfo.xyz^$all
 ||shippinginfoproduct.xyz^$all
 ||shiseent1.site^$all
+||shisve.site^$all
 ||shitakesc.com^$all
 ||shivasguard.site^$all
 ||shiveenp-selfhosted.com^$all
@@ -64220,6 +64280,7 @@
 ||smartcloud.ps^$all
 ||smartconnect.duckdns.org^$all
 ||smartfxcapitals.com^$all
+||smartify.infura-ipfs.io^$all
 ||smartins.xyz^$all
 ||smartinv.store^$all
 ||smartkurier.cloud^$all
@@ -64613,6 +64674,7 @@
 ||specjalnynacisnij.site^$all
 ||specs38727a0-the827a.podntfvxaw.co.pl^$all
 ||specscyourf.xyz^$all
+||specscyoushopce.xyz^$all
 ||specsdekho.com^$all
 ||specsnaturebt.xyz^$all
 ||spectacled-pool-melon.glitch.me^$all
@@ -66708,6 +66770,8 @@
 ||tekst-zobaczmy.eu^$all
 ||teksty-dzisiaj.eu^$all
 ||tela-discord-2.discordhypesqua.repl.co^$all
+||telana-sklep.pl^$all
+||telanasklep.pl^$all
 ||tele-lom.com^$all
 ||tele-monitoring.eu^$all
 ||tele-telewizja.cfd^$all
@@ -67621,6 +67685,7 @@
 ||tn1ul4.webwave.dev^$all
 ||tnabil.sa.com^$all
 ||tnamskol-xyz.preview-domain.com^$all
+||tncw.homes^$all
 ||tnjj14.webwave.dev^$all
 ||tnsnano.com^$all
 ||tntroyal.com^$all
@@ -68724,6 +68789,7 @@
 ||trochosphaeras.com^$all
 ||troely.xyz^$all
 ||trojanoxzf.space^$all
+||trojmiasto-naczasie.pl^$all
 ||trokloninvest.pro^$all
 ||trolek.com.pl^$all
 ||trollflower.xyz^$all
@@ -68767,6 +68833,7 @@
 ||truemepersonality.com^$all
 ||trueser22.xyz^$all
 ||trueshorka.info^$all
+||truesight-filterwx.xyz^$all
 ||truesightnetioscoreva.xyz^$all
 ||truestorybtc.com^$all
 ||trufarretes.com^$all
@@ -69863,6 +69930,7 @@
 ||uprzejmosc-live.eu^$all
 ||ups-delivery-support.com^$all
 ||ups-expresspackages.com^$all
+||ups-order-tracking.com^$all
 ||ups-parcels.com^$all
 ||ups-pl.com^$all
 ||ups-postage.com^$all
@@ -70134,7 +70202,10 @@
 ||v1nted.3454shop-store.xyz^$all
 ||v1nted.166992.xyz^$all
 ||v1nted.748512.xyz^$all
+||v1nted.4898783.xyz^$all
 ||v1nted.4898786.xyz^$all
+||v1nted.4898788.xyz^$all
+||v1nted.4898789.xyz^$all
 ||v1nted.25424562.xyz^$all
 ||v1nted.43535334.xyz^$all
 ||v1nted.76125455.xyz^$all
