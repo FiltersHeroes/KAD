@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 06 Jul 2023, 14:38 UTC+02:00
-! Version: 2023.7.6.1
+! Last modified: Thu, 06 Jul 2023, 18:25 UTC+02:00
+! Version: 2023.7.6.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3499,6 +3499,7 @@
 ||0-lx.12store3444.xyz^$all
 ||0-lx.1548415.xyz^$all
 ||0-lx.1595411.xyz^$all
+||0-lx.1894987.xyz^$all
 ||0-lx.2698488.xyz^$all
 ||0-lx.3698488.xyz^$all
 ||0-lx.4336451.xyz^$all
@@ -3599,6 +3600,7 @@
 ||0dab7323.bakerstreetfinance.tv^$all
 ||0db8a9e2b1327c1c8a143382f791f686.krokla.co.pl^$all
 ||0db56db989fad5b71162473dc2350251.hospla.co.pl^$all
+||0db4016cfa521f6d.biuroall.pl^$all
 ||0dbb4f38ad4d99afd833e2ddee792e1e.sht.co.pl^$all
 ||0dbe3b36059.chefs-kitchen.co.uk^$all
 ||0dc265cb3d168d3337c164a454b9482c.hospla.co.pl^$all
@@ -4642,6 +4644,7 @@
 ||2cs-source.com^$all
 ||2cv.homes^$all
 ||2d0cbc2a6c22b0d95418944ba8504410.actgro.pl^$all
+||02d1b0de0ea7.biuroall.pl^$all
 ||2d02d492b0b931a03e5933d532a339e5.ll-pl.co.pl^$all
 ||02d6e483c51f17fbe20b4721055cb103.pracadom.pl^$all
 ||2d54a8628d681dd12cf8e39a1db84c3a.boawgr.pl^$all
@@ -5142,6 +5145,7 @@
 ||5ee4389cc03.johncornell.com^$all
 ||5ef862d4f3d8311f03a4fa387fc23451.dopla.com.pl^$all
 ||5efcd99ec2593ab51476d86048c25c63.alldom.co.pl^$all
+||5eplay.bisai-gojing.com^$all
 ||5f0d8b95b27a302a491ba29b91620ec2.alldom.co.pl^$all
 ||05f2d4e280330ae545314f62910e7084.hospla.co.pl^$all
 ||5f5b244634180569299e8d6c1601b1c5.serswise.pl^$all
@@ -5318,6 +5322,7 @@
 ||7b0c240c0daf81e7dac7f35e641bbada.ztaho.pl^$all
 ||7b1dc5e67fa0d2aaf4e24793307f3d5a.ssl-pl.co.pl^$all
 ||7b3a0f215bf5d7badfdd8c8f73ab5d5c.podlaw.co.pl^$all
+||7b3fa353e9cedd0.biuroall.pl^$all
 ||7b19a49c9cd63c83f395ef181090d15b.apl.co.pl^$all
 ||7b63bce264f5bc88cad0.goonline-bnpparibas-pl.click^$all
 ||7b63bce264f5bc88cad0.goonline-bnpparibas-pl.xyz^$all
@@ -5526,6 +5531,7 @@
 ||8e2e5f4c008b4a148c23e4f73c57341c.alldom.co.pl^$all
 ||8e04a2a0065ca72507bbbde147d10a7c.rezolvs.pl^$all
 ||8e6c4c3dd0c66f6e1d60a2d054771aa0.alldom.co.pl^$all
+||8e9f9d615e9eec43587.biuroall.pl^$all
 ||8e9f12ee1d88cf7bffa2af46ec7864f0.hospla.co.pl^$all
 ||8e26e7f098413bb7fef8255f3661a448.krokla.co.pl^$all
 ||8e52f12cbc9eaacde2fe401e28b1cf64.alldom.co.pl^$all
@@ -6185,6 +6191,7 @@
 ||53d22830fcf9cea657bb49b04537db95.jmachaj.pl^$all
 ||54-89freight3dispatch741.34531245.xyz^$all
 ||54.2566663.pw^$all
+||54a4b3574ed6bb508.all-biuro.pl^$all
 ||054a0425c38034eeb75ab43c962040b9.hospla.co.pl^$all
 ||54aaf628112d5f6ed71364de4aeb2c25.serswise.pl^$all
 ||54b95b78a2901a8bb1a8de6703b3fb32.ll-pl.co.pl^$all
@@ -7057,6 +7064,7 @@
 ||879c23386ac8e176ad58d577eb556a41.rha.co.pl^$all
 ||881c7686e0089b281337f32b8fcbf7c3.acadiu.pl^$all
 ||883c5972860204c0d4b1aba43e2c37ac.ll-pl.co.pl^$all
+||887df2d6bf12.smsuslug.pl^$all
 ||888jhpost.708786.xyz^$all
 ||889ae8e48a861ceb142ff13261e1cb4f.hospla.co.pl^$all
 ||890.345893.pw^$all
@@ -9171,6 +9179,7 @@
 ||8371982c7004344521bed5dbb74a857f.rezolvs.pl^$all
 ||8374792.000webhostapp.com^$all
 ||8532333.xyz^$all
+||8541043afe146.biuroall.pl^$all
 ||8567121.xyz^$all
 ||8603225f84e4b2ac064cc9de5415ed49.hospla.co.pl^$all
 ||8625279abdf0ca2f8625279abdf0ca2f.azureedge.net^$all
@@ -16263,6 +16272,7 @@
 ||brightlearningcare.com^$all
 ||brightwaydq.xyz^$all
 ||brightwaydw.xyz^$all
+||brightwayew.xyz^$all
 ||brightwayfi.xyz^$all
 ||brigicstavgepode.ga^$all
 ||briightfuture.site^$all
@@ -16491,6 +16501,7 @@
 ||burdenless.life^$all
 ||bure.utulo.site^$all
 ||burke.openhaft.nieruchomosci.pl^$all
+||burmaldawast.shop^$all
 ||burnett.radsport.pl^$all
 ||burns.huborform.com.pl^$all
 ||burol.utulo.site^$all
@@ -18934,6 +18945,7 @@
 ||cool1.site^$all
 ||cool-germain.82-223-196-123.plesk.page^$all
 ||cool.viewourbestoffers.com^$all
+||coolak.redandprog.site^$all
 ||cooldotworld.com^$all
 ||coolzone23.cyou^$all
 ||cooperative.gb.net^$all
@@ -21698,6 +21710,7 @@
 ||damtola-sklep.pl^$all
 ||dan-bitly.click^$all
 ||danaburkart.com^$all
+||danahughesk.top^$all
 ||danakog-com.preview-domain.com^$all
 ||danapm336umsu.cloudfront.net^$all
 ||dance-studio-today.tk^$all
@@ -22670,6 +22683,7 @@
 ||dellver625-oiix.conductance.sbs^$all
 ||dellver665-ollx.storeinfo.ink^$all
 ||dellver669-ollx.amalgamation.one^$all
+||dellver679-oiix.anteater.sbs^$all
 ||dellver683-oiix.henotheism.cfd^$all
 ||dellver692-oiix.shelled.cfd^$all
 ||dellver716-oiix.prognosis.cfd^$all
@@ -26742,12 +26756,14 @@
 ||esucvanli.ga^$all
 ||esufozo.site^$all
 ||eswiatzabawek.com^$all
+||et53.pics^$all
 ||et-keitaro.space^$all
 ||et.progrpro.top^$all
 ||et.uni-stock.store^$all
 ||etagerescrapper.com^$all
 ||etalon-ecm.com^$all
 ||etatwdomu.pl^$all
+||etc.introspecies.xyz^$all
 ||etecsadroid.com^$all
 ||etendx.com^$all
 ||eternalvitalityy.site^$all
@@ -27351,6 +27367,7 @@
 ||f2532bfd792.johncornell.com^$all
 ||f2713b22be5906ee5624b511fefaaf80.ll-pl.co.pl^$all
 ||f3376fe18c300b7fc7c12c2626b3becd.kklmn.co.pl^$all
+||f3774afa2e94c14d22.biuroall.pl^$all
 ||f3889cf3c58b22a13c4c705d1e404052.finangro.co.pl^$all
 ||f4051e5089cd1715052819b7b9f77114.wopma.co.pl^$all
 ||f4102eab9e86df965613d0d410c119cf.hospla.co.pl^$all
@@ -28308,6 +28325,7 @@
 ||fidz.kowt.site^$all
 ||fieldfajnx.space^$all
 ||fielldinfo.com^$all
+||fiencoxyzbj.cyou^$all
 ||fiencoxyzdr.xyz^$all
 ||fiessied.site^$all
 ||fiestamanager.online^$all
@@ -29578,6 +29596,7 @@
 ||futurein-2023.click^$all
 ||futurepay.globway.eu^$all
 ||futurestepdr.xyz^$all
+||futurestepfj.xyz^$all
 ||futuretoday.lol^$all
 ||futuretoday.pro^$all
 ||futurodoscriptonfts.online^$all
@@ -30632,6 +30651,8 @@
 ||glowbrand.xyz^$all
 ||glowroaddm.xyz^$all
 ||glowroaddy.xyz^$all
+||glowroadee.xyz^$all
+||glowroadek.xyz^$all
 ||glowroadfe.xyz^$all
 ||glowuplift.xyz^$all
 ||glowzoom.xyz^$all
@@ -32061,6 +32082,7 @@
 ||heignarpeck.site^$all
 ||heiku.org^$all
 ||heinousl.pl^$all
+||heithova.cyou^$all
 ||heixiutv.space^$all
 ||hejhejgabahej.maslanka.net.pl^$all
 ||hejirasexc.com^$all
@@ -32404,6 +32426,7 @@
 ||holbertmb.com^$all
 ||holdcroftplinc.com^$all
 ||holdittight.pl^$all
+||holepren.com^$all
 ||holiogords.site^$all
 ||holisterford.com^$all
 ||holks.org^$all
@@ -33247,9 +33270,11 @@
 ||iko-pkobps.com^$all
 ||iko-pl.com^$all
 ||iko-pl.online^$all
+||iko-pl.pw^$all
 ||iko-secure.com^$all
 ||iko-zl.xyz^$all
 ||iko.justns.ru^$all
+||iko.pk0-pl.online^$all
 ||iko.pkoqp.pl^$all
 ||ikobbdwxx30.digital^$all
 ||ikoerder.com^$all
@@ -38709,6 +38734,7 @@
 ||ipn0st-shopping.412333122.xyz^$all
 ||ipoiknmaig.site^$all
 ||ipolinka.shop^$all
+||ipoloporer.de^$all
 ||iporwaniedziecka24.$all
 ||ipost-polska-kid.order943.info^$all
 ||ipost.168423plid.xyz^$all
@@ -39771,6 +39797,7 @@
 ||jons.morganprog.xyz^$all
 ||joo.infbal.site^$all
 ||joocasino31.com^$all
+||jop.alicapilori.site^$all
 ||jopii.neuro-unlim.xyz^$all
 ||joprof-pl.quest^$all
 ||joprof-pl.shop^$all
@@ -42230,6 +42257,7 @@
 ||lavenion0-investing.pro^$all
 ||laventanadevangogh.com^$all
 ||lavereqfuk.com^$all
+||lavn.homes^$all
 ||lavoroonline.info^$all
 ||lavozunida.com^$all
 ||lavsirgo.com^$all
@@ -45165,6 +45193,7 @@
 ||max-pl.polprogramm1.xyz^$all
 ||max-plblog.maxi-bl0g.site^$all
 ||max-plblog.prog-max1pro0g.site^$all
+||max-pro.maxiimus.top^$all
 ||max-x3.progxbrd.site^$all
 ||max.activ-chz.xyz^$all
 ||max.bolss.xyz^$all
@@ -45305,6 +45334,7 @@
 ||mc1.site^$all
 ||mc-blog1.maxipl-system.xyz^$all
 ||mc-blog.maxipl-system.xyz^$all
+||mc.makedol.top^$all
 ||mc.mc-unlim.xyz^$all
 ||mc.program-pl1.site^$all
 ||mca-ci-atp.org^$all
@@ -48353,6 +48383,8 @@
 ||neworgdp.com^$all
 ||newp.activeprog1.top^$all
 ||newp.loyalmp3.site^$all
+||newpappal2.interfoxprog.click^$all
+||newpappal3.interfoxprog.click^$all
 ||newpay.ico-eu.xyz^$all
 ||newpkocoin.site^$all
 ||newpl.newprot1.site^$all
@@ -54727,6 +54759,7 @@
 ||oyundahaberi.xyz^$all
 ||ozelmadencilik.com^$all
 ||ozhenl-host.preview-domain.com^$all
+||ozig.hsedfj.pl^$all
 ||ozivup.com^$all
 ||ozmtw.hghesd.pl^$all
 ||ozukay.com^$all
@@ -55065,6 +55098,7 @@
 ||pareo-offers.com^$all
 ||paribas-login.co^$all
 ||paribas-logowanie.at^$all
+||paribas-pl.com^$all
 ||paribas.xyz^$all
 ||paribasonline.com^$all
 ||paribaspl.com^$all
@@ -56236,6 +56270,7 @@
 ||piwearskegpulpsurhuu.tk^$all
 ||pix.can-info.site^$all
 ||pix.tineda.xyz^$all
+||pixa-tv.com^$all
 ||pixar-coxard.com^$all
 ||pixelbolt.online^$all
 ||pj-prow.web.app^$all
@@ -60663,6 +60698,7 @@
 ||pxhub240d.digital^$all
 ||pxnq-msg.com^$all
 ||pxwidd.webwave.dev^$all
+||pyat.maxiimus.top^$all
 ||pycnogoni.com^$all
 ||pydipaa.com^$all
 ||pygotoy.com^$all
@@ -60818,6 +60854,7 @@
 ||qqttfx.s3.us-east-005.backblazeb2.com^$all
 ||qqwoakdjnccncbc.site^$all
 ||qqwoeieiedjddjdjds.site^$all
+||qqwrrskjfjnnnccjcjiiu.site^$all
 ||qqyuqmpx1.digital^$all
 ||qr.gaznf.xyz^$all
 ||qrps.app^$all
@@ -65488,6 +65525,8 @@
 ||steno-offers.com^$all
 ||stenotyp.pl^$all
 ||stepdaug.pl^$all
+||stepfutureeg.xyz^$all
+||stepfutureem.xyz^$all
 ||stephane.com.pl^$all
 ||stephaniemasondesign.com^$all
 ||steppin-for.online^$all
@@ -66587,6 +66626,7 @@
 ||t2uyr1.web.app^$all
 ||t02uyr.web.app^$all
 ||t2z72u4g.page.link^$all
+||t3.treekey.xyz^$all
 ||t3dujk.cyou^$all
 ||t3rr.com^$all
 ||t03uyr.web.app^$all
@@ -67492,6 +67532,7 @@
 ||thatiche1.site^$all
 ||thatrurproke.site^$all
 ||thatserverissecured.com^$all
+||thavalknd.site^$all
 ||thavedog.online^$all
 ||thaveerstaid.site^$all
 ||thaverebasttare.site^$all
@@ -68932,6 +68973,7 @@
 ||trichologi.pl^$all
 ||tricisem.com^$all
 ||triclinium.xyz^$all
+||trielioncyoudby.cyou^$all
 ||trielionotercu.xyz^$all
 ||trielionotersv.xyz^$all
 ||trielionweban.xyz^$all
@@ -71444,6 +71486,7 @@
 ||vinted-it.orders-info3442.pw^$all
 ||vinted-it.orders-info3466.pw^$all
 ||vinted-it.receive56.online^$all
+||vinted-it.request9214.cloud^$all
 ||vinted-it.trade-rts.site^$all
 ||vinted-jeg.id-info8767.me^$all
 ||vinted-jfdo.id-3842.me^$all
@@ -73355,6 +73398,7 @@
 ||waybill.life^$all
 ||waybrightdn.xyz^$all
 ||waybrightdt.xyz^$all
+||waybrightel.xyz^$all
 ||waycacoke.com^$all
 ||waycocoke.com^$all
 ||waycokek.com^$all
@@ -75858,6 +75902,7 @@
 ||yrordersconf6508.eu^$all
 ||ysakom.space^$all
 ||ysecde.org^$all
+||ysk.jjsddff.pl^$all
 ||ysqk-offers.com^$all
 ||yt.ametedy.site^$all
 ||yta.it-rus.com^$all
@@ -76724,6 +76769,7 @@
 ||zyzlk.com^$all
 ||zz3v1x.webwave.dev^$all
 ||zzaakefu.top^$all
+||zzc.jjffds.pl^$all
 ||zzcjoieodhjdiufygrrr.site^$all
 ||zzf.voroladesav.com^$all
 ||zzfhjj.s3.us-west-004.backblazeb2.com^$all
