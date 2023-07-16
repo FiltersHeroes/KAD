@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 16 Jul 2023, 14:32 UTC+02:00
-! Version: 2023.7.16.1
+! Last modified: Sun, 16 Jul 2023, 18:21 UTC+02:00
+! Version: 2023.7.16.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -47,6 +47,8 @@
 ||365sklep.com^$all
 ||1978shoesbar.com
 ||a1a.pl^$all
+||aaifull.com^$all
+||aazmshops.com^$all
 ||abanet44.com^$all
 ||abc.prawo.link^$all
 ||abctrack.info^$all
@@ -189,6 +191,7 @@
 ||audio-book.net.pl^$all
 ||audmax.pl^$all
 ||auger.pl^$all
+||augire.com^$all
 ||aukletobst.com^$all
 ||autoforum-businessday.pl^$all
 ||automatkredytowy.pl^$all
@@ -583,6 +586,7 @@
 ||crca.pl^$all
 ||crediko.pl^$all
 ||credy.pl^$all
+||crilid.com^$all
 ||crocclogspolska.com^$all
 ||croccpolska.com^$all
 ||crocsbuty.com^$all
@@ -636,6 +640,7 @@
 ||dazifuopnfsae.com^$all
 ||dbmlka.com^$all
 ||dcshoespolska.com^$all
+||dcshoespolska.pl^$all
 ||dcshoessklep.com^$all
 ||decodorebasic.pl^$all
 ||decora-pl.com^$all
@@ -657,6 +662,7 @@
 ||destowin.shop^$all
 ||deszczowka24.pl^$all
 ||detach.shop^$all
+||df3.store^$all
 ||diabolique.com.pl^$all
 ||diadora-polska.com^$all
 ||diadorabuty.com^$all
@@ -795,6 +801,7 @@
 ||emsiah.com^$all
 ||emupolska.com^$all
 ||enata.store^$all
+||enelongi.com^$all
 ||enogestu.com^$all
 ||enrriqstore.com^$all
 ||enterbuty.com.pl^$all
@@ -808,6 +815,7 @@
 ||equal-re.pl^$all
 ||erepublik.com.pl^$all
 ||ermail.pl^$all
+||erpixam.com.pl^$all
 ||erunner.pl^$all
 ||esamochod.pl^$all
 ||esashop.pl^$all
@@ -882,6 +890,7 @@
 ||filmyfilmy.pl^$all
 ||filmyiseriale.pw^$all
 ||filo-shop.pl^$all
+||finrri.pl^$all
 ||firead.org^$all
 ||fireads.online^$all
 ||fireads.pl^$all
@@ -909,6 +918,7 @@
 ||flufanceineo.com^$all
 ||fluffyflops.pl^$all
 ||fminzynieria.pl^$all
+||fonpa.shop^$all
 ||footwearstore.pl^$all
 ||forexyestrader.pl^$all
 ||fosaudio.com^$all
@@ -1003,6 +1013,7 @@
 ||glimpses.top^$all
 ||glinkss.com^$all
 ||global-offer-24.com^$all
+||glosecret.com^$all
 ||glutapanacea.net^$all
 ||gnibrinfgoy.com^$all
 ||gnootel.com^$all
@@ -1018,6 +1029,7 @@
 ||golipuy.shop^$all
 ||golluu.com^$all
 ||goodmenonthego.com^$all
+||gootop.top^$all
 ||goryhotel.pl^$all
 ||goskine.com^$all
 ||gotowka-doreki.eu^$all
@@ -1097,6 +1109,7 @@
 ||hobbitowa.pl^$all
 ||hodowlafanaberia.pl^$all
 ||hoganpolska.com^$all
+||hoirioa.com^$all
 ||hoka-polska.com^$all
 ||hokabutypolska.com^$all
 ||hokabutypolska.pl^$all
@@ -1227,6 +1240,7 @@
 ||jtdxg.shop^$all
 ||juaabuy.com^$all
 ||juicoburalrus.com^$all
+||julalova.com^$all
 ||julietique.com^$all
 ||julyneeds.com^$all
 ||jump.ogtrk.net^$all
@@ -1493,6 +1507,7 @@
 ||maosap.com^$all
 ||marcanawin.com^$all
 ||marceleshop.com^$all
+||marchmax.shop^$all
 ||marcjacobs-polska.com^$all
 ||marcjacobspolska.com^$all
 ||marcotozzipolska.pl^$all
@@ -1548,6 +1563,7 @@
 ||medikopter.pl^$all
 ||medshop.pl^$all
 ||medycznapolska.pl^$all
+||mega-agencja.com^$all
 ||megadownloader.co^$all
 ||megaelectro.pl^$all
 ||megastore24.pl^$all
@@ -1571,6 +1587,7 @@
 ||merrelpoland.com^$all
 ||merrelpolandoutlet.com^$all
 ||merrelpolska.com^$all
+||meryandi-active.shop^$all
 ||mezczyzna-trendy.pl^$all
 ||mgid.com^$all
 ||miakenly.com^$all
@@ -1629,6 +1646,7 @@
 ||monclerpolska.com^$all
 ||mondayblog.pl^$all
 ||moneywin24.com^$all
+||monolithic.shop^$all
 ||monsire.shop^$all
 ||moonbootpolska.com^$all
 ||moonbootpolskapl.com^$all
@@ -1657,6 +1675,7 @@
 ||mutlum.pl^$all
 ||my-promo7.com^$all
 ||mydates.com^$all
+||mydreamyglow.com^$all
 ||myhank.pl^$all
 ||myway.com^$all
 ||n1-outlet.com^$all
@@ -1862,6 +1881,7 @@
 ||osiedlewillowa.pl^$all
 ||oswieconykochanek.pl^$all
 ||oszukacruletke.like.pl^$all
+||ouiciel.com^$all
 ||ouritesstore.com^$all
 ||outepower.com^$all
 ||outleteuropa.com^$all
@@ -2295,6 +2315,7 @@
 ||serwis-laptopow24.pl^$all
 ||serwis.kb.help^$all
 ||serwislaptopowwarszawa.com.pl^$all
+||setonein.shop^$all
 ||sevenistore.com^$all
 ||sezonslubow.pl^$all
 ||sfhnt.shop^$all
@@ -2367,6 +2388,7 @@
 ||sklep-okazja.com^$all
 ||sklep.dagma.pl^$all
 ||sklep.ekoenergia24.eu^$all
+||sklepaltrapolska.com^$all
 ||sklepconversepolska.pl^$all
 ||sklepdom.pl^$all
 ||sklepeccopolska.com^$all
@@ -2378,6 +2400,7 @@
 ||sklepkurtkapolska.com^$all
 ||skleplasportivapolska.com^$all
 ||sklepmartenspl.com^$all
+||sklepnumatic.pl^$all
 ||skleppg.pl^$all
 ||skleppremium.com^$all
 ||sklepsalewawarszawa.com^$all
@@ -2418,6 +2441,7 @@
 ||sneakersworld.eu^$all
 ||sneakerz2020.com^$all
 ||sneakfreak.pl^$all
+||sneakfriend.pl^$all
 ||snoopy-sklep.pl^$all
 ||snowuee.com^$all
 ||sockshock.com^$all
@@ -2433,6 +2457,7 @@
 ||sophiawebsterbuty.pl^$all
 ||sorelpl.com^$all
 ||sorelpolska.com^$all
+||sosor.shop^$all
 ||sowaksiazki.pl^$all
 ||soynee.shop^$all
 ||spark-agd.pl^$all
@@ -2472,6 +2497,7 @@
 ||stacjavapera.com^$all
 ||stalsrubiarnia.pl^$all
 ||star-mobile.pl^$all
+||starcakesis.com^$all
 ||staroil.pl^$all
 ||starshipsanctuary.pl^$all
 ||stawiamyslady.pl^$all
@@ -2485,6 +2511,7 @@
 ||stop-gmo.pl^$all
 ||stopkomornikowi.pl^$all
 ||storelevis.com^$all
+||storre.pl^$all
 ||stotom.pl^$all
 ||streetsneaks.pl^$all
 ||streetvibe.pl^$all
@@ -2508,6 +2535,7 @@
 ||sultanira.com^$all
 ||summersales-nl.com^$all
 ||sunerlypl.myshopify.com^$all
+||sunnii.shop^$all
 ||sunwenki.com^$all
 ||super-store.pl^$all
 ||superagencjaa.com^$all
@@ -2553,6 +2581,8 @@
 ||takcx.top^$all
 ||tamarispolska.pl^$all
 ||tametc.pl^$all
+||tamniro.com^$all
+||tangoltd.com^$all
 ||tanie-wapnowanie.pl^$all
 ||taniemedia.pl^$all
 ||tanietesteryperfum.pl^$all
@@ -2661,6 +2691,7 @@
 ||trapikas.com^$all
 ||treatments.cliniccompare.com^$all
 ||trendzy.pl^$all
+||trieli.com^$all
 ||triggerinstalls.com^$all
 ||triumphrb.com^$all
 ||trybikowo.pl^$all
@@ -2731,6 +2762,7 @@
 ||vansoldschool.pl^$all
 ||vanspolskapl.com^$all
 ||vansprzeceny.pl^$all
+||vantenk.shop^$all
 ||vapormax.pl^$all
 ||varmusell.com^$all
 ||vavotel.com^$all
@@ -2856,6 +2888,7 @@
 ||waidaoo.com^$all
 ||walmartjp.com^$all
 ||wanblcokrolre.com^$all
+||warepairy.com^$all
 ||warsawsneakers.pl^$all
 ||wartagdynia.pl^$all
 ||wartomiec.pl^$all
@@ -2865,6 +2898,7 @@
 ||watersyt.com^$all
 ||waylandermix.com^$all
 ||wczaso.pl^$all
+||wdomu24.pl^$all
 ||wear4you.pl^$all
 ||web-online.pl^$all
 ||weblancer.pl^$all
@@ -2898,6 +2932,7 @@
 ||wissaa.online^$all
 ||witsrce.com^$all
 ||wkladpompy.pl^$all
+||wniytos.shop^$all
 ||wnrne.com^$all
 ||woaiiwo.com^$all
 ||wodochron.pl^$all
@@ -3021,6 +3056,7 @@
 ||zostanfitjakja.pl^$all
 ||zpafiska.pl^$all
 ||zrobswiatlo.pl^$all
+||zrxvw.shop^$all
 ||zskleczany.pl^$all
 ||zsporchowo.pl^$all
 ||zuhiog.com^$all
@@ -25020,6 +25056,7 @@
 ||dpd.receivinginform-delivery.xyz^$all
 ||dpd.reskotimor.org^$all
 ||dpd.rontipd.org^$all
+||dpd.salrpe.org^$all
 ||dpd.sanbw.org^$all
 ||dpd.sedjko.org^$all
 ||dpd.sendingproduct-1.xyz^$all
@@ -30949,6 +30986,7 @@
 ||glloorryproojject.site^$all
 ||glmkas.pl^$all
 ||glmps.site^$all
+||glo1.cfd^$all
 ||gloaterglo.pl^$all
 ||glob-markets.net^$all
 ||glob-markets.pro^$all
@@ -33116,6 +33154,7 @@
 ||hudarywy.online^$all
 ||hudber.com^$all
 ||huddup.life^$all
+||hudokora.com^$all
 ||huels-inc.pl^$all
 ||hufajushi.top^$all
 ||hufare.uno^$all
@@ -51127,6 +51166,7 @@
 ||ol-x.3253255.xyz^$all
 ||ol-x.3253257.xyz^$all
 ||ol-x.3253258.xyz^$all
+||ol-x.03462138.xyz^$all
 ||ol-x.3575471.xyz^$all
 ||ol-x.3575479.xyz^$all
 ||ol-x.4212222.xyz^$all
