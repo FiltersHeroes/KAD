@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 19 Jul 2023, 22:16 UTC+02:00
-! Version: 2023.7.19.3
+! Last modified: Thu, 20 Jul 2023, 10:20 UTC+02:00
+! Version: 2023.7.20.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4592,6 +4592,7 @@
 ||1o.money-poland.fun^$all
 ||1onet.azureedge.net^$all
 ||1p.poland-lux.fun^$all
+||1pl.mom^$all
 ||1pl.site^$all
 ||1platformpl.site^$all
 ||1pnew.cas-program.site^$all
@@ -5385,6 +5386,7 @@
 ||6f836cfdc72.chefs-kitchen.co.uk^$all
 ||6f3887c2db7490345377904d003ee00b.alldom.co.pl^$all
 ||6f5478562ebef3b37d120181c4a3184a.hospla.co.pl^$all
+||6f46568896e11ea99e27e9c7bfd0c2ae.faitsjo.pl^$all
 ||6fb8ec691376faef2f7175fd6f07ab9f.djodom.co.pl^$all
 ||6fbe8a12dde69f664dceee3e082b4116.m-pl.co.pl^$all
 ||6fde83b17190aea17ad2332a12bd80c6.hospla.co.pl^$all
@@ -5671,6 +5673,7 @@
 ||8f42cec638da298aece57deb9f1f1c12.djodom.co.pl^$all
 ||8f43fc5e4e7bfe35f54332b062bb7bd1.ll-pl.co.pl^$all
 ||8f82af1c43dba3697ae0f59c7d82e71e.twojedom.pl^$all
+||8f260e52cc250dba5f33d1b11cea3a32.faitsjo.pl^$all
 ||8f0366b8d94c3b4fd48a130c27b557fa.dopla.com.pl^$all
 ||8f754b581418b132c5f55cee718aaeb1.sht.co.pl^$all
 ||8f937f64cbda7b54f8f248e8483f5cc8.al-pl.co.pl^$all
@@ -7804,6 +7807,7 @@
 ||010324fcc6b039b5416f0c928f4a7b26.alldom.co.pl^$all
 ||12491a77c2d3cbb8043e20fb88f801f4.apl.co.pl^$all
 ||12758-eubutukeinfo.edu.pl^$all
+||12825bf43f3afbf3b4659459655494a2.faitsjo.pl^$all
 ||13676ffe187326133b1ddcf9297b4347.sht.co.pl^$all
 ||13920-zl-dziennie.auditlesshome.xyz^$all
 ||14062f128c207f0628f923b0ac40ce28.apl.co.pl^$all
@@ -10958,6 +10962,7 @@
 ||albercik425.pl^$all
 ||albert.cfprzemo.com.pl^$all
 ||albert.mirekkaminskimk.pl^$all
+||albert.nasidlowski.pl^$all
 ||albertinn.co.uk^$all
 ||albertodionigi.it^$all
 ||albin.kolatek3.pl^$all
@@ -13543,6 +13548,7 @@
 ||b0o2oa-ko02k.koalle.co.pl^$all
 ||b1.booksun.live^$all
 ||b1.rpss-esp.xyz^$all
+||b1a4e13e20c98af3ffdbb3e2d635fac8.faitsjo.pl^$all
 ||b1a311f2f794d4a5e9fe7c6236c9bb85.ll-pl.co.pl^$all
 ||b1cozj0rxs.magdappp.pl^$all
 ||b1dedd3fd75c7235d0582e2c505c8abb.tsl-pl.co.pl^$all
@@ -13905,6 +13911,7 @@
 ||bafybeicbd3x5wlykaecjgxrvffzgjvxo35zfbexwkga62rv5otsi5qyi7a.ipfs.cf-ipfs.com^$all
 ||bafybeicetifonje4eaeo23fqtnydyopwox4nk4dtdrkz7kjhm4fwojdsny.ipfs.cf-ipfs.com^$all
 ||bafybeicwubgttgzocx3cflgaudnsld34pbdiugmcmu3oexeswdew7np444.ipfs.w3s.link^$all
+||bafybeicxrm2tkkcj3gn4d7j2uowkxgq7dcyvhqsaipebdpdnadp53ygzu4.ipfs.cf-ipfs.com^$all
 ||bafybeidarerulmmdf5a4byww4upsvoqrrrwugyr4jb6ramattj7imsrwfm.ipfs.w3s.link^$all
 ||bafybeidcyrem6t6wud2mnoqp2tnukkzh5gzzmsitjomu7hji3izizjvaya.ipfs.w3s.link^$all
 ||bafybeidr2yg3kdxuvhkv3hsk6vwbrqng4eolnmvdlpzgnwycrpm2rud4wm.ipfs.infura-ipfs.io^$all
@@ -14704,6 +14711,7 @@
 ||bd9d8b7ff0aa43c415344ebc07bce904.piotrpsary.pl^$all
 ||bd15b89fa3f81c76697dba368ff1fce3.m-pl.co.pl^$all
 ||bd33d05ee888c1be449a6d1624e66b2f.m-pl.co.pl^$all
+||bd46d6178f7ef1204126458a19410652.faitsjo.pl^$all
 ||bd0801ac873243.smsknt.pl^$all
 ||bd8540d7737ba64abd8540d7737ba64a.azureedge.net^$all
 ||bd1787280adbef2d772561601b8936a2.krokla.co.pl^$all
@@ -14881,6 +14889,7 @@
 ||bell.hydromod.info.pl^$all
 ||bell.slwiastore.pl^$all
 ||bellatexballoon.com^$all
+||bellavicentertainment.com^$all
 ||bellmannews.com^$all
 ||bellovacis.org^$all
 ||bellown.top^$all
@@ -18212,6 +18221,7 @@
 ||chandleru.com^$all
 ||chaneynail.com^$all
 ||change-iq.com^$all
+||changedeluxe.com^$all
 ||changef.pl^$all
 ||changefrontspg.site^$all
 ||changemind.online^$all
@@ -22425,6 +22435,7 @@
 ||dba88ea9b6de5d38aaeb8e6b428a23f7.rezolvs.pl^$all
 ||dba341eb1b3e0f12d98e5c64c6a28737.aols.pl^$all
 ||dba617ab8b6c12d62f98940b5a650e4b.twojedom.pl^$all
+||dbagnft.org^$all
 ||dbb5a90df3e341698b35b743dcde7231.rezolvs.pl^$all
 ||dbc6606409d8712b55222e02cee4ccff.serswise.pl^$all
 ||dbd3bzqstwii6.cloudfront.net^$all
@@ -23304,6 +23315,7 @@
 ||dentinapp.com^$all
 ||dentistfeed.com^$all
 ||dentreport.biz^$all
+||denume.org^$all
 ||denversportbet.com^$all
 ||denverwebsolutions.com^$all
 ||deoxygenat.xyz^$all
@@ -23431,6 +23443,7 @@
 ||destava.site^$all
 ||deste827a7a-co827a.podantetv.co.pl^$all
 ||destgrena.at^$all
+||destiny-mini-middle.glitch.me^$all
 ||destinyintenationaluniversity.com^$all
 ||destituted.xyz^$all
 ||desture.pl^$all
@@ -30068,6 +30081,7 @@
 ||fshrf.za.com^$all
 ||fsrqx.platfohrm.top^$all
 ||fsssag.lacktr.site^$all
+||fsttoffrs.xyz^$all
 ||fsv.jaerg.pl^$all
 ||fsxcz.olasep.site^$all
 ||fsxdh.com^$all
@@ -31277,6 +31291,7 @@
 ||glosujemy-wsparcie.eu^$all
 ||glosujemy-wszyscy.eu^$all
 ||glosujmy-elektronicznie.eu^$all
+||glosujmy-punkty.eu^$all
 ||gloveplati.com^$all
 ||gloverville.info^$all
 ||glovesfluent.com^$all
@@ -39029,6 +39044,7 @@
 ||internetdrogist.com^$all
 ||internetowe-poszukiwania.eu^$all
 ||internetowe-zmagania.eu^$all
+||internetoweogloszenia24.cba.pl^$all
 ||internetowy-turniej.eu^$all
 ||internetshoppy.com^$all
 ||interparochial.xyz^$all
@@ -41485,6 +41501,7 @@
 ||kkmjnp.s3.us-east-005.backblazeb2.com^$all
 ||kkmmjj.s3.us-west-004.backblazeb2.com^$all
 ||kknaija.com^$all
+||kkocxzlor.xyz^$all
 ||kkol.masler.xyz^$all
 ||kkrakowparking.website^$all
 ||kksla.livesketo.site^$all
@@ -45080,6 +45097,7 @@
 ||m.alphabeticalsubordinate.top^$all
 ||m.apparatusbarracks.top^$all
 ||m.atp7fn1.cn^$all
+||m.baltic-pipe.org.pl^$all
 ||m.blindopaque.top^$all
 ||m.bushthrifty.top^$all
 ||m.curlastray.top^$all
@@ -48921,6 +48939,7 @@
 ||natyh.takilon.top^$all
 ||natymswiecie.eu^$all
 ||nauczsienadzieji.eu^$all
+||naughtfxjk.space^$all
 ||naughtynationx.com^$all
 ||nauik.maxiza.site^$all
 ||nauj.miliomp.xyz^$all
@@ -51576,6 +51595,7 @@
 ||olatokonow.net^$all
 ||olatowuncandide-johnson.com^$all
 ||olayaninvt.com^$all
+||old-boat-3761.on.fleek.co^$all
 ||old-surf-0774.on.fleek.co^$all
 ||old-vinted.xyz^$all
 ||oldcarreviews.com^$all
@@ -54637,6 +54657,7 @@
 ||omniclaim.co.uk^$all
 ||omnidefensenetwork.com^$all
 ||omnimusicfestival.com^$all
+||omnivai.xyz^$all
 ||omobun.com^$all
 ||omputernic.com^$all
 ||omralmirakosco.ml^$all
@@ -58424,6 +58445,7 @@
 ||plpost.buool.top^$all
 ||plpost.hxxbz.com^$all
 ||plpost.knmpl.com^$all
+||plpost.net^$all
 ||plpost.page.link^$all
 ||plpostatarckingbillinginpost.com^$all
 ||plpostlink.xyz^$all
@@ -58839,6 +58861,8 @@
 ||poczta-plska.com^$all
 ||poczta-plsms.top^$all
 ||poczta-po.cyou^$all
+||poczta-po.top^$all
+||poczta-po.xyz^$all
 ||poczta-poiska-pl.buzz^$all
 ||poczta-poiska.com^$all
 ||poczta-poiska.org^$all
@@ -58891,6 +58915,7 @@
 ||poczta-polska.work^$all
 ||poczta-polska.xyz^$all
 ||poczta-polskac.icu^$all
+||poczta-polskad.top^$all
 ||poczta-polskapl.comuscj.icu^$all
 ||poczta-polskapl.life^$all
 ||poczta-polskapl.top^$all
@@ -61878,6 +61903,7 @@
 ||pub-c665c8b4c9704b06942abefb6da4dfba.r2.dev^$all
 ||pub-ca9e8d36c537415790b11f7f367a3191.r2.dev^$all
 ||pub-d537d5bc0d6c414ca0c847986ab3b3b7.r2.dev^$all
+||pub-dfc9057702ee48a2959b6792edf594f8.r2.dev^$all
 ||pub-e20b83e0f3844894997d58c2271b6702.r2.dev^$all
 ||pub-ec4277d882e748159b8078274f92cb81.r2.dev^$all
 ||pub-faa693cd74ad4afb82b316acd61a927d.r2.dev^$all
@@ -62249,6 +62275,7 @@
 ||questfulfilled.life^$all
 ||questionee.com^$all
 ||queueeandatom.site^$all
+||quick-west-design.com^$all
 ||quick.regiister.xyz^$all
 ||quickcashnet.cyou^$all
 ||quickdates1.com^$all
@@ -63421,6 +63448,7 @@
 ||rket.info^$all
 ||rkinvestpl.info^$all
 ||rkkmas.pl^$all
+||rkl.mix-legl.top^$all
 ||rklo.boats^$all
 ||rkoey.com^$all
 ||rkucia7.com.pl^$all
@@ -66940,6 +66968,7 @@
 ||steersmensake.com^$all
 ||stefan.corso.net.pl^$all
 ||stefan.huskyed.pl^$all
+||stefan.sylvester.waw.pl^$all
 ||stefan.wojtaszek.nieruchomosci.pl^$all
 ||stefaniakl.pl^$all
 ||stefaniehoefer.pl^$all
@@ -68261,6 +68290,7 @@
 ||tantawy-group.com^$all
 ||tantieapp.com^$all
 ||tantreplanes.com^$all
+||tantuniventure.com^$all
 ||tanyarabourn.com^$all
 ||tanyard.fun^$all
 ||tanyardsau.com^$all
@@ -68845,6 +68875,7 @@
 ||teslerproject.online^$all
 ||teslers.live^$all
 ||teslertrust.store^$all
+||teslez.frodpens.space^$all
 ||teslfin.club^$all
 ||teslfin.info^$all
 ||teslfin.top^$all
@@ -73492,6 +73523,7 @@
 ||vinted.wwallet.pro^$all
 ||vinted.yemiao.top^$all
 ||vinted.yvellap.org^$all
+||vintedcz.order382.eu^$all
 ||vintedcz.order5914.eu^$all
 ||vintedcz.order9573.eu^$all
 ||vinteddelivery.326515485.xyz^$all
