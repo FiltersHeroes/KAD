@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 02 Aug 2023, 18:20 UTC+02:00
-! Version: 2023.8.2.2
+! Last modified: Wed, 02 Aug 2023, 22:16 UTC+02:00
+! Version: 2023.8.2.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4359,6 +4359,7 @@
 ||1ap.site^$all
 ||1b3fa26e413505943b8d02045bc47616.rha.co.pl^$all
 ||1b5af3b32a550563060ec5bf91ee9f8f.apl.co.pl^$all
+||1b542bba02f2.meinetv.pl^$all
 ||1b554dd188cc6af029b0a54948e0b038.hospla.co.pl^$all
 ||1b6873a00fb9cdb025a8ee24fd1c9ac8.alldom.co.pl^$all
 ||1b46674e17d0f8d61765fc286e96f445.difregro.pl^$all
@@ -5304,6 +5305,7 @@
 ||5f5b244634180569299e8d6c1601b1c5.serswise.pl^$all
 ||5f9a8f912816bec5bd98930a1aea318e.tinopa.co.pl^$all
 ||5f9kxctp.page.link^$all
+||5f60bb79b08f.meinekino.pl^$all
 ||5f6055f98e5c798e7b3f7bfb1cb8f64c.finangro.co.pl^$all
 ||5f8002cf474eee565f8002cf474eee56.azureedge.net^$all
 ||5fc824be9e4bc75b71709032b9660f52.ll-pl.co.pl^$all
@@ -9442,6 +9444,7 @@
 ||7260005eeb0c2af7652d606c4c602d5b.alldom.co.pl^$all
 ||7327471fa8fd65c6f301eed915c10086.serswise.pl^$all
 ||7374616c795f64797a7572406177662e706f7a6e616e2e706c.pinnaclecornstoves.com^$all
+||7516694c9741a992757f.meinekino.pl^$all
 ||7567576.xyz^$all
 ||7669288b4a9903f4953f748d061863c5.nowagro.co.pl^$all
 ||7828131aa6a789e977fd407e35396ef8.alldom.co.pl^$all
@@ -18043,6 +18046,7 @@
 ||casino-cash-flow.com^$all
 ||casinobonusar.io^$all
 ||casinossitesonline.com^$all
+||casinototek.com^$all
 ||casio37.com^$all
 ||casketliquate.com^$all
 ||casketliquate.ecocatastrophesoverextraction.com^$all
@@ -25635,6 +25639,7 @@
 ||dpd.5206215111.xyz^$all
 ||dpd.7214512584.xyz^$all
 ||dpd.96594345154.xyz^$all
+||dpd.aiwncus.org^$all
 ||dpd.akedyhuka.org^$all
 ||dpd.akelapond.org^$all
 ||dpd.apebims.org^$all
@@ -38980,6 +38985,7 @@
 ||inpost.order-pl.store^$all
 ||inpost.orders-dostawa.website^$all
 ||inpost.orders-pls.live^$all
+||inpost.oredr5264.info^$all
 ||inpost.oregalpedo.org^$all
 ||inpost.oreplepsond.org^$all
 ||inpost.otamedoha.org^$all
@@ -47690,6 +47696,7 @@
 ||mi.marcukesh.top^$all
 ||mi.rpss-esp.xyz^$all
 ||mi.thardeu.site^$all
+||miagrow.site^$all
 ||mial.cntrlpanl.rest^$all
 ||mialemtakostt1.online^$all
 ||mialemtakostt.online^$all
@@ -49018,6 +49025,7 @@
 ||motogielda-pakszewski.pl^$all
 ||motogielda-wilczynski.pl^$all
 ||motogielda-zachod.pl^$all
+||motohandel-binkowski.pl^$all
 ||motohandel-wolski.pl^$all
 ||motordune.com^$all
 ||motoryzacja-auto.pl^$all
@@ -49455,6 +49463,7 @@
 ||my.miinor.site^$all
 ||my.milproj.site^$all
 ||my.nasze-sprawy.lat^$all
+||my.netfilm-info.com^$all
 ||my.poczta-polska.club^$all
 ||my.pol-gaz.one^$all
 ||my.polski-baltic-pipe.bond^$all
@@ -49828,6 +49837,7 @@
 ||nansha114.top^$all
 ||nansist.space^$all
 ||nao.tchatonline.site^$all
+||naolyunul.site^$all
 ||naomilaser.com^$all
 ||napase.site^$all
 ||napciumo.tk^$all
@@ -52513,6 +52523,7 @@
 ||oix.14958487.xyz^$all
 ||oix.24548455.xyz^$all
 ||oix.30451510.xyz^$all
+||oix.32407453.xyz^$all
 ||oix.34105151.xyz^$all
 ||oix.34512512.xyz^$all
 ||oix.34958487.xyz^$all
@@ -54254,6 +54265,7 @@
 ||olx.a-ogloszenia.pl^$all
 ||olx.ads-public-worlds.shop^$all
 ||olx.ahsoftware.space^$all
+||olx.aiwncus.org^$all
 ||olx.akedyhuka.org^$all
 ||olx.aregakefopda.org^$all
 ||olx.atokareg.org^$all
@@ -56858,6 +56870,7 @@
 ||otomoto-marketplace.pl^$all
 ||otomoto-ogloszenia.pl^$all
 ||otomoto.auta-mazowieckie.pl^$all
+||otomoto.automobil-komis.pl^$all
 ||otomoto.g43xweb.de^$all
 ||otomoto.gt4fv23.com^$all
 ||otomoto.k23mp1.eu^$all
@@ -61212,6 +61225,7 @@
 ||polskie-info.shop^$all
 ||polskie-informacje-40425884077.azureedge.net^$all
 ||polskie-informacje.dnsrobotuptime.ru^$all
+||polskie-informacje.eu^$all
 ||polskie-informacje.pl^$all
 ||polskie-informacje.xyz^$all
 ||polskie-ogioszenia.pl^$all
@@ -68093,6 +68107,7 @@
 ||ssennkkhtrre.duckdns.org^$all
 ||ssermar.online^$all
 ||ssfco.info^$all
+||ssg.bogdanjks.pl^$all
 ||ssl-cert.pl^$all
 ||ssl-profile.pl^$all
 ||ssl.26rachunek-netflix.pl^$all
@@ -73964,6 +73979,7 @@
 ||verchefulge.ga^$all
 ||verd.site^$all
 ||verdcore-xyz.preview-domain.com^$all
+||verentranto.site^$all
 ||verffkow.com^$all
 ||vergerism.live^$all
 ||veridaserr.com^$all
@@ -79512,6 +79528,7 @@
 ||zaiogowanie.site^$all
 ||zaiogowanko.site^$all
 ||zaioguj.online^$all
+||zaiogujmysie.store^$all
 ||zajac.gy-ve.com^$all
 ||zajmimsietym.space^$all
 ||zajonc.de^$all
@@ -80175,6 +80192,7 @@
 ||zsmpk.com^$all
 ||zsvb.laoke.pl^$all
 ||zt2xdf.s3.us-east-005.backblazeb2.com^$all
+||ztc.michaelpescht.pl^$all
 ||ztf.domallpl.pl^$all
 ||ztydihfhvuomo3iw522y4oaga2no6bnt4vn3k5bssq-ipfs-nftstorage-link.translate.goog^$all
 ||zub.gimms.xyz^$all
