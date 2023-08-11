@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 11 Aug 2023, 18:17 UTC+02:00
-! Version: 2023.8.11.2
+! Last modified: Fri, 11 Aug 2023, 22:15 UTC+02:00
+! Version: 2023.8.11.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3099,8 +3099,8 @@
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,domain=top
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/$doc
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,domain=biz
-/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case
-/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case
+/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case
+/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case
 /^https?:\/\/crypto0[0-9]+\.online/$doc,important
 /counts.php?cat=1&t=$3p,script
 /fck_files/*.xml$doc,domain=m-vision.com.pl
@@ -6265,6 +6265,7 @@
 ||32og.homes^$all
 ||33a81cdae0f670e739512d3fbf814910.nyoh.pl^$all
 ||33a278611a9fb9c086e345d4883a11c2.sht.co.pl^$all
+||33b7777542e9da23b8ed302ad7550b75.bunptr.pl^$all
 ||33ba749657d17b4c70a510c3d1d1fcc4.assl.co.pl^$all
 ||33bb2d6c8e32d0a8341e16f79ed9b1aa.movnetlode.pl^$all
 ||33cb3f25eca004cacb887870a.tlsens.pl^$all
@@ -6576,6 +6577,7 @@
 ||68c3add711e26067370db1bef7e7f027.hospla.co.pl^$all
 ||68cc68729417aefc2409421b5a01f713.pomkl.pl^$all
 ||68df2d887e953d0d3b4228663627288c.nyoh.pl^$all
+||68dfcfa63d881abec9a899850d118253.bunptr.pl^$all
 ||68e6ff71d57b8f6225157eb403b7b7e5.krokla.co.pl^$all
 ||68e828f3418d1b11064d888f82a02d70.serswise.pl^$all
 ||68eb0196938.johncornell.com^$all
@@ -7024,6 +7026,7 @@
 ||360stories.shop^$all
 ||360wiesc.site^$all
 ||360xbooth.com^$all
+||361f23f2f885525bb11a40c82c5e0e96.bunptr.pl^$all
 ||363c80a643066847e52a837667251bf1.kklmn.co.pl^$all
 ||363efe802785d2ef836f16e337accf96.a-pl.co.pl^$all
 ||364acf8708c7edfe364acf8708c7edfe.azureedge.net^$all
@@ -14247,6 +14250,7 @@
 ||ba1laoye.com^$all
 ||ba2.nataltip.xyz^$all
 ||ba2e00f560ffe794bf1c47b5a87937c2.krokla.co.pl^$all
+||ba3d98b38ee54459e4e89f0b47379069.bunptr.pl^$all
 ||ba5dc62f9e8c8e0905253fd6b5bee29f.podisat.pl^$all
 ||ba90f96cf660a23a21b9966ce127760f.aols.pl^$all
 ||ba.chatonline.site^$all
@@ -18555,6 +18559,7 @@
 ||cdcahearings.com^$all
 ||cdcdde5a9133e1568f8dce171de1e4b8.alldom.co.pl^$all
 ||cdctny.com^$all
+||cdd25cc97663c264c9d49b5dd69a80ac.bunptr.pl^$all
 ||cdd-pro.web.app^$all
 ||cdda7e6e6a8a5055fea02b0fc1cb26ec.krokla.co.pl^$all
 ||cddadfe9076ca9f04e4086facc8ec9ac.sht.co.pl^$all
@@ -28079,6 +28084,7 @@
 ||enlistments.live^$all
 ||enneagramtesting.org^$all
 ||enorhydti.ml^$all
+||enoughs.cfd^$all
 ||enower.pl^$all
 ||enpgnig.pl^$all
 ||enpsguinee.com^$all
@@ -28114,6 +28120,7 @@
 ||enuiregncxzyasdfhgasdk78c19mc9m2ihjdfsufdaf.rest^$all
 ||env-8231408.node.cloudlets.zone^$all
 ||envelopconfederate.cn^$all
+||enveloswp.pl^$all
 ||enviolo-management.com^$all
 ||environmentpolar.org.uk^$all
 ||enwreathes.pl^$all
@@ -30912,6 +30919,7 @@
 ||fortenasklep.pl^$all
 ||forteopen.com^$all
 ||forterelikettch.site^$all
+||forthe.sbs^$all
 ||fortitudeplacks.xyz^$all
 ||fortonor-online.preview-domain.com^$all
 ||fortrade.com^$all
@@ -40288,6 +40296,7 @@
 ||inpost.zarulif.top^$all
 ||inpost.zelig.top^$all
 ||inpost.zofektud.org^$all
+||inpost.zoigjbakop.org^$all
 ||inpost.zorekafot.org^$all
 ||inpost.ztoklh.org^$all
 ||inpost.zyvbopmas.org^$all
@@ -41621,6 +41630,7 @@
 ||jamill.life^$all
 ||jamini.site^$all
 ||jan1601ls.node.cloudlets.zone^$all
+||jan.dorotadabek.pl^$all
 ||jan.grzegorzol.warszawa.pl^$all
 ||jan.mrdrewniak.pl^$all
 ||jan.pawelpolak.warszawa.pl^$all
@@ -44335,6 +44345,7 @@
 ||krysiaswiderska.pl^$all
 ||kryslew777.pl^$all
 ||krystalwellnessspa.com^$all
+||krystek.zaopatrzeniesz.pl^$all
 ||krystian.eurodab.com.pl^$all
 ||krystian.kuczmera.com.pl^$all
 ||krystian.michasiabadek.pl^$all
@@ -44406,6 +44417,7 @@
 ||ksu72y.webwave.dev^$all
 ||ksx.iptvss.site^$all
 ||kszbc.mpjesuccess.com^$all
+||ktc4ba4.wehoo.cc^$all
 ||ktc.alibalticon.com^$all
 ||ktfpp.sleddogweb.com^$all
 ||ktopodgladamnienafacebooku.wordpress.com^$all
@@ -48250,6 +48262,7 @@
 ||mazk.bosd.online^$all
 ||mazowieckie-auta.pl^$all
 ||mazowsze-info24.xyz^$all
+||mazowsze-ogloszenia.pl^$all
 ||mazowszegazeta.xyz^$all
 ||mazowszeinfo24.xyz^$all
 ||mazuts.life^$all
@@ -52368,6 +52381,7 @@
 ||notice80-acc827a.listatv.co.pl^$all
 ||notice828a8-trace827a.dostetv.co.pl^$all
 ||noticeculture.com^$all
+||notificationspl.pl^$all
 ||notificationstwo.pl^$all
 ||notifierhe.com^$all
 ||notifymnow.com^$all
@@ -52867,6 +52881,7 @@
 ||o1x.79007088.xyz^$all
 ||o1x.79007089.xyz^$all
 ||o1x.95455155.xyz^$all
+||o1x.97655648.xyz^$all
 ||o1x.165666662.xyz^$all
 ||o1x.247154512.xyz^$all
 ||o1x.265666662.xyz^$all
@@ -58425,6 +58440,7 @@
 ||pa-marketing.eu^$all
 ||pa-wos.web.app^$all
 ||pa.nienuan.com^$all
+||paaa.benedyktana.pl^$all
 ||paarla.com^$all
 ||paaswale.com^$all
 ||pabloo0008.github.io^$all
@@ -75071,6 +75087,7 @@
 ||update-1.com^$all
 ||update-accout.debetowa.live^$all
 ||update-info.centrumconsumer.live^$all
+||update-net.com^$all
 ||update-paymentnow.appverident.co.pl^$all
 ||update-paymentnow.centrenowtv.co.pl^$all
 ||update-paymentnow.centretvntf.co.pl^$all
@@ -77100,6 +77117,7 @@
 ||vintedsk.order8843.eu^$all
 ||vintedsk.order8943.eu^$all
 ||vintedsk.order9301.shop^$all
+||vintedsk.order9589.eu^$all
 ||vintedsk.order9921.eu^$all
 ||vintedstore-delivery.576768.xyz^$all
 ||vintedstore-paying.7876543898.xyz^$all
