@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 21 Aug 2023, 18:19 UTC+02:00
-! Version: 2023.8.21.2
+! Last modified: Mon, 21 Aug 2023, 22:10 UTC+02:00
+! Version: 2023.8.21.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1164,6 +1164,7 @@
 ||hushpuppiesbuty.pl^$all
 ||huttisabel.com^$all
 ||huusk-store.com^$all
+||huuskmesser.de^$all
 ||hyperstech.com^$all
 ||i-cda.pl^$all
 ||i-mobi.pl^$all
@@ -46726,6 +46727,7 @@
 ||log-in-naz-wa-pl-pane-lo.asesorescantabria.es^$all
 ||log-in-nazwapl-pl-auth-validation.bluethemes.com^$all
 ||log-in-web-eglob-ignum-red2.thecarlocksmiths.co.uk^$all
+||log-otomoto.pl^$all
 ||log.majyw.atthost24.pl^$all
 ||logarithm.sbs^$all
 ||logarythmaaska.site^$all
@@ -63586,6 +63588,7 @@
 ||portalgazetaregional.nordicca.com.br^$all
 ||portalgdansk.xyz^$all
 ||portalgdynia.xyz^$all
+||portalgreen.node.cloudlets.zone^$all
 ||portalinformacja.click^$all
 ||portalinformation.online^$all
 ||portalkatowice.xyz^$all
@@ -65236,6 +65239,7 @@
 ||pub-0f5daa1b964b4e6dad68f5c409ee56b5.r2.dev^$all
 ||pub-0f2799b485784940bee3eecb0c599196.r2.dev^$all
 ||pub-2a6406517f9f4941a821215d62b89291.r2.dev^$all
+||pub-2f9f31fb038b47a1afc9e7a553251808.r2.dev^$all
 ||pub-3bb9276f1f264b429faa1c18058972ea.r2.dev^$all
 ||pub-4cc290be8eb34f738acf6e2d31c9d20b.r2.dev^$all
 ||pub-4ffe410d51304928a2dafe618f8af7a6.r2.dev^$all
@@ -83684,6 +83688,9 @@
 ||zuzu-criss.blogspot.com^$all
 !
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
+!instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
+!instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
+!instalki.pl##option[value$="dm=1"]
 ##a[href*="pufgilsofp.sbs"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
@@ -83691,6 +83698,7 @@
 ||digitogy.eu^$all
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https.*
+||ptoszek.pl^$all
 ||remontujemysami.pl^$all
 ||uploadfile.pl/download.png$image
 ||wilczynscy-ogrody.pl^$all
@@ -83699,9 +83707,6 @@ cba.pl#?#body > div[style*="position"]:has(> div[style*="position"] > iframe[src
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 github.com##.js-comment-and-button + details:matches-path(/\/FiltersHeroes\/KAD\/issues\/(124[12]|2176)/)
 github.com##.js-comment-and-button:matches-path(/\/FiltersHeroes\/KAD\/issues\/(124[12]|2176)/)
-instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
-instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
-instalki.pl##option[value$="dm=1"]
 pl##a[href*="whokeys.com/"]
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 tyfloswiat.pl##^responseheader(location)
