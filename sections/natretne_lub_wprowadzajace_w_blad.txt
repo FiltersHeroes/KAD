@@ -1,4 +1,6 @@
-||ptoszek.pl^$all
+!instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
+!instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
+!instalki.pl##option[value$="dm=1"]
 ##a[href*="pufgilsofp.sbs"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
@@ -6,6 +8,7 @@
 ||digitogy.eu^$all
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https.*
+||ptoszek.pl^$all
 ||remontujemysami.pl^$all
 ||uploadfile.pl/download.png$image
 ||wilczynscy-ogrody.pl^$all
@@ -14,9 +17,6 @@ cba.pl#?#body > div[style*="position"]:has(> div[style*="position"] > iframe[src
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 github.com##.js-comment-and-button + details:matches-path(/\/FiltersHeroes\/KAD\/issues\/(124[12]|2176)/)
 github.com##.js-comment-and-button:matches-path(/\/FiltersHeroes\/KAD\/issues\/(124[12]|2176)/)
-!instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
-!instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
-!instalki.pl##option[value$="dm=1"]
 pl##a[href*="whokeys.com/"]
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 tyfloswiat.pl##^responseheader(location)
