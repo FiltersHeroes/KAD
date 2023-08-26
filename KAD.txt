@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 26 Aug 2023, 18:18 UTC+02:00
-! Version: 2023.8.26.2
+! Last modified: Sat, 26 Aug 2023, 19:14 UTC+02:00
+! Version: 2023.8.26.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -110,6 +110,7 @@
 ||all-4you.pl^$all
 ||allcollect.pl^$all
 ||allegronl.com^$all
+||alleke.com^$all
 ||allfiles.pl^$all
 ||allibest.com^$all
 ||allthatdesign.pl^$all
@@ -1164,6 +1165,7 @@
 ||hurbiott.com^$all
 ||hushpuppiesbuty.pl^$all
 ||huttisabel.com^$all
+||huusk-original.com^$all
 ||huusk-store.com^$all
 ||huuskmesser.de^$all
 ||hyperstech.com^$all
@@ -38864,6 +38866,7 @@
 ||inpost-pl.newsprawa234981.lol^$all
 ||inpost-pl.newsurvivor.lol^$all
 ||inpost-pl.nidon.lol^$all
+||inpost-pl.nonste.pw^$all
 ||inpost-pl.nq842145512.pw^$all
 ||inpost-pl.numer-sciezki-id498321.xyz^$all
 ||inpost-pl.numer-sciezki-id548683.xyz^$all
@@ -84492,6 +84495,7 @@ speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has(> div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:nth-child(-n+2):not(:empty):not(:has(a[href*="oprogramowanie-z-rosji"], a[href*="niepotrzebne-pliki"])):matches-path(/\/[a-zA-Z0-9-]{1,99},program,/)
+www.google.*##.g:has(a[href*="//adservice.google."])
 xja.pl,xn.pl##+js(refresh-defuser, 5)
 !
 !
