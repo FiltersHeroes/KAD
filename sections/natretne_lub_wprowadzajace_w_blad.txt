@@ -1,6 +1,7 @@
 !instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
 !instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
 !instalki.pl##option[value$="dm=1"]
+www.google.*##.g:has(a[href*="//adservice.google."])
 ##a[href*="pufgilsofp.sbs"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
