@@ -1,7 +1,6 @@
 !instalki.pl##a[href*="?dm"]::before:style(font-size: 23px !important; content: "WYBIERZ Z LISTY" !important;)
 !instalki.pl##a[href*="?dm"]:style(pointer-events: none !important; font-size: 0 !important;)
 !instalki.pl##option[value$="dm=1"]
-www.google.*##.g:has(a[href*="//adservice.google."])
 ##a[href*="pufgilsofp.sbs"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
@@ -23,4 +22,5 @@ speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.dobreprogramy.pl#?#article#main-content > div[class]:not([id]) > div[class]:not([id]):has(> div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:nth-child(-n+2):not(:empty):not(:has(a[href*="oprogramowanie-z-rosji"], a[href*="niepotrzebne-pliki"])):matches-path(/\/[a-zA-Z0-9-]{1,99},program,/)
+www.google.*##.g:has(a[href*="//adservice.google."])
 xja.pl,xn.pl##+js(refresh-defuser, 5)
