@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:3.0.9
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Dodawanie nowości z CERT
         env:
           SKIP_OFFLINE: true
@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:3.0.9
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Dodawanie nowości z LWS
         run: |
           ./scripts/addNoveltiesFrom3p.py LWS
@@ -40,7 +40,7 @@ jobs:
       contents: write
     container: ghcr.io/filtersheroes/kad_image:3.0.9
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - uses: actions/download-artifact@v3
