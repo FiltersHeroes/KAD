@@ -50,7 +50,7 @@ spec.loader.exec_module(Sd2D)
 with open(tp_path, "r", encoding='utf-8') as tp_f, \
     NamedTemporaryFile(dir='.', delete=False) as f_out:
     domains = []
-    for domain in Sd2D.main(tp_path):
+    for domain in Sd2D.main(tp_f):
         if not "\n" in domain:
             domain = domain + "\n"
         domains.append(domain)
