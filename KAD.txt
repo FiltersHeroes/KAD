@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 06 Sep 2023, 22:16 UTC+02:00
-! Version: 2023.9.6.3
+! Last modified: Thu, 07 Sep 2023, 10:20 UTC+02:00
+! Version: 2023.9.7.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4836,6 +4836,7 @@
 ||2d02d492b0b931a03e5933d532a339e5.ll-pl.co.pl^$all
 ||02d6e483c51f17fbe20b4721055cb103.pracadom.pl^$all
 ||2d9bb4a167eaf367a5b9966046612aff.repetira.pl^$all
+||2d10cfeed441dc61824668632bec9958.hostaysp.pl^$all
 ||2d54a8628d681dd12cf8e39a1db84c3a.boawgr.pl^$all
 ||2d63ed491c799c47bb00030b895edb3d.ll-pl.co.pl^$all
 ||2d127d76bf387aff9c383cf3154d59fd.podlaw.co.pl^$all
@@ -5572,6 +5573,7 @@
 ||7.1nnoflare.sbs^$all
 ||7.1566663.pw^$all
 ||7.8451555.pw^$all
+||7a5d776b84d2097642469d996ddecf81.hostaysp.pl^$all
 ||7a6faf00c140b3387a6faf00c140b338.azureedge.net^$all
 ||7a21c1746f6197f7e28e58343b719520.sht.co.pl^$all
 ||07a29b2ba2a11070b5eb66cc1186f67d.ll-pl.co.pl^$all
@@ -5699,6 +5701,7 @@
 ||7f138d9a84ef429f042b410f030532ee.nastep.pl^$all
 ||7f054591.sibforms.com^$all
 ||7f698417f72d4.tlsens.pl^$all
+||7f8703441688151e5f3ef56eff0fa5a0.hostaysp.pl^$all
 ||7faa6823c238d22006e634039dba1364.dopla.com.pl^$all
 ||7fae54d28e016ce7ad0fe2ec18ee9a1e.alldom.co.pl^$all
 ||7fc339e5017e12ae3deb5314df3c9a4d.hospla.co.pl^$all
@@ -6849,6 +6852,7 @@
 ||87b264d15e6acffff557a8cb6af967aa.hospla.co.pl^$all
 ||87c1e5037cef946796ec7ce51fc054e7.rha.co.pl^$all
 ||87c8a5a47daf0c72fef5cc780089a2c1.ssl-pl.co.pl^$all
+||87c8cf12e04f4393c2a4db0933ff482c.hostaysp.pl^$all
 ||87c8f275a20bf328a407edf7d7651dda.desploag.co.pl^$all
 ||87da456eb080dd32e83ee615372b99ba.actgro.pl^$all
 ||87e50eb9664006a41d0d167af92e6bbb.ll-pl.co.pl^$all
@@ -7435,6 +7439,7 @@
 ||781.7687653.pw^$all
 ||781cdcf1acfa4ba837290db30494189a.hospla.co.pl^$all
 ||786.7687656.pw^$all
+||786fad7ca300bdbd8d3d9d2f7fdf3600.hostaysp.pl^$all
 ||788b47da189847c5e72f58182b3a19ec.krokla.co.pl^$all
 ||00790fca.sibforms.com^$all
 ||793addfc1e9bb3e40cc12bf9c99ff.unsumail.pl^$all
@@ -10551,6 +10556,7 @@
 ||ad1bc5508e53709a81ffe92a72d88ed9.alldom.co.pl^$all
 ||ad4b9da9e92286d8968948e0889805df.ll-pl.co.pl^$all
 ||ad14b6b1aa927786fc49cf6ecf8a322a.dopla.com.pl^$all
+||ad28a7c3db30db8d1fa9cb95650fc2c2.hostaysp.pl^$all
 ||ad44acb07f9bdf94054045887325a760.dopla.com.pl^$all
 ||ad95d80042877efe6e7a94b09c5980ed.djodom.co.pl^$all
 ||ad380b86745b1673c83b2c0b41b40a80.alldom.co.pl^$all
@@ -10938,6 +10944,7 @@
 ||agrestic.live^$all
 ||agrewis.com^$all
 ||agricol-bank.com^$all
+||agricole-credit.net^$all
 ||agricole-sms.org^$all
 ||agriculturaverde.com^$all
 ||agriculturevote.com^$all
@@ -12064,6 +12071,7 @@
 ||allegrolokalnie.3454222.xyz^$all
 ||allegrolokalnie.4084152.xyz^$all
 ||allegrolokalnie.4466956.xyz^$all
+||allegrolokalnie.4485151.xyz^$all
 ||allegrolokalnie.5084152.xyz^$all
 ||allegrolokalnie.5098547.xyz^$all
 ||allegrolokalnie.5548553.xyz^$all
@@ -12177,6 +12185,7 @@
 ||allegrolokalnie.store^$all
 ||allegrolokalnie.szybka-wysylka.pl^$all
 ||allegrolokalnie.wysylka-online.pl^$all
+||allegrolokalnie.zakup-produkt.pl^$all
 ||allegrolokalnie.zamow-przedmiot.pl^$all
 ||allegrolokalnie.zaplac-bezpiecznie.pl^$all
 ||allegrolokalnie.zaplac-online24.pl^$all
@@ -13183,6 +13192,7 @@
 ||appealbusinesshelpform.com^$all
 ||appealhelpform.ddns.net^$all
 ||appealliveform.ml^$all
+||appealsupport-technical.web.app^$all
 ||appears.sbs^$all
 ||appecep.000webhostapp.com^$all
 ||appendixleash.info^$all
@@ -13452,6 +13462,7 @@
 ||arpucelnabahi.gq^$all
 ||arralkilov.site^$all
 ||arrentertainment.com^$all
+||arrhal.com^$all
 ||arriveatbiz.club^$all
 ||arriveatbiz.info^$all
 ||arriveatbiz.top^$all
@@ -14142,6 +14153,7 @@
 ||auto-miazga.pl^$all
 ||auto-michalak.pl^$all
 ||auto-michalczewski.pl^$all
+||auto-michalek.pl^$all
 ||auto-michalski.pl^$all
 ||auto-milewski.pl^$all
 ||auto-mojsiuk.net.pl^$all
@@ -16292,6 +16304,7 @@
 ||bgdh.teraw.site^$all
 ||bgfc.neomai.site^$all
 ||bghdjks.pasvar.xyz^$all
+||bgju.tayki.site^$all
 ||bgk24.at^$all
 ||bgk24.cc^$all
 ||bgk24.co^$all
@@ -19374,6 +19387,7 @@
 ||ceb.plale.pl^$all
 ||cec.widomkoster.xyz^$all
 ||cech.sportbetsignupcode.com^$all
+||cechoptykow.judytamelania.pl^$all
 ||cecidogenous.xyz^$all
 ||cecylia-fashion.pl^$all
 ||cecynyuluu.info^$all
@@ -21463,6 +21477,7 @@
 ||crissy.moe^$all
 ||cristal2017.argo.host^$all
 ||crit927a8z-trace82yaz.agnieskza0021.com.pl^$all
+||criteasy.com^$all
 ||crithidial.live^$all
 ||criticisedduennaships.info^$all
 ||criticiw.pl^$all
@@ -21584,6 +21599,7 @@
 ||cryptoallys.com^$all
 ||cryptob.goprogramia.top^$all
 ||cryptobank-official.com^$all
+||cryptobank.coxojexm.com^$all
 ||cryptobaseone.com^$all
 ||cryptobegrijpen.nl^$all
 ||cryptobest.eu^$all
@@ -25233,6 +25249,7 @@
 ||dene-tha.com^$all
 ||dengitime24.shop^$all
 ||denied-payment-access.com^$all
+||deniqeoxyy.live^$all
 ||denizbanksiolineisjemler-com.net^$all
 ||denizenedn.xyz^$all
 ||denniskowal.com^$all
@@ -26539,6 +26556,7 @@
 ||dohanbonus.com^$all
 ||dohodcompanys.site^$all
 ||dohodysichaz.site^$all
+||dohuxiemai.live^$all
 ||doiadowanla-payu.xyz^$all
 ||doig.life^$all
 ||doikladnakl.click^$all
@@ -30295,6 +30313,7 @@
 ||f85f226fa6becd6b3e83ae4dc0c8c32c.sanplo.co.pl^$all
 ||f88c13f8b35d952efb526e9ce1f521d0.ats.co.pl^$all
 ||f90c5245ebfe9ed855d07a37efd76c26.malego.co.pl^$all
+||f90cbee2433bab4d566b33aa51cef15a.hostaysp.pl^$all
 ||f92ca092e259ccbf0c09f141f1847282.alldom.co.pl^$all
 ||f92f3707e3d4a19a234d5e740a81f489.krokla.co.pl^$all
 ||f93eb052a02dce4e4158cc4afc986236.alldom.co.pl^$all
@@ -30568,6 +30587,7 @@
 ||fad5f04b5d18d2effad5f04b5d18d2ef.azureedge.net^$all
 ||fad7340612587d69b2bcf41cb5644aca.twojedom.pl^$all
 ||fad.ppaco.xyz^$all
+||fadaf1470aac16f9d3a2451c6c90f077.hostaysp.pl^$all
 ||fade010e968bb6c395061406098c7d9f.apl.co.pl^$all
 ||fades.blog-cmesp.site^$all
 ||fadissastand.com^$all
@@ -31215,6 +31235,7 @@
 ||feed.mestopoland.space^$all
 ||feedback.opengate.quest^$all
 ||feedbackbug.com^$all
+||feedboard.life^$all
 ||feedhorn.live^$all
 ||feeding1.site^$all
 ||feednewers.com^$all
@@ -31945,6 +31966,7 @@
 ||fjolkynngi.com^$all
 ||fk32783219a-02jdsadsa.regimaza.co.pl^$all
 ||fk-2.cfd^$all
+||fk-43.homes^$all
 ||fkkldo.everadpro.click^$all
 ||fkmas.pl^$all
 ||fko-34.cfd^$all
@@ -35219,6 +35241,7 @@
 ||gustofwind.click^$all
 ||gut.remesmil.online^$all
 ||gutagony.top^$all
+||guteboalau.live^$all
 ||gutfilm.pl^$all
 ||gutierrez.jadwicz.com.pl^$all
 ||gutierrez.marekhalys.pl^$all
@@ -36009,6 +36032,7 @@
 ||heywards.life^$all
 ||hez-pl.web.app^$all
 ||hezinvesting.xyz^$all
+||hezyjyenuo.live^$all
 ||hezzer.com^$all
 ||hfd.nikasr.xyz^$all
 ||hfd.tslopleu.com^$all
@@ -36102,6 +36126,7 @@
 ||himjhnight.site^$all
 ||himkano-com.preview-domain.com^$all
 ||himoptrf.com^$all
+||himycuuzuy.live^$all
 ||hin.kowt.site^$all
 ||hinderlings.life^$all
 ||hindupujaonline.com^$all
@@ -43178,6 +43203,7 @@
 ||ipko.biznes-pl.com^$all
 ||ipko.cofese.space^$all
 ||ipko.dowehos.site^$all
+||ipko.htyma.site^$all
 ||ipko.justns.ru^$all
 ||ipko.odbnk.space^$all
 ||ipko.pl-bankowosc.net^$all
@@ -43422,6 +43448,7 @@
 ||itbretpacks.com^$all
 ||itbryzorti.tk^$all
 ||itchanra.tk^$all
+||itclactations.com^$all
 ||itcnj.com^$all
 ||itechconsultation.com^$all
 ||itemshop-nerwia2.pl^$all
@@ -43632,6 +43659,7 @@
 ||jachin.info^$all
 ||jacinths.life^$all
 ||jacintor.gq^$all
+||jack333.igamarcelina.sklep.pl^$all
 ||jack.zuzastar.pl^$all
 ||jackbertman.com^$all
 ||jackfishfins.com^$all
@@ -43880,6 +43908,7 @@
 ||jekroted-com.preview-domain.com^$all
 ||jelik-news.site^$all
 ||jelly-offers.com^$all
+||jelojyumua.live^$all
 ||jemadarsin.pl^$all
 ||jeminablog.com^$all
 ||jemper.space^$all
@@ -46526,6 +46555,7 @@
 ||kriminala.net^$all
 ||krio.site^$all
 ||krishkas-com.preview-domain.com^$all
+||kriss.judytamelania.pl^$all
 ||krisszumilas.com.pl^$all
 ||krista.drygas.warszawa.pl^$all
 ||krista.marzennadembele.nieruchomosci.pl^$all
@@ -53255,6 +53285,7 @@
 ||mx.fondblagorus.xyz^$all
 ||mx.theblindgardener.com^$all
 ||mxdby-mailsever-000ruiwas.web.app^$all
+||mxfactorious.com^$all
 ||mxgva.ponttech.com^$all
 ||mxmzr.pro^$all
 ||mxpolgran.com^$all
@@ -60744,6 +60775,7 @@
 ||ordr112.pw^$all
 ||ordrs0425.in^$all
 ||orectivefoined.com^$all
+||oreetospicks.com^$all
 ||oregoo.com^$all
 ||oreh.site^$all
 ||orehbed-com.preview-domain.com^$all
@@ -62074,6 +62106,7 @@
 ||paxar.videodaewoo.pw^$all
 ||paxdola.click^$all
 ||paxdola.fun^$all
+||paxemoadau.live^$all
 ||paxosstandardcode.financialmarketsworld.com^$all
 ||pay0lx-delivery.7566890.xyz^$all
 ||pay00lx-goods.3253454.xyz^$all
@@ -66225,6 +66258,7 @@
 ||porgaw.site^$all
 ||porkierrec.com^$all
 ||porknasathege.cf^$all
+||porkycoin.com^$all
 ||porl.weebly.com^$all
 ||pormohoulorakoo.tk^$all
 ||pornappeal.com^$all
@@ -66348,6 +66382,7 @@
 ||post-certificate.xyz^$all
 ||post-pl-pl.xyz^$all
 ||post-polska-delivery.com^$all
+||post-renew.xyz^$all
 ||post-track.al-awa2el.com^$all
 ||post-track.poczta-polska.al-awa2el.com^$all
 ||post.com.li2e3xnvh91j8v157lzcm.turn02u1s.club^$all
@@ -68860,6 +68895,7 @@
 ||ralsfa.pl^$all
 ||ralstonreport.com^$all
 ||ram2mx.webwave.dev^$all
+||ramaisms.live^$all
 ||ramblebonza.com^$all
 ||ramelo.tk^$all
 ||ramequinsb.pl^$all
@@ -69794,6 +69830,7 @@
 ||riarew.uno^$all
 ||riaubuy.com^$all
 ||riazespl.site^$all
+||ribess.com^$all
 ||ricecars.life^$all
 ||rich2-4dom.quest^$all
 ||rich24dom.quest^$all
@@ -70302,6 +70339,7 @@
 ||ruchedruc.com^$all
 ||ruckusvariable.com^$all
 ||ructionima.com^$all
+||rudazaivea.live^$all
 ||rudeinversion.top^$all
 ||rudity.xyz^$all
 ||ruelydinglas.site^$all
@@ -73156,6 +73194,7 @@
 ||solander.life^$all
 ||solaninspr.com^$all
 ||solar-panel-rebates.com^$all
+||solarburger.info^$all
 ||solarmass.space^$all
 ||solarna-fontanna-odgrodowa-pl.com^$all
 ||solarna-lampa-pl.com^$all
@@ -75124,6 +75163,7 @@
 ||syatwea.com^$all
 ||syb1.stronieint.site^$all
 ||syccess-system.pics^$all
+||sycotuyjoe.live^$all
 ||sydlexgensie.com^$all
 ||sydney.cenacoolo.pl^$all
 ||sydney.fhbastus.pl^$all
@@ -79052,6 +79092,7 @@
 ||ud8x.com^$all
 ||ud61i3.webwave.dev^$all
 ||uda.telomikor.xyz^$all
+||udaar.net^$all
 ||udacsienieprzyjemny.site^$all
 ||udafoya.com^$all
 ||udalogacenia.netlify.app^$all
@@ -79840,6 +79881,7 @@
 ||uwagadrogowcy.eu5.net^$all
 ||uwawawa.com^$all
 ||uwb-edu-pl-help.weebly.com^$all
+||uwb-edu-pl-support.weebly.com^$all
 ||uwb-edu.weebly.com^$all
 ||uwhat.planticrysa.xyz^$all
 ||uwioeieuwmcmieuq.site^$all
@@ -88292,6 +88334,7 @@
 ||zobaczteraz00001zawiadomienie.awesomeerictech.com^$all
 ||zobistik.fun^$all
 ||zoc17x.webwave.dev^$all
+||zocequiqea.live^$all
 ||zocohome.info^$all
 ||zocypio.com^$all
 ||zodarae.com^$all
