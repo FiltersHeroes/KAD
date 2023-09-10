@@ -59,10 +59,11 @@ with open(expired_path, "r", encoding='utf-8') as expired_f, \
     open(tp_path, "r", encoding='utf-8') as tp_f, \
         open(tp_e_path, "a", encoding='utf-8') as tp_e:
 
-    lines_expired_f = expired_f.readlines()
-    for line in tp_f:
-        if any(line in s for s in lines_expired_f):
-            commonLines.append(line)
+    lines_tp_f = tp_f.readlines()
+    for line in expired_f:
+        if line := line.strip():
+            if any(line in s for s in lines_tp_f):
+                commonLines.append(line)
     for commonLine in sorted(set(commonLines)):
         if not "\n" in commonLine:
             commonLine = commonLine + "\n"
