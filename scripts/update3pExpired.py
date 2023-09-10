@@ -11,7 +11,6 @@ import sys
 import shutil
 import importlib.util
 from tempfile import NamedTemporaryFile
-from difflib import Differ
 from downloader import download
 from cleanup3p import cleanup3p
 
@@ -48,7 +47,7 @@ Sd2D = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(Sd2D)
 
 with open(tp_path, "r", encoding='utf-8') as tp_f, \
-    NamedTemporaryFile(dir='.', delete=False) as f_out:
+        NamedTemporaryFile(dir='.', delete=False) as f_out:
     domains = []
     for domain in Sd2D.main(tp_f):
         if not "\n" in domain:
@@ -64,14 +63,15 @@ with open(tp_path, "r", encoding='utf-8') as tp_f, \
     os.rename(f_out.name, tp_path)
 
 tp_e_path = pn(main_path + "/exclusions/" + tp + "_expired.txt")
-differ = Differ()
 commonLines = []
 with open(expired_path, "r", encoding='utf-8') as expired_f, \
-        open(tp_path, "r", encoding='utf-8') as tp_f, \
-            open(tp_e_path, "a", encoding='utf-8') as tp_e:
-    for line in differ.compare(expired_f.readlines(), tp_f.readlines()):
-        if not line.startswith("+") and not line.startswith("-") and not line.startswith("?"):
-            commonLines.append(line.replace(" ", ""))
+    open(tp_path, "r", encoding='utf-8') as tp_f, \
+        open(tp_e_path, "a", encoding='utf-8') as tp_e:
+
+    lines_tp_f = tp_f.readlines()
+    for line in expired_f:
+        if line in lines_tp_f:
+            commonLines.append(line)
     for commonLine in sorted(set(commonLines)):
         if not "\n" in commonLine:
             commonLine = commonLine + "\n"
