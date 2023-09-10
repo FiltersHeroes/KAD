@@ -41,18 +41,9 @@ cleanup3p(tp_path)
 
 expired_path = sys.argv[2]
 
-spec = importlib.util.spec_from_file_location(
-    "Sd2D", pn(main_path+"/../ScriptsPlayground/scripts/Sd2D.py"))
-Sd2D = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(Sd2D)
-
 with open(tp_path, "r", encoding='utf-8') as tp_f, \
         NamedTemporaryFile(dir='.', delete=False) as f_out:
     domains = []
-    for domain in Sd2D.main(tp_f):
-        if not "\n" in domain:
-            domain = domain + "\n"
-        domains.append(domain)
     for domain in tp_f:
         if not "\n" in domain:
             domain = domain + "\n"
@@ -68,9 +59,9 @@ with open(expired_path, "r", encoding='utf-8') as expired_f, \
     open(tp_path, "r", encoding='utf-8') as tp_f, \
         open(tp_e_path, "a", encoding='utf-8') as tp_e:
 
-    lines_tp_f = tp_f.readlines()
-    for line in expired_f:
-        if line in lines_tp_f:
+    lines_expired_f = expired_f.readlines()
+    for line in tp_f:
+        if any(line in s for s in lines_expired_f):
             commonLines.append(line)
     for commonLine in sorted(set(commonLines)):
         if not "\n" in commonLine:
