@@ -43,7 +43,7 @@
 /pl/tpay/centrum24/pin.php?pay&b=$doc,frame
 /pl/tpay/index.php?pay&b=$doc,frame
 /pl/vwfs/portal/?pay|$doc,frame,domain=~pl
-/tds/ae?tds_campaign=$document
+/tds/ae?tds_campaign=$doc
 |http*://*/fb-login/$doc,domain=~facebook.com
 |http*://*/ym.html?email=*@$doc,domain=~to-moze-byc-phishing.*
 ||0-0llx.12313123.xyz^$all
@@ -7852,7 +7852,7 @@
 ||allegrolokalnie.84985277.xyz^$all
 ||allegrolokalnie.552333230.xyz^$all
 ||allegrolokalnie.2312457845.xyz^$all
-||allegrolokalnie.$doc,domain=~allegro.pl|~allegrolokalnie.pl|~wp.pl
+||allegrolokalnie.$doc,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
 ||allegrolokalnie.bezpieczna-dostawa24.pl^$all
 ||allegrolokalnie.bezpieczna-przesylka.pl^$all
 ||allegrolokalnie.bezpieczna-wysylka24.pl^$all
@@ -15347,7 +15347,7 @@
 ||cholesterol.life^$all
 ||chomik24.com.pl^$all
 ||chomikuj*.opx.pl^$all,domain=pl
-||chomikuj.$doc,domain=~chomikuj.pl
+||chomikuj.$doc,domain=~bing.*|~chomikuj.pl|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*
 ||chomlkui.pl^$all
 ||chonisadoust.ml^$all
 ||choose-1n-npost.manmagazin.cfd^$all
@@ -41611,7 +41611,7 @@
 ||lefvianomouvaj.tk^$all
 ||legacygenome.com^$all
 ||legalc.cfd^$all
-||legalniewsieci.$doc,domain=~legalniewsieci.pl
+||legalniewsieci.$doc,domain=~bing.*|~duckduck.*|~ecosia.org|~google.*|~legalniewsieci.pl|~qwant.com|~startpage.com|~yahoo.*
 ||legalpiercer.com^$all
 ||legatings.com^$all
 ||legazonneur.com^$all
