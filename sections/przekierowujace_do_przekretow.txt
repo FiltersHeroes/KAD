@@ -1,5 +1,7 @@
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
+||tlenmedica.com.pl^$all
+||syhxhhv.dieimmunhelden.de^$all
 /?track=*&key=$doc
 /\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
