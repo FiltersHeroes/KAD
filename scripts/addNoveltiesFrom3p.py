@@ -41,13 +41,13 @@ elif tp == "LWS":
         for domain in findLWS.main():
             tp_f.write(domain + "\n")
 
+hosts_pat = re.compile(r"^0\.0\.0\.0 (.*)")
 
 with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
         NamedTemporaryFile(dir='.', delete=False) as f_out:
     lines = []
     for line in KADhosts:
-        result = re.search(r"^0\.0\.0\.0 (.*)", line)
-        if result is not None:
+        if result := hosts_pat.search(line):
             lines.append(result.group(1).replace("www.", ""))
     for line in sorted(set(lines)):
         f_out.write(str(line+"\n").encode())
@@ -82,26 +82,29 @@ if os.path.isfile(skip_path):
             if line.strip() in novelties:
                 del novelties[line.strip()]
 
-regex_list = []
+exclusion_f_list = []
 
 if os.path.isfile(expired_path):
     with open(expired_path, "r", encoding='utf-8') as offline_list:
         for line in offline_list:
-            line = "^(.*\.)?" + re.escape(line.strip())+"$"
-            regex_list.append(re.compile(line))
+            if line := line.strip():
+                exclusion_f_list.append(re.escape(line))
 
 if os.path.isfile(skip_path):
     with open(skip_path, "r", encoding='utf-8') as skip_list:
         for line in skip_list:
-            line = "^(.*\.)?" + re.escape(line.strip())+"$"
-            regex_list.append(re.compile(line))
+            if line := line.strip():
+                exclusion_f_list.append(re.escape(line))
+
+regex_part_domains = '|'.join(exclusion_f_list)
+regex_part_domains = f"^(.*\.)?({regex_part_domains})$"
+long_regex = re.compile(regex_part_domains)
 
 tp_novelties_path = pj(main_path, "sections", tp + "_novelties.txt")
 
 with open(tp_novelties_path, "w+", encoding='utf-8') as f_out:
     for entry in novelties:
-        for regex in regex_list:
-            entry = regex.sub(r'', entry)
+        entry = long_regex.sub(r'', entry)
         if entry.strip():
             f_out.write(str("||"+entry.strip("\n")+"^$all"+"\n"))
 
