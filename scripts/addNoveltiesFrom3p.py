@@ -44,13 +44,13 @@ elif tp == "LWS":
 hosts_pat = re.compile(r"^0\.0\.0\.0 (.*)")
 
 with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
-        NamedTemporaryFile(dir='.', delete=False) as f_out:
+        NamedTemporaryFile(dir='.', delete=False, mode="w", encoding='utf-8') as f_out:
     lines = []
     for line in KADhosts:
-        if result := hosts_pat.search(line):
+        if result := hosts_pat.match(line):
             lines.append(result.group(1).replace("www.", ""))
     for line in sorted(set(lines)):
-        f_out.write(str(line+"\n").encode())
+        f_out.write(f"{line}\n")
     os.rename(f_out.name, KADhosts_path)
 
 cleanup3p(tp_path)

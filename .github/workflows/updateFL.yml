@@ -6,35 +6,28 @@ on:
       - cron: "0 8,12,16,20 * * *"
 
 jobs:
-  CERT:
+  CERT_LWS:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:3.0.9
     steps:
       - uses: actions/checkout@v4
       - name: Dodawanie nowości z CERT
-        env:
-          SKIP_OFFLINE: true
         run: |
           ./scripts/addNoveltiesFrom3p.py CERT
-      - uses: actions/upload-artifact@v3
-        with:
-          name: CERT
-          path: |
-            sections/CERT_novelties.txt
-  LWS:
-    runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/kad_image:3.0.9
-    steps:
-      - uses: actions/checkout@v4
       - name: Dodawanie nowości z LWS
         run: |
           ./scripts/addNoveltiesFrom3p.py LWS
       - uses: actions/upload-artifact@v3
         with:
+          name: CERT
+          path: |
+            sections/CERT_novelties.txt
+      - uses: actions/upload-artifact@v3
+        with:
           name: LWS
           path: sections/LWS_novelties.txt
   Aktualizacja:
-    needs: [CERT, LWS]
+    needs: [CERT_LWS]
     runs-on: ubuntu-latest
     permissions:
       contents: write
