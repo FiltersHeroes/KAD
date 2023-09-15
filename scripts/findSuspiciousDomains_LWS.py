@@ -15,7 +15,7 @@ def main():
     page = requests.get(quote_page).text
 
     # parse the html using beautiful soup and store in variable `soup`
-    soup = BeautifulSoup(page, "html5lib")
+    soup = BeautifulSoup(page, "html.parser")
 
     data = soup.find_all('div', class_="ul-unsafe")
 
