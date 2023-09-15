@@ -14,5 +14,5 @@ def cleanup3p(tp_path):
                 line = line + "\n"
             lines.append(line.replace("www.", "").lower())
         for line in sorted(set(lines)):
-            f_out.write(str(line))
+            f_out.write(line)
         os.rename(f_out.name, tp_path)

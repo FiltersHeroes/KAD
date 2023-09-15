@@ -39,7 +39,7 @@ elif tp == "LWS":
     import findSuspiciousDomains_LWS as findLWS
     with open(tp_path, "w", encoding='utf-8') as tp_f:
         for domain in findLWS.main():
-            tp_f.write(domain + "\n")
+            tp_f.write(f"{domain}\n")
 
 hosts_pat = re.compile(r"^0\.0\.0\.0 (.*)")
 
@@ -60,27 +60,31 @@ expired_path = pj(main_path, "exclusions", tp + "_expired.txt")
 KADhosts_list = {}
 with open(KADhosts_path, "r", encoding='utf-8') as KADhosts:
     for line in KADhosts:
+        line = line.strip()
         if line != "":
-            KADhosts_list[line.strip()] = ""
+            KADhosts_list[line] = ""
 
 novelties = {}
 with open(tp_path, "r", encoding='utf-8') as tp_f:
     for line in tp_f:
-        if not line.strip() in KADhosts_list:
-            novelties[line.strip()] = ""
+        line = line.strip()
+        if not line in KADhosts_list:
+            novelties[line] = ""
 
 if os.path.isfile(expired_path):
     with open(expired_path, "r", encoding='utf-8') as expired_list:
         for line in expired_list:
-            if line.strip() in novelties:
-                del novelties[line.strip()]
+            line = line.strip()
+            if line in novelties:
+                del novelties[line]
 
 skip_path = pj(main_path, "exclusions", tp + "_skip.txt")
 if os.path.isfile(skip_path):
     with open(skip_path, "r", encoding='utf-8') as skip_list:
         for line in skip_list:
-            if line.strip() in novelties:
-                del novelties[line.strip()]
+            line = line.strip()
+            if line in novelties:
+                del novelties[line]
 
 exclusion_f_list = []
 
@@ -105,7 +109,7 @@ tp_novelties_path = pj(main_path, "sections", tp + "_novelties.txt")
 with open(tp_novelties_path, "w+", encoding='utf-8') as f_out:
     for entry in novelties:
         entry = long_regex.sub(r'', entry)
-        if entry.strip():
-            f_out.write(str("||"+entry.strip("\n")+"^$all"+"\n"))
+        if entry := entry.strip():
+            f_out.write(f"||{entry}^$all\n")
 
 shutil.rmtree(temp_path)

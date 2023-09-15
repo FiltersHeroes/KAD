@@ -1,24 +1,21 @@
+#!/usr/bin/env python3
+# coding=utf-8
 # pylint: disable=anomalous-backslash-in-string
 # pylint: disable=missing-function-docstring
 # import libraries
 import re
 from bs4 import BeautifulSoup
-import certifi
-import urllib3
+import requests
 
 def main():
     # specify the url
     quote_page = 'https://www.legalniewsieci.pl/aktualnosci/podejrzane-sklepy-internetowe'
 
     # query the website and return the html to the variable ‘page’
-    http = urllib3.PoolManager(
-        cert_reqs='CERT_REQUIRED',
-        ca_certs=certifi.where()
-    )
-    page = http.request('GET', quote_page)
+    page = requests.get(quote_page).text
 
     # parse the html using beautiful soup and store in variable `soup`
-    soup = BeautifulSoup(page.data, "html5lib")
+    soup = BeautifulSoup(page, "html5lib")
 
     data = soup.find_all('div', class_="ul-unsafe")
 
