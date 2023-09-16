@@ -9,7 +9,7 @@
 import os
 import sys
 import shutil
-import importlib.util
+import json
 from tempfile import NamedTemporaryFile
 from downloader import download
 from cleanup3p import cleanup3p
@@ -71,13 +71,23 @@ with open(expired_path, "r", encoding='utf-8') as expired_f, \
 
 os.remove(tp_path)
 
-# Sort and remove duplicates
-lines = []
-with open(tp_e_path, "r", encoding='utf-8') as tp_e:
-    for line in tp_e:
-        lines.append(line)
-    lines = sorted(set(lines))
+# Remove domains removed from CERT and sort and remove duplicates
+removedDomains = {}
+if tp == "CERT":
+    download(pj(temp_path, "domains.json"), "https://hole.cert.pl/domains/domains.json")
+    with open(pj(temp_path, "domains.json"), "r", encoding='utf-8') as domains_json:
+        strings = json.load(domains_json)
 
-with open(tp_e_path, "w+", encoding='utf-8') as tp_e:
-    for line in lines:
-        tp_e.write(line)
+    for string in strings:
+        if string["DeleteDate"]:
+            cleanedURL = string["DomainAddress"].replace("www.", "")
+            removedDomains[f"||{cleanedURL}^$all"] = ""
+
+with open(tp_e_path, "r", encoding='utf-8') as tp_e, NamedTemporaryFile(dir=temp_path, delete=False, mode="w", encoding='utf-8') as f_t:
+    for line in sorted(set(tp_e)):
+        if line := line.strip():
+            if line not in removedDomains:
+                f_t.write(f"{line}\n")
+os.replace(f_t.name, tp_e_path)
+if os.path.isdir(temp_path):
+    shutil.rmtree(temp_path)

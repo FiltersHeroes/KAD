@@ -91,8 +91,8 @@ with open(pj(temp_path, "domains.json"), "r", encoding='utf-8') as domains_json:
 removedDomains = {}
 for string in strings:
     if string["DeleteDate"]:
-        removedDomains["||" +
-                       string["DomainAddress"].replace("www.", "")+"^$all"] = ""
+        cleanedURL = string["DomainAddress"].replace("www.", "")
+        removedDomains[f"||{cleanedURL}^$all"] = ""
 
 with open(PRZEKRETY_PATH, "r", encoding='utf-8') as przekrety_content, NamedTemporaryFile(dir=temp_path, delete=False, mode="w", encoding='utf-8') as cleared_temp:
     for line in przekrety_content:
