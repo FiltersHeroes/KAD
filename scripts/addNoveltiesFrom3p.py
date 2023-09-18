@@ -27,10 +27,10 @@ os.chdir(temp_path)
 
 tp = sys.argv[1]
 tp_path = "./" + tp + ".txt"
-KADhosts_path = "./KADhosts.txt"
+KADomains_path = "./KADomains.txt"
 
-download(KADhosts_path,
-         "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt")
+download(KADomains_path,
+         "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt")
 
 
 if tp == "CERT":
@@ -41,34 +41,34 @@ elif tp == "LWS":
         for domain in findLWS.main():
             tp_f.write(f"{domain}\n")
 
-hosts_pat = re.compile(r"^0\.0\.0\.0 (.*)")
+unnecessary_pat = re.compile(r"^(#|!)")
 
-with open(KADhosts_path, "r", encoding='utf-8') as KADhosts, \
+with open(KADomains_path, "r", encoding='utf-8') as KADhosts, \
         NamedTemporaryFile(dir='.', delete=False, mode="w", encoding='utf-8') as f_out:
     lines = []
     for line in KADhosts:
-        if result := hosts_pat.match(line):
-            lines.append(result.group(1).replace("www.", ""))
+        if not unnecessary_pat.match(line):
+            lines.append(line.replace("www.", ""))
     for line in sorted(set(lines)):
         f_out.write(f"{line}\n")
-    os.rename(f_out.name, KADhosts_path)
+    os.rename(f_out.name, KADomains_path)
 
 cleanup3p(tp_path)
 
 expired_path = pj(main_path, "exclusions", tp + "_expired.txt")
 
-KADhosts_list = {}
-with open(KADhosts_path, "r", encoding='utf-8') as KADhosts:
+KADomains_list = {}
+with open(KADomains_path, "r", encoding='utf-8') as KADhosts:
     for line in KADhosts:
         line = line.strip()
         if line != "":
-            KADhosts_list[line] = ""
+            KADomains_list[line] = ""
 
 novelties = {}
 with open(tp_path, "r", encoding='utf-8') as tp_f:
     for line in tp_f:
         line = line.strip()
-        if not line in KADhosts_list:
+        if not line in KADomains_list:
             novelties[line] = ""
 
 if os.path.isfile(expired_path):
