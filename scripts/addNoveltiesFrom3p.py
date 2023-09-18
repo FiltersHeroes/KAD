@@ -47,10 +47,12 @@ with open(KADomains_path, "r", encoding='utf-8') as KADhosts, \
         NamedTemporaryFile(dir='.', delete=False, mode="w", encoding='utf-8') as f_out:
     lines = []
     for line in KADhosts:
+        line = line.strip()
         if not unnecessary_pat.match(line):
             lines.append(line.replace("www.", ""))
     for line in sorted(set(lines)):
         f_out.write(f"{line}\n")
+    del lines
     os.rename(f_out.name, KADomains_path)
 
 cleanup3p(tp_path)
@@ -87,7 +89,6 @@ if os.path.isfile(skip_path):
                 del novelties[line]
 
 exclusion_f_list = []
-
 if os.path.isfile(expired_path):
     with open(expired_path, "r", encoding='utf-8') as offline_list:
         for line in offline_list:

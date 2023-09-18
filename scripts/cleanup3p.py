@@ -10,9 +10,7 @@ def cleanup3p(tp_path):
             NamedTemporaryFile(dir='.', delete=False, mode="w", encoding='utf-8') as f_out:
         lines = []
         for line in tp_f:
-            if not "\n" in line:
-                line = line + "\n"
-            lines.append(line.replace("www.", "").lower())
+            lines.append(line.replace("www.", "").lower().strip())
         for line in sorted(set(lines)):
-            f_out.write(line)
+            f_out.write(f"{line}\n")
         os.rename(f_out.name, tp_path)
