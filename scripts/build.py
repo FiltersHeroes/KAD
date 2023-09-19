@@ -98,7 +98,8 @@ with open(PRZEKRETY_PATH, "r", encoding='utf-8') as przekrety_content, NamedTemp
     for line in przekrety_content:
         if line.strip() in removedDomains:
             line = ""
-        cleared_temp.write(line)
+        if line:
+            cleared_temp.write(line)
     os.replace(cleared_temp.name, PRZEKRETY_PATH)
 shutil.rmtree(temp_path)
 
