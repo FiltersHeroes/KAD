@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 28 Sep 2023, 20:46 UTC+02:00
-! Version: 2023.9.28.3
+! Last modified: Thu, 28 Sep 2023, 21:00 UTC+02:00
+! Version: 2023.9.28.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2478,6 +2478,7 @@
 ||okna-lesnik.pl^$all
 ||onetdsgo.com^$all
 ||oo.waw.pl^$all
+||ostrowlubelski.pl/libs/$doc,important=~przekierowania-z-google.*,subdocument
 ||overorlenpost.my-free.website^$all
 ||parcel.*.nildenaksoy.com^$all
 ||pay.onebip.com^$all
@@ -9754,6 +9755,7 @@
 ||c075389e410423f17f133bc74f29.reclmnae.pl^$all
 ||c80425.paidtomoney.com^$all
 ||c83649.paidtomoney.com^$all
+||c97101.paidtomoney.com^$all
 ||c8908857.sibforms.com^$all
 ||c9866905306.chefs-kitchen.co.uk^$all
 ||c*.tmweb.ru/weryfikacja/$all
@@ -28038,6 +28040,7 @@
 ||nazwa-pl-af49c0a35c5.unicainstrumentacao.com.br^$all
 ||nazwa-pl-affd5cb3fba.unicainstrumentacao.com.br^$all
 ||nazwa-pl-b11dd625ad5.unicainstrumentacao.com.br^$all
+||nazwa-pl-ba1c31c1b8a.unicainstrumentacao.com.br^$all
 ||nazwa-pl-bd2c2844e61.unicainstrumentacao.com.br^$all
 ||nazwa-pl-c14f92e0341.unicainstrumentacao.com.br^$all
 ||nazwa-pl-c46a5568144.unicainstrumentacao.com.br^$all
