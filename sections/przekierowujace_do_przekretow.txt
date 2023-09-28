@@ -1,4 +1,3 @@
-||ostrowlubelski.pl/libs/$doc,subdocument,important=~przekierowania-z-google.*
 .com/c/*?s1=$doc,domain=com
 .net/c/*?s1=$doc,domain=net
 /?track=*&key=$doc
@@ -173,6 +172,7 @@
 ||okna-lesnik.pl^$all
 ||onetdsgo.com^$all
 ||oo.waw.pl^$all
+||ostrowlubelski.pl/libs/$doc,important=~przekierowania-z-google.*,subdocument
 ||overorlenpost.my-free.website^$all
 ||parcel.*.nildenaksoy.com^$all
 ||pay.onebip.com^$all
