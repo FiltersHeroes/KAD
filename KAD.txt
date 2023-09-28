@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 28 Sep 2023, 21:00 UTC+02:00
-! Version: 2023.9.28.4
+! Last modified: Thu, 28 Sep 2023, 22:14 UTC+02:00
+! Version: 2023.9.28.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2478,7 +2478,7 @@
 ||okna-lesnik.pl^$all
 ||onetdsgo.com^$all
 ||oo.waw.pl^$all
-||ostrowlubelski.pl/libs/$doc,important=~przekierowania-z-google.*,subdocument
+||ostrowlubelski.pl/libs/$doc,frame,important=~przekierowania-z-google.*
 ||overorlenpost.my-free.website^$all
 ||parcel.*.nildenaksoy.com^$all
 ||pay.onebip.com^$all
@@ -3407,6 +3407,7 @@
 ||96b4d58e213077161.temporary.link^$all
 ||97.dq223.cc^$all
 ||97a84891f634c8323.allbiuro.pl^$all
+||97d1a405.bcdashboards.com.br^$all
 ||98bc959934c.chefs-kitchen.co.uk^$all
 ||98ca2b0d78d.johncornell.com^$all
 ||100-ledowe-solary-pl.com^$all
@@ -3982,6 +3983,7 @@
 ||24215455.xyz^$all
 ||26482462b09.chefs-kitchen.co.uk^$all
 ||26653804.xyz^$all
+||28836822.bcdashboards.com.br^$all
 ||31333243.xyz^$all
 ||31798538.xyz^$all
 ||32066623.xyz^$all
@@ -5546,6 +5548,7 @@
 ||amaon80.com^$all
 ||amaon81.com^$all
 ||amaon83.com^$all
+||amaon85.com^$all
 ||amaon86.com^$all
 ||amaon96.com^$all
 ||amardeepesand.com^$all
@@ -13902,6 +13905,7 @@
 ||dpd.96594345154.xyz^$all
 ||dpd.bdimonet.org^$all
 ||dpd.bymacil.org^$all
+||dpd.dpasertyb.org^$all
 ||dpd.gmebin.pw^$all
 ||dpd.hovulepd.org^$all
 ||dpd.ip-648342.pw^$all
@@ -25720,6 +25724,7 @@
 ||marilidon-invest.com^$all
 ||mariontwinapartments.com^$all
 ||marisarmagazine.com^$all
+||maritimen.sbs^$all
 ||mariusz.ameliagosia.com.pl^$all
 ||mariuszprokopp111.wixsite.com^$all
 ||mark-et-info4.xyz^$all
@@ -28012,6 +28017,7 @@
 ||nazwa-pl-4ca2ad9018b.unicainstrumentacao.com.br^$all
 ||nazwa-pl-5a5e61794cf.unicainstrumentacao.com.br^$all
 ||nazwa-pl-5bc87051ec2.unicainstrumentacao.com.br^$all
+||nazwa-pl-5df797a7ca8.unicainstrumentacao.com.br^$all
 ||nazwa-pl-6bbf2033933.unicainstrumentacao.com.br^$all
 ||nazwa-pl-6eecee52fe8.unicainstrumentacao.com.br^$all
 ||nazwa-pl-6f7aaeae81c.unicainstrumentacao.com.br^$all
@@ -28036,6 +28042,7 @@
 ||nazwa-pl-3010094fd70.unicainstrumentacao.com.br^$all
 ||nazwa-pl-a2f2a3141b4.unicainstrumentacao.com.br^$all
 ||nazwa-pl-a4e4b1e175e.unicainstrumentacao.com.br^$all
+||nazwa-pl-a2646e70c0d.unicainstrumentacao.com.br^$all
 ||nazwa-pl-ab774087348.unicainstrumentacao.com.br^$all
 ||nazwa-pl-af49c0a35c5.unicainstrumentacao.com.br^$all
 ||nazwa-pl-affd5cb3fba.unicainstrumentacao.com.br^$all
@@ -28046,6 +28053,7 @@
 ||nazwa-pl-c46a5568144.unicainstrumentacao.com.br^$all
 ||nazwa-pl-c33126a4360.unicainstrumentacao.com.br^$all
 ||nazwa-pl-c7209099698.unicainstrumentacao.com.br^$all
+||nazwa-pl-ce9633d5d5e.unicainstrumentacao.com.br^$all
 ||nazwa-pl-d2f97f13802.unicainstrumentacao.com.br^$all
 ||nazwa-pl-d4966bf61f3.unicainstrumentacao.com.br^$all
 ||nazwa-pl-d53066a9b73.unicainstrumentacao.com.br^$all
@@ -44666,6 +44674,7 @@
 ||wp-pl.dostawanaczas.link^$all
 ||wp-pl.webnode.page^$all
 ||wp.*.top^$doc,domain=top
+||wp.pl-artykul10959894.pl^$all
 ||wp.pl.89151535.cube-cologne.com^$all
 ||wp.pl.cube-cologne.com^$all
 ||wpad.com.ru^$all
