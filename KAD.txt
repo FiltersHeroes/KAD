@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 03 Oct 2023, 22:16 UTC+02:00
-! Version: 2023.10.3.3
+! Last modified: Tue, 03 Oct 2023, 22:30 UTC+02:00
+! Version: 2023.10.3.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -10190,6 +10190,7 @@
 ||captivityd.com^$all
 ||captureddreams.com.au^$all
 ||capuanuss.live^$all
+||car-poland.com^$all
 ||caracarasw.com^$all
 ||caracoling.xyz^$all
 ||carambaba.com^$all
@@ -17728,6 +17729,7 @@
 ||friendmost.site^$all
 ||friendsofunida.org^$all
 ||frihtoni.com^$all
+||friiday.se-sto-1.linodeobjects.com^$all
 ||fring.online^$all
 ||frissites1.blogspot.com^$all
 ||fritz-offers.com^$all
@@ -20755,7 +20757,6 @@
 ||i.p2p-union.com^$all
 ||i.polskadep.xyz^$all
 ||i.yas3n.website^$all
-||ia601500.us.archive.org^$all
 ||ia-renewal.com^$all
 ||iabelats.site^$all
 ||iainsorong.ac.id^$all
@@ -24807,6 +24808,8 @@
 ||lgn2023auth.000webhostapp.com^$all
 ||lgy.skin^$all
 ||lh-pl-0d80a1984f9.digiuaisolutions.com.br^$all
+||lh-pl-1d3fa5da194.digiuaisolutions.com.br^$all
+||lh-pl-1e5a50f1f63.digiuaisolutions.com.br^$all
 ||lh-pl-3e8b4988e36.digiuaisolutions.com.br^$all
 ||lh-pl-4bdce68ab68.digiuaisolutions.com.br^$all
 ||lh-pl-5cd9d107306.digiuaisolutions.com.br^$all
@@ -24814,30 +24817,43 @@
 ||lh-pl-8c3c2d7fa1e.digiuaisolutions.com.br^$all
 ||lh-pl-8c4358e22a9.digiuaisolutions.com.br^$all
 ||lh-pl-8d61e1d20bd.digiuaisolutions.com.br^$all
+||lh-pl-9c12a77fcdf.digiuaisolutions.com.br^$all
+||lh-pl-9d27bc0db80.digiuaisolutions.com.br^$all
 ||lh-pl-9e3999d8ce7.digiuaisolutions.com.br^$all
 ||lh-pl-24f12f2203f.digiuaisolutions.com.br^$all
+||lh-pl-26d25b9f5e2.digiuaisolutions.com.br^$all
 ||lh-pl-59f07aca622.digiuaisolutions.com.br^$all
 ||lh-pl-64e4f093a43.digiuaisolutions.com.br^$all
 ||lh-pl-81cd2170b05.digiuaisolutions.com.br^$all
 ||lh-pl-573ff068a65.digiuaisolutions.com.br^$all
 ||lh-pl-635c58cc4ab.digiuaisolutions.com.br^$all
 ||lh-pl-737cb0e7592.digiuaisolutions.com.br^$all
+||lh-pl-846c4aa531b.digiuaisolutions.com.br^$all
 ||lh-pl-2845c89d023.digiuaisolutions.com.br^$all
+||lh-pl-45705b84e59.digiuaisolutions.com.br^$all
 ||lh-pl-55835c5e957.digiuaisolutions.com.br^$all
 ||lh-pl-927784bc104.digiuaisolutions.com.br^$all
 ||lh-pl-9371764ba6c.digiuaisolutions.com.br^$all
+||lh-pl-20336475f72.digiuaisolutions.com.br^$all
 ||lh-pl-14656384733.digiuaisolutions.com.br^$all
+||lh-pl-a50ed4dd93b.digiuaisolutions.com.br^$all
+||lh-pl-a4889c0db83.digiuaisolutions.com.br^$all
 ||lh-pl-b049408d912.digiuaisolutions.com.br^$all
 ||lh-pl-bc34dc0bf5c.digiuaisolutions.com.br^$all
 ||lh-pl-bfaf20e91ae.digiuaisolutions.com.br^$all
 ||lh-pl-c69f31f6091.digiuaisolutions.com.br^$all
+||lh-pl-c96c0b0336e.digiuaisolutions.com.br^$all
 ||lh-pl-c90397f6067.digiuaisolutions.com.br^$all
+||lh-pl-cba7a55ba2b.digiuaisolutions.com.br^$all
 ||lh-pl-cf0b79936f4.digiuaisolutions.com.br^$all
 ||lh-pl-cf9574287c9.digiuaisolutions.com.br^$all
 ||lh-pl-d62ab045d2c.digiuaisolutions.com.br^$all
 ||lh-pl-d6970e969fc.digiuaisolutions.com.br^$all
+||lh-pl-e7dd8132675.digiuaisolutions.com.br^$all
+||lh-pl-e9d774984a6.digiuaisolutions.com.br^$all
 ||lh-pl-e016fca061b.digiuaisolutions.com.br^$all
 ||lh-pl-e392424b81d.digiuaisolutions.com.br^$all
+||lh-pl-ed568e6af80.digiuaisolutions.com.br^$all
 ||lh-pl-fa385d8fd71.digiuaisolutions.com.br^$all
 ||lhc-solutions.com^$all
 ||li-br.infbal.site^$all
@@ -38794,6 +38810,7 @@
 ||speedometer.life^$all
 ||speedometerusa.com^$all
 ||speedupsm.com^$all
+||speedytrace.com^$all
 ||speek01.website^$all
 ||speissdrin.com^$all
 ||spektrapay.com^$all
