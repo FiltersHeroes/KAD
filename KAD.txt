@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 03 Oct 2023, 22:30 UTC+02:00
-! Version: 2023.10.3.4
+! Last modified: Tue, 03 Oct 2023, 23:35 UTC+02:00
+! Version: 2023.10.3.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2479,7 +2479,7 @@
 ||okna-lesnik.pl^$all
 ||onetdsgo.com^$all
 ||oo.waw.pl^$all
-||ostrowlubelski.pl/libs/$doc,frame,important=~przekierowania-z-google.*
+||ostrowlubelski.pl/libs/$doc,frame,important,domain=~przekierowania-z-google.*
 ||overorlenpost.my-free.website^$all
 ||parcel.*.nildenaksoy.com^$all
 ||pay.onebip.com^$all
@@ -3172,6 +3172,7 @@
 ||7sendi-ng.xyz^$all
 ||7tahe7d4yo7.xyz^$all
 ||07vqj.mjt.lu^$all
+||7wjcjf.sallysmilesfurniture.com^$all
 ||7yp.autos^$all
 ||7ys1mpep6i.neverendingstory.net.pl^$all
 ||07z95.mjt.lu^$all
@@ -6837,6 +6838,7 @@
 ||auth-amfc.web.app^$all
 ||auth-cyber.com^$all
 ||auth-login-nazwapaygo.sozialkult-hsd.de^$all
+||auth-lvysystem.us-southeast-1.linodeobjects.com^$all
 ||auth-mailchecker-pl.web.app^$all
 ||auth-pko.283192.com^$all
 ||auth.amazon.accountdataverifbill.com^$all
@@ -11361,6 +11363,7 @@
 ||cocamine.life^$all
 ||cochineala.pl^$all
 ||cochran.huborform.com.pl^$all
+||cocinabien.es^$all
 ||cocinaysefeliz.com^$all
 ||cockeyeu.com^$all
 ||cockpitcheck.net^$all
@@ -12369,6 +12372,7 @@
 ||d2fe6f5f3d1.bakerstreet.uk.com^$all
 ||d3.doorcat.quest^$all
 ||d3.t0project.site^$all
+||d3a28685b05666d59408392a5e43f5f5.gheca.pl^$all
 ||d3b3ff04b7e.chefs-kitchen.co.uk^$all
 ||d3bd0eb8b2c.johncornell.com^$all
 ||d3byrt.webwave.dev^$all
@@ -21132,6 +21136,7 @@
 ||importcapital.cc^$all
 ||impossiblebacara.shop^$all
 ||impost-store.03265154.xyz^$all
+||impost.6222316.xyz^$all
 ||impost.896594851.xyz^$all
 ||impost.36594345154.xyz^$all
 ||impq23.shopmuopios.online^$all
@@ -23434,6 +23439,7 @@
 ||kazminerals.site^$all
 ||kazmun.top^$all
 ||kazurax.com^$all
+||kb.purocueroecuador.com^$all
 ||kbcrik.design^$all
 ||kbdemolering.se^$all
 ||kbdkb3.webwave.dev^$all
@@ -24810,6 +24816,7 @@
 ||lh-pl-0d80a1984f9.digiuaisolutions.com.br^$all
 ||lh-pl-1d3fa5da194.digiuaisolutions.com.br^$all
 ||lh-pl-1e5a50f1f63.digiuaisolutions.com.br^$all
+||lh-pl-2fb291d53fd.digiuaisolutions.com.br^$all
 ||lh-pl-3e8b4988e36.digiuaisolutions.com.br^$all
 ||lh-pl-4bdce68ab68.digiuaisolutions.com.br^$all
 ||lh-pl-5cd9d107306.digiuaisolutions.com.br^$all
@@ -24817,11 +24824,14 @@
 ||lh-pl-8c3c2d7fa1e.digiuaisolutions.com.br^$all
 ||lh-pl-8c4358e22a9.digiuaisolutions.com.br^$all
 ||lh-pl-8d61e1d20bd.digiuaisolutions.com.br^$all
+||lh-pl-9aeff7892e5.digiuaisolutions.com.br^$all
 ||lh-pl-9c12a77fcdf.digiuaisolutions.com.br^$all
 ||lh-pl-9d27bc0db80.digiuaisolutions.com.br^$all
 ||lh-pl-9e3999d8ce7.digiuaisolutions.com.br^$all
 ||lh-pl-24f12f2203f.digiuaisolutions.com.br^$all
 ||lh-pl-26d25b9f5e2.digiuaisolutions.com.br^$all
+||lh-pl-34edcfec00f.digiuaisolutions.com.br^$all
+||lh-pl-56cd88df328.digiuaisolutions.com.br^$all
 ||lh-pl-59f07aca622.digiuaisolutions.com.br^$all
 ||lh-pl-64e4f093a43.digiuaisolutions.com.br^$all
 ||lh-pl-81cd2170b05.digiuaisolutions.com.br^$all
@@ -24829,9 +24839,11 @@
 ||lh-pl-635c58cc4ab.digiuaisolutions.com.br^$all
 ||lh-pl-737cb0e7592.digiuaisolutions.com.br^$all
 ||lh-pl-846c4aa531b.digiuaisolutions.com.br^$all
+||lh-pl-963d4a929da.digiuaisolutions.com.br^$all
 ||lh-pl-2845c89d023.digiuaisolutions.com.br^$all
 ||lh-pl-45705b84e59.digiuaisolutions.com.br^$all
 ||lh-pl-55835c5e957.digiuaisolutions.com.br^$all
+||lh-pl-93913dddffb.digiuaisolutions.com.br^$all
 ||lh-pl-927784bc104.digiuaisolutions.com.br^$all
 ||lh-pl-9371764ba6c.digiuaisolutions.com.br^$all
 ||lh-pl-20336475f72.digiuaisolutions.com.br^$all
@@ -24844,6 +24856,7 @@
 ||lh-pl-c69f31f6091.digiuaisolutions.com.br^$all
 ||lh-pl-c96c0b0336e.digiuaisolutions.com.br^$all
 ||lh-pl-c90397f6067.digiuaisolutions.com.br^$all
+||lh-pl-c6407150633.digiuaisolutions.com.br^$all
 ||lh-pl-cba7a55ba2b.digiuaisolutions.com.br^$all
 ||lh-pl-cf0b79936f4.digiuaisolutions.com.br^$all
 ||lh-pl-cf9574287c9.digiuaisolutions.com.br^$all
@@ -24852,6 +24865,7 @@
 ||lh-pl-e7dd8132675.digiuaisolutions.com.br^$all
 ||lh-pl-e9d774984a6.digiuaisolutions.com.br^$all
 ||lh-pl-e016fca061b.digiuaisolutions.com.br^$all
+||lh-pl-e83ad7d7e7d.digiuaisolutions.com.br^$all
 ||lh-pl-e392424b81d.digiuaisolutions.com.br^$all
 ||lh-pl-ed568e6af80.digiuaisolutions.com.br^$all
 ||lh-pl-fa385d8fd71.digiuaisolutions.com.br^$all
@@ -29943,6 +29957,7 @@
 ||objective-beaver-0b5be9.netlify.app^$all
 ||objective-offers.com^$all
 ||objectivelysubjective.net^$all
+||objectstorage.eu-paris-1.oraclecloud.com^$all
 ||objectunfolding.com^$all
 ||obl1.plsttrade.top^$all
 ||obl2.plsttrade.top^$all
@@ -34964,12 +34979,14 @@
 ||pub-631af03edd28472fac0716b74c7dbb15.r2.dev^$all
 ||pub-760be299db2240ccace845e3f7ee1f60.r2.dev^$all
 ||pub-00845c5d10be4d3f99626f6780a3f67d.r2.dev^$all
+||pub-889a2c3f80c34919af944823d3171fc8.r2.dev^$all
 ||pub-6987cd1f4f9941a8aa47d9931b648655.r2.dev^$all
 ||pub-13798a0e76674268afc2c3870516c000.r2.dev^$all
 ||pub-400909fce4214b34b74b6f9e9e6a953d.r2.dev^$all
 ||pub-464182e8f7aa40898ce8a93486385cd6.r2.dev^$all
 ||pub-847389e8d4534fc8b9e612bd5b8905ac.r2.dev^$all
 ||pub-2417395ac027462ab16af7572078912d.r2.dev^$all
+||pub-2915537b30ca43bea5b778eb5068fb40.r2.dev^$all
 ||pub-4789857cd0f2434293b98a881b30f8b1.r2.dev^$all
 ||pub-5930780e4ed04af4a9db174f0f09c09c.r2.dev^$all
 ||pub-21500704fb414ef8bd2dc9fcc358c11e.r2.dev^$all
@@ -34977,6 +34994,8 @@
 ||pub-a7aa109e9db04b97ba2fc89747a05209.r2.dev^$all
 ||pub-a404c517cd64428c922b6d5f19cbacbd.r2.dev^$all
 ||pub-a23674b2df0345e98203bf693ab40e20.r2.dev^$all
+||pub-a577515d72a645ff8d5dfe7a41395536.r2.dev^$all
+||pub-b675e44cf4c3425baf7941d6e40ab001.r2.dev^$all
 ||pub-bab316f8fb154fc2990bdef6c0c5a545.r2.dev^$all
 ||pub-babcc613f635468a94e1f1bed49e3b2c.r2.dev^$all
 ||pub-c4f7ec1dd5a848af9ef2a80ec509e53c.r2.dev^$all
@@ -34998,6 +35017,7 @@
 ||pub-e6516381685e48fe8f34ab441b1aec2a.r2.dev^$all
 ||pub-ec4277d882e748159b8078274f92cb81.r2.dev^$all
 ||pub-ecade82d8fa74b62b94595b5fe313a86.r2.dev^$all
+||pub-f78cef456d7747e4ae9ccee36ca02aed.r2.dev^$all
 ||pub-f86556344f8c4364a6d0a62d9e0aa9f3.r2.dev^$all
 ||pub-faa693cd74ad4afb82b316acd61a927d.r2.dev^$all
 ||pub-fee599bea6dd4bad999a8f50e352935e.r2.dev^$all
