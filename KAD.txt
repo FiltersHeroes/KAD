@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 05 Oct 2023, 22:17 UTC+02:00
-! Version: 2023.10.5.3
+! Last modified: Fri, 06 Oct 2023, 10:20 UTC+02:00
+! Version: 2023.10.6.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4192,10 +4192,12 @@
 ||a41.despachodeabogadosmcr.com^$all
 ||a58a99ea2c8ffc2af4bb1962.subpocz.pl^$all
 ||a66.espn365.com^$all
+||a77.awicksin.com^$all
 ||a93.org^$all
 ||a115.despachodeabogadosmcr.com^$all
 ||a129.despachodeabogadosmcr.com^$all
 ||a143.espn365.com^$all
+||a143.paidtomoney.com^$all
 ||a147.espn365.com^$all
 ||a194.despachodeabogadosmcr.com^$all
 ||a227.despachodeabogadosmcr.com^$all
@@ -4204,6 +4206,7 @@
 ||a246.despachodeabogadosmcr.com^$all
 ||a252.despachodeabogadosmcr.com^$all
 ||a270.espn365.com^$all
+||a284.paidtomoney.com^$all
 ||a303.despachodeabogadosmcr.com^$all
 ||a304.info^$all
 ||a322e6b1.365software.co.uk^$all
@@ -4215,6 +4218,7 @@
 ||a434.espn365.com^$all
 ||a437.despachodeabogadosmcr.com^$all
 ||a444.despachodeabogadosmcr.com^$all
+||a445.paidtomoney.com^$all
 ||a457.espn365.com^$all
 ||a459.espn365.com^$all
 ||a472.despachodeabogadosmcr.com^$all
@@ -4247,11 +4251,14 @@
 ||a943.despachodeabogadosmcr.com^$all
 ||a946.despachodeabogadosmcr.com^$all
 ||a953.despachodeabogadosmcr.com^$all
+||a984.paidtomoney.com^$all
 ||a997.espn365.com^$all
 ||a1617ea9b14d9.allbiuro.pl^$all
 ||a04017e0ea0.chefs-kitchen.co.uk^$all
+||a5597.awicksin.com^$all
 ||a6861be93d9642360.temporary.link^$all
 ||a12211.hamdandates.com^$all
+||a12603.aimedia.lk^$all
 ||a12918.paidtomoney.com^$all
 ||a15695.paidtomoney.com^$all
 ||a16962.hamdandates.com^$all
@@ -4261,24 +4268,34 @@
 ||a26199.hamdandates.com^$all
 ||a27596.hamdandates.com^$all
 ||a29426.hamdandates.com^$all
+||a29857.aimedia.lk^$all
 ||a30212.paidtomoney.com^$all
 ||a30940.paidtomoney.com^$all
 ||a36907.paidtomoney.com^$all
 ||a36939.hamdandates.com^$all
+||a37635.awicksin.com^$all
 ||a44003.hamdandates.com^$all
 ||a44985.paidtomoney.com^$all
+||a49395.aimedia.lk^$all
 ||a50822.paidtomoney.com^$all
 ||a52851.hamdandates.com^$all
 ||a58477.paidtomoney.com^$all
+||a63469.awicksin.com^$all
+||a66963.aimedia.lk^$all
+||a71049.awicksin.com^$all
 ||a76830.awicksin.com^$all
+||a80721.awicksin.com^$all
 ||a85525.hamdandates.com^$all
+||a87569.awicksin.com^$all
 ||a87909.paidtomoney.com^$all
 ||a90249.paidtomoney.com^$all
+||a90541.awicksin.com^$all
 ||a96320.paidtomoney.com^$all
 ||a96578.paidtomoney.com^$all
 ||a459830f0ee.bakerstreet.uk.com^$all
 ||a27639317f1.chefs-kitchen.co.uk^$all
 ||a-b-c-list.com^$all
+||a-lamexicana.com^$all
 ||a-liep.org^$all
 ||a-ok-buy.com^$all
 ||a-savemytruswallat.com^$all
@@ -4554,6 +4571,7 @@
 ||ackflow.com^$all
 ||aclaracionessat.com^$all
 ||acmeinv.com^$all
+||acomprarapp.com^$all
 ||aconcagua-imac.com^$all
 ||acosta.qutodiamum.pl^$all
 ||acousticsa.space^$all
@@ -4635,6 +4653,7 @@
 ||ad.har-1mony.xyz^$all
 ||ad.imptrid.site^$all
 ||ada.prxof.live^$all
+||adaanirealty.com^$all
 ||adach-sss.pl^$all
 ||adam.andrzejk.pl^$all
 ||adam.wilewski.pl^$all
@@ -5964,6 +5983,7 @@
 ||annopause.com^$all
 ||annt.start-proff.site^$all
 ||annuaire-belge.com^$all
+||annyrhodes.com^$all
 ||anomalons.live^$all
 ||anon.maskproj.click^$all
 ||anopertbxw.space^$all
@@ -6538,6 +6558,7 @@
 ||assistant-71a4a.firebaseapp.com^$all
 ||assistant-71a4a.web.app^$all
 ||assistant-91e29.web.app^$all
+||assistmsp.com^$all
 ||associatedrenewable.com^$all
 ||assoilment.com^$all
 ||assom.online^$all
@@ -6919,14 +6940,17 @@
 ||auto-handlowcy24.net.pl^$all
 ||auto-handluj.pl^$all
 ||auto-joker.net.pl^$all
+||auto-krakow.pl^$all
 ||auto-krygier.pl^$all
 ||auto-maciejewski.pl^$all
 ||auto-oglaszamy.pl^$all
 ||auto-ogloszenia24.pl^$all
+||auto-poznan.pl^$all
 ||auto-pp.newssinfos.xyz^$all
 ||auto-profits.com^$all
 ||auto-sklepy.pl^$all
 ||auto-sprzedaj.pl^$all
+||auto-wroclaw.pl^$all
 ||auto-wyprzedaz.pl^$all
 ||auto.newtrd.xyz^$all
 ||auto.pl^$all,domain=~www.auto.pl
@@ -6940,11 +6964,13 @@
 ||autogielda-franowski.pl^$all
 ||autogielda-kowalczyk.pl^$all
 ||autogielda-krawczynski.pl^$all
+||autogielda-kubacki.pl^$all
 ||autogielda-nowinski.pl^$all
 ||autogielda-parzyszek.pl^$all
 ||autogielda-pawelczuk.pl^$all
 ||autogielda-roman.pl^$all
 ||autogielda-tomanski.pl^$all
+||autogielda-tomaszczuk.pl^$all
 ||autogielda-tomaszek.pl^$all
 ||autohandel-banaszek.pl^$all
 ||autohandel-barczynski.pl^$all
@@ -7273,6 +7299,7 @@
 ||b21580.paidtomoney.com^$all
 ||b26412.hamdandates.com^$all
 ||b27194.hamdandates.com^$all
+||b28843.aimedia.lk^$all
 ||b31350.paidtomoney.com^$all
 ||b37839.paidtomoney.com^$all
 ||b41231.awicksin.com^$all
@@ -7280,17 +7307,22 @@
 ||b42747.hamdandates.com^$all
 ||b43679.paidtomoney.com^$all
 ||b44153.paidtomoney.com^$all
+||b49180.awicksin.com^$all
 ||b61681ea.vinylfence.uk^$all
 ||b64399.paidtomoney.com^$all
+||b64409.awicksin.com^$all
 ||b70638.paidtomoney.com^$all
 ||b72448.paidtomoney.com^$all
+||b76720.awicksin.com^$all
 ||b79243.paidtomoney.com^$all
 ||b79935.awicksin.com^$all
+||b84018.awicksin.com^$all
 ||b84564.paidtomoney.com^$all
 ||b88490.hamdandates.com^$all
 ||b89518.paidtomoney.com^$all
 ||b91446.hamdandates.com^$all
 ||b92144.hamdandates.com^$all
+||b95742.aimedia.lk^$all
 ||b96420a040.web5.si^$all
 ||b97139.paidtomoney.com^$all
 ||b98093.paidtomoney.com^$all
@@ -7360,6 +7392,7 @@
 ||bactericid.xyz^$all
 ||bad.tcoprog.site^$all
 ||bad.welerpro.com^$all
+||badabusinessjaipur.com^$all
 ||badalekor-investing.pro^$all
 ||badanus.com^$all
 ||badarngood.com^$all
@@ -8397,6 +8430,7 @@
 ||bestratedroofers.com^$all
 ||bestriped.org^$all
 ||bestroni-com.preview-domain.com^$all
+||bestseodigest.com^$all
 ||bestshopping-voucher.com^$all
 ||beststocapp.com^$all
 ||beststocinv.com^$all
@@ -8409,6 +8443,7 @@
 ||bestweb-info.webnode.fr^$all
 ||bestxi.net^$all
 ||beswarm.info^$all
+||bet88win88.com^$all
 ||bet777red.com^$all
 ||beta-cs2.cc^$all
 ||beta.cs2-strike.com^$all
@@ -8429,6 +8464,7 @@
 ||betrow.xyz^$all
 ||betsette.com^$all
 ||betsmove439.com^$all
+||better-chances.com^$all
 ||better-life4u.site^$all
 ||betteradiamondwithaflawthanapebblewithout.com^$all
 ||betterpro.mstock.top^$all
@@ -8499,6 +8535,7 @@
 ||bhavita.org^$all
 ||bhbcentral.com^$all
 ||bhdnc.neomai.site^$all
+||bhealthyeats.com^$all
 ||bhghh.com^$all
 ||bhgrxfjqy1r.digital^$all
 ||bhh.tayki.site^$all
@@ -9546,8 +9583,10 @@
 ||breatheprotest.com^$all
 ||breccial.com^$all
 ||bredom.online^$all
+||breensprecision.com^$all
 ||breeze-bookkeeping.net^$all
 ||breeze-desk.com^$all
+||breezelife804.com^$all
 ||breezeviewer.site^$all
 ||breezzeviewer84.site^$all
 ||brejko-xyz.preview-domain.com^$all
@@ -9789,6 +9828,7 @@
 ||burpedrowt.com^$all
 ||burpeefx.com^$all
 ||burrstones.com^$all
+||bursapasta.com^$all
 ||burst-offers.com^$all
 ||burtony-xyz.preview-domain.com^$all
 ||bus1.eutradepeopl.top^$all
@@ -9951,6 +9991,7 @@
 ||byha.wertas.xyz^$all
 ||byhalias.org^$all
 ||byleseaqou.live^$all
+||bylorenamoraes.com^$all
 ||byping.com^$all
 ||byr9k.everadpro.click^$all
 ||byr9k.interfoxprog.click^$all
@@ -10018,12 +10059,14 @@
 ||c306.espn365.com^$all
 ||c307.despachodeabogadosmcr.com^$all
 ||c344.despachodeabogadosmcr.com^$all
+||c348.paidtomoney.com^$all
 ||c354.despachodeabogadosmcr.com^$all
 ||c368a1f3929.chefs-kitchen.co.uk^$all
 ||c388.paidtomoney.com^$all
 ||c398.espn365.com^$all
 ||c399.despachodeabogadosmcr.com^$all
 ||c409.espn365.com^$all
+||c413.paidtomoney.com^$all
 ||c418.despachodeabogadosmcr.com^$all
 ||c419.despachodeabogadosmcr.com^$all
 ||c432.despachodeabogadosmcr.com^$all
@@ -10036,6 +10079,7 @@
 ||c483.espn365.com^$all
 ||c486.espn365.com^$all
 ||c487.despachodeabogadosmcr.com^$all
+||c497.paidtomoney.com^$all
 ||c507.espn365.com^$all
 ||c509.espn365.com^$all
 ||c513.info^$all
@@ -10080,29 +10124,36 @@
 ||c1000.despachodeabogadosmcr.com^$all
 ||c7495c1bba9f0c2489d34774d8c361ae.lisapwa.pl^$all
 ||c11133.paidtomoney.com^$all
+||c12245.awicksin.com^$all
 ||c13322.hamdandates.com^$all
 ||c14250.hamdandates.com^$all
 ||c18104.paidtomoney.com^$all
+||c22571.awicksin.com^$all
 ||c24667d86c028852e.tjwwnet.pl^$all
 ||c27015.paidtomoney.com^$all
 ||c31309.paidtomoney.com^$all
 ||c32607.hamdandates.com^$all
 ||c36280.hamdandates.com^$all
 ||c37498.awicksin.com^$all
+||c43062.awicksin.com^$all
 ||c48341.paidtomoney.com^$all
+||c48492.awicksin.com^$all
 ||c52098.paidtomoney.com^$all
 ||c57700.hamdandates.com^$all
 ||c58432.paidtomoney.com^$all
 ||c59545.paidtomoney.com^$all
+||c63497.awicksin.com^$all
 ||c66686.paidtomoney.com^$all
 ||c68053.hamdandates.com^$all
 ||c075389e410423f17f133bc74f29.reclmnae.pl^$all
 ||c77593.paidtomoney.com^$all
 ||c80425.paidtomoney.com^$all
 ||c80783.hamdandates.com^$all
+||c82803.awicksin.com^$all
 ||c83649.paidtomoney.com^$all
 ||c85228.hamdandates.com^$all
 ||c88050.hamdandates.com^$all
+||c90967.awicksin.com^$all
 ||c92122.hamdandates.com^$all
 ||c92342.hamdandates.com^$all
 ||c94451.hamdandates.com^$all
@@ -10160,6 +10211,7 @@
 ||cabshub.com^$all
 ||cacao-moscow.com^$all
 ||cacaoda.com^$all
+||cacauoutlet.com^$all
 ||cache.server560960.nazwa.pl^$all
 ||cacheprotection.com^$all
 ||cacherhub.net^$all
@@ -11132,6 +11184,7 @@
 ||chomikuj.$doc,domain=~bing.*|~chomikuj.pl|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*
 ||chomlkui.pl^$all
 ||chonisadoust.ml^$all
+||choose-your-cbd.com^$all
 ||choosecaleb.com^$all
 ||chordbox.com^$all
 ||choupp.youcan.shop^$all
@@ -11479,6 +11532,7 @@
 ||coachjesusdiaz.com^$all
 ||coachworkspace.com^$all
 ||coagulose.life^$all
+||coalindialimited.com^$all
 ||coastaldrainageexperts.com^$all
 ||coastalriversrealty.com^$all
 ||coastingpork.com^$all
@@ -12549,6 +12603,7 @@
 ||d275.espn365.com^$all
 ||d277.despachodeabogadosmcr.com^$all
 ||d295.espn365.com^$all
+||d295.paidtomoney.com^$all
 ||d310.despachodeabogadosmcr.com^$all
 ||d339.despachodeabogadosmcr.com^$all
 ||d341.despachodeabogadosmcr.com^$all
@@ -12576,8 +12631,11 @@
 ||d631.hamdandates.com^$all
 ||d664c220c3c.chefs-kitchen.co.uk^$all
 ||d669.espn365.com^$all
+||d673.awicksin.com^$all
 ||d673.espn365.com^$all
+||d681.paidtomoney.com^$all
 ||d685.despachodeabogadosmcr.com^$all
+||d689.paidtomoney.com^$all
 ||d690.despachodeabogadosmcr.com^$all
 ||d698c2b46e026f7d.smsknt.pl^$all
 ||d701.espn365.com^$all
@@ -12609,8 +12667,10 @@
 ||d991.espn365.com^$all
 ||d997.despachodeabogadosmcr.com^$all
 ||d2620c26f1b3d30bf42f845275.warszua.pl^$all
+||d4974.awicksin.com^$all
 ||d9067cdd96edc29c62241d0c494.tlsens.pl^$all
 ||d9523a78630.johncornell.com^$all
+||d13778.awicksin.com^$all
 ||d15681.paidtomoney.com^$all
 ||d20732.hamdandates.com^$all
 ||d21890.paidtomoney.com^$all
@@ -12618,23 +12678,30 @@
 ||d25812.paidtomoney.com^$all
 ||d26428.awicksin.com^$all
 ||d26911.hamdandates.com^$all
+||d27215.awicksin.com^$all
 ||d27904.paidtomoney.com^$all
+||d37369.awicksin.com^$all
+||d43129.awicksin.com^$all
 ||d43229.paidtomoney.com^$all
 ||d46866.hamdandates.com^$all
 ||d46917.paidtomoney.com^$all
 ||d47476.awicksin.com^$all
 ||d47664.hamdandates.com^$all
+||d49968.awicksin.com^$all
+||d66936.aimedia.lk^$all
 ||d68219.paidtomoney.com^$all
 ||d71765.hamdandates.com^$all
 ||d74891.hamdandates.com^$all
 ||d80389.paidtomoney.com^$all
 ||d82309.hamdandates.com^$all
 ||d83138.paidtomoney.com^$all
+||d90479.awicksin.com^$all
 ||d92323.hamdandates.com^$all
 ||d92526.paidtomoney.com^$all
 ||d95502.paidtomoney.com^$all
 ||d95853.hamdandates.com^$all
 ||d95991.paidtomoney.com^$all
+||d99625.awicksin.com^$all
 ||d923690e7f76dcf15add2569e284e96c.boawgr.pl^$all
 ||d583249782c126d82582793190125379.forgro.pl^$all
 ||d2664888678.chefs-kitchen.co.uk^$all
@@ -12789,6 +12856,7 @@
 ||darkishness.com^$all
 ||darkpackt.site^$all
 ||darksaid.inventnamb.click^$all
+||darlasawler.com^$all
 ||darleshistory.com^$all
 ||darlik-investing.pro^$all
 ||darlingp.site^$all
@@ -13441,6 +13509,7 @@
 ||device-bridge.net^$all
 ||devicedetectedions.com^$all
 ||devicelocation.live^$all
+||devices4ull.quest^$all
 ||devidteam.com^$all
 ||deviela.com^$all
 ||deviltech.com^$all
@@ -13825,6 +13894,7 @@
 ||direct-f434d.web.app^$all
 ||direct-pro.space^$all
 ||direction-51f4e.web.app^$all
+||direction-a4b4a.web.app^$all
 ||directionxanc2021.ddns.net^$all
 ||directlyn.sbs^$all
 ||directlyv.sbs^$all
@@ -14086,6 +14156,7 @@
 ||doctopdftech.com^$all
 ||doctor.supa-seal.com^$all
 ||doctoralaniz.com^$all
+||doctorbless.com^$all
 ||doctorcellmedellin.com^$all
 ||doctorscreener.com^$all
 ||doctorsph.com^$all
@@ -14307,6 +14378,7 @@
 ||download.inboxace.com^$all
 ||download.televisionfanatic.com^$all
 ||download.weatherblink.com^$all
+||downloadcentr.com^$all
 ||downsizeavonlake.com^$all
 ||downstreamenergy.online^$all
 ||downtimes.live^$all
@@ -14856,6 +14928,7 @@
 ||eac1s2.webwave.dev^$all
 ||eackeewkin.site^$all
 ||eacvjzgwdxntkspm.com^$all
+||eadsenergy.com^$all
 ||eager-jackson.198-38-88-89.plesk.page^$all
 ||eagleyeinc.com^$all
 ||ealaclarke.com^$all
@@ -14920,6 +14993,7 @@
 ||ebabako.com^$all
 ||ebapl.com^$all
 ||ebas.utulo.site^$all
+||ebayreallysucks.com^$all
 ||ebd8f2cac18.johncornell.com^$all
 ||ebd-cda.pl^$all
 ||ebeerleague.com^$all
@@ -14981,6 +15055,7 @@
 ||ecomcollective.org^$all
 ||econom-zx.cyou^$all
 ||economanagegate.cfd^$all
+||economica-good.online^$all
 ||economie-2024.com^$all
 ||economised.life^$all
 ||economy-resource.com^$all
@@ -15474,6 +15549,7 @@
 ||encouragementapp.cfd^$all
 ||encqs.infolocity.com^$all
 ||encrdrct.com^$all
+||encryptercoin.com^$all
 ||encuestasmental.filesusr.com^$all
 ||encyclopa.com^$all
 ||encyclotronica.com^$all
@@ -15654,6 +15730,7 @@
 ||equipamiento4x4.com^$all
 ||equipemontreal.com^$all
 ||equity-broker.cc^$all
+||equitybuildersamerica.com^$all
 ||equivalentcreative.com^$all
 ||eqvpismqyp.web.app^$all
 ||er-6.cfd^$all
@@ -15972,6 +16049,7 @@
 ||evervide.e-monsite.com^$all
 ||everydayfaithexchange.org^$all
 ||everydayme.website^$all
+||everythingforyourgifts.com^$all
 ||everythingrentsapp.com^$all
 ||everyweekforum.xyz^$all
 ||evg.finnewspl.com^$all
@@ -16040,6 +16118,7 @@
 ||exchanger.viorenginetest.com^$all
 ||excitingnightliife.site^$all
 ||exclusiveinsiders.com^$all
+||exclusivetourcordoba.com^$all
 ||excogitate.live^$all
 ||excsccial.site^$all
 ||excusator.info^$all
@@ -16222,6 +16301,7 @@
 ||f49.espn365.com^$all
 ||f51ba124934.chefs-kitchen.co.uk^$all
 ||f53d4175d98.chefs-kitchen.co.uk^$all
+||f54.paidtomoney.com^$all
 ||f64.despachodeabogadosmcr.com^$all
 ||f72d5bcb246.johncornell.com^$all
 ||f73.espn365.com^$all
@@ -16249,6 +16329,7 @@
 ||f318.espn365.com^$all
 ||f319.espn365.com^$all
 ||f320.despachodeabogadosmcr.com^$all
+||f330.paidtomoney.com^$all
 ||f342.despachodeabogadosmcr.com^$all
 ||f349.espn365.com^$all
 ||f363.despachodeabogadosmcr.com^$all
@@ -16305,6 +16386,7 @@
 ||f876.despachodeabogadosmcr.com^$all
 ||f930.despachodeabogadosmcr.com^$all
 ||f937.espn365.com^$all
+||f937.paidtomoney.com^$all
 ||f951.despachodeabogadosmcr.com^$all
 ||f956.espn365.com^$all
 ||f958.despachodeabogadosmcr.com^$all
@@ -16316,9 +16398,12 @@
 ||f3774afa2e94c14d22.biuroall.pl^$all
 ||f5447.site^$all
 ||f6566.hamdandates.com^$all
+||f6859.awicksin.com^$all
+||f10040.awicksin.com^$all
 ||f11559.paidtomoney.com^$all
 ||f12907.paidtomoney.com^$all
 ||f23657.paidtomoney.com^$all
+||f26900.awicksin.com^$all
 ||f27238.hamdandates.com^$all
 ||f28941c4630.chefs-kitchen.co.uk^$all
 ||f29771.hamdandates.com^$all
@@ -16328,12 +16413,18 @@
 ||f48138.paidtomoney.com^$all
 ||f50008.hamdandates.com^$all
 ||f51237.paidtomoney.com^$all
+||f51410.awicksin.com^$all
+||f54528.awicksin.com^$all
 ||f61290.hamdandates.com^$all
+||f61874.awicksin.com^$all
 ||f64803.paidtomoney.com^$all
 ||f65674.hamdandates.com^$all
 ||f69472.hamdandates.com^$all
 ||f70896e52938ef7c34489ad19a4cf431.lisapwa.pl^$all
 ||f71255.paidtomoney.com^$all
+||f73783.awicksin.com^$all
+||f76991.awicksin.com^$all
+||f79847.aimedia.lk^$all
 ||f82918.hamdandates.com^$all
 ||f83708.hamdandates.com^$all
 ||f87403.hamdandates.com^$all
@@ -16345,6 +16436,7 @@
 ||f97343a585f.chefs-kitchen.co.uk^$all
 ||f0097386a5592cbd7cf.allpomoc.pl^$all
 ||f99209.paidtomoney.com^$all
+||f99575.aimedia.lk^$all
 ||f0574089.xsph.ru^$all
 ||f0574889.bakerstreetfinance.tv^$all
 ||f7107446c93.chefs-kitchen.co.uk^$all
@@ -16548,6 +16640,7 @@
 ||familyllbf.space^$all
 ||familytree.swantech.ae^$all
 ||famous-piroshki-a53e67.netlify.app^$all
+||famouspeoplelife.com^$all
 ||fanates.shop^$all
 ||fancyact.com^$all
 ||fancyw.sbs^$all
@@ -17417,6 +17510,7 @@
 ||first1business.site^$all
 ||first-hand.mamiya-club.com^$all
 ||first.top-invst.store^$all
+||firstassemblyofgodmeriden.com^$all
 ||firstavenuegroup.com^$all
 ||firstborn.info^$all
 ||firstcalldisaster.com^$all
@@ -17456,6 +17550,7 @@
 ||fiuf.autos^$all
 ||five.musttoppinv.help^$all
 ||fivecmetsa.com^$all
+||fivemmod.com^$all
 ||fivenightpl.space^$all
 ||fivestargaragedoorrepair.com^$all
 ||fivestarhunting.com^$all
@@ -17533,6 +17628,7 @@
 ||flixbeat.online^$all
 ||flixmax.stream^$all
 ||flixmovies22.xyz^$all
+||fliz-movie.com^$all
 ||fllcjh5kdl.digital^$all
 ||fllicapone.com^$all
 ||floatingmotion.com^$all
@@ -17540,6 +17636,7 @@
 ||flod.fostt.xyz^$all
 ||flod.kowt.site^$all
 ||flojetl.com^$all
+||floorcleanermanufacturers.com^$all
 ||floorcovers.live^$all
 ||floorssoftware.shop^$all
 ||floral-water-8976.on.fleek.co^$all
@@ -18917,6 +19014,7 @@
 ||glamazzzon.site^$all
 ||glambizfactorr.site^$all
 ||glamdom.site^$all
+||glameventstudio.com^$all
 ||glamfactorxxelite.site^$all
 ||glamguruuu.site^$all
 ||glamhaven.site^$all
@@ -20016,10 +20114,13 @@
 ||hamsteri.shop^$all
 ||hamurustack.click^$all
 ||hanabishi.net^$all
+||hananraz.com^$all
 ||handbaw.com^$all
 ||handcraftedbymatt.com^$all
 ||handdryer.space^$all
 ||handel-auto.pl^$all
+||handel-lokalnie.net.pl^$all
+||handel-lokalny.waw.pl^$all
 ||handel-motoryzacyja48.net.pl^$all
 ||handel-samochodowy100.net.pl^$all
 ||handeljuzteraz.site^$all
@@ -20504,6 +20605,7 @@
 ||himiene.site^$all
 ||himjhnight.site^$all
 ||himkano-com.preview-domain.com^$all
+||himlifeschool.com^$all
 ||himoptrf.com^$all
 ||himycuuzuy.live^$all
 ||hin.kowt.site^$all
@@ -20746,6 +20848,7 @@
 ||houselessnesses.org^$all
 ||houseofmedics.com^$all
 ||housesitprayerfully.com^$all
+||housesittingcontacts.com^$all
 ||houstonhomestour.com^$all
 ||houusaccrout.site^$all
 ||hovarokosak.com^$all
@@ -20754,6 +20857,7 @@
 ||howardpencinc.online^$all
 ||howardzinnfilm.com^$all
 ||howdoicancels.com^$all
+||howdoid.com^$all
 ||howevers.cfd^$all
 ||howeybks.space^$all
 ||howibecameawebdeveloper.com^$all
@@ -21831,6 +21935,7 @@
 ||inp0st.6090217.xyz^$all
 ||inp0st.74865326.xyz^$all
 ||inp-t.sbs^$all
+||inpersonagain.com^$all
 ||inpgon.com^$all
 ||inplanwetrusst.site^$all
 ||inpoost.top^$all
@@ -22568,6 +22673,7 @@
 ||inwestdiscer.com^$all
 ||inwestgre.com^$all
 ||inwestintwojaprzyszlosc.site^$all
+||inwestowacpolska.space^$all
 ||inwestprebet.jonnaninajozefina.pl^$all
 ||inwestujemy24.pl^$all
 ||inwestujmyrazk.site^$all
@@ -23588,7 +23694,9 @@
 ||kangasnew.com^$all
 ||kangot.com^$all
 ||kangtotolink.com^$all
+||kaniamariusz.viktorianiemiec.info.pl^$all
 ||kans.hair^$all
+||kansaleyes.com^$all
 ||kansassportbet.com^$all
 ||kantor.myappaccount.net^$all
 ||kaolinitic.com^$all
@@ -25084,6 +25192,7 @@
 ||lgy.skin^$all
 ||lh-pl-0ac952bac43.digiuaisolutions.com.br^$all
 ||lh-pl-0d80a1984f9.digiuaisolutions.com.br^$all
+||lh-pl-0e170057017.digiuaisolutions.com.br^$all
 ||lh-pl-01ab922735a.digiuaisolutions.com.br^$all
 ||lh-pl-1aff3d3dda2.digiuaisolutions.com.br^$all
 ||lh-pl-1b8dfd7c116.digiuaisolutions.com.br^$all
@@ -25107,6 +25216,7 @@
 ||lh-pl-4bdce68ab68.digiuaisolutions.com.br^$all
 ||lh-pl-4f851bde48b.digiuaisolutions.com.br^$all
 ||lh-pl-5b86d53190f.digiuaisolutions.com.br^$all
+||lh-pl-5c7f16f2901.digiuaisolutions.com.br^$all
 ||lh-pl-5cd9d107306.digiuaisolutions.com.br^$all
 ||lh-pl-5e04f37714a.digiuaisolutions.com.br^$all
 ||lh-pl-5f5e51d406e.digiuaisolutions.com.br^$all
@@ -25118,6 +25228,7 @@
 ||lh-pl-7bc7a7eb944.digiuaisolutions.com.br^$all
 ||lh-pl-7f72079acc4.digiuaisolutions.com.br^$all
 ||lh-pl-8c3c2d7fa1e.digiuaisolutions.com.br^$all
+||lh-pl-8c73ca5274b.digiuaisolutions.com.br^$all
 ||lh-pl-8c4358e22a9.digiuaisolutions.com.br^$all
 ||lh-pl-8c8660cecba.digiuaisolutions.com.br^$all
 ||lh-pl-8d61e1d20bd.digiuaisolutions.com.br^$all
@@ -25128,6 +25239,7 @@
 ||lh-pl-9c12a77fcdf.digiuaisolutions.com.br^$all
 ||lh-pl-9d27bc0db80.digiuaisolutions.com.br^$all
 ||lh-pl-9de505f1b9c.digiuaisolutions.com.br^$all
+||lh-pl-9e96c43698a.digiuaisolutions.com.br^$all
 ||lh-pl-9e3999d8ce7.digiuaisolutions.com.br^$all
 ||lh-pl-20a9e3f3dfa.digiuaisolutions.com.br^$all
 ||lh-pl-20a051f2820.digiuaisolutions.com.br^$all
@@ -25138,6 +25250,7 @@
 ||lh-pl-29e7378d35f.digiuaisolutions.com.br^$all
 ||lh-pl-34edcfec00f.digiuaisolutions.com.br^$all
 ||lh-pl-41fcc189b35.digiuaisolutions.com.br^$all
+||lh-pl-46d6f5887eb.digiuaisolutions.com.br^$all
 ||lh-pl-47e02695f3d.digiuaisolutions.com.br^$all
 ||lh-pl-49d9b69aa69.digiuaisolutions.com.br^$all
 ||lh-pl-56cd88df328.digiuaisolutions.com.br^$all
@@ -25154,14 +25267,17 @@
 ||lh-pl-96e402037cc.digiuaisolutions.com.br^$all
 ||lh-pl-97bd3950126.digiuaisolutions.com.br^$all
 ||lh-pl-102d8229f95.digiuaisolutions.com.br^$all
+||lh-pl-105b0601094.digiuaisolutions.com.br^$all
 ||lh-pl-122ec820652.digiuaisolutions.com.br^$all
 ||lh-pl-144a6332284.digiuaisolutions.com.br^$all
 ||lh-pl-187bcc74d4e.digiuaisolutions.com.br^$all
 ||lh-pl-0298dbe3a67.digiuaisolutions.com.br^$all
 ||lh-pl-313eccf4efd.digiuaisolutions.com.br^$all
+||lh-pl-399d528fb3b.digiuaisolutions.com.br^$all
 ||lh-pl-469cd1c5905.digiuaisolutions.com.br^$all
 ||lh-pl-573ff068a65.digiuaisolutions.com.br^$all
 ||lh-pl-631b9e15a26.digiuaisolutions.com.br^$all
+||lh-pl-634fe4f167a.digiuaisolutions.com.br^$all
 ||lh-pl-635c58cc4ab.digiuaisolutions.com.br^$all
 ||lh-pl-686c6e8c5ff.digiuaisolutions.com.br^$all
 ||lh-pl-704cc01bf8a.digiuaisolutions.com.br^$all
@@ -25215,6 +25331,7 @@
 ||lh-pl-aef5a6ebd69.digiuaisolutions.com.br^$all
 ||lh-pl-b7d0ff8e782.digiuaisolutions.com.br^$all
 ||lh-pl-b57e04cbd8e.digiuaisolutions.com.br^$all
+||lh-pl-b85c847dedc.digiuaisolutions.com.br^$all
 ||lh-pl-b472db427cd.digiuaisolutions.com.br^$all
 ||lh-pl-b05479bfcc1.digiuaisolutions.com.br^$all
 ||lh-pl-b27488e06c2.digiuaisolutions.com.br^$all
@@ -25239,6 +25356,7 @@
 ||lh-pl-cde17cac6e3.digiuaisolutions.com.br^$all
 ||lh-pl-cf0b79936f4.digiuaisolutions.com.br^$all
 ||lh-pl-cf9574287c9.digiuaisolutions.com.br^$all
+||lh-pl-d5ac5d006e7.digiuaisolutions.com.br^$all
 ||lh-pl-d6fb2c691f3.digiuaisolutions.com.br^$all
 ||lh-pl-d7afa32525f.digiuaisolutions.com.br^$all
 ||lh-pl-d62ab045d2c.digiuaisolutions.com.br^$all
@@ -25275,6 +25393,7 @@
 ||lh-pl-fa385d8fd71.digiuaisolutions.com.br^$all
 ||lh-pl-fc12c4c2afc.digiuaisolutions.com.br^$all
 ||lh-pl-fdf7da8031f.digiuaisolutions.com.br^$all
+||lh-pl-fefaba762fb.digiuaisolutions.com.br^$all
 ||lhc-solutions.com^$all
 ||li-br.infbal.site^$all
 ||li.online-cashhh.top^$all
@@ -25779,6 +25898,7 @@
 ||lnsurex-ks.com^$all
 ||lntl-lnc.top^$all
 ||lnxzj.hklae.pl^$all
+||lo1mlawa.cypriansczepanski.pl^$all
 ||lo2gin-4watching.tvshows2pay.website^$all
 ||lo109y.webwave.dev^$all
 ||lo.marcukesh.top^$all
@@ -26357,6 +26477,7 @@
 ||madenik.online^$all
 ||madeprogressive.com^$all
 ||madf.sbs^$all
+||madhaventp.com^$all
 ||madhva.live^$all
 ||madialatal.com^$all
 ||madisenharper.com^$all
@@ -26411,6 +26532,7 @@
 ||maibbiz.club^$all
 ||maibbiz.info^$all
 ||maibbiz.top^$all
+||maiesha.com^$all
 ||mail03.lwspanel.com^$all
 ||mail-107442-104832gbh.weeblysite.com^$all
 ||mail-account-verify-b1da2.web.app^$all
@@ -27114,6 +27236,7 @@
 ||me.welcme-proftr.site^$all
 ||meacock.live^$all
 ||meadowandpondf.cyou^$all
+||meadowrpond.cyou^$all
 ||meadows.liswea.opole.pl^$all
 ||meagan.transprt.info.pl^$all
 ||meandersba.com^$all
@@ -27177,6 +27300,7 @@
 ||meetingsy.com^$all
 ||meetradar.com^$all
 ||meetskoy.uno^$all
+||mef-c.dorismatyg.top^$all
 ||mefhask.space^$all
 ||mefihai5.pro^$all
 ||mega-box.top^$all
@@ -29470,6 +29594,7 @@
 ||new466.despachodeabogadosmcr.com^$all
 ||new480.espn365.com^$all
 ||new482.despachodeabogadosmcr.com^$all
+||new483.paidtomoney.com^$all
 ||new488.despachodeabogadosmcr.com^$all
 ||new508.despachodeabogadosmcr.com^$all
 ||new514.despachodeabogadosmcr.com^$all
@@ -29481,6 +29606,7 @@
 ||new630.espn365.com^$all
 ||new633.despachodeabogadosmcr.com^$all
 ||new646.despachodeabogadosmcr.com^$all
+||new652.paidtomoney.com^$all
 ||new669.despachodeabogadosmcr.com^$all
 ||new688.espn365.com^$all
 ||new728.paidtomoney.com^$all
@@ -29492,6 +29618,7 @@
 ||new804.despachodeabogadosmcr.com^$all
 ||new806.despachodeabogadosmcr.com^$all
 ||new810.despachodeabogadosmcr.com^$all
+||new815.paidtomoney.com^$all
 ||new837.despachodeabogadosmcr.com^$all
 ||new839.despachodeabogadosmcr.com^$all
 ||new841.despachodeabogadosmcr.com^$all
@@ -29508,10 +29635,13 @@
 ||new994.despachodeabogadosmcr.com^$all
 ||new10454.paidtomoney.com^$all
 ||new12521.hamdandates.com^$all
+||new14489.awicksin.com^$all
 ||new15875.hamdandates.com^$all
 ||new16113.paidtomoney.com^$all
+||new16919.awicksin.com^$all
 ||new17446.hamdandates.com^$all
 ||new19420.paidtomoney.com^$all
+||new24108.awicksin.com^$all
 ||new24927.paidtomoney.com^$all
 ||new25042.paidtomoney.com^$all
 ||new26190.awicksin.com^$all
@@ -29520,8 +29650,12 @@
 ||new28302.paidtomoney.com^$all
 ||new31780.paidtomoney.com^$all
 ||new36553.paidtomoney.com^$all
+||new37820.awicksin.com^$all
 ||new44802.hamdandates.com^$all
+||new45795.aimedia.lk^$all
+||new53980.aimedia.lk^$all
 ||new54212.paidtomoney.com^$all
+||new59040.awicksin.com^$all
 ||new61568.paidtomoney.com^$all
 ||new63151.hamdandates.com^$all
 ||new63628.paidtomoney.com^$all
@@ -29529,9 +29663,11 @@
 ||new69865.paidtomoney.com^$all
 ||new71299.paidtomoney.com^$all
 ||new75758.paidtomoney.com^$all
+||new80366.awicksin.com^$all
 ||new83567.paidtomoney.com^$all
 ||new89299.hamdandates.com^$all
 ||new92334.paidtomoney.com^$all
+||new94811.awicksin.com^$all
 ||new96132.paidtomoney.com^$all
 ||new-3a037.web.app^$all
 ||new-hype.pl^$all
@@ -29956,6 +30092,7 @@
 ||niejiawei.com^$all
 ||niemiecki.sportbetsignupcode.com^$all
 ||nieql.kompromisdizajn.com^$all
+||nieruchomisci-zylewski.pl^$all
 ||nieruchomosci24-polska.pl^$all
 ||nieruchomosci-kowalczuk.pl^$all
 ||nieruchomosci-olszewski.pl^$all
@@ -36745,6 +36882,7 @@
 ||reviagaraget.com^$all
 ||review-opendocu.myportfolio.com^$all
 ||reviewers.site^$all
+||reviltaluxurycreams.com^$all
 ||revinvoneprogyou.site^$all
 ||revisited.life^$all
 ||revjolt.net^$all
@@ -36852,6 +36990,7 @@
 ||rieprocgus.cf^$all
 ||riesobeer.tk^$all
 ||rifampsnvg.space^$all
+||rigaseguros.com^$all
 ||righall.com^$all
 ||righnowinves.com^$all
 ||rightappgl.space^$all
@@ -36878,6 +37017,7 @@
 ||rinehartfarm.com^$all
 ||ringcentral.ailselegrapsmbr.com^$all
 ||ringtonebasics.me^$all
+||riniainu.com^$all
 ||rininstouw.xyz^$all
 ||riosher.uno^$all
 ||riowlldpro.site^$all
@@ -37877,6 +38017,7 @@
 ||searchohiomls.com^$all
 ||searchwinner.site^$all
 ||searcyphotos.com^$all
+||seashantysong.com^$all
 ||seasonsyacht.com^$all
 ||seatdraini.com^$all
 ||sebarcelona.com^$all
@@ -38128,6 +38269,7 @@
 ||sermoneer.life^$all
 ||sermonical.live^$all
 ||seroprognosis.live^$all
+||serpcoach.com^$all
 ||serpelat.com^$all
 ||serpentinian.com^$all
 ||serrrr.kolibers.site^$all
@@ -38514,6 +38656,7 @@
 ||shildevax.com^$all
 ||shilicn.com^$all
 ||shillingsworths.live^$all
+||shilohtx.com^$all
 ||shimmer-triangular-deal.glitch.me^$all
 ||shindighurled.com^$all
 ||shinenewsbushes.com^$all
@@ -40293,6 +40436,10 @@
 ||supertopstudio.com^$all
 ||supervisorships.info^$all
 ||superwaif.com^$all
+||superwizja-wp24h.com.pl^$all
+||superwizja-wp24h.pl^$all
+||superwizjer24-swiezeinformacje.eu^$all
+||superwizjer24-swiezeinformacje.pl^$all
 ||superwizjer-info24.eu^$all
 ||supipequod.site^$all
 ||suplive-live-owa-com.node.cloudlets.zone^$all
@@ -40304,7 +40451,9 @@
 ||suppmaralich.ml^$all
 ||support-allegro-account.pl^$all
 ||support-client-renouv.com^$all
+||support-coinline.com^$all
 ||support-express-info.cleverapps.io^$all
+||support-fb.pages.mus.br^$all
 ||support-fb.pages.pro.br^$all
 ||support-kb.info^$all
 ||support-setting.serv00.net^$all
@@ -42859,6 +43008,7 @@
 ||twoje-fotki.cleverapps.io^$all
 ||twoje-info-24h.x9.eu^$all
 ||twoje-lakocie.top^$all
+||twoje-miasto24h.pl^$all
 ||twoje-miasto.eu5.net^$all
 ||twoje-photo.eu^$all
 ||twoje-potwierdzenie.com^$all
@@ -43332,6 +43482,7 @@
 ||upgrade-your-mind.com^$all
 ||upholdng.com^$all
 ||uphovepan.com^$all
+||uplaw.info^$all
 ||uplweni93yzs.com^$all
 ||upopefmcuq.digital^$all
 ||uppdragledning.se^$all
@@ -44049,6 +44200,7 @@
 ||vinted-de94.jectwalsalz.tk^$all
 ||vinted-dksf.order9451.info^$all
 ||vinted-dostawa-pl006.ink^$all
+||vinted-es.id19218.com^$all
 ||vinted-es.id19842.com^$all
 ||vinted-flm.id-9467.com^$all
 ||vinted-fr.id148612.com^$all
@@ -44864,6 +45016,7 @@
 ||vlmauzih13.lisanse.com^$all
 ||vlnted-gb.hopal.info^$all
 ||vlnted-gb.kontkt.info^$all
+||vlnted-gb.sdopl.info^$all
 ||vlnted-hu.request8542.cloud^$all
 ||vlnted-info.byt-bobta.shop^$all
 ||vlnted-info.byt-ufpev.shop^$all
@@ -45856,6 +46009,7 @@
 ||willful.life^$all
 ||williams.klemeny.wroclaw.pl^$all
 ||williamsforcouncil.com^$all
+||willibleu.com^$all
 ||willie.balton.sklep.pl^$all
 ||williwawadventures.com^$all
 ||willpowerzero.info^$all
@@ -47133,6 +47287,7 @@
 ||zamawiaj-online.pl^$all
 ||zamegafer.site^$all
 ||zamelas-xyz.preview-domain.com^$all
+||zamkniety-swiat.pl^$all
 ||zamow-dzisiaj24.pl^$all
 ||zamowienie24.shop^$all
 ||zamowienie761265261.pl^$all
