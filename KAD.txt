@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 08 Oct 2023, 18:18 UTC+02:00
-! Version: 2023.10.8.3
+! Last modified: Sun, 08 Oct 2023, 22:15 UTC+02:00
+! Version: 2023.10.8.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5430,6 +5430,7 @@
 ||allegrolokalnie.bezpieczna-wysylka24.pl^$all
 ||allegrolokalnie.bezpieczna-wysylka.online^$all
 ||allegrolokalnie.bezpieczne-transakcje.pl^$all
+||allegrolokalnie.bezpieczny-platnosci.pl^$all
 ||allegrolokalnie.check-out.pl^$all
 ||allegrolokalnie.com.de^$all
 ||allegrolokalnie.com.ru^$all
@@ -5438,6 +5439,7 @@
 ||allegrolokalnie.dostawa-24.pl^$all
 ||allegrolokalnie.euweb.cz^$all
 ||allegrolokalnie.expressplatnosci.pl^$all
+||allegrolokalnie.kup-online24h.pl^$all
 ||allegrolokalnie.kup-sprzedaj.pl^$all
 ||allegrolokalnie.kup-z-bezpieczna-przesylka.pl^$all
 ||allegrolokalnie.kupowanie-24.pl^$all
@@ -8555,6 +8557,7 @@
 ||bezpieczne-kupowanie.pl^$all
 ||bezpieczne-ogloszenia.pl^$all
 ||bezpieczne-transakcje.pl^$all
+||bezpieczny-platnosci.pl^$all
 ||bezposrednie-przetwarzanie-online.xyz^$all
 ||beztroskiemomenty.click^$all
 ||bezugai.com^$all
@@ -20794,6 +20797,7 @@
 ||holy-matter.com^$all
 ||holychildrenacademy.com^$all
 ||home-pl-0b1fd260d09.datalp.com.br^$all
+||home-pl-1d7a0b843a5.datalp.com.br^$all
 ||home-pl-2e4902b801a.datalp.com.br^$all
 ||home-pl-3d3974fa147.datalp.com.br^$all
 ||home-pl-3de4d18e828.datalp.com.br^$all
@@ -20802,13 +20806,17 @@
 ||home-pl-7ac298404d7.datalp.com.br^$all
 ||home-pl-7c0ba6ca3bf.datalp.com.br^$all
 ||home-pl-8f412eb3225.datalp.com.br^$all
+||home-pl-10ea9196e8b.datalp.com.br^$all
 ||home-pl-13d0daf1638.datalp.com.br^$all
 ||home-pl-18c0f05f2dd.datalp.com.br^$all
+||home-pl-24d16363682.datalp.com.br^$all
 ||home-pl-035fd1da51f.datalp.com.br^$all
 ||home-pl-38a65624079.datalp.com.br^$all
 ||home-pl-065aa539ee1.datalp.com.br^$all
+||home-pl-073da07c3f4.datalp.com.br^$all
 ||home-pl-78a71b0bffd.datalp.com.br^$all
 ||home-pl-79a501581d9.datalp.com.br^$all
+||home-pl-84f4a0b1fdc.datalp.com.br^$all
 ||home-pl-86caff00ca9.datalp.com.br^$all
 ||home-pl-90ea972c9a8.datalp.com.br^$all
 ||home-pl-91a62ff3c71.datalp.com.br^$all
@@ -20825,6 +20833,7 @@
 ||home-pl-b2c1d3546af.datalp.com.br^$all
 ||home-pl-b08af878dbc.datalp.com.br^$all
 ||home-pl-b8fdd43fce8.datalp.com.br^$all
+||home-pl-b9fd36f564e.datalp.com.br^$all
 ||home-pl-be44bf2020c.datalp.com.br^$all
 ||home-pl-c31ee4e8978.datalp.com.br^$all
 ||home-pl-c33f7d46f69.datalp.com.br^$all
@@ -20833,6 +20842,7 @@
 ||home-pl-c657beb4daf.datalp.com.br^$all
 ||home-pl-cbdcad096df.datalp.com.br^$all
 ||home-pl-cd9179c4fb2.datalp.com.br^$all
+||home-pl-d1a7df25bf3.datalp.com.br^$all
 ||home-pl-e2c21f844bf.datalp.com.br^$all
 ||home-pl-e7bf229bd76.datalp.com.br^$all
 ||home-pl-ee7fa99dcab.datalp.com.br^$all
@@ -24683,6 +24693,7 @@
 ||kuopilnpozt-okl93.cueropdopyte.cf^$all
 ||kup-24h.pl^$all
 ||kup-allegrolokalnie.pl^$all
+||kup-online24h.pl^$all
 ||kup-paczka-olx.pl^$all
 ||kup-wysylka-olx.pl^$all
 ||kupieoddamsprzedam.pl^$all
@@ -47233,6 +47244,7 @@
 ||zakliczyninfo24.online^$all
 ||zakoninvestyvannya.xyz^$all
 ||zaktua928skaz-nowyfor29a.nowyalteg.co.pl^$all
+||zakup24-allegrolokalnie.pl^$all
 ||zakup-allegrolokalnie.pl^$all
 ||zakup-auta.pl^$all
 ||zakup-auto.pl^$all
@@ -47284,6 +47296,7 @@
 ||zapakujpolska.cloud^$all
 ||zaplaan.se^$all
 ||zaplac-bezpiecznie24.pl^$all
+||zaplac-bezpieczniej.pl^$all
 ||zaplacals.pl^$all
 ||zaplacmandat.online^$all
 ||zaplacmandat.site^$all
