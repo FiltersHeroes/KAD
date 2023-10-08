@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 08 Oct 2023, 10:18 UTC+02:00
-! Version: 2023.10.8.1
+! Last modified: Sun, 08 Oct 2023, 14:28 UTC+02:00
+! Version: 2023.10.8.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5457,8 +5457,10 @@
 ||allegrolokalnie.polskie-zakupy.pl^$all
 ||allegrolokalnie.proste-zamowienia.pl^$all
 ||allegrolokalnie.prywatny-zakup.pl^$all
+||allegrolokalnie.przelew-online24.pl^$all
 ||allegrolokalnie.sprawdzone-platnosci.pl^$all
 ||allegrolokalnie.szybka-paczka.pl^$all
+||allegrolokalnie.szybka-przesylka.pl^$all
 ||allegrolokalnie.wygodna-platnosc.pl^$all
 ||allegrolokalnie.wygodne-platnosci.pl^$all
 ||allegrolokalnie.wygodny-zakup.pl^$all
@@ -6912,6 +6914,7 @@
 ||auimy.hechizosyamarres2020.com^$all
 ||aukainiereme.link^$all
 ||aukcja-olx.pl^$all
+||aukcje-allegrolokalnie.pl^$all
 ||aukobere.site^$all
 ||aukpd.hrsfregencyclub.com^$all
 ||aulacafiperu.com^$all
@@ -20783,6 +20786,8 @@
 ||holos-meta.site^$all
 ||holy-matter.com^$all
 ||holychildrenacademy.com^$all
+||home-pl-0b1fd260d09.datalp.com.br^$all
+||home-pl-2e4902b801a.datalp.com.br^$all
 ||home-pl-3d3974fa147.datalp.com.br^$all
 ||home-pl-4e56631fc2b.datalp.com.br^$all
 ||home-pl-5ac3b995a1c.datalp.com.br^$all
@@ -20795,10 +20800,15 @@
 ||home-pl-065aa539ee1.datalp.com.br^$all
 ||home-pl-78a71b0bffd.datalp.com.br^$all
 ||home-pl-79a501581d9.datalp.com.br^$all
+||home-pl-86caff00ca9.datalp.com.br^$all
 ||home-pl-90ea972c9a8.datalp.com.br^$all
+||home-pl-254ab70515f.datalp.com.br^$all
+||home-pl-389ed0c342c.datalp.com.br^$all
 ||home-pl-0727a7eceb3.datalp.com.br^$all
 ||home-pl-831f87278bd.datalp.com.br^$all
 ||home-pl-16708152df2.datalp.com.br^$all
+||home-pl-a429a1c930f.datalp.com.br^$all
+||home-pl-b2c1d3546af.datalp.com.br^$all
 ||home-pl-b8fdd43fce8.datalp.com.br^$all
 ||home-pl-c31ee4e8978.datalp.com.br^$all
 ||home-pl-c33f7d46f69.datalp.com.br^$all
@@ -20807,7 +20817,9 @@
 ||home-pl-c657beb4daf.datalp.com.br^$all
 ||home-pl-cbdcad096df.datalp.com.br^$all
 ||home-pl-cd9179c4fb2.datalp.com.br^$all
+||home-pl-e2c21f844bf.datalp.com.br^$all
 ||home-pl-e7bf229bd76.datalp.com.br^$all
+||home-pl-ee7fa99dcab.datalp.com.br^$all
 ||home-pl-f7c455df0a8.datalp.com.br^$all
 ||home-pl-ffdece20118.datalp.com.br^$all
 ||home-service-client.codeanyapp.com^$all
@@ -21170,6 +21182,7 @@
 ||i-4.cfd^$all
 ||i-chomik.pl^$all
 ||i-films.pl^$all
+||i-inpost.top^$all
 ||i-ksiazka.pl^$all
 ||i-naszemiasto.pl^$all
 ||i-o.cfd^$all
@@ -21728,6 +21741,7 @@
 ||info2polska.online^$all
 ||info2polska.site^$all
 ||info03.pl^$all
+||info4you.pl^$all
 ||info24.awesomeerictech.com^$all
 ||info24.b-cdn.net^$all
 ||info24echo.awesomeerictech.com^$all
@@ -30948,6 +30962,7 @@
 ||ohmbl.com^$all
 ||ohmslawapplication.cfd^$all
 ||ohorub.com^$all
+||ohx.54362382.xyz^$all
 ||oi-ppao.web.app^$all
 ||oi.cchattonline.site^$all
 ||oidj3o4ipccggg.rdl.pl^$all
@@ -34773,6 +34788,7 @@
 ||postoffic-za.top^$all
 ||postoffice-tpg.000webhostapp.com^$all
 ||postpl-supports.com^$all
+||postpl.biacta.com^$all
 ||postran.site^$all
 ||posts-kundes.info^$all
 ||posttex.sever-check.top^$all
@@ -35586,6 +35602,7 @@
 ||przekcry2.blogspot.com^$all
 ||przekoczpas.space^$all
 ||przekonaniie.site^$all
+||przelew-online24.pl^$all
 ||przelewy24-odbierz.website^$all
 ||przelewy24-odbior.space^$all
 ||przelewy24.click^$all
@@ -37316,6 +37333,7 @@
 ||rounaut-634f9.web.app^$all
 ||round-cub1.web.app^$all
 ||roundcube.pl^$all
+||roundcubs-beta.vercel.app^$all
 ||roundn.sbs^$all
 ||rouste.space^$all
 ||routinger.net^$all
@@ -40767,6 +40785,7 @@
 ||szukanie-znajdz.eu^$all
 ||szuqfyxruhnds.com^$all
 ||szybcyiwscielki7.wordpress.com^$all
+||szybka-przesylka.pl^$all
 ||szybkaplatnosc-payu.com^$all
 ||szybkaplatnosc.com^$all
 ||szybkibiiegacz.site^$all
@@ -40786,6 +40805,7 @@
 ||szybkizakup24.pl^$all
 ||szybko-zarabiaj-pl.xyz^$all
 ||szymonemilia.pl^$all
+||szymoniakbozena.viktorianiemiec.info.pl^$all
 ||szytfiterpnetu.website^$all
 ||szytyahpvc7vy.com^$all
 ||t0.t0project.site^$all
