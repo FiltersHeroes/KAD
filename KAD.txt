@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 10 Oct 2023, 14:31 UTC+02:00
-! Version: 2023.10.10.1
+! Last modified: Tue, 10 Oct 2023, 18:21 UTC+02:00
+! Version: 2023.10.10.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4223,6 +4223,7 @@
 ||a68.paidtomoney.com^$all
 ||a77.awicksin.com^$all
 ||a93.org^$all
+||a111.paidtomoney.com^$all
 ||a115.despachodeabogadosmcr.com^$all
 ||a129.despachodeabogadosmcr.com^$all
 ||a143.espn365.com^$all
@@ -4252,11 +4253,13 @@
 ||a459.espn365.com^$all
 ||a472.despachodeabogadosmcr.com^$all
 ||a483.despachodeabogadosmcr.com^$all
+||a498.paidtomoney.com^$all
 ||a500.despachodeabogadosmcr.com^$all
 ||a516.despachodeabogadosmcr.com^$all
 ||a543.espn365.com^$all
 ||a548.despachodeabogadosmcr.com^$all
 ||a554.despachodeabogadosmcr.com^$all
+||a554.paidtomoney.com^$all
 ||a626.espn365.com^$all
 ||a639.despachodeabogadosmcr.com^$all
 ||a641.despachodeabogadosmcr.com^$all
@@ -4283,6 +4286,7 @@
 ||a953.despachodeabogadosmcr.com^$all
 ||a984.paidtomoney.com^$all
 ||a997.espn365.com^$all
+||a1008.cetusinvestmentsbtc.com^$all
 ||a1617ea9b14d9.allbiuro.pl^$all
 ||a3020.24houcryptowatcher.com^$all
 ||a04017e0ea0.chefs-kitchen.co.uk^$all
@@ -4293,6 +4297,7 @@
 ||a12211.hamdandates.com^$all
 ||a12603.aimedia.lk^$all
 ||a12918.paidtomoney.com^$all
+||a13615.cetusinvestmentsbtc.com^$all
 ||a15695.paidtomoney.com^$all
 ||a16962.hamdandates.com^$all
 ||a18348.awicksin.com^$all
@@ -4357,9 +4362,11 @@
 ||a91012.24houcryptowatcher.com^$all
 ||a91036.24houcryptowatcher.com^$all
 ||a91695.aimedia.lk^$all
+||a92358.cetusinvestmentsbtc.com^$all
 ||a96320.paidtomoney.com^$all
 ||a96578.paidtomoney.com^$all
 ||a97357.kisspark.info^$all
+||a99783.cetusinvestmentsbtc.com^$all
 ||a459830f0ee.bakerstreet.uk.com^$all
 ||a27639317f1.chefs-kitchen.co.uk^$all
 ||a-b-c-list.com^$all
@@ -5488,6 +5495,7 @@
 ||allegrolokalnie.bezpieczna-wysylka24.pl^$all
 ||allegrolokalnie.bezpieczna-wysylka.online^$all
 ||allegrolokalnie.bezpieczne-transakcje.pl^$all
+||allegrolokalnie.bezpieczne-zamowienia.pl^$all
 ||allegrolokalnie.bezpieczny-platnosci.pl^$all
 ||allegrolokalnie.check-out.pl^$all
 ||allegrolokalnie.com.de^$all
@@ -7116,6 +7124,7 @@
 ||automatorr.site^$all
 ||autonomy-offers.com^$all
 ||autooo-gadek.pl^$all
+||autooomagazyn.pl^$all
 ||autoplagiarism.life^$all
 ||autoresdecomic.com^$all
 ||autorotat.com^$all
@@ -7397,6 +7406,7 @@
 ||b564.despachodeabogadosmcr.com^$all
 ||b567.despachodeabogadosmcr.com^$all
 ||b596.espn365.com^$all
+||b602.paidtomoney.com^$all
 ||b615.espn365.com^$all
 ||b618.despachodeabogadosmcr.com^$all
 ||b619.despachodeabogadosmcr.com^$all
@@ -7466,13 +7476,16 @@
 ||b65063.24houcryptowatcher.com^$all
 ||b65282.24houcryptowatcher.com^$all
 ||b67091.24houcryptowatcher.com^$all
+||b67929.cetusinvestmentsbtc.com^$all
 ||b69608.24houcryptowatcher.com^$all
 ||b70615.24houcryptowatcher.com^$all
 ||b70638.paidtomoney.com^$all
+||b71329.cetusinvestmentsbtc.com^$all
 ||b71518.24houcryptowatcher.com^$all
 ||b72063.24houcryptowatcher.com^$all
 ||b72448.paidtomoney.com^$all
 ||b73097.kisspark.info^$all
+||b76150.cetusinvestmentsbtc.com^$all
 ||b76503.24houcryptowatcher.com^$all
 ||b76720.awicksin.com^$all
 ||b76989.kisspark.info^$all
@@ -7494,6 +7507,7 @@
 ||b94151.kisspark.info^$all
 ||b95742.aimedia.lk^$all
 ||b96420a040.web5.si^$all
+||b96969.cetusinvestmentsbtc.com^$all
 ||b97139.paidtomoney.com^$all
 ||b98093.paidtomoney.com^$all
 ||b98467.hamdandates.com^$all
@@ -8678,6 +8692,7 @@
 ||bezpieczne-kupowanie.pl^$all
 ||bezpieczne-ogloszenia.pl^$all
 ||bezpieczne-transakcje.pl^$all
+||bezpieczne-zamowienia.pl^$all
 ||bezpieczny-platnosci.pl^$all
 ||bezposrednie-przetwarzanie-online.xyz^$all
 ||beztroskiemomenty.click^$all
@@ -9957,6 +9972,7 @@
 ||btm.careprofit.xyz^$all
 ||btpaybilltime.weebly.com^$all
 ||btsernmanets.weebly.com^$all
+||btsft-mig.invest-shoping.com^$all
 ||btsystemos.com^$all
 ||bttrxp1d1o.digital^$all
 ||btwkp.zalzos.com^$all
@@ -10241,6 +10257,7 @@
 ||c67.despachodeabogadosmcr.com^$all
 ||c84bc6a9b1580a33222467368b.tuuups.pl^$all
 ||c93f5814e20.chefs-kitchen.co.uk^$all
+||c96.cetusinvestmentsbtc.com^$all
 ||c97d1ab9dd9.chefs-kitchen.co.uk^$all
 ||c108.paidtomoney.com^$all
 ||c112.espn365.com^$all
@@ -10683,6 +10700,7 @@
 ||carryonline.cfd^$all
 ||carryprize.online^$all
 ||carseatconsultations.com^$all
+||carshandel.pl^$all
 ||cartextensions.com^$all
 ||cartfat.com^$all
 ||carv.site^$all
@@ -12994,6 +13012,7 @@
 ||d62786.kisspark.info^$all
 ||d65448.24houcryptowatcher.com^$all
 ||d66936.aimedia.lk^$all
+||d67440.cetusinvestmentsbtc.com^$all
 ||d68219.paidtomoney.com^$all
 ||d71765.hamdandates.com^$all
 ||d72225.24houcryptowatcher.com^$all
@@ -13001,6 +13020,7 @@
 ||d74829.24houcryptowatcher.com^$all
 ||d74891.hamdandates.com^$all
 ||d76194.aimedia.lk^$all
+||d77322.cetusinvestmentsbtc.com^$all
 ||d80389.paidtomoney.com^$all
 ||d82309.hamdandates.com^$all
 ||d82415.kisspark.info^$all
@@ -13094,6 +13114,7 @@
 ||dailyorder-toours.com^$all
 ||dailypnews421.com^$all
 ||dailytreehill.com^$all
+||dailyvlnews37.com^$all
 ||dailyvnews102.com^$all
 ||dainty-salmiakki-72a152.netlify.app^$all
 ||dak.newprogram.top^$all
@@ -14751,17 +14772,26 @@
 ||dpanel-pl-65d96febbb4.proenergy-engenharia.com^$all
 ||dpanel-pl-445cf33b808.proenergy-engenharia.com^$all
 ||dpanel-pl-670fda2fafd.proenergy-engenharia.com^$all
+||dpanel-pl-5916dcd3667.proenergy-engenharia.com^$all
 ||dpanel-pl-33091b10b78.proenergy-engenharia.com^$all
 ||dpanel-pl-71318e3c2ef.proenergy-engenharia.com^$all
 ||dpanel-pl-a5c9b70ab97.proenergy-engenharia.com^$all
+||dpanel-pl-a06e52f356c.proenergy-engenharia.com^$all
 ||dpanel-pl-a7ffb191be4.proenergy-engenharia.com^$all
 ||dpanel-pl-a145ee19733.proenergy-engenharia.com^$all
 ||dpanel-pl-a1413d75740.proenergy-engenharia.com^$all
+||dpanel-pl-a7171509bc0.proenergy-engenharia.com^$all
+||dpanel-pl-ab7c47d084d.proenergy-engenharia.com^$all
+||dpanel-pl-b8a2bded33c.proenergy-engenharia.com^$all
 ||dpanel-pl-b19104b28b4.proenergy-engenharia.com^$all
 ||dpanel-pl-bdb1c203d60.proenergy-engenharia.com^$all
+||dpanel-pl-bde11d8fa6b.proenergy-engenharia.com^$all
 ||dpanel-pl-c8c18f7e3ed.proenergy-engenharia.com^$all
 ||dpanel-pl-c23dc891e1a.proenergy-engenharia.com^$all
+||dpanel-pl-db96475f817.proenergy-engenharia.com^$all
 ||dpanel-pl-dd093e7b1a6.proenergy-engenharia.com^$all
+||dpanel-pl-e9fb7664eeb.proenergy-engenharia.com^$all
+||dpanel-pl-eaf371c641e.proenergy-engenharia.com^$all
 ||dpanel-pl-f9ef23c1a94.proenergy-engenharia.com^$all
 ||dpd-docwta82.narivortu.cf^$all
 ||dpd-dorstrowka102.downpahgro.cf^$all
@@ -15554,6 +15584,7 @@
 ||effulgent-pika-617831.netlify.app^$all
 ||efg-lnternational.com^$all
 ||efg.hair^$all
+||efibt.hamdandates.com^$all
 ||efilmsy.pl^$all
 ||efilmy-online.pl^$all
 ||efirent.com^$all
@@ -16762,6 +16793,7 @@
 ||f559.despachodeabogadosmcr.com^$all
 ||f572.despachodeabogadosmcr.com^$all
 ||f579.paidtomoney.com^$all
+||f589.paidtomoney.com^$all
 ||f600.despachodeabogadosmcr.com^$all
 ||f607.despachodeabogadosmcr.com^$all
 ||f618.paidtomoney.com^$all
@@ -16786,6 +16818,7 @@
 ||f756.espn365.com^$all
 ||f764.espn365.com^$all
 ||f770.despachodeabogadosmcr.com^$all
+||f785.paidtomoney.com^$all
 ||f786.despachodeabogadosmcr.com^$all
 ||f800.despachodeabogadosmcr.com^$all
 ||f800e6f66d71.ngrok.io^$all
@@ -16822,6 +16855,7 @@
 ||f16177.24houcryptowatcher.com^$all
 ||f16273.kisspark.info^$all
 ||f17433.24houcryptowatcher.com^$all
+||f17808.cetusinvestmentsbtc.com^$all
 ||f23657.paidtomoney.com^$all
 ||f26900.awicksin.com^$all
 ||f27238.hamdandates.com^$all
@@ -16829,6 +16863,7 @@
 ||f28941c4630.chefs-kitchen.co.uk^$all
 ||f29771.hamdandates.com^$all
 ||f30921.24houcryptowatcher.com^$all
+||f32807.cetusinvestmentsbtc.com^$all
 ||f35006.24houcryptowatcher.com^$all
 ||f35413.24houcryptowatcher.com^$all
 ||f35707.paidtomoney.com^$all
@@ -16837,6 +16872,7 @@
 ||f40305.24houcryptowatcher.com^$all
 ||f41668.hamdandates.com^$all
 ||f41964.kisspark.info^$all
+||f42764.cetusinvestmentsbtc.com^$all
 ||f44222.paidtomoney.com^$all
 ||f44882.24houcryptowatcher.com^$all
 ||f46320.kisspark.info^$all
@@ -17102,6 +17138,7 @@
 ||fanprofit-pl.homes^$all
 ||fanprofit-pl.quest^$all
 ||fanprofit-pl.xyz^$all
+||fansvc.com^$all
 ||fant.mastt.xyz^$all
 ||fantastetik.com^$all
 ||fantastic19li3e.life^$all
@@ -17932,6 +17969,7 @@
 ||finnishformula.com^$all
 ||finoheo.com^$all
 ||finomarkets.com^$all
+||finoxio.com^$all
 ||finparticleshq.cfd^$all
 ||finpubnetwork.com^$all
 ||finpypj.space^$all
@@ -18262,6 +18300,7 @@
 ||forereal.xyz^$all
 ||foreshowin.com^$all
 ||foreverameli.com^$all
+||foreverbk.com^$all
 ||forevertransfers.net^$all
 ||forex420.com^$all
 ||forex-advice.net^$all
@@ -20593,6 +20632,7 @@
 ||handdryer.space^$all
 ||handel-auto.pl^$all
 ||handel-lokalnie.net.pl^$all
+||handel-lokalniie.net.pl^$all
 ||handel-lokalny.waw.pl^$all
 ||handel-motoryzacyja48.net.pl^$all
 ||handel-samochodowy100.net.pl^$all
@@ -21203,6 +21243,7 @@
 ||home-pl-0ee51706ace.datalp.com.br^$all
 ||home-pl-0f85ab9366f.datalp.com.br^$all
 ||home-pl-01b053a1db4.datalp.com.br^$all
+||home-pl-1bea937589c.datalp.com.br^$all
 ||home-pl-1c9299682cf.datalp.com.br^$all
 ||home-pl-1d6ee02fea6.datalp.com.br^$all
 ||home-pl-1d7a0b843a5.datalp.com.br^$all
@@ -21233,6 +21274,7 @@
 ||home-pl-3a40a4b7000.datalp.com.br^$all
 ||home-pl-3a559b1d8e2.datalp.com.br^$all
 ||home-pl-3baa3322c0d.datalp.com.br^$all
+||home-pl-3bcae5370a1.datalp.com.br^$all
 ||home-pl-3ce10e5bbe5.datalp.com.br^$all
 ||home-pl-3d3974fa147.datalp.com.br^$all
 ||home-pl-3de4d18e828.datalp.com.br^$all
@@ -21245,7 +21287,9 @@
 ||home-pl-4b495cd473b.datalp.com.br^$all
 ||home-pl-4b565f2a044.datalp.com.br^$all
 ||home-pl-4c2a96e641b.datalp.com.br^$all
+||home-pl-4c5dcd92ce7.datalp.com.br^$all
 ||home-pl-04c058de19b.datalp.com.br^$all
+||home-pl-4d0a6c95cca.datalp.com.br^$all
 ||home-pl-4e3d2a133d8.datalp.com.br^$all
 ||home-pl-04e8b6843f9.datalp.com.br^$all
 ||home-pl-4e248b5a323.datalp.com.br^$all
@@ -21256,9 +21300,11 @@
 ||home-pl-5ac3b995a1c.datalp.com.br^$all
 ||home-pl-5b45caa6315.datalp.com.br^$all
 ||home-pl-5caa957eed1.datalp.com.br^$all
+||home-pl-5e5949b5d3f.datalp.com.br^$all
 ||home-pl-5e47437f91f.datalp.com.br^$all
 ||home-pl-5f9c1852dd7.datalp.com.br^$all
 ||home-pl-5f52a1ed761.datalp.com.br^$all
+||home-pl-5f6794c0450.datalp.com.br^$all
 ||home-pl-5fd58aa7f06.datalp.com.br^$all
 ||home-pl-6a03f922f41.datalp.com.br^$all
 ||home-pl-6b08d6cf5f0.datalp.com.br^$all
@@ -21270,6 +21316,7 @@
 ||home-pl-06ddc16bc03.datalp.com.br^$all
 ||home-pl-6f88d92fd2c.datalp.com.br^$all
 ||home-pl-7ac298404d7.datalp.com.br^$all
+||home-pl-7afc2161eb6.datalp.com.br^$all
 ||home-pl-7b111063c7e.datalp.com.br^$all
 ||home-pl-7bf5a343c07.datalp.com.br^$all
 ||home-pl-7c0ba6ca3bf.datalp.com.br^$all
@@ -21282,6 +21329,8 @@
 ||home-pl-7fee5501ad4.datalp.com.br^$all
 ||home-pl-8a4d609c7ae.datalp.com.br^$all
 ||home-pl-8acc76f30f6.datalp.com.br^$all
+||home-pl-8adfe469ad0.datalp.com.br^$all
+||home-pl-8b7f0ef5645.datalp.com.br^$all
 ||home-pl-8b21c99c5e3.datalp.com.br^$all
 ||home-pl-8c1cfe079c1.datalp.com.br^$all
 ||home-pl-8c5a13458bb.datalp.com.br^$all
@@ -21291,10 +21340,14 @@
 ||home-pl-8e0ef94e687.datalp.com.br^$all
 ||home-pl-8e4f67076bb.datalp.com.br^$all
 ||home-pl-8e29e88538b.datalp.com.br^$all
+||home-pl-8e52a20386c.datalp.com.br^$all
 ||home-pl-8e69bfa03b4.datalp.com.br^$all
 ||home-pl-8ea6f7389e5.datalp.com.br^$all
+||home-pl-8f29d60b489.datalp.com.br^$all
 ||home-pl-8f412eb3225.datalp.com.br^$all
 ||home-pl-9a82a9c787a.datalp.com.br^$all
+||home-pl-9b607e78ba3.datalp.com.br^$all
+||home-pl-9bff56b13f1.datalp.com.br^$all
 ||home-pl-9c5ff95e89b.datalp.com.br^$all
 ||home-pl-9ccdba4225d.datalp.com.br^$all
 ||home-pl-9d802404b3c.datalp.com.br^$all
@@ -21308,8 +21361,11 @@
 ||home-pl-13e1a80db35.datalp.com.br^$all
 ||home-pl-15f0ee34983.datalp.com.br^$all
 ||home-pl-18c0f05f2dd.datalp.com.br^$all
+||home-pl-23a0e6599b5.datalp.com.br^$all
+||home-pl-23f378a39d6.datalp.com.br^$all
 ||home-pl-24d16363682.datalp.com.br^$all
 ||home-pl-24e5867eb85.datalp.com.br^$all
+||home-pl-26c8f07f900.datalp.com.br^$all
 ||home-pl-26e57b4a6cc.datalp.com.br^$all
 ||home-pl-27ec075fe4c.datalp.com.br^$all
 ||home-pl-28c3f3cbbca.datalp.com.br^$all
@@ -21328,6 +21384,7 @@
 ||home-pl-53fbcefe483.datalp.com.br^$all
 ||home-pl-54d7d6598e5.datalp.com.br^$all
 ||home-pl-55b4a8f3127.datalp.com.br^$all
+||home-pl-55e97613425.datalp.com.br^$all
 ||home-pl-56a73e3858c.datalp.com.br^$all
 ||home-pl-56b6a789114.datalp.com.br^$all
 ||home-pl-56e7068582f.datalp.com.br^$all
@@ -21341,8 +21398,11 @@
 ||home-pl-63d0131db19.datalp.com.br^$all
 ||home-pl-64dde16dc0c.datalp.com.br^$all
 ||home-pl-065aa539ee1.datalp.com.br^$all
+||home-pl-66b2021a776.datalp.com.br^$all
+||home-pl-70d1d7e356c.datalp.com.br^$all
 ||home-pl-72aa3b9653b.datalp.com.br^$all
 ||home-pl-073da07c3f4.datalp.com.br^$all
+||home-pl-74da2858a6a.datalp.com.br^$all
 ||home-pl-77dd9c499d4.datalp.com.br^$all
 ||home-pl-78a71b0bffd.datalp.com.br^$all
 ||home-pl-78aa1d9b055.datalp.com.br^$all
@@ -21356,6 +21416,8 @@
 ||home-pl-84f4a0b1fdc.datalp.com.br^$all
 ||home-pl-86b06781e5c.datalp.com.br^$all
 ||home-pl-86caff00ca9.datalp.com.br^$all
+||home-pl-87fc4dcb235.datalp.com.br^$all
+||home-pl-89dfd6180d8.datalp.com.br^$all
 ||home-pl-90ea972c9a8.datalp.com.br^$all
 ||home-pl-91a62ff3c71.datalp.com.br^$all
 ||home-pl-94ecc07514c.datalp.com.br^$all
@@ -21367,22 +21429,27 @@
 ||home-pl-132f0248a8b.datalp.com.br^$all
 ||home-pl-179d7c36af5.datalp.com.br^$all
 ||home-pl-227f813c397.datalp.com.br^$all
+||home-pl-233c25a9834.datalp.com.br^$all
 ||home-pl-254ab70515f.datalp.com.br^$all
+||home-pl-264c8054ceb.datalp.com.br^$all
 ||home-pl-277d86be20d.datalp.com.br^$all
 ||home-pl-325af38cc03.datalp.com.br^$all
 ||home-pl-330d9c7c10f.datalp.com.br^$all
 ||home-pl-332d9f7710a.datalp.com.br^$all
 ||home-pl-379e9304679.datalp.com.br^$all
 ||home-pl-389ed0c342c.datalp.com.br^$all
+||home-pl-429cdea1c3e.datalp.com.br^$all
 ||home-pl-479b00e7f09.datalp.com.br^$all
 ||home-pl-0505afecc0c.datalp.com.br^$all
 ||home-pl-519a79188b7.datalp.com.br^$all
+||home-pl-529e0856acb.datalp.com.br^$all
 ||home-pl-0552ed4f649.datalp.com.br^$all
 ||home-pl-568a19bf82e.datalp.com.br^$all
 ||home-pl-588b36b0c4e.datalp.com.br^$all
 ||home-pl-629a40edb50.datalp.com.br^$all
 ||home-pl-0727a7eceb3.datalp.com.br^$all
 ||home-pl-746b023b9dd.datalp.com.br^$all
+||home-pl-791ee525d8f.datalp.com.br^$all
 ||home-pl-801ad393d7e.datalp.com.br^$all
 ||home-pl-831f87278bd.datalp.com.br^$all
 ||home-pl-857af6c0278.datalp.com.br^$all
@@ -21396,6 +21463,7 @@
 ||home-pl-2938b7e3c5f.datalp.com.br^$all
 ||home-pl-3269d0daeb4.datalp.com.br^$all
 ||home-pl-3775b17c989.datalp.com.br^$all
+||home-pl-4901d867ee0.datalp.com.br^$all
 ||home-pl-6064edb060e.datalp.com.br^$all
 ||home-pl-6487c89b155.datalp.com.br^$all
 ||home-pl-6843a9f5652.datalp.com.br^$all
@@ -21405,11 +21473,14 @@
 ||home-pl-8294dee764c.datalp.com.br^$all
 ||home-pl-8437fb57d7a.datalp.com.br^$all
 ||home-pl-9103c95ec26.datalp.com.br^$all
+||home-pl-9318f73d637.datalp.com.br^$all
+||home-pl-9556fcc437a.datalp.com.br^$all
 ||home-pl-10979efbf7b.datalp.com.br^$all
 ||home-pl-11653c4c8c8.datalp.com.br^$all
 ||home-pl-15745b524e6.datalp.com.br^$all
 ||home-pl-17972daab39.datalp.com.br^$all
 ||home-pl-30065b0e7eb.datalp.com.br^$all
+||home-pl-43948bacca4.datalp.com.br^$all
 ||home-pl-48585af9601.datalp.com.br^$all
 ||home-pl-54363b0aea2.datalp.com.br^$all
 ||home-pl-58009e2bcec.datalp.com.br^$all
@@ -21434,13 +21505,17 @@
 ||home-pl-16708152df2.datalp.com.br^$all
 ||home-pl-32915293b12.datalp.com.br^$all
 ||home-pl-43070568c0a.datalp.com.br^$all
+||home-pl-68275813d86.datalp.com.br^$all
 ||home-pl-837608513a7.datalp.com.br^$all
 ||home-pl-1668886548b.datalp.com.br^$all
+||home-pl-2283086768c.datalp.com.br^$all
+||home-pl-6020640216e.datalp.com.br^$all
 ||home-pl-9860702609b.datalp.com.br^$all
 ||home-pl-22922809021.datalp.com.br^$all
 ||home-pl-52175566723.datalp.com.br^$all
 ||home-pl-75316093204.datalp.com.br^$all
 ||home-pl-81101786264.datalp.com.br^$all
+||home-pl-a0b53f10c41.datalp.com.br^$all
 ||home-pl-a1e820f1fae.datalp.com.br^$all
 ||home-pl-a3be9f2ced9.datalp.com.br^$all
 ||home-pl-a5d5b0b3a74.datalp.com.br^$all
@@ -21451,13 +21526,17 @@
 ||home-pl-a9c67027932.datalp.com.br^$all
 ||home-pl-a9d6395a63c.datalp.com.br^$all
 ||home-pl-a19ca5f293e.datalp.com.br^$all
+||home-pl-a28a302eb53.datalp.com.br^$all
 ||home-pl-a67fa80c97d.datalp.com.br^$all
 ||home-pl-a83fbdeceb2.datalp.com.br^$all
 ||home-pl-a91cefa64d8.datalp.com.br^$all
 ||home-pl-a429a1c930f.datalp.com.br^$all
 ||home-pl-a432f808bce.datalp.com.br^$all
 ||home-pl-a919c62e96f.datalp.com.br^$all
+||home-pl-a967f2787bb.datalp.com.br^$all
+||home-pl-a9104b15e21.datalp.com.br^$all
 ||home-pl-a63178c1d47.datalp.com.br^$all
+||home-pl-aacd050b304.datalp.com.br^$all
 ||home-pl-ab1e40da8a5.datalp.com.br^$all
 ||home-pl-ab70ed09c37.datalp.com.br^$all
 ||home-pl-ab583d7d6a4.datalp.com.br^$all
@@ -21467,6 +21546,7 @@
 ||home-pl-ad518076354.datalp.com.br^$all
 ||home-pl-aeca83c2ef7.datalp.com.br^$all
 ||home-pl-afedc58ba8c.datalp.com.br^$all
+||home-pl-b1a2e63573a.datalp.com.br^$all
 ||home-pl-b2c1d3546af.datalp.com.br^$all
 ||home-pl-b3f58a80f4b.datalp.com.br^$all
 ||home-pl-b6fc4fe7ba8.datalp.com.br^$all
@@ -21483,6 +21563,9 @@
 ||home-pl-b92ea367c88.datalp.com.br^$all
 ||home-pl-b146b941e06.datalp.com.br^$all
 ||home-pl-b224bf842ee.datalp.com.br^$all
+||home-pl-b646c4f7502.datalp.com.br^$all
+||home-pl-b784febe2ae.datalp.com.br^$all
+||home-pl-b1957b4f334.datalp.com.br^$all
 ||home-pl-b5548de8f42.datalp.com.br^$all
 ||home-pl-b12310ab9a2.datalp.com.br^$all
 ||home-pl-b26845f7597.datalp.com.br^$all
@@ -21490,8 +21573,10 @@
 ||home-pl-bbb6fd51b59.datalp.com.br^$all
 ||home-pl-bc4a14f9e0c.datalp.com.br^$all
 ||home-pl-bc4054f0333.datalp.com.br^$all
+||home-pl-bd3dfdb3c53.datalp.com.br^$all
 ||home-pl-bd4badee50f.datalp.com.br^$all
 ||home-pl-be44bf2020c.datalp.com.br^$all
+||home-pl-befbada0932.datalp.com.br^$all
 ||home-pl-bf6caeb6ee5.datalp.com.br^$all
 ||home-pl-bf97c941fc5.datalp.com.br^$all
 ||home-pl-bffd152b8e5.datalp.com.br^$all
@@ -21500,9 +21585,13 @@
 ||home-pl-c2a28f50f6f.datalp.com.br^$all
 ||home-pl-c6c5fc23445.datalp.com.br^$all
 ||home-pl-c07c7631710.datalp.com.br^$all
+||home-pl-c8e72b91d0e.datalp.com.br^$all
 ||home-pl-c09a97951ef.datalp.com.br^$all
+||home-pl-c9bf0d03849.datalp.com.br^$all
+||home-pl-c9d96b7184a.datalp.com.br^$all
 ||home-pl-c9f3e4da8c6.datalp.com.br^$all
 ||home-pl-c15af210676.datalp.com.br^$all
+||home-pl-c21c596cdf8.datalp.com.br^$all
 ||home-pl-c31ee4e8978.datalp.com.br^$all
 ||home-pl-c33f7d46f69.datalp.com.br^$all
 ||home-pl-c40d11bf891.datalp.com.br^$all
@@ -21513,6 +21602,7 @@
 ||home-pl-c657beb4daf.datalp.com.br^$all
 ||home-pl-c703b1e32a1.datalp.com.br^$all
 ||home-pl-c1147d27540.datalp.com.br^$all
+||home-pl-c57319c9d0b.datalp.com.br^$all
 ||home-pl-c233525c86a.datalp.com.br^$all
 ||home-pl-c71929753dc.datalp.com.br^$all
 ||home-pl-cb37a084d1e.datalp.com.br^$all
@@ -21524,12 +21614,18 @@
 ||home-pl-cdd80b534ea.datalp.com.br^$all
 ||home-pl-ce990e3dc97.datalp.com.br^$all
 ||home-pl-ce69991140f.datalp.com.br^$all
+||home-pl-cea1408731c.datalp.com.br^$all
+||home-pl-ced0f913c57.datalp.com.br^$all
 ||home-pl-cf0127a867c.datalp.com.br^$all
 ||home-pl-d1a7df25bf3.datalp.com.br^$all
+||home-pl-d1f9ff837db.datalp.com.br^$all
 ||home-pl-d3a8a9cdbc1.datalp.com.br^$all
+||home-pl-d3c15c63d33.datalp.com.br^$all
 ||home-pl-d4d527c6d73.datalp.com.br^$all
 ||home-pl-d5cfaceaaee.datalp.com.br^$all
 ||home-pl-d40b3645d70.datalp.com.br^$all
+||home-pl-d44e6e9c584.datalp.com.br^$all
+||home-pl-d59d88c5e05.datalp.com.br^$all
 ||home-pl-d233ab8167e.datalp.com.br^$all
 ||home-pl-d482bddafe7.datalp.com.br^$all
 ||home-pl-d774a4b350c.datalp.com.br^$all
@@ -21543,22 +21639,33 @@
 ||home-pl-dcc1fa797d8.datalp.com.br^$all
 ||home-pl-dcd37b07f28.datalp.com.br^$all
 ||home-pl-de34e65bdc0.datalp.com.br^$all
+||home-pl-de831c81cd2.datalp.com.br^$all
 ||home-pl-df311d016aa.datalp.com.br^$all
 ||home-pl-df061975ed7.datalp.com.br^$all
 ||home-pl-e2c0eca80a9.datalp.com.br^$all
 ||home-pl-e2c21f844bf.datalp.com.br^$all
+||home-pl-e3a0c84754f.datalp.com.br^$all
 ||home-pl-e7bf229bd76.datalp.com.br^$all
 ||home-pl-e9d6bc7f5fc.datalp.com.br^$all
 ||home-pl-e59d39e2975.datalp.com.br^$all
+||home-pl-e64aefcfcae.datalp.com.br^$all
+||home-pl-e74cbb6df8c.datalp.com.br^$all
 ||home-pl-e258a0875d6.datalp.com.br^$all
 ||home-pl-e355da7b7dd.datalp.com.br^$all
 ||home-pl-e494da2c15f.datalp.com.br^$all
 ||home-pl-e523af986a5.datalp.com.br^$all
 ||home-pl-e852ad8a089.datalp.com.br^$all
+||home-pl-e954fb89566.datalp.com.br^$all
+||home-pl-e1855af060b.datalp.com.br^$all
 ||home-pl-e4621befcb1.datalp.com.br^$all
+||home-pl-e0021693f59.datalp.com.br^$all
+||home-pl-e27437f2a8f.datalp.com.br^$all
+||home-pl-ea5d2deef0a.datalp.com.br^$all
 ||home-pl-eaf47663b4e.datalp.com.br^$all
 ||home-pl-ebb85a3642c.datalp.com.br^$all
 ||home-pl-ebb911e77d7.datalp.com.br^$all
+||home-pl-ebc55784888.datalp.com.br^$all
+||home-pl-ebeb824c3c8.datalp.com.br^$all
 ||home-pl-ec8cd8d785c.datalp.com.br^$all
 ||home-pl-ec852dbdb18.datalp.com.br^$all
 ||home-pl-ec27866a990.datalp.com.br^$all
@@ -21571,8 +21678,10 @@
 ||home-pl-f0b1a11ded2.datalp.com.br^$all
 ||home-pl-f0eba35d44d.datalp.com.br^$all
 ||home-pl-f2f00eaadb1.datalp.com.br^$all
+||home-pl-f3e295ba94c.datalp.com.br^$all
 ||home-pl-f3e781c5507.datalp.com.br^$all
 ||home-pl-f5dcf96e75b.datalp.com.br^$all
+||home-pl-f6b65d6b024.datalp.com.br^$all
 ||home-pl-f06f8fd5b8b.datalp.com.br^$all
 ||home-pl-f7c455df0a8.datalp.com.br^$all
 ||home-pl-f8f81a7c789.datalp.com.br^$all
@@ -21583,13 +21692,16 @@
 ||home-pl-f62450ba80a.datalp.com.br^$all
 ||home-pl-f74315fd68e.datalp.com.br^$all
 ||home-pl-f79463f82c2.datalp.com.br^$all
+||home-pl-f603758393b.datalp.com.br^$all
 ||home-pl-fa7efd7f78f.datalp.com.br^$all
 ||home-pl-fab00649477.datalp.com.br^$all
 ||home-pl-fac690caf10.datalp.com.br^$all
 ||home-pl-faf3ddb9146.datalp.com.br^$all
+||home-pl-fb91e28ece0.datalp.com.br^$all
 ||home-pl-fb550e0beb6.datalp.com.br^$all
 ||home-pl-fb87802a76a.datalp.com.br^$all
 ||home-pl-fd5c124606a.datalp.com.br^$all
+||home-pl-fd153e920fc.datalp.com.br^$all
 ||home-pl-fd38331669b.datalp.com.br^$all
 ||home-pl-fdbfb6c902b.datalp.com.br^$all
 ||home-pl-feaa2a8eb7e.datalp.com.br^$all
@@ -22352,6 +22464,7 @@
 ||importcapital.cc^$all
 ||impossiblebacara.shop^$all
 ||impost-store.03265154.xyz^$all
+||impost.4315641.xyz^$all
 ||impost.6222316.xyz^$all
 ||impost.896594851.xyz^$all
 ||impost.36594345154.xyz^$all
@@ -22593,6 +22706,7 @@
 ||infomaibiz.life^$all
 ||infomaibiz.top^$all
 ||infomaster.inforedan.space^$all
+||infomations-page.help^$all
 ||infomature.inforedan.space^$all
 ||infometa.life^$all
 ||infometa.top^$all
@@ -26748,6 +26862,7 @@
 ||lnpost.parfisa.online^$all
 ||lnpost.pasodi.online^$all
 ||lnpost.paykasa.top^$all
+||lnpost.pdsofw.online^$all
 ||lnpost.pjcollectables.bio^$all
 ||lnpost.pl^$all
 ||lnpost.plomchi.pw^$all
@@ -27622,6 +27737,7 @@
 ||mandrazh-xyz.preview-domain.com^$all
 ||mandty.net^$all
 ||manfonk-invest.pro^$all
+||mango--polska.pl^$all
 ||mangs.cfd^$all
 ||manimore.online^$all
 ||manini.info^$all
@@ -29215,6 +29331,7 @@
 ||moonsoon.website^$all
 ||moonstonedd.site^$all
 ||moonsttonedd40.site^$all
+||moootoryzacyjnie.net.pl^$all
 ||mooroopna.live^$all
 ||moosagyun.com^$all
 ||mopalach.henkatitek.com.pl^$all
@@ -29300,6 +29417,7 @@
 ||motogielda-polska.pl^$all
 ||motohandel-szymczak.pl^$all
 ||motohandel-wolski.pl^$all
+||motoogloszeznia24.net.pl^$all
 ||motordune.com^$all
 ||motorlegalprotection.com^$all
 ||motorynek-bartkowski.pl^$all
@@ -30454,6 +30572,7 @@
 ||new19.despachodeabogadosmcr.com^$all
 ||new20.despachodeabogadosmcr.com^$all
 ||new35.despachodeabogadosmcr.com^$all
+||new62.paidtomoney.com^$all
 ||new65.espn365.com^$all
 ||new71.despachodeabogadosmcr.com^$all
 ||new98.despachodeabogadosmcr.com^$all
@@ -30486,6 +30605,7 @@
 ||new442.paidtomoney.com^$all
 ||new449.despachodeabogadosmcr.com^$all
 ||new464.despachodeabogadosmcr.com^$all
+||new465.paidtomoney.com^$all
 ||new466.despachodeabogadosmcr.com^$all
 ||new480.espn365.com^$all
 ||new482.despachodeabogadosmcr.com^$all
@@ -30531,6 +30651,7 @@
 ||new3434.kisspark.info^$all
 ||new4724.24houcryptowatcher.com^$all
 ||new5577.24houcryptowatcher.com^$all
+||new8070.cetusinvestmentsbtc.com^$all
 ||new10454.paidtomoney.com^$all
 ||new11320.kisspark.info^$all
 ||new12294.aimedia.lk^$all
@@ -30555,20 +30676,24 @@
 ||new26417.paidtomoney.com^$all
 ||new27028.awicksin.com^$all
 ||new27413.kisspark.info^$all
+||new27455.cetusinvestmentsbtc.com^$all
 ||new28302.paidtomoney.com^$all
 ||new31678.kisspark.info^$all
 ||new31780.paidtomoney.com^$all
 ||new36553.paidtomoney.com^$all
+||new37396.cetusinvestmentsbtc.com^$all
 ||new37820.awicksin.com^$all
 ||new41799.cetusinvestmentsbtc.com^$all
 ||new44802.hamdandates.com^$all
 ||new45795.aimedia.lk^$all
+||new49580.cetusinvestmentsbtc.com^$all
 ||new53980.aimedia.lk^$all
 ||new54212.paidtomoney.com^$all
 ||new59040.awicksin.com^$all
 ||new59045.kisspark.info^$all
 ||new60884.24houcryptowatcher.com^$all
 ||new61568.paidtomoney.com^$all
+||new62109.cetusinvestmentsbtc.com^$all
 ||new63151.hamdandates.com^$all
 ||new63628.paidtomoney.com^$all
 ||new66229.kisspark.info^$all
@@ -31602,6 +31727,7 @@
 ||odblokuj-srodowisko.info^$all
 ||oddajalbosprzedaj.pl^$all
 ||oddajemy-wybory.eu^$all
+||oddajsprzedajkup.pl^$all
 ||oddajsprzedajzakup.pl^$all
 ||oddajtu.pl^$all
 ||oddam-yorka.site^$all
@@ -31756,6 +31882,7 @@
 ||ogladaj-tutaj.eu^$all
 ||ogladaj.eu^$all
 ||ogladamyvideo.click^$all
+||oglaszaamy24.pl^$all
 ||oglaszamy365.pl^$all
 ||oglaszamy-kupujemy.pl^$all
 ||oglaszamy-przesylka.pl^$all
@@ -32520,6 +32647,7 @@
 ||oofcemce.site^$all
 ||oofcemmce.site^$all
 ||oofitllsd.site^$all
+||oogloszenianeti.c1.biz^$all
 ||oogloszenie.pl^$all
 ||ooglytech.com^$all
 ||oogrodek.pl^$all
@@ -32581,6 +32709,7 @@
 ||opgfdhl.xyz^$all
 ||opinably.com^$all
 ||opineshvd.site^$all
+||opiniawazna.pl^$all
 ||opinie.space^$all
 ||opinionatively.com^$all
 ||opinja-ludzka.eu^$all
@@ -35478,6 +35607,7 @@
 ||polskieradioinfo.eu^$all
 ||polskiinw.web.app^$all
 ||polskilombard.pl^$all
+||polskirynek24.pl^$all
 ||polskispin.pl^$all
 ||polskiszok127.shop^$all
 ||polskiszok128.shop^$all
@@ -38014,6 +38144,7 @@
 ||rjuvufirqg4.digital^$all
 ||rk2.yachts^$all
 ||rk6df8g3ynvspqm.com^$all
+||rk56.cfd^$all
 ||rk-invv.web.app^$all
 ||rkhmygasuxvew.com^$all
 ||rkkmas.pl^$all
@@ -38115,6 +38246,7 @@
 ||roboenergy.com^$all
 ||robofall.com^$all
 ||robotechcity.com^$all
+||robotrevolution.online^$all
 ||robotykuchenne.com^$all
 ||robpower.coddes.top^$all
 ||robprojkt.coddes.top^$all
@@ -40685,6 +40817,7 @@
 ||sprzedamkoszty.com^$all
 ||sprzedamoddam.pl^$all
 ||sprzedawaj-samochody.pl^$all
+||sprzedaz-lokalnaa.pl^$all
 ||sprzedaz-motoryzacja24.pl^$all
 ||sprzedazwysylki.online^$all
 ||spubili.space^$all
@@ -41736,6 +41869,7 @@
 ||szybkie-informacje.eu^$all
 ||szybkie-klikanie.eu^$all
 ||szybkie-wiesci.pl^$all
+||szybkie-zamowienie.pl^$all
 ||szybkie-znalezione.eu^$all
 ||szybkiefakty.eu5.net^$all
 ||szybkiepolaczeniaa.site^$all
@@ -42542,6 +42676,7 @@
 ||thebestfinnews.com^$all
 ||thebestoffersmain4you.com^$all
 ||thebestway2.store^$all
+||thebestway3.online^$all
 ||thebestway3.xyz^$all
 ||thebiggay.com^$all
 ||thebillymadden.com^$all
@@ -43996,6 +44131,7 @@
 ||twoje-zdjecia-6324.herokuapp.com^$all
 ||twoje-zdjecie.eu^$all
 ||twoje-zdrowie.club^$all
+||twojeauto24.com.pl^$all
 ||twojefilmy.online^$all
 ||twojeinfo-polska24.x9.eu^$all
 ||twojeinformacje.click^$all
@@ -47515,6 +47651,7 @@
 ||wynajem-mieszkanwarszawa.pl^$all
 ||wynajemmieszkan-dawidowski.pl^$all
 ||wynajemmieszkan-krakow.pl^$all
+||wynajemmieszkan-kurek.pl^$all
 ||wynajemmieszkaniowy-niewiarowska.pl^$all
 ||wynajemmieszkaniowy-tomaszek.pl^$all
 ||wynajimij-mieszkanie24.pl^$all
