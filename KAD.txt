@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 17 Oct 2023, 14:31 UTC+02:00
-! Version: 2023.10.17.1
+! Last modified: Tue, 17 Oct 2023, 18:21 UTC+02:00
+! Version: 2023.10.17.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2783,6 +2783,7 @@
 ||1.dasdasw.com^$all
 ||1.fgdgfdgfd.com^$all
 ||1.greatgreat.monster^$all
+||1.hotgreat.site^$all
 ||1.jpopioi.com^$all
 ||1.marcukesh.top^$all
 ||1.poland-money.fun^$all
@@ -2977,6 +2978,7 @@
 ||2fh.autos^$all
 ||2fk.autos^$all
 ||2kpro.sanital.xyz^$all
+||2m8zl.thvto.ru^$all
 ||2mil.fintodayai.autos^$all
 ||2my.co^$all
 ||2navi.com^$all
@@ -3745,6 +3747,7 @@
 ||3129b67136.espn365.com^$all
 ||3176f4a777b.chefs-kitchen.co.uk^$all
 ||3191bbca402.chefs-kitchen.co.uk^$all
+||3221-poczta-potwierdzac.renataczemiel.pl^$all
 ||3296e14f61e.chefs-kitchen.co.uk^$all
 ||3505acb3eab.chefs-kitchen.co.uk^$all
 ||3782b03fe9b8aa51be27740a261413c1.adawards.com.pl^$all
@@ -3761,11 +3764,13 @@
 ||5270-logowania-zaakceptowac.funcki.pl^$all
 ||5753.trdnewstory.xyz^$all
 ||5858d9c4.bakerstreetfinance.tv^$all
+||6176-logowaniu-wydanie.renataczemiel.pl^$all
 ||6205-logowania-wydanie.ryszardkrynicki.com.pl^$all
 ||6386-zaloguj-potwierdzac.ryszardkrynicki.com.pl^$all
 ||6420cae22a9785875.temporary.link^$all
 ||6483-weryfikacja-zaakceptowac.rozazary.pl^$all
 ||7059dd42240.chefs-kitchen.co.uk^$all
+||7067-kodsms-dom.romuald.nieruchomosci.pl^$all
 ||7069f54b94d92dc6159c994d14326394.lisapwa.pl^$all
 ||7081df195ba.johncornell.com^$all
 ||7228.eu^$all
@@ -3774,11 +3779,14 @@
 ||7618af0dcdb.chefs-kitchen.co.uk^$all
 ||7623-zaloguj-potwierdzac.ryszardkrynicki.com.pl^$all
 ||7761d133.sibforms.com^$all
+||7915-zaloguj-zaakceptowac.poturalski.pl^$all
+||7970-logowania-wydanie.romuald.nieruchomosci.pl^$all
 ||7979a4eaba3576598d461312c740b265.lisapwa.pl^$all
 ||8035ugt-w34hrg-0hjwre-ghjew-r0hg-ehg9-h-rtg.obs.af-south-1.myhuaweicloud.com^$all
 ||8039a32b2536c410f052.tlsens.pl^$all
 ||8375b1c29e11174d6ef62e898664daca.darmowas.pl^$all
 ||8416f67b9c8.chefs-kitchen.co.uk^$all
+||8429-kod-praca.poturalski.pl^$all
 ||8555tsjwu4.alicjakinga.pl^$all
 ||8566d95655c413e4f65044bffbf50cd8.iaoslo.pl^$all
 ||8685d.shb.pt^$all
@@ -3787,10 +3795,12 @@
 ||9272a411ae5.chefs-kitchen.co.uk^$all
 ||9343-aktualizacja-wydanie.funcki.pl^$all
 ||9420c4fad58d6f806768304f7eafc257.urszulaprzymuszala.net.pl^$all
+||9496-logowania-organizowac.poturalski.pl^$all
 ||9665e14b516.chefs-kitchen.co.uk^$all
 ||9745abee9473d9841bc96c1d0c7ba637.visolaw.pl^$all
 ||09781dbd6bc.chefs-kitchen.co.uk^$all
 ||9811-konta-wydanie.ryszardkrynicki.com.pl^$all
+||9877-zaloguj-wydanie.poturalski.pl^$all
 ||9982dc42b71.chefs-kitchen.co.uk^$all
 ||15125f33dde.chefs-kitchen.co.uk^$all
 ||19123.info^$all
@@ -5655,6 +5665,7 @@
 ||allegrolokalnie.nssl.pl^$all
 ||allegrolokalnie.oferta24h.pl^$all
 ||allegrolokalnie.oferta-24h.pl^$all
+||allegrolokalnie.oferta-prywatna.pl^$all
 ||allegrolokalnie.pay-now24.pl^$all
 ||allegrolokalnie.pay-u.pl^$all
 ||allegrolokalnie.payu-online.pl^$all
@@ -5667,6 +5678,8 @@
 ||allegrolokalnie.platnosc-zweryfikowana.pl^$all
 ||allegrolokalnie.polskie-zakupy.pl^$all
 ||allegrolokalnie.proste-zamowienia.pl^$all
+||allegrolokalnie.prywatna-aukcja24.pl^$all
+||allegrolokalnie.prywatna-aukcja-uzytkownika.pl^$all
 ||allegrolokalnie.prywatny-zakup.pl^$all
 ||allegrolokalnie.przelew-online24.pl^$all
 ||allegrolokalnie.przesylka-bezpieczna24.pl^$all
@@ -7342,7 +7355,9 @@
 ||autogielda-nowinski.pl^$all
 ||autogielda-parzyszek.pl^$all
 ||autogielda-pawelczuk.pl^$all
+||autogielda-rentowicz.pl^$all
 ||autogielda-roman.pl^$all
+||autogielda-rybarczyk.pl^$all
 ||autogielda-sobakowski.pl^$all
 ||autogielda-tomanski.pl^$all
 ||autogielda-tomaszczuk.pl^$all
@@ -7355,10 +7370,13 @@
 ||autoinduction.space^$all
 ||autoinformacja.com^$all
 ||autoinvst.autos^$all
+||autokomis-biedrzycki.pl^$all
 ||autokomis-cekwinski.pl^$all
 ||autokomis-karwinski.pl^$all
+||autokomis-olczewski.pl^$all
 ||autokomis-paprocki.pl^$all
 ||autokomis-sklep.pl^$all
+||autokomis-tomala.pl^$all
 ||autokomishandel.pl^$all
 ||autokooomis.pl^$all
 ||automarkt.com.pl^$all
@@ -7369,6 +7387,7 @@
 ||autonomy-offers.com^$all
 ||autooo-gadek.pl^$all
 ||autooomagazyn.pl^$all
+||autoooo-gielda.pl^$all
 ||autoplagiarism.life^$all
 ||autoresdecomic.com^$all
 ||autorotat.com^$all
@@ -7376,6 +7395,7 @@
 ||autoship.lolacc.com^$all
 ||autosprzedajemy.pl^$all
 ||autosprzedaz-duklinski.pl^$all
+||autosprzedaz-ignaczewski.pl^$all
 ||autotimbre.info^$all
 ||autotrade-group.com^$all
 ||autotradeportal.com^$all
@@ -8667,6 +8687,7 @@
 ||bearhuntstop.com^$all
 ||bearingintelligible.cn^$all
 ||bearrrtomin.site^$all
+||bearul.com^$all
 ||beasley.bartlomiej.net.pl^$all
 ||beastbrand.beauty^$all
 ||beastmasterdom.site^$all
@@ -9985,6 +10006,7 @@
 ||bothsided.info^$all
 ||botprograminfo.top^$all
 ||bots.io^$all
+||bottledandjarredpackagedgoods.com^$all
 ||bottomedre.com^$all
 ||botulinus.live^$all
 ||botulinwags.com^$all
@@ -10418,6 +10440,7 @@
 ||business-case.co^$all
 ||business-chase.com^$all
 ||business-fb-review-12896192526.web.app^$all
+||business-helpcenter-meta.site^$all
 ||business-interia.com^$all
 ||business-page-appeal-00-258912.firebaseapp.com^$all
 ||business-page-appeal-00-258912.web.app^$all
@@ -11100,6 +11123,7 @@
 ||casasylotesenpilardeleste.com^$all
 ||cascadejazz.com^$all
 ||casd.cashhs-news.top^$all
+||case11235.contactmetabusiness.online^$all
 ||case-9b915.web.app^$all
 ||case-62b23.web.app^$all
 ||casecat.instructure.com^$all
@@ -11647,6 +11671,7 @@
 ||changeurlife-withus.icu^$all
 ||changeurlife-withus.motorcycles^$all
 ||changingb.cfd^$all
+||changingonthefly.com^$all
 ||changrottawithe.cf^$all
 ||channelstorynewspaper.com^$all
 ||chaostear.com^$all
@@ -12173,6 +12198,7 @@
 ||clubinvesgoog.cfd^$all
 ||clubmaster.ink^$all
 ||cluboptimisteoka.com^$all
+||clubremate.com^$all
 ||clubscan.net^$all
 ||clubsportfairview.com^$all
 ||cluedo.space^$all
@@ -13012,6 +13038,7 @@
 ||cryptobmode.goprogramia.top^$all
 ||cryptobx.goprogramia.top^$all
 ||cryptocoinfolio.com^$all
+||cryptocoinjar.com^$all
 ||cryptoconsultinggroups.com^$all
 ||cryptodatasource.com^$all
 ||cryptoferia.com^$all
@@ -13120,6 +13147,7 @@
 ||cudownamelodiia.site^$all
 ||cudownyybalagan.site^$all
 ||cudreb.com^$all
+||cuelang.com^$all
 ||cuencovegano.com^$all
 ||cuentosparasuperpadres.com^$all
 ||cuestreams.com^$all
@@ -14052,6 +14080,7 @@
 ||delaw.site^$all
 ||delawaakai.live^$all
 ||delayres.xyz^$all
+||delcentrofunes.com^$all
 ||deleites.com^$all
 ||delenie.xyz^$all
 ||deleons.info^$all
@@ -15776,6 +15805,7 @@
 ||dyjutoomio.live^$all
 ||dylorea8.xyz^$all
 ||dynamic-zesty-coach.glitch.me^$all
+||dynamicconsultora.com^$all
 ||dynamicviews.site^$all
 ||dynarnics2.com^$all
 ||dynastycognac.com^$all
@@ -15876,6 +15906,7 @@
 ||e-yourmovies.com^$all
 ||e-zdarzenia24.eu^$all
 ||e-zdrovvie.com^$all
+||e.alpstationcles.com^$all
 ||e.baltic-power.pw^$all
 ||e.biocorpaust.com^$all
 ||e.finnewspl.com^$all
@@ -16080,6 +16111,7 @@
 ||ediscover.pl^$all
 ||edistoparasail.com^$all
 ||editionkong.com^$all
+||editorialdinamis.com^$all
 ||editorpartition.cn^$all
 ||editsedit.com^$all
 ||edland.pro^$all
@@ -16302,6 +16334,7 @@
 ||election.megu-acu.com^$all
 ||electricmap.monster^$all
 ||electricvehicletechnology.cfd^$all
+||electroares.com^$all
 ||electrocanada.online^$all
 ||electroenchufe.com^$all
 ||electrolysisprocess.cfd^$all
@@ -16489,6 +16522,7 @@
 ||emetia.live^$all
 ||emeticstem.com^$all
 ||emilianofraga.com^$all
+||emilianotenzi.com^$all
 ||emiline.info^$all
 ||emiliomarre.com^$all
 ||emilmoe.dk^$all
@@ -16883,6 +16917,7 @@
 ||estimport-tm.com^$all
 ||estoredirect.com^$all
 ||estoreempire.com^$all
+||estoymirandohogarydeco.com^$all
 ||estrada.slwiastore.pl^$all
 ||estrangedscary.com^$all
 ||eswiatzabawek.com^$all
@@ -17042,6 +17077,7 @@
 ||euz8.canmaxiprog.site^$all
 ||eva-car.com^$all
 ||evaginateu.com^$all
+||evanjerkunica.com^$all
 ||evansfamilysj.com^$all
 ||evanvassallo.com^$all
 ||evarest.biz^$all
@@ -17198,6 +17234,7 @@
 ||exploresacramento.com^$all
 ||explorethelodge.com^$all
 ||exploringcardiff.com^$all
+||expogolosinas.com^$all
 ||exportopporrtwnities.site^$all
 ||exposurecomputers.com^$all
 ||expoundspu.com^$all
@@ -17761,6 +17798,7 @@
 ||fanates.shop^$all
 ||fancyact.com^$all
 ||fancyw.sbs^$all
+||fang.qiqao.com^$all
 ||fanigym.com^$all
 ||fanjisheji.com^$all
 ||fanosfantasma.com^$all
@@ -21007,6 +21045,7 @@
 ||growdhanfinserv.com^$all
 ||growhackr.com^$all
 ||growhugo.online^$all
+||growingentropy.com^$all
 ||growininpreh.ml^$all
 ||growoldnoweer.site^$all
 ||growppc.com^$all
@@ -23405,6 +23444,7 @@
 ||impost.4315641.xyz^$all
 ||impost.6222316.xyz^$all
 ||impost.17451512.xyz^$all
+||impost.67451512.xyz^$all
 ||impost.896594851.xyz^$all
 ||impost.36594345154.xyz^$all
 ||impq23.shopmuopios.online^$all
@@ -26122,6 +26162,7 @@
 ||klazon.space^$all
 ||klegrostechs.com^$all
 ||kleinanzeigen.get9078.cloud^$all
+||kleivercarreno.com^$all
 ||klemens.artcd.net.pl^$all
 ||klemensfriedl.com^$all
 ||klemokrit-xyz.preview-domain.com^$all
@@ -26374,6 +26415,7 @@
 ||korzystaj-typuj.eu^$all
 ||korzystna-zakupomania.buzz^$all
 ||korzystnewiadomosci.space^$all
+||koscielec.gregorzkucha.pl^$all
 ||koshelekzlotyh.xyz^$all
 ||kosherpalace.com^$all
 ||koshiyo.com^$all
@@ -27064,6 +27106,7 @@
 ||lemlistfamily.com^$all
 ||lemon-maddening-bucket.glitch.me^$all
 ||lemondesing.com^$all
+||lemonteadesign.com^$all
 ||lemonwalnut.com^$all
 ||lemz.kowt.site^$all
 ||lena.plprogram-act.site^$all
@@ -27577,6 +27620,7 @@
 ||lingwords.net^$all
 ||lingwords.org^$all
 ||liniowy.sportbetsignupcode.com^$all
+||link-access.sup-api-app.com^$all
 ||link-company.ink^$all
 ||link.id-onet.pl^$all
 ||link.indepn.site^$all
@@ -28116,6 +28160,7 @@
 ||lordsproductions.com^$all
 ||loreinoniio.com^$all
 ||lores.autos^$all
+||loretas.space^$all
 ||lorletteandwill.com^$all
 ||los3don.com^$all
 ||losbalun.com^$all
@@ -28304,7 +28349,6 @@
 ||luikasv.wertas.xyz^$all
 ||lukainformacyjna.online^$all
 ||lukas23zb.brunonborowski.info.pl^$all
-||lukasiewczgov.pl^$all
 ||lukasz207.bognasobczak.warszawa.pl^$all
 ||lukaszlepicki.pl^$all
 ||lukaszspica.aleksbanach.pl^$all
@@ -32858,6 +32902,8 @@
 ||ocorreu.com^$all
 ||octamerous.info^$all
 ||octane.sbs^$all
+||octbeti.com^$all
+||octdealb.com^$all
 ||october-de.sa.com^$all
 ||october-media.za.com^$all
 ||october-pl.sa.com^$all
@@ -32961,6 +33007,7 @@
 ||oferta-122.orders94851.info^$all
 ||oferta-213.neworder44799.info^$all
 ||oferta-miesiaca.link^$all
+||oferta-prywatna.pl^$all
 ||ofertanajuz.pl^$all
 ||oferty-olx.pl^$all
 ||oferty-pracy.waw.pl^$all
@@ -34881,6 +34928,7 @@
 ||peopllemaker.com^$all
 ||pepcopolsskaa.blogspot.com^$all
 ||pepepe.3cx.eu^$all
+||pepestudiosradiotv.com^$all
 ||peppypunjabis.com^$all
 ||pepsico.cam^$all
 ||pequildedgue.site^$all
@@ -36090,6 +36138,7 @@
 ||plx0.canfxprog.site^$all
 ||plx1.firecantrade.site^$all
 ||plx14.canfxprog.site^$all
+||plx.hldns.ru^$all
 ||plxvvd.buzz^$all
 ||plyfw.phweditorial.com^$all
 ||plying.info^$all
@@ -37841,6 +37890,8 @@
 ||prwespe.site^$all
 ||pryan-offers.com^$all
 ||pryley.com^$all
+||prywatna-aukcja24.pl^$all
+||prywatna-aukcja-uzytkownika.pl^$all
 ||prywatne-fotki.mywebcommunity.org^$all
 ||prywatne-oferty.pl^$all
 ||prywatne-ogloszenie24h.pl^$all
@@ -38149,6 +38200,7 @@
 ||pzngvqzvim.sa.com^$all
 ||pzngyaqvmd.sa.com^$all
 ||pzol.bosd.online^$all
+||pzpmyslowice.davidrakowski.sklep.pl^$all
 ||pzu.appco-point.site^$all
 ||pzu.electronorte.com.ar^$all
 ||pzuagent.online^$all
@@ -41364,6 +41416,7 @@
 ||sitoffers.com^$all
 ||sitsz.dmexusa.com^$all
 ||sittingsuspend.com^$all
+||siupelab.site^$all
 ||siuuu.byseniscon.top^$all
 ||sixokuikei.info^$all
 ||sixonenine1.com^$all
@@ -42162,6 +42215,7 @@
 ||sprzedajoddajkup.pl^$all
 ||sprzedam-motoryzacja4u.pl^$all
 ||sprzedamkoszty.com^$all
+||sprzedamkupie.online^$all
 ||sprzedamoddam.pl^$all
 ||sprzedawaj-samochody.pl^$all
 ||sprzedaz-lokalnaa.pl^$all
@@ -42633,6 +42687,7 @@
 ||stsroyal.com^$all
 ||stubbornhearted.xyz^$all
 ||studesko.com^$all
+||studio51.pascalmadej.pl^$all
 ||studiofalcon.com^$all
 ||studiokosmetyczneimage.brianbruno.pl^$all
 ||studiorogus.com^$all
@@ -42998,6 +43053,7 @@
 ||sweatwithjon.net^$all
 ||swedenpost.top^$all
 ||sweeney.esalmed.warszawa.pl^$all
+||sweepare.info^$all
 ||sweepstakes4u.s3.amazonaws.com^$all
 ||sweesnoy.space^$all
 ||sweet-souffle-68db6d.netlify.app^$all
@@ -45428,6 +45484,7 @@
 ||tussursfi.com^$all
 ||tutajdodaj.pl^$all
 ||tutajmaszinformacje.click^$all
+||tuveterinariaencasa.com^$all
 ||tuvisodep.com^$all
 ||tuvpowerelectronics.com^$all
 ||tuwutia.com^$all
@@ -46113,6 +46170,7 @@
 ||urgacrg5zb.lilagoraj.pl^$all
 ||urhgexurmi.live^$all
 ||urho.site^$all
+||uribella.com^$all
 ||uristprofi.com^$all
 ||urk.wtrst.com^$all
 ||url-d32c17.ingress-florina.ewp.live^$all
@@ -46340,6 +46398,7 @@
 ||vamosmiverde.com^$all
 ||vanagarfinance.com^$all
 ||vanberkumsittard.nl^$all
+||vanesajoyas.com^$all
 ||vanessaglobal.services^$all
 ||vanessavuela.com^$all
 ||vanfarway.com^$all
@@ -46465,6 +46524,7 @@
 ||venshgk.link^$all
 ||venstafediscclan.gq^$all
 ||vent3dlab.online^$all
+||ventabarata.com^$all
 ||ventioscan.cyou^$all
 ||ventore-com.preview-domain.com^$all
 ||ventturevanttage.site^$all
@@ -46590,6 +46650,7 @@
 ||viasyswaicentclim.cf^$all
 ||vibra-bonito.com^$all
 ||vibrant5life.online^$all
+||vibrant6.live^$all
 ||vibrantcolorrs.site^$all
 ||vibrantcommunity.xyz^$all
 ||vibrantculture.xyz^$all
@@ -46606,8 +46667,11 @@
 ||vicmancon.com.bjmzcarbon.cam^$all
 ||victimizing.info^$all
 ||victoria.liswea.opole.pl^$all
+||victoriaalonsoofficial.com^$all
+||victoriaok.com^$all
 ||vid.madds.xyz^$all
 ||vidalegal.org^$all
+||vidalmarmoles.com^$all
 ||video.4mf2.gay^$all
 ||video.4tog.gay^$all
 ||video.54157.sbs^$all
@@ -46690,6 +46754,7 @@
 ||vimtedsite.35608521.xyz^$all
 ||vin-lescude.fr^$all
 ||vinabitin.com^$all
+||vinaoliviawines.com^$all
 ||vincenzefashione.keep.pl^$all
 ||vincerblack.com^$all
 ||vindohonat.site^$all
@@ -48246,6 +48311,7 @@
 ||welchallynargentina.com^$all
 ||welcom1online.quest^$all
 ||welcomiinglocals.site^$all
+||welcot.com^$all
 ||welhp.sunddip.com^$all
 ||weliko.mi-scooter.co^$all
 ||welkindoor.com^$all
@@ -49089,6 +49155,7 @@
 ||wxyzservermg3.web.app^$all
 ||wxyzservermg4.web.app^$all
 ||wy1.quest^$all
+||wy32-rt.cfd^$all
 ||wybierajmy-ludzi.eu^$all
 ||wybieramy-wygranych.eu^$all
 ||wybierz-zwyciezce.eu^$all
@@ -49482,6 +49549,7 @@
 ||ycxyh.marchbanca.com^$all
 ||yd85.padariamorgado.pt^$all
 ||ydk3.homes^$all
+||ye45-iy.cfd^$all
 ||yearn-financecode.financialmarketsworld.com^$all
 ||yeatron-com.preview-domain.com^$all
 ||yedonis.site^$all
@@ -49676,6 +49744,7 @@
 ||yourmark.eu^$all
 ||yourmexicorealestateexpert.com^$all
 ||yournam5egeneratorclub.xyz^$all
+||yournewincome.info^$all
 ||yourpackage-help.com^$all
 ||yourpackagehelp.com^$all
 ||yourpieniedzy4600.site^$all
@@ -49714,6 +49783,7 @@
 ||yrze.xoneprog.site^$all
 ||ysakom.space^$all
 ||ysal.skin^$all
+||ysf-436.cfd^$all
 ||yslyr.silverbackbranding.com^$all
 ||ysmens.com^$all
 ||ysqk-offers.com^$all
