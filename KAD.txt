@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 20 Oct 2023, 18:20 UTC+02:00
-! Version: 2023.10.20.2
+! Last modified: Fri, 20 Oct 2023, 22:17 UTC+02:00
+! Version: 2023.10.20.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5702,6 +5702,7 @@
 ||allegrolokalnie.49484845.xyz^$all
 ||allegrolokalnie.59484845.xyz^$all
 ||allegrolokalnie.$doc,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
+||allegrolokalnie.aukcja24h.pl^$all
 ||allegrolokalnie.aukcja.store^$all
 ||allegrolokalnie.bezpieczna-przesylka.pl^$all
 ||allegrolokalnie.bezpieczna-wysylka24.pl^$all
@@ -5721,12 +5722,15 @@
 ||allegrolokalnie.dostawa-bezpieczna.pl^$all
 ||allegrolokalnie.euweb.cz^$all
 ||allegrolokalnie.expressplatnosci.pl^$all
+||allegrolokalnie.ezakup24h-7.pl^$all
+||allegrolokalnie.ezakup24h.pl^$all
 ||allegrolokalnie.kup24h-7.pl^$all
 ||allegrolokalnie.kup-online24h.pl^$all
 ||allegrolokalnie.kup-sprzedaj.pl^$all
 ||allegrolokalnie.kup-z-bezpieczna-przesylka.pl^$all
 ||allegrolokalnie.kup-z-dostawa.pl^$all
 ||allegrolokalnie.kupno24-7.pl^$all
+||allegrolokalnie.kupno24h-7.pl^$all
 ||allegrolokalnie.kupowanie-24.pl^$all
 ||allegrolokalnie.kupteraz24h-7.pl^$all
 ||allegrolokalnie.kupteraz-24h.pl^$all
@@ -7103,6 +7107,7 @@
 ||atopl.sbs^$all
 ||atordeg.com.br^$all
 ||atp-c.ru^$all
+||atqenhdtopahejyerxvdgetajhdyetfae.node.cloudlets.zone^$all
 ||atquants.com^$all
 ||atramid.site^$all
 ||atreyastudios.com^$all
@@ -7332,6 +7337,7 @@
 ||augustinians.info^$all
 ||auimy.hechizosyamarres2020.com^$all
 ||aukainiereme.link^$all
+||aukcja24h.pl^$all
 ||aukcja-olx.pl^$all
 ||aukcje-allegrolokalnie.pl^$all
 ||aukobere.site^$all
@@ -7390,6 +7396,7 @@
 ||auta-gniezno.pl^$all
 ||auta-info.pl^$all
 ||auta-jacek.pl^$all
+||auta-jackowiak.pl^$all
 ||auta-jakub.pl^$all
 ||auta-jan.pl^$all
 ||auta-jarek.pl^$all
@@ -7485,6 +7492,7 @@
 ||autobyeyan.com^$all
 ||autocarshippings.com^$all
 ||autodiscover.marketbull.live^$all
+||autodlaciebie-lokalnie.pl^$all
 ||autodoor-hy.com^$all
 ||autoel90.com^$all
 ||autoescuelavirgendeluna.com^$all
@@ -7511,6 +7519,7 @@
 ||autogielda-tomaszuk.pl^$all
 ||autogielda-traczek.pl^$all
 ||autogielda-wegielski.pl^$all
+||autogielda-zachod.pl^$all
 ||autohandel-banaszek.pl^$all
 ||autohandel-barczynski.pl^$all
 ||autohandel-rotczynski.pl^$all
@@ -7548,6 +7557,7 @@
 ||autosprzedaz-duklinski.pl^$all
 ||autosprzedaz-ignaczewski.pl^$all
 ||autosprzedaz-lokalnie.net.pl^$all
+||autosprzedaz-niewiarowski.pl^$all
 ||autotimbre.info^$all
 ||autotrade-group.com^$all
 ||autotradeportal.com^$all
@@ -8900,6 +8910,7 @@
 ||bedtimesnap.com^$all
 ||bedziedzialanietak.lol^$all
 ||bedzietszytkow.website^$all
+||bedzietworczoscu.homes^$all
 ||beebbeebcars.com^$all
 ||beech-extend.webnode.fi^$all
 ||beecontrolbuckeyeaz.com^$all
@@ -14265,6 +14276,7 @@
 ||dealsfryou.org^$all
 ||dealshoppingonline.com^$all
 ||dealsnbuy.com^$all
+||dealstoeatoffer.com^$all
 ||dealstrack4x.com^$all
 ||dealuxup19.site^$all
 ||dean.marekgw.pl^$all
@@ -16063,6 +16075,7 @@
 ||duckle.sbs^$all
 ||duckpencil.live^$all
 ||ductpriceguides.com^$all
+||ducvu.pages.pro.br^$all
 ||dud1.firecantrade.site^$all
 ||dud2.eutradepeopl.top^$all
 ||dud3.firecantrade.site^$all
@@ -17713,6 +17726,8 @@
 ||eyz1.firecantrade.site^$all
 ||eyz2.firecantrade.site^$all
 ||ez-erc-business.com^$all
+||ezakup24h-7.pl^$all
+||ezakup24h.pl^$all
 ||ezalukaj*.$doc
 ||ezdbocyhjyleos.com^$all
 ||ezdnshost.com^$all
@@ -18039,6 +18054,7 @@
 ||facebook.webd.pro^$all
 ||facebookpolicy12.ddns.net^$all
 ||facebookpolicy12.ddnsking.com^$all
+||faceboook.me^$all
 ||faceinfocus.net^$all
 ||facelessinseattle.com^$all
 ||facelt-shield.com^$all
@@ -18098,6 +18114,7 @@
 ||fakt24h-informacje.com.pl^$all
 ||fakt*.is-best.net^$all
 ||fakt.newssinfos.xyz^$all
+||faktexpress24.eu^$all
 ||faktinfo.holy-matter.com^$all
 ||faktinvestmetns.mya5.ru^$all
 ||faktonews07102021.ct8.pl^$all
@@ -24670,6 +24687,7 @@
 ||inpost-pl.sale24.top^$all
 ||inpost-pl.sdfjpq.pw^$all
 ||inpost-pl.sdfoas.site^$all
+||inpost-pl.sdopa.online^$all
 ||inpost-pl.seopedia.top^$all
 ||inpost-pl.sg9.xyz^$all
 ||inpost-pl.shostka.website^$all
@@ -27189,10 +27207,12 @@
 ||kupieoddamzamienie.pl^$all
 ||kupiesprzedamzamienie.com^$all
 ||kupletpo17.za.com^$all
+||kupno24h-7.pl^$all
 ||kupno.sportbetsignupcode.com^$all
 ||kupoddajsprzedaj.pl^$all
 ||kupowanie-online.pl^$all
 ||kupsprzedajoddaj.pl^$all
+||kupteraz24h-7.pl^$all
 ||kupterdostawka.shop^$all
 ||kupuj-lokalnie.pl^$all
 ||kupuj-online24.pl^$all
@@ -31146,6 +31166,7 @@
 ||motogielda-rybarek.pl^$all
 ||motogielda-sidorczuk.pl^$all
 ||motohandel-kleparek.pl^$all
+||motohandel-niewiarowski.pl^$all
 ||motohandel-szymczak.pl^$all
 ||motohandel-wolski.pl^$all
 ||motokomis-olszewski.pl^$all
@@ -31435,6 +31456,7 @@
 ||musjhildir.site^$all
 ||muskprograms.traidinfomes.space^$all
 ||musksprog.traidinfomes.space^$all
+||musson.info^$all
 ||musssoppin.com^$all
 ||must-market.online^$all
 ||mustafayousry.com^$all
@@ -35139,6 +35161,7 @@
 ||pagemanagersupport.com^$all
 ||pageolx-market.756421.xyz^$all
 ||pageolx-purchase.7566643.xyz^$all
+||pages-notifications.net^$all
 ||pagfatura.com^$all
 ||pagydeaxui.live^$all
 ||pahaz2.markussowinski.pl^$all
@@ -35487,6 +35510,7 @@
 ||pbastarrica.com^$all
 ||pbgrb.dependindicate.co.in^$all
 ||pbjhwk.awicksin.com^$all
+||pbtulsxsbu.sa.com^$all
 ||pbucjw2dz.digital^$all
 ||pc3.beauty^$all
 ||pcaotz-poakls.com^$all
@@ -36563,6 +36587,7 @@
 ||playkull.com^$all
 ||playlifehard.bar^$all
 ||playmateso.com^$all
+||playpenf.sbs^$all
 ||playproject52.com^$all
 ||playproz.com^$all
 ||playrightsoftware.com^$all
@@ -37862,6 +37887,7 @@
 ||powertechequipment.com^$all
 ||powertransmission.cfd^$all
 ||powertrusion.com^$all
+||powiadomienia24h.click^$all
 ||powiadomieniaa.pl^$all
 ||powiklania.you2.pl^$all
 ||powszechne-informacje.eu^$all
@@ -42348,6 +42374,7 @@
 ||slips-offers.com^$all
 ||sll.tp2-axz.xyz^$all
 ||sllblog.site^$all
+||sllovinomis.com^$all
 ||sloan.huborform.com.pl^$all
 ||sloan.slwiastore.pl^$all
 ||slodki-boxx.link^$all
@@ -43950,6 +43977,7 @@
 ||syds588.cn^$all
 ||sydwrica.com^$all
 ||syfmurhteqbvzjcn.com^$all
+||sygnalalarmowy.click^$all
 ||sygnum-app.com^$all
 ||syhymyufuu.live^$all
 ||syires.site^$all
@@ -47025,6 +47053,7 @@
 ||ureat.tomdeng.com^$all
 ||urediamist.com^$all
 ||ureiowwojahjudduejddd.site^$all
+||urelacjebo.cfd^$all
 ||urenus16.tunetype.info^$all
 ||ureterogram.life^$all
 ||urethrosco.com^$all
@@ -47436,6 +47465,7 @@
 ||verifypagerepair1297.duckdns.org^$all
 ||veritemj.com^$all
 ||veriusgames.net^$all
+||veriyacountbusinesses.com^$all
 ||vermicullittereq.site^$all
 ||vernallyve.com^$all
 ||vernals-xyz.preview-domain.com^$all
@@ -47552,6 +47582,7 @@
 ||video.krkpr.click^$all
 ||video.m304.gay^$all
 ||video.miod.lat^$all
+||video.sbxxd5u.cyou^$all
 ||video.z9o2d.gay^$all
 ||videoplanet.pl^$all
 ||videorockolasjira.com^$all
@@ -49941,6 +49972,7 @@
 ||wraskoch.space^$all
 ||wrathingch.com^$all
 ||wrawls.live^$all
+||wrazplanowaniebedzie.site^$all
 ||wreckmaps.com^$all
 ||wreingl.com^$all
 ||wrenchnumber.bond^$all
@@ -50846,6 +50878,8 @@
 ||zakupnavint24na7.shop^$all
 ||zakupolx.pl^$all
 ||zakupuj-auta.pl^$all
+||zakupy24h-7.pl^$all
+||zakupy-24h.pl^$all
 ||zakupy-auta.pl^$all
 ||zakupy-bezpieczne.pl^$all
 ||zakupy-marketplace.pl^$all
@@ -50957,6 +50991,7 @@
 ||zatnijprawwe.click^$all
 ||zator-energlanndia.waw.pl^$all
 ||zatrudnienie.waw.pl^$all
+||zatworczoscprzed.cfd^$all
 ||zaufanefakty.pl^$all
 ||zaufaneinformacje24.pl^$all
 ||zauroczonyprzezyciami.click^$all
@@ -51063,6 +51098,7 @@
 ||zeon.autos^$all
 ||zephyrspaceblog61.site^$all
 ||zephyrspaceeblog10.site^$all
+||zeprzygodado.makeup^$all
 ||zerion.online^$all
 ||zerkalist.site^$all
 ||zerno.space^$all
@@ -51213,6 +51249,7 @@
 ||znanytemat.pl^$all
 ||znkasd.pl^$all
 ||znkasl.pl^$all
+||znowuwiedzatakie.rest^$all
 ||znvwa.heladoskristal.com^$all
 ||znzbacueueeuehdj.site^$all
 ||znzmnvziccoxosisak.site^$all
