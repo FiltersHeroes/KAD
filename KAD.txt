@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 22 Oct 2023, 18:19 UTC+02:00
-! Version: 2023.10.22.3
+! Last modified: Sun, 22 Oct 2023, 19:10 UTC+02:00
+! Version: 2023.10.22.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -80,6 +80,7 @@
 ||air90shop.com^$all
 ||airycloth.com^$all
 ||airydress.com^$all
+||ajrehtrade.com^$all
 ||akcjasgk.pl^$all
 ||akredytowane.pl^$all
 ||aktywnytylicz.pl^$all
@@ -154,6 +155,7 @@
 ||assenoo.com^$all
 ||atcofiles.com^$all
 ||atrium-konie.pl^$all
+||attirra.com^$all
 ||atwi.pl^$all
 ||audio-book.net.pl^$all
 ||audmax.pl^$all
@@ -326,6 +328,7 @@
 ||buyelectro.pl^$all
 ||buyfashionzone.com^$all
 ||buzzonclick.com^$all
+||bzndsz.top^$all
 ||caffeepolit.pl^$all
 ||caicamall.com^$all
 ||caicshop.com^$all
@@ -787,6 +790,9 @@
 ||health-line.me^$all
 ||health-partner.net^$all
 ||healthy-news.biz^$all
+||healy.shop^$all
+||healy.world^$all
+||healyworld.net^$all
 ||hejmosie.com^$all
 ||herbalife.pl^$all
 ||heywood.pl^$all
@@ -1459,6 +1465,7 @@
 ||pogonruda.pl^$all
 ||pokazn.com^$all
 ||pokolorujfb*.glt.pl^$all
+||pol-dywan.pl^$all
 ||poland.fizzyslim.biz^$all
 ||polandsalomon.com^$all
 ||polarizeshop.com^$all
@@ -1624,6 +1631,7 @@
 ||rushpay.pl^$all
 ||russellbromleypolska.com^$all
 ||ryderwearpolska.com^$all
+||rywsnikm.com^$all
 ||rzezak.pl^$all
 ||s-mania.com^$all
 ||sabina.com^$all
@@ -5785,8 +5793,10 @@
 ||allegrolokalnie.prywatny-zakup.pl^$all
 ||allegrolokalnie.przelew-online24.pl^$all
 ||allegrolokalnie.przesylka-bezpieczna24.pl^$all
+||allegrolokalnie.przesylka-gwarantowana.pl^$all
 ||allegrolokalnie.przesylka-szybka24.pl^$all
 ||allegrolokalnie.przesylka-szybko.pl^$all
+||allegrolokalnie.przyjazna-dostawa.pl^$all
 ||allegrolokalnie.przyjazne-zakupom.pl^$all
 ||allegrolokalnie.przyjazne-zakupy24.pl^$all
 ||allegrolokalnie.przyjazne-zakupy.pl^$all
@@ -7455,6 +7465,7 @@
 ||auta-opole.pl^$all
 ||auta-pawel.pl^$all
 ||auta-pawlikowski.pl^$all
+||auta-piotrek.pl^$all
 ||auta-plock.pl^$all
 ||auta-poland.pl^$all
 ||auta-radek.pl^$all
@@ -9494,6 +9505,7 @@
 ||bitcoin360aiapp-net.financialmarketsworld.com^$all
 ||bitcoin-champion.app^$all
 ||bitcoin-decoder.financialmarketsworld.com^$all
+||bitcoin-era.pl^$all
 ||bitcoin-era.pro^$all
 ||bitcoin-evolutionpro.com^$all
 ||bitcoin-formula.org^$all
@@ -24735,6 +24747,7 @@
 ||inpost-pl.odfsaod.online^$all
 ||inpost-pl.ojoevoip.pw^$all
 ||inpost-pl.onebyone.pw^$all
+||inpost-pl.opasf.pw^$all
 ||inpost-pl.payauth-pass.site^$all
 ||inpost-pl.payment003452.xyz^$all
 ||inpost-pl.payment100790.xyz^$all
@@ -38775,6 +38788,7 @@
 ||przestrzeennosc.site^$all
 ||przesylek-sledzenie.com^$all
 ||przesylka-bezpieczna24.pl^$all
+||przesylka-gwarantowana.pl^$all
 ||przesylka-oix.com^$all
 ||przesylka-szybka24.pl^$all
 ||przesylka-szybka24h.pl^$all
@@ -38789,6 +38803,7 @@
 ||przybyslaw.badura.warszawa.pl^$all
 ||przybyslaw.maximilianbialek.pl^$all
 ||przygodapewnozrownowazenie.bond^$all
+||przyjazna-dostawa.pl^$all
 ||przyjazna-przesylka.pl^$all
 ||przyjazne-kupowanie.pl^$all
 ||przyjazne-zakupom.pl^$all
@@ -39247,14 +39262,17 @@
 ||quantum1ai.web.app^$all
 ||quantum2.space^$all
 ||quantum-ai-trading.com^$all
+||quantum-code.app^$all
 ||quantum-fusion.site^$all
 ||quantum-in.pw^$all
 ||quantum.firewallzoqe.cyou^$all
 ||quantum.homezoaisd.shop^$all
+||quantumcode.info^$all
 ||quantumeducation.fun^$all
 ||quantumlive.space^$all
 ||quantummarket.net^$all
 ||quantumpl.site^$all
+||quantumprimeprofit.app^$all
 ||quantumpro.space^$all
 ||quantums-trade.com^$all
 ||quardoiltrade1.online^$all
@@ -48365,6 +48383,7 @@
 ||vintedsite-purchase.5444343.xyz^$all
 ||vintedsk.order1064.eu^$all
 ||vintedsk.order1120.eu^$all
+||vintedsk.order1177.eu^$all
 ||vintedsk.order1287.eu^$all
 ||vintedsk.order1848.eu^$all
 ||vintedsk.order2974.eu^$all
