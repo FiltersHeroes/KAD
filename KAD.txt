@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 24 Oct 2023, 18:20 UTC+02:00
-! Version: 2023.10.24.2
+! Last modified: Tue, 24 Oct 2023, 22:17 UTC+02:00
+! Version: 2023.10.24.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2733,6 +2733,7 @@
 |http*://*/fb-login/$doc,domain=~facebook.com
 |http*://*/ym.html?email=*@$doc,domain=~to-moze-byc-phishing.*
 ||0-finanzierung.com^$all
+||0-okodukai.com^$all
 ||0amazin.ru.com^$all
 ||0an-news.learnbaglama.com^$all
 ||0b8cc331813049912.temporary.link^$all
@@ -3445,6 +3446,7 @@
 ||36-t.cfd^$all
 ||36aec220578.chefs-kitchen.co.uk^$all
 ||36d0e1b0735.chefs-kitchen.co.uk^$all
+||36jfbzmdxdqapi.ru^$all
 ||37-i75.cfd^$all
 ||37php.duckdns.org^$all
 ||38bmw.com^$all
@@ -4539,11 +4541,13 @@
 ||a58477.paidtomoney.com^$all
 ||a59803.24houcryptowatcher.com^$all
 ||a60135.24houcryptowatcher.com^$all
+||a60436.kanuassociates.com^$all
 ||a61242.eliteoftokens.com^$all
 ||a62875.kanuassociates.com^$all
 ||a63469.awicksin.com^$all
 ||a66963.aimedia.lk^$all
 ||a67646.kisspark.info^$all
+||a68023.kanuassociates.com^$all
 ||a70391.sadeceis.com^$all
 ||a70618.bkktothemoon.com^$all
 ||a70907.cetusinvestmentsbtc.com^$all
@@ -5831,6 +5835,11 @@
 ||allegrolokalnie.pay-now24.pl^$all
 ||allegrolokalnie.pay-u.pl^$all
 ||allegrolokalnie.payu-online.pl^$all
+||allegrolokalnie.pl-kup-szybko.pl^$all
+||allegrolokalnie.pl-kupteraz.pl^$all
+||allegrolokalnie.pl-oferta-uzytkownika.pl^$all
+||allegrolokalnie.pl-zakup-przedmiot.pl^$all
+||allegrolokalnie.pl-zakupy-online.pl^$all
 ||allegrolokalnie.plac-online24.pl^$all
 ||allegrolokalnie.plac-online.pl^$all
 ||allegrolokalnie.platnosc-24h.pl^$all
@@ -5868,6 +5877,7 @@
 ||allegrolokalnie.szybkie-zamowienie.pl^$all
 ||allegrolokalnie.szybkie-zaplac.pl^$all
 ||allegrolokalnie.szybko-kupuj.pl^$all
+||allegrolokalnie.szybko-zakup24.pl^$all
 ||allegrolokalnie.tanie-zamowienie.pl^$all
 ||allegrolokalnie.wygodna-platnosc.pl^$all
 ||allegrolokalnie.wygodne-platnosci.pl^$all
@@ -5882,6 +5892,7 @@
 ||allegrolokalnie.zakupy24h-7.pl^$all
 ||allegrolokalnie.zakupy-24h.pl^$all
 ||allegrolokalnie.zakupy-bezpieczne.pl^$all
+||allegrolokalnie.zakupy-z-ochrona.pl^$all
 ||allegrolokalnie.zamow-bezpiecznie.pl^$all
 ||allegrolokalnie.zamow-dzis.pl^$all
 ||allegrolokalnie.zamow-internetowo.pl^$all
@@ -7771,6 +7782,7 @@
 ||avnumit.site^$all
 ||avocadocom.com^$all
 ||avomed.hu^$all
+||avondaleazbeecontrol.com^$all
 ||avondelray.com^$all
 ||avrszc.rf.gd^$all
 ||avuewwunwvbwoub.site^$all
@@ -7984,6 +7996,7 @@
 ||b403.despachodeabogadosmcr.com^$all
 ||b407.paidtomoney.com^$all
 ||b433.despachodeabogadosmcr.com^$all
+||b433.kanuassociates.com^$all
 ||b435.espn365.com^$all
 ||b436.despachodeabogadosmcr.com^$all
 ||b453.espn365.com^$all
@@ -8046,6 +8059,7 @@
 ||b27194.hamdandates.com^$all
 ||b28843.aimedia.lk^$all
 ||b31350.paidtomoney.com^$all
+||b32263.kanuassociates.com^$all
 ||b32795.bkktothemoon.com^$all
 ||b35286.kisspark.info^$all
 ||b35536.24houcryptowatcher.com^$all
@@ -11205,6 +11219,7 @@
 ||c49594.aimedia.lk^$all
 ||c50578.hostingkampanya.com^$all
 ||c50995.kisspark.info^$all
+||c51770.kanuassociates.com^$all
 ||c52098.paidtomoney.com^$all
 ||c53538.cetusinvestmentsbtc.com^$all
 ||c53677.24houcryptowatcher.com^$all
@@ -11236,6 +11251,7 @@
 ||c79686.covidvcfund.com^$all
 ||c80425.paidtomoney.com^$all
 ||c80783.hamdandates.com^$all
+||c81881.kanuassociates.com^$all
 ||c82803.awicksin.com^$all
 ||c83649.paidtomoney.com^$all
 ||c85228.hamdandates.com^$all
@@ -11606,6 +11622,7 @@
 ||casinototek.com^$all
 ||casio37.com^$all
 ||casmater.com^$all
+||casokedui8hf4.s3.pl-waw.scw.cloud^$all
 ||caspiancraft.com^$all
 ||caspiyneft.site^$all
 ||caspiyneft.space^$all
@@ -13177,6 +13194,7 @@
 ||cookingpaths.com^$all
 ||cool1.site^$all
 ||cool8quet.life^$all
+||cool8tminds.site^$all
 ||cool29xy7.xyz^$all
 ||cool94vf5.quest^$all
 ||cool-events.store^$all
@@ -13625,6 +13643,7 @@
 ||cs2-natus.pro^$all
 ||cs2-source.pro^$all
 ||cs2skin4you.com^$all
+||cs2skinforyou.com^$all
 ||cs2sources-invites.com^$all
 ||cs2twitch.com^$all
 ||cs2twt.com^$all
@@ -14012,6 +14031,7 @@
 ||d27833.covidvcfund.com^$all
 ||d27904.paidtomoney.com^$all
 ||d32905.kisspark.info^$all
+||d33707.kanuassociates.com^$all
 ||d34179.epinlock.com^$all
 ||d34182.24houcryptowatcher.com^$all
 ||d35047.cetusinvestmentsbtc.com^$all
@@ -14044,6 +14064,7 @@
 ||d66936.aimedia.lk^$all
 ||d67440.cetusinvestmentsbtc.com^$all
 ||d68219.paidtomoney.com^$all
+||d70094.kanuassociates.com^$all
 ||d71520.hostingkampanya.com^$all
 ||d71728.cetusinvestmentsbtc.com^$all
 ||d71765.hamdandates.com^$all
@@ -17383,6 +17404,7 @@
 ||enzidev.com^$all
 ||enzo.pw^$all
 ||eobifoltdo.site^$all
+||eobuwieokay.shop^$all
 ||eodion.com^$all
 ||eoekdjdnbcbcbjd.site^$all
 ||eoferta24h.pl^$all
@@ -18235,6 +18257,7 @@
 ||f50008.hamdandates.com^$all
 ||f51237.paidtomoney.com^$all
 ||f51410.awicksin.com^$all
+||f52949.kanuassociates.com^$all
 ||f53000.epinlock.com^$all
 ||f53960.24houcryptowatcher.com^$all
 ||f54528.awicksin.com^$all
@@ -18357,6 +18380,7 @@
 ||facebookpolicy12.ddns.net^$all
 ||facebookpolicy12.ddnsking.com^$all
 ||faceboook.me^$all
+||facebooook.pl^$all
 ||faceinfocus.net^$all
 ||facelessinseattle.com^$all
 ||facelt-shield.com^$all
@@ -25164,6 +25188,7 @@
 ||inpost.326594512.xyz^$all
 ||inpost.acenor.online^$all
 ||inpost.advart.top^$all
+||inpost.aktponko.org^$all
 ||inpost.andrewlin.bio^$all
 ||inpost.average-redirect.pw^$all
 ||inpost.bdimonet.org^$all
@@ -25957,6 +25982,7 @@
 ||jakub.adaolga.warszawa.pl^$all
 ||jakub.gabrielazuzanna.info.pl^$all
 ||jakubjulia.com.pl^$all
+||jakwartosctaki.boats^$all
 ||jakwyzwaniagdy.bond^$all
 ||jakzarobicmiliondolarow.com^$all
 ||jal.ttssonine.top^$all
@@ -28991,6 +29017,7 @@
 ||lnpost.wepqa.site^$all
 ||lnpost.www85.top^$all
 ||lnpost.yedaw.pw^$all
+||lnpost.yeusev.online^$all
 ||lnpost.ynbrka.website^$all
 ||lnpost.yufams.site^$all
 ||lnsurex-ks.com^$all
@@ -30653,6 +30680,7 @@
 ||meta-support-bussiness.web.app^$all
 ||meta-support-case-658714.start.page^$all
 ||meta-support-case-6349571.start.page^$all
+||meta-support-case-59658137.start.page^$all
 ||meta-support-helps.start.page^$all
 ||meta.business-manager.live^$all
 ||meta.businessverifys.info^$all
@@ -32950,6 +32978,7 @@
 ||new22143.24houcryptowatcher.com^$all
 ||new22225.hostingkampanya.com^$all
 ||new24108.awicksin.com^$all
+||new24129.kanuassociates.com^$all
 ||new24927.paidtomoney.com^$all
 ||new25042.paidtomoney.com^$all
 ||new26190.awicksin.com^$all
@@ -32980,6 +33009,7 @@
 ||new56758.columbabkkfund.com^$all
 ||new59040.awicksin.com^$all
 ||new59045.kisspark.info^$all
+||new60318.kanuassociates.com^$all
 ||new60884.24houcryptowatcher.com^$all
 ||new61568.paidtomoney.com^$all
 ||new62109.cetusinvestmentsbtc.com^$all
@@ -32993,6 +33023,7 @@
 ||new69865.paidtomoney.com^$all
 ||new70872.kisspark.info^$all
 ||new71299.paidtomoney.com^$all
+||new73053.kanuassociates.com^$all
 ||new73229.24houcryptowatcher.com^$all
 ||new75758.paidtomoney.com^$all
 ||new77105.aimedia.lk^$all
@@ -34282,6 +34313,7 @@
 ||ogloszenia-zokolicy.pl^$all
 ||ogloszenia.store^$all
 ||ogloszeniacalapolska.pl^$all
+||ogloszeniadlaciebie.pl^$all
 ||ogloszeniainternetowe24.pl^$all
 ||ogloszeniamarket.pl^$all
 ||ogloszenianet-top.j.pl^$all
@@ -36808,6 +36840,9 @@
 ||pl-kontrola-bezpieczenstwa.pw^$all
 ||pl-kontrola-bezpieczenstwa.space^$all
 ||pl-kontrola-poczty.pw^$all
+||pl-kup-szybko.pl^$all
+||pl-kupteraz.pl^$all
+||pl-kupuj-lokalnie.pl^$all
 ||pl-kurier.cloud^$all
 ||pl-kurjerzy.cloud^$all
 ||pl-landtiket.online^$all
@@ -36815,6 +36850,7 @@
 ||pl-max.infopls.xyz^$all
 ||pl-media.za.com^$all
 ||pl-mil.prosinv.site^$all
+||pl-oferta-uzytkownika.pl^$all
 ||pl-olx-u28hv2.anzhuai.top^$all
 ||pl-olx-u28hv2.bbsxt.top^$all
 ||pl-olx-u28hv2.oferta.la^$all
@@ -36885,6 +36921,8 @@
 ||pl-walidacja-uzytkownika.pw^$all
 ||pl-wiadomosc.com^$all
 ||pl-wsparcie.link^$all
+||pl-zakup-przedmiot.pl^$all
+||pl-zakupy-online.pl^$all
 ||pl.89151535.cube-cologne.com^$all
 ||pl.*bitcoin*.tiptopko*.com^$all
 ||pl.allsports4free.club^$all
@@ -40366,6 +40404,7 @@
 ||registration-successful.icu^$all
 ||registration.biticodes-activations.net^$all
 ||registration.tesla-bot.top^$all
+||registros23-10-2023.s3.pl-waw.scw.cloud^$all
 ||regmenow.com^$all
 ||regpgjointop.site^$all
 ||reground.live^$all
@@ -42563,6 +42602,7 @@
 ||shrel.itprojekt.site^$all
 ||shrivelemphatic.space^$all
 ||shrorwned.site^$all
+||shroud.sbs^$all
 ||shrrog.site^$all
 ||shrt-68.cfd^$all
 ||shrubbiest-alibis.000webhostapp.com^$all
@@ -44718,6 +44758,7 @@
 ||szybkipakunek.cloud^$all
 ||szybkizakup24.pl^$all
 ||szybko-kupuj.pl^$all
+||szybko-zakup24.pl^$all
 ||szybko-zarabiaj-pl.xyz^$all
 ||szymonemilia.pl^$all
 ||szymoniakbozena.viktorianiemiec.info.pl^$all
@@ -47475,6 +47516,7 @@
 ||unslanted.live^$all
 ||unsphering.com^$all
 ||unspoiilednature.site^$all
+||unstayed.sbs^$all
 ||unsteadies.xyz^$all
 ||unstern.info^$all
 ||unstoppble.site^$all
@@ -48809,6 +48851,7 @@
 ||vintedcz.order345.online^$all
 ||vintedcz.order382.eu^$all
 ||vintedcz.order531.com^$all
+||vintedcz.order689.online^$all
 ||vintedcz.order1692.eu^$all
 ||vintedcz.order2974.eu^$all
 ||vintedcz.order4372.eu^$all
@@ -50186,6 +50229,7 @@
 ||wigford.space^$all
 ||wigford.uno^$all
 ||wiggly-luck-saga.glitch.me^$all
+||wiglet.sbs^$all
 ||wiguasno.space^$all
 ||wih.boats^$all
 ||wiielkaradosc.site^$all
@@ -51504,6 +51548,7 @@
 ||zakupy-ogloszenia.pl^$all
 ||zakupy-ogloszenie.pl^$all
 ||zakupy-olx.pl^$all
+||zakupy-z-ochrona.pl^$all
 ||zakupyfacebook.pl^$all
 ||zakupyolx.pl^$all
 ||zalatwmy-wszyscy.click^$all
