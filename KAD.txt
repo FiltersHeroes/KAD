@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Thu, 26 Oct 2023, 18:20 UTC+02:00
-! Version: 2023.10.26.2
+! Last modified: Thu, 26 Oct 2023, 22:17 UTC+02:00
+! Version: 2023.10.26.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5830,7 +5830,9 @@
 ||allegrolokalnie.$doc,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
 ||allegrolokalnie.aukcja24h.pl^$all
 ||allegrolokalnie.aukcja-24h.pl^$all
+||allegrolokalnie.aukcja-prywatna24.pl^$all
 ||allegrolokalnie.aukcja.store^$all
+||allegrolokalnie.aukcje-online.pl^$all
 ||allegrolokalnie.bezpieczna-przesylka.pl^$all
 ||allegrolokalnie.bezpieczna-wysylka24.pl^$all
 ||allegrolokalnie.bezpieczna-wysylka.online^$all
@@ -5870,6 +5872,7 @@
 ||allegrolokalnie.kup-sprzedaj.pl^$all
 ||allegrolokalnie.kup-z-bezpieczna-przesylka.pl^$all
 ||allegrolokalnie.kup-z-dostawa.pl^$all
+||allegrolokalnie.kupie-przedmiot24.pl^$all
 ||allegrolokalnie.kupno24-7.pl^$all
 ||allegrolokalnie.kupno24h-7.pl^$all
 ||allegrolokalnie.kupowanie-24.pl^$all
@@ -5910,6 +5913,7 @@
 ||allegrolokalnie.prywatna-aukcja24.pl^$all
 ||allegrolokalnie.prywatna-aukcja247.pl^$all
 ||allegrolokalnie.prywatna-aukcja-uzytkownika.pl^$all
+||allegrolokalnie.prywatnie-kupuje247.pl^$all
 ||allegrolokalnie.prywatny-zakup.pl^$all
 ||allegrolokalnie.przelew-online24.pl^$all
 ||allegrolokalnie.przelew-online.pl^$all
@@ -7554,7 +7558,9 @@
 ||aukcja24h.pl^$all
 ||aukcja-24h.pl^$all
 ||aukcja-olx.pl^$all
+||aukcja-prywatna24.pl^$all
 ||aukcje-allegrolokalnie.pl^$all
+||aukcje-online.pl^$all
 ||aukobere.site^$all
 ||aukpd.hrsfregencyclub.com^$all
 ||aulacafiperu.com^$all
@@ -7728,6 +7734,7 @@
 ||auto.pl^$all,domain=~www.auto.pl
 ||autoautos.icu^$all
 ||autobyeyan.com^$all
+||autocar-dealers.pl^$all
 ||autocarshippings.com^$all
 ||autodetalling.pl^$all
 ||autodiscover.marketbull.live^$all
@@ -7746,6 +7753,7 @@
 ||autogielda-jagiello.pl^$all
 ||autogielda-janaszak.pl^$all
 ||autogielda-janiczek.pl^$all
+||autogielda-jazda.pl^$all
 ||autogielda-kaczorowski.pl^$all
 ||autogielda-kowalczyk.pl^$all
 ||autogielda-krawczynski.pl^$all
@@ -7796,12 +7804,14 @@
 ||autokomis-tomala.pl^$all
 ||autokomishandel.pl^$all
 ||autokooomis.pl^$all
+||automarket-masters.pl^$all
 ||automarkt.com.pl^$all
 ||automatedsignals.net^$all
 ||automationgts.com^$all
 ||automatizacionortuzar.com^$all
 ||automatorr.site^$all
 ||automers.com^$all
+||automoto-outlet.pl^$all
 ||autonomy-offers.com^$all
 ||autooo-gadek.pl^$all
 ||autooomagazyn.pl^$all
@@ -16844,6 +16854,7 @@
 ||easy32qu99st.quest^$all
 ||easy73nj1.online^$all
 ||easy-appointment.com^$all
+||easy-autoonline.pl^$all
 ||easy-qrcode-generator.com^$all
 ||easy-verify-steps-013754.com^$all
 ||easybudgeter.com^$all
@@ -18024,6 +18035,7 @@
 ||euz7.canmaxiprog.site^$all
 ||euz8.canmaxiprog.site^$all
 ||eva-car.com^$all
+||evaderon.live^$all
 ||evaginateu.com^$all
 ||evanjerkunica.com^$all
 ||evansfamilysj.com^$all
@@ -28005,6 +28017,7 @@
 ||kup-przedmiot.pl^$all
 ||kup-wysylka-olx.pl^$all
 ||kup-z-dostawa.pl^$all
+||kupie-przedmiot24.pl^$all
 ||kupie-teraz24h.pl^$all
 ||kupieoddamsprzedam.pl^$all
 ||kupieoddamzamienie.pl^$all
@@ -30407,6 +30420,7 @@
 ||marketinginsights.xyz^$all
 ||marketingline.cyou^$all
 ||marketinglineer.cyou^$all
+||marketinglocalglobal.com^$all
 ||marketingoasis.com^$all
 ||marketingstyle.shop^$all
 ||marketingtechtips.com^$all
@@ -32317,6 +32331,7 @@
 ||mundoaudifono.com^$all
 ||mundoeve.com^$all
 ||mundoshows.com^$all
+||munemnr.com^$all
 ||munnazatex.com^$all
 ||munnikogart.com^$all
 ||munoz.zofiaklucze.pl^$all
@@ -34572,6 +34587,7 @@
 ||odj.skin^$all
 ||odkryte-funkcje.eu^$all
 ||odkryte-zdjecia.eu^$all
+||odkryterzeczy.click^$all
 ||odksam.pl^$all
 ||odmosoku.site^$all
 ||odnalezionacalapolska.eu5.net^$all
@@ -35900,6 +35916,7 @@
 ||ourbsed.site^$all
 ||ourmastodon.com^$all
 ||ournewspostelogcost.tumblr.com^$all
+||ourodatakie.fun^$all
 ||ourological.info^$all
 ||ourworkplacevotes.net^$all
 ||out1ook.pl^$all
@@ -39673,6 +39690,7 @@
 ||prywatne-oferty.pl^$all
 ||prywatne-ogloszenie24h.pl^$all
 ||prywatne-transakcje.pl^$all
+||prywatnie-kupuje247.pl^$all
 ||prywatny-zakup.pl^$all
 ||przbmkisur.sa.com^$all
 ||przechodze-dalej.icu^$all
@@ -44840,6 +44858,7 @@
 ||suluklima.com.tr^$all
 ||sumagopon.com^$all
 ||sumbeati.site^$all
+||sumiennapomoc.click^$all
 ||summer-bush-8125.on.fleek.co^$all
 ||summergacor.com^$all
 ||summitherald.blogspot.com^$all
@@ -45686,6 +45705,7 @@
 ||teinfo.top^$all
 ||teitgae.space^$all
 ||teitsag.click^$all
+||tejinnowacyjnoscco.boats^$all
 ||tekg98xapuz57j4.com^$all
 ||teknikelmotor.com.tr^$all
 ||tekoadigital.com^$all
@@ -47807,6 +47827,7 @@
 ||ucane.site^$all
 ||ucezok.com^$all
 ||ucgctzyd8d.digital^$all
+||uchwyconechwile.click^$all
 ||ucranizabr.com^$all
 ||ucsipainsolution.com^$all
 ||ud8x.com^$all
@@ -49486,6 +49507,7 @@
 ||vintedsk.order1848.eu^$all
 ||vintedsk.order2974.eu^$all
 ||vintedsk.order3476.eu^$all
+||vintedsk.order4181.eu^$all
 ||vintedsk.order4733.eu^$all
 ||vintedsk.order5532.eu^$all
 ||vintedsk.order6673.eu^$all
@@ -50803,6 +50825,7 @@
 ||wielerclubwemmel.be^$all
 ||wielgoszm1.pl^$all
 ||wielkasiila.site^$all
+||wielkasumiennosc.click^$all
 ||wielkiemediowe.click^$all
 ||wielkiewygrane.click^$all
 ||wielofunkcyjne-okulary-do-czytania-pl.com^$all
@@ -51516,6 +51539,7 @@
 ||xas.programmtrad.top^$all
 ||xawqerklewq.myartsonline.com^$all
 ||xay.scitec.fun^$all
+||xb4-et.cfd^$all
 ||xbiosys.com^$all
 ||xbknv.lynnetteolsen.com^$all
 ||xbtv.space^$all
