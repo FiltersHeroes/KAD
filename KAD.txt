@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 28 Oct 2023, 18:18 UTC+02:00
-! Version: 2023.10.28.2
+! Last modified: Sat, 28 Oct 2023, 22:15 UTC+02:00
+! Version: 2023.10.28.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2774,6 +2774,7 @@
 ||0lx.1415849.xyz^$all
 ||00lx.7890005.xyz^$all
 ||0lx.37881511.xyz^$all
+||0lx.38487451.xyz^$all
 ||0lx.58487451.xyz^$all
 ||0lx.46594345154.xyz^$all
 ||0nli0e0uest1ng.life^$all
@@ -3890,6 +3891,7 @@
 ||8381-kodsms-nastepny.zakxx.pl^$all
 ||8416f67b9c8.chefs-kitchen.co.uk^$all
 ||8429-kod-praca.poturalski.pl^$all
+||8454f.info^$all
 ||8480-poczta-potwierdzac.zdziennickiz.pl^$all
 ||8555tsjwu4.alicjakinga.pl^$all
 ||8566d95655c413e4f65044bffbf50cd8.iaoslo.pl^$all
@@ -5905,7 +5907,9 @@
 ||allegrolokalnie.ezakupy24h.pl^$all
 ||allegrolokalnie.internetowe-zamowienia.pl^$all
 ||allegrolokalnie.kup24h-7.pl^$all
+||allegrolokalnie.kup-bezpiecznie-24.pl^$all
 ||allegrolokalnie.kup-online24h.pl^$all
+||allegrolokalnie.kup-online247.pl^$all
 ||allegrolokalnie.kup-przedmiot.pl^$all
 ||allegrolokalnie.kup-sprzedaj.pl^$all
 ||allegrolokalnie.kup-z-bezpieczna-przesylka.pl^$all
@@ -5934,6 +5938,7 @@
 ||allegrolokalnie.pl-kupteraz.pl^$all
 ||allegrolokalnie.pl-kupuj-lokalnie.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika.pl^$all
+||allegrolokalnie.pl-platnosc-24h.pl^$all
 ||allegrolokalnie.pl-zakup-przedmiot.pl^$all
 ||allegrolokalnie.pl-zakupy-online.pl^$all
 ||allegrolokalnie.plac-online24.pl^$all
@@ -5988,6 +5993,7 @@
 ||allegrolokalnie.wysylka-24h.pl^$all
 ||allegrolokalnie.wysylka-online.pl^$all
 ||allegrolokalnie.zakup24.pl^$all
+||allegrolokalnie.zakup-dzis.pl^$all
 ||allegrolokalnie.zakup-payu.pl^$all
 ||allegrolokalnie.zakup-produkt.pl^$all
 ||allegrolokalnie.zakup-z-gwarancja.pl^$all
@@ -5998,6 +6004,7 @@
 ||allegrolokalnie.zakupy-bezpieczne.pl^$all
 ||allegrolokalnie.zakupy-z-ochrona.pl^$all
 ||allegrolokalnie.zakupybezpieczne.pl^$all
+||allegrolokalnie.zamawiaj-taniej.pl^$all
 ||allegrolokalnie.zamow-bezpiecznie.pl^$all
 ||allegrolokalnie.zamow-dzis.pl^$all
 ||allegrolokalnie.zamow-internetowo.pl^$all
@@ -25661,6 +25668,7 @@
 ||inpost.6594512.xyz^$all
 ||inpost.20451544.xyz^$all
 ||inpost.39784574.xyz^$all
+||inpost.59784574.xyz^$all
 ||inpost.265954212.xyz^$all
 ||inpost.0321548745.xyz^$all
 ||inpost.326594512.xyz^$all
@@ -28174,7 +28182,9 @@
 ||kuopilnpozt-okl93.cueropdopyte.cf^$all
 ||kup-24h.pl^$all
 ||kup-allegrolokalnie.pl^$all
+||kup-bezpiecznie-24.pl^$all
 ||kup-online24h.pl^$all
+||kup-online247.pl^$all
 ||kup-paczka-olx.pl^$all
 ||kup-przedmiot.pl^$all
 ||kup-wysylka-olx.pl^$all
@@ -29148,6 +29158,7 @@
 ||lignocellu.com^$all
 ||ligopt.com^$all
 ||ligopt.website^$all
+||lihi3.cc^$all
 ||liifegoeson.site^$all
 ||liiib.infbal.site^$all
 ||like-news.space^$all
@@ -35408,6 +35419,7 @@
 ||olx.ogloszenie-krakowskie.pl^$all
 ||olx.ogloszenie-polskie.pl^$all
 ||olx.ogloszenie-warszawskie.pl^$all
+||olx.oplata24.pl^$all
 ||olx.paysend.space^$all
 ||olx.pl24-7.pl^$all
 ||olx.pl-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -35778,6 +35790,7 @@
 ||opis-bloga.eu^$all
 ||opisat.in.net^$all
 ||opisywanie-artykulu.eu^$all
+||oplata24.pl^$all
 ||oplata-allegro.e-kei.pl^$all
 ||oplatakup7.shop^$all
 ||oplatakup247.shop^$all
@@ -37538,6 +37551,7 @@
 ||pl-poczta.club^$all
 ||pl-poczta.cn^$all
 ||pl-poczta.net^$all
+||pl-poczta.poczt-p0st.top^$all
 ||pl-poczta.top^$all
 ||pl-poczta.xyz^$all
 ||pl-poest.top^$all
@@ -46704,6 +46718,7 @@
 ||tiger.nightsggp.info^$all
 ||tiger.parkingzq.info^$all
 ||tiger.pearlbbazpo.life^$all
+||tight-poetry-1151.on.fleek.co^$all
 ||tightrope.sbs^$all
 ||tih-lmtd.com^$all
 ||tiimkor-uno.preview-domain.com^$all
@@ -48798,6 +48813,8 @@
 ||vbmnvintesd.nanmistnibora.tk^$all
 ||vbnghh.s3.us-west-004.backblazeb2.com^$all
 ||vbnmdfghuytrew.site^$all
+||vbs-game.pro^$all
+||vbsgame.pro^$all
 ||vc-apartments.com^$all
 ||vcaty.hechicerosybrujos2019.com^$all
 ||vcdbfghjdvbfgnfhmgj.weebly.com^$all
@@ -49625,6 +49642,7 @@
 ||vinted.04912.cloud^$all
 ||vinted.6591452.xyz^$all
 ||vinted.30264522.xyz^$all
+||vinted.44847151.xyz^$all
 ||vinted.65941254.xyz^$all
 ||vinted.454812123.xyz^$all
 ||vinted.659823055.xyz^$all
@@ -52415,6 +52433,7 @@
 ||zakup-allegrolokalnie.pl^$all
 ||zakup-auta.pl^$all
 ||zakup-auto.pl^$all
+||zakup-dzis.pl^$all
 ||zakup-kontrolowany.pl^$all
 ||zakup-natychmiastowy.pl^$all
 ||zakup-payu.pl^$all
@@ -52446,6 +52465,7 @@
 ||zaluknij.pl^$all
 ||zalymeilia.live^$all
 ||zamawiaj-online.pl^$all
+||zamawiaj-taniej.pl^$all
 ||zamegafer.site^$all
 ||zamelas-xyz.preview-domain.com^$all
 ||zamkniety-swiat.pl^$all
