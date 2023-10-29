@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 29 Oct 2023, 09:18 UTC+01:00
-! Version: 2023.10.29.1
+! Last modified: Sun, 29 Oct 2023, 13:28 UTC+01:00
+! Version: 2023.10.29.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2801,6 +2801,7 @@
 ||1-chihuahua-secrets.com^$all
 ||1.cozdadda.com^$all
 ||1.dasdasw.com^$all
+||1.degreat11.xyz^$all
 ||1.fgdgfdgfd.com^$all
 ||1.foregreat.xyz^$all
 ||1.greatgreat.monster^$all
@@ -5931,6 +5932,7 @@
 ||allegrolokalnie.oferta24h.pl^$all
 ||allegrolokalnie.oferta-24h.pl^$all
 ||allegrolokalnie.oferta-prywatna.pl^$all
+||allegrolokalnie.online-zakupy.pl^$all
 ||allegrolokalnie.pay-now24.pl^$all
 ||allegrolokalnie.pay-u.pl^$all
 ||allegrolokalnie.payu-online.pl^$all
@@ -5939,6 +5941,7 @@
 ||allegrolokalnie.pl-kupuj-lokalnie.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika.pl^$all
 ||allegrolokalnie.pl-platnosc-24h.pl^$all
+||allegrolokalnie.pl-zakup-dzis.pl^$all
 ||allegrolokalnie.pl-zakup-przedmiot.pl^$all
 ||allegrolokalnie.pl-zakupy-online.pl^$all
 ||allegrolokalnie.plac-online24.pl^$all
@@ -5980,6 +5983,7 @@
 ||allegrolokalnie.szybka-przesylka24.pl^$all
 ||allegrolokalnie.szybka-przesylka.pl^$all
 ||allegrolokalnie.szybka-zamowienie.pl^$all
+||allegrolokalnie.szybki-zakupy24.pl^$all
 ||allegrolokalnie.szybkie-kupowanie.pl^$all
 ||allegrolokalnie.szybkie-ogloszenie.pl^$all
 ||allegrolokalnie.szybkie-zamowienie.pl^$all
@@ -6016,6 +6020,7 @@
 ||allegrolokalnie.zamow-przesylke.pl^$all
 ||allegrolokalnie.zamow-szybko.pl^$all
 ||allegrolokalnie.zamow-taniej.pl^$all
+||allegrolokalnie.zamowienia-bezpieczne24.pl^$all
 ||allegrolokalnie.zamowienia-online.pl^$all
 ||allegrolokalnie.zamowienie24h.pl^$all
 ||allegrolokalnie.zamowienie-24h.pl^$all
@@ -8603,6 +8608,7 @@
 ||balimobillare.com^$all
 ||balint.badura.warszawa.pl^$all
 ||balint.pioklemba.pl^$all
+||balipodo.com^$all
 ||balit.lazt.online^$all
 ||balitikpalpe.com^$all
 ||balitraffic.com^$all
@@ -9546,6 +9552,7 @@
 ||bestlaptoplist.com^$all
 ||bestlifepress.com^$all
 ||bestlifewell.com^$all
+||bestlinework.com^$all
 ||bestmarketstoday.click^$all
 ||bestmetalprints.com^$all
 ||bestmobilebettingsites.com^$all
@@ -13811,6 +13818,7 @@
 ||crockingim.com^$all
 ||croncall.com^$all
 ||crop.warycafe.com^$all
+||croppcom.top^$all
 ||croppots.com^$all
 ||cropps.top^$all
 ||cropsharesafrica.com^$all
@@ -32113,6 +32121,7 @@
 ||mongoyar.online^$all
 ||monik.apprety.site^$all
 ||monika-dobropolska.pl^$all
+||monikawalaszek.com^$all
 ||monitero-it.homes^$all
 ||monitero-it.icu^$all
 ||monitero-pl.cyou^$all
@@ -35428,6 +35437,7 @@
 ||olx.ogloszenie-krakowskie.pl^$all
 ||olx.ogloszenie-polskie.pl^$all
 ||olx.ogloszenie-warszawskie.pl^$all
+||olx.online-zakupy.pl^$all
 ||olx.oplata24.pl^$all
 ||olx.paysend.space^$all
 ||olx.pl24-7.pl^$all
@@ -35439,6 +35449,7 @@
 ||olx.pl-safecash.link^$all
 ||olx.pl-safedeal.link^$all
 ||olx.pl-safety.oferta-payment.link^$all
+||olx.pl-zakup-dzis.pl^$all
 ||olx.pl.*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pl.delivery-pays.pw^$all
 ||olx.pl.delivery.oferta-payment.link^$all
@@ -35466,6 +35477,7 @@
 ||olx.ruipolbom.org^$all
 ||olx.rwpay.ru^$all
 ||olx.swell-redirect.pw^$all
+||olx.szybki-zakupy24.pl^$all
 ||olx.themilitia.shop^$all
 ||olx.torina.top^$all
 ||olx.tumusica.pw^$all
@@ -35485,6 +35497,7 @@
 ||olx.zakup-teraz24.pl^$all
 ||olx.zakupybezpieczne.pl^$all
 ||olx.zakupyogloszenia.pl^$all
+||olx.zamowienia-bezpieczne24.pl^$all
 ||olx.zamowienie24.pl^$all
 ||olx.zaufany-zakup.pl^$all
 ||olxbank.co^$all
@@ -35648,6 +35661,7 @@
 ||online-payu-dhosting-pl.packpony.eu^$all
 ||online-pekaoc24-pl.com^$all
 ||online-pocztovy.info^$all
+||online-zakupy.pl^$all
 ||online.agreements.best^$all
 ||online.carers.best^$all
 ||online.dinero-invesmnt.xyz^$all
@@ -37611,6 +37625,7 @@
 ||pl-walidacja-uzytkownika.pw^$all
 ||pl-wiadomosc.com^$all
 ||pl-wsparcie.link^$all
+||pl-zakup-dzis.pl^$all
 ||pl-zakup-przedmiot.pl^$all
 ||pl-zakupy-online.pl^$all
 ||pl.89151535.cube-cologne.com^$all
@@ -38488,6 +38503,7 @@
 ||pola-un.web.app^$all
 ||polaagga.site^$all
 ||polacy-oddaja.pl^$all
+||polacydlapolski.com^$all
 ||polacypomagaja.click^$all
 ||polaczenie.xn.pl^$all
 ||polak-inwestor.info^$all
@@ -38793,6 +38809,7 @@
 ||polskabiznes.online^$all
 ||polskadhl.upmenusite.com^$all
 ||polskaecoinsights.online^$all
+||polskaeposta.top^$all
 ||polskagieldaenergii.site^$all
 ||polskagoal.online^$all
 ||polskagov.pl^$all
@@ -45538,6 +45555,7 @@
 ||szybka-zamowienie.pl^$all
 ||szybkaplatnosc-payu.com^$all
 ||szybkaplatnosc.com^$all
+||szybki-zakupy24.pl^$all
 ||szybkibiiegacz.site^$all
 ||szybkie-dostawy.pl^$all
 ||szybkie-glosy.eu^$all
@@ -52492,6 +52510,7 @@
 ||zamow-szybko.pl^$all
 ||zamow-taniej.pl^$all
 ||zamow-tanio.pl^$all
+||zamowienia-bezpieczne24.pl^$all
 ||zamowienia-online.pl^$all
 ||zamowienie24.shop^$all
 ||zamowienie24h.pl^$all
