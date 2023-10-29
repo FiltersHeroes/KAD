@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 29 Oct 2023, 13:28 UTC+01:00
-! Version: 2023.10.29.2
+! Last modified: Sun, 29 Oct 2023, 17:20 UTC+01:00
+! Version: 2023.10.29.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5936,6 +5936,7 @@
 ||allegrolokalnie.pay-now24.pl^$all
 ||allegrolokalnie.pay-u.pl^$all
 ||allegrolokalnie.payu-online.pl^$all
+||allegrolokalnie.pewnie-zakup.pl^$all
 ||allegrolokalnie.pl-kup-szybko.pl^$all
 ||allegrolokalnie.pl-kupteraz.pl^$all
 ||allegrolokalnie.pl-kupuj-lokalnie.pl^$all
@@ -5954,6 +5955,7 @@
 ||allegrolokalnie.platnosc-w-sieci.pl^$all
 ||allegrolokalnie.platnosc-zweryfikowana.pl^$all
 ||allegrolokalnie.platnosci-24h.pl^$all
+||allegrolokalnie.platnosci-z-ochrona.pl^$all
 ||allegrolokalnie.polskie-zakupy.pl^$all
 ||allegrolokalnie.proste-zamowienia.pl^$all
 ||allegrolokalnie.prywanty-zakup24.pl^$all
@@ -5990,6 +5992,7 @@
 ||allegrolokalnie.szybkie-zaplac.pl^$all
 ||allegrolokalnie.szybko-kupuj.pl^$all
 ||allegrolokalnie.szybko-zakup24.pl^$all
+||allegrolokalnie.tani-zakup.pl^$all
 ||allegrolokalnie.tanie-zamowienie.pl^$all
 ||allegrolokalnie.wygodna-platnosc.pl^$all
 ||allegrolokalnie.wygodne-platnosci.pl^$all
@@ -6022,10 +6025,12 @@
 ||allegrolokalnie.zamow-taniej.pl^$all
 ||allegrolokalnie.zamowienia-bezpieczne24.pl^$all
 ||allegrolokalnie.zamowienia-online.pl^$all
+||allegrolokalnie.zamowienia-szybko.pl^$all
 ||allegrolokalnie.zamowienie24h.pl^$all
 ||allegrolokalnie.zamowienie-24h.pl^$all
 ||allegrolokalnie.zamowienie-online24.pl^$all
 ||allegrolokalnie.zamowienie-szybkie.pl^$all
+||allegrolokalnie.zaplac24h.pl^$all
 ||allegrolokalnie.zaplac-bezpieczenie.pl^$all
 ||allegrolokalnie.zaplac-bezpiecznie24.pl^$all
 ||allegrolokalnie.zaplac-online24.pl^$all
@@ -7722,14 +7727,17 @@
 ||auta-jan.pl^$all
 ||auta-jarek.pl^$all
 ||auta-kalinowski.pl^$all
+||auta-kaminski.pl^$all
 ||auta-katowice.pl^$all
 ||auta-kosowski.pl^$all
 ||auta-koszalin.pl^$all
+||auta-kowalczyk.pl^$all
 ||auta-kowalska.pl^$all
 ||auta-krzysztof.pl^$all
 ||auta-kuba.pl^$all
 ||auta-kwiatkowski.pl^$all
 ||auta-leszczynski.pl^$all
+||auta-lewandowski.pl^$all
 ||auta-lisiecki.pl^$all
 ||auta-lublin.pl^$all
 ||auta-maciek.pl^$all
@@ -7764,6 +7772,7 @@
 ||auta-slupsk.pl^$all
 ||auta-sobieski.pl^$all
 ||auta-sopot.pl^$all
+||auta-szymanski.pl^$all
 ||auta-tadeusz.pl^$all
 ||auta-tarnow.pl^$all
 ||auta-tomasz.pl^$all
@@ -7775,6 +7784,7 @@
 ||auta-wiejska.pl^$all
 ||auta-wojciech.pl^$all
 ||auta-wojtek.pl^$all
+||auta-wozniak.pl^$all
 ||auta-wroclaw.pl^$all
 ||auta-zborowski.pl^$all
 ||auta-zbyszek.pl^$all
@@ -15741,6 +15751,7 @@
 ||dipu.prlmaxiiisok.xyz^$all
 ||diqomoofai.live^$all
 ||direct-5f724.web.app^$all
+||direct-8fc3a.web.app^$all
 ||direct-79ab7.web.app^$all
 ||direct-962dd.web.app^$all
 ||direct-c4ded.web.app^$all
@@ -25681,6 +25692,7 @@
 ||inpost-yhwx.order2315.info^$all
 ||inpost-yngj.order9205.info^$all
 ||inpost.6594512.xyz^$all
+||inpost.19784574.xyz^$all
 ||inpost.20451544.xyz^$all
 ||inpost.39784574.xyz^$all
 ||inpost.59784574.xyz^$all
@@ -34786,6 +34798,7 @@
 ||oddamy-glosuje.eu^$all
 ||oddamy-yorka.site^$all
 ||oddamy-yorka.store^$all
+||oddamyonline24.pl^$all
 ||oddamyzadarmo.pl^$all
 ||oddamyzagrosze.pl^$all
 ||oddamzagrosze.pl^$all
@@ -35440,6 +35453,7 @@
 ||olx.online-zakupy.pl^$all
 ||olx.oplata24.pl^$all
 ||olx.paysend.space^$all
+||olx.pewnie-zakup.pl^$all
 ||olx.pl24-7.pl^$all
 ||olx.pl-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pl-cash.link^$all
@@ -35478,6 +35492,7 @@
 ||olx.rwpay.ru^$all
 ||olx.swell-redirect.pw^$all
 ||olx.szybki-zakupy24.pl^$all
+||olx.tani-zakup.pl^$all
 ||olx.themilitia.shop^$all
 ||olx.torina.top^$all
 ||olx.tumusica.pw^$all
@@ -35497,8 +35512,11 @@
 ||olx.zakup-teraz24.pl^$all
 ||olx.zakupybezpieczne.pl^$all
 ||olx.zakupyogloszenia.pl^$all
+||olx.zamawiaj-taniej.pl^$all
 ||olx.zamowienia-bezpieczne24.pl^$all
+||olx.zamowienia-szybko.pl^$all
 ||olx.zamowienie24.pl^$all
+||olx.zaplac24h.pl^$all
 ||olx.zaufany-zakup.pl^$all
 ||olxbank.co^$all
 ||olxdostawa.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
@@ -36967,6 +36985,7 @@
 ||pewaukees.live^$all
 ||pewbbsflff.sa.com^$all
 ||pewlladfeer.site^$all
+||pewnie-zakup.pl^$all
 ||pewterclub.com^$all
 ||pexeqsend.shop^$all
 ||peypendostaw247.shop^$all
@@ -37804,6 +37823,7 @@
 ||platnosci-express.pl^$all
 ||platnosci-payu.prv.pl^$all
 ||platnosci-sendit.link^$all
+||platnosci-z-ochrona.pl^$all
 ||platnosciexpress.pl^$all
 ||platosdeducha.com^$all
 ||plausiblec.com^$all
@@ -45736,6 +45756,7 @@
 ||tangy-cat-turn.glitch.me^$all
 ||tani-pojazd.pl^$all
 ||tani-samochod.com.pl^$all
+||tani-zakup.pl^$all
 ||tania-motoryzacja24.pl^$all
 ||tanie-samochody.com.pl^$all
 ||tanie-wycieczki.com.pl^$all
@@ -50194,6 +50215,7 @@
 ||voogueemania.site^$all
 ||voolsop-website.preview-domain.com^$all
 ||voopcreative.com^$all
+||vop-poczta0.top^$all
 ||vop.bashus.site^$all
 ||vop.bosd.online^$all
 ||vopasil.space^$all
@@ -50324,6 +50346,7 @@
 ||vz404.netdc.pl^$all
 ||vz18719.dahost.pl^$all
 ||vzgrof.gamemods.com.tr^$all
+||vzp-poczta0.top^$all
 ||vzxqm.shivamgmt.com^$all
 ||w0kuf03oeekjjrnr24aol80a.quickmarketnow.me^$all
 ||w0lf4p78oke7acuritcv7fdu.quickmarketnow.me^$all
@@ -52512,6 +52535,7 @@
 ||zamow-tanio.pl^$all
 ||zamowienia-bezpieczne24.pl^$all
 ||zamowienia-online.pl^$all
+||zamowienia-szybko.pl^$all
 ||zamowienie24.shop^$all
 ||zamowienie24h.pl^$all
 ||zamowienie761265261.pl^$all
@@ -52537,6 +52561,7 @@
 ||zapakujmy.cloud^$all
 ||zapakujpolska.cloud^$all
 ||zaplaan.se^$all
+||zaplac24h.pl^$all
 ||zaplac-24h.pl^$all
 ||zaplac-bezpiecznie24.pl^$all
 ||zaplac-bezpieczniej.pl^$all
