@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 30 Oct 2023, 17:21 UTC+01:00
-! Version: 2023.10.30.2
+! Last modified: Mon, 30 Oct 2023, 21:17 UTC+01:00
+! Version: 2023.10.30.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3284,6 +3284,7 @@
 ||8c51f.massagemtantrica.pt^$all
 ||8c92ca63f94149f4edabda9aa692a578.cennisk.pl^$all
 ||8c29189bbd0d8120e500eaa145bbe587.liskop.pl^$all
+||8cb4n.cfd^$all
 ||8cd10332.bakerstreetfinance.tv^$all
 ||8csdg3iejj.lilagoraj.pl^$all
 ||8d104005f1d4c529011.all-uslug.pl^$all
@@ -5893,6 +5894,7 @@
 ||allegrolokalnie.bezpieczna-wysylka.online^$all
 ||allegrolokalnie.bezpieczne-kupowanie24.pl^$all
 ||allegrolokalnie.bezpieczne-ogloszenie.pl^$all
+||allegrolokalnie.bezpieczne-placenie.pl^$all
 ||allegrolokalnie.bezpieczne-transakcje.pl^$all
 ||allegrolokalnie.bezpieczne-zamowienia.pl^$all
 ||allegrolokalnie.bezpieczne-zamowienie.pl^$all
@@ -5933,11 +5935,13 @@
 ||allegrolokalnie.kup-z-dostawa.pl^$all
 ||allegrolokalnie.kupie-prywatnie24.pl^$all
 ||allegrolokalnie.kupie-przedmiot24.pl^$all
+||allegrolokalnie.kupie-przedmiot247.pl^$all
 ||allegrolokalnie.kupno24-7.pl^$all
 ||allegrolokalnie.kupno24h-7.pl^$all
 ||allegrolokalnie.kupowanie-24.pl^$all
 ||allegrolokalnie.kupteraz24h-7.pl^$all
 ||allegrolokalnie.kupteraz-24h.pl^$all
+||allegrolokalnie.kupteraz-przedmiot.pl^$all
 ||allegrolokalnie.kupuj-bezpieczenie.pl^$all
 ||allegrolokalnie.kupuj-lokalnie.pl^$all
 ||allegrolokalnie.kupuj-szybko.pl^$all
@@ -5945,6 +5949,7 @@
 ||allegrolokalnie.kupuj-z-przesylka.pl^$all
 ||allegrolokalnie.kupuje-prywatnie.pl^$all
 ||allegrolokalnie.mobilnaplatnosc.pl^$all
+||allegrolokalnie.naszeaukcje.pl^$all
 ||allegrolokalnie.nowe-ogloszenia24.pl^$all
 ||allegrolokalnie.nssl.pl^$all
 ||allegrolokalnie.oferta24h.pl^$all
@@ -5992,6 +5997,7 @@
 ||allegrolokalnie.przesylka-szybka24.pl^$all
 ||allegrolokalnie.przesylka-szybko.pl^$all
 ||allegrolokalnie.przyjazna-dostawa.pl^$all
+||allegrolokalnie.przyjazne-przesylki.pl^$all
 ||allegrolokalnie.przyjazne-zakupom.pl^$all
 ||allegrolokalnie.przyjazne-zakupy24.pl^$all
 ||allegrolokalnie.przyjazne-zakupy.pl^$all
@@ -6014,12 +6020,14 @@
 ||allegrolokalnie.szybko-zakup24.pl^$all
 ||allegrolokalnie.tani-zakup.pl^$all
 ||allegrolokalnie.tanie-zamowienie.pl^$all
+||allegrolokalnie.tanie-zaplac.pl^$all
 ||allegrolokalnie.wygodna-platnosc.pl^$all
 ||allegrolokalnie.wygodne-platnosci.pl^$all
 ||allegrolokalnie.wygodny-zakup.pl^$all
 ||allegrolokalnie.wysylka-24h.pl^$all
 ||allegrolokalnie.wysylka-online.pl^$all
 ||allegrolokalnie.zakup24.pl^$all
+||allegrolokalnie.zakup-bezpieczny.pl^$all
 ||allegrolokalnie.zakup-dzis.pl^$all
 ||allegrolokalnie.zakup-payu.pl^$all
 ||allegrolokalnie.zakup-produkt.pl^$all
@@ -7743,6 +7751,7 @@
 ||auta-dominik.pl^$all
 ||auta-eryk.pl^$all
 ||auta-filip.pl^$all
+||auta-franek.pl^$all
 ||auta-gdynia.pl^$all
 ||auta-gielda.pl^$all
 ||auta-gliwice.pl^$all
@@ -7759,6 +7768,7 @@
 ||auta-jarek.pl^$all
 ||auta-kalinowski.pl^$all
 ||auta-kaminski.pl^$all
+||auta-karol.pl^$all
 ||auta-katowice.pl^$all
 ||auta-kosowski.pl^$all
 ||auta-koszalin.pl^$all
@@ -7775,6 +7785,7 @@
 ||auta-malinowski.pl^$all
 ||auta-marcin.pl^$all
 ||auta-marcinkowski.pl^$all
+||auta-marek.pl^$all
 ||auta-mateusz.pl^$all
 ||auta-mazowiecka.pl^$all
 ||auta-michal.pl^$all
@@ -7804,6 +7815,7 @@
 ||auta-sobieski.pl^$all
 ||auta-sopot.pl^$all
 ||auta-szymanski.pl^$all
+||auta-szymon.pl^$all
 ||auta-tadeusz.pl^$all
 ||auta-tarnow.pl^$all
 ||auta-tomasz.pl^$all
@@ -7844,6 +7856,7 @@
 ||auto24-sprzedam.pl^$all
 ||auto-bazar.com.pl^$all
 ||auto-carsoutlet.pl^$all
+||auto-deal.net.pl^$all
 ||auto-dealscentral.pl^$all
 ||auto-domain2-manaliner.pbclimbing.co.uk^$all
 ||auto-gdansk.pl^$all
@@ -19573,6 +19586,7 @@
 ||fgyy.innplats.top^$all
 ||fh2.boats^$all
 ||fh43.cfd^$all
+||fh94-f.cfd^$all
 ||fhanbe.com^$all
 ||fhbbinprost.dotsdehakip.tk^$all
 ||fhfhd.pasvar.xyz^$all
@@ -24542,6 +24556,7 @@
 ||iabelats.site^$all
 ||iainsorong.ac.id^$all
 ||iakze.gradspeeches.com^$all
+||ialoguedozen.eu^$all
 ||iamadrunk.com^$all
 ||iamchristopher.com^$all
 ||iamgmoney.com^$all
@@ -25776,6 +25791,7 @@
 ||inpost-store.03254555.xyz^$all
 ||inpost-tahv.order9528.info^$all
 ||inpost-tjah.neworder44799.info^$all
+||inpost-tracking.info^$all
 ||inpost-tszc.order7814.biz^$all
 ||inpost-ueht.vinted2349.in^$all
 ||inpost-uuzu.order8205.biz^$all
@@ -25905,6 +25921,7 @@
 ||instructablestore.com^$all
 ||instructvideo.com^$all
 ||instytutum-tr.com^$all
+||instytutwody.com^$all
 ||insulinfir.com^$all
 ||insumera.com^$all
 ||insummer.cyou^$all
@@ -28334,6 +28351,7 @@
 ||kup-z-dostawa.pl^$all
 ||kupie-prywatnie24.pl^$all
 ||kupie-przedmiot24.pl^$all
+||kupie-przedmiot247.pl^$all
 ||kupie-teraz24h.pl^$all
 ||kupieoddamsprzedam.pl^$all
 ||kupieoddamzamienie.pl^$all
@@ -28345,6 +28363,7 @@
 ||kupowanie-online.pl^$all
 ||kupsprzedajoddaj.pl^$all
 ||kupteraz24h-7.pl^$all
+||kupteraz-przedmiot.pl^$all
 ||kupterdostawka.shop^$all
 ||kupuj-lokalnie.pl^$all
 ||kupuj-online24.pl^$all
@@ -35554,6 +35573,7 @@
 ||olx.aukcja-24.pl^$all
 ||olx.bdimonet.org^$all
 ||olx.bezpieczne-kupno.pl^$all
+||olx.bezpieczne-placenie.pl^$all
 ||olx.bezpiecznie-kup.pl^$all
 ||olx.careful-market.pw^$all
 ||olx.deliverry.org^$all
@@ -35577,6 +35597,8 @@
 ||olx.key-pl.pw^$all
 ||olx.kup-prywatnie.pl^$all
 ||olx.kupie-prywatnie24.pl^$all
+||olx.kupie-przedmiot247.pl^$all
+||olx.kupteraz-przedmiot.pl^$all
 ||olx.kupuj-online24.pl^$all
 ||olx.kupuje-prywatnie.pl^$all
 ||olx.kupuje-teraz.pl^$all
@@ -35635,6 +35657,7 @@
 ||olx.prywatny-zakup.pl^$all
 ||olx.przesylka24-7.pl^$all
 ||olx.przewiezienie.pl^$all
+||olx.przyjazne-przesylki.pl^$all
 ||olx.przyjazny-zakup.pl^$all
 ||olx.request-confirm.pw^$all
 ||olx.ruipolbom.org^$all
@@ -35642,6 +35665,7 @@
 ||olx.swell-redirect.pw^$all
 ||olx.szybki-zakupy24.pl^$all
 ||olx.tani-zakup.pl^$all
+||olx.tanie-zaplac.pl^$all
 ||olx.themilitia.shop^$all
 ||olx.torina.top^$all
 ||olx.tumusica.pw^$all
@@ -35658,6 +35682,7 @@
 ||olx.xn--ewysyka-rjb.pl^$all
 ||olx.z-przesylka.pl^$all
 ||olx.zakup24-7.pl^$all
+||olx.zakup-bezpieczny.pl^$all
 ||olx.zakup-teraz24.pl^$all
 ||olx.zakupybezpieczne.pl^$all
 ||olx.zakupyogloszenia.pl^$all
@@ -38288,6 +38313,7 @@
 ||pmboulevard.com^$all
 ||pmch.wincentmarzec.warszawa.pl^$all
 ||pmd5.freepl.top^$all
+||pmdtixbuvu.sa.com^$all
 ||pme.gouv.ml^$all
 ||pmestudio.com^$all
 ||pmitc.jameshesford.com^$all
@@ -45926,6 +45952,7 @@
 ||tanie-samochody.com.pl^$all
 ||tanie-wycieczki.com.pl^$all
 ||tanie-zamowienie.pl^$all
+||tanie-zaplac.pl^$all
 ||taniekonta.crayon2.net^$all
 ||taniiezakupy.site^$all
 ||tanio-blisko.buzz^$all
@@ -51223,6 +51250,7 @@
 ||whovintesd.pporovcatodis.cf^$all
 ||whozyourdoula.com^$all
 ||whp3.vertysbos.top^$all
+||whppgroupph.com^$all
 ||whsjsj1717-d36bb1.ingress-florina.ewp.live^$all
 ||whte.lakeviewcondostaug.com^$all
 ||whterion-gt.cyou^$all
@@ -52669,6 +52697,7 @@
 ||zakup-allegrolokalnie.pl^$all
 ||zakup-auta.pl^$all
 ||zakup-auto.pl^$all
+||zakup-bezpieczny.pl^$all
 ||zakup-dzis.pl^$all
 ||zakup-kontrolowany.pl^$all
 ||zakup-natychmiastowy.pl^$all
