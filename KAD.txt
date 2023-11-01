@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 01 Nov 2023, 13:39 UTC+01:00
-! Version: 2023.11.1.1
+! Last modified: Wed, 01 Nov 2023, 17:20 UTC+01:00
+! Version: 2023.11.1.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -6001,10 +6001,13 @@
 ||allegrolokalnie.prywatna-aukcja24.pl^$all
 ||allegrolokalnie.prywatna-aukcja247.pl^$all
 ||allegrolokalnie.prywatna-aukcja-uzytkownika.pl^$all
+||allegrolokalnie.prywatna-oferta.pl^$all
 ||allegrolokalnie.prywatne-zakupy247.pl^$all
 ||allegrolokalnie.prywatne-zakupy.pl^$all
 ||allegrolokalnie.prywatnie-kupuj.pl^$all
 ||allegrolokalnie.prywatnie-kupuje247.pl^$all
+||allegrolokalnie.prywatnie-oferuj.pl^$all
+||allegrolokalnie.prywatnie-zakup.pl^$all
 ||allegrolokalnie.prywatny-zakup.pl^$all
 ||allegrolokalnie.przelew-online24.pl^$all
 ||allegrolokalnie.przelew-online.pl^$all
@@ -6045,9 +6048,11 @@
 ||allegrolokalnie.zakup24.pl^$all
 ||allegrolokalnie.zakup-bezpieczny.pl^$all
 ||allegrolokalnie.zakup-dzis.pl^$all
+||allegrolokalnie.zakup-online24h.pl^$all
 ||allegrolokalnie.zakup-payu.pl^$all
 ||allegrolokalnie.zakup-produkt.pl^$all
 ||allegrolokalnie.zakup-przez-internet.pl^$all
+||allegrolokalnie.zakup-teraz24h.pl^$all
 ||allegrolokalnie.zakup-z-gwarancja.pl^$all
 ||allegrolokalnie.zakup-zweryfikowany.pl^$all
 ||allegrolokalnie.zakupw-sieci.pl^$all
@@ -7792,12 +7797,14 @@
 ||auta-info.pl^$all
 ||auta-jacek.pl^$all
 ||auta-jackowiak.pl^$all
+||auta-jackowski.pl^$all
 ||auta-jakub.pl^$all
 ||auta-jan.pl^$all
 ||auta-jarek.pl^$all
 ||auta-kalinowski.pl^$all
 ||auta-kaminski.pl^$all
 ||auta-karol.pl^$all
+||auta-kaszubski.pl^$all
 ||auta-katowice.pl^$all
 ||auta-kosowski.pl^$all
 ||auta-koszalin.pl^$all
@@ -7811,6 +7818,7 @@
 ||auta-lewandowski.pl^$all
 ||auta-lisiecki.pl^$all
 ||auta-lublin.pl^$all
+||auta-lukasz.pl^$all
 ||auta-maciek.pl^$all
 ||auta-malinowski.pl^$all
 ||auta-marcin.pl^$all
@@ -7831,6 +7839,7 @@
 ||auta-opole.pl^$all
 ||auta-oskar.pl^$all
 ||auta-patryk.pl^$all
+||auta-patrykowski.pl^$all
 ||auta-pawel.pl^$all
 ||auta-pawlikowski.pl^$all
 ||auta-pilarscy.pl^$all
@@ -7841,6 +7850,7 @@
 ||auta-radek.pl^$all
 ||auta-roman.pl^$all
 ||auta-romanowski.pl^$all
+||auta-sikora.pl^$all
 ||auta-sklepy.pl^$all
 ||auta-skowronscy.pl^$all
 ||auta-slupsk.pl^$all
@@ -7857,6 +7867,7 @@
 ||auta-waldek.pl^$all
 ||auta-warszawskie.pl^$all
 ||auta-wiejska.pl^$all
+||auta-winnicki.pl^$all
 ||auta-wojciech.pl^$all
 ||auta-wojtek.pl^$all
 ||auta-wozniak.pl^$all
@@ -8059,6 +8070,7 @@
 ||avast-investment.web.app^$all
 ||avaxrtw.xyz^$all
 ||avaxvoices.com^$all
+||avayacdn.com^$all
 ||avayb.retroplugins.com^$all
 ||avazai.com^$all
 ||avbewwbivwwririwooiq.site^$all
@@ -9710,6 +9722,7 @@
 ||betelgeuxs.info^$all
 ||betenor-com.preview-domain.com^$all
 ||betflikaa.com^$all
+||bethanked.sbs^$all
 ||bethanyramirez.com^$all
 ||bethelcity.com^$all
 ||bethgreen-tweddlerealestate.com^$all
@@ -13381,6 +13394,7 @@
 ||colossalpicture.com^$all
 ||coloureds.fun^$all
 ||colourinthewarmg.cyou^$all
+||colourofthewarmb.cyou^$all
 ||colr-inwest.web.app^$all
 ||colt.vividrriver.pw^$all
 ||columbusparkour.com^$all
@@ -18169,6 +18183,7 @@
 ||eskum.top^$all
 ||esl-give.com^$all
 ||esla.interfoxprog.click^$all
+||eslenglish-hk.com^$all
 ||esn-apple.com^$all
 ||esnafbank.com^$all
 ||esnrn.steamingmugcafe.com^$all
@@ -22056,6 +22071,7 @@
 ||goingapp.net^$all
 ||goingapp.nl^$all
 ||goingapp.org^$all
+||goinlow.com^$all
 ||goinvest.beauty^$all
 ||goinvest.cfd^$all
 ||goinvest.cyou^$all
@@ -35827,8 +35843,11 @@
 ||olx.prostaprzesylka.pl^$all
 ||olx.prosteprzesylki.pl^$all
 ||olx.prostewysylki.pl^$all
+||olx.prywatna-oferta.pl^$all
 ||olx.prywatne-zakupy.pl^$all
 ||olx.prywatnie-kupuj.pl^$all
+||olx.prywatnie-oferuj.pl^$all
+||olx.prywatnie-zakup.pl^$all
 ||olx.prywatny-zakup.pl^$all
 ||olx.przesylka24-7.pl^$all
 ||olx.przewiezienie.pl^$all
@@ -35858,7 +35877,9 @@
 ||olx.z-przesylka.pl^$all
 ||olx.zakup24-7.pl^$all
 ||olx.zakup-bezpieczny.pl^$all
+||olx.zakup-online24h.pl^$all
 ||olx.zakup-teraz24.pl^$all
+||olx.zakup-teraz24h.pl^$all
 ||olx.zakupybezpieczne.pl^$all
 ||olx.zakupyogloszenia.pl^$all
 ||olx.zamawiaj-taniej.pl^$all
@@ -38407,6 +38428,7 @@
 ||plpapibalti.com^$all
 ||plpgninprofit.site^$all
 ||plpipe.cryptobaltic.com^$all
+||plpipe.cryptobalticpipe.com^$all
 ||plpl.prils1.site^$all
 ||plpoczta.club^$all
 ||plpoczta.com^$all
@@ -40299,6 +40321,7 @@
 ||prywatna-aukcja24.pl^$all
 ||prywatna-aukcja247.pl^$all
 ||prywatna-aukcja-uzytkownika.pl^$all
+||prywatna-oferta.pl^$all
 ||prywatna-ogloszenia.pl^$all
 ||prywatne-fotki.mywebcommunity.org^$all
 ||prywatne-oferty.pl^$all
@@ -40308,6 +40331,8 @@
 ||prywatne-zakupy.pl^$all
 ||prywatnie-kupuj.pl^$all
 ||prywatnie-kupuje247.pl^$all
+||prywatnie-oferuj.pl^$all
+||prywatnie-zakup.pl^$all
 ||prywatny-zakup.pl^$all
 ||przbmkisur.sa.com^$all
 ||przechodze-dalej.icu^$all
@@ -45264,6 +45289,7 @@
 ||story.lakeviewcondostaug.com^$all
 ||storyeu.bloper.site^$all
 ||stos.site^$all
+||stosownerzeczy.click^$all
 ||stotecs.inforedan.space^$all
 ||stowncold.site^$all
 ||str1.freepl.top^$all
@@ -46013,6 +46039,7 @@
 ||t1new.online^$all
 ||t1uyr0.web.app^$all
 ||t1uyr2.web.app^$all
+||t2uttjsa30.shop^$all
 ||t2uyr0.web.app^$all
 ||t2uyr1.web.app^$all
 ||t02uyr.web.app^$all
@@ -51468,6 +51495,7 @@
 ||whsjsj1717-d36bb1.ingress-florina.ewp.live^$all
 ||whte.lakeviewcondostaug.com^$all
 ||whterion-gt.cyou^$all
+||whtsinvapp.club^$all
 ||whufy.bkktothemoon.com^$all
 ||whyabike.net^$all
 ||whychristiansgetsick.org^$all
@@ -51586,6 +51614,7 @@
 ||wild-offers.com^$all
 ||wildes.info^$all
 ||wildfireshadow.com^$all
+||wildfloweredens.fun^$all
 ||wildlifetracker.net^$all
 ||wildplnej.website^$all
 ||wildt.sbs^$all
@@ -52915,8 +52944,10 @@
 ||zakup-dzis.pl^$all
 ||zakup-kontrolowany.pl^$all
 ||zakup-natychmiastowy.pl^$all
+||zakup-online24h.pl^$all
 ||zakup-payu.pl^$all
 ||zakup-przez-internet.pl^$all
+||zakup-teraz24h.pl^$all
 ||zakup-z-gwarancja.pl^$all
 ||zakupnavint24na7.shop^$all
 ||zakupolx.pl^$all
