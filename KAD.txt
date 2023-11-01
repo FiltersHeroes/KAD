@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 01 Nov 2023, 17:20 UTC+01:00
-! Version: 2023.11.1.2
+! Last modified: Wed, 01 Nov 2023, 21:17 UTC+01:00
+! Version: 2023.11.1.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5942,14 +5942,17 @@
 ||allegrolokalnie.kup-bezpiecznie-24.pl^$all
 ||allegrolokalnie.kup-online24h.pl^$all
 ||allegrolokalnie.kup-online247.pl^$all
+||allegrolokalnie.kup-prywatnie247.pl^$all
 ||allegrolokalnie.kup-prywatnie.pl^$all
 ||allegrolokalnie.kup-przedmiot.pl^$all
 ||allegrolokalnie.kup-sprzedaj.pl^$all
 ||allegrolokalnie.kup-z-bezpieczna-przesylka.pl^$all
 ||allegrolokalnie.kup-z-dostawa.pl^$all
 ||allegrolokalnie.kupie-prywatnie24.pl^$all
+||allegrolokalnie.kupie-prywatnie.pl^$all
 ||allegrolokalnie.kupie-przedmiot24.pl^$all
 ||allegrolokalnie.kupie-przedmiot247.pl^$all
+||allegrolokalnie.kupie-teraz247.pl^$all
 ||allegrolokalnie.kupno24-7.pl^$all
 ||allegrolokalnie.kupno24h-7.pl^$all
 ||allegrolokalnie.kupowanie-24.pl^$all
@@ -5981,6 +5984,7 @@
 ||allegrolokalnie.pl-kupuj-lokalnie.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika.pl^$all
 ||allegrolokalnie.pl-platnosc-24h.pl^$all
+||allegrolokalnie.pl-platnosc-payu.pl^$all
 ||allegrolokalnie.pl-zakup-dzis.pl^$all
 ||allegrolokalnie.pl-zakup-przedmiot.pl^$all
 ||allegrolokalnie.pl-zakupy-online.pl^$all
@@ -5995,6 +5999,7 @@
 ||allegrolokalnie.platnosc-zweryfikowana.pl^$all
 ||allegrolokalnie.platnosci-24h.pl^$all
 ||allegrolokalnie.platnosci-z-ochrona.pl^$all
+||allegrolokalnie.platnoscwsieci.pl^$all
 ||allegrolokalnie.polskie-zakupy.pl^$all
 ||allegrolokalnie.proste-zamowienia.pl^$all
 ||allegrolokalnie.prywanty-zakup24.pl^$all
@@ -6035,6 +6040,7 @@
 ||allegrolokalnie.szybkie-ogloszenie.pl^$all
 ||allegrolokalnie.szybkie-zamowienie.pl^$all
 ||allegrolokalnie.szybkie-zaplac.pl^$all
+||allegrolokalnie.szybkiezakupyonline.pl^$all
 ||allegrolokalnie.szybko-kupuj.pl^$all
 ||allegrolokalnie.szybko-zakup24.pl^$all
 ||allegrolokalnie.tani-zakup.pl^$all
@@ -6048,6 +6054,7 @@
 ||allegrolokalnie.zakup24.pl^$all
 ||allegrolokalnie.zakup-bezpieczny.pl^$all
 ||allegrolokalnie.zakup-dzis.pl^$all
+||allegrolokalnie.zakup-kontrolowany247.pl^$all
 ||allegrolokalnie.zakup-online24h.pl^$all
 ||allegrolokalnie.zakup-payu.pl^$all
 ||allegrolokalnie.zakup-produkt.pl^$all
@@ -6060,6 +6067,7 @@
 ||allegrolokalnie.zakupy24h-7.pl^$all
 ||allegrolokalnie.zakupy-24h.pl^$all
 ||allegrolokalnie.zakupy-bezpieczne.pl^$all
+||allegrolokalnie.zakupy-payu.pl^$all
 ||allegrolokalnie.zakupy-z-ochrona.pl^$all
 ||allegrolokalnie.zakupybezpieczne.pl^$all
 ||allegrolokalnie.zamawiaj-taniej.pl^$all
@@ -7779,6 +7787,7 @@
 ||auta-ciesielski.pl^$all
 ||auta-czesci.pl^$all
 ||auta-czestochowa.pl^$all
+||auta-dabrowski.pl^$all
 ||auta-daniel.pl^$all
 ||auta-darek.pl^$all
 ||auta-dawid.pl^$all
@@ -7812,6 +7821,7 @@
 ||auta-kowalscy.pl^$all
 ||auta-kowalska.pl^$all
 ||auta-krzysztof.pl^$all
+||auta-krzyzanowski.pl^$all
 ||auta-kuba.pl^$all
 ||auta-kwiatkowski.pl^$all
 ||auta-leszczynski.pl^$all
@@ -10875,6 +10885,7 @@
 ||bowlingburg.de^$all
 ||bowseer.website^$all
 ||bowstem.store^$all
+||box2youcs2.com^$all
 ||box5597.temp.domains^$all
 ||boxesfly.com^$all
 ||boxnepal.com^$all
@@ -14135,6 +14146,7 @@
 ||cs2-go.com^$all
 ||cs2-natus.pro^$all
 ||cs2-source.pro^$all
+||cs2lucky.pro^$all
 ||cs2navi.fun^$all
 ||cs2newtour.com^$all
 ||cs2skin4you.com^$all
@@ -18566,6 +18578,7 @@
 ||express-packs.net^$all
 ||express-platnosci.pl^$all
 ||expressable.info^$all
+||expressaodaliberdade.com.br^$all
 ||expresscash.pl^$all
 ||expressconcreteltd.net^$all
 ||expressdeliveryfastfailldhi.com^$all
@@ -28505,11 +28518,13 @@
 ||kup-online24h.pl^$all
 ||kup-online247.pl^$all
 ||kup-paczka-olx.pl^$all
+||kup-prywatnie247.pl^$all
 ||kup-prywatnie.pl^$all
 ||kup-przedmiot.pl^$all
 ||kup-wysylka-olx.pl^$all
 ||kup-z-dostawa.pl^$all
 ||kupie-prywatnie24.pl^$all
+||kupie-prywatnie.pl^$all
 ||kupie-przedmiot24.pl^$all
 ||kupie-przedmiot247.pl^$all
 ||kupie-teraz24h.pl^$all
@@ -35785,9 +35800,12 @@
 ||olx.info-oglaszamy.pl^$all
 ||olx.ink^$all
 ||olx.key-pl.pw^$all
+||olx.kup-prywatnie247.pl^$all
 ||olx.kup-prywatnie.pl^$all
 ||olx.kupie-prywatnie24.pl^$all
+||olx.kupie-prywatnie.pl^$all
 ||olx.kupie-przedmiot247.pl^$all
+||olx.kupie-teraz247.pl^$all
 ||olx.kupteraz-przedmiot.pl^$all
 ||olx.kupuj-online24.pl^$all
 ||olx.kupuje-prywatnie.pl^$all
@@ -35820,6 +35838,7 @@
 ||olx.pl-getorder.link^$all
 ||olx.pl-pay.link^$all
 ||olx.pl-payment.oferta-pay.com^$all
+||olx.pl-platnosc-payu.pl^$all
 ||olx.pl-safecash.link^$all
 ||olx.pl-safedeal.link^$all
 ||olx.pl-safety.oferta-payment.link^$all
@@ -35858,6 +35877,7 @@
 ||olx.rwpay.ru^$all
 ||olx.swell-redirect.pw^$all
 ||olx.szybki-zakupy24.pl^$all
+||olx.szybkiezakupyonline.pl^$all
 ||olx.tani-zakup.pl^$all
 ||olx.tanie-zaplac.pl^$all
 ||olx.themilitia.shop^$all
@@ -35877,9 +35897,11 @@
 ||olx.z-przesylka.pl^$all
 ||olx.zakup24-7.pl^$all
 ||olx.zakup-bezpieczny.pl^$all
+||olx.zakup-kontrolowany247.pl^$all
 ||olx.zakup-online24h.pl^$all
 ||olx.zakup-teraz24.pl^$all
 ||olx.zakup-teraz24h.pl^$all
+||olx.zakupy-payu.pl^$all
 ||olx.zakupybezpieczne.pl^$all
 ||olx.zakupyogloszenia.pl^$all
 ||olx.zamawiaj-taniej.pl^$all
@@ -36226,6 +36248,7 @@
 ||opteimization.lat^$all
 ||opti-saving.site^$all
 ||optical2web.com^$all
+||opticaura.pw^$all
 ||opticrefractionn.xyz^$all
 ||opticsspectrumc.xyz^$all
 ||opticstransparentp.xyz^$all
@@ -37040,6 +37063,7 @@
 ||pattedhair.com^$all
 ||pattern-trader.app^$all
 ||pattern-trader.io^$all
+||patternliner.com^$all
 ||patterntrader.app^$all
 ||patterntrader.io^$all
 ||patterntrader.net^$all
@@ -43279,6 +43303,7 @@
 ||seogiecommercd.top^$all
 ||seogiecommerce.com^$all
 ||seogiecommerce.top^$all
+||seoleverage.group^$all
 ||seomarketmaker.com^$all
 ||seotop1google.net^$all
 ||seouledout.com^$all
@@ -44491,6 +44516,7 @@
 ||solidforexoffers.com^$all
 ||solidfork.space^$all
 ||solidific.com^$all
+||solidnewykonanie.click^$all
 ||solidoapp.com^$all
 ||solipsistically.com^$all
 ||solisteaqui1.com^$all
@@ -44851,6 +44877,7 @@
 ||sprawiedliwe.pl^$all
 ||sprawiiedliwosc.site^$all
 ||sprawlingviineyards.site^$all
+||sprawnawiadomosc.click^$all
 ||sprawozdania24.click^$all
 ||spraying.life^$all
 ||sprfoullif.site^$all
@@ -46008,6 +46035,7 @@
 ||szybkiefakty.eu5.net^$all
 ||szybkiepolaczeniaa.site^$all
 ||szybkiesamochodyy.site^$all
+||szybkiezakupyonline.pl^$all
 ||szybkiirozwoj.site^$all
 ||szybkiisukces.site^$all
 ||szybkinetflix.pl^$all
@@ -49006,6 +49034,7 @@
 ||urk.wtrst.com^$all
 ||url-d32c17.ingress-florina.ewp.live^$all
 ||url-rdconline7webdhglobal.blogspot.com^$all
+||url.1.hubs.vn^$all
 ||urlink.pw^$all
 ||urmediaz.com^$all
 ||urnezzbn7gcu.com^$all
@@ -49050,6 +49079,7 @@
 ||user9payment.xyz^$all
 ||user-paypal.com^$all
 ||user-shop.xyz^$all
+||username29.godaddysites.com^$all
 ||usernewsystemform.xyz^$all
 ||uservinted-payment.6122120.xyz^$all
 ||useshape.com^$all
@@ -49638,6 +49668,7 @@
 ||vinted-be.id17402.com^$all
 ||vinted-be.id93172.com^$all
 ||vinted-belgique.com^$all
+||vinted-connaissance.info^$all
 ||vinted-cz.info93.pw^$all
 ||vinted-cz.info-orders8765.com^$all
 ||vinted-cz.order631.info^$all
@@ -52942,6 +52973,7 @@
 ||zakup-auto.pl^$all
 ||zakup-bezpieczny.pl^$all
 ||zakup-dzis.pl^$all
+||zakup-kontrolowany247.pl^$all
 ||zakup-kontrolowany.pl^$all
 ||zakup-natychmiastowy.pl^$all
 ||zakup-online24h.pl^$all
