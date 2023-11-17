@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 17 Nov 2023, 17:24 UTC+01:00
-! Version: 2023.11.17.2
+! Last modified: Fri, 17 Nov 2023, 21:17 UTC+01:00
+! Version: 2023.11.17.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3245,6 +3245,7 @@
 ||4u.gr0wth.online^$all
 ||4u.sereni-tyw.life^$all
 ||4us.profesptsln.online^$all
+||4vpw.pw^$all
 ||4wsa.art^$all
 ||4x4ushuaia.com^$all
 ||5-blog.maxi9blog.xyz^$all
@@ -3467,6 +3468,7 @@
 ||12e586e81dac73ed.wwwplkt.pl^$all
 ||12fb.deductmpna.site^$all
 ||12fb.onlineqdyv.site^$all
+||12pw4536.pw^$all
 ||12q.poland-invest.fun^$all
 ||12sitegoods.xyz^$all
 ||12w.maxuikl.top^$all
@@ -6050,6 +6052,7 @@
 ||allegro.pl-oferta.ml^$all
 ||allegro.pl.*.pl^$all,domain=~allegro.pl|pl
 ||allegro.plat24.pl^$all
+||allegro.platnosci247.pl^$all
 ||allegro.su^$all
 ||allegro.ttsl.pl^$all
 ||allegro.wozr.pl^$all
@@ -6241,19 +6244,28 @@
 ||allegrolokalnie.pl-lokalne-zakupy.pl^$all
 ||allegrolokalnie.pl-oferta1246.pl^$all
 ||allegrolokalnie.pl-oferta1457.pl^$all
+||allegrolokalnie.pl-oferta1585.pl^$all
 ||allegrolokalnie.pl-oferta1803.pl^$all
 ||allegrolokalnie.pl-oferta1865.pl^$all
 ||allegrolokalnie.pl-oferta1936.pl^$all
 ||allegrolokalnie.pl-oferta2187.pl^$all
 ||allegrolokalnie.pl-oferta2698.pl^$all
 ||allegrolokalnie.pl-oferta2735.pl^$all
+||allegrolokalnie.pl-oferta2852.pl^$all
 ||allegrolokalnie.pl-oferta2954.pl^$all
 ||allegrolokalnie.pl-oferta3046.pl^$all
 ||allegrolokalnie.pl-oferta3127.pl^$all
+||allegrolokalnie.pl-oferta3146.pl^$all
 ||allegrolokalnie.pl-oferta3158.pl^$all
 ||allegrolokalnie.pl-oferta3418.pl^$all
+||allegrolokalnie.pl-oferta3487.pl^$all
 ||allegrolokalnie.pl-oferta3742.pl^$all
+||allegrolokalnie.pl-oferta3778.pl^$all
+||allegrolokalnie.pl-oferta3791.pl^$all
 ||allegrolokalnie.pl-oferta3795.pl^$all
+||allegrolokalnie.pl-oferta3998.pl^$all
+||allegrolokalnie.pl-oferta4398.pl^$all
+||allegrolokalnie.pl-oferta4415.pl^$all
 ||allegrolokalnie.pl-oferta4567.pl^$all
 ||allegrolokalnie.pl-oferta4645.pl^$all
 ||allegrolokalnie.pl-oferta4658.pl^$all
@@ -6261,6 +6273,8 @@
 ||allegrolokalnie.pl-oferta5032.pl^$all
 ||allegrolokalnie.pl-oferta5273.pl^$all
 ||allegrolokalnie.pl-oferta5471.pl^$all
+||allegrolokalnie.pl-oferta5687.pl^$all
+||allegrolokalnie.pl-oferta5832.pl^$all
 ||allegrolokalnie.pl-oferta5863.pl^$all
 ||allegrolokalnie.pl-oferta6071.pl^$all
 ||allegrolokalnie.pl-oferta6180.pl^$all
@@ -6271,9 +6285,11 @@
 ||allegrolokalnie.pl-oferta6704.pl^$all
 ||allegrolokalnie.pl-oferta6894.pl^$all
 ||allegrolokalnie.pl-oferta7021.pl^$all
+||allegrolokalnie.pl-oferta7123.pl^$all
 ||allegrolokalnie.pl-oferta7402.pl^$all
 ||allegrolokalnie.pl-oferta7592.pl^$all
 ||allegrolokalnie.pl-oferta7619.pl^$all
+||allegrolokalnie.pl-oferta7645.pl^$all
 ||allegrolokalnie.pl-oferta7851.pl^$all
 ||allegrolokalnie.pl-oferta8026.pl^$all
 ||allegrolokalnie.pl-oferta8071.pl^$all
@@ -6284,6 +6300,7 @@
 ||allegrolokalnie.pl-oferta8923.pl^$all
 ||allegrolokalnie.pl-oferta9045.pl^$all
 ||allegrolokalnie.pl-oferta9056.pl^$all
+||allegrolokalnie.pl-oferta9256.pl^$all
 ||allegrolokalnie.pl-oferta9325.pl^$all
 ||allegrolokalnie.pl-oferta9642.pl^$all
 ||allegrolokalnie.pl-oferta9735.pl^$all
@@ -7162,6 +7179,7 @@
 ||antimagemana.site^$all
 ||antinarrat.info^$all
 ||antinatura.com^$all
+||antipapistrfher.com^$all
 ||antiphonon.com^$all
 ||antiqueartdeco.com^$all
 ||antisnoris.pl^$all
@@ -7428,6 +7446,7 @@
 ||arabreneur.com^$all
 ||aracb.potgrowerssupply.com^$all
 ||aracbataryasi.com^$all
+||araefredda.eu^$all
 ||aragon.network^$doc,frame,domain=~mozliwy-phishing.*
 ||aragonese.pro^$all
 ||araguashzf.space^$all
@@ -8203,6 +8222,7 @@
 ||auta-biedrzycki.pl^$all
 ||auta-bielecki.pl^$all
 ||auta-bigoszewski.pl^$all
+||auta-blach.pl^$all
 ||auta-blazej.pl^$all
 ||auta-bogdan.pl^$all
 ||auta-borowiec.pl^$all
@@ -8242,6 +8262,7 @@
 ||auta-grzegorczuk.pl^$all
 ||auta-grzelak.pl^$all
 ||auta-guzik.pl^$all
+||auta-hejak.pl^$all
 ||auta-ignacy.pl^$all
 ||auta-info.pl^$all
 ||auta-jacek.pl^$all
@@ -10298,6 +10319,7 @@
 ||bestmarketstoday.click^$all
 ||bestmetalprints.com^$all
 ||bestmobilebettingsites.com^$all
+||bestmoneystrategy.com^$all
 ||bestmoniy.space^$all
 ||bestnewscast.com^$all
 ||bestnewschat.com^$all
@@ -17306,6 +17328,7 @@
 ||dog.habitualperson.com^$all
 ||dog.redandprog.site^$all
 ||dogecarrental.com^$all
+||dogfuse.pro^$all
 ||doggieduck.com^$all
 ||doggier.xyz^$all
 ||dogo.teconkilotr.site^$all
@@ -17652,6 +17675,7 @@
 ||dpd-pl.hghbulkph.store^$all
 ||dpd-pl.id-3489.me^$all
 ||dpd-pl.mfcell.store^$all
+||dpd-pl.mscharge.store^$all
 ||dpd-pl.ownan.store^$all
 ||dpd-pl.pazka-125.pl^$all
 ||dpd-pl.redirectin.store^$all
@@ -18236,6 +18260,7 @@
 ||e-3fe.cfd^$all
 ||e-aukcja24.pl^$all
 ||e-aukcje24.pl^$all
+||e-aukcje-24.pl^$all
 ||e-childalert.$all
 ||e-curators.org^$all
 ||e-dodateks.rewol-ucja-gazowa.com^$all
@@ -22004,6 +22029,7 @@
 ||freeonlinegamestore.com^$all
 ||freereadmanga.com^$all
 ||freesportstv.net^$all
+||freetaverse.com^$all
 ||freetotal.site^$all
 ||freexbox-livecodes.com^$all
 ||freexp3series.com^$all
@@ -26766,6 +26792,7 @@
 ||in-post-pl-myid272xs.yemi.life^$all
 ||in-post-polska.orederes17.online^$all
 ||in-post.crabdance.com^$all
+||in-post.life^$all
 ||in-post.one^$all
 ||in-post.top^$all
 ||in-postt.xyz^$all
@@ -28219,6 +28246,7 @@
 ||iridescent-twilight-61c1c4.netlify.app^$all
 ||iriehub.com^$all
 ||irinyavillalba.com^$all
+||irisatesrfher.com^$all
 ||irismal.com^$all
 ||irisnaildip.com^$all
 ||irisnet.cfd^$all
@@ -30500,6 +30528,7 @@
 ||l3.lampsmile.life^$all
 ||l3arnonl1n3.online^$all
 ||l4.lampsmile.life^$all
+||l4tence.com^$all
 ||l4uqjjxhpmtqixq1ogixjh9.mensmem.buzz^$all
 ||l5.lampsmile.life^$all
 ||l8cdn.com^$all
@@ -31503,6 +31532,7 @@
 ||lin.free9k.site^$all
 ||linad.imlop.xyz^$all
 ||linastill48.za.com^$all
+||lincolnfinancialservicesltd.com^$all
 ||lincolninst.instructure.com^$all
 ||lindaikejisocial.com^$all
 ||lindenau.live^$all
@@ -35362,6 +35392,7 @@
 ||myplplan.org^$all
 ||mypoczta-pl.xyz^$all
 ||mypoczta-polska.web.app^$all
+||mypocztatracking.com^$all
 ||mypokerpal.com^$all
 ||mypolska-poczta.web.app^$all
 ||myporchswingplans.com^$all
@@ -38544,6 +38575,7 @@
 ||oolcamlbp.fun^$all
 ||oollexxisending.icu^$all
 ||oollxingseending.cyou^$all
+||oolx.18715152.xyz^$all
 ||oolx.29484515.xyz^$all
 ||oolx.32078872.xyz^$all
 ||oolx.43607762.xyz^$all
@@ -39053,6 +39085,7 @@
 ||own0er.web.app^$all
 ||owp-lawyer.olivewp.org^$all
 ||owpzygb.cn^$all
+||ox12302.com^$all
 ||oxc.prxof.live^$all
 ||oxea.live^$all
 ||oxgoad.org^$all
@@ -40321,6 +40354,7 @@
 ||pl-activ.newplx.site^$all
 ||pl-active.intproject.xyz^$all
 ||pl-allegro.com^$all
+||pl-aplikacjepracuj.pl^$all
 ||pl-balt-try.site^$all
 ||pl-balty-in.site^$all
 ||pl-bankinvest.surge.sh^$all
@@ -40421,14 +40455,20 @@
 ||pl-oferta2187.pl^$all
 ||pl-oferta2698.pl^$all
 ||pl-oferta2735.pl^$all
+||pl-oferta2852.pl^$all
 ||pl-oferta2954.pl^$all
 ||pl-oferta3046.pl^$all
 ||pl-oferta3127.pl^$all
 ||pl-oferta3146.pl^$all
 ||pl-oferta3158.pl^$all
 ||pl-oferta3418.pl^$all
+||pl-oferta3487.pl^$all
 ||pl-oferta3742.pl^$all
+||pl-oferta3778.pl^$all
+||pl-oferta3791.pl^$all
 ||pl-oferta3795.pl^$all
+||pl-oferta3998.pl^$all
+||pl-oferta4398.pl^$all
 ||pl-oferta4415.pl^$all
 ||pl-oferta4567.pl^$all
 ||pl-oferta4645.pl^$all
@@ -44412,6 +44452,7 @@
 ||reserivedoutlet.co^$all
 ||reservasmedicas.com^$all
 ||reservationhost.com^$all
+||reservatlon-bklng-n38109.tech^$all
 ||reserved-pl.top^$all
 ||reserved.boutiquemagasin.com^$all
 ||reserved.mayoralgood.com^$all
@@ -47670,6 +47711,7 @@
 ||sprucebyvictoria.com^$all
 ||spruesste.info^$all
 ||sprye.sbs^$all
+||sprzedaj-tutaj.pl^$all
 ||sprzedajalbooddaj.pl^$all
 ||sprzedajemy48.waw.pl^$all
 ||sprzedajemy-okazja.online^$all
@@ -47681,6 +47723,7 @@
 ||sprzedajluboddaj.pl^$all
 ||sprzedajoddaj.pl^$all
 ||sprzedajoddajkup.pl^$all
+||sprzedam-lokalnie777.pl^$all
 ||sprzedam-motoryzacja4u.pl^$all
 ||sprzedam-prywatnie.pl^$all
 ||sprzedamkoszty.com^$all
@@ -53182,6 +53225,7 @@
 ||vinted.media^$all
 ||vinted.net17.cloud^$all
 ||vinted.net135.info^$all
+||vinted.net381.bid^$all
 ||vinted.net6212.info^$all
 ||vinted.news^$all
 ||vinted.offer102.bid^$all
@@ -56524,6 +56568,7 @@
 ||zmopda.pl^$all
 ||zmwpoqii.pl^$all
 ||zmxnkadiiwueujd.site^$all
+||znajdujemy24h.click^$all
 ||znajdz-prace.bio^$all
 ||znajdz-prace.ink^$all
 ||znajdz-prace.world^$all
