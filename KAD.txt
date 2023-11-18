@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 18 Nov 2023, 17:19 UTC+01:00
-! Version: 2023.11.18.2
+! Last modified: Sat, 18 Nov 2023, 21:16 UTC+01:00
+! Version: 2023.11.18.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3704,6 +3704,7 @@
 ||82a9d4fb409.chefs-kitchen.co.uk^$all
 ||82e7946e1f7.johncornell.com^$all
 ||83hf.skin^$all
+||83js0-5.cfd^$all
 ||83udg-47.cfd^$all
 ||84a891d6885.johncornell.com^$all
 ||084df.cc^$all
@@ -6284,10 +6285,15 @@
 ||allegrolokalnie.pl-oferta4997.pl^$all
 ||allegrolokalnie.pl-oferta5032.pl^$all
 ||allegrolokalnie.pl-oferta5273.pl^$all
+||allegrolokalnie.pl-oferta5412.pl^$all
+||allegrolokalnie.pl-oferta5413.pl^$all
+||allegrolokalnie.pl-oferta5415.pl^$all
+||allegrolokalnie.pl-oferta5435.pl^$all
 ||allegrolokalnie.pl-oferta5471.pl^$all
 ||allegrolokalnie.pl-oferta5687.pl^$all
 ||allegrolokalnie.pl-oferta5832.pl^$all
 ||allegrolokalnie.pl-oferta5863.pl^$all
+||allegrolokalnie.pl-oferta5997.pl^$all
 ||allegrolokalnie.pl-oferta6071.pl^$all
 ||allegrolokalnie.pl-oferta6180.pl^$all
 ||allegrolokalnie.pl-oferta6189.pl^$all
@@ -6298,6 +6304,8 @@
 ||allegrolokalnie.pl-oferta6894.pl^$all
 ||allegrolokalnie.pl-oferta7021.pl^$all
 ||allegrolokalnie.pl-oferta7123.pl^$all
+||allegrolokalnie.pl-oferta7214.pl^$all
+||allegrolokalnie.pl-oferta7215.pl^$all
 ||allegrolokalnie.pl-oferta7402.pl^$all
 ||allegrolokalnie.pl-oferta7592.pl^$all
 ||allegrolokalnie.pl-oferta7619.pl^$all
@@ -6312,6 +6320,7 @@
 ||allegrolokalnie.pl-oferta8923.pl^$all
 ||allegrolokalnie.pl-oferta9045.pl^$all
 ||allegrolokalnie.pl-oferta9056.pl^$all
+||allegrolokalnie.pl-oferta9242.pl^$all
 ||allegrolokalnie.pl-oferta9247.pl^$all
 ||allegrolokalnie.pl-oferta9256.pl^$all
 ||allegrolokalnie.pl-oferta9325.pl^$all
@@ -8248,6 +8257,7 @@
 ||auta-bytom.pl^$all
 ||auta-ciesielski.pl^$all
 ||auta-ciesla.pl^$all
+||auta-czarnecki.pl^$all
 ||auta-czesci.pl^$all
 ||auta-czeslaw.pl^$all
 ||auta-czestochowa.pl^$all
@@ -8453,6 +8463,7 @@
 ||auto-joker.net.pl^$all
 ||auto-kaczorowski.pl^$all
 ||auto-kielce.pl^$all
+||auto-knopek.pl^$all
 ||auto-kowalek.pl^$all
 ||auto-krakow.pl^$all
 ||auto-krygier.pl^$all
@@ -8621,6 +8632,7 @@
 ||automatizacionortuzar.com^$all
 ||automatorr.site^$all
 ||automers.com^$all
+||automobile-gielda.pl^$all
 ||automobile-ogloszenia.pl^$all
 ||automotivetarget.com^$all
 ||automoto-aukcje.pl^$all
@@ -14179,6 +14191,7 @@
 ||code-del-successo.click^$all
 ||code-kit.com^$all
 ||code-stash.com^$all
+||codeaura.pw^$all
 ||codebomber.com^$all
 ||codebrew.nl^$all
 ||codecanvas.pw^$all
@@ -21106,6 +21119,7 @@
 ||file-0utlook-drive-folder-locale-doc.web.app^$all
 ||file-share365.com^$all
 ||file-share.pl^$all
+||file.download.mueblescurico.cl^$all
 ||filecom.net^$all
 ||fileconvertpro.co^$all
 ||filed-offers.com^$all
@@ -31167,6 +31181,7 @@
 ||lh-pl-01ab922735a.digiuaisolutions.com.br^$all
 ||lh-pl-1aff3d3dda2.digiuaisolutions.com.br^$all
 ||lh-pl-1b8dfd7c116.digiuaisolutions.com.br^$all
+||lh-pl-1c585060e8b.dramaririnaldi.com^$all
 ||lh-pl-1d3fa5da194.digiuaisolutions.com.br^$all
 ||lh-pl-1e5a50f1f63.digiuaisolutions.com.br^$all
 ||lh-pl-2a1ffa96cd8.digiuaisolutions.com.br^$all
@@ -31343,6 +31358,7 @@
 ||lh-pl-c231f47aae9.digiuaisolutions.com.br^$all
 ||lh-pl-c90397f6067.digiuaisolutions.com.br^$all
 ||lh-pl-c6407150633.digiuaisolutions.com.br^$all
+||lh-pl-ca613f6200f.dramaririnaldi.com^$all
 ||lh-pl-cad90459cf4.digiuaisolutions.com.br^$all
 ||lh-pl-cafe7ae98f5.digiuaisolutions.com.br^$all
 ||lh-pl-cba7a55ba2b.digiuaisolutions.com.br^$all
@@ -31371,6 +31387,7 @@
 ||lh-pl-e23ce01485d.digiuaisolutions.com.br^$all
 ||lh-pl-e83ad7d7e7d.digiuaisolutions.com.br^$all
 ||lh-pl-e157ed523d7.digiuaisolutions.com.br^$all
+||lh-pl-e699c44c961.dramaririnaldi.com^$all
 ||lh-pl-e392424b81d.digiuaisolutions.com.br^$all
 ||lh-pl-eaa77a6b63c.digiuaisolutions.com.br^$all
 ||lh-pl-ec0e4dfdcfa.digiuaisolutions.com.br^$all
@@ -32542,6 +32559,7 @@
 ||lynngonsalvesphotography.com^$all
 ||lynordewic.co^$all
 ||lynzrobv.com^$all
+||lyophil.sbs^$all
 ||lyoshopping.com^$all
 ||lyqowiabee.live^$all
 ||lyqywaorya.info^$all
@@ -33832,6 +33850,7 @@
 ||meta.businessverifys.info^$all
 ||meta.bussines-suitte.tech^$all
 ||meta.help-center25.click^$all
+||meta.help-center-appeal.com^$all
 ||meta.help-fanpage-suite.com^$all
 ||meta.helpsfanpage-suite.info^$all
 ||meta.online.support-setting.serv00.net^$all
@@ -34876,6 +34895,7 @@
 ||motogielda-norczewski.pl^$all
 ||motogielda-polska24.pl^$all
 ||motogielda-polska.pl^$all
+||motogielda-radzynek.pl^$all
 ||motogielda-rybarek.pl^$all
 ||motogielda-sidorczuk.pl^$all
 ||motohandel-kacperski.com.pl^$all
@@ -35010,6 +35030,7 @@
 ||mpl2.mttrade.top^$all
 ||mpl3.mttrade.top^$all
 ||mpl.plmidmbp.com^$all
+||mplace-ogloszenia.pl^$all
 ||mpob125.cocinasyequipos.com^$all
 ||mpoczta-odnowic.life^$all
 ||mpoczta-odnowic.top^$all
@@ -40523,10 +40544,15 @@
 ||pl-oferta4997.pl^$all
 ||pl-oferta5032.pl^$all
 ||pl-oferta5273.pl^$all
+||pl-oferta5412.pl^$all
+||pl-oferta5413.pl^$all
+||pl-oferta5415.pl^$all
+||pl-oferta5435.pl^$all
 ||pl-oferta5471.pl^$all
 ||pl-oferta5687.pl^$all
 ||pl-oferta5832.pl^$all
 ||pl-oferta5863.pl^$all
+||pl-oferta5997.pl^$all
 ||pl-oferta6071.pl^$all
 ||pl-oferta6180.pl^$all
 ||pl-oferta6189.pl^$all
@@ -40537,6 +40563,8 @@
 ||pl-oferta6894.pl^$all
 ||pl-oferta7021.pl^$all
 ||pl-oferta7123.pl^$all
+||pl-oferta7214.pl^$all
+||pl-oferta7215.pl^$all
 ||pl-oferta7402.pl^$all
 ||pl-oferta7592.pl^$all
 ||pl-oferta7619.pl^$all
@@ -40551,6 +40579,7 @@
 ||pl-oferta8923.pl^$all
 ||pl-oferta9045.pl^$all
 ||pl-oferta9056.pl^$all
+||pl-oferta9242.pl^$all
 ||pl-oferta9247.pl^$all
 ||pl-oferta9256.pl^$all
 ||pl-oferta9325.pl^$all
@@ -41248,6 +41277,7 @@
 ||poczta-polsce.lol^$all
 ||poczta-polsest.top^$all
 ||poczta-polsk.com^$all
+||poczta-polsk.cuirer-request.online^$all
 ||poczta-polska-balik.com^$all
 ||poczta-polska-botabba330279.codeanyapp.com^$all
 ||poczta-polska-del.com^$all
@@ -41570,6 +41600,7 @@
 ||polandbal.site^$all
 ||polandbalticpower.online^$all
 ||polandc.carrd.co^$all
+||polandgp.pages.net.br^$all
 ||polandingg.page.link^$all
 ||polandinvestmenttotrust.tilda.ws^$all
 ||polandmailweb.weebly.com^$all
@@ -49026,6 +49057,7 @@
 ||table.tigernnal.cyou^$all
 ||tableful.top^$all
 ||tabletopmtg.com^$all
+||tablica-lokalna24.pl^$all
 ||tablicadoogloszenpolska.pl^$all
 ||tablicaogloszengratis.pl^$all
 ||tabsok-xyz.preview-domain.com^$all
@@ -53322,6 +53354,7 @@
 ||vinted.vip^$all
 ||vinted.waleupl.org^$all
 ||vinted.yvellap.org^$all
+||vintedcz.order123.pw^$all
 ||vintedcz.order146.online^$all
 ||vintedcz.order235.pro^$all
 ||vintedcz.order253.com^$all
@@ -53701,6 +53734,7 @@
 ||vlnted-gb.abilg.info^$all
 ||vlnted-gb.abiogl.info^$all
 ||vlnted-gb.aciox.info^$all
+||vlnted-gb.agegl.info^$all
 ||vlnted-gb.agglg.info^$all
 ||vlnted-gb.agibl.info^$all
 ||vlnted-gb.aglbe.info^$all
@@ -54078,6 +54112,7 @@
 ||waloska.site^$all
 ||walotgfdn.site^$all
 ||walt-company-account.com^$all
+||walt-company-management-inc.com^$all
 ||walt-company-management.com^$all
 ||walter.eniewolewska.pl^$all
 ||walter.tataras.com.pl^$all
