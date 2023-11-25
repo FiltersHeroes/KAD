@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 24 Nov 2023, 21:16 UTC+01:00
-! Version: 2023.11.24.3
+! Last modified: Sat, 25 Nov 2023, 09:18 UTC+01:00
+! Version: 2023.11.25.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -6357,6 +6357,7 @@
 ||allegrolokalnie.pl-kupteraz.pl^$all
 ||allegrolokalnie.pl-kupuj-lokalnie.pl^$all
 ||allegrolokalnie.pl-lokalne-zakupy.pl^$all
+||allegrolokalnie.pl-oferta0379.pl^$all
 ||allegrolokalnie.pl-oferta1246.pl^$all
 ||allegrolokalnie.pl-oferta1421.pl^$all
 ||allegrolokalnie.pl-oferta1444.pl^$all
@@ -6390,6 +6391,8 @@
 ||allegrolokalnie.pl-oferta3221.pl^$all
 ||allegrolokalnie.pl-oferta3227.pl^$all
 ||allegrolokalnie.pl-oferta3229.pl^$all
+||allegrolokalnie.pl-oferta3242.pl^$all
+||allegrolokalnie.pl-oferta3245.pl^$all
 ||allegrolokalnie.pl-oferta3246.pl^$all
 ||allegrolokalnie.pl-oferta3255.pl^$all
 ||allegrolokalnie.pl-oferta3280.pl^$all
@@ -6438,8 +6441,11 @@
 ||allegrolokalnie.pl-oferta6180.pl^$all
 ||allegrolokalnie.pl-oferta6189.pl^$all
 ||allegrolokalnie.pl-oferta6194.pl^$all
+||allegrolokalnie.pl-oferta6236.pl^$all
 ||allegrolokalnie.pl-oferta6301.pl^$all
 ||allegrolokalnie.pl-oferta6349.pl^$all
+||allegrolokalnie.pl-oferta6512.pl^$all
+||allegrolokalnie.pl-oferta6536.pl^$all
 ||allegrolokalnie.pl-oferta6548.pl^$all
 ||allegrolokalnie.pl-oferta6704.pl^$all
 ||allegrolokalnie.pl-oferta6894.pl^$all
@@ -6452,10 +6458,12 @@
 ||allegrolokalnie.pl-oferta7240.online^$all
 ||allegrolokalnie.pl-oferta7265.pl^$all
 ||allegrolokalnie.pl-oferta7335.pl^$all
+||allegrolokalnie.pl-oferta7374.pl^$all
 ||allegrolokalnie.pl-oferta7402.pl^$all
 ||allegrolokalnie.pl-oferta7592.pl^$all
 ||allegrolokalnie.pl-oferta7616.pl^$all
 ||allegrolokalnie.pl-oferta7619.pl^$all
+||allegrolokalnie.pl-oferta7631.pl^$all
 ||allegrolokalnie.pl-oferta7645.pl^$all
 ||allegrolokalnie.pl-oferta7851.pl^$all
 ||allegrolokalnie.pl-oferta8026.pl^$all
@@ -6481,9 +6489,12 @@
 ||allegrolokalnie.pl-oferta9642.pl^$all
 ||allegrolokalnie.pl-oferta9735.pl^$all
 ||allegrolokalnie.pl-oferta24252.pl^$all
+||allegrolokalnie.pl-oferta-prywatna3245.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna3455.pl^$all
+||allegrolokalnie.pl-oferta-prywatna3457.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna8345.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna8355.pl^$all
+||allegrolokalnie.pl-oferta-prywatna8365.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika.pl^$all
 ||allegrolokalnie.pl-platnosc-24h.pl^$all
 ||allegrolokalnie.pl-platnosc-payu.pl^$all
@@ -7536,6 +7547,7 @@
 ||appealbusinesshelpform.com^$all
 ||appealcenter.servehttp.com^$all
 ||appealeation-case-9045bv.surge.sh^$all
+||appealeation-support-request-d89d23ui.vercel.app^$all
 ||appealliveform.ml^$all
 ||appealsupport-technical.web.app^$all
 ||appears.sbs^$all
@@ -8669,6 +8681,7 @@
 ||auto-krakow.pl^$all
 ||auto-krygier.pl^$all
 ||auto-lodz.pl^$all
+||auto-lux.pl^$all
 ||auto-maciejewski.pl^$all
 ||auto-malinowski.pl^$all
 ||auto-man.pl^$all
@@ -10338,6 +10351,7 @@
 ||beautonkin.com^$all
 ||beautotopia.com^$all
 ||beauty-global-media.com^$all
+||beauty-new.pages.net.br^$all
 ||beautydebg.shop^$all
 ||beautyderbg.online^$all
 ||beautynice.net^$all
@@ -10923,6 +10937,7 @@
 ||binan-invest.pl^$all
 ||binance-entry.com^$all
 ||binance-invest.web.app^$all
+||binance.secure.com-by.ru^$all
 ||binarium.click^$all
 ||binarium.com^$all
 ||binarium.global^$all
@@ -13818,6 +13833,7 @@
 ||charming-northcutt.193-42-36-172.plesk.page^$all
 ||charmingmyanmar.com^$all
 ||charms-tech.com^$all
+||charonpc.vinted.games^$all
 ||charsingha.info^$all
 ||charter.megu-acu.com^$all
 ||chartersolutionsnv.com^$all
@@ -16725,6 +16741,7 @@
 ||deliverfund.top^$all
 ||delivery2you.page.link^$all
 ||delivery24polska.cyou^$all
+||delivery-dhl-help.com^$all
 ||delivery-dhl-parcel-track.com^$all
 ||delivery-network-uk.com^$all
 ||delivery-olx-polska.000webhostapp.com^$all
@@ -18213,6 +18230,7 @@
 ||dpd.gmebin.pw^$all
 ||dpd.hovulepd.org^$all
 ||dpd.ip-648342.pw^$all
+||dpd.jnbay.online^$all
 ||dpd.lublaopldmo.org^$all
 ||dpd.maxpeoplepl.top^$all
 ||dpd.neu.paketversand.51-116-111-97.cprapid.com^$all
@@ -19693,6 +19711,7 @@
 ||eng-cdn.com^$all
 ||eng-sub.xyz^$all
 ||engageclass.com^$all
+||engine-v2.vinted.games^$all
 ||engineeredbypow.com^$all
 ||engineflameout.com^$all
 ||english.mazsina.warszawa.pl^$all
@@ -20523,6 +20542,7 @@
 ||f1f37814489.chefs-kitchen.co.uk^$all
 ||f2.fishclock.live^$all
 ||f02d9f87d9f.johncornell.com^$all
+||f2dg1545ert5ert8t.alevsesli.net^$all
 ||f2mclips.com^$all
 ||f2rxh67pv4jt9.com^$all
 ||f3-new.com^$all
@@ -21102,6 +21122,7 @@
 ||fast6l1fe.xyz^$all
 ||fast21onli4e.online^$all
 ||fast-appealeation-helpdesk-service-34905.vercel.app^$all
+||fast-business-support-reply-b984w.vercel.app^$all
 ||fast-reappealeation-data-recover-45903.surge.sh^$all
 ||fast-unfollow.com^$all
 ||fastandfurious7pl.wordpress.com^$all
@@ -23992,6 +24013,7 @@
 ||glosy-zbiorowo.eu^$all
 ||glosy-zlecenie.eu^$all
 ||gloveplati.com^$all
+||gloverparadox.com^$all
 ||glovesfluent.com^$all
 ||glovestrue.com^$all
 ||glowbrand.xyz^$all
@@ -24664,6 +24686,7 @@
 ||grocerybag.space^$all
 ||grocerymarkt.com^$all
 ||groesbecktxbusiness.com^$all
+||gromadzimyfakty.click^$all
 ||gromder-invest.pro^$all
 ||grooamni.xyz^$all
 ||groomed443.cfd^$all
@@ -25466,6 +25489,7 @@
 ||help-yourpackage.com^$all
 ||help.pirgolik.cf^$all
 ||helpcenter.bussinesspolicy.com^$all
+||helpdesk-b9834ioe.vercel.app^$all
 ||helpdesk-center.com^$all
 ||helpdesk-edu-pl.weebly.com^$all
 ||helpdesk-kundensupport.com^$all
@@ -27982,6 +28006,7 @@
 ||inp0st.74865326.xyz^$all
 ||inp-t.sbs^$all
 ||inpersonagain.com^$all
+||inpesteo.xyz^$all
 ||inpgon.com^$all
 ||inplanwetrusst.site^$all
 ||inpoost.09454151.xyz^$all
@@ -28504,6 +28529,7 @@
 ||instantconnect.shop^$all
 ||instantdiscountcode.com^$all
 ||instantlandingland.shop^$all
+||instantopportunities.info^$all
 ||instartecvabwer.info^$all
 ||instasexlocator*.com^$all
 ||instatrigger.com^$all
@@ -28596,6 +28622,7 @@
 ||internetdrogist.com^$all
 ||internetowa-gieldapojazdow.pl^$all
 ||internetowe-zamowienia.pl^$all
+||internetoweinfo24h.click^$all
 ||internetoweogloszenia24.cba.pl^$all
 ||internetoweogloszenia24.pl^$all
 ||internetoweogloszenia.pl^$all
@@ -30446,7 +30473,6 @@
 ||kg-inv.web.app^$all
 ||kgbrw.shop^$all
 ||kggcu.phweditorial.com^$all
-||kggroupdachy.pl^$all
 ||kgh-ll.firebaseapp.com^$all
 ||kgh-ll.web.app^$all
 ||kghm-class.web.app^$all
@@ -30462,6 +30488,7 @@
 ||kgxujhuyis.sarah-peterson.workers.dev^$all
 ||kgzymdn.cn^$all
 ||kh00pl.web.app^$all
+||kh-bw-lq-u6-qc-24a4qt1u-u9v0op-sq-y.vercel.app^$all
 ||kh-hu.capojo.com^$all
 ||khaddikhaddar.pk^$all
 ||khajur.info^$all
@@ -32931,6 +32958,7 @@
 ||logicinfosoft.com^$all
 ||login-account-alert-b83d7.web.app^$all
 ||login-authorize-verify-merchant-account-info.com^$all
+||login-booking.com^$all
 ||login-ingbank-odblokowac.info^$all
 ||login-ingbank-zablokowany.info^$all
 ||login-ipco.com^$all
@@ -41730,7 +41758,9 @@
 ||pl-oferta9642.pl^$all
 ||pl-oferta9735.pl^$all
 ||pl-oferta24252.pl^$all
+||pl-oferta-prywatna3245.pl^$all
 ||pl-oferta-prywatna3455.pl^$all
+||pl-oferta-prywatna3457.pl^$all
 ||pl-oferta-prywatna8345.pl^$all
 ||pl-oferta-prywatna8355.pl^$all
 ||pl-oferta-prywatna8365.pl^$all
@@ -42517,6 +42547,7 @@
 ||poczta.kontrola-bezpieczenstwa.top^$all
 ||poczta.life^$all
 ||poczta.pakiet-pl.com^$all
+||poczta.polska-pl.world^$all
 ||poczta.redelivery.biz^$all
 ||poczta.walidacja-uzytkownika.pw^$all
 ||poczta.wp-pl-potwierdz-dostep.site^$all
@@ -43608,6 +43639,7 @@
 ||pregnantwomennaked.com^$all
 ||preguiltiness.info^$all
 ||prehearings.live^$all
+||preinvitation.com^$all
 ||preinviting.info^$all
 ||prel2dor.tes-pl1.xyz^$all
 ||premacc.pl^$all
@@ -44806,6 +44838,7 @@
 ||qrwsh.hellbentforchoppers.com^$all
 ||qrxmf.sunddip.com^$all
 ||qsangvku11x.digital^$all
+||qsfqsfqsfqsf.anglettes.net^$all
 ||qswe.utulo.site^$all
 ||qsxnbtzs.shopmuopios.online^$all
 ||qt1e.com^$all
@@ -45325,6 +45358,7 @@
 ||rboimsm.cn^$all
 ||rbucolfk54.lisanse.com^$all
 ||rbukowre.site^$all
+||rbxzt6.xyz^$all
 ||rc1.site^$all
 ||rc-calc.com^$all
 ||rc.tp2-axz.xyz^$all
@@ -49942,6 +49976,7 @@
 ||supportmyaccnt.com^$all
 ||supports-page-recover-helkp1001006626262.pp-pharma-plan.com^$all
 ||supportservice.webcindario.com^$all
+||suppot-123.pages.net.br^$all
 ||suppport-55c1e.web.app^$all
 ||suppprt-dat.pages.pro.br^$all
 ||supprt-tg.pages.pro.br^$all
@@ -50346,6 +50381,7 @@
 ||t50-pl.invst5.site^$all
 ||t72r.com^$all
 ||t78vr5.icu^$all
+||t93r.xyz^$all
 ||t899.info^$all
 ||t-new.infocos.site^$all
 ||t-pl1.zoologys.xyz^$all
@@ -54756,6 +54792,7 @@
 ||vintedcz.order235.pro^$all
 ||vintedcz.order253.com^$all
 ||vintedcz.order324.pw^$all
+||vintedcz.order342.com^$all
 ||vintedcz.order345.online^$all
 ||vintedcz.order364.com^$all
 ||vintedcz.order382.eu^$all
@@ -55341,6 +55378,7 @@
 ||vum.hair^$all
 ||vunsako-xyz.preview-domain.com^$all
 ||vunsako.space^$all
+||vuotlenchinhminh-homepages.pages.net.br^$all
 ||vupohaafinyp8.pro^$all
 ||vursitoj.com^$all
 ||vurytyyfyi.live^$all
