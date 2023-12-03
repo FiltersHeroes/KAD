@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 03 Dec 2023, 17:19 UTC+01:00
-! Version: 2023.12.3.3
+! Last modified: Sun, 03 Dec 2023, 21:16 UTC+01:00
+! Version: 2023.12.3.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2645,6 +2645,7 @@
 ||00lx.8856574.xyz^$all
 ||0lx.19754841.xyz^$all
 ||0lx.29754841.xyz^$all
+||0lx.49484121.xyz^$all
 ||00lx.184181231.xyz^$all
 ||0lx.319784422.xyz^$all
 ||0nli0e0uest1ng.life^$all
@@ -2767,6 +2768,7 @@
 ||1npost.7815151.xyz^$all
 ||1npost.8987454.xyz^$all
 ||1npost.697845451.xyz^$all
+||1npost.897845451.xyz^$all
 ||1nsp1r3online.online^$all
 ||1nves7.site^$all
 ||1o.money-poland.fun^$all
@@ -2992,6 +2994,7 @@
 ||4f-cyber.top^$all
 ||4f-life.top^$all
 ||4f-online.top^$all
+||4f-onlinesale.top^$all
 ||4f-onlinestore.top^$all
 ||4f-pl.com^$all
 ||4f-pl.online^$all
@@ -5610,6 +5613,7 @@
 ||allegro.kupzpayu24.pl^$all
 ||allegro.net^$all
 ||allegro.ochronaa24.pl^$all
+||allegro.oferta247.pl^$all
 ||allegro.paying24.pl^$all
 ||allegro.pl-0x6.pl^$all
 ||allegro.pl-com^$all
@@ -5686,6 +5690,7 @@
 ||allegrolokalnie.com.ru^$all
 ||allegrolokalnie.dokonaj-zakupu-online.pl^$all
 ||allegrolokalnie.dostawa-24.pl^$all
+||allegrolokalnie.e-24payu.pl^$all
 ||allegrolokalnie.e-oferta24h.pl^$all
 ||allegrolokalnie.e-oplata24.pl^$all
 ||allegrolokalnie.e-przelew24.pl^$all
@@ -5707,6 +5712,7 @@
 ||allegrolokalnie.nssl.pl^$all
 ||allegrolokalnie.ofera8921.pl^$all
 ||allegrolokalnie.oferta24h.pl^$all
+||allegrolokalnie.oferta71264.pl^$all
 ||allegrolokalnie.oferta71651.pl^$all
 ||allegrolokalnie.oferta-24h.pl^$all
 ||allegrolokalnie.oferty-prywatne.pl^$all
@@ -5835,8 +5841,10 @@
 ||allegrolokalnie.pl-oferta-uzytkownika125534.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika125535.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika125536.pl^$all
+||allegrolokalnie.pl-oferta-uzytkownika567345.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika1255367.pl^$all
 ||allegrolokalnie.pl-oferta-uzytkownika1255368.pl^$all
+||allegrolokalnie.pl-oferta-uzytkownika1255370.pl^$all
 ||allegrolokalnie.pl-platnosc-24h.pl^$all
 ||allegrolokalnie.pl-platnosc-payu.pl^$all
 ||allegrolokalnie.pl-prywatna-oferta1122.pl^$all
@@ -7550,6 +7558,9 @@
 ||auta-bakowska.pl^$all
 ||auta-czubak.pl^$all
 ||auta-domanski.pl^$all
+||auta-dudkowska.pl^$all
+||auta-dudkowski.pl^$all
+||auta-godlewski.pl^$all
 ||auta-grabska.pl^$all
 ||auta-grzesik.pl^$all
 ||auta-handrysiak.pl^$all
@@ -7558,6 +7569,8 @@
 ||auta-jasinski.pl^$all
 ||auta-kosowski.pl^$all
 ||auta-kusmierczyk.pl^$all
+||auta-ludecka.pl^$all
+||auta-ludecki.pl^$all
 ||auta-mackowiak.pl^$all
 ||auta-malek.com.pl^$all
 ||auta-malek.pl^$all
@@ -7565,12 +7578,16 @@
 ||auta-marczak.pl^$all
 ||auta-mikolajczak.pl^$all
 ||auta-mokwinski.pl^$all
+||auta-niebora.pl^$all
 ||auta-pawlikowski.pl^$all
 ||auta-radziejewski.pl^$all
 ||auta-rapala.pl^$all
 ||auta-rozycki.pl^$all
 ||auta-rudnik.pl^$all
 ||auta-rusiak.pl^$all
+||auta-rusiecki.pl^$all
+||auta-rusina.pl^$all
+||auta-rusinski.pl^$all
 ||auta-skrobis.pl^$all
 ||auta-slupsk.pl^$all
 ||auta-sobieski.pl^$all
@@ -7600,6 +7617,7 @@
 ||auta-wiech.pl^$all
 ||auta-wieczorek.pl^$all
 ||auta-wiejska.pl^$all
+||auta-wilczynska.pl^$all
 ||auta-wilczynski.pl^$all
 ||auta-winnicki.pl^$all
 ||auta-wnetrzak.pl^$all
@@ -7799,6 +7817,9 @@
 ||autoooo-gielda.pl^$all
 ||autopark-polska.pl^$all
 ||autoplaza-sprzedaz.pl^$all
+||autopomysl-24.pl^$all
+||autopomysl.pl^$all
+||autopomyslonline.pl^$all
 ||autoresdecomic.com^$all
 ||autorynek-polska24.pl^$all
 ||autoschowek.pl^$all
@@ -15342,6 +15363,7 @@
 ||discord-give.com^$all
 ||discord-go.com^$all
 ||discord.academy-moderator-best.repl.co^$all
+||discord.captchacom.site^$all
 ||discord.hypesquad-eventreturn.repl.co^$all
 ||discord.hypesquad-invite-forms.repl.co^$all
 ||discord.hypesquad-invite.repl.co^$all
@@ -16194,6 +16216,7 @@
 ||drogowe-fakty24.eu5.net^$all
 ||drogowe-wiadomosci.eu5.net^$all
 ||drogowe-zdarzenia24.eu5.net^$all
+||drogowekolizje.click^$all
 ||drogowewypadki24.eu5.net^$all
 ||drogowipiraci24.click^$all
 ||drogowka24h.com^$all
@@ -16265,6 +16288,7 @@
 ||dsnubkhcfyxtmj.com^$all
 ||dsora.com^$all
 ||dsoutfitter.com^$all
+||dsr3d.cc^$all
 ||dsrpplan.com^$all
 ||dsworkart.it^$all
 ||dsy-disneyplus.ikwb.com^$all
@@ -16977,6 +17001,7 @@
 ||elememory.com^$all
 ||elementalist.life^$all
 ||elemento-30.com^$all
+||elementpor.ink^$all
 ||elementsmath.com^$all
 ||elementsxp.com^$all
 ||elen.progrbest.top^$all
@@ -26892,6 +26917,7 @@
 ||kup-wysylka-olx.pl^$all
 ||kupiesprzedamzamienie.com^$all
 ||kupletpo17.za.com^$all
+||kupterazproszezaplacic.za.com^$all
 ||kupterdostawka.shop^$all
 ||kupuj-wygodnie.pl^$all
 ||kupujebootle.shop^$all
@@ -30094,6 +30120,7 @@
 ||miasto-inowrocwaw.sitey.me^$all
 ||miasto-krakow.eu5.net^$all
 ||miasto.olkusz.pl^$all
+||miastoalarmuje24.click^$all
 ||miastowazne.rf.gd^$all
 ||miastowezguby.click^$all
 ||miboxdigital.com^$all
@@ -30467,6 +30494,7 @@
 ||mistul.com^$all
 ||misty.pawlukojc.pl^$all
 ||misztal-autohaus.pl^$all
+||mitcew.sbs^$all
 ||mitchfinance-top.xyz^$all
 ||mitgande.space^$all
 ||mitgath.host^$all
@@ -32080,6 +32108,7 @@
 ||nethermore.info^$all
 ||netioscorexyzshopff.xyz^$all
 ||netioscorexyzy.xyz^$all
+||netiov9-7i.sbs^$all
 ||netlfix-update-online.builderallwppro.com^$all
 ||netlink.pw^$all
 ||netmarketingpro.lat^$all
@@ -33313,6 +33342,7 @@
 ||ochernit.site^$all
 ||ochkozavr.ru.net^$all
 ||ochnik.store^$all
+||ochnpl.com^$all
 ||ochrona-olx.pl^$all
 ||ochronaa24.pl^$all
 ||oconnell.hanaolj.pl^$all
@@ -33386,6 +33416,8 @@
 ||odpsl34.tentaklsistem.click^$all
 ||odrazatrzymanie.eu5.net^$all
 ||odrownowagaco.yachts^$all
+||odsniezarka-sprzedam.pl^$all
+||odsniezarki-sprzedam.pl^$all
 ||odstraszacz-szkodnikow-pl.com^$all
 ||ody-gpt.com^$all
 ||odyssey-solution.com^$all
@@ -33412,6 +33444,7 @@
 ||oer-345.buzz^$all
 ||oesrm.tazziecolomb.com^$all
 ||oestehogar.com^$all
+||oewns-tn.sbs^$all
 ||ofau-bt.com^$all
 ||ofd-35.cfd^$all
 ||ofe94.cfd^$all
@@ -33560,6 +33593,7 @@
 ||ogrodnich.maurycymarcin.pl^$all
 ||ogromna-tragedia.cfd^$all
 ||ogsicoerp.com^$all
+||ogwe-35kb.cfd^$all
 ||oh.swiss-i-alps.com^$all
 ||ohaqr.electromsynergies.com^$all
 ||ohdautu.com^$all
@@ -34280,6 +34314,7 @@
 ||oolx.19788452.xyz^$all
 ||oolx.58715152.xyz^$all
 ||oolx.59484015.xyz^$all
+||oolx.297845451.xyz^$all
 ||oolx.397845451.xyz^$all
 ||oonja.com^$all
 ||ooo.lifetradefx.top^$all
@@ -36076,9 +36111,14 @@
 ||pl-oferta-uzytkownika125534.pl^$all
 ||pl-oferta-uzytkownika125535.pl^$all
 ||pl-oferta-uzytkownika125536.pl^$all
+||pl-oferta-uzytkownika567345.pl^$all
+||pl-oferta-uzytkownika764545.pl^$all
 ||pl-oferta-uzytkownika1255367.pl^$all
 ||pl-oferta-uzytkownika1255368.pl^$all
 ||pl-oferta-uzytkownika1255370.pl^$all
+||pl-oferta-uzytkownika1255372.pl^$all
+||pl-oferta-uzytkownika1255373.pl^$all
+||pl-oferta-uzytkownika1255374.pl^$all
 ||pl-olx-u28hv2.anzhuai.top^$all
 ||pl-olx-u28hv2.bbsxt.top^$all
 ||pl-olx-u28hv2.oferta.la^$all
@@ -36754,6 +36794,7 @@
 ||poczta-polskas.cyou^$all
 ||poczta-polske-pl.buzz^$all
 ||poczta-polske.top^$all
+||poczta-polskii.xyz^$all
 ||poczta-polskp.top^$all
 ||poczta-polskp.xyz^$all
 ||poczta-polskt.top^$all
@@ -37425,6 +37466,7 @@
 ||poolkaiinsi.site^$all
 ||poolmytrip.com^$all
 ||poolpartners1.site^$all
+||poorbradrichbrad.com^$all
 ||poordajtedeneg.shop^$all
 ||pop.it-rus.com^$all
 ||pop.lugers.eu^$all
@@ -38527,6 +38569,7 @@
 ||pudelek-polska.eu^$all
 ||pudelek.pw^$all
 ||pudents.space^$all
+||puerto-rico-living.net^$all
 ||puertoricoflyfishing.com^$all
 ||puesc-gov.web.app^$all
 ||puesc-kas.web.app^$all
@@ -39982,6 +40025,7 @@
 ||rmycevre.com^$all
 ||rmzrpbodmsjgzhr.com^$all
 ||rn1bg0aud4y83.com^$all
+||rncq-wuc.sbs^$all
 ||rncsoftware.com^$all
 ||rnkuydwsbvqamf.com^$all
 ||rnorm.com^$all
@@ -41505,6 +41549,7 @@
 ||shitakesc.com^$all
 ||shivasguard.site^$all
 ||shiweipu.com^$all
+||shjgybn.com^$all
 ||shl1.canpeoplefx.site^$all
 ||shlad.fallz.click^$all
 ||shlushki.com^$all
@@ -43931,6 +43976,7 @@
 ||techvisionco.com^$all
 ||tecia.info^$all
 ||tecia.top^$all
+||tecm20.sbs^$all
 ||tecniagro.cl^$all
 ||tecnoclases.com^$all
 ||tecnologiasinedad.com^$all
@@ -45107,6 +45153,7 @@
 ||tracking-7522.laforma.co.za^$all
 ||tracking-75403.laforma.co.za^$all
 ||tracking-75452.laforma.co.za^$all
+||tracking-christmas.ondemand-delivery.team^$all
 ||tracking-dhl-id.com^$all
 ||tracking-dhl.de239506.laforma.co.za^$all
 ||tracking-dpd-polska.ddns.mobi^$all
@@ -45984,6 +46031,7 @@
 ||ucezok.com^$all
 ||ucgctzyd8d.digital^$all
 ||uchwyconechwile.click^$all
+||ucieczkakierowcy.click^$all
 ||ucobpolskashop.com^$all
 ||ucsipainsolution.com^$all
 ||ud8x.com^$all
@@ -46330,6 +46378,7 @@
 ||ups-expresspackages.com^$all
 ||ups-follow-parcel.com^$all
 ||ups-follow.com^$all
+||ups-help.pl^$all
 ||ups-info-tracking.com^$all
 ||ups-login.com^$all
 ||ups-logistics.com^$all
@@ -46517,6 +46566,8 @@
 ||uwaga-fm.tx5-new.space^$all
 ||uwaga-sprawa24.eu5.net^$all
 ||uwaga-tred.mt-world.click^$all
+||uwaga-weekend.com.pl^$all
+||uwaga-weekend.pl^$all
 ||uwaga-wypadek24h.eu5.net^$all
 ||uwaga.dfirma.pl^$all
 ||uwagadrogowcy.eu5.net^$all
