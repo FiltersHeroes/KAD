@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 11 Dec 2023, 17:22 UTC+01:00
-! Version: 2023.12.11.2
+! Last modified: Mon, 11 Dec 2023, 21:18 UTC+01:00
+! Version: 2023.12.11.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4447,6 +4447,7 @@
 ||accounts.winniing.click^$all
 ||accountsecu.com^$all
 ||accountverificationforns.weebly.com^$all
+||acctrecovery.com^$all
 ||acculeapanalytics.com^$all
 ||accumulationbiz.info^$all
 ||acd7e1ca.firebaseapp.com^$all
@@ -5369,6 +5370,7 @@
 ||allegrolokalnie.etransakcje-24.pl^$all
 ||allegrolokalnie.euweb.cz^$all
 ||allegrolokalnie.expresspayu-24.pl^$all
+||allegrolokalnie.i-payu24.pl^$all
 ||allegrolokalnie.kup-sprzedaj.pl^$all
 ||allegrolokalnie.nssl.pl^$all
 ||allegrolokalnie.ochronazakupu.pl^$all
@@ -5419,6 +5421,8 @@
 ||allegrolokalnie.pl-mojaplatnosc.pl^$all
 ||allegrolokalnie.pl-mojeplatnosci.pl^$all
 ||allegrolokalnie.pl-oferta3342-payu.pl^$all
+||allegrolokalnie.pl-oferta-prywatna24.pl^$all
+||allegrolokalnie.pl-oferta-prywatna24423.pl^$all
 ||allegrolokalnie.pl-oferta-sprzedazy12309.pl^$all
 ||allegrolokalnie.pl-oferta-sprzedazy12310.pl^$all
 ||allegrolokalnie.pl-oferta-sprzedazy12311.pl^$all
@@ -7138,8 +7142,10 @@
 ||authpass.s3.us-west-004.backblazeb2.com^$all
 ||authpolan.pages.net.br^$all
 ||autistic-like.com^$all
+||auto-bocian.pl^$all
 ||auto-boniek.pl^$all
 ||auto-cinek.pl^$all
+||auto-czapa.pl^$all
 ||auto-domain2-manaliner.pbclimbing.co.uk^$all
 ||auto-glaze.com^$all
 ||auto-kodak.pl^$all
@@ -7162,6 +7168,7 @@
 ||autogielda-drewniak.pl^$all
 ||autogielda-koprowski.pl^$all
 ||autogielda-korowski.pl^$all
+||autogielda-kotlowski.pl^$all
 ||autogielda-moya.pl^$all
 ||autogielda-mruczynski.pl^$all
 ||autogielda-perfect.pl^$all
@@ -7170,6 +7177,7 @@
 ||autogielda-wawrzyniak.pl^$all
 ||autogielda-zarski.pl^$all
 ||autohandel-boniek.pl^$all
+||autohoop.pl^$all
 ||autoinformacja.com^$all
 ||autokomis-brzewski.pl^$all
 ||autokomis-brzezina.pl^$all
@@ -8083,6 +8091,7 @@
 ||barinaklar.com^$all
 ||baritan.shop^$all
 ||barker.klemeny.wroclaw.pl^$all
+||barkertech.xyz^$all
 ||barkery.life^$all
 ||barkilpipes.store^$all
 ||barm.life^$all
@@ -9571,6 +9580,7 @@
 ||booking-provision-card.com^$all
 ||booking-verified.co^$all
 ||booking.aseget91486.com^$all
+||booking.com-extranet-en.com^$all
 ||booking.com-long-term-apartment-property6321334.top^$all
 ||booking.com-pend.com^$all
 ||booking.com-sign-in-extranet.com^$all
@@ -10017,6 +10027,7 @@
 ||bucuresti-shuttle.com^$all
 ||budarmy.com^$all
 ||budda-loteria.live^$all
+||budda-loteria.pl^$all
 ||buddhistawry.com^$all
 ||budeowwnictwo.site^$all
 ||budfrancis.net^$all
@@ -13062,6 +13073,7 @@
 ||cyvareolua.com^$all
 ||cywinskasite.pl^$all
 ||cyxlw.makeupartists.com^$all
+||czapekauto.pl^$all
 ||czarownica-online-pl.5v.pl^$all
 ||czasastyl.autos^$all
 ||czasdlasiebie.click^$all
@@ -15258,6 +15270,7 @@
 ||drogowe-zdarzenia24.eu5.net^$all
 ||drogowekolizje.click^$all
 ||drogoweszalenstwo.click^$all
+||drogowewiesci.click^$all
 ||drogowewypadki24.eu5.net^$all
 ||drogowipiraci24.click^$all
 ||drogowka24h.com^$all
@@ -15452,6 +15465,7 @@
 ||dyagbackend.com^$all
 ||dydusme.ml^$all
 ||dyers-offers.com^$all
+||dygremodeling.com^$all
 ||dygypoiyigt5.pro^$all
 ||dyjmthqvarsc.com^$all
 ||dyjutoomio.live^$all
@@ -20151,6 +20165,7 @@
 ||gmddreams.com^$all
 ||gmdealertrade.com^$all
 ||gmedimart.com^$all
+||gminnawiadomosc.click^$all
 ||gminnewiadomosci.click^$all
 ||gmrfo.hechizosyamarres2020.com^$all
 ||gmxproblogger.web.app^$all
@@ -21259,6 +21274,7 @@
 ||haudeo.com^$all
 ||haugbrathens.com^$all
 ||haul-n-junk.com^$all
+||haunblazge.buzz^$all
 ||havare.net^$all
 ||haveanicechikeen.site^$all
 ||haveentowill.site^$all
@@ -21729,6 +21745,7 @@
 ||hodlen.com^$all
 ||hodlyocrim.top^$all
 ||hodmail1.com^$all
+||hoecw.sbs^$all
 ||hofferta.com^$all
 ||hoffingpl.com^$all
 ||hogarproteccion.com^$all
@@ -21819,6 +21836,7 @@
 ||hookless.live^$all
 ||hookthem.site^$all
 ||hoonoomaun.com^$all
+||hoop-auto.pl^$all
 ||hooper.krzysio.info.pl^$all
 ||hootware.net^$all
 ||hopeforhealth.com.ph^$all
@@ -22174,6 +22192,7 @@
 ||i4004.info^$all
 ||i94327.pl^$all
 ||i-4.cfd^$all
+||i-74l.pages.dev^$all
 ||i-chomik.pl^$all
 ||i-films.pl^$all
 ||i-inpost.top^$all
@@ -23276,6 +23295,7 @@
 ||inpost.pl-logi.icu^$all
 ||inpost.pl-safecash.link^$all
 ||inpost.pl-service.icu^$all
+||inpost.pl-signin.icu^$all
 ||inpost.pl-signup.icu^$all
 ||inpost.pl-step.icu^$all
 ||inpost.pl-user.cyou^$all
@@ -24288,6 +24308,7 @@
 ||jewelindiajpr.com^$all
 ||jewishrockrecords.com^$all
 ||jey836.sbs^$all
+||jey-72.sbs^$all
 ||jey-y2.cfd^$all
 ||jeysport.com^$all
 ||jf648.cfd^$all
@@ -26744,6 +26765,7 @@
 ||librodecata.com^$all
 ||librratr.xyz^$all
 ||licence-offers.com^$all
+||liceomediagm.cl^$all
 ||lichajtied.site^$all
 ||lichensw.space^$all
 ||lichi-offers.com^$all
@@ -27623,6 +27645,7 @@
 ||luxurytouristguide.com^$all
 ||luxurywaterfrontteam.com^$all
 ||luxuurycouurseonline.site^$all
+||lv7-68.cfd^$all
 ||lvgrowmarkets.com^$all
 ||lvl-up-iq.com^$all
 ||lvwiljozq4cwmztvqhlpjz6y7a0knniu.lambda-url.us-west-2.on.aws^$all
@@ -27659,6 +27682,7 @@
 ||lyoshopping.com^$all
 ||lyqowiabee.live^$all
 ||lyqywaorya.info^$all
+||lyrb7-08.cfd^$all
 ||lyricasnyq.space^$all
 ||lyrics-explorer.com^$all
 ||lyricshornet.com^$all
@@ -28381,6 +28405,7 @@
 ||mavtopfxtrade.com^$all
 ||mawc.apprety.site^$all
 ||mawercapital.com^$all
+||mawet.sbs^$all
 ||mawhe.com^$all
 ||mawinos.shop^$all
 ||mawitan.shop^$all
@@ -28478,6 +28503,7 @@
 ||mbn5.freepl.top^$all
 ||mbn6.freepl.top^$all
 ||mbongocash.com^$all
+||mbtae.com^$all
 ||mbubas.life^$all
 ||mc.makedol.top^$all
 ||mca-ci-atp.org^$all
@@ -28643,6 +28669,7 @@
 ||mekrase.space^$all
 ||meksgneh.space^$all
 ||mekuarts.com^$all
+||mele8-64.cfd^$all
 ||melendez.darekfurtak.pl^$all
 ||melhorcasino2023.com^$all
 ||melimaster.net^$all
@@ -29437,6 +29464,7 @@
 ||moja-paczka-pl-myid576xs.farmed.life^$all
 ||moja-paczka-pl-myid576xs.ganool.cc^$all
 ||moja-paczka-pl-myid576xs.savona.top^$all
+||moja-paczka-ups.com^$all
 ||moja-paczka.com^$all
 ||moja-paczka.pl^$all
 ||mojakambodza.pl^$all
@@ -29570,6 +29598,7 @@
 ||monitorfx.pl^$all
 ||monitoringuliczny.click^$all
 ||monitorujemydrogi.click^$all
+||monitorujemypojazdy.click^$all
 ||monivpl.weebly.com^$all
 ||monkeymaelstorm.site^$all
 ||monkhoodspud.space^$all
@@ -30677,6 +30706,7 @@
 ||negrammas.site^$all
 ||nehantic.live^$all
 ||nehytorichy.space^$all
+||neit-75-v.cfd^$all
 ||neiz-blog.maxiprog.xyz^$all
 ||neiz-vlog.maxiprog.xyz^$all
 ||nejnewpl.site^$all
@@ -32208,10 +32238,14 @@
 ||ogloszeenianet.atwebpages.com^$all
 ||ogloszenia4you.eu5.net^$all
 ||ogloszenia-24.cba.pl^$all
+||ogloszenia-dobrowolski.pl^$all
 ||ogloszenia-handlowe.pl^$all
+||ogloszenia-mauzer.pl^$all
 ||ogloszenia-miejskie24.eu3.biz^$all
 ||ogloszenia-miejskie24.eu5.net^$all
 ||ogloszenia-top24h.ct8.pl^$all
+||ogloszenia-udostepniam.pl^$all
+||ogloszenia-wwa.pl^$all
 ||ogloszenia-zadarmo.pl^$all
 ||ogloszenia.store^$all
 ||ogloszenianet-top.j.pl^$all
@@ -32578,6 +32612,7 @@
 ||omotro.com^$all
 ||omralmirakosco.ml^$all
 ||on1nes00ker0.quest^$all
+||on3investments.com^$all
 ||on420zz.com^$all
 ||on-post.top^$all
 ||on.marcukesh.top^$all
@@ -34523,9 +34558,11 @@
 ||pl-oferta285472.pl^$all
 ||pl-oferta523571.pl^$all
 ||pl-oferta-iphone-14-pro-max-deep-purple-256-gb.pl^$all
+||pl-oferta-prywatna24.pl^$all
 ||pl-oferta-prywatna3245.pl^$all
 ||pl-oferta-prywatna3457.pl^$all
 ||pl-oferta-prywatna6735.pl^$all
+||pl-oferta-prywatna24423.pl^$all
 ||pl-oferta-sprzedazy12301.pl^$all
 ||pl-oferta-sprzedazy12309.pl^$all
 ||pl-oferta-sprzedazy12310.pl^$all
@@ -34727,6 +34764,7 @@
 ||pl.plpscs.info^$all
 ||pl.polex.live^$all
 ||pl.polps.xyz^$all
+||pl.post-e.delivery^$all
 ||pl.quesa.ygto.com^$all
 ||pl.singpost.blog^$all
 ||pl.stanikzai.com^$all
@@ -35056,6 +35094,7 @@
 ||plx0.canfxprog.site^$all
 ||plx14.canfxprog.site^$all
 ||plx.hldns.ru^$all
+||plxelr.com^$all
 ||plxvvd.buzz^$all
 ||plyfw.phweditorial.com^$all
 ||plyinthesky.com^$all
@@ -35740,6 +35779,7 @@
 ||polskagoal.online^$all
 ||polskagov.pl^$all
 ||polskainformacja.site^$all
+||polskaiposta.top^$all
 ||polskanabiezaco.eu^$all
 ||polskaoler.site^$all
 ||polskaorlen.tilda.ws^$all
@@ -35985,6 +36025,7 @@
 ||postcorp.bond^$all
 ||postcorp.fun^$all
 ||postcrises.org^$all
+||postdelivry-up.com^$all
 ||postdm.top^$all
 ||poste-pl.shop^$all
 ||poste.91-202-5-24.cprapid.com^$all
@@ -39282,6 +39323,7 @@
 ||seajourney.quest^$all
 ||seajoy.life^$all
 ||seal.aloha-nj.com^$all
+||sealandpump.biz^$all
 ||seamcgqzvfxj.com^$all
 ||seamen.bloper.site^$all
 ||seamlessinteraction.cfd^$all
@@ -40646,6 +40688,7 @@
 ||solarphp.org^$all
 ||solarsilkcfd.cfd^$all
 ||solarsystemmysteries.xyz^$all
+||solemnnesssgxher.life^$all
 ||solfegisqe.space^$all
 ||solgohachias.live^$all
 ||solicitatucredicto.com^$all
@@ -43193,6 +43236,7 @@
 ||to27r4.xyz^$all
 ||to-the-account-holder51392.io.vn^$all
 ||to.existltd.com^$all
+||to.klewmedia.com^$all
 ||toadynewnewscoiy.click^$all
 ||toastymedia.com^$all
 ||tobiasalmroth.se^$all
