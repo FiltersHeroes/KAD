@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 23 Dec 2023, 09:19 UTC+01:00
-! Version: 2023.12.23.0
+! Last modified: Sat, 23 Dec 2023, 13:27 UTC+01:00
+! Version: 2023.12.23.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5462,10 +5462,12 @@
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl-oferta.ml^$all
 ||allegro.pl-prywatna-aukcja-sprzedazy198235.pl^$all
+||allegro.pl-prywatna-aukcja-sprzedazy198241.pl^$all
 ||allegro.pl-prywatna-aukcja-sprzedazy245512.pl^$all
 ||allegro.pl-specjalna-oferta72624.pl^$all
 ||allegro.pl.*.pl^$all,domain=~allegro.pl|pl
 ||allegro.platnosci247.pl^$all
+||allegro.platnoscteraz24.pl^$all
 ||allegro.su^$all
 ||allegro.ttsl.pl^$all
 ||allegro.zakup-online24.pl^$all
@@ -5585,6 +5587,7 @@
 ||allegrolokalnie.pl-mojaplatnosc23440.pl^$all
 ||allegrolokalnie.pl-mojaplatnosc.pl^$all
 ||allegrolokalnie.pl-mojeplatnosci.pl^$all
+||allegrolokalnie.pl-nowe-ps5-z-napedem-825gb.pl^$all
 ||allegrolokalnie.pl-oferta3342-payu.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna24.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna24423.pl^$all
@@ -5610,9 +5613,16 @@
 ||allegrolokalnie.pl-oferta-sprzedazy651014.pl^$all
 ||allegrolokalnie.pl-pay.pl^$all
 ||allegrolokalnie.pl-platnosc-payu.pl^$all
+||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198234.pl^$all
 ||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198235.pl^$all
 ||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198236.pl^$all
 ||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198237.pl^$all
+||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198238.pl^$all
+||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198240.pl^$all
+||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198241.pl^$all
+||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198242.pl^$all
+||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198243.pl^$all
+||allegrolokalnie.pl-prywatna-aukcja-sprzedazy198299.pl^$all
 ||allegrolokalnie.pl-prywatna-aukcja-sprzedazy245510.pl^$all
 ||allegrolokalnie.pl-prywatna-aukcja-sprzedazy245511.pl^$all
 ||allegrolokalnie.pl-prywatna-aukcja-sprzedazy245512.pl^$all
@@ -20914,6 +20924,7 @@
 ||gonlinebnpparbas.online^$all
 ||gonobari.online^$all
 ||gonodiasop.fun^$all
+||gonulakademi.com^$all
 ||gonvintesd.guiladitin.cf^$all
 ||gonzalocastelorey-medz.line.pm^$all
 ||gonzalokaiser.com^$all
@@ -24108,6 +24119,7 @@
 ||inpostoffice.xyz^$all
 ||inpostoops.top^$all
 ||inpostoot.top^$all
+||inpostp.inpary.top^$all
 ||inpostpe.xyz^$all
 ||inpostpgk.top^$all
 ||inpostpi.cc^$all
@@ -29497,6 +29509,7 @@
 ||mdaguerre.com^$all
 ||mdb2.mxttrade.top^$all
 ||mdcreativo.com^$all
+||mdejq4mh.dreamwp.com^$all
 ||mdg-consultants.com^$all
 ||mdnow247.com^$all
 ||mdrmuxify.com^$all
@@ -31698,6 +31711,7 @@
 ||ndsjjwoeuudh.site^$all
 ||ndv.boats^$all
 ||ndy72.cfd^$all
+||ndyeotpl.sbs^$all
 ||ndyne.sbs^$all
 ||ne1.worldfxlife.top^$all
 ||ne2.worldfxlife.top^$all
@@ -33334,7 +33348,10 @@
 ||ogladaj-caly-film.over-blog.com^$all
 ||ogladaj-online.pl^$all
 ||ogladaj.eu^$all
+||oglaszamlisowski.pl^$all
 ||oglaszammurza.pl^$all
+||oglaszampawlowski.pl^$all
+||oglaszamrusinski.pl^$all
 ||oglaszamyinfo.online^$all
 ||oglatam.com^$all
 ||ogloszeenianet.atwebpages.com^$all
@@ -35764,6 +35781,7 @@
 ||pl-mojaplatnosc23440.pl^$all
 ||pl-mojaplatnosc.pl^$all
 ||pl-mojeplatnosci.pl^$all
+||pl-nowe-ps5-z-napedem-825gb.pl^$all
 ||pl-oferta1936.pl^$all
 ||pl-oferta2735.pl^$all
 ||pl-oferta2852.pl^$all
@@ -35895,7 +35913,15 @@
 ||pl-proj.pro^$all
 ||pl-proj.store^$all
 ||pl-proj.xyz^$all
+||pl-prywatna-aukcja-sprzedazy198234.pl^$all
+||pl-prywatna-aukcja-sprzedazy198235.pl^$all
+||pl-prywatna-aukcja-sprzedazy198236.pl^$all
 ||pl-prywatna-aukcja-sprzedazy198237.pl^$all
+||pl-prywatna-aukcja-sprzedazy198238.pl^$all
+||pl-prywatna-aukcja-sprzedazy198240.pl^$all
+||pl-prywatna-aukcja-sprzedazy198241.pl^$all
+||pl-prywatna-aukcja-sprzedazy198242.pl^$all
+||pl-prywatna-aukcja-sprzedazy198299.pl^$all
 ||pl-prywatna-aukcja-sprzedazy245510.pl^$all
 ||pl-prywatna-aukcja-sprzedazy245511.pl^$all
 ||pl-prywatna-aukcja-sprzedazy245512.pl^$all
@@ -36372,6 +36398,7 @@
 ||plvz.com^$all
 ||plwag01.canfxprog.site^$all
 ||plwag2.canpeoplefx.site^$all
+||plwcdnc.cn^$all
 ||plwjs.top^$all
 ||plwlpwp0.000webhostapp.com^$all
 ||plwlpwp.000webhostapp.com^$all
@@ -46165,6 +46192,7 @@
 ||ukphonesystems.com^$all
 ||ukraina-wiadomosci.eu5.net^$all
 ||ukrposhtatra.top^$all
+||ukrsposta.top^$all
 ||ukrytypojazd.click^$all
 ||uksrejbb.pl^$all
 ||ukufan.com^$all
@@ -49055,6 +49083,7 @@
 ||wyjatkowa-szansa.top^$all
 ||wykaz.5p.pl^$all
 ||wykorzystywanie-zdjec.eu^$all
+||wykupujemy.pl^$all
 ||wylaczone.5p.pl^$all
 ||wylv.autos^$all
 ||wymiar-sprawiedliwosci.eu^$all
