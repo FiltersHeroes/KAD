@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 26 Dec 2023, 21:16 UTC+01:00
-! Version: 2023.12.26.3
+! Last modified: Tue, 26 Dec 2023, 23:31 UTC+01:00
+! Version: 2023.12.26.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -738,6 +738,7 @@
 ||healy.shop^$all
 ||healy.world^$all
 ||healyworld.net^$all
+||hearclear.com^$all,domain=~www.hearclear.com
 ||hejmosie.com^$all
 ||herbalife.pl^$all
 ||heywood.pl^$all
@@ -795,7 +796,6 @@
 ||inaessentials.pl^$all
 ||incruises.com^$all
 ||indaajach.com^$all
-||info.hearclear.com^$all
 ||infolinia-kontakt-telefon.pl^$all
 ||informacja-dnia.com^$all
 ||inov8polska.com^$all
@@ -1644,7 +1644,6 @@
 ||sonerastore.com^$all
 ||sorelpl.com^$all
 ||sosentcoolpresales.com^$all
-||sowaksiazki.pl^$all
 ||sparklingsanctuary.shop^$all
 ||spdobropole.pl^$all
 ||speedd.net^$all
@@ -2383,7 +2382,9 @@
 ||beezeeselfcare.$all,domain=pl
 ||bestadbid.com^$all
 ||cellfun.mobi^$all
+||dailyhousetips.com^$all
 ||denis928.000webhostapp.com^$all
+||dial-vision.com^$all
 ||dobre-programy.$all,domain=pl|xyz
 ||doladowanie50pln.ujm.pl^$all
 ||dvzwh.voluumtrk.com^$all
@@ -2394,6 +2395,7 @@
 ||fizjoterapia.5v.pl^$all
 ||fun-clix.com^$all
 ||funfone.me^$all
+||get-synoshi.com^$all
 ||glosowanie.ujm.pl^$all
 ||go2affise.com^$all
 ||go.playoosh.com^$all
@@ -2408,6 +2410,8 @@
 ||lnktk.com^$all
 ||mecz.ujm.pl^$all
 ||mememakers.mobi^$all
+||menminishaver.com^$all
+||mloda-cera.pl^$all
 ||mobileofferplace.site^$all
 ||mobistos.com^$all
 ||obeyter.com^$all
@@ -3663,6 +3667,7 @@
 ||932.infura-ipfs.io^$all
 ||933db.padariamorgado.pt^$all
 ||942ce51bd11.chefs-kitchen.co.uk^$all
+||942fb613a0ae6857e69ae3d961501001.nitwos.pl^$all
 ||962e5ac10fe.chefs-kitchen.co.uk^$all
 ||971c3d2dead.chefs-kitchen.co.uk^$all
 ||977o.de^$all
@@ -5556,6 +5561,7 @@
 ||allegrolokalnie.oferta247.pl^$all
 ||allegrolokalnie.oferta01837.pl^$all
 ||allegrolokalnie.oferta11564.pl^$all
+||allegrolokalnie.oferta-6534.pl^$all
 ||allegrolokalnie.oferty-prywatne.pl^$all
 ||allegrolokalnie.pay247.pl^$all
 ||allegrolokalnie.payu-zakup-24.pl^$all
@@ -17131,6 +17137,7 @@
 ||eshoradebitcoin.com^$all
 ||esimshub.com^$all
 ||esk.maxpeoplepl.top^$all
+||eskospj.konradluca.pl^$all
 ||eskuarashmcer.info^$all
 ||eskum.top^$all
 ||esl-give.com^$all
@@ -47642,6 +47649,7 @@
 ||vjnted-pl-ijfoks.tintuctrongngay.xyz^$all
 ||vjnted-pl-ijfoks.unsml.xyz^$all
 ||vjnted.6849561.xyz^$all
+||vjnted.43523234.xyz^$all
 ||vjrndettxij.vostwohncrim.ml^$all
 ||vkow.hhiek.pl^$all
 ||vkvtd.hechizosyamarres2020.com^$all
