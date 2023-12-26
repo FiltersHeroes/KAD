@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 26 Dec 2023, 13:29 UTC+01:00
-! Version: 2023.12.26.1
+! Last modified: Tue, 26 Dec 2023, 17:20 UTC+01:00
+! Version: 2023.12.26.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5454,6 +5454,7 @@
 ||allegro.epayu24-7.pl^$all
 ||allegro.eplatnosci24-7.pl^$all
 ||allegro.ezaplata24-7.pl^$all
+||allegro.i-aukcje24.pl^$all
 ||allegro.i-payu-24.pl^$all
 ||allegro.iaukcje24.pl^$all
 ||allegro.kupuj-payu24.pl^$all
@@ -5471,6 +5472,7 @@
 ||allegro.pl-0x6.pl^$all
 ||allegro.pl-com^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
+||allegro.pl-oferta564366.pl^$all
 ||allegro.pl-oferta.ml^$all
 ||allegro.pl-prywatna-aukcja-sprzedazy198235.pl^$all
 ||allegro.pl-prywatna-aukcja-sprzedazy198241.pl^$all
@@ -5525,6 +5527,7 @@
 ||allegrolokalnie.aukcja-allegro.pl^$all
 ||allegrolokalnie.aukcja-id849214.pl^$all
 ||allegrolokalnie.aukcja-id7948261.pl^$all
+||allegrolokalnie.aukcja-id8971241.pl^$all
 ||allegrolokalnie.aukcjawsieci.pl^$all
 ||allegrolokalnie.aukcjepayu24.pl^$all
 ||allegrolokalnie.bezpieczny-ezakup.pl^$all
@@ -5553,6 +5556,7 @@
 ||allegrolokalnie.oferta11564.pl^$all
 ||allegrolokalnie.oferty-prywatne.pl^$all
 ||allegrolokalnie.pay247.pl^$all
+||allegrolokalnie.payu-zakup-24.pl^$all
 ||allegrolokalnie.pl24452oferta.pl^$all
 ||allegrolokalnie.pl243323oferta.pl^$all
 ||allegrolokalnie.pl244533oferta.pl^$all
@@ -9885,6 +9889,7 @@
 ||booking.id601294105.date^$all
 ||booking.ik98592.bid^$all
 ||booking.logins-booking.com^$all
+||booking.partners-logins.com^$all
 ||booking.pos-tr.cloud^$all
 ||booking.realcontabi.lol^$all
 ||booking.reservation3004453.com^$all
@@ -15504,6 +15509,7 @@
 ||dpd.jolasopex.org^$all
 ||dpd.maxpeoplepl.top^$all
 ||dpd.neu.paketversand.51-116-111-97.cprapid.com^$all
+||dpd.rubpoma.org^$all
 ||dpd.tesfin.org^$all
 ||dpd.tubomec.org^$all
 ||dpd.xe317990.com^$all
@@ -22873,6 +22879,7 @@
 ||i94327.pl^$all
 ||i-4.cfd^$all
 ||i-74l.pages.dev^$all
+||i-aukcje24.pl^$all
 ||i-chomik.pl^$all
 ||i-films.pl^$all
 ||i-inpost.top^$all
@@ -23127,6 +23134,7 @@
 ||ihlrns.com^$all
 ||ihnpost-pl.top^$all
 ||ihpost.698451.xyz^$all
+||ihpost.4142343.xyz^$all
 ||ihpost.646434635.xyz^$all
 ||ihrtvt.com^$all
 ||ihsnfkow.link^$all
@@ -23771,6 +23779,7 @@
 ||ingovoe.space^$all
 ||ingpost-pl.top^$all
 ||ingreny.com^$all
+||ingslaski.org^$all
 ||inguter.com^$all
 ||inhaled.live^$all
 ||inheritorsisle.com^$all
@@ -34728,6 +34737,7 @@
 ||pandjdisposal.com^$all
 ||pandorastrunk.com^$all
 ||panel-home-pl-4ee7b03d5fc4ae76bb89.kbv-frankenberg.de^$all
+||panel-home.schaas.de^$all
 ||panel-klienta-zaloguj-sie.cengs.it^$all
 ||panel-nazwa.ashleysqualitycleaning.com^$all
 ||panel.cybeerfolks.com^$all
@@ -37098,6 +37108,7 @@
 ||polospostinpost.top^$all
 ||polotransmedia.cfd^$all
 ||polowczykauto24.pl^$all
+||polpcctinpost.top^$all
 ||polpgprogroup.site^$all
 ||polplofrer.site^$all
 ||polpoastinpostlaw.top^$all
@@ -42752,6 +42763,7 @@
 ||sprzedamkupie.online^$all
 ||sprzedawaj-info.pl^$all
 ||sprzedawaj-samochody.pl^$all
+||sprzedawaj-zakupy.pl^$all
 ||sprzedaz-allegro-lokalnie.store^$all
 ||sprzedazwysylki.online^$all
 ||spulae-com.preview-domain.com^$all
@@ -45333,6 +45345,7 @@
 ||tracking-parcel-help.com^$all
 ||tracking-parcel-ups.net^$all
 ||tracking-poczta-polska.com^$all
+||tracking-poland.pl^$all
 ||tracking-ups-express.com^$all
 ||tracking-ups-poland.turinguide.eu^$all
 ||trackingdelivery-pl.com^$all
@@ -46482,6 +46495,7 @@
 ||unmusical.sbs^$all
 ||unnathimilk.com^$all
 ||unnoredticedlaundry.com^$all
+||unnuusps.com^$all
 ||unosadrik.link^$all
 ||unosapp.com^$all
 ||unpargmxkdyfv.com^$all
