@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 31 Dec 2023, 17:19 UTC+01:00
-! Version: 2023.12.31.3
+! Last modified: Sun, 31 Dec 2023, 18:25 UTC+01:00
+! Version: 2023.12.31.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2340,6 +2340,7 @@
 ||xn--22455-udb.biz^$all
 ||xn--30986-udb.biz^$all
 ||xtroglobal.com^$all
+||xxx-stores.com^$all
 ||yarlnk.com^$all
 ||yournewphones.com^$all
 ||youtube.com.*.*.com^$all,domain=com|~youtube.com
@@ -5568,6 +5569,7 @@
 ||allegrolokalnie.com.ru^$all
 ||allegrolokalnie.dostawa24-7.pl^$all
 ||allegrolokalnie.e-24payu.pl^$all
+||allegrolokalnie.e-aukcje24h-7.pl^$all
 ||allegrolokalnie.e-aukcje24h.pl^$all
 ||allegrolokalnie.e-ogloszenie24h.pl^$all
 ||allegrolokalnie.e-transakcje.pl^$all
@@ -20987,6 +20989,7 @@
 ||go4paramushyundai.com^$all
 ||go-ggpost.site^$all
 ||go-pgnig23pl.web.app^$all
+||go-tech.store^$all
 ||go.90daypipeline.com^$all
 ||go.affcountry.com^$all
 ||go.bl1ssful.xyz^$all
@@ -24280,6 +24283,7 @@
 ||inpost-sp.top^$all
 ||inpost-st.top^$all
 ||inpost-support.top^$all
+||inpost-svc.top^$all
 ||inpost-tjah.neworder44799.info^$all
 ||inpost-tracking.info^$all
 ||inpost-uei.top^$all
@@ -28521,6 +28525,7 @@
 ||login-authorize-verify-merchant-account-info.com^$all
 ||login-booking.com^$all
 ||login-findmy-i.cloud^$all
+||login-ing-pl.com^$all
 ||login-ingbank-odblokowac.info^$all
 ||login-ingbank-zablokowany.info^$all
 ||login-live-i.cloud^$all
@@ -34906,6 +34911,7 @@
 ||p1.nowehistorieai.com^$all
 ||p1.noweopowiesciai.com^$all
 ||p1.xn--opowieciai-97b.com^$all
+||p1aymarket.com^$all
 ||p1c.autos^$all
 ||p1qq.com^$all
 ||p2.vertysbos.top^$all
@@ -36544,6 +36550,7 @@
 ||pl.polex.live^$all
 ||pl.polps.xyz^$all
 ||pl.post-e.delivery^$all
+||pl.posts-die.bio^$all
 ||pl.posts-die.life^$all
 ||pl.quesa.ygto.com^$all
 ||pl.singpost.blog^$all
