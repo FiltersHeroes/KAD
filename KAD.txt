@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 13 Jan 2024, 13:29 UTC+01:00
-! Version: 2024.1.13.1
+! Last modified: Sat, 13 Jan 2024, 17:20 UTC+01:00
+! Version: 2024.1.13.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2947,6 +2947,7 @@
 ||4f-pl.online^$all
 ||4f-pl.shop^$all
 ||4f-pl.top^$all
+||4f-sale.com^$all
 ||4f-sale.top^$all
 ||4f-shop.top^$all
 ||4f-special.top^$all
@@ -7830,17 +7831,21 @@
 ||australianews-abc.online^$all
 ||austspg-customer.com^$all
 ||auta-bakowska.pl^$all
+||auta-filipski.pl^$all
 ||auta-grzesik.pl^$all
 ||auta-janek.pl^$all
 ||auta-janowski.pl^$all
 ||auta-jarek.pl^$all
+||auta-karwacki.pl^$all
 ||auta-kosowski.pl^$all
 ||auta-kowalik.pl^$all
+||auta-kozicki.pl^$all
 ||auta-mackowiak.pl^$all
 ||auta-marcinkowski.pl^$all
 ||auta-pawlikowski.pl^$all
 ||auta-piotrowski.pl^$all
 ||auta-sobieski.pl^$all
+||auta-wyprzedaz.pl^$all
 ||autagielda.pl^$all
 ||autentiateserver23.web.app^$all
 ||autentiateserver24.web.app^$all
@@ -16856,6 +16861,7 @@
 ||dpd.rubpoma.org^$all
 ||dpd.tesfin.org^$all
 ||dpd.tubomec.org^$all
+||dpd.wrikona.pics^$all
 ||dpd.xe317990.com^$all
 ||dpdbbmx.spottisupo.cf^$all
 ||dpdbor.tiokickrenimb.cf^$all
@@ -25310,6 +25316,7 @@
 ||in2exploit.com^$all
 ||in2sp1ring.xyz^$all
 ||in101design.com^$all
+||in-34d.cfd^$all
 ||in-apost.top^$all
 ||in-book.site^$all
 ||in-bpost.top^$all
@@ -25365,6 +25372,7 @@
 ||in-post-pol.life^$all
 ||in-post-ule.top^$all
 ||in-post-ure.xyz^$all
+||in-post-xc.xyz^$all
 ||in-post.app^$all
 ||in-post.buzz^$all
 ||in-post.cyou^$all
@@ -25508,6 +25516,7 @@
 ||ineupostlaw.top^$all
 ||ineuposts.top^$all
 ||inevitrader.com^$all
+||inewaj.sbs^$all
 ||inexperienceds.com^$all
 ||inezpostlaw.top^$all
 ||inezposts.top^$all
@@ -26996,6 +27005,7 @@
 ||iqnpost-pl.top^$all
 ||iqua22-ia.web.app^$all
 ||iquitoscultura.com^$all
+||ir-43jk.cfd^$all
 ||iras-gov-sg.web.app^$all
 ||irashai-lab.com^$all
 ||irbf.com^$all
@@ -27169,6 +27179,7 @@
 ||ituunik.com^$all
 ||itwhis.site^$all
 ||itwum.kpier.com^$all
+||iu84-3s.cfd^$all
 ||iufjgtghjthnjfhthiutrhjtntrkntihjrt.weebly.com^$all
 ||iul56.cfd^$all
 ||iuottotletoreklsterlote.com^$all
@@ -28116,6 +28127,7 @@
 ||kabardinian.com^$all
 ||kabarin.co^$all
 ||kabcode.com^$all
+||kaberli.sbs^$all
 ||kabirpublications.com^$all
 ||kabtree.com^$all
 ||kacked.com^$all
@@ -39020,10 +39032,12 @@
 ||pl-prywatna-aukcja-sprzedazy245513.pl^$all
 ||pl-prywatna-aukcja-sprzedazy245514.pl^$all
 ||pl-prywatna-oferta1122.pl^$all
+||pl-prywatna-oferta1383.pl^$all
 ||pl-prywatna-oferta1459.pl^$all
 ||pl-prywatna-oferta2140.pl^$all
 ||pl-prywatna-oferta2142.pl^$all
 ||pl-prywatna-oferta3344.pl^$all
+||pl-prywatna-oferta6478.pl^$all
 ||pl-prywatna-oferta8204.pl^$all
 ||pl-prywatna-sprzedaz11293.pl^$all
 ||pl-prywatna-sprzedaz11763.pl^$all
@@ -41092,6 +41106,7 @@
 ||primelandingfield.shop^$all
 ||primeshopee.com^$all
 ||primevideo-renewsubscriptions.com^$all
+||primevintbuy24.shop^$all
 ||primevintoplat.shop^$all
 ||primevod.pl^$all
 ||primmisred.space^$all
@@ -47474,6 +47489,7 @@
 ||taylortested.net^$all
 ||tayshowl.com^$all
 ||tbdfvr.s3.us-east-005.backblazeb2.com^$all
+||tbemy.sbs^$all
 ||tbhasd763.despachodeabogadosmcr.com^$all
 ||tbk.objectop.xyz^$all
 ||tblpesq.com^$all
@@ -53712,6 +53728,7 @@
 ||zaplacterazvint1.shop^$all
 ||zaplata*.tk^$all
 ||zaplata-polska-poczta.com^$all
+||zaplatakupteraz.shop^$all
 ||zaplatazatowar247.shop^$all
 ||zaporoze-wydarzeniaswiat.eu^$all
 ||zapppyj.gamemods.com.tr^$all
