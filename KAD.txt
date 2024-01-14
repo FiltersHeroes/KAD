@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 13 Jan 2024, 21:16 UTC+01:00
-! Version: 2024.1.13.3
+! Last modified: Sun, 14 Jan 2024, 01:17 UTC+01:00
+! Version: 2024.1.14.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5950,6 +5950,7 @@
 ||allegrolokalnie.pl-oferta-sprzedazy651014.pl^$all
 ||allegrolokalnie.pl-pay.pl^$all
 ||allegrolokalnie.pl-payu24.pl^$all
+||allegrolokalnie.pl-platnosc24.pl^$all
 ||allegrolokalnie.pl-platnosc-payu.pl^$all
 ||allegrolokalnie.pl-platnosci3465.pl^$all
 ||allegrolokalnie.pl-platnosci3491.pl^$all
@@ -13903,6 +13904,7 @@
 ||cp-home-pl-00c7d71a5bb.platamix.com^$all
 ||cp-home-pl-0e5c66714e8.platamix.com^$all
 ||cp-home-pl-1bd20fd2291.solidinterimmanagement.nl^$all
+||cp-home-pl-1d057e8df99.solidinterimmanagement.nl^$all
 ||cp-home-pl-1f8755db207.platamix.com^$all
 ||cp-home-pl-1fbebba2105.solidinterimmanagement.nl^$all
 ||cp-home-pl-2c4ab4638f7.platamix.com^$all
@@ -13953,6 +13955,7 @@
 ||cp-home-pl-44a6ddc904b.solidinterimmanagement.nl^$all
 ||cp-home-pl-48ff2eccc35.solidinterimmanagement.nl^$all
 ||cp-home-pl-59b5f6cb6e3.solidinterimmanagement.nl^$all
+||cp-home-pl-62fdd4e512e.solidinterimmanagement.nl^$all
 ||cp-home-pl-63c64b46fd6.solidinterimmanagement.nl^$all
 ||cp-home-pl-63fbd0987f9.platamix.com^$all
 ||cp-home-pl-73cee58bcfe.solidinterimmanagement.nl^$all
@@ -13981,6 +13984,7 @@
 ||cp-home-pl-525f8d8cc7c.solidinterimmanagement.nl^$all
 ||cp-home-pl-592c8c60792.platamix.com^$all
 ||cp-home-pl-595d1af36df.platamix.com^$all
+||cp-home-pl-629f823c142.solidinterimmanagement.nl^$all
 ||cp-home-pl-672cf24379a.solidinterimmanagement.nl^$all
 ||cp-home-pl-690ef629778.solidinterimmanagement.nl^$all
 ||cp-home-pl-691aad34cfe.solidinterimmanagement.nl^$all
@@ -14032,6 +14036,7 @@
 ||cp-home-pl-a07551847c2.platamix.com^$all
 ||cp-home-pl-acae3b0fc85.solidinterimmanagement.nl^$all
 ||cp-home-pl-ad7d0c4741c.platamix.com^$all
+||cp-home-pl-ae48c4d6313.solidinterimmanagement.nl^$all
 ||cp-home-pl-aea990f7d61.solidinterimmanagement.nl^$all
 ||cp-home-pl-aee9519f2ef.platamix.com^$all
 ||cp-home-pl-b2d77977ba3.solidinterimmanagement.nl^$all
@@ -14048,6 +14053,7 @@
 ||cp-home-pl-be83a4768d1.platamix.com^$all
 ||cp-home-pl-bf7155db288.installprofi.nl^$all
 ||cp-home-pl-c2b3327446f.platamix.com^$all
+||cp-home-pl-c3dc323aaa3.solidinterimmanagement.nl^$all
 ||cp-home-pl-c6cb4c3b163.solidinterimmanagement.nl^$all
 ||cp-home-pl-c8e49a47478.solidinterimmanagement.nl^$all
 ||cp-home-pl-c12e14d75d8.platamix.com^$all
@@ -14069,6 +14075,7 @@
 ||cp-home-pl-d61494ee82a.platamix.com^$all
 ||cp-home-pl-decc2402272.solidinterimmanagement.nl^$all
 ||cp-home-pl-df1b6e9df3a.solidinterimmanagement.nl^$all
+||cp-home-pl-e0a466df94c.solidinterimmanagement.nl^$all
 ||cp-home-pl-e2aef914129.platamix.com^$all
 ||cp-home-pl-e2b117231d3.solidinterimmanagement.nl^$all
 ||cp-home-pl-e4ade65641b.solidinterimmanagement.nl^$all
@@ -34682,6 +34689,7 @@
 ||network-mc.com^$all
 ||networkave.com^$all
 ||netysv.sbs^$all
+||neu7-63.cfd^$all
 ||neu-pro.ofishlprog1.click^$all
 ||neul.sbs^$all
 ||neumap.com^$all
@@ -38953,8 +38961,10 @@
 ||pl-pge1.web.app^$all
 ||pl-pge.web.app^$all
 ||pl-pl-fb.pages.net.br^$all
+||pl-platnosc24.pl^$all
 ||pl-platnosc-payu.pl^$all
 ||pl-platnosci24.pl^$all
+||pl-platnosci247.pl^$all
 ||pl-platnosci3465.pl^$all
 ||pl-platnosci3491.pl^$all
 ||pl-platnosci4072.pl^$all
@@ -47544,6 +47554,7 @@
 ||te2.tradelifeworld.top^$all
 ||te3.tradelifeworld.top^$all
 ||te-3.sbs^$all
+||te-903n.cfd^$all
 ||teakegeh.site^$all
 ||team-pow.com^$all
 ||team.ebutudan.com^$all
@@ -51331,6 +51342,7 @@
 ||vlnted-gb.auiok.info^$all
 ||vlnted-gb.auion.info^$all
 ||vlnted-gb.auioy.info^$all
+||vlnted-gb.auoif.info^$all
 ||vlnted-gb.auyiok.info^$all
 ||vlnted-gb.auyoy.info^$all
 ||vlnted-gb.axyuo.info^$all
