@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 15 Jan 2024, 13:31 UTC+01:00
-! Version: 2024.1.15.1
+! Last modified: Mon, 15 Jan 2024, 17:21 UTC+01:00
+! Version: 2024.1.15.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5771,6 +5771,7 @@
 ||allegrolokalnie.24platnosc.pl^$all
 ||allegrolokalnie.398543.pw^$all
 ||allegrolokalnie.$doc,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
+||allegrolokalnie.aukcja2541.pl^$all
 ||allegrolokalnie.aukcja-allegro.pl^$all
 ||allegrolokalnie.aukcja-id849214.pl^$all
 ||allegrolokalnie.aukcja-id7948261.pl^$all
@@ -7806,6 +7807,9 @@
 ||auii3n.vercel.app^$all
 ||auimy.hechizosyamarres2020.com^$all
 ||aukainiereme.link^$all
+||aukcja2541.pl^$all
+||aukcja2893.pl^$all
+||aukcja4321.pl^$all
 ||aukcja-id7948261.pl^$all
 ||aukcja-olx.pl^$all
 ||aukobere.site^$all
@@ -13991,6 +13995,7 @@
 ||cp-home-pl-16cda5d42ba.solidinterimmanagement.nl^$all
 ||cp-home-pl-18b912e4326.solidinterimmanagement.nl^$all
 ||cp-home-pl-21e58f88ae6.solidinterimmanagement.nl^$all
+||cp-home-pl-23fa1a2fa59.solidinterimmanagement.nl^$all
 ||cp-home-pl-27ab93d6069.solidinterimmanagement.nl^$all
 ||cp-home-pl-27da4d186cb.solidinterimmanagement.nl^$all
 ||cp-home-pl-29a2b6bc2d0.platamix.com^$all
@@ -14001,6 +14006,7 @@
 ||cp-home-pl-41e76170d20.solidinterimmanagement.nl^$all
 ||cp-home-pl-44a6ddc904b.solidinterimmanagement.nl^$all
 ||cp-home-pl-48ff2eccc35.solidinterimmanagement.nl^$all
+||cp-home-pl-56d88095438.solidinterimmanagement.nl^$all
 ||cp-home-pl-59b5f6cb6e3.solidinterimmanagement.nl^$all
 ||cp-home-pl-62fdd4e512e.solidinterimmanagement.nl^$all
 ||cp-home-pl-63c64b46fd6.solidinterimmanagement.nl^$all
@@ -14008,6 +14014,7 @@
 ||cp-home-pl-65e4288e9e9.solidinterimmanagement.nl^$all
 ||cp-home-pl-73cee58bcfe.solidinterimmanagement.nl^$all
 ||cp-home-pl-73de1bd96de.platamix.com^$all
+||cp-home-pl-73e0a997e8c.solidinterimmanagement.nl^$all
 ||cp-home-pl-75b175eaa43.solidinterimmanagement.nl^$all
 ||cp-home-pl-75c3382a6ea.solidinterimmanagement.nl^$all
 ||cp-home-pl-82f359696e9.platamix.com^$all
@@ -14124,6 +14131,7 @@
 ||cp-home-pl-d8bcf79decd.installprofi.nl^$all
 ||cp-home-pl-d9be1c1b8a7.platamix.com^$all
 ||cp-home-pl-d58f37efe0b.solidinterimmanagement.nl^$all
+||cp-home-pl-d76adb9d103.solidinterimmanagement.nl^$all
 ||cp-home-pl-d84cb36e75d.solidinterimmanagement.nl^$all
 ||cp-home-pl-d8903cc8ffa.solidinterimmanagement.nl^$all
 ||cp-home-pl-d61494ee82a.platamix.com^$all
@@ -14148,6 +14156,7 @@
 ||cp-home-pl-ea4021e2642.solidinterimmanagement.nl^$all
 ||cp-home-pl-eaacb5019eb.solidinterimmanagement.nl^$all
 ||cp-home-pl-eab651468fe.platamix.com^$all
+||cp-home-pl-ed1440be974.solidinterimmanagement.nl^$all
 ||cp-home-pl-ee6f347e5a9.solidinterimmanagement.nl^$all
 ||cp-home-pl-f1aa794ef16.solidinterimmanagement.nl^$all
 ||cp-home-pl-f1d8ed0fa8f.solidinterimmanagement.nl^$all
@@ -17163,6 +17172,7 @@
 ||droga-na-biezaco.eu5.net^$all
 ||drogamiastowa.click^$all
 ||drogaszkoly.click^$all
+||drogos.olivernawrot.pl^$all
 ||drogowakatastrofa24.click^$all
 ||drogowakatastrofa.click^$all
 ||drogowamakabra.click^$all
@@ -20999,9 +21009,12 @@
 ||fornutramax.shop^$all
 ||forprise.sbs^$all
 ||forpsi-cz-8d9adf0f095.silkbodylaserclinic.nl^$all
+||forpsi-cz-9dacbda58e0.silkbodylaserclinic.nl^$all
 ||forpsi-cz-553a6281521.silkbodylaserclinic.nl^$all
 ||forpsi-cz-62240127a43.silkbodylaserclinic.nl^$all
 ||forpsi-cz-a6a28a2f319.silkbodylaserclinic.nl^$all
+||forpsi-cz-b0227aa2cc4.silkbodylaserclinic.nl^$all
+||forpsi-cz-f181474042a.silkbodylaserclinic.nl^$all
 ||forrajeriavittoli.com^$all
 ||forsaletemplates.com^$all
 ||forskolanlustgarden.se^$all
@@ -22037,6 +22050,7 @@
 ||gervertix.com^$all
 ||gerwie.com^$all
 ||geryzaycoe.live^$all
+||ges.librprograms.xyz^$all
 ||gesicherter-versand.de^$all
 ||gesihonie.link^$all
 ||gesonua.com^$all
@@ -22115,6 +22129,7 @@
 ||getwrappd.com^$all
 ||getyobs.com^$all
 ||getyououtbailbonds.com^$all
+||getyourapi.site^$all
 ||gevacostos.site^$all
 ||gewpor.online^$all
 ||gf4ds.cc^$all
@@ -23592,6 +23607,7 @@
 ||haizorcamento.com^$all
 ||hajoopteg.com^$all
 ||hakiloill.online^$all
+||hal.rikza.top^$all
 ||haladata.com^$all
 ||halaldisc.com^$all
 ||halalfoodcaterers.com^$all
@@ -25488,6 +25504,7 @@
 ||in-post-pl.cc^$all
 ||in-post-pl.info^$all
 ||in-post-pol.life^$all
+||in-post-uic.xyz^$all
 ||in-post-uiz.xyz^$all
 ||in-post-ule.top^$all
 ||in-post-ure.xyz^$all
@@ -25533,6 +25550,7 @@
 ||inaisoft.com^$all
 ||inaivox.com^$all
 ||inalatynty.site^$all
+||inamerica.top^$all
 ||inapoh.com^$all
 ||inapostpl.top^$all
 ||inarrive.com^$all
@@ -26087,6 +26105,7 @@
 ||inpossed.top^$all
 ||inposst.space^$all
 ||inposst.top^$all
+||inpost24.pl.rtuyimads.shop^$all
 ||inpost-a.id-43980.me^$all
 ||inpost-aa.top^$all
 ||inpost-ab.top^$all
@@ -27130,6 +27149,7 @@
 ||ipornweb.com^$all
 ||iporwaniedziecka24.$all
 ||ipository.com^$all
+||ipost-nat.top^$all
 ||ipost.monster^$all
 ||ipostsp.top^$all
 ||iptvobs.com^$all
@@ -34626,6 +34646,7 @@
 ||nebosuebey.live^$all
 ||nebula-9.com^$all
 ||nebulaezone.lat^$all
+||nebulasquid.xyz^$all
 ||nebulous13.com^$all
 ||nec.nusamandiri.ac.id^$all
 ||necessarius.info^$all
@@ -35283,6 +35304,7 @@
 ||news.whimsicalwhispering.com^$all
 ||news.whimsitechwizardryson.pl^$all
 ||news.woltar.live^$all
+||news.worldkolf.info^$all
 ||news.xn--rynektrendwkonsumenckich-pmc.pl^$all
 ||news.zanyzeppelinzephyr.pl^$all
 ||news.zczxczqasd.com^$all
@@ -35680,6 +35702,7 @@
 ||nonevasions.xyz^$all
 ||noneveqztf.space^$all
 ||nonexecutive-paragr.000webhostapp.com^$all
+||nonfamilytvher.life^$all
 ||nonfing.online^$all
 ||noninfestedforgetfully.com^$all
 ||noniridescent.live^$all
@@ -35984,6 +36007,7 @@
 ||nw-urb.sbs^$all
 ||nwafablab.com^$all
 ||nwaou.rosslynleather.com^$all
+||nwc.objectop.xyz^$all
 ||nwe-7t.cfd^$all
 ||nwekrash-com.preview-domain.com^$all
 ||nwewf.hiddenmasters.com^$all
@@ -48139,6 +48163,7 @@
 ||tevas.space^$all
 ||tew2-84.cfd^$all
 ||tew-62t.sbs^$all
+||tewknis.top^$all
 ||tewmovs.sbs^$all
 ||tewn-4.sbs^$all
 ||tewortop.com^$all
@@ -49988,6 +50013,7 @@
 ||u2squared.com^$all
 ||u4lx.com^$all
 ||u9jx.com^$all
+||u16a0.earthfxmq.site^$all
 ||u76a.byseniscon.top^$all
 ||u418.info^$all
 ||u482.info^$all
@@ -50325,6 +50351,7 @@
 ||uns.mix-legl.top^$all
 ||unsanibfbq.space^$all
 ||unsdmding.site^$all
+||unseatvest.online^$all
 ||unsectarianize.live^$all
 ||unseely.sbs^$all
 ||unsellsudner.life^$all
@@ -51529,6 +51556,7 @@
 ||vlnted-gb.aiiok.info^$all
 ||vlnted-gb.aille.info^$all
 ||vlnted-gb.aiolj.info^$all
+||vlnted-gb.aiovn.info^$all
 ||vlnted-gb.aiuok.info^$all
 ||vlnted-gb.ajiol.info^$all
 ||vlnted-gb.aliad.info^$all
@@ -53338,6 +53366,7 @@
 ||xiiixcdf.s3.us-west-004.backblazeb2.com^$all
 ||xikinndindo.site^$all
 ||xikiryovaa.info^$all
+||xikolaser.site^$all
 ||xinpoost.life^$all
 ||xinpost.life^$all
 ||xinpost.top^$all
@@ -54384,6 +54413,7 @@
 ||zuvertalent.com^$all
 ||zuwehobe.com^$all
 ||zuwuzim.000webhostapp.com^$all
+||zuz.valuez.top^$all
 ||zuzia34.oliwiernowicki.nieruchomosci.pl^$all
 ||zuzutikasa.ml^$all
 ||zvkdeuqhiroe.site^$all
