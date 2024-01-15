@@ -3307,7 +3307,7 @@
 ||allegrolokalnie.24pay-u.pl^$all
 ||allegrolokalnie.24platnosc.pl^$all
 ||allegrolokalnie.398543.pw^$all
-||allegrolokalnie.$doc,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
+/^https?:\/\/([\w\W]{2,60}\.)?allegrolokalnie\.[\w\W]{2,30}\.?\//$doc,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
 ||allegrolokalnie.aukcja2541.pl^$all
 ||allegrolokalnie.aukcja6098.pl^$all
 ||allegrolokalnie.aukcja-allegro.pl^$all
