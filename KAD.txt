@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 15 Jan 2024, 20:49 UTC+01:00
-! Version: 2024.1.15.4
+! Last modified: Mon, 15 Jan 2024, 21:01 UTC+01:00
+! Version: 2024.1.15.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2461,7 +2461,6 @@
 !#safari_cb_affinity
 !
 ! Przekręty
-/^https?:\/\/([\w\W]{2,60}\.)?allegrolokalnie\.[\w\W]{2,30}\.?\//$doc,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -2486,6 +2485,7 @@
 /^https?:\/\/([\w]{1,4}\.)?sms\.[0-9]+\.(pw|sbs)/$doc,domain=pw|sbs
 /^https?:\/\/([\w]{1,4}\.)?vinted-(pl|polska)-[a-z0-9]{2,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /^https?:\/\/([\w]{1,4}\.)?vjnted\.[0-9]+\.(xyz)/$doc,domain=xyz
+/^https?:\/\/([\w]{1,60}\.)?allegrolokalnie\.[\w]{2,30}\.?\//$doc,domain=~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~wp.pl|~yahoo.*
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
