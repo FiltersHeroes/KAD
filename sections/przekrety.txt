@@ -45,6 +45,9 @@
 /tds/ae?tds_campaign=$doc
 |http*://*/fb-login/$doc,domain=~facebook.com
 |http*://*/ym.html?email=*@$doc,domain=~to-moze-byc-phishing.*
+||kinodom.pl^$all
+||allepharm.com^$all
+||trichomist.store^$all
 ||0-finanzierung.com^$all
 ||0-okodukai.com^$all
 ||0ai4.biz.id^$all
