@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 15 Jan 2024, 21:01 UTC+01:00
-! Version: 2024.1.15.5
+! Last modified: Tue, 16 Jan 2024, 09:21 UTC+01:00
+! Version: 2024.1.16.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5704,6 +5704,7 @@
 ||allegro.llokalnie.pl^$all
 ||allegro.lokalniee.pl^$all
 ||allegro.lokalniepay24.pl^$all
+||allegro.mobilnie24.pl^$all
 ||allegro.net^$all
 ||allegro.ochrona24-7.pl^$all
 ||allegro.oferta247.pl^$all
@@ -5926,6 +5927,7 @@
 ||allegrolokalnie.pl-oferta568413.pl^$all
 ||allegrolokalnie.pl-oferta568516.pl^$all
 ||allegrolokalnie.pl-oferta568539.pl^$all
+||allegrolokalnie.pl-oferta8471264.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna24.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna1237.pl^$all
 ||allegrolokalnie.pl-oferta-prywatna1238.pl^$all
@@ -7814,6 +7816,9 @@
 ||aukcja4321.pl^$all
 ||aukcja5932.pl^$all
 ||aukcja6098.pl^$all
+||aukcja7089.pl^$all
+||aukcja7542.pl^$all
+||aukcja8167.pl^$all
 ||aukcja-id7948261.pl^$all
 ||aukcja-olx.pl^$all
 ||aukobere.site^$all
@@ -7877,6 +7882,7 @@
 ||auta-kubacki.pl^$all
 ||auta-mackowiak.pl^$all
 ||auta-marcinkowski.pl^$all
+||auta-ostrowski.pl^$all
 ||auta-pawlikowski.pl^$all
 ||auta-piotrowski.pl^$all
 ||auta-podolski.pl^$all
@@ -13342,6 +13348,7 @@
 ||codeaura.pw^$all
 ||codebomber.com^$all
 ||codebrew.nl^$all
+||codebyter.xyz^$all
 ||codecanvas.pw^$all
 ||codecluster.pw^$all
 ||codecomet.pw^$all
@@ -13983,8 +13990,10 @@
 ||cp-home-pl-7b26d194e95.solidinterimmanagement.nl^$all
 ||cp-home-pl-7c66dbf5e64.solidinterimmanagement.nl^$all
 ||cp-home-pl-7d7b2dbdcab.solidinterimmanagement.nl^$all
+||cp-home-pl-7d79973af9a.solidinterimmanagement.nl^$all
 ||cp-home-pl-7e2f8237238.platamix.com^$all
 ||cp-home-pl-8c0d7846dd8.platamix.com^$all
+||cp-home-pl-8eafbe49f96.solidinterimmanagement.nl^$all
 ||cp-home-pl-8f9ca86f1ef.solidinterimmanagement.nl^$all
 ||cp-home-pl-8fa3a0eff16.solidinterimmanagement.nl^$all
 ||cp-home-pl-8fcd5038274.platamix.com^$all
@@ -14048,6 +14057,7 @@
 ||cp-home-pl-592c8c60792.platamix.com^$all
 ||cp-home-pl-595d1af36df.platamix.com^$all
 ||cp-home-pl-629f823c142.solidinterimmanagement.nl^$all
+||cp-home-pl-638d8f94995.solidinterimmanagement.nl^$all
 ||cp-home-pl-672cf24379a.solidinterimmanagement.nl^$all
 ||cp-home-pl-690ef629778.solidinterimmanagement.nl^$all
 ||cp-home-pl-691aad34cfe.solidinterimmanagement.nl^$all
@@ -14102,6 +14112,7 @@
 ||cp-home-pl-a971970b4ce.installprofi.nl^$all
 ||cp-home-pl-a07551847c2.platamix.com^$all
 ||cp-home-pl-acae3b0fc85.solidinterimmanagement.nl^$all
+||cp-home-pl-acc017e6486.solidinterimmanagement.nl^$all
 ||cp-home-pl-ad7d0c4741c.platamix.com^$all
 ||cp-home-pl-ad19ba99990.solidinterimmanagement.nl^$all
 ||cp-home-pl-ae48c4d6313.solidinterimmanagement.nl^$all
@@ -14572,6 +14583,7 @@
 ||csxindia.com^$all
 ||cta-capitals.com^$all
 ||cta-ventil.eu^$all
+||ctenali.sbs^$all
 ||cticharts.com^$all
 ||ctizuhvdko.web.app^$all
 ||ctopapers.com^$all
@@ -15945,6 +15957,7 @@
 ||dhiaader.top^$all
 ||dhiarinacloset.com^$all
 ||dhib3cxtfdjncfgy.vdl.pl^$all
+||dhidelivery.pl^$all
 ||dhideliveryfastfail.com^$all
 ||dhideliveryfastfaill.com^$all
 ||dhiexpress24.pl^$all
@@ -23438,6 +23451,7 @@
 ||guxiwyodya.com^$all
 ||guy-j.com^$all
 ||guzno1.site^$all
+||guzo.promopulseoutlet.com^$all
 ||gvcurtins.com^$all
 ||gvd0xx7.marylandhomerates.com^$all
 ||gvdigitalccgclub.com^$all
@@ -26151,7 +26165,10 @@
 ||inpost-infofx.top^$all
 ||inpost-inpost.top^$all
 ||inpost-inpostline.top^$all
+||inpost-inpostpl.top^$all
 ||inpost-inpostplpl.top^$all
+||inpost-ipo.top^$all
+||inpost-ixn.top^$all
 ||inpost-ka.top^$all
 ||inpost-kc.top^$all
 ||inpost-ke.top^$all
@@ -26324,6 +26341,7 @@
 ||inpost-tjah.neworder44799.info^$all
 ||inpost-tracking.info^$all
 ||inpost-uei.top^$all
+||inpost-unm.top^$all
 ||inpost-unp.top^$all
 ||inpost-up.life^$all
 ||inpost-ups.top^$all
@@ -26331,6 +26349,7 @@
 ||inpost-verify.top^$all
 ||inpost-wysylki.com^$all
 ||inpost-xcn.top^$all
+||inpost-xta.top^$all
 ||inpost-yna.top^$all
 ||inpost-ynz.top^$all
 ||inpost-you.top^$all
@@ -26488,6 +26507,7 @@
 ||inpostlf.top^$all
 ||inpostli.top^$all
 ||inpostlis.top^$all
+||inpostlo.top^$all
 ||inpostloj.top^$all
 ||inpostlok.top^$all
 ||inpostlus.top^$all
@@ -26641,6 +26661,8 @@
 ||inpposstti.top^$all
 ||inppost-pl.cc^$all
 ||inppost-pl.top^$all
+||inpsct.top^$all
+||inpsct.wiki^$all
 ||inpsocpls.top^$all
 ||inpsot.cloud^$all
 ||inpsot.shop^$all
@@ -27354,6 +27376,7 @@
 ||iupost.ink^$all
 ||iupost.shop^$all
 ||iupost.top^$all
+||iupost.wiki^$all
 ||iuposta.fun^$all
 ||iuposta.online^$all
 ||iuposta.shop^$all
@@ -31337,6 +31360,7 @@
 ||lungo-offers.com^$all
 ||lunodoa.com^$all
 ||lupikyexyy.live^$all
+||lurula.giftsgrove.com^$all
 ||lush-field-radium.glitch.me^$all
 ||lushbrownie.com^$all
 ||lushodda.com^$all
@@ -36075,6 +36099,7 @@
 ||o1x.6845423.xyz^$all
 ||o1x.7845423.xyz^$all
 ||o1x.9026356.xyz^$all
+||o1x.30330384.xyz^$all
 ||o1x.30330386.xyz^$all
 ||o1x.089765275.xyz^$all
 ||o1x.90725365.xyz^$all
@@ -36299,6 +36324,7 @@
 ||oferta12553.pl^$all
 ||oferta12554.pl^$all
 ||oferta12555.pl^$all
+||oferta12556.pl^$all
 ||oferta-122.orders94851.info^$all
 ||oferta-213.neworder44799.info^$all
 ||oferta-6534.pl^$all
@@ -37115,6 +37141,7 @@
 ||ooopnzmcojo.xyz^$all
 ||oopch.formew.top^$all
 ||ooqlsjjhah.site^$all
+||oorreosz.tech^$all
 ||oostaad.com^$all
 ||oowrf.kizombashirts.com^$all
 ||op029a-i29a0.biedronka2084.pl^$all
@@ -37520,6 +37547,7 @@
 ||outside.intertex-usa.com^$all
 ||outstepstowealth.org^$all
 ||outttloook636r46tt63.s3.us-east-005.backblazeb2.com^$all
+||outwa.fun^$all
 ||ov5vq4g07z.heniekmusiol.pl^$all
 ||ovalpride.com^$all
 ||ovd54lp8fzv9.com^$all
@@ -39865,6 +39893,7 @@
 ||pocketoption.com^$all
 ||pocketsofjoy.charity^$all
 ||pockztresmde.cabanova.com^$all
+||poclinpostsrcy.top^$all
 ||pocns-pols.top^$all
 ||pocokyynao.live^$all
 ||poconos.ws^$all
@@ -53900,6 +53929,7 @@
 ||yvellow.com^$all
 ||yvonne.cenacoolo.pl^$all
 ||yvzplast.com^$all
+||yw4-blw.cfd^$all
 ||yw5e.hair^$all
 ||ywe-247.homes^$all
 ||ywlz3whw5a4w8er.cheebapizza.com^$all
