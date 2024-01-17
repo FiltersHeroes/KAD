@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 17 Jan 2024, 17:21 UTC+01:00
-! Version: 2024.1.17.2
+! Last modified: Wed, 17 Jan 2024, 21:17 UTC+01:00
+! Version: 2024.1.17.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5647,6 +5647,7 @@
 ||allcarswiki.com^$all
 ||alle-kurier.cloud^$all
 ||alleagro.yacolor.cl^$all
+||alleauto-24.pl^$all
 ||alleauto-sprzedaz24.pl^$all
 ||alleegro.palcar.cl^$all
 ||allegr0lokalnie.0768543.xyz^$all
@@ -5796,6 +5797,8 @@
 ||allegrolokalnie.aukcja3572.pl^$all
 ||allegrolokalnie.aukcja4201.pl^$all
 ||allegrolokalnie.aukcja4216.pl^$all
+||allegrolokalnie.aukcja5021.pl^$all
+||allegrolokalnie.aukcja5437.pl^$all
 ||allegrolokalnie.aukcja6098.pl^$all
 ||allegrolokalnie.aukcja-allegro.pl^$all
 ||allegrolokalnie.aukcja-id76941.pl^$all
@@ -7856,6 +7859,12 @@
 ||aukcja4201.pl^$all
 ||aukcja4216.pl^$all
 ||aukcja4321.pl^$all
+||aukcja4659.pl^$all
+||aukcja5021.pl^$all
+||aukcja5206.pl^$all
+||aukcja5437.pl^$all
+||aukcja5678.pl^$all
+||aukcja5823.pl^$all
 ||aukcja5932.pl^$all
 ||aukcja6098.pl^$all
 ||aukcja7089.pl^$all
@@ -7882,6 +7891,7 @@
 ||aurismedic.josefkopecka.pl^$all
 ||aurls.com^$all
 ||aurochsghuge.life^$all
+||aurodama.sbs^$all
 ||auroracarsforsale.com^$all
 ||auroravibbest33.site^$all
 ||auroravibbestt42.site^$all
@@ -7910,6 +7920,7 @@
 ||australianews-abc.online^$all
 ||austspg-customer.com^$all
 ||auta-bakowska.pl^$all
+||auta-borowski.pl^$all
 ||auta-chojnacki.pl^$all
 ||auta-duda.pl^$all
 ||auta-filipski.pl^$all
@@ -7935,6 +7946,7 @@
 ||auta-potocki.pl^$all
 ||auta-rakowski.pl^$all
 ||auta-rawicki.pl^$all
+||auta-sobanski.pl^$all
 ||auta-sobieski.pl^$all
 ||auta-sochacki.pl^$all
 ||auta-winiarski.pl^$all
@@ -7971,6 +7983,8 @@
 ||auto-domain2-manaliner.pbclimbing.co.uk^$all
 ||auto-elite24.pl^$all
 ||auto-glaze.com^$all
+||auto-kika.pl^$all
+||auto-klik.pl^$all
 ||auto-komorowski.pl^$all
 ||auto-kowalik24.pl^$all
 ||auto-kurek24.pl^$all
@@ -24239,6 +24253,7 @@
 ||hergunkahve.com^$all
 ||heriksd.website^$all
 ||heriocapitol.com^$all
+||hermesauto-24.pl^$all
 ||hermeseverywhere.com^$all
 ||hermeticvril.com^$all
 ||hermitdgtl.com^$all
@@ -26518,6 +26533,7 @@
 ||inpost.pl.*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.plnew.annomo.top^$all
 ||inpost.posad.site^$all
+||inpost.qubotys.org^$all
 ||inpost.quest^$all
 ||inpost.reservation83964.cloud^$all
 ||inpost.rest^$all
@@ -26751,6 +26767,7 @@
 ||inpostusa.life^$all
 ||inpostusa.top^$all
 ||inpostutrade.top^$all
+||inpostweb.com^$all
 ||inpostweb.info^$all
 ||inpostweb.life^$all
 ||inpostweb.top^$all
@@ -26772,6 +26789,7 @@
 ||inpposstti.top^$all
 ||inppost-pl.cc^$all
 ||inppost-pl.top^$all
+||inps-cxuiz.top^$all
 ||inpsct.top^$all
 ||inpsct.wiki^$all
 ||inpsocpls.top^$all
@@ -27447,6 +27465,7 @@
 ||itclactations.com^$all
 ||itcnj.com^$all
 ||itcoinblack.com^$all
+||itelno.sbs^$all
 ||ithacarotary.org^$all
 ||ithimenttat.site^$all
 ||itiarrappossirrthe.site^$all
@@ -28923,6 +28942,7 @@
 ||kindridmarketing.com^$all
 ||kinepraxis.com^$all
 ||kinesic.net^$all
+||kinetinsand.world^$all
 ||kinfer.wixsite.com^$all
 ||king.supplypoland.com^$all
 ||kingbarmk.site^$all
@@ -29293,6 +29313,7 @@
 ||konto-994942-twoje.info03.pl^$all
 ||konto-all.borec.cz^$all
 ||konto-dom.pl^$all
+||konto-dostawy.com^$all
 ||konto-informacje-pl.com^$all
 ||konto-klienta.pl^$all
 ||konto-neflix.publicvm.com^$all
@@ -29811,6 +29832,7 @@
 ||land2discover.com^$all
 ||land.iq-life.site^$all
 ||landalsluyshaven.com^$all
+||landedwing.site^$all
 ||landfast.xyz^$all
 ||landingcentral.shop^$all
 ||landingheaven.shop^$all
@@ -33340,6 +33362,7 @@
 ||ml.salvatorepapa.com^$all
 ||mla.worldfxlife.top^$all
 ||mld.hoccs.xyz^$all
+||mleczarek-autosprzedaz.pl^$all
 ||mleko.enesyol.com^$all
 ||mlekopochimu-online.preview-domain.com^$all
 ||mlen.ratanqiyc.site^$all
@@ -36282,6 +36305,7 @@
 ||o2177305.shop^$all
 ||o-lx.32423339.xyz^$all
 ||o-lx.82343423.xyz^$all
+||o-mjy.sbs^$all
 ||o-p.sbs^$all
 ||o-s.homes^$all
 ||o-thers.com^$all
@@ -36994,6 +37018,7 @@
 ||olx.market-following.pw^$all
 ||olx.mirror-left.pw^$all
 ||olx.ochrona-ogloszenia.pl^$all
+||olx.ochrona-paczki.pl^$all
 ||olx.oferta12556.pl^$all
 ||olx.oferty24h-7.pl^$all
 ||olx.oferty-24.pl^$all
@@ -42041,6 +42066,7 @@
 ||przekcry2.blogspot.com^$all
 ||przekoczpas.space^$all
 ||przekonaniie.site^$all
+||przekuba.malwinajasmina.pl^$all
 ||przelewy24-odbierz.website^$all
 ||przelewy24-odbior.space^$all
 ||przelewy24.click^$all
@@ -50909,6 +50935,7 @@
 ||usps.completeinfol.xyz^$all
 ||usps.pnpackege.top^$all
 ||usps.posthelzpn.com^$all
+||usps.posts-us.net^$all
 ||usr-ac.org^$all
 ||usregtimepro.online^$all
 ||usugi.xyz^$all
@@ -51587,6 +51614,7 @@
 ||vinted-sk.order4219.eu^$all
 ||vinted-sk.powerlof.com^$all
 ||vinted-sk.woneiro.com^$all
+||vinted-uk.approve-link.site^$all
 ||vinted-uk.id04313.com^$all
 ||vinted-uk.id69273.com^$all
 ||vinted-uk.id282973.com^$all
@@ -53002,6 +53030,7 @@
 ||wiqujayxyy.live^$all
 ||wireapproval.com^$all
 ||wireless724.com^$all
+||wiringframe.vip^$all
 ||wirmw.iamguided.com^$all
 ||wirtaspin-investing.pro^$all
 ||wirtualna-friendly.com.pl^$all
@@ -53109,6 +53138,7 @@
 ||wnww-roblox.com^$all
 ||wo4f.top^$all
 ||wo66r7d8gkbl5j5tifc876eo.musicpivots.com^$all
+||wo449tqpnesk89hu280f5b7c.basicbeautys.com^$all
 ||wo.zlpolska.xyz^$all
 ||woaesd.space^$all
 ||woaghenao.space^$all
@@ -53876,6 +53906,7 @@
 ||ybu.dichvummo.xyz^$all
 ||ycdsp.stanrichard.com^$all
 ||ycemi.sbs^$all
+||yceyfi.top^$all
 ||ycfus.org^$all
 ||yclawcollegepune.org^$all
 ||yclhwh.com^$all
@@ -53968,6 +53999,7 @@
 ||ylscp.marclst.pl^$all
 ||ymjhrd.s3.us-east-005.backblazeb2.com^$all
 ||ympw-offers.com^$all
+||ynewil.sbs^$all
 ||ynixar-com.preview-domain.com^$all
 ||yns.pics^$all
 ||ynwzz.stmaryjoseph.com^$all
@@ -54160,7 +54192,9 @@
 ||yrvsf.phweditorial.com^$all
 ||ysal.skin^$all
 ||ysetw9-62.cfd^$all
+||ysewi.sbs^$all
 ||ysf-436.cfd^$all
+||yshakj.sbs^$all
 ||yslyr.silverbackbranding.com^$all
 ||ysmens.com^$all
 ||yt.ametedy.site^$all
@@ -54171,6 +54205,7 @@
 ||ytflix.club^$all
 ||ythejkdlp.com^$all
 ||ytltechs.com^$all
+||ytnus.sbs^$all
 ||ytyu.mmtsa.top^$all
 ||yu-8.cfd^$all
 ||yuanpay-group-app.financial-marketsworld.com^$all
