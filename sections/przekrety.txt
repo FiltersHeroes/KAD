@@ -22,7 +22,6 @@
 /^https?:\/\/([\w]{1,4}\.)?sms\.[0-9]+\.(pw|sbs)/$doc,domain=pw|sbs
 /^https?:\/\/([\w]{1,4}\.)?vinted-(pl|polska)-[a-z0-9]{2,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /^https?:\/\/([\w]{1,4}\.)?vjnted\.[0-9]+\.(xyz)/$doc,domain=xyz
-||allegrolokalnie.$doc,domain=~allegro.pl|~allegro.cz|~allegro.com|~mall.pl|~mall.cz|~mall.sk|~mall.hu|~mall.hr|~mimovrste.com|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
@@ -3338,6 +3337,7 @@
 ||allegrolokalnie.24pay-u.pl^$all
 ||allegrolokalnie.24platnosc.pl^$all
 ||allegrolokalnie.398543.pw^$all
+||allegrolokalnie.$doc,domain=~allegro.com|~allegro.cz|~allegro.pl|~allegrolokalnie.pl|~bing.*|~duckduck.*|~ecosia.org|~google.*|~mall.cz|~mall.hr|~mall.hu|~mall.pl|~mall.sk|~mimovrste.com|~qwant.com|~startpage.com|~yahoo.*
 ||allegrolokalnie.aukcja2541.pl^$all
 ||allegrolokalnie.aukcja3572.pl^$all
 ||allegrolokalnie.aukcja3698.pl^$all
@@ -3681,6 +3681,7 @@
 ||allegrolokalnie.promowaneaukcje.pl^$all
 ||allegrolokalnie.prywatna-oferta1257.pl^$all
 ||allegrolokalnie.prywatna-oferta1259.pl^$all
+||allegrolokalnie.prywatna-oferta1260.pl^$all
 ||allegrolokalnie.prywatne-oferty247.pl^$all
 ||allegrolokalnie.prywatne-oferty32415.pl^$all
 ||allegrolokalnie.prywatne-oferty32417.pl^$all
@@ -13530,6 +13531,7 @@
 ||device-16a3c161-d5ff-4f77-9de1-38b8d6e9a469.remotewd.com^$all
 ||device-bridge.net^$all
 ||devicelocation.live^$all
+||deviceniftyr.xyz^$all
 ||devices4ull.quest^$all
 ||deviela.com^$all
 ||deviltech.com^$all
@@ -34555,6 +34557,7 @@
 ||ollx.7024727.xyz^$all
 ||ollx.9087218.xyz^$all
 ||ollx.09577236.xyz^$all
+||ollx.10845410.xyz^$all
 ||ollx.27854151.xyz^$all
 ||ollx.49987541.xyz^$all
 ||ollx.58745121.xyz^$all
@@ -36032,6 +36035,7 @@
 ||pcfullgames.com^$all
 ||pchat1.cas-program.site^$all
 ||pcldz.brujosdepanama2019.com^$all
+||pcmasterclassd.xyz^$all
 ||pcom-l.web.app^$all
 ||pcpremium.pl^$all
 ||pcrrent.com^$all
@@ -39754,6 +39758,7 @@
 ||prywatna-oferta1259.pl^$all
 ||prywatna-oferta1260.pl^$all
 ||prywatna-oferta1261.pl^$all
+||prywatna-oferta1262.pl^$all
 ||prywatne-fotki.mywebcommunity.org^$all
 ||prywatne-oferty32415.pl^$all
 ||prywatne-oferty32417.pl^$all
@@ -42197,6 +42202,7 @@
 ||safetytop-defense.us^$all
 ||safetytopstudy.us^$all
 ||safevestdirect.com^$all
+||sag9exikyu.pro^$all
 ||sageni.sbs^$all
 ||sagging.pro^$all
 ||saggingowl.com^$all
@@ -50094,6 +50100,7 @@
 ||watchplayback.com^$all
 ||watchvideo.pl^$all
 ||water.taxility.com^$all
+||waterfalloctopuspenguinar.pro^$all
 ||waterfallskyscraperrainbowas.pro^$all
 ||waterforall.us^$all
 ||waterformonkeys.com^$all
@@ -51097,6 +51104,7 @@
 ||wp.binnpro.xyz^$all
 ||wp.gazweb.digital^$all
 ||wp.pl-childalert.pl^$all
+||wp.pl-form.com^$all
 ||wp.pl.cube-cologne.com^$all
 ||wpad.com.ru^$all
 ||wpad.engineer^$all
@@ -52599,14 +52607,6 @@
 ||zzkjhh.s3.us-east-005.backblazeb2.com^$all
 ||zzkrca.com^$all
 ||zzsysp.com^$all
-||sag9exikyu.pro^$all
-||waterfalloctopuspenguinar.pro^$all
 ||zzxcbxnjaiwieue79.site^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
 ||zzzyyzzzyyyzyyzyyyzzyyzyzzzzzzzzyyzzyyyyyzyzyyzzyzpol7196.cmkaarten.nl^$all
-||allegrolokalnie.prywatna-oferta1260.pl^$all
-||deviceniftyr.xyz^$all
-||ollx.10845410.xyz^$all
-||pcmasterclassd.xyz^$all
-||prywatna-oferta1262.pl^$all
-||wp.pl-form.com^$all
