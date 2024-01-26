@@ -22,6 +22,9 @@
 /^https?:\/\/([\w]{1,4}\.)?sms\.[0-9]+\.(pw|sbs)/$doc,domain=pw|sbs
 /^https?:\/\/([\w]{1,4}\.)?vinted-(pl|polska)-[a-z0-9]{2,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
 /^https?:\/\/([\w]{1,4}\.)?vjnted\.[0-9]+\.(xyz)/$doc,domain=xyz
+||generaltg.com^$all
+||kredytnadowolnycel.pl^$all
+||teletrade.eu^$all
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
