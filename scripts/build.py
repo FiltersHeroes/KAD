@@ -128,5 +128,5 @@ if "CI" in os.environ:
 
 os.chdir(pn("./KADhosts"))
 SFLB.main([pj(os.getcwd(), "KADhosts.txt"), pj(
-    os.getcwd(), "KADhole.txt"), pj(os.getcwd(), "KADomains.txt")], "", "")
+    os.getcwd(), "KADhole.txt"), pj(os.getcwd(), "KADomains.txt"), pj(os.getcwd(), "KADdnsmasq.txt")], "", "")
 SFLB.push([pj(os.getcwd(), "KADhosts.txt")])
