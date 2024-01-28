@@ -2,7 +2,7 @@ version: 2
 jobs:
   CERT:
     docker:
-    - image: polishfiltersteam/kad_image:3.0.11
+    - image: polishfiltersteam/kad_image:3.0.12
     working_directory: ~/git/KAD
     steps:
     - checkout
@@ -13,7 +13,7 @@ jobs:
           - sections/CERT_novelties.txt
   LWS:
     docker:
-    - image: polishfiltersteam/kad_image:3.0.11
+    - image: polishfiltersteam/kad_image:3.0.12
     working_directory: ~/git/KAD
     steps:
     - checkout
@@ -24,7 +24,7 @@ jobs:
           - sections/LWS_novelties.txt
   Aktualizacja:
     docker:
-    - image: polishfiltersteam/kad_image:3.0.11
+    - image: polishfiltersteam/kad_image:3.0.12
     working_directory: ~/git/KAD
     steps:
     - checkout
