@@ -1,0 +1,17 @@
+name: Dodawanie etykiet dla zamykanych zgłoszeń
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  apply-label:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - uses: hawkeye116477/issue-manager-action@v1
+        with:
+          mode: "labelClosed"
+          completed-label: "zatwierdzone"
+          not-planned-label: "odrzucone" 
