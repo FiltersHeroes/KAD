@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 17 Mar 2024, 17:18 UTC+01:00
-! Version: 2024.3.17.3
+! Last modified: Sun, 17 Mar 2024, 21:16 UTC+01:00
+! Version: 2024.3.17.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2400,6 +2400,7 @@
 /tds/ae?tds_campaign=$doc
 |http*://*/fb-login/$doc,domain=~facebook.com
 |http*://*/ym.html?email=*@$doc,domain=~to-moze-byc-phishing.*
+||0-6n10.sbs^$all
 ||0-finanzierung.com^$all
 ||0-okodukai.com^$all
 ||0a8a6dbb36c93946fe7b901492e1e768.puoli.pl^$all
@@ -2918,6 +2919,7 @@
 ||2w.n9g.cc^$all
 ||2wy.rll.lat^$all
 ||2xel.cfd^$all
+||2xjl.cfd^$all
 ||2xm.sgn2.sbs^$all
 ||2xqe.com^$all
 ||2yf.58bu.sbs^$all
@@ -3206,6 +3208,7 @@
 ||4nnovati4as.xyz^$all
 ||04o.c65t.one^$all
 ||4o.money-poland.fun^$all
+||4oi3v.cfd^$all
 ||4ourneighbor.com^$all
 ||4p4cee1xpl0re.site^$all
 ||4p.poland-lux.fun^$all
@@ -3297,6 +3300,7 @@
 ||5ffefaaf.kortfilmfestivalen.no^$all
 ||5g-0v-wirnhfg-9wiebgf-8wgf-q9eh-8egth-8e.obs.ap-southeast-3.myhuaweicloud.com^$all
 ||5gbet88th.com^$all
+||5gcp.cfd^$all
 ||5h3n.cfd^$all
 ||5hc.b1fm.cfd^$all
 ||5hrr0mon7jjj.site^$all
@@ -3517,6 +3521,7 @@
 ||7tahe7d4yo7.xyz^$all
 ||7tive7inds.xyz^$all
 ||7tj.fvq0.one^$all
+||7tkb.cfd^$all
 ||7tt.ner9.top^$all
 ||7tu8.cfd^$all
 ||7u3.lwhf.lat^$all
@@ -3627,6 +3632,7 @@
 ||009.itpolska.click^$all
 ||9.reidaverdade.net^$all
 ||9a18471306e.chefs-kitchen.co.uk^$all
+||9a-pa7.sbs^$all
 ||9b9s.cfd^$all
 ||9b27e1f1.cftvpinheiro.com.br^$all
 ||9b904220d7d59.tlsens.pl^$all
@@ -7181,11 +7187,16 @@
 ||allegrolokalnie.oferta216434.pl^$all
 ||allegrolokalnie.oferta383992.pl^$all
 ||allegrolokalnie.oferta434599.pl^$all
+||allegrolokalnie.oferta535112.pl^$all
 ||allegrolokalnie.oferta535121.pl^$all
 ||allegrolokalnie.oferta535153.pl^$all
 ||allegrolokalnie.oferta535154.pl^$all
 ||allegrolokalnie.oferta535156.pl^$all
 ||allegrolokalnie.oferta535158.pl^$all
+||allegrolokalnie.oferta563411.pl^$all
+||allegrolokalnie.oferta563412.pl^$all
+||allegrolokalnie.oferta563413.pl^$all
+||allegrolokalnie.oferta563414.pl^$all
 ||allegrolokalnie.oferta937210.pl^$all
 ||allegrolokalnie.oferta937211.pl^$all
 ||allegrolokalnie.oferta937212.pl^$all
@@ -20418,6 +20429,7 @@
 ||divorcelawyersfortworth.net^$all
 ||divorceradio.com^$all
 ||divyabharat.com^$all
+||divyaspices.com^$all
 ||divyjyoti.org^$all
 ||diwuroomua.live^$all
 ||dixieshowtimes.com^$all
@@ -21110,6 +21122,7 @@
 ||dpd-pl-pl.monster^$all
 ||dpd-pl-pl.top^$all
 ||dpd-pl.dostawa-id.live^$all
+||dpd-pl.faraqon.pics^$all
 ||dpd-pl.hghbulkph.store^$all
 ||dpd-pl.id-3489.me^$all
 ||dpd-pl.mfcell.store^$all
@@ -22938,6 +22951,7 @@
 ||eneficiaryoverage.eu^$all
 ||eneflorin.com^$all
 ||enerch.top^$all
+||energ1polskaa.da-ar.com^$all
 ||energeticvibrationalhealing.com^$all
 ||energgiapolsk.site^$all
 ||energialliure.com^$all
@@ -27051,6 +27065,7 @@
 ||gazetapolska24.eu^$all
 ||gazetapolska.click^$all
 ||gazetapolska.hoste.pl^$all
+||gazetaprawdy.click^$all
 ||gazetka24.alte.pl^$all
 ||gazetka24.laohost.net^$all
 ||gazetka-prawna.com^$all
@@ -29269,6 +29284,7 @@
 ||habitsuite.com^$all
 ||hablet.online^$all
 ||hablux-micres.com^$all
+||habop.com^$all
 ||habr.moscow^$all
 ||habs64-dx.pages.dev.br^$all
 ||hackbfs.com^$all
@@ -29894,6 +29910,7 @@
 ||helpofix.com^$all
 ||helppozone.com^$all
 ||helpserviceowa.weebly.com^$all
+||helpservineces-world-suppoinfo.codeanyapp.com^$all
 ||helpsupportcenter-net.translate.goog^$all
 ||helptank.org^$all
 ||helptracking-pl.com^$all
@@ -32969,6 +32986,7 @@
 ||inpostdo.top^$all
 ||inpostdp.info^$all
 ||inpostdp.top^$all
+||inpostdp.xyz^$all
 ||inpostdpl.life^$all
 ||inpostdpl.top^$all
 ||inposte-pl.top^$all
@@ -33085,6 +33103,7 @@
 ||inpostp.buzz^$all
 ||inpostp.inparx.top^$all
 ||inpostp.inpary.top^$all
+||inpostp.life^$all
 ||inpostpe.xyz^$all
 ||inpostpgk.top^$all
 ||inpostpi.cc^$all
@@ -33105,6 +33124,7 @@
 ||inpostpl.link^$all
 ||inpostpl.lol^$all
 ||inpostpl.monster^$all
+||inpostpl.quest^$all
 ||inpostpl.secure5184.info^$all
 ||inpostpl.shop^$all
 ||inpostpl.wiki^$all
@@ -33137,6 +33157,7 @@
 ||inpostpomoc.info^$all
 ||inpostprog.top^$all
 ||inpostps-pl.top^$all
+||inpostps.xyz^$all
 ||inpostr.top^$all
 ||inpostre.top^$all
 ||inpostri.top^$all
@@ -33182,6 +33203,7 @@
 ||inpostsaoo.top^$all
 ||inpostsb.top^$all
 ||inpostse.shop^$all
+||inpostsl.quest^$all
 ||inpostsl.xyz^$all
 ||inpostsnow.top^$all
 ||inpostsnvs.life^$all
@@ -35242,6 +35264,7 @@
 ||k8-36.cfd^$all
 ||k8n.fnw0.cfd^$all
 ||k8um.cfd^$all
+||k9-h1j.sbs^$all
 ||k10mk.infosyst.site^$all
 ||k20.net.ua^$all
 ||k41.t2io.one^$all
@@ -36361,6 +36384,7 @@
 ||kosiarka-zielinski.pl^$all
 ||kosiarki-gielda.pl^$all
 ||kosiarki-krakow.pl^$all
+||kosiarki-narzedzia.pl^$all
 ||kosiarki-nowak.pl^$all
 ||kosiarki-ogloszenia.pl^$all
 ||kosiarki-ogloszenie.pl^$all
@@ -44919,6 +44943,7 @@
 ||oferta52645.pl^$all
 ||oferta52646.pl^$all
 ||oferta55803.pl^$all
+||oferta535112.pl^$all
 ||oferta535121.pl^$all
 ||oferta535151.pl^$all
 ||oferta535152.pl^$all
@@ -44926,6 +44951,10 @@
 ||oferta535154.pl^$all
 ||oferta535156.pl^$all
 ||oferta535158.pl^$all
+||oferta563411.pl^$all
+||oferta563412.pl^$all
+||oferta563413.pl^$all
+||oferta563414.pl^$all
 ||oferta701573.pl^$all
 ||oferta937211.pl^$all
 ||oferta937212.pl^$all
@@ -48046,6 +48075,7 @@
 ||pkobp-pl.indiaaaz.com^$all
 ||pkobp-pl.line.pm^$all
 ||pkobp-pl.top^$all
+||pkobp.co^$all
 ||pkobp.online^$all
 ||pkobp.sviluppo.host^$all
 ||pkobpinvestment.site^$all
@@ -49806,6 +49836,7 @@
 ||polk-inv.web.app^$all
 ||polkalomai.site^$all
 ||polkanerit.com^$all
+||polkapomoc.pl^$all
 ||polkarton.com^$all
 ||polki-nago.pl^$all
 ||polks.pl^$all
@@ -52329,6 +52360,7 @@
 ||quantuminu.com^$all
 ||quantumlink.pw^$all
 ||quantummarket.net^$all
+||quantumowe.website^$all
 ||quantumpl.site^$all
 ||quantumprimeprofit.app^$all
 ||quantumprimeprofit.com^$all
@@ -55565,6 +55597,7 @@
 ||sh1ny24.life^$all
 ||sh2.pltradelife.top^$all
 ||sh4r.cfd^$all
+||sh48.cfd^$all
 ||sh-34ke.cfd^$all
 ||sh.act1v3life.life^$all
 ||sha.greerr.site^$all
@@ -58515,6 +58548,7 @@
 ||szt3ll4rs10l4c3.site^$all
 ||sztanderamarek.adrianpaluch.pl^$all
 ||sztchr.cn^$all
+||sztukadobroci.click^$all
 ||sztukadzienna.click^$all
 ||sztukaelegancji.click^$all
 ||sztukarelaksu.click^$all
@@ -58615,6 +58649,7 @@
 ||t5lm.cfd^$all
 ||t6hr9.icu^$all
 ||t6kyce.webwave.dev^$all
+||t8zp.cfd^$all
 ||t9-037n.cfd^$all
 ||t9.n9g.cc^$all
 ||t9q.3h3k.sbs^$all
@@ -61266,6 +61301,7 @@
 ||tsi.mycaash.site^$all
 ||tsk.11pd1gitpulse.site^$all
 ||tsk.taxility.com^$all
+||tskk.11pdigithub.site^$all
 ||tsl-coin.world^$all
 ||tsl.coddes.top^$all
 ||tsla.esc4pe.cyou^$all
@@ -61504,6 +61540,7 @@
 ||twitch2cs.com^$all
 ||twitch-games.plus^$all
 ||twitch-loot.ru^$all
+||twitch-pgl.tv^$all
 ||twitch-roll.com^$all
 ||twitch-vbucks.com^$all
 ||twitch.getseasy.com^$all
