@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 19 Mar 2024, 17:20 UTC+01:00
-! Version: 2024.3.19.2
+! Last modified: Tue, 19 Mar 2024, 21:17 UTC+01:00
+! Version: 2024.3.19.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2401,6 +2401,7 @@
 /tds/ae?tds_campaign=$doc
 |http*://*/fb-login/$doc,domain=~facebook.com
 |http*://*/ym.html?email=*@$doc,domain=~to-moze-byc-phishing.*
+||0-2lyb.sbs^$all
 ||0-6n10.sbs^$all
 ||0-avn0.sbs^$all
 ||0-finanzierung.com^$all
@@ -2617,6 +2618,7 @@
 ||1ac80679b3dfafe94f1a4497e477215c.ntfws.pl^$all
 ||1ae8550f550482.lhr.life^$all
 ||1agic1go.life^$all
+||1ap.qufm.top^$all
 ||1arketng1u.site^$all
 ||1as11raft.site^$all
 ||1astroj0urne11y.info^$all
@@ -2661,6 +2663,7 @@
 ||01etvf.cc^$all
 ||01evb.cc^$all
 ||1exper1s1.site^$all
+||1f1d285d1f26a5158f9a77a837dd7955.rtosa.pl^$all
 ||1f22fbbedb3.bakerstreet.uk.com^$all
 ||1f34e.smilemobile.pt^$all
 ||1f58e9a0908a03f9717ab0338a35d33d.lsopas.pl^$all
@@ -3121,6 +3124,7 @@
 ||4a8.9ho8.lat^$all
 ||4a53acd6.kortfilmfestivalen.no^$all
 ||4acb17f261a6163393d5c95949efd909.puoli.pl^$all
+||4aced15939e6831d6d709b97232e32c7.arutis.pl^$all
 ||4ad6.com^$all
 ||4afe8b11a52839751.temporary.link^$all
 ||4apylowin1.space^$all
@@ -3274,6 +3278,7 @@
 ||5.store-438.pw^$all
 ||5a07a9e9be8ed7fcb4955eead0927bb3.diskxz.pl^$all
 ||5a30c405d1e2aafe99a133bdcc336cb0.mitfvp.pl^$all
+||5a512c1c1da223b15d1f807d09318e66.arutis.pl^$all
 ||5a881de1.kortfilmfestivalen.no^$all
 ||5aa8a76983e35fa5ffe2aef74d3c9a2b.urils.pl^$all
 ||5ac238e5fbe9a44f45f618faed5551b0.virosp.pl^$all
@@ -3285,6 +3290,7 @@
 ||5bml.cfd^$all
 ||5boy.mynashvillestudio.com^$all
 ||5brightonline.life^$all
+||5bt.ruui.lat^$all
 ||5buddies.com^$all
 ||5c0hem7htx.ekomar.com.pl^$all
 ||5c2aed9064880d54f42f5fd579e07186.iorps.pl^$all
@@ -3641,6 +3647,7 @@
 ||8nc.ner9.top^$all
 ||8ni.dhalix.net^$all
 ||08nvat0rs.quest^$all
+||8o1.qufm.top^$all
 ||8pex00rb0r.site^$all
 ||8plm.cfd^$all
 ||8q.poland-invest.fun^$all
@@ -4136,6 +4143,7 @@
 ||56-uw9.cfd^$all
 ||56degrees.net^$all
 ||57a197f7c906cc901cd201aa0646b6f8.vistvx.pl^$all
+||57bcdb22356f2d69d69b74440c4f49fa.arutis.pl^$all
 ||57dbd7d9917.chefs-kitchen.co.uk^$all
 ||57e7b07da0cecdd55b46f29669bea503.diskxz.pl^$all
 ||57eb0805789.bakerstreet.uk.com^$all
@@ -4166,6 +4174,7 @@
 ||64bcf4da794811902a280a7c33f48a71.lisagos.pl^$all
 ||64bf9d14d4e9e.site123.me^$all
 ||64bfa1c494cb9.site123.me^$all
+||64cda46ec2e5ef35579be5c0871a3b40.rtosa.pl^$all
 ||64fd2.cc^$all
 ||64hdmovie.com^$all
 ||64o7.cfd^$all
@@ -4234,6 +4243,7 @@
 ||79.0ij.cc^$all
 ||79clubparis.com^$all
 ||80.affiliatetycoon.org^$all
+||80d07f4380c103603765d1fe9795ae4a.rtosa.pl^$all
 ||80d.mse7.top^$all
 ||80da232c444aedac5447a2d761a6aab2.danielbrunon.pl^$all
 ||80i.9iyq.icu^$all
@@ -4284,6 +4294,7 @@
 ||87wodp.marylandhomerates.com^$all
 ||88.store-238.pw^$all
 ||88.store-338.pw^$all
+||88a901d34262729f943b4b4fe94afa7f.arutis.pl^$all
 ||88artstreet.com^$all
 ||88betalo.com^$all
 ||88g.xp2m.cfd^$all
@@ -4509,6 +4520,7 @@
 ||470e4de926e119f2bc895d1fc88527e7.noktsa.pl^$all
 ||482earlychildhoodcareersaustralia.com^$all
 ||482earlyhighchildhoodjobsaustralia.com^$all
+||484c85b760494a193ce88105fb8f0ae8.arutis.pl^$all
 ||495.di9.one^$all
 ||500-intal.com^$all
 ||500-plus.you24.eu^$all
@@ -4547,6 +4559,7 @@
 ||595labs.com^$all
 ||596.di9.one^$all
 ||601fb.luckglimpse.monster^$all
+||603b414c91e5ce2dd5c5486b2b6ecd89.arutis.pl^$all
 ||0605nitixee3.pro^$all
 ||612ddfa235c.chefs-kitchen.co.uk^$all
 ||612f6a2c94f6dab1fe30369c76532d54.nitxl.pl^$all
@@ -4566,6 +4579,7 @@
 ||702d23bd521800.plwwwnet.pl^$all
 ||702f6907f80c7acdd343c9725f5b4532.diskxz.pl^$all
 ||709.fhgv76.cc^$all
+||709d90040febdada82ee44241766212a.arutis.pl^$all
 ||712ggr.com^$all
 ||714e0148002eb3afc42de72a94e1c407.iorps.pl^$all
 ||721c629d11f271e830419faa32311471.tlfos.pl^$all
@@ -4664,6 +4678,7 @@
 ||1800p.com^$all
 ||1805kicyvuy1.pro^$all
 ||1835f4092f4a61c213d26b9a0459e760.diskxz.pl^$all
+||1864f3d0ea307ab6b3927376046a55cb.arutis.pl^$all
 ||1909cyzocouxagikui6.pro^$all
 ||1930b4bb.ghmsolutions.com.br^$all
 ||2005dehefay6.pro^$all
@@ -4746,6 +4761,7 @@
 ||4971e064.bcdashboards.com.br^$all
 ||5092b5079fdccf7f7ffd4fc0e884b48f.urils.pl^$all
 ||5127f1c9.kortfilmfestivalen.no^$all
+||5260f996c2e069c4b3bf60eefcb6669d.rtosa.pl^$all
 ||5333chan.com^$all
 ||5445.goprogramia.top^$all
 ||5464.mix-legl.top^$all
@@ -4917,6 +4933,7 @@
 ||464775.info^$all
 ||477494potwierdz.soulcar.pl^$all
 ||497397.com^$all
+||499975b8a2341bf99450f33721db84b6.rtosa.pl^$all
 ||508000a.com^$all
 ||530908.selcdn.ru^$all
 ||534600.xyz^$all
@@ -5018,6 +5035,7 @@
 ||4765656.xyz^$all
 ||4824827f7c3.bakerstreet.uk.com^$all
 ||4845721.sbs^$all
+||5297483fbdcc37b162b28c097fb7db11.arutis.pl^$all
 ||5342109.xyz^$all
 ||5342312.xyz^$all
 ||5342909.xyz^$all
@@ -6419,6 +6437,7 @@
 ||ai-am.eu^$all
 ||ai-investments.org^$all
 ||ai-law-complete-1319072254.cos.ap-singapore.myqcloud.com^$all
+||ai-quantum-news.com^$all
 ||ai-sheet.com^$all
 ||ai.2do-peaceful.xyz^$all
 ||ai.7hr1ll.xyz^$all
@@ -7421,6 +7440,7 @@
 ||allegrolokalnie.p9f01kda931lf2ac.pl^$all
 ||allegrolokalnie.p46fd1anj42.pl^$all
 ||allegrolokalnie.payu24h.pl^$all
+||allegrolokalnie.payu-online56251.pl^$all
 ||allegrolokalnie.pl24452oferta.pl^$all
 ||allegrolokalnie.pl243323oferta.pl^$all
 ||allegrolokalnie.pl244533oferta.pl^$all
@@ -10270,6 +10290,7 @@
 ||b8bb4ff5.kortfilmfestivalen.no^$all
 ||b8e5372c835694f68964788-goonlinebnpparibas.pl-pl.es^$all
 ||b9.vertysbos.top^$all
+||b09b3aa7bd5506b296e35acb4d6c3a6e.arutis.pl^$all
 ||b9b7916e68c92fca8dc8b3c5f3907064.urszulaprzymuszala.net.pl^$all
 ||b9d04537b314c0915134b2d59891378b.prlsa.pl^$all
 ||b9f24b2b0e6.johncornell.com^$all
@@ -12036,6 +12057,7 @@
 ||bf2.boats^$all
 ||bf11ea4bf8c.chefs-kitchen.co.uk^$all
 ||bf13movie.com^$all
+||bf23f945a05542f371a44efb75ba906c.arutis.pl^$all
 ||bf27f7677cff102b1d48046350370949.puoli.pl^$all
 ||bf644ee2.estl3ing1if3.pages.dev^$all
 ||bf72677da9a.bakerstreet.uk.com^$all
@@ -14666,6 +14688,7 @@
 ||bytredeh.xyz^$all
 ||byyas.papiashvili.top^$all
 ||bzg-bmdparigas.com^$all
+||bzj.ruui.lat^$all
 ||bzmm.byseniscon.top^$all
 ||bzt.allsslpl.pl^$all
 ||bzvgt.mmtsa.top^$all
@@ -15622,6 +15645,7 @@
 ||cdfstrategies.com^$all
 ||cdhd.jasewr.site^$all
 ||cdhhub.xyz^$all
+||cdm.qufm.top^$all
 ||cdn.divantheme.ir^$all
 ||cdn.fxcloneapp.xyz^$all
 ||cdn.prosystem.site^$all
@@ -16615,6 +16639,7 @@
 ||class-vocal.netlify.app^$all
 ||classat.net^$all
 ||classiccanadianwedding.com^$all
+||classiccin3ma.site^$all
 ||classiccoutureco.com^$all
 ||classicnavigator.com^$all
 ||classicodyssey.org^$all
@@ -18839,6 +18864,7 @@
 ||d0nk-rolls.com^$all
 ||d0u.acf1.cfd^$all
 ||d1.doorcat.quest^$all
+||d1e79bb0e16ffab45f554a2009f5b831.arutis.pl^$all
 ||d1g1l1nx.click^$all
 ||d1g1l1nx.sbs^$all
 ||d1g1m1nd.sbs^$all
@@ -18869,6 +18895,7 @@
 ||d3ijbtnotqhjpenvile34pfm.craftprofessionales.com^$all
 ||d3ix9yg89ky1c5.cloudfront.net^$all
 ||d3o92sis0yji3x.cloudfront.net^$all
+||d3velop3xcell3nce.site^$all
 ||d3vttyffutur3.site^$all
 ||d4-vbm.cfd^$all
 ||d4.ivnckxzncsalknm.com^$all
@@ -19472,6 +19499,7 @@
 ||dbzbwpin45yzaprezvut6i5gjy--online-mbank-pl.translate.goog^$all
 ||dc3fe9e673ab9a55cc530f6fe43ce9b0.puoli.pl^$all
 ||dc9k.com^$all
+||dc38aac5e3c8c6d25e2fc629cad307b9.arutis.pl^$all
 ||dc07460091c4937333c7bad878abaaf8.natoplx.pl^$all
 ||dc-9a8556277b56.oirkonveksi.com^$all
 ||dc-garage.com^$all
@@ -20845,6 +20873,7 @@
 ||dlu.quest^$all
 ||dlugopiskto.boats^$all
 ||dluminosity.com^$all
+||dlwealthsgrow.top^$all
 ||dlwebnexus.top^$all
 ||dlx.stormx.top^$all
 ||dly.cua.mybluehost.me^$all
@@ -22347,6 +22376,7 @@
 ||ebaykeywordsniperpro.com^$all
 ||ebaynet.com^$all
 ||ebayreallysucks.com^$all
+||ebb3aebff15ff98fa20367d96170dd0f.arutis.pl^$all
 ||ebd8f2cac18.johncornell.com^$all
 ||ebd-cda.pl^$all
 ||ebeerleague.com^$all
@@ -24441,6 +24471,7 @@
 ||f9k.4vja.sbs^$all
 ||f14b5469ae627b87c00a224-goonlinebnpparibas.pl-pl.es^$all
 ||f14e118adb8.chefs-kitchen.co.uk^$all
+||f18d57c8fdd0457315b7f711f6ad2f2a.arutis.pl^$all
 ||f22.9a6e.icu^$all
 ||f24.despachodeabogadosmcr.com^$all
 ||f32.despachodeabogadosmcr.com^$all
@@ -25174,6 +25205,7 @@
 ||fd-pge.web.app^$all
 ||fd.pro1wrld.top^$all
 ||fd.propl.top^$all
+||fdc97ae658e30dd51296cd963040c056.arutis.pl^$all
 ||fdcomm.org.news26.org^$all
 ||fdcomm.org^$all
 ||fdcuk.net^$all
@@ -29617,6 +29649,7 @@
 ||gwittchen.top^$all
 ||gwnewyork.com^$all
 ||gwotelf.site^$all
+||gwr.qufm.top^$all
 ||gwwarantowanydochod.site^$all
 ||gwx-11054-ybk.web.app^$all
 ||gwz.asmucol.com^$all
@@ -31472,6 +31505,7 @@
 ||i5jo.me^$all
 ||i5y.fvq0.one^$all
 ||i6c.u5me.sbs^$all
+||i6l.qufm.top^$all
 ||i6nk.cfd^$all
 ||i7j.x5p1.sbs^$all
 ||i7ko6bz.cn^$all
@@ -33309,6 +33343,7 @@
 ||inpost-pl.skizeua.pics^$all
 ||inpost-pl.slide.ink^$all
 ||inpost-pl.slotgembira.top^$all
+||inpost-pl.spolik.pics^$all
 ||inpost-pl.stchaa.lol^$all
 ||inpost-pl.stolar.site^$all
 ||inpost-pl.system-pay2344.ml^$all
@@ -33673,6 +33708,7 @@
 ||inpostplsl.top^$all
 ||inpostpo.top^$all
 ||inpostpo.vip^$all
+||inpostpogo.skin^$all
 ||inpostpol.bond^$all
 ||inpostpol.vip^$all
 ||inpostpole.top^$all
@@ -36963,6 +36999,7 @@
 ||kosiarka-wozniak.pl^$all
 ||kosiarka-zielinski.pl^$all
 ||kosiarki-gielda.pl^$all
+||kosiarki-gorski.pl^$all
 ||kosiarki-kowalski.pl^$all
 ||kosiarki-kozlowski.pl^$all
 ||kosiarki-krakow.pl^$all
@@ -40922,6 +40959,7 @@
 ||megasse.info^$all
 ||megatechinfo.digital^$all
 ||megatechno.digital^$all
+||megatraffic.cc^$all
 ||megavideos.online^$all
 ||megavideoshd.xyz^$all
 ||meggachn.com^$all
@@ -41757,6 +41795,7 @@
 ||mkknbih.s3.us-west-004.backblazeb2.com^$all
 ||mkkolerosoft.com^$all
 ||mkm3x2kbbwrzcqhkrucm5oozallcy-ipfs-dweb-link.translate.goog^$all
+||mkt.ruui.lat^$all
 ||mkto-b0067.com^$all
 ||mktrades.xyz^$all
 ||mkw.mix-legl.top^$all
@@ -42002,12 +42041,14 @@
 ||mokarelgeri.shop^$all
 ||mokarelgt.shop^$all
 ||mokarelgtir.shop^$all
+||mokarelgw.shop^$all
 ||mokarelgy.shop^$all
 ||mokarelgz.shop^$all
 ||mokarelik.online^$all
 ||mokarelikl.shop^$all
 ||mokarelki.shop^$all
 ||mokarelkt.shop^$all
+||mokarellehl.shop^$all
 ||mokarelli.site^$all
 ||mokarelli.store^$all
 ||mokarellt.shop^$all
@@ -43054,6 +43095,7 @@
 ||n-eregod.cfd^$all
 ||n-et.frserv.com^$all
 ||n-mobile.net^$all
+||n-y1d5.sbs^$all
 ||n.buuda.xyz^$all
 ||n.gazowamedia.com^$all
 ||n.tradx.top^$all
@@ -45336,6 +45378,7 @@
 ||o48394.pl^$all
 ||o98420.pl^$all
 ||o2177305.shop^$all
+||o-auj2.sbs^$all
 ||o-llx.2347272.xyz^$all
 ||o-llx.2347275.xyz^$all
 ||o-lx.02846289.xyz^$all
@@ -47956,6 +47999,7 @@
 ||paysera-com-v2-eservices2023psd592160.codeanyapp.com^$all
 ||paysera-support-taseneh779753577.codeanyapp.com^$all
 ||payu24h.pl^$all
+||payu-online56251.pl^$all
 ||payu-zamowienie24129.pl^$all
 ||payu-zamowienie99120.pl^$all
 ||payu.saleseekerpro.com^$all
@@ -47998,6 +48042,7 @@
 ||pcvpxakgvb.sa.com^$all
 ||pcx.sunnova-solar.com^$all
 ||pcz-technology.weebly.com^$all
+||pd0.ruui.lat^$all
 ||pd2.boats^$all
 ||pd-04kf.cfd^$all
 ||pd.ebutudan.com^$all
@@ -48442,6 +48487,7 @@
 ||pgstartjoin.online^$all
 ||pgt.fnw0.cfd^$all
 ||pgttopone.com^$all
+||pgx.qufm.top^$all
 ||ph6.8w2m.icu^$all
 ||ph.ebutudan.com^$all
 ||ph.expobarrio.com^$all
@@ -55343,6 +55389,7 @@
 ||sajidcopyskill.com^$all
 ||sajisaidea.info^$all
 ||sakadigital.com^$all
+||sakair.info^$all
 ||sakanaxrosegold.com^$all
 ||sakaryaweb.com^$all
 ||sakatega.site^$all
@@ -59407,12 +59454,14 @@
 ||t3rr.com^$all
 ||t03uyr.web.app^$all
 ||t3zr.com^$all
+||t4-864.sbs^$all
 ||t4f.top^$all
 ||t4lgevybpj.piotrkaminski.warszawa.pl^$all
 ||t5-9.cfd^$all
 ||t5lm.cfd^$all
 ||t6hr9.icu^$all
 ||t6kyce.webwave.dev^$all
+||t7h.qufm.top^$all
 ||t8zp.cfd^$all
 ||t9-037n.cfd^$all
 ||t9.n9g.cc^$all
@@ -61675,6 +61724,7 @@
 ||transcendent-queijadas-e99992.netlify.app^$all
 ||transdreamsbay.shop^$all
 ||transfer.kaj-studio.com^$all
+||transferbit.club^$all
 ||transferludnosci.click^$all
 ||transferwinddeluxe.com^$all
 ||transferwindhome.com^$all
@@ -62340,6 +62390,7 @@
 ||twitchloot.ru^$all
 ||twitchs-cs2.com^$all
 ||twitchs-tv.com^$all
+||twitclh.tv^$all
 ||twitcn-valorant.com^$all
 ||twitglop.xyz^$all
 ||twittple.com^$all
@@ -62513,6 +62564,7 @@
 ||u1rbanv2nture.site^$all
 ||u2squared.com^$all
 ||u3fw0.shop^$all
+||u3i.ruui.lat^$all
 ||u4lx.com^$all
 ||u4n.yms5.sbs^$all
 ||u5y.s2y0.cfd^$all
@@ -63455,6 +63507,7 @@
 ||uujwuqoskowsk.site^$all
 ||uuouu.multi-info.site^$all
 ||uusdblopl.site^$all
+||uux.qufm.top^$all
 ||uuytvvcfd.weebly.com^$all
 ||uuz.laqwer.online^$all
 ||uvenlyq.sbs^$all
@@ -63521,6 +63574,7 @@
 ||uzaxo.ritual-construction-kit.com^$all
 ||uzbacons.com^$all
 ||uzbekistanes-reales.site^$all
+||uzd.ruui.lat^$all
 ||uzesg.org^$all
 ||uzialik.s3.us-west-004.backblazeb2.com^$all
 ||uziv.utulo.site^$all
@@ -64681,6 +64735,7 @@
 ||vpxyyrbvjjxu.ml^$all
 ||vqemsly.sbs^$all
 ||vqfb.pomodor.top^$all
+||vr9.ruui.lat^$all
 ||vr-prod.web.app^$all
 ||vrag.byseniscon.top^$all
 ||vraptoola.gb.net^$all
@@ -64857,6 +64912,7 @@
 ||w13qe4c0mpnk6dkv2g15ve82.traveloptione.com^$all
 ||w19t9rvki81os6cvihbdn9cu.furnituremagical.com^$all
 ||w22c40e5k7ana6gt2vqctip6.gardenspar.com^$all
+||w27rfetk4km8opvvi9v54obm.sportsconceptss.com^$all
 ||w40dff99ee7gg0mv2j6dkj1e.traveloust.com^$all
 ||w43vkinthiddpdkvif9uja8s.traveloptione.com^$all
 ||w44.p34u.icu^$all
@@ -67561,6 +67617,7 @@
 ||yzx.jacobdamian.com.pl^$all
 ||z0eph.caluh.net^$all
 ||z0iwu0.web.app^$all
+||z0v.ruui.lat^$all
 ||z0wf8.cc^$all
 ||z1e.w36r.one^$all
 ||z1q6.cfd^$all
