@@ -4,7 +4,7 @@
 [![Issues o](https://img.shields.io/github/issues/FiltersHeroes/KAD.svg?colorB=23b69a)](https://github.com/FiltersHeroes/KAD/issues)
 [![repo size](https://img.shields.io/github/repo-size/FiltersHeroes/KAD?colorB=23b69a)](https://github.com/FiltersHeroes/KAD)
 
-Filtry do uBlocka Origin i AdGuarda, chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez [CERT Polska](https://www.cert.pl/news/single/ostrzezenia_phishing/), [legalniewsieci.pl](https://www.legalniewsieci.pl/aktualnosci/podejrzane-sklepy-internetowe), [KNF](https://www.knf.gov.pl/dla_konsumenta/ostrzezenia_publiczne) i inne zespoły.
+Filtry do uBlocka Origin i AdGuarda, chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez [CERT Polska](https://cert.pl/lista-ostrzezen/), [legalniewsieci.pl](https://www.legalniewsieci.pl/aktualnosci/podejrzane-sklepy-internetowe), [KNF](https://www.knf.gov.pl/dla_konsumenta/ostrzezenia_publiczne) i inne zespoły.
 
 Możesz zasubskrybować listę na https://kadantiscam.netlify.app lub klikając [Subskrybuj][KAD - Przekręty Subscribe].
 
