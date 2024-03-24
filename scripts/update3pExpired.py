@@ -30,7 +30,7 @@ tp = sys.argv[1]
 tp_path = "./" + tp + ".txt"
 
 if tp == "CERT":
-    download(tp_path, "https://hole.cert.pl/domains/domains.txt")
+    download(tp_path, "https://hole.cert.pl/domains/v2/domains.txt")
 elif tp == "LWS":
     import findSuspiciousDomains_LWS as findLWS
     with open(tp_path, "w", encoding='utf-8') as tp_f:
@@ -74,7 +74,7 @@ os.remove(tp_path)
 # Remove domains removed from CERT and sort and remove duplicates
 removedDomains = {}
 if tp == "CERT":
-    download(pj(temp_path, "domains.json"), "https://hole.cert.pl/domains/domains.json")
+    download(pj(temp_path, "domains.json"), "https://hole.cert.pl/domains/v2/domains.json")
     with open(pj(temp_path, "domains.json"), "r", encoding='utf-8') as domains_json:
         strings = json.load(domains_json)
 
