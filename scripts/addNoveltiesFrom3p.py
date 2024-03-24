@@ -34,7 +34,7 @@ download(KADomains_path,
 
 
 if tp == "CERT":
-    download(tp_path, "https://hole.cert.pl/domains/domains.txt")
+    download(tp_path, "https://hole.cert.pl/domains/v2/domains.txt")
 elif tp == "LWS":
     import findSuspiciousDomains_LWS as findLWS
     with open(tp_path, "w", encoding='utf-8') as tp_f:
