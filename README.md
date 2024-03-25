@@ -12,7 +12,7 @@ Możesz zasubskrybować listę na https://kadantiscam.netlify.app lub klikając 
 [KADfake Subscribe]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KADfake.txt&title=KADfake%20-%20Kontrowersje
 
 # Pomóż z oczyszczaniem polskiego Internetu!
-Jeśli chcesz się przyczynić do ulepszania listy, zgłaszaj strony w sekcji Issues na GitHubie lub na https://kadantiscam.netlify.app/#contact.
+Jeśli chcesz się przyczynić do ulepszania listy, zgłaszaj strony w sekcji Issues na GitHubie lub na https://kadantiscam.netlify.app/contact.
 
 # Informacje dodatkowe
 Pomimo że zasubskrybowanie KAD wraz z innymi filtrami ochronnymi tworzy świetną całość, **nie oznacza to w żaden sposób 100% ochrony**, ponieważ taka nie istnieje. Pamiętaj, aby zachować zdrowy rozsądek podczas przeglądania sieci - czytaj regulaminy podejrzanych stron, szczególnie tych, które oferują coś *„za darmo”*.
