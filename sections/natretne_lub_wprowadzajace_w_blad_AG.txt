@@ -1,0 +1,1 @@
+[$path=/\\/\[a-zA-Z0-9-\]{1\,99}\,program\,/]www.dobreprogramy.pl#?#article#main-content > div[class] > div[class]:has(> div[class] > div > div[class] > a[class][href*="niepotrzebne-pliki"][href*=","]:has-text(naszego poradnika)) > div:nth-child(-n+2):has([class]:contains(/[Aa]systenta|poradnika/)) 

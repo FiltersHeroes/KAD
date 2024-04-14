@@ -1,7 +1,6 @@
 !instalki.pl##option[value$="dm=1"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
-[$path=/\\/\[a-zA-Z0-9-\]{1\,99}\,program\,/]www.dobreprogramy.pl#?#article#main-content > div[class] > div[class]:has(> div[class] > div > div[class] > a[class][href*="niepotrzebne-pliki"][href*=","]:has-text(naszego poradnika)) > div:nth-child(-n+2):has([class]:contains(/[Aa]systenta|poradnika/))
 |http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https.*
 ||ceskvabal.xyz^$important,xhr
 ||digitogy.eu^$all

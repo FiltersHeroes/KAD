@@ -35,6 +35,9 @@
 !
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
 @include natretne_lub_wprowadzajace_w_blad
+!#if !ext_ublock
+@include natretne_lub_wprowadzajace_w_blad_AG
+!#endif
 !
 !
 ! Reguły specjalne
