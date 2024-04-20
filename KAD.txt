@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 19 Apr 2024, 22:16 UTC+02:00
-! Version: 2024.4.19.3
+! Last modified: Sat, 20 Apr 2024, 10:18 UTC+02:00
+! Version: 2024.4.20.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2286,6 +2286,7 @@
 ||0ad4a42868fc920e69787853d2a02df3.dirks.pl^$all
 ||0ae2.info^$all
 ||0ae1623f59517f6a8fa7e9368f7a19ed.mirosla.pl^$all
+||0af128083c212f9f9e94d6f066cdb2b7.wurp.pl^$all
 ||0ai4.biz.id^$all
 ||0b7fe10b70ae49ccaa0d8fa325e82f62.pltvs.pl^$all
 ||0b208e08.kortfilmfestivalen.no^$all
@@ -2408,7 +2409,10 @@
 ||1di1mar1.site^$all
 ||1e0f066fb226f3f553c9fcf3aeae2627.accgro.pl^$all
 ||1e668d17.kortfilmfestivalen.no^$all
+||1e5558571c32cf010f766ed01caca73f.wurp.pl^$all
 ||1ea1ynam0.site^$all
+||1ea2ab325f0ec882fe8eb5b5e813ecaa.wurp.pl^$all
+||1ea35c86e428f3175559bb1d0e7b94a5.wurp.pl^$all
 ||1eam11nergy.site^$all
 ||1ech6pire.xyz^$all
 ||1echsup1rtno1.site^$all
@@ -2507,10 +2511,12 @@
 ||2.curiocacophonycrafts.com^$all
 ||2.stormo.site^$all
 ||2.xpowwerful.top^$all
+||2a5988c0ae490f814d149940be100217.wurp.pl^$all
 ||2aae4918f76d93df1ef146252c8aa0cd.miwr.pl^$all
 ||2af0537c6dadaa0f5df869d356554162.marsiw.pl^$all
 ||2atbohx.monster^$all
 ||2aviga2innac1e.site^$all
+||2bb232b32911d673afad122d86565de0.wurp.pl^$all
 ||2bodyboom2.sbs^$all
 ||2boy.cfd^$all
 ||2ca23e19863197f83a1b9968aa73c363.wlsa.pl^$all
@@ -2530,6 +2536,7 @@
 ||2e1aa3f28ae1becc8dfb65707a431376.mskw.pl^$all
 ||2e2dce9d.ghmsolutions.com.br^$all
 ||2e7c923f.cftvpinheiro.com.br^$all
+||2e85d8dc7c6ee5c854e413f4bf589356.wurp.pl^$all
 ||2ee31ee00c92eb53e738b7a5e2b1b514.puoli.pl^$all
 ||2ef59167.kortfilmfestivalen.no^$all
 ||02efr.cc^$all
@@ -2594,18 +2601,21 @@
 ||3akng1s.marylandhomerates.com^$all
 ||3and.cfd^$all
 ||3arlgr3yhea.sbs^$all
+||3b5a26238a76a8649cf03412aead76fb.wurp.pl^$all
 ||3b80b3ac.kortfilmfestivalen.no^$all
 ||3b30825fe104bd8b4bbb44ae1839c45a.voltss.pl^$all
 ||3bfab0d6f7ea79f3644bff8d73ade0b4.wlsa.pl^$all
 ||3c0a33533af62a27b376ee72f3a31ecd.dioprl.pl^$all
 ||3c1l.cfd^$all
 ||3c386af1.coletivohojeapassarinho.com.br^$all
+||3c6264b596611c41a8f94aa7db7974d1.wurp.pl^$all
 ||3c28165f9a0ac6919840394dff022b3b.miwr.pl^$all
 ||3cmp.cfd^$all
 ||3curespublika.com^$all
 ||3d7babce.cftvpinheiro.com.br^$all
 ||3d54fcdb.kortfilmfestivalen.no^$all
 ||3d3508db.kortfilmfestivalen.no^$all
+||3d5054f8e434e0c438f149a0aab4ed1b.wurp.pl^$all
 ||3dc1ef62.kortfilmfestivalen.no^$all
 ||3dd8f66000766bb766f4506b835f561d.urszulaprzymuszala.net.pl^$all
 ||3de0df65ef590201fb79fd4e140b3706.mirosla.pl^$all
@@ -2616,12 +2626,15 @@
 ||3dwalldecore.com^$all
 ||3e1dd4f54db37f2bb00086ceb7afac24.neplisx.pl^$all
 ||3e74cabda1bb5d2cb97fec69d07ede66.miwr.pl^$all
+||3e8389b473379e8bfd8094c87977d360.wurp.pl^$all
 ||3e3147286d40079395c777b6f0b8863f.polks.pl^$all
 ||3ec7e834c91b3b5e117ffb1f88dfb5dc.sitol.pl^$all
 ||3ef3f1376d70f8ad244dc95436f3715d.jagodabaran.pl^$all
 ||3egp.pw^$all
 ||3ewel6ech77ulse.xyz^$all
 ||3exu8arbor.site^$all
+||3f4dabc449e90d40a1a6c51c9a94d2a3.wurp.pl^$all
+||3f95471975c25b1ef6cdd64bf6de0728.wurp.pl^$all
 ||3f-2cr.cfd^$all
 ||3fa03d2de59d2974cd6cc210d18744a5.vistvx.pl^$all
 ||3fazowa-ostrzalka-do-nozy-pl.com^$all
@@ -2686,6 +2699,7 @@
 ||4azt.cfd^$all
 ||4b02e877474b2aac72cbe096c3797abf.nitxl.pl^$all
 ||4b4yldiin.com^$all
+||4b5d2e85985171c4802faff48b920b12.wurp.pl^$all
 ||4belua.com^$all
 ||4bizsms.com^$all
 ||4byg.cfd^$all
@@ -2693,8 +2707,10 @@
 ||4c44cddb822ef67d3bc9d43c21c37440.mskw.pl^$all
 ||4c4481ce.kortfilmfestivalen.no^$all
 ||4cadde268849f31ead5281e2222a9b36.puoli.pl^$all
+||4cd355d284d90b96fa21ba1a3e37201a.wurp.pl^$all
 ||4coolx2z.life^$all
 ||4cpto1uest.info^$all
+||4d0a2de8ffe7dbe927ed63dd60c787eb.wurp.pl^$all
 ||4devteams.com^$all
 ||4dgi-3t.cfd^$all
 ||4dust1y.xyz^$all
@@ -2796,6 +2812,7 @@
 ||5ak.4o29.lat^$all
 ||5am33r5entra1.live^$all
 ||05b2da0da68cdf14872b508dbf1b6a35.vistvx.pl^$all
+||5b9ad30b3674b1b1e63fdcb024936c12.wurp.pl^$all
 ||5b56cfa39f92780d89cc42d54db7ddf4.puoli.pl^$all
 ||5bml.cfd^$all
 ||5brightonline.life^$all
@@ -2806,13 +2823,17 @@
 ||5c751bbe.kortfilmfestivalen.no^$all
 ||5chkylbdt0.shop^$all
 ||5clec7yourch.quest^$all
+||05d0f2a1d1b250055f0edbd59f077b65.wurp.pl^$all
 ||5d6b1d30.kortfilmfestivalen.no^$all
 ||5d67e22516c4891ecb8620c841a3a2a2.miwr.pl^$all
+||5dae3030117263494ec26b50cae05814.wurp.pl^$all
 ||5dd35899b0b7af190cbfe2dc7f0aec03.dioprl.pl^$all
 ||5e-qixi.pro^$all
+||5ef8e818e3a6b042ce82fe692e1a759b.wurp.pl^$all
 ||5em5oyage5et.xyz^$all
 ||5erws.cc^$all
 ||5eye5olutions.quest^$all
+||5f6b793aaaf0ab23302ec8ac6d8ec077.wurp.pl^$all
 ||05f6e9e3a6f4d71363e14fdf6ea2ac14.btntls.pl^$all
 ||05fc76fef8bf1710e686a53c94f61f5e.natoplx.pl^$all
 ||5ffefaaf.kortfilmfestivalen.no^$all
@@ -2844,12 +2865,15 @@
 ||6antu5ead1rs.site^$all
 ||6arb.cfd^$all
 ||6armon6n00atu0.site^$all
+||6b5fe182235dbf62222138e72719d1fd.wurp.pl^$all
 ||6b8d644d.kortfilmfestivalen.no^$all
 ||6bda826d.kortfilmfestivalen.no^$all
 ||6bdh.cfd^$all
 ||6brant11fe11ven.life^$all
 ||6c6ce3bc6c8462e488c330c6956d2f16.mskw.pl^$all
 ||6c7e824116678a0dee7d9f60be7df1d4.nitwos.pl^$all
+||6ced7b168cbbcdbe810a1056dc97730b.wurp.pl^$all
+||6cf033ef186542d02aa720f8b35c0f86.wurp.pl^$all
 ||6d89c8775ff296f9058f9c06116ffecf.vistvx.pl^$all
 ||6d734ecd6ebdea52eead1c9803697066.liamartem.pl^$all
 ||6dd9887cbe9e86d14fa5f34f10b20c25.nutops.pl^$all
@@ -2983,9 +3007,11 @@
 ||8c69e0335de6141a2dddee6b6bc7184e.wlsa.pl^$all
 ||8c765089ea49228f7da95afb73382ab5.miwr.pl^$all
 ||8cb4n.cfd^$all
+||8ce9f0bf9c7d7e2cf05e8c45af6e2ffb.wurp.pl^$all
 ||08d5.cc^$all
 ||8d9v.cfd^$all
 ||8dc5ad-cloud.webnotifications.net^$all
+||8dce67a069a168d805424e4399c25c53.wurp.pl^$all
 ||8decf342.kortfilmfestivalen.no^$all
 ||8dhsdg.cc^$all
 ||8e8ba448d735564f4253fa0ddd4e5896.shrl.pl^$all
@@ -3028,6 +3054,7 @@
 ||9-gt4g.sbs^$all
 ||9-r7wh.cfd^$all
 ||9a3e853cf5aed69bdc7efef99c9e0766.mskw.pl^$all
+||9a6e7715670b96b37737e1799d5c6963.wurp.pl^$all
 ||9a-pa7.sbs^$all
 ||9aec2a4f68d378dec41ab17de8b49791.jrms.pl^$all
 ||9b9s.cfd^$all
@@ -3167,6 +3194,7 @@
 ||21stcenturyvino.com^$all
 ||21stcircuitry.com^$all
 ||22awsa.com^$all
+||22b81d2fa4d47da6f047dfbdd1dfd55a.wurp.pl^$all
 ||22d8b0d4.kortfilmfestivalen.no^$all
 ||22ech22zards.xyz^$all
 ||22f7b11f.kortfilmfestivalen.no^$all
@@ -3175,6 +3203,7 @@
 ||22wmi.cc^$all
 ||22yner2oss00m.life^$all
 ||23.trdechat.top^$all
+||23ae132e32c93f3ee2f36b9246e53d6b.wurp.pl^$all
 ||23awsa.com^$all
 ||23ik-4.cfd^$all
 ||23luckybirdcasino.com^$all
@@ -3224,6 +3253,7 @@
 ||28b6397eb675f79055dc891c0887ce47.marcoprzy.net.pl^$all
 ||28d22929ae6bfbf04402df4d35e3b423.mskw.pl^$all
 ||28dc069a.sibforms.com^$all
+||29ba2303c23466b9bb0eb2470b16c2a4.wurp.pl^$all
 ||29creativeminds.site^$all
 ||30-fju9.cfd^$all
 ||30-nmc.cfd^$all
@@ -3240,6 +3270,7 @@
 ||33.morriscountypetsupply.com^$all
 ||33addc.one^$all
 ||33bbs.one^$all
+||33e69593afb3057949eea48bc1cbc5b0.wurp.pl^$all
 ||33ff8b6f0b6f156113e18079ec323f95.mirosla.pl^$all
 ||33ledupgrade.com^$all
 ||33p4ce1w4nder3r.site^$all
@@ -3292,7 +3323,9 @@
 ||44-193-72-251.cprapid.com^$all
 ||44-et50.cfd^$all
 ||44-wgu.sbs^$all
+||44c928caca37b68c7cb8bc188e1e3afe.wurp.pl^$all
 ||44easonst1mee.site^$all
+||44ef3809c618fe406c101dea9a749789.wurp.pl^$all
 ||44erf.info^$all
 ||45-gdj.cfd^$all
 ||45.infinitypro.top^$all
@@ -3332,6 +3365,7 @@
 ||52weeksinhouston.com^$all
 ||53.morriscountypetsupply.com^$all
 ||53d06d6dccb797a0e56178f8f311d23f.mirosla.pl^$all
+||53f184158953fcee2da5ceb6bf69815b.wurp.pl^$all
 ||54-fs3sfl.cfd^$all
 ||54cxd.cc^$all
 ||54fcc.cc^$all
@@ -3340,12 +3374,14 @@
 ||54res.cc^$all
 ||55.aeroview.org^$all
 ||55.morriscountypetsupply.com^$all
+||55aadfe78972a3bd8eeab360b7b93328.wurp.pl^$all
 ||55o5ctiv5ader.site^$all
 ||55rh.info^$all
 ||55sion5aft.site^$all
 ||56-sfj.cfd^$all
 ||56-uw9.cfd^$all
 ||56degrees.net^$all
+||56ed2cdc00445c8622fcb97277b8e114.wurp.pl^$all
 ||57a197f7c906cc901cd201aa0646b6f8.vistvx.pl^$all
 ||58-dhs.cfd^$all
 ||58-nf3.cfd^$all
@@ -3360,6 +3396,7 @@
 ||61c65dbbc8ac11b1f122e2fec0f773b4.dioprl.pl^$all
 ||61y4c3hhp4rk.xyz^$all
 ||63-0dh.cfd^$all
+||63b44efddb76da78eacb186a8d9849f2.wurp.pl^$all
 ||63eal2state4ewel5xis.life^$all
 ||63hl-ks.cfd^$all
 ||64bfa1c494cb9.site123.me^$all
@@ -3371,9 +3408,11 @@
 ||65-6jc.cfd^$all
 ||65cf88a1-6d06-4e6e-9163-b053dd3620af-00-1cld82xidz3hc.picard.replit.dev^$all
 ||65d1a34f8f9c511fcd8e6890--tangerine-pithivier-869c93.netlify.app^$all
+||65e7ef722bec733caa898e32cf7cb5c7.wurp.pl^$all
 ||65ebc9621d958.site123.me^$all
 ||65sg-54.cfd^$all
 ||66xecin6hts.site^$all
+||67da306aa3e3bbc17b910745c4683bf5.wurp.pl^$all
 ||67jhh.mosbahkazma.com^$all
 ||68fdx3s.cc^$all
 ||69-5tew.top^$all
@@ -3390,6 +3429,7 @@
 ||71dfae2d08986e11cbd71608b74f8b3b.nitwos.pl^$all
 ||72-7nl.cfd^$all
 ||72e685e807bd86e65e68424aaa52ffd9.wlsa.pl^$all
+||72ef08c4e42f33d954f4dd20cd747c25.wurp.pl^$all
 ||72em4rive0one.xyz^$all
 ||72mk.cfd^$all
 ||73-63ld.cfd^$all
@@ -3405,6 +3445,7 @@
 ||76.digisphere.marketing^$all
 ||76e4667056be6e2eea222106156d7084.miwr.pl^$all
 ||76exl78.xyz^$all
+||77c4e4f7e4747352960fdfa166b25714.wurp.pl^$all
 ||77dbdeca871b748e450d2caeb5b77bf1.vistvx.pl^$all
 ||77finite7hrive.life^$all
 ||77hr1ve71se.site^$all
@@ -3416,7 +3457,9 @@
 ||77squared.com^$all
 ||78b2ccdcb8fbefc46da608b2b4685cec.mskw.pl^$all
 ||78strive.quest^$all
+||79b007962b035ca0ed55af1b7762ab43.wurp.pl^$all
 ||80.affiliatetycoon.org^$all
+||80c7ffbf334f24a6c3f0323e9a2897d0.wurp.pl^$all
 ||80da232c444aedac5447a2d761a6aab2.danielbrunon.pl^$all
 ||80isio8ary0or.site^$all
 ||80q8nder7.site^$all
@@ -3489,6 +3532,7 @@
 ||99-eje.cfd^$all
 ||99bengals.com^$all
 ||99dde25bbbbeb41cf5a53dcccfa422f6.mirosla.pl^$all
+||99e6b90e6182c0fbf862fa0dfc69af6e.wurp.pl^$all
 ||99ly.info^$all
 ||99nagemen77ista.site^$all
 ||99nft.org^$all
@@ -3530,6 +3574,7 @@
 ||150d.com^$all
 ||150poundsocial.com^$all
 ||154c3b75f2700688aa0a63575e4a707d.natoplx.pl^$all
+||0156cb9e2d8e326751a7c023909e2634.wurp.pl^$all
 ||184o.cfd^$all
 ||204kf-gd.homes^$all
 ||204pfsm.cfd^$all
@@ -3610,6 +3655,7 @@
 ||589fdc29.ghmsolutions.com.br^$all
 ||592e262644b5d154e98420859b68e46e.puoli.pl^$all
 ||593-g89.cfd^$all
+||598d28a31e0337e7851bc6bc7a16dfee.wurp.pl^$all
 ||612f6a2c94f6dab1fe30369c76532d54.nitxl.pl^$all
 ||615inspect.com^$all
 ||637ad964271257ca2a8abfb6cb88c324.puoli.pl^$all
@@ -3617,12 +3663,16 @@
 ||647m.cfd^$all
 ||652ab78b243e3e.lhr.life^$all
 ||663a73f134e9572911d782138f36ef40.dirks.pl^$all
+||676df38d2a80700cd4c8c8d95f569977.wurp.pl^$all
 ||694c5b5f736e9de8f753e7cc01826ff5.miwr.pl^$all
+||0705e1714b6e48a5f94a669602b32965.wurp.pl^$all
 ||725e7879108ce3a6f55204bded942dd8.puoli.pl^$all
 ||735a432880a91b7814bd544cc2145255.vistvx.pl^$all
 ||735e114be11dc241644ed0db00f14f23.puoli.pl^$all
 ||0737f349770a181ed3c787c5a222207f.mirosla.pl^$all
 ||743a5f19f1518a83cf657d434e7bcc9b.puoli.pl^$all
+||752f86ce1a152843aea7f120cac51e51.wurp.pl^$all
+||758b891524b95dc88f454916047d8218.wurp.pl^$all
 ||758xps.com^$all
 ||763a1d063f6449d84e08fe1cc20eb446.vistvx.pl^$all
 ||768df2958c8a0cc2a6ea88390cc4a05e.vistvx.pl^$all
@@ -3639,6 +3689,8 @@
 ||856advanceshipnotice.com^$all
 ||860aa2cb82c94fe32f657a765f51678a.notvps.pl^$all
 ||863a768b.kortfilmfestivalen.no^$all
+||863b58f8532706c28a571401414d5d83.wurp.pl^$all
+||867b82e4aa3ba9ed5c760f6315a856cd.wurp.pl^$all
 ||872cdeb384a836493df7cffac0288982.jrms.pl^$all
 ||882edfbc.kortfilmfestivalen.no^$all
 ||888ciao.com^$all
@@ -3657,6 +3709,7 @@
 ||954a8fd5.kortfilmfestivalen.no^$all
 ||956d409893e45af6cbae98a6c1cb7cce.mirosla.pl^$all
 ||977o.de^$all
+||997f5e447570ce1151010cccd6febe58.wurp.pl^$all
 ||999cloud999.xyz^$all
 ||1000yunahistorias.com^$all
 ||1111movement.com^$all
@@ -3670,6 +3723,7 @@
 ||1769e6a16ad126971cf4ce894d0b4191.marcoprzy.net.pl^$all
 ||1858dcc6c076cc7d1628217c06a6cb51.marsiw.pl^$all
 ||1866roofway.com^$all
+||1902ee17b65f4d371480bb2fa0b08dba.wurp.pl^$all
 ||1930b4bb.ghmsolutions.com.br^$all
 ||2019.senselatam.com^$all
 ||2020.senselatam.com^$all
@@ -3710,8 +3764,10 @@
 ||5333chan.com^$all
 ||5445.goprogramia.top^$all
 ||5464.mix-legl.top^$all
+||5542f20ab67db669c96a02a5025145bc.wurp.pl^$all
 ||6165e3f2d50cea948664d8f986a971b5.dioprl.pl^$all
 ||6390b91d436d8d65b572be7747f0f3c3.dioprl.pl^$all
+||6464b774e1a9f40de766bdc848173bef.wurp.pl^$all
 ||6805bb282e390366165a8acb540d3d01.mskw.pl^$all
 ||6848a4fb.kortfilmfestivalen.no^$all
 ||6973cde2.kortfilmfestivalen.no^$all
@@ -3720,12 +3776,14 @@
 ||7220a6565da49de0f484a373c21bebeb.nietx.pl^$all
 ||7228.eu^$all
 ||7651e962acd9bf5966d84e5e3f11bac5.puoli.pl^$all
+||7698a423600c21f3a32b79b5e7640269.wurp.pl^$all
 ||8418aca27de3ad531cda2df1212d8f05.suxz.pl^$all
 ||8454f.info^$all
 ||008567.hubside.fr^$all
 ||8585dds.cc^$all
 ||8661d2c8.kortfilmfestivalen.no^$all
 ||8744.pl^$all
+||8806c82c8b24f920fa02235ad729a8e0.wurp.pl^$all
 ||8819b93f321c76e13daf02d242b0eabc.miwr.pl^$all
 ||8855ec0e.kortfilmfestivalen.no^$all
 ||8995efcf810ae93d5c32286930e4f30c.mirosla.pl^$all
@@ -3741,9 +3799,11 @@
 ||9745abee9473d9841bc96c1d0c7ba637.visolaw.pl^$all
 ||10879afd7a18bf9f62ea856988788bed.mskw.pl^$all
 ||12311.aladdaican.xyz^$all
+||14128abc1e40af506a4ad373d35c5ced.wurp.pl^$all
 ||14141.easepolicy.com^$all
 ||18299.cloudpitde.com^$all
 ||18348beef08fa88d1f4f2ee04adeec3d.dioprl.pl^$all
+||20559dfe12eed1e33bc81f012d24dd9b.wurp.pl^$all
 ||21421.psh-bk.site^$all
 ||23469ebe.cftvpinheiro.com.br^$all
 ||26742bcb-c0f4-4a5c-b77c-6cdd7108ef0e.selstorage.ru^$all
@@ -3785,6 +3845,7 @@
 ||90785eec6248d08bd3fdf0530f673e08.puoli.pl^$all
 ||91364f25807e84610cb797e20d54b296.mskw.pl^$all
 ||92216a10512183eec887c244d557fe80.vistvx.pl^$all
+||93020c52aba6495f52618901e602829c.wurp.pl^$all
 ||94732.pl^$all
 ||98602a7227f3537eb283f585e65405be.puoli.pl^$all
 ||113794ab.kortfilmfestivalen.no^$all
@@ -3793,6 +3854,7 @@
 ||142764-coinbase.com^$all
 ||159069e39920435376ea5190ed5f072d.vistvx.pl^$all
 ||222631c9544b3ae064879f8d493ad0cd.vistvx.pl^$all
+||251927b2f3db6cd10d3fdd07a326488f.wurp.pl^$all
 ||257697c1ac9cb63b9d412827b7673c0c.mirosla.pl^$all
 ||260297b7.kortfilmfestivalen.no^$all
 ||289855f617207354dc425de5d65991f7.shrl.pl^$all
@@ -3800,6 +3862,7 @@
 ||432741.pl^$all
 ||464775.info^$all
 ||497397.com^$all
+||514673ad0f0d870490f0ad38c063f14e.wurp.pl^$all
 ||652028a47b540.site123.me^$all
 ||662051c9.cftvpinheiro.com.br^$all
 ||679099e611989f0042debd641745141d.mirosla.pl^$all
@@ -3812,6 +3875,7 @@
 ||982899af.kortfilmfestivalen.no^$all
 ||1304248a0277bdd69abcda35d1aafeca.accgro.pl^$all
 ||1591298f.kortfilmfestivalen.no^$all
+||1810916d2a3b15d0ecb35e1483b295f2.wurp.pl^$all
 ||2845412.sbs^$all
 ||03024612f478190ee562a25cbc670ef5.miwr.pl^$all
 ||3124312.constat.site^$all
@@ -3826,6 +3890,7 @@
 ||7584443edaf95735d9e02f4e5dbe117f.mistrox.pl^$all
 ||7959246e1b73ce26baec71e09f0d0f25.nutops.pl^$all
 ||8507284c125a25e58aeb0c207d92014c.jrms.pl^$all
+||9089755ed73c5071908c83db56469db4.wurp.pl^$all
 ||9875859.online^$all
 ||10086727.cyou^$all
 ||11153951c8eb61171f89f87d76cc387d.mirosla.pl^$all
@@ -3853,9 +3918,12 @@
 ||497415411.xyz^$all
 ||697415411.xyz^$all
 ||797457852.xyz^$all
+||797941769c2bd13d86c32ad09983c4eb.wurp.pl^$all
+||2273276059bf65aa13fc42a1d84f6689.wurp.pl^$all
 ||5476391974aa0a132c93d4c351708151.mistrox.pl^$all
 ||6647008752a1a11bfd0f9eeb1e43f23c.urszulaprzymuszala.net.pl^$all
 ||8021910668ac09f325e3f1eac8f6c2f9.nitwos.pl^$all
+||15459057443d0f419fbd22e525ee86ff.wurp.pl^$all
 ||121212121121.eumashd.top^$all
 ||222222222222-222222.pages.net.br^$all
 ||964566312800d59ebd3d0221bd0dd8d5.dioprl.pl^$all
@@ -3887,14 +3955,17 @@
 ||a2zwebpros.com^$all
 ||a2zyojana.com^$all
 ||a4cinternet.com^$all
+||a4d6c7d00951fc51bb991ec227abc540.wurp.pl^$all
 ||a4dab999272a068972763617d83a31fe.btntls.pl^$all
 ||a4e22ea708d33d96d1ebbf780c7dacd5.puoli.pl^$all
 ||a4f0f3d59ccb4603bbc14089d82569ec.miwr.pl^$all
 ||a4lll.com^$all
 ||a4stroques1.quest^$all
+||a6a24926d6be13f98d1ef50cbf75e5d8.wurp.pl^$all
 ||a6d00829bd34c2ce014e1421e6cb7f5d.dioprl.pl^$all
 ||a7-bm.cfd^$all
 ||a7-wzw.sbs^$all
+||a7d4688312d4c0c0b3e7db194674b556.wurp.pl^$all
 ||a7e800da6925656493c74be0d5219554.polks.pl^$all
 ||a8ea603db9b9da4797a622f6ccd44732.btntls.pl^$all
 ||a11egro.com^$all
@@ -3909,6 +3980,7 @@
 ||a40pl.progrbest.top^$all
 ||a42ecc42.kortfilmfestivalen.no^$all
 ||a51f8bbad2c0b0874bfeb077c7dddf97.vistvx.pl^$all
+||a65fc78bda0314060b9a50abad483b74.wurp.pl^$all
 ||a67.papiashvili.top^$all
 ||a77.awicksin.com^$all
 ||a89fcaa8dc828285bd4c0fe17999d83c.astrisla.pl^$all
@@ -3919,6 +3991,7 @@
 ||a500.despachodeabogadosmcr.com^$all
 ||a554.despachodeabogadosmcr.com^$all
 ||a660d56d14c2c1c84fcb19221a96168f.voltss.pl^$all
+||a666ae5abe6c049cb15f6449974c85d0.wurp.pl^$all
 ||a748b2c84766fc9e5390f54744c3e0ac.miwr.pl^$all
 ||a00765d.cc^$all
 ||a799.despachodeabogadosmcr.com^$all
@@ -3946,6 +4019,7 @@
 ||a29857.aimedia.lk^$all
 ||a31024.bkktothemoon.com^$all
 ||a34184.eliteoftokens.com^$all
+||a34922b57110284f1a39544c929f0dd7.wurp.pl^$all
 ||a35199ed3e5e4b045829a8a31ce031ae.dioprl.pl^$all
 ||a36192.aimedia.lk^$all
 ||a37635.awicksin.com^$all
@@ -3999,7 +4073,10 @@
 ||a94229.walletconnecthome.com^$all
 ||a97804.kanuassociates.com^$all
 ||a99783.cetusinvestmentsbtc.com^$all
+||a742693a0ea088311a8d4fa79137abef.wurp.pl^$all
+||a820427c0a040cd5e72aa2866a86b806.wurp.pl^$all
 ||a1864553.kortfilmfestivalen.no^$all
+||a7380418aa8146fc5fb99e2196117163.wurp.pl^$all
 ||a-3c3o.sbs^$all
 ||a-garagesale.com^$all
 ||a-ipyn.sbs^$all
@@ -4030,12 +4107,14 @@
 ||aad.yuzxcadas.shop^$all
 ||aadiventura.com^$all
 ||aadvantage.quest^$all
+||aae46caafbd759e43f2b5a9eff62aaf5.wurp.pl^$all
 ||aakarcontainers.com^$all
 ||aamadcg.com^$all
 ||aamchevirar.com^$all
 ||aandtequestrian.com^$all
 ||aanutritionniste.com^$all
 ||aapatkaal.com^$all
+||aapnu.com^$all
 ||aapulkipune.org^$all
 ||aarahealthcare.com^$all
 ||aaralanona.site^$all
@@ -4279,6 +4358,7 @@
 ||adamex3.lewgrzelak.com.pl^$all
 ||adamgrzechowiak.brygidainez.pl^$all
 ||adamhebert.com^$all
+||adamhuchmacz.cyprianklaudiusz.pl^$all
 ||adamjenszczok.jeremiaszbuko.sklep.pl^$all
 ||adamthomasrealestate.com^$all
 ||adaptableinnovations.com^$all
@@ -4427,6 +4507,7 @@
 ||ae4bdf87.kortfilmfestivalen.no^$all
 ||ae7a4f2d7bd83a124e5f86e6fd31ca42.marsiw.pl^$all
 ||ae9i.cfd^$all
+||ae12483e1d92892f5437ce554b2fe3ea.wurp.pl^$all
 ||ae275183eba596886752372d967ef4fb.nutops.pl^$all
 ||aebarros.com^$all
 ||aeeca4c5.kortfilmfestivalen.no^$all
@@ -4715,6 +4796,7 @@
 ||akademigading.com^$all
 ||akademiki.alekssokalski.nieruchomosci.pl^$all
 ||akanshsinha.com^$all
+||akarlowa.wieslawartem.pl^$all
 ||akaslot777.com^$all
 ||akazoo.pl^$all
 ||akcapitalone.com^$all
@@ -5473,6 +5555,7 @@
 ||alsatreklam.com^$all
 ||alsawatgroups.com^$all
 ||alsharif4ever.com^$all
+||alsoltys.waldemardaniel.pl^$all
 ||alsvaike.site^$all
 ||alswings.com^$all
 ||altaralbums.com^$all
@@ -5725,6 +5808,7 @@
 ||andrrzej.alekssokalski.nieruchomosci.pl^$all
 ||andrzekj.maximilianjerzy.pl^$all
 ||andsheisoff.com^$all
+||andy198.stefanjablonski.pl^$all
 ||aneksowy24h.click^$all
 ||anemicznyczlowiek.click^$all
 ||anencol.tutorel.top^$all
@@ -6196,6 +6280,7 @@
 ||arjanoffplan.com^$all
 ||ark2-servers.net^$all
 ||arka-dev.com^$all
+||arkada.waldemardaniel.pl^$all
 ||arketingraphic.eu^$all
 ||arkmedes.com^$all
 ||arleta.maximilianjerzy.pl^$all
@@ -6649,12 +6734,14 @@
 ||autoconfig.admin.app.mobile.poolz.smarttambola.com^$all
 ||autoconfig.arrowintermational.com^$all
 ||autoconfig.autoconfig.admin.app.mobile.poolz.smarttambola.com^$all
+||autoconfig.ebrocketship.com^$all
 ||autoconfig.mail.static.forum.ru.florencerepairs.com^$all
 ||autoconfig.pay.florencerepairs.com^$all
 ||autoconfig.staging.pay.florencerepairs.com^$all
 ||autodiscover.arrowintermational.com^$all
 ||autodiscover.buildarecareerworthhaving.com^$all
 ||autodiscover.cinemadng.com^$all
+||autodiscover.ebrocketship.com^$all
 ||autodiscover.hollidz.com^$all
 ||autodiscover.vtiger1.sentinil.com^$all
 ||autodoor-hy.com^$all
@@ -6828,7 +6915,10 @@
 ||azurebloomdomain.cam^$all
 ||azuriien.shop^$all
 ||azuu.leonardokurek.pl^$all
+||b0c7a128895ea561c56b2962615f77f8.wurp.pl^$all
 ||b1d93ca0287f00bd9fb6c844c4487cf6.miwr.pl^$all
+||b2a088dd1949de4cc7e8bf25cbaa46e1.wurp.pl^$all
+||b2aaca6aa6057619487688dd91704c83.wurp.pl^$all
 ||b2b240cb.kortfilmfestivalen.no^$all
 ||b02e0586.kortfilmfestivalen.no^$all
 ||b2ight7life.xyz^$all
@@ -6849,6 +6939,8 @@
 ||b7-63.cfd^$all
 ||b7d643c5c9cf4e4092783ef022a69fdf.vistvx.pl^$all
 ||b8bb4ff5.kortfilmfestivalen.no^$all
+||b8ec55cfa4a2fc465dfab95048f56f5e.wurp.pl^$all
+||b8efb0f75642bc81013bc6345f9425c4.wurp.pl^$all
 ||b9b7916e68c92fca8dc8b3c5f3907064.urszulaprzymuszala.net.pl^$all
 ||b27dg9.webwave.dev^$all
 ||b30j.cfd^$all
@@ -6950,6 +7042,7 @@
 ||b96969.cetusinvestmentsbtc.com^$all
 ||b97129.covidvcfund.com^$all
 ||b113706a9777cdaf531e08d5e2e140ce.nitwos.pl^$all
+||b157547f06e9dc1ea568e9c7faef3bcf.wurp.pl^$all
 ||b312514dce9b158164e8abf9d9ee0fbc.notplsz.pl^$all
 ||b3892793b01cc658c46d72fc1d8e84df.vistvx.pl^$all
 ||b8877205.kortfilmfestivalen.no^$all
@@ -6971,6 +7064,7 @@
 ||b.tradx.top^$all
 ||ba5a3ebd805081f6ea85f59308c49e75.miwr.pl^$all
 ||ba80f410f5b3651472a202caef99b34c.puoli.pl^$all
+||ba550ec1a742cef5bc4804791c462b7b.wurp.pl^$all
 ||ba3316e568eec2810869ccf8625db292.mskw.pl^$all
 ||ba47093075dc4df427852cdfc9be8283.miwr.pl^$all
 ||ba-lan-xac-minh.pages.net.br^$all
@@ -7274,6 +7368,7 @@
 ||basespaint.click^$all
 ||basevod.pl^$all
 ||bashkimidanceboston.com^$all
+||basiaober.emanuelrzysard.com.pl^$all
 ||basic.autotrdes.top^$all
 ||basik.leonfabian.pl^$all
 ||basilhack.com^$all
@@ -7321,6 +7416,7 @@
 ||bb.newprogram.top^$all
 ||bba9ed3d7cae2fc85574eb322ff9b8b3.miwr.pl^$all
 ||bbanc.com^$all
+||bbb824d8a0f7960914c3d662c9c6bf57.wurp.pl^$all
 ||bbbguild.com^$all
 ||bbc-capital.aesthetise.com^$all
 ||bbc-financial.aesthetise.com^$all
@@ -7331,6 +7427,7 @@
 ||bbc.supplypoland.company^$all
 ||bbcaviar.com^$all
 ||bbctrucking.com^$all
+||bbd28eac78c27c611d704e4b0e3be5e4.wurp.pl^$all
 ||bbd72c64d87ba5041d99384983e6d5f2.miwr.pl^$all
 ||bbe4659f.kortfilmfestivalen.no^$all
 ||bbeaesserv8637.wpenginepowered.com^$all
@@ -7349,6 +7446,7 @@
 ||bbvoneday.com^$all
 ||bbwsites.biz^$all
 ||bbwtogether.com^$all
+||bc7f1fbd6758a9354e9bb8ad51fbe5b3.wurp.pl^$all
 ||bc-trueinfo.xyz^$all
 ||bcac29bc1b7fbda29af7fca848a880b4.elusia.pl^$all
 ||bcctechinc.com^$all
@@ -7410,6 +7508,7 @@
 ||bearscarf.ink^$all
 ||bearul.com^$all
 ||beast.bylurea0.xyz^$all
+||beatamaslak.oktawiankonieczny.net.pl^$all
 ||beatingbears.com^$all
 ||beatmybellyfatnow.net^$all
 ||beatrc.com^$all
@@ -7791,6 +7890,7 @@
 ||bf22dae8c1f837ca815572fe80989ac0.miwr.pl^$all
 ||bf27f7677cff102b1d48046350370949.puoli.pl^$all
 ||bf644ee2.estl3ing1if3.pages.dev^$all
+||bf743aecdca41bd0c498cd9cd2fef2f4.wurp.pl^$all
 ||bf-7.cfd^$all
 ||bfa0ccf3c506b0d5fb81d8b70a399190.mskw.pl^$all
 ||bff999.com^$all
@@ -8537,6 +8637,7 @@
 ||bogoapps.com^$all
 ||bogurapost.com^$all
 ||boguslawurbaniak.lilianakasparova.pl^$all
+||bogusz12.ignacykoziol.pl^$all
 ||bohemian-rhapsody-2018-online-napisy-pl-cda.over-blog.com^$all
 ||bohop.net^$all
 ||boilerertechs.com^$all
@@ -9179,6 +9280,7 @@
 ||buildbettertables.com^$all
 ||buildchange.com^$all
 ||buildcrafters.cam^$all
+||buildcreditpoints.com^$all
 ||builderappy.com^$all
 ||buildgamingpc.net^$all
 ||buildgenius.cam^$all
@@ -9411,6 +9513,7 @@
 ||c2ea72e8983a09416ba9b5c1df1e45f8.puoli.pl^$all
 ||c3fp.cfd^$all
 ||c3industries.net^$all
+||c4c979ff85fcd94d630e0cbe4cc44a57.wurp.pl^$all
 ||c4f.top^$all
 ||c4llc0nn.sbs^$all
 ||c5d1f04b310fffcee5ad5743322729ce.puoli.pl^$all
@@ -9427,6 +9530,7 @@
 ||c9ppaqu3st.quest^$all
 ||c29y.cfd^$all
 ||c87b.cfd^$all
+||c93b32169ba5601e0752b04d09a555a6.wurp.pl^$all
 ||c93ec95a80b21090fd7e34e305abcca9.nitwos.pl^$all
 ||c96.cetusinvestmentsbtc.com^$all
 ||c97fe6f55c8b35594bc8c3608d730f93.vistvx.pl^$all
@@ -9445,6 +9549,7 @@
 ||c934.despachodeabogadosmcr.com^$all
 ||c977.covidvcfund.com^$all
 ||c1000.despachodeabogadosmcr.com^$all
+||c3324b6763f45f2403e3b57a706cad3c.wurp.pl^$all
 ||c4073.aimedia.lk^$all
 ||c7659.covidvcfund.com^$all
 ||c8917cc6055333987b7cc7467a20ea2e.puoli.pl^$all
@@ -9984,6 +10089,7 @@
 ||cdek.ay.pay.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru^$all
 ||cdek.ay.youla.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru^$all
 ||cdek.inpost-pl-pacid27e3jks.abun.shopmusic.icanmining.ru^$all
+||cdf35d40191fbc21b47eece4de9451c7.wurp.pl^$all
 ||cdf.newlvlpro.top^$all
 ||cdfe16b192e061024977ecbdfb1daa7e.puoli.pl^$all
 ||cdfstrategies.com^$all
@@ -10003,6 +10109,7 @@
 ||cebip.net^$all
 ||cebuforrent.com^$all
 ||cecimin.net^$all
+||ced9e10322129a06e722c98f70c83fcf.wurp.pl^$all
 ||cedargaze.click^$all
 ||cedgoparty.net^$all
 ||cedricgates.com^$all
@@ -10116,6 +10223,7 @@
 ||cezearsep.website^$all
 ||cf2afc3513c2f16ac7d7fcb8c329ce97.puoli.pl^$all
 ||cf37.com^$all
+||cf4922b34c64979c785586ab652360d1.wurp.pl^$all
 ||cf-gjt.cfd^$all
 ||cfd-trader.io^$all
 ||cfd.bull-holdings.com^$all
@@ -10141,6 +10249,7 @@
 ||cfebliqui.com^$all
 ||cfeproperties.net^$all
 ||cff44e9cdc1267673fd108dc05d12396.puoli.pl^$all
+||cfff60c1818f2955fefde1a1ccbea31b.wurp.pl^$all
 ||cfjewels.com^$all
 ||cfo4restaurant.com^$all
 ||cfqq.vertysbos.top^$all
@@ -10781,6 +10890,7 @@
 ||cnshengquan.site^$all
 ||co2e.cfd^$all
 ||co5cio5livin5.site^$all
+||co8oaconn9isseurclub.sbs^$all
 ||co-createikea.com^$all
 ||co-opinionated.com^$all
 ||co-seller.com^$all
@@ -12154,6 +12264,7 @@
 ||czech-synergy.com^$all
 ||czekamynainfo.click^$all
 ||czekamywszyscy.click^$all
+||czerech.jonaszjaniak.warszawa.pl^$all
 ||czerwonydomkk.site^$all
 ||czesioland.rozaliaclaudia.com.pl^$all
 ||czeslawa.alekssokalski.nieruchomosci.pl^$all
@@ -12170,12 +12281,14 @@
 ||czytooszustwo.pl^$all
 ||czywitalnosczraz.beauty^$all
 ||czywyjazddo.space^$all
+||d0a3e5c0cf6c64cd26f941d103a5b9ef.wurp.pl^$all
 ||d0ab9575.kortfilmfestivalen.no^$all
 ||d0j7gv4nllpqmjgv2pp2g09a.celebsforever.com^$all
 ||d0nk-case.org^$all
 ||d0nk-knive.com^$all
 ||d0nk-primes.com^$all
 ||d0nk-rolls.com^$all
+||d1f956a1da378402827d0d17db7560ad.wurp.pl^$all
 ||d1g1l1nx.click^$all
 ||d1g1l1nx.sbs^$all
 ||d1g1m1nd.sbs^$all
@@ -12196,6 +12309,7 @@
 ||d2heatmaps.com^$all
 ||d2str.com^$all
 ||d3dc209d0664e0509b784a5cd2b57a26.mskw.pl^$all
+||d3edf205b23fbeec8f6175cdcdc13186.wurp.pl^$all
 ||d3hd.com^$all
 ||d3velop3xcell3nce.site^$all
 ||d3vttyffutur3.site^$all
@@ -12402,6 +12516,7 @@
 ||dalton.alekssokalski.nieruchomosci.pl^$all
 ||damatmetaverse.com^$all
 ||damedks.leonarddawid.warszawa.pl^$all
+||damiano.emanuelrzysard.com.pl^$all
 ||damianptak.leonardodorian.com.pl^$all
 ||damien.mikolajolesandr.pl^$all
 ||damovuo8.online^$all
@@ -12436,6 +12551,7 @@
 ||danielletobler.com^$all
 ||danielramosromeroasir.com^$all
 ||danielsotomarketing.com^$all
+||danilobezerradigital.com^$all
 ||danimconsulting.com^$all
 ||dank.ximprrove.top^$all
 ||dankwoods.org^$all
@@ -12642,6 +12758,8 @@
 ||ddtrd.ltdroom.top^$all
 ||de6af8febb61eb5c987d57634cb3dbc7.marcoprzy.net.pl^$all
 ||de7cb96a.kortfilmfestivalen.no^$all
+||de14d2eb66dcdfc754a45031981ca043.wurp.pl^$all
+||de97787c1c5be89fcdea066b0dc4a569.wurp.pl^$all
 ||de-lening-voor-iedereen.com^$all
 ||de.progofficial.top^$all
 ||de.progofficialit.top^$all
@@ -13387,6 +13505,7 @@
 ||djo.goodpltrmm.click^$all
 ||djozmet.com^$all
 ||djqwikcut.com^$all
+||djrevers94.waldemardaniel.pl^$all
 ||djxc.maxiaztr.top^$all
 ||dk.tvconsult.live^$all
 ||dkap.com^$all
@@ -13443,6 +13562,7 @@
 ||dlzenithhub.top^$all
 ||dm0s.cfd^$all
 ||dm.plaski.online^$all
+||dmaczka.stefanjablonski.pl^$all
 ||dmaulik.com^$all
 ||dmbench.com^$all
 ||dmgeducation.com^$all
@@ -14305,6 +14425,7 @@
 ||e8lr.cfd^$all
 ||e9-gkl.cfd^$all
 ||e41d063c.kortfilmfestivalen.no^$all
+||e44d2bb80c339a3f42659c78fbf82620.wurp.pl^$all
 ||e44ec695b4068212c6f145e876adf91d.nutops.pl^$all
 ||e60a1c76.kortfilmfestivalen.no^$all
 ||e64daf74.kortfilmfestivalen.no^$all
@@ -14314,7 +14435,9 @@
 ||e627a957f63b83e6290d48e93838a524.puoli.pl^$all
 ||e639ead51ada974f6652403432b25296.mskw.pl^$all
 ||e0723fc3e3c7887890916eb3c8c2a384.mirosla.pl^$all
+||e0795d485cd3c72f8ddec819041c1fda.wurp.pl^$all
 ||e843.cfd^$all
+||e882c864639f54c80765dc6340beacaf.wurp.pl^$all
 ||e934c6e8e5fe680fbecaa40f3573aad4.shrl.pl^$all
 ||e3644a986be965a819430f74a6498ab9.mirosla.pl^$all
 ||e6255d091a9116cf1c444fe294ae17b4.marcoprzy.net.pl^$all
@@ -14322,6 +14445,7 @@
 ||e065758f934705e2457809e8d7e53db1.accgro.pl^$all
 ||e67680a6721b62444d00f504ea1f72df.jrms.pl^$all
 ||e7567475ba3a20f13f99bcf1e1c1bb03.mirosla.pl^$all
+||e16845638c6429c33d72f324f4e5f9a1.wurp.pl^$all
 ||e-3fe.cfd^$all
 ||e-astara.com^$all
 ||e-childalert.$all
@@ -14434,6 +14558,7 @@
 ||eatcleanvn.com^$all
 ||eatdrinksleepdive.com^$all
 ||eateasyae.com^$all
+||eatenpiece.lat^$all
 ||eatpublic.com^$all
 ||eatrust.xyz^$all
 ||eattraveldogs.com^$all
@@ -14636,6 +14761,7 @@
 ||ef74dm.cfd^$all
 ||ef83j3f.cfd^$all
 ||ef92-d2.cfd^$all
+||ef154d8c74d2b958562536d3bf8b2040.wurp.pl^$all
 ||ef-24d.cfd^$all
 ||ef-234fls.cfd^$all
 ||ef-erlsb.cfd^$all
@@ -14978,6 +15104,7 @@
 ||emdever.com^$all
 ||emdievolution.net^$all
 ||emebeddedcontrollers.com^$all
+||emek2k20.ignacykoziol.pl^$all
 ||emelhoparavoce.com^$all
 ||emeraldmg.com^$all
 ||emeraldwaterpimpri.com^$all
@@ -15581,6 +15708,7 @@
 ||evanescent-sophisticated-badge.glitch.me^$all
 ||evangeliao.ru^$all
 ||evanjerkunica.com^$all
+||evela79.cyprianklaudiusz.pl^$all
 ||evelinegauvreau.com^$all
 ||evelynslounge.com^$all
 ||evenfeatures.com^$all
@@ -15796,6 +15924,7 @@
 ||f2dg1545ert5ert8t.alevsesli.net^$all
 ||f2mclips.com^$all
 ||f3-new.com^$all
+||f3d234d62620a870d9dc8e916ff8e20e.wurp.pl^$all
 ||f3dcc.cc^$all
 ||f3sd.cc^$all
 ||f3stivefav0rs.sbs^$all
@@ -15804,6 +15933,7 @@
 ||f5f102d047d43d5809d1d6ffd8e7cbc4.macli.pl^$all
 ||f5kn.cfd^$all
 ||f5sw.cc^$all
+||f6f902ccca6df39925b612ad6761db47.wurp.pl^$all
 ||f7ae247f4033b709906e1eebf82e39b4.mistrox.pl^$all
 ||f7b5084d954589d3bd4822cce98df58d.vistvx.pl^$all
 ||f7dc1d0a54d9c0e1832c848ba85ef6fe.urszulaprzymuszala.net.pl^$all
@@ -15811,8 +15941,10 @@
 ||f8d1eaab9334fea3b5dedcd711ac4998.lispt.pl^$all
 ||f8ec.cfd^$all
 ||f9-rwj.sbs^$all
+||f9bf8e162e21d7637e885574e1e9f5d5.wurp.pl^$all
 ||f10raf1air76.store^$all
 ||f24.despachodeabogadosmcr.com^$all
+||f28fcd205949ba174da21e2178062d10.wurp.pl^$all
 ||f34fbb31.cftvpinheiro.com.br^$all
 ||f037c9b4a1212da365d7e2c10cbcecc3.btntls.pl^$all
 ||f45c6f1e.cftvpinheiro.com.br^$all
@@ -15838,6 +15970,7 @@
 ||f378.despachodeabogadosmcr.com^$all
 ||f0386d23d371be1854a105f9d5bc6fb4.marsiw.pl^$all
 ||f423s.cc^$all
+||f0439d977bfd82a9ea39e9a8089c2ea2.wurp.pl^$all
 ||f485.despachodeabogadosmcr.com^$all
 ||f489.despachodeabogadosmcr.com^$all
 ||f512.despachodeabogadosmcr.com^$all
@@ -15927,6 +16060,7 @@
 ||f.biocorpaust.com^$all
 ||fa1tastic44q34st.quest^$all
 ||fa4f29e7.kortfilmfestivalen.no^$all
+||fa7e532fca90734be34b32c40bc2e5b5.wurp.pl^$all
 ||fa691d4c3f8e07979f5a2afb05b224f6.mirosla.pl^$all
 ||fa.programwatonline.xyz^$all
 ||fa.tsqwz.xyz^$all
@@ -16181,6 +16315,7 @@
 ||faze-cs.ru^$all
 ||fb0ce784faf9830518ed32250bc13c7a.dirks.pl^$all
 ||fb2.sepcezear.com^$all
+||fb02a3e50f60721ee03392ed18b448d5.wurp.pl^$all
 ||fb5.sepcezear.com^$all
 ||fb5b28bf.coletivohojeapassarinho.com.br^$all
 ||fb14f9d79abcc8e2faa0694d44c5a64d.marcoprzy.net.pl^$all
@@ -16262,6 +16397,7 @@
 ||fdv5rf.cc^$all
 ||fdv.newlvlpro.top^$all
 ||fe12bb39c66e7f6e361e7320c4cd9b28.pltvs.pl^$all
+||fe65dcf9741a30358fc13d7685188d91.wurp.pl^$all
 ||fe.newpol.xyz^$all
 ||feampro.com^$all
 ||fearaug.com^$all
@@ -16390,6 +16526,7 @@
 ||fidanhumbatli.com^$all
 ||fiddale.sbs^$all
 ||fidelity-assetltd.com^$all
+||fidemar.nathanviktor.pl^$all
 ||fidiasapp.com^$all
 ||field-friend.com^$all
 ||fieldfoxplatform.com^$all
@@ -18728,6 +18865,7 @@
 ||gwmmanagement.com^$all
 ||gwnewyork.com^$all
 ||gwx-11054-ybk.web.app^$all
+||gwz.emanuelrzysard.com.pl^$all
 ||gxe.ytr.mybluehost.me^$all
 ||gxsnb.formpr.top^$all
 ||gxysp.com^$all
@@ -19160,6 +19298,7 @@
 ||helcoiney.kolotas.top^$all
 ||helena5thisstoryisnotfinished.com^$all
 ||helenicpost.buzz^$all
+||helikon.przemyslawoliwier.com.pl^$all
 ||hell.xiproject.top^$all
 ||hello-dit.com^$all
 ||hellobhutia.com^$all
@@ -19840,6 +19979,7 @@
 ||hycmcapitalmarkets.com^$all
 ||hycydaimia.org^$all
 ||hydeparkclinpsych.com^$all
+||hydmarkolno.wieslawartem.pl^$all
 ||hydrangeaheaven.store^$all
 ||hydrationhere.com^$all
 ||hydraulicvalves.net^$all
@@ -22820,6 +22960,7 @@
 ||jwhmi9.webwave.dev^$all
 ||jwi8-63.sbs^$all
 ||jwjf.me^$all
+||jwlr.tadeuszzaj.pl^$all
 ||jxms.kolotas.top^$all
 ||jydyvyoluy.live^$all
 ||jymihaysii.live^$all
@@ -22993,6 +23134,7 @@
 ||kashicoffeeday.com^$all
 ||kashmirpositive.com^$all
 ||kasiaplaza.zacharykevin.pl^$all
+||kasiatroszczynska.nathanviktor.pl^$all
 ||kasieneczka.doriankonopka.sklep.pl^$all
 ||kaspianbana.pl^$all
 ||kassa-wo.live^$all
@@ -23083,6 +23225,7 @@
 ||kepalaepisod.com^$all
 ||kerakaservicekz.com^$all
 ||keralacarshowroom.com^$all
+||kermitek11.irenesuzszy.pl^$all
 ||kerogens.sbs^$all
 ||kerotilokko.site^$all
 ||kerrassentialsus.com^$all
@@ -23556,6 +23699,7 @@
 ||kreditifire.com^$all
 ||kredytnadowolnycel.pl^$all
 ||kredytybank.com^$all
+||kredytymonika.waldemardaniel.pl^$all
 ||kreio-re.top^$all
 ||kremind.life^$all
 ||kreo.kolotas.top^$all
@@ -23622,6 +23766,7 @@
 ||ktxbus.com^$all
 ||ku.open-sooursee.live^$all
 ||kuberverse.com^$all
+||kuciak.stefanjablonski.pl^$all
 ||kucoin-airdrop.com^$all
 ||kucoinhub.com^$all
 ||kudocbd.com^$all
@@ -24032,6 +24177,7 @@
 ||lemonteadesign.com^$all
 ||len72u.sbs^$all
 ||len-br.sbs^$all
+||lenadolg.przemyslawoliwier.com.pl^$all
 ||lenca.sbs^$all
 ||lending-for-europe.eu^$all
 ||lennoxparkandrec.com^$all
@@ -24054,6 +24200,7 @@
 ||leros.blogoonline.top^$all
 ||lerwbhyzkh.store^$all
 ||lesantivirus.net^$all
+||lesiu60.nathanviktor.pl^$all
 ||leskole.com^$all
 ||lesnhltoge.site^$all
 ||lesnyraj.kubakosma.pl^$all
@@ -24420,6 +24567,7 @@
 ||licelebrati0n.life^$all
 ||licencr.com^$all
 ||liceomediagm.cl^$all
+||liceum17.wieslawartem.pl^$all
 ||lichi-offers.com^$all
 ||lickitoff.pro^$all
 ||lidaspain.com^$all
@@ -25048,6 +25196,7 @@
 ||luxraise.com^$all
 ||luxrx.net^$all
 ||luxtravip.com^$all
+||luxuriousc7oc0lateescape.sbs^$all
 ||luxuriouses.pro^$all
 ||luxurycarmart.com^$all
 ||luxurydancefloorrental.com^$all
@@ -25433,6 +25582,7 @@
 ||margoprefabrykaty.pl^$all
 ||margulan-sos.com^$all
 ||marhaba-firmware.com^$all
+||marhalski.przemyslawoliwier.com.pl^$all
 ||maria.cztessl.live^$all
 ||mariamats.com^$all
 ||marianevents.com^$all
@@ -25444,6 +25594,8 @@
 ||marinastem.click^$all
 ||marine.miel-farmers.com^$all
 ||marinostravel.com^$all
+||mariolafoltyn.tadeuszzaj.pl^$all
+||mariuszmatyjaszczyk.waldemardaniel.pl^$all
 ||mariuszrunkwitz.adrianpaluch.pl^$all
 ||market-allegro.vip^$all
 ||market-news.fun^$all
@@ -25495,6 +25647,7 @@
 ||marthaestupinan.com^$all
 ||martinwarnock.com^$all
 ||martulasz.letycjamia.pl^$all
+||martusiafir.wieslawartem.pl^$all
 ||martwypunkt.click^$all
 ||martynservice.com^$all
 ||marvelgoodies.com^$all
@@ -26257,10 +26410,12 @@
 ||mjcrites.com^$all
 ||mjva.killingit.net^$all
 ||mjwkjk.s3.us-east-005.backblazeb2.com^$all
+||mkaczmarek.olafdzord.pl^$all
 ||mke2morrow.com^$all
 ||mkgml.toulousian-route-booking.com^$all
 ||mkjyt.top^$all
 ||mkkjcx.s3.us-east-005.backblazeb2.com^$all
+||mkrysztofiuk.ignacykoziol.pl^$all
 ||mkto-b0067.com^$all
 ||mkwvfv.s3.us-east-005.backblazeb2.com^$all
 ||ml24-rw0.cfd^$all
@@ -26938,6 +27093,7 @@
 ||myunitedparcelservices.info^$all
 ||myupshelp.pl^$all
 ||myupstrackingservices.net^$all
+||myvebazer.xyz^$all
 ||myvetcheck.com^$all
 ||mywayoneto.taplink.ws^$all
 ||mywheelsbook.com^$all
@@ -27085,6 +27241,7 @@
 ||naszespriorytety.click^$all
 ||nata-academy.com^$all
 ||nataliaksiazek.dariuszskiba.com.pl^$all
+||nataliawlyniec.ignacykoziol.pl^$all
 ||nataliehash.com^$all
 ||natbl1ss.site^$all
 ||natebachert.com^$all
@@ -28586,6 +28743,7 @@
 ||ol-439j.cfd^$all
 ||ol.expobarrio.com^$all
 ||ol.polex.live^$all
+||olafkar.cyprianklaudiusz.pl^$all
 ||olaxadostawatowr.shop^$all
 ||old.pay.florencerepairs.com^$all
 ||old.tswaps.com^$all
@@ -28709,6 +28867,7 @@
 ||omhealingwaters.com^$all
 ||omlatrots.com^$all
 ||ommoney-cryp.com^$all
+||omnimys.space^$all
 ||omnivas.monster^$all
 ||omowieniainfo.click^$all
 ||omp0rt.xyz^$all
@@ -28729,6 +28888,7 @@
 ||onceva.sbs^$all
 ||onch.pokut.xyz^$all
 ||onclickbright.com^$all
+||ondeonde.irenesuzszy.pl^$all
 ||ondoclub75.org^$all
 ||one-bookingline.com^$all
 ||one-media.pro^$all
@@ -29520,8 +29680,10 @@
 ||pawelandrzejewski.natanieljordan.pl^$all
 ||paweldrabik.com^$all
 ||pawelmazurpoczta.alisaksenia.pl^$all
+||pawelpiekos.januszmarek.sklep.pl^$all
 ||pawelsiecinski.jeremijacob.pl^$all
 ||paweltkaczyk.marcinandrews.pl^$all
+||pawelwolan.irenesuzszy.pl^$all
 ||pawnpresence.com^$all
 ||pawprinttradingcards.com^$all
 ||pawtixbio.com^$all
@@ -29840,6 +30002,7 @@
 ||pinkstar.pl^$all
 ||pinsandmedals.com^$all
 ||pinsandmedals.website^$all
+||piomarzbiczno.nicholasedward.pl^$all
 ||piorkopo.hair^$all
 ||piotras13.rozaliaclaudia.com.pl^$all
 ||piotreksofedl.martynaadamski.pl^$all
@@ -29907,6 +30070,7 @@
 ||pk.ebutudan.com^$all
 ||pk.expobarrio.com^$all
 ||pk.progrbest.top^$all
+||pkamionka.nathanviktor.pl^$all
 ||pklys.top^$all
 ||pko-bp.club^$all
 ||pko-bp.pl^$all
@@ -31702,6 +31866,7 @@
 ||przekazwiadomosci.click^$all
 ||przekazwiesci.eu^$all
 ||przekazwtorny.click^$all
+||przemek133.jonaszjaniak.warszawa.pl^$all
 ||przemekj01.letycjamia.pl^$all
 ||przepismix.pl^$all
 ||przeprawazycia.click^$all
@@ -31754,6 +31919,7 @@
 ||pst-pl.com^$all
 ||pst-ts.com^$all
 ||pst.80-76-51-207.cprapid.com^$all
+||psularz.waldemardaniel.pl^$all
 ||pswoods.com^$all
 ||psychedelicsint.com^$all
 ||psychevxzh.monster^$all
@@ -32384,6 +32550,7 @@
 ||r-fantasy.com^$all
 ||r-techofficesystems.com^$all
 ||r.mstock.top^$all
+||raasia.januszmarek.sklep.pl^$all
 ||rabbitball.quest^$all
 ||rabpolskasklep.com^$all
 ||rachaelocwer.life^$all
@@ -32444,6 +32611,7 @@
 ||radoncoin.org^$all
 ||radosc-zabawy.club^$all
 ||radosc-zakupow.link^$all
+||radoslawdeik.oktawiankonieczny.net.pl^$all
 ||radoslawrw.aleksywal.pl^$all
 ||radosnysklep.buzz^$all
 ||radpol.irenaada.pl^$all
@@ -33036,6 +33204,7 @@
 ||robert.onprograms.xyz^$all
 ||roberteu.onprograms.xyz^$all
 ||robertmaciak.daniilkurek.eu^$all
+||robertmarzec1968.wieslawartem.pl^$all
 ||roberto.net^$all
 ||robertprog.onprograms.xyz^$all
 ||roberts.onprograms.xyz^$all
@@ -33384,6 +33553,7 @@
 ||saibaeaproveite.com^$all
 ||saifullahusmani.com^$all
 ||sailarchitect.com^$all
+||sailortrzebiez.irenesuzszy.pl^$all
 ||sainx31.com^$all
 ||sairathtechnology.com^$all
 ||sajisaidea.info^$all
@@ -33633,6 +33803,7 @@
 ||seatarts.com^$all
 ||seatog.info^$all
 ||seayto.com^$all
+||seba2cross.stefanjablonski.pl^$all
 ||sebstair8.wixsite.com^$all
 ||secizle.com^$all
 ||secondbrain-neuro.com^$all
@@ -34203,6 +34374,7 @@
 ||skolablokdob.nelmazur.pl^$all
 ||skomentujznami.rent^$all
 ||skoobla.com^$all
+||skorpion2518.oktawiankonieczny.net.pl^$all
 ||skr.lakeviewcondostaug.com^$all
 ||skriblr.com^$all
 ||skroconyfakt.click^$all
@@ -34813,6 +34985,7 @@
 ||standallhg.site^$all
 ||standingscaffoldis.pro^$all
 ||standpipeecter.info^$all
+||stanicki.januszmarek.sklep.pl^$all
 ||stanislawdziadko.leonarddawid.warszawa.pl^$all
 ||stanprzejscia.click^$all
 ||stanrzeczowy.click^$all
@@ -35097,6 +35270,7 @@
 ||studentsforum.net^$all
 ||studiio.net^$all
 ||studio51.pascalmadej.pl^$all
+||studiogymbro.stefanjablonski.pl^$all
 ||studiokicks.net^$all
 ||studiolegaleadmaiora.com^$all
 ||studiopulcinella.com^$all
@@ -35412,6 +35586,7 @@
 ||syloqiozau.info^$all
 ||sylwetkazarysu.click^$all
 ||sylwiablog.choiseprog.xyz^$all
+||sylwus00012.wieslawartem.pl^$all
 ||symantke.com^$all
 ||symbionic.org^$all
 ||symbolpro.mllight.top^$all
@@ -35542,6 +35717,7 @@
 ||tabriiztendamembrane.com^$all
 ||tabrnews.com^$all
 ||tac.tsqwz.xyz^$all
+||tachomt.januszmarek.sklep.pl^$all
 ||tachyondigibiz.com^$all
 ||tadailo.rade.top^$all
 ||tadalafil3.com^$all
@@ -36431,6 +36607,7 @@
 ||tom.taxility.com^$all
 ||tomacze.rolandbrian.pl^$all
 ||tomaszkarolczak.beniaminolivier.pl^$all
+||tomaszzelazowski.przemyslawoliwier.com.pl^$all
 ||tombing.top^$all
 ||tomefuydey.org^$all
 ||tomorrowlandvillage.com^$all
@@ -36767,6 +36944,7 @@
 ||transitradar.click^$all
 ||transland.leszekgruszka.pl^$all
 ||translucentice.sbs^$all
+||transmati.ignacykoziol.pl^$all
 ||transparent-user-information-ad-a789.netlify.app^$all
 ||transportcar.net^$all
 ||transportowewydarzenie.click^$all
@@ -37334,6 +37512,7 @@
 ||ulicznywypadek.click^$all
 ||ulkemnet.com^$all
 ||ulozeniemapy.click^$all
+||ult1matechoc8lat4bliss.sbs^$all
 ||ultima-baru.com^$all
 ||ultimatecryptohold.com^$all
 ||ultimatedefensellc.org^$all
@@ -38327,6 +38506,7 @@
 ||vintedsk.order9890.eu^$all
 ||vintedsk.order9919.eu^$all
 ||violetvibrance.store^$all
+||violetvogue.store^$all
 ||violinbone.quest^$all
 ||vip-paczka.cloud^$all
 ||vipcases-box.com^$all
@@ -38950,6 +39130,7 @@
 ||wepresets.com^$all
 ||weq.pr0gmatic.site^$all
 ||wer.tradx.top^$all
+||weramis2.nicholasedward.pl^$all
 ||werbkom.net^$all
 ||werftipo.com^$all
 ||werley.fun^$all
