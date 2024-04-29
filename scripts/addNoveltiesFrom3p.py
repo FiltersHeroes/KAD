@@ -49,7 +49,7 @@ with open(KADomains_path, "r", encoding='utf-8') as KADhosts, \
     for line in KADhosts:
         line = line.strip()
         if not unnecessary_pat.match(line):
-            lines.append(re.sub(r"^www.", "", line))
+            lines.append(re.sub(r"^www\.", "", line))
     for line in sorted(set(lines)):
         f_out.write(f"{line}\n")
     del lines
