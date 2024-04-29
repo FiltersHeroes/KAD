@@ -3,6 +3,7 @@
 # pylint: disable=missing-function-docstring
 # pylint: disable=missing-module-docstring
 import os
+import re
 from tempfile import NamedTemporaryFile
 
 def cleanup3p(tp_path):
@@ -10,7 +11,7 @@ def cleanup3p(tp_path):
             NamedTemporaryFile(dir='.', delete=False, mode="w", encoding='utf-8') as f_out:
         lines = []
         for line in tp_f:
-            lines.append(line.replace("www.", "").lower().strip())
+            lines.append(re.sub(r"^www.", "", line).lower().strip())
         for line in sorted(set(lines)):
             f_out.write(f"{line}\n")
         os.rename(f_out.name, tp_path)
