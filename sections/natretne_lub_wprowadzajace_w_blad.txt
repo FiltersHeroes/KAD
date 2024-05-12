@@ -1,4 +1,3 @@
-!instalki.pl##option[value$="dm=1"]
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
 |http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https.*
@@ -14,17 +13,11 @@
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
-github.com##:matches-path(/\/FiltersHeroes\/KAD\/issues\/(1241|2176)/) #close-as-unplanned
-github.com##:matches-path(/\/FiltersHeroes\/KAD\/issues\/(1241|2176)/) .js-comment-and-button
-github.com##:matches-path(/\/FiltersHeroes\/KAD\/issues\/(1241|2176)/) .js-comment-and-button + details
+github.com##:matches-path(/FiltersHeroes/KAD/issues/1241/) :is(#close-as-unplanned, .js-comment-and-button, .js-comment-and-button + details):remove()
 pl##a[href*="whokeys.com/"]
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 tyfloswiat.pl##^responseheader(location)
-www.cyclonis.com#?#.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
-www.dobreprogramy.pl#?#:matches-path(/\/[a-zA-Z0-9-]{1,99},program,/) article#main-content > div[class]:not([id]) > div[class]:not([id]):watch-attr(class):has(> div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:nth-child(-n+2):not(:empty):not(:has(a[href*="oprogramowanie-z-rosji"], a[href*="niepotrzebne-pliki"]))
+www.cyclonis.com##.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
+www.dobreprogramy.pl##:matches-path(/\/[a-zA-Z0-9-]{1,99},program,/) article#main-content > div[class]:not([id]) > div[class]:not([id]):watch-attr(class):has(> div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:nth-child(-n+2):not(:empty):not(:has(a[href*="oprogramowanie-z-rosji"], a[href*="niepotrzebne-pliki"]))
 www.google.*##.g:has(a[href*="//adservice.google."])
-xja.pl,xn.pl##+js(refresh-defuser, 1)
-xja.pl,xn.pl##+js(refresh-defuser, 2)
-xja.pl,xn.pl##+js(refresh-defuser, 3)
-xja.pl,xn.pl##+js(refresh-defuser, 4)
 xja.pl,xn.pl##+js(refresh-defuser, 5)
