@@ -1,6 +1,6 @@
 ##a[href^="/fb-login"]
-/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
-|http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https.*
+/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,to=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
+|http://a2g.me/$doc,important,to=~zalecane-wymuszenie-https.*
 ||digitogy.eu^$all
 ||displayfilmy.pl^$all
 ||displaymovies.pl^$all
