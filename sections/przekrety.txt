@@ -1,3 +1,4 @@
+||intenfix.com^$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -17,11 +18,11 @@
 /^https?:\/\/([\w]{1,4}\.)?\d+platnosci?\.online/$all
 /^https?:\/\/([\w]{1,4}\.)?\d{6}\.xyz\/lucky\/[-a-z]+\/\?t=/$doc,popup,domain=xyz
 /^https?:\/\/([\w]{1,4}\.)?allegro(finanse)?\d+\.pl/$all
-/^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,domain=com
+/^https?:\/\/([\w]{1,4}\.)?creativego[a-z0-9]{20}\.com/$doc,to=com
 /^https?:\/\/([\w]{1,4}\.)?faktury\d+\.org/$all
-/^https?:\/\/([\w]{1,4}\.)?sms\.[0-9]+\.(pw|sbs)/$doc,domain=pw|sbs
+/^https?:\/\/([\w]{1,4}\.)?sms\.[0-9]+\.(pw|sbs)/$doc,to=pw|sbs
 /^https?:\/\/([\w]{1,4}\.)?vinted-(pl|polska)-[a-z0-9]{2,6}\.[a-z0-9-]{3,25}\.[\w]{2,20}(\.\/|\/)/$doc,match-case
-/^https?:\/\/([\w]{1,4}\.)?vjnted\.[0-9]+\.(xyz)/$doc,domain=xyz
+/^https?:\/\/([\w]{1,4}\.)?vjnted\.[0-9]+\.(xyz)/$doc,to=xyz
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
 /pl/bnp-paribas/login.php?pay&b=$doc,frame,domain=~pl
@@ -43,8 +44,8 @@
 /pl/tpay/index.php?pay&b=$doc,frame
 /pl/vwfs/portal/?pay|$doc,frame,domain=~pl
 /tds/ae?tds_campaign=$doc
-|http*://*/fb-login/$doc,domain=~facebook.com
-|http*://*/ym.html?email=*@$doc,domain=~to-moze-byc-phishing.*
+|http*://*/fb-login/$doc,to=~facebook.com
+|http*://*/ym.html?email=*@$doc,to=~to-moze-byc-phishing.*
 ||0-2lyb.sbs^$all
 ||0-02pw.cfd^$all
 ||0-6n10.sbs^$all
@@ -1139,7 +1140,7 @@
 ||24-news.aesthetise.com^$all
 ||24-news.pro^$all
 ||24-news.shjfx.com^$all
-||24.eu^$doc,domain=~www.24.eu
+||24.eu^$doc,to=~www.24.eu|24.eu
 ||24.glanvillemedia.com^$all
 ||24bharatnews.com^$all
 ||24by7flights.com^$all
@@ -9645,7 +9646,7 @@
 ||c-v.com^$all
 ||c.bbuuddaa.top^$all
 ||c.latotip.top^$all
-||c.pl^$doc,domain=~www.c.pl
+||c.pl^$doc,to=~www.c.pl|c.pl
 ||c.proflivee.top^$all
 ||c.romankyo.com^$all
 ||ca3jri.icu^$all
@@ -10880,7 +10881,7 @@
 ||cholelcmkd.website^$all
 ||chomey.com^$all
 ||chomikuj*.opx.pl^$all,domain=pl
-||chomikuj.$doc,domain=~bing.*|~chomikuj.pl|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*
+||chomikuj.$doc,to=~bing.*|~chomikuj.pl|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*
 ||chomlkui.pl^$all
 ||choosetotruck.com^$all
 ||chooseuus.com^$all
@@ -13202,7 +13203,7 @@
 ||czestochowa24.atthost24.pl^$all
 ||czuwamyspolecznie.click^$all
 ||czxa.fsdvzxaq.shop^$all
-||czyjtonumer.net^$doc,domain=~uwazaj-na-pakiet-premium.*
+||czyjtonumer.net^$doc,to=~uwazaj-na-pakiet-premium.*
 ||czymniesledzili.tel^$all
 ||czynnyudzial.click^$all
 ||czyodpoczynekoni.sbs^$all
@@ -26291,11 +26292,11 @@
 ||inpost.order000715305.com^$all
 ||inpost.pics^$all
 ||inpost.pictures^$all
-||inpost.pl-*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||inpost.pl-*.$doc,to=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.pl-link.cyou^$all
 ||inpost.pl-links.cyou^$all
 ||inpost.pl-live.icu^$all
-||inpost.pl.*.$doc,domain=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||inpost.pl.*.$doc,to=~inpost.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||inpost.posad.site^$all
 ||inpost.quest^$all
 ||inpost.receivu.eu^$all
@@ -30531,7 +30532,7 @@
 ||legal-nfl.com^$all
 ||legal-respawn.com^$all
 ||legalium-e.com^$all
-||legalniewsieci.$doc,domain=~bing.*|~duckduck.*|~ecosia.org|~google.*|~legalniewsieci.pl|~qwant.com|~startpage.com|~yahoo.*
+||legalniewsieci.$doc,to=~bing.*|~duckduck.*|~ecosia.org|~google.*|~legalniewsieci.pl|~qwant.com|~startpage.com|~yahoo.*
 ||legalwithboska.com^$all
 ||leganpz.ivanmatej.pl^$all
 ||legendarna-chwila.com^$all
@@ -35894,8 +35895,8 @@
 ||nev2.cfd^$all
 ||nevadafinancialgroup.com^$all
 ||neveragainmarch.com^$all
-||new1.*.*.com^$doc,domain=com
-||new1.*.*.ir^$doc,domain=ir
+||new1.*.*.com^$doc,to=com
+||new1.*.*.ir^$doc,to=ir
 ||new19.despachodeabogadosmcr.com^$all
 ||new24-7.glanvillemedia.com^$all
 ||new41x22.xyz^$all
@@ -37511,7 +37512,7 @@
 ||olx.p24-v9fa71.pl^$all
 ||olx.pay247.pl^$all
 ||olx.pl24-7.pl^$all
-||olx.pl-*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx.pl-*.$doc,to=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.pl-oferta7566.pl^$all
 ||olx.pl-oferta18326.pl^$all
 ||olx.pl-oferta21376.pl^$all
@@ -37522,7 +37523,7 @@
 ||olx.pl-rezerwacja.online^$all
 ||olx.pl-specjalna-oferta73377.pl^$all
 ||olx.pl-szybkaplatnosc235543.pl^$all
-||olx.pl.*.$doc,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
+||olx.pl.*.$doc,to=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.plikaur.lol^$all
 ||olx.prokar.lol^$all
 ||olx.receivo-e.eu^$all
@@ -38235,7 +38236,7 @@
 ||otto24-motoryzacja.pl^$all
 ||ottomoto.sittex.cl^$all
 ||ottotrenche.store^$all
-||otube.pl^$doc,domain=otube.pl|~uwaga-natretne-reklamy.*
+||otube.pl^$doc,to=otube.pl|~uwaga-natretne-reklamy.*
 ||otw.wgoih.top^$all
 ||otwarte24.com.pl^$all
 ||otwarty-umysl.world^$all
@@ -51176,7 +51177,7 @@
 ||u73-827.cfd^$all
 ||u76a.byseniscon.top^$all
 ||u7351105.ct.sendgrid.net^$all
-||u*p*w.ha*.t.justns.ru^$doc,domain=ru
+||u*p*w.ha*.t.justns.ru^$doc,to=ru
 ||u-03km.cfd^$all
 ||u-5lf.cfd^$all
 ||u-6o65.sbs^$all
@@ -52701,7 +52702,7 @@
 ||videoplanet.pl^$all
 ||videoslime.world^$all
 ||videostape.com^$all
-||vider.$doc,domain=~uwaga-natretne-reklamy.*|vider.*
+||vider.$doc,to=~uwaga-natretne-reklamy.*|vider.*
 ||vidhos.info^$all
 ||vidprawa-oix.westrasal.workers.dev^$all
 ||vidsolutions.net^$all
@@ -54665,7 +54666,7 @@
 ||wp-esports.de^$all
 ||wp-pl.space^$all
 ||wp-safe-connect.com^$all
-||wp.*.top^$doc,domain=top
+||wp.*.top^$doc,to=top
 ||wp.binnpro.xyz^$all
 ||wp.topprogit.xyz^$all
 ||wpad.engineer^$all
@@ -55080,7 +55081,7 @@
 ||x6-cxi.cfd^$all
 ||x7cfow.cyou^$all
 ||x7cyoa.sbs^$all
-||x9.eu^$doc,domain=~www.x9.eu
+||x9.eu^$doc,to=~www.x9.eu|x9.eu
 ||x21.xtnew.click^$all
 ||x-2h95.cfd^$all
 ||x-59jf.cfd^$all
@@ -56013,7 +56014,7 @@
 ||zalesyykau.org^$all
 ||zalobarodziny.click^$all
 ||zaltm.com^$all
-||zalukaj*.$doc,domain=~zalukaj.ru
+||zalukaj*.$doc
 ||zalukaj.fili.tube^$all
 ||zaluknij.pl^$all
 ||zalymeilia.live^$all
