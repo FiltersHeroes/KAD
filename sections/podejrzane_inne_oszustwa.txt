@@ -578,7 +578,7 @@
 ||healy.shop^$all
 ||healy.world^$all
 ||healyworld.net^$all
-||hearclear.com^$all,domain=~www.hearclear.com
+||hearclear.com^$all,to=~www.hearclear.com|hearclear.com
 ||hejmosie.com^$all
 ||herbalife.pl^$all
 ||heywood.pl^$all
@@ -1483,8 +1483,8 @@
 ||vod4u.pl^$all
 ||vodplay.pl^$all
 ||voldemort.pl^$all
-||vorwerk.pl/*/zamow-prezentacje/poznaj-kobold|$doc,domain=~przemysl-zamowienie-prezentacji.*
-||vorwerk.pl/*/zamow-prezentacje/poznaj-thermomix|$doc,domain=~przemysl-zamowienie-prezentacji.*
+||vorwerk.pl/*/zamow-prezentacje/poznaj-kobold|$doc,to=~przemysl-zamowienie-prezentacji.*
+||vorwerk.pl/*/zamow-prezentacje/poznaj-thermomix|$doc,to=~przemysl-zamowienie-prezentacji.*
 ||vratislavialex.pl^$all
 ||vrehed.com^$all
 ||vseobuch.ru^$all
