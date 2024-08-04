@@ -1,4 +1,3 @@
-||intenfix.com^$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -1140,7 +1139,7 @@
 ||24-news.aesthetise.com^$all
 ||24-news.pro^$all
 ||24-news.shjfx.com^$all
-||24.eu^$doc,to=~www.24.eu|24.eu
+||24.eu^$doc,to=24.eu|~www.24.eu
 ||24.glanvillemedia.com^$all
 ||24bharatnews.com^$all
 ||24by7flights.com^$all
@@ -3412,6 +3411,7 @@
 ||allegro.oferta-premium24.pl^$all
 ||allegro.oferty24h.pl^$all
 ||allegro.oplata24-7.pl^$all
+||allegro.p0b9av.pl^$all
 ||allegro.p24-v9ca71.pl^$all
 ||allegro.p84-v9a81v.pl^$all
 ||allegro.pl-9534.pl^$all
@@ -9646,7 +9646,7 @@
 ||c-v.com^$all
 ||c.bbuuddaa.top^$all
 ||c.latotip.top^$all
-||c.pl^$doc,to=~www.c.pl|c.pl
+||c.pl^$doc,to=c.pl|~www.c.pl
 ||c.proflivee.top^$all
 ||c.romankyo.com^$all
 ||ca3jri.icu^$all
@@ -9910,6 +9910,7 @@
 ||capital.phtmedia.com^$all
 ||capitalaiguru.pro^$all
 ||capitalaspect.com^$all
+||capitalcitytuxedo.com^$all
 ||capitaldasaude.com^$all
 ||capitalestatecoin.com^$all
 ||capitalexpertuae.com^$all
@@ -12694,6 +12695,7 @@
 ||cs-55.space^$all
 ||cs-55.website^$all
 ||cs-twitch.tv^$all
+||cs.dduv.top^$all
 ||cs.float.co.cm^$all
 ||csclao.com^$all
 ||cse135cheungjr.com^$all
@@ -24251,6 +24253,7 @@
 ||hr45.cfd^$all
 ||hr-assistant.com^$all
 ||hr.clockstores.shop^$all
+||hr.dduv.top^$all
 ||hrappleanne.com^$all
 ||hrasiasummit.com^$all
 ||hrchg.sbs^$all
@@ -24546,6 +24549,7 @@
 ||iasportbetting.com^$all
 ||iasqim.org^$all
 ||iaudio360.com^$all
+||iaukcja16754.pl^$all
 ||iavailable.eu^$all
 ||ib4sy4.webwave.dev^$all
 ||ib-airbank-cz.bailbondscheckin.com^$all
@@ -27102,6 +27106,7 @@
 ||intellwise.com^$all
 ||intelmonkey.com^$all
 ||intencc.com^$all
+||intenfix.com^$all
 ||intenskins.com^$all
 ||intentchat.com^$all
 ||intentionalhealingsystems.com^$all
@@ -27649,6 +27654,7 @@
 ||ittybittybub.com^$all
 ||ituunik.com^$all
 ||ituvillage.com^$all
+||iu2rzs.rest^$all
 ||iu7jcn.bond^$all
 ||iu84-3s.cfd^$all
 ||iuddy.com^$all
@@ -28930,6 +28936,8 @@
 ||katduda.nikolasjarosz.pl^$all
 ||kategopk.com^$all
 ||kategoriaroli.click^$all
+||kategorie-hobby.pl^$all
+||kategorie-ogrodowe211.pl^$all
 ||kateklearningsystems.com^$all
 ||katelyncateron.com^$all
 ||katexin.com^$all
@@ -33906,6 +33914,7 @@
 ||minecraftprojectguide.com^$all
 ||minecrusade.com^$all
 ||minedigit.com^$all
+||minefulpath.website^$all
 ||mineinsight.cam^$all
 ||mineiros.com^$all
 ||mineladies.com^$all
@@ -34534,6 +34543,7 @@
 ||mortgagesmo.com^$all
 ||mortoka.com^$all
 ||morvrgkedds.site^$all
+||morzenapiasku.pl^$all
 ||mosbahkazma.com^$all
 ||moseschoudary.org^$all
 ||mosesprem.com^$all
@@ -34705,6 +34715,7 @@
 ||msv-490.cfd^$all
 ||msx-blog.checkerer.xyz^$all
 ||mt9exbit.com^$all
+||mt.dduv.top^$all
 ||mt.nimprove.top^$all
 ||mta.bloxg.top^$all
 ||mtaa.troove.top^$all
@@ -37711,6 +37722,7 @@
 ||online-kurier.cloud^$all
 ||online-news.fun^$all
 ||online-payu-dhosting-pl.packpony.eu^$all
+||online-support.help^$all
 ||online.co-opinionated.com^$all
 ||online.computation.shop^$all
 ||online.engagement.best^$all
@@ -38393,6 +38405,7 @@
 ||ozwaz.com^$all
 ||ozwebshop.net^$all
 ||ozzyredgroup.com^$all
+||p0b9av.pl^$all
 ||p0czta.00357937.xyz^$all
 ||p0litic0linsight.life^$all
 ||p0rtantblog.xyz^$all
@@ -40859,6 +40872,7 @@
 ||portalwojewodzki.lat^$all
 ||portalzdarzen.click^$all
 ||portalznaczacy.click^$all
+||portantbar.cfd^$all
 ||portapottyrentalcrew.com^$all
 ||porter.koothoomi-directory.com^$all
 ||porterfun.site^$all
@@ -53058,6 +53072,7 @@
 ||vlnted-gb.id5357753.info^$all
 ||vlnted-gb.id5744218.info^$all
 ||vlnted-gb.id5787312.info^$all
+||vlnted-gb.id8542352.info^$all
 ||vlnted-gb.id54216512.info^$all
 ||vlnted-gb.id8432748123.info^$all
 ||vlnted-gb.oierty.info^$all
@@ -55455,6 +55470,7 @@
 ||y8news.com^$all
 ||y8r4.cfd^$all
 ||y8u0i2.jordanhavvels.com^$all
+||y9v1-20va.pl^$all
 ||y9v9a71.pl^$all
 ||y27v8a9.pl^$all
 ||y52-4.cfd^$all
@@ -56560,19 +56576,3 @@
 ||zzpwoning.com^$all
 ||zzzfffqqq.shop^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||allegro.p0b9av.pl^$all
-||capitalcitytuxedo.com^$all
-||cs.dduv.top^$all
-||hr.dduv.top^$all
-||iaukcja16754.pl^$all
-||iu2rzs.rest^$all
-||kategorie-hobby.pl^$all
-||kategorie-ogrodowe211.pl^$all
-||minefulpath.website^$all
-||morzenapiasku.pl^$all
-||mt.dduv.top^$all
-||online-support.help^$all
-||p0b9av.pl^$all
-||portantbar.cfd^$all
-||vlnted-gb.id8542352.info^$all
-||y9v1-20va.pl^$all
