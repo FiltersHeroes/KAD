@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 04 Aug 2024, 19:26 UTC+02:00
-! Version: 2024.8.4.4
+! Last modified: Sun, 04 Aug 2024, 22:19 UTC+02:00
+! Version: 2024.8.4.5
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1502,8 +1502,8 @@
 ||vod4u.pl^$all
 ||vodplay.pl^$all
 ||voldemort.pl^$all
-||vorwerk.pl/*/zamow-prezentacje/poznaj-kobold|$doc,to=~przemysl-zamowienie-prezentacji.*
-||vorwerk.pl/*/zamow-prezentacje/poznaj-thermomix|$doc,to=~przemysl-zamowienie-prezentacji.*
+||vorwerk.*/*/zamow-prezentacje/poznaj-kobold|$doc,to=~przemysl-zamowienie-prezentacji.*|vorwerk.com|vorwerk.pl
+||vorwerk.*/*/zamow-prezentacje/poznaj-thermomix|$doc,to=~przemysl-zamowienie-prezentacji.*|vorwerk.com|vorwerk.pl
 ||vratislavialex.pl^$all
 ||vrehed.com^$all
 ||vseobuch.ru^$all
@@ -5750,6 +5750,7 @@
 ||allegrolokalnie.y0j19g2.pl^$all
 ||allegrolokalnie.y0v7a1.pl^$all
 ||allegrolokalnie.y7p0a3.pl^$all
+||allegrolokalnie.y9v1-20va.pl^$all
 ||allegrolokalnie.yvv0a81.pl^$all
 ||allegrolokalnie.zakupujonline.pl^$all
 ||allegrolokalnie.zakupw-sieci.pl^$all
@@ -15806,6 +15807,7 @@
 ||de7cb96a.kortfilmfestivalen.no^$all
 ||de-220724.com^$all
 ||de.bloxg.top^$all
+||de.dduv.top^$all
 ||de.progofficial.top^$all
 ||de.progofficialit.top^$all
 ||de.waagge.top^$all
@@ -24501,6 +24503,7 @@
 ||gum.metesp.xyz^$all
 ||gum.pr0gmatic.site^$all
 ||gumluxe.hair^$all
+||gummauadditi.fun^$all
 ||gumroade.com^$all
 ||gumzelsun3.site^$all
 ||gunfreeflorida.com^$all
@@ -26547,6 +26550,7 @@
 ||iasqim.org^$all
 ||iaudio360.com^$all
 ||iaukcja16754.pl^$all
+||iaukcje16778.pl^$all
 ||iavailable.eu^$all
 ||ib4sy4.webwave.dev^$all
 ||ib-airbank-cz.bailbondscheckin.com^$all
@@ -31389,6 +31393,7 @@
 ||kkrtai.top^$all
 ||kl57.cfd^$all
 ||kl-ow83.cfd^$all
+||kl.dduv.top^$all
 ||kladiuszkonrad.pl^$all
 ||klapsac.com^$all
 ||klarissi.com^$all
@@ -35071,6 +35076,7 @@
 ||md4l.cfd^$all
 ||md-bike.com^$all
 ||md-vgi.cfd^$all
+||md.dduv.top^$all
 ||md.plprogpltes.site^$all
 ||mdaguerre.com^$all
 ||mdc-multisvcs.com^$all
@@ -45879,6 +45885,7 @@
 ||rezu.space^$all
 ||rf3-dh.cfd^$all
 ||rf-zq2.sbs^$all
+||rf.dduv.top^$all
 ||rfcgear.com^$all
 ||rfd.startone.top^$all
 ||rfdesigninterioresemarcenaria.com^$all
@@ -47018,6 +47025,7 @@
 ||saynews.space^$all
 ||sazeracsymphony.live^$all
 ||sazhol.site^$all
+||sb5kzx.bond^$all
 ||sb6v.cfd^$all
 ||sb-tickets.com^$all
 ||sb.avlw.top^$all
@@ -49058,6 +49066,7 @@
 ||sprzedajemypln-online.shop^$all
 ||sprzedamkoszty.com^$all
 ||sprzedamkupie.online^$all
+||sprzedaz5236.pl^$all
 ||sprzedaz-allegro-lokalnie.store^$all
 ||spswierz.kaspianbana.pl^$all
 ||sptrojczyce.irenanel.pl^$all
@@ -50237,6 +50246,7 @@
 ||swot.autotrdes.top^$all
 ||swq.ltdroom.top^$all
 ||swtm.xyz^$all
+||sx4met.hair^$all
 ||sx.pzqe.lat^$all
 ||sx.trdplatform.xyz^$all
 ||sxgt2hiq8u.shop^$all
@@ -55287,6 +55297,7 @@
 ||vuvubiv.com^$all
 ||vuwube.opinionjet.com^$all
 ||vv1sionaryr1se.life^$all
+||vv.dduv.top^$all
 ||vv.mucp.lat^$all
 ||vv.ormd.skin^$all
 ||vvcc.prodepl.top^$all
@@ -58021,6 +58032,7 @@
 ||zakovat-viktorinos.site^$all
 ||zakovatgame.site^$all
 ||zaktualizuj-adres.top^$all
+||zakup752.pl^$all
 ||zalandobest.com^$all
 ||zalandovipstore.com^$all
 ||zalbani.is-best.net^$all
@@ -58966,8 +58978,8 @@
 !
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
 ##a[href^="/fb-login"]
-/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,domain=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
-|http://a2g.me/$doc,important,domain=~zalecane-wymuszenie-https.*
+/^https?:\/\/[\w]+\.cloudfront\.net\/rev\/pl\/v/$doc,important,to=~asystent-pobierania-na-komputerswiat-dobreprogramy.*|cloudfront.net
+|http://a2g.me/$doc,important,to=~zalecane-wymuszenie-https.*
 ||digitogy.eu^$all
 ||displayfilmy.pl^$all
 ||displaymovies.pl^$all
