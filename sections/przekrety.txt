@@ -1,6 +1,3 @@
-||marketmakers.cc^$all
-||vendigital.tech^$all
-||polskigamepass.pl^$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.[\w]{2,14}/$all
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.[\w]{2,14}/$all,domain=~pocztex.pl
 /^https?:\/\/([\w]{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.[\w]{2,14}/$all
@@ -1919,6 +1916,7 @@
 ||88794fcad9aa1a6e20214980a6cc7bfd.dioprl.pl^$all
 ||090724.com^$all
 ||90785eec6248d08bd3fdf0530f673e08.puoli.pl^$all
+||091383.pl^$all
 ||92216a10512183eec887c244d557fe80.vistvx.pl^$all
 ||92260b84125c16671f6783c3a6254f7e.liamartem.pl^$all
 ||98602a7227f3537eb283f585e65405be.puoli.pl^$all
@@ -3661,6 +3659,7 @@
 ||allegrolokalnie.2947.pl^$all
 ||allegrolokalnie.7427.pl^$all
 ||allegrolokalnie.53812.pl^$all
+||allegrolokalnie.091383.pl^$all
 ||allegrolokalnie.$doc,frame,domain=~allegro.com|~allegro.cz|~allegro.pl|~allegro.sk|~allegrolokalnie.pl|~bing.*|~czc.cz|~duckduck.*|~ecosia.org|~google.*|~mall.cz|~mall.hr|~mall.hu|~mall.pl|~mall.sk|~mimovrste.com|~qwant.com|~startpage.com|~wedo.cz|~yahoo.*
 ||allegrolokalnie.aukcja-id78613.pl^$all
 ||allegrolokalnie.aukcja-id849214.pl^$all
@@ -13430,6 +13429,7 @@
 ||ctxholdings.com^$all
 ||ctyguide.com^$all
 ||ctyquangduc.com^$all
+||cu.snvq.top^$all
 ||cuadrosyposters.com^$all
 ||cuba-quebec.com^$all
 ||cubancourage.com^$all
@@ -34417,6 +34417,7 @@
 ||marketingparaescuelas.com^$all
 ||marketingparafitness.com^$all
 ||marketingtsi.com^$all
+||marketmakers.cc^$all
 ||marketmaxsolutions.com^$all
 ||marketonica.space^$all
 ||marketopreneur.com^$all
@@ -42956,6 +42957,7 @@
 ||polskieinformacje.click^$all
 ||polskieradio.cfd^$all
 ||polskieradio.icu^$all
+||polskigamepass.pl^$all
 ||polskikurier24.cloud^$all
 ||polskilombard.pl^$all
 ||polskiposta.top^$all
@@ -44406,6 +44408,7 @@
 ||pu4y.com^$all
 ||pu-dfp.cfd^$all
 ||pu.newpol.xyz^$all
+||pu.snvq.top^$all
 ||pub-0afc0d489c54464ea1cdd398c8b52a1a.r2.dev^$all
 ||pub-0c171a652002420d983f550b91204acb.r2.dev^$all
 ||pub-0e86c88f91114446ae8284d5643ce1c5.r2.dev^$all
@@ -51342,6 +51345,7 @@
 ||tastytreats.sbs^$all
 ||tastyydelights.com^$all
 ||tatetruckingenterprise.com^$all
+||tatoimamo.pl^$all
 ||tattoocentric.com^$all
 ||tattoogranth.com^$all
 ||tattooingatlanta.com^$all
@@ -54540,6 +54544,7 @@
 ||update-package.com^$all
 ||update.*sf*.online^$all
 ||update.account57745587.bot.nu^$all
+||update.spatlfy6324.serverpit.com^$all
 ||update.spatlfy145275.okzk.com^$all
 ||update.yams-com.top^$all
 ||updatebath.com^$all
@@ -55490,6 +55495,7 @@
 ||vemo.easysurveytracker.com^$all
 ||vemodalenan.xyz^$all
 ||venatoresoutfitters.com^$all
+||vendigital.tech^$all
 ||vendor.idahosoftserve.com^$all
 ||vendorchange.click^$all
 ||vendotuttonline.com^$all
@@ -59843,9 +59849,3 @@
 ||zzpwoning.com^$all
 ||zzzfffqqq.shop^$all
 ||zzzyy*pol*.cmkaarten.nl^$all,domain=cmkaarten.nl
-||091383.pl^$all
-||allegrolokalnie.091383.pl^$all
-||cu.snvq.top^$all
-||pu.snvq.top^$all
-||tatoimamo.pl^$all
-||update.spatlfy6324.serverpit.com^$all
