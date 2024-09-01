@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 01 Sep 2024, 18:22 UTC+02:00
-! Version: 2024.9.1.3
+! Last modified: Sun, 01 Sep 2024, 20:10 UTC+02:00
+! Version: 2024.9.1.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4176,6 +4176,7 @@
 ||a5230.aimedia.lk^$all
 ||a5597.awicksin.com^$all
 ||a8750d91.kortfilmfestivalen.no^$all
+||a8989w8921j3131378ede-hjbhukhjk.in^$all
 ||a12603.aimedia.lk^$all
 ||a13615.cetusinvestmentsbtc.com^$all
 ||a18120.kanuassociates.com^$all
@@ -6184,6 +6185,7 @@
 ||allegrolokalnie.pua81va.pl^$all
 ||allegrolokalnie.rezerwacja9733818.cfd^$all
 ||allegrolokalnie.search-4128v.pl^$all
+||allegrolokalnie.secure2451.pl^$all
 ||allegrolokalnie.secure-13.pl^$all
 ||allegrolokalnie.strona-04.pl^$all
 ||allegrolokalnie.strona-5-68364.site^$all
@@ -15954,6 +15956,7 @@
 ||csgo3.easydailyservices.com^$all
 ||csgo-fsport.ru^$all
 ||csgo-tv.com^$all
+||csgomoneys.com^$all
 ||csgos1mple.com^$all
 ||csgoskinbase.com^$all
 ||csgovipcase.com^$all
@@ -23594,6 +23597,7 @@
 ||flukec.sbs^$all
 ||flumbu8laxic.shop^$all
 ||fluorescent-chimpanzee-qum0stik.sandboxcms.com^$all
+||fluorescent-donkey-b5jidiqh.sandboxcms.com^$all
 ||fluorescent-rhino-hrqj3ibo.sandboxcms.com^$all
 ||fluorinefusion.xyz^$all
 ||flushkid.com^$all
@@ -34460,6 +34464,7 @@
 ||konerios.site^$all
 ||konfirmads.com^$all
 ||koniecklopotow.click^$all
+||koniecsezonu.pl^$all
 ||koniecsledztwa.click^$all
 ||koniecsprawy.click^$all
 ||konkretnawzmianka.click^$all
@@ -36171,6 +36176,7 @@
 ||limmer-coin.net^$all
 ||limmer-coin.org^$all
 ||limmercoin.io^$all
+||limmercoin.me^$all
 ||limpbasket.cfd^$all
 ||limpiezaselpolvoroso.com^$all
 ||limradigitech.com^$all
@@ -42875,6 +42881,7 @@
 ||oglloszeniie85653z.pl^$all
 ||oglloszeniie96574x.pl^$all
 ||oglloszeniie324045x.pl^$all
+||oglloszeniie429953x.pl^$all
 ||oglloszeniie2495823x.pl^$all
 ||oglloszenniie827472x.pl^$all
 ||oglloszenniie922943x.pl^$all
@@ -43184,6 +43191,7 @@
 ||olx-pl.weryfikacja-zamowienia.info^$all
 ||olx-pl.wygodna-dostawa.site^$all
 ||olx-pl.yapeedym.shop^$all
+||olx-pl.yavkoner.lol^$all
 ||olx-pl.ybliksam.shop^$all
 ||olx-pl.ydeas.shop^$all
 ||olx-pl.yliksonak.lol^$all
@@ -43288,6 +43296,7 @@
 ||olx.pl.*.$doc,to=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||olx.plikaur.lol^$all
 ||olx.plsrt.site^$all
+||olx.privacy-redirect.shop^$all
 ||olx.prokar.lol^$all
 ||olx.protect-get.shop^$all
 ||olx.protect-me.shop^$all
@@ -56750,6 +56759,7 @@
 ||thelemonfish.com^$all
 ||thelicketysplit.fun^$all
 ||thelightbulbtech.com^$all
+||thelimmercoin.com^$all
 ||thelittlehive.com^$all
 ||thelittleripper.com^$all
 ||thelittletalkatives.com^$all
@@ -61285,6 +61295,7 @@
 ||wakacjenasloncu.pl^$all
 ||wakacjeod.website^$all
 ||wakacji-czas.online^$all
+||wakacyjnespoty.pl^$all
 ||wakefulbonsai.com^$all
 ||wakeupsailor.com^$all
 ||waki.mastercasc.top^$all
@@ -65261,6 +65272,7 @@
 ||uploadfile.pl/download.png$image
 ||wilczynscy-ogrody.pl^$all
 ~pl##a[href*="whokeys.com/"]:lang(pl)
+~support.ublock.org,ublock.org##body main::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
@@ -65268,6 +65280,9 @@ github.com##:matches-path(/FiltersHeroes/KAD/issues/1241) :is(#close-as-unplanne
 pl##a[href*="whokeys.com/"]
 porta.salesmanago.pl##+js(href-sanitizer, a[href*="porta.salesmanago.pl/ms/rd.htm?url"], ?url)
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
+support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
+support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style(display: inline-block !important; text-align: center !important)
+support.ublock.org##body div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com##.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.dobreprogramy.pl##:matches-path(/\/[a-zA-Z0-9-]{1,99},program,/) article#main-content > div[class]:not([id]) > div[class]:not([id]):watch-attr(class):has(> div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:nth-child(-n+2):not(:empty):not(:has(a[href*="oprogramowanie-z-rosji"], a[href*="niepotrzebne-pliki"]))
