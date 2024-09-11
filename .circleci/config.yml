@@ -1,51 +1,51 @@
-version: 2
-jobs:
-  CERT:
-    docker:
-    - image: polishfiltersteam/kad_image:3.0.12
-    working_directory: ~/git/KAD
-    steps:
-    - checkout
-    - run: ./scripts/addNoveltiesFrom3p.py CERT
-    - persist_to_workspace:
-        root: ./
-        paths:
-          - sections/CERT_novelties.txt
-  LWS:
-    docker:
-    - image: polishfiltersteam/kad_image:3.0.12
-    working_directory: ~/git/KAD
-    steps:
-    - checkout
-    - run: ./scripts/addNoveltiesFrom3p.py LWS
-    - persist_to_workspace:
-        root: ./
-        paths:
-          - sections/LWS_novelties.txt
-  Aktualizacja:
-    docker:
-    - image: polishfiltersteam/kad_image:3.0.12
-    working_directory: ~/git/KAD
-    steps:
-    - checkout
-    - attach_workspace:
-        at: ./
-    - run: python3 ./scripts/build.py
-workflows:
-  version: 2
-  workflow:
-    triggers:
-    - schedule:
-        cron: 15 0 * * 0
-        filters:
-          branches:
-            only:
-            - master
-    jobs:
-      - CERT
-      - LWS
-      - Aktualizacja:
-          context: org-global
-          requires:
-            - CERT
-            - LWS
+# version: 2
+# jobs:
+#   CERT:
+#     docker:
+#     - image: polishfiltersteam/kad_image:3.0.12
+#     working_directory: ~/git/KAD
+#     steps:
+#     - checkout
+#     - run: ./scripts/addNoveltiesFrom3p.py CERT
+#     - persist_to_workspace:
+#         root: ./
+#         paths:
+#           - sections/CERT_novelties.txt
+#   LWS:
+#     docker:
+#     - image: polishfiltersteam/kad_image:3.0.12
+#     working_directory: ~/git/KAD
+#     steps:
+#     - checkout
+#     - run: ./scripts/addNoveltiesFrom3p.py LWS
+#     - persist_to_workspace:
+#         root: ./
+#         paths:
+#           - sections/LWS_novelties.txt
+#   Aktualizacja:
+#     docker:
+#     - image: polishfiltersteam/kad_image:3.0.12
+#     working_directory: ~/git/KAD
+#     steps:
+#     - checkout
+#     - attach_workspace:
+#         at: ./
+#     - run: python3 ./scripts/build.py
+# workflows:
+#   version: 2
+#   workflow:
+#     triggers:
+#     - schedule:
+#         cron: 15 0 * * 0
+#         filters:
+#           branches:
+#             only:
+#             - master
+#     jobs:
+#       - CERT
+#       - LWS
+#       - Aktualizacja:
+#           context: org-global
+#           requires:
+#             - CERT
+#             - LWS
