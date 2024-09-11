@@ -51,6 +51,8 @@ jobs:
         with:
           app-id: 994739
           private-key: ${{ secrets.PRIVATE_APP_HELPER_KEY }}
+          owner: ${{ github.repository_owner }}
+          repositories: "KAD, KADhosts"
       - name: Aktualizacja całej listy
         env:
           GIT_TOKEN: ${{ steps.app-token.outputs.token }}
