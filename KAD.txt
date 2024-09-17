@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 17 Sep 2024, 18:24 UTC+02:00
-! Version: 2024.9.17.2
+! Last modified: Tue, 17 Sep 2024, 20:42 UTC+02:00
+! Version: 2024.9.17.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -749,6 +749,7 @@
 ||mojepremium.pl^$all
 ||mojetestery.pl^$all
 ||molilulu.com^$all
+||mommybag.pl^$all
 ||monclerpolska.com^$all
 ||mondayblog.pl^$all
 ||moonbootpolska.com^$all
@@ -1482,6 +1483,7 @@
 /files/*.xml$doc,to=kolorowemotyle.pl
 /fotki/*.xml$doc,to=italiamipiace.pl
 /gfx/*.xml$doc,to=ochroniarz.com.pl
+/https?:\/\/(?:(?:\w+)\.)?skryptcookies\.pl/cookies\.js/$all
 /jump?id=*&_tgurl=$doc
 /site/redirectpage?ca=link&sid=$doc
 /tds/ae?*&clickid=$doc
@@ -5316,6 +5318,7 @@
 ||allegrolokalnie.y0b0a.shop^$all
 ||allegrolokalnie.y0c9a81.shop^$all
 ||allegrolokalnie.y0v8a01.pl^$all
+||allegrolokalnie.y9va81.pl^$all
 ||allegrolokalnie.y39v0a.pl^$all
 ||allegrolokalnie.y301va-p24.pl^$all
 ||allegrolokalnie.y-b9s-03.shop^$all
@@ -14831,6 +14834,7 @@
 ||cyberfolks-pl-13769042fdb.mwpavimentos.com.br^$all
 ||cyberfolks-pl-25130446f40.mwpavimentos.com.br^$all
 ||cyberfolks-pl-889729671e3.mwpavimentos.com.br^$all
+||cyberfolks-pl-a1d436d2.oncocane.com^$all
 ||cyberfolks-pl-a3e77035d08.mwpavimentos.com.br^$all
 ||cyberfolks-pl-a5bcdbdc3c2.mwpavimentos.com.br^$all
 ||cyberfolks-pl-a350ff730e2.mwpavimentos.com.br^$all
@@ -14866,6 +14870,7 @@
 ||cyberfolks-pl-dc75e0f5324.mwpavimentos.com.br^$all
 ||cyberfolks-pl-de106700761.mwpavimentos.com.br^$all
 ||cyberfolks-pl-e0ff156c3b0.mwpavimentos.com.br^$all
+||cyberfolks-pl-e56fa893.oncocane.com^$all
 ||cyberfolks-pl-e66a08b9.oncocane.com^$all
 ||cyberfolks-pl-e05607aeef2.mwpavimentos.com.br^$all
 ||cyberfolks-pl-e09585d0.oncocane.com^$all
@@ -16823,6 +16828,7 @@
 ||dlpropath.info^$all
 ||dlpropeak.com^$all
 ||dlpurecode.com^$all
+||dlpuregems.com^$all
 ||dlpurelife.info^$all
 ||dlpurenature.info^$all
 ||dlpurestreamtechnologies.com^$all
@@ -19776,6 +19782,7 @@
 ||etsyverif-eu.id-48723.com^$all
 ||etternum.com^$all
 ||etusivo24.info^$all
+||etv.net.au^$all
 ||etw.valuez.top^$all
 ||etyfood.com^$all
 ||etyrwxpre.site^$all
@@ -19852,6 +19859,7 @@
 ||eus.fellsax.top^$all
 ||eushopsphere.com^$all
 ||eusoucorrupto.com^$all
+||eustomaglow.xyz^$all
 ||euunclaimedpymt.com^$all
 ||euv.valuez.top^$all
 ||euwool.com^$all
@@ -20112,6 +20120,7 @@
 ||expresscash.pl^$all
 ||expressdhi24.pl^$all
 ||expresshivecourier.com^$all
+||expressimproveleading.pro^$all
 ||expressivestrokes.click^$all
 ||expressoreviews.com^$all
 ||expressplr.com^$all
@@ -23147,6 +23156,7 @@
 ||getcitx.monster^$all
 ||getcuz.monster^$all
 ||getdignity.com^$all
+||getdot.monster^$all
 ||geteconomic.info^$all
 ||geterpconsultants.com^$all
 ||getfilesfrom.net^$all
@@ -26583,6 +26593,7 @@
 ||hycydaimia.org^$all
 ||hydeparkclinpsych.com^$all
 ||hydlifte.com^$all
+||hydrangeafloral.xyz^$all
 ||hydrangeaharmony.xyz^$all
 ||hydrangeahav3n.xyz^$all
 ||hydrangeahaven.store^$all
@@ -34051,6 +34062,7 @@
 ||lridj.cfd^$all
 ||lrob.kastaff.top^$all
 ||ls1gkj.icu^$all
+||ls1qcj.icu^$all
 ||ls3crg.hair^$all
 ||ls9tbz.sbs^$all
 ||ls.plprogpltes.site^$all
@@ -35926,6 +35938,7 @@
 ||michaelboydrealtor.com^$all
 ||michaelemshop.com^$all
 ||michaelepps.com^$all
+||michaelkorpolska.com^$all
 ||michaelkorspolskapl.com^$all
 ||michaellikes.com^$all
 ||michaeltralli.com^$all
@@ -36437,6 +36450,7 @@
 ||mobgames.mobi^$all
 ||mobgator.com^$all
 ||mobidobidi.com^$all
+||mobile-bbnp.com^$all
 ||mobiledevspot.com^$all
 ||mobilegyaan.com^$all
 ||mobilemaddengameparty.com^$all
@@ -39972,6 +39986,7 @@
 ||olx.safe-place.shop^$all
 ||olx.save-area.shop^$all
 ||olx.secure-redirect.shop^$all
+||olx.select-main.shop^$all
 ||olx.select-net.shop^$all
 ||olx.serve-domain.shop^$all
 ||olx.set-link.shop^$all
@@ -40952,6 +40967,7 @@
 ||p1xelw1se.site^$all
 ||p2p-tv.com^$all
 ||p2rl.space^$all
+||p3njol.icu^$all
 ||p03of.com^$all
 ||p3onyl0ve.xyz^$all
 ||p3q8o61r.loginprotect.net^$all
@@ -46623,6 +46639,7 @@
 ||repdowling.com^$all
 ||repealed.sbs^$all
 ||repeslatam.org^$all
+||repetals.xyz^$all
 ||replacvgil.top^$all
 ||replaythesixties.com^$all
 ||replenishremonstratehallucinateis.pro^$all
@@ -50155,6 +50172,7 @@
 ||spindlemovies.com^$all
 ||spineandjointphysio.com^$all
 ||spinets.sbs^$all
+||spinexpert.top^$all
 ||spininvegas.com^$all
 ||spinix7sms.com^$all
 ||spinningboyar.icu^$all
@@ -50231,6 +50249,7 @@
 ||sportify-sale.com^$all
 ||sportmountains.com^$all
 ||sportplus.pro^$all
+||sports-arena.digital^$all
 ||sportsalei.shop^$all
 ||sportscharge.com^$all
 ||sportsenthusiastpro.xyz^$all
@@ -55275,6 +55294,7 @@
 ||upscarriagepayment.com^$all
 ||upsdeliverysav.com^$all
 ||upsecure.aisinfo.shop^$all
+||upsecure.buylhgoods.shop^$all
 ||upsecure.conery.shop^$all
 ||upsecure.copin.shop^$all
 ||upsecure.downcoatb.shop^$all
