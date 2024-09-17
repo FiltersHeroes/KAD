@@ -17,7 +17,7 @@
 /files/*.xml$doc,to=kolorowemotyle.pl
 /fotki/*.xml$doc,to=italiamipiace.pl
 /gfx/*.xml$doc,to=ochroniarz.com.pl
-/https?:\/\/(?:(?:\w+)\.)?skryptcookies\.pl/cookies\.js/$all
+/https?:\/\/(?:\w+\.)?skryptcookies\.pl/cookies\.js/$all
 /jump?id=*&_tgurl=$doc
 /site/redirectpage?ca=link&sid=$doc
 /tds/ae?*&clickid=$doc
