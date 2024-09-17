@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 17 Sep 2024, 20:42 UTC+02:00
-! Version: 2024.9.17.3
+! Last modified: Tue, 17 Sep 2024, 22:20 UTC+02:00
+! Version: 2024.9.17.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1483,7 +1483,7 @@
 /files/*.xml$doc,to=kolorowemotyle.pl
 /fotki/*.xml$doc,to=italiamipiace.pl
 /gfx/*.xml$doc,to=ochroniarz.com.pl
-/https?:\/\/(?:(?:\w+)\.)?skryptcookies\.pl/cookies\.js/$all
+/https?:\/\/(?:\w+\.)?skryptcookies\.pl/cookies\.js/$all
 /jump?id=*&_tgurl=$doc
 /site/redirectpage?ca=link&sid=$doc
 /tds/ae?*&clickid=$doc
@@ -1834,6 +1834,7 @@
 ||0lxe20.cc^$all
 ||0lxplatnosc.shop^$all
 ||0lxpo.48619462.com^$all
+||0lxpo.55619462.com^$all
 ||0mar1te0h.live^$all
 ||0mcy.skin^$all
 ||0mentu0f0rge.site^$all
@@ -4091,6 +4092,7 @@
 ||actfastbookkeeping.com^$all
 ||actingvoley.xyz^$all
 ||action-service-contract-user-41f340.netlify.app^$all
+||actionqea.shop^$all
 ||actionsportperformance.com^$all
 ||actiontoyfigure.com^$all
 ||actiontyres.com^$all
@@ -5244,6 +5246,7 @@
 ||allegrolokalnie.87291472.shop^$all
 ||allegrolokalnie.89721412.shop^$all
 ||allegrolokalnie.812748921u.shop^$all
+||allegrolokalnie.874291499.shop^$all
 ||allegrolokalnie.894128084u.shop^$all
 ||allegrolokalnie.aukcja-id78613.pl^$all
 ||allegrolokalnie.b0a821.com^$all
@@ -14838,6 +14841,7 @@
 ||cyberfolks-pl-a3e77035d08.mwpavimentos.com.br^$all
 ||cyberfolks-pl-a5bcdbdc3c2.mwpavimentos.com.br^$all
 ||cyberfolks-pl-a350ff730e2.mwpavimentos.com.br^$all
+||cyberfolks-pl-a794ae8b.oncocane.com^$all
 ||cyberfolks-pl-a06172e20ae.mwpavimentos.com.br^$all
 ||cyberfolks-pl-aa6d02baeca.mwpavimentos.com.br^$all
 ||cyberfolks-pl-aa5612f6635.mwpavimentos.com.br^$all
@@ -14886,6 +14890,7 @@
 ||cyberfolks-pl-f83439b2.oncocane.com^$all
 ||cyberfolks-pl-fbe221c16dc.mwpavimentos.com.br^$all
 ||cyberfolks-pl-fc579e05.oncocane.com^$all
+||cyberfolks-pl-fd00b5d6.oncocane.com^$all
 ||cyberfolks-pl-fdd53f8106b.mwpavimentos.com.br^$all
 ||cyberfolks-pl-ffa3a42e.oncocane.com^$all
 ||cybergeniusi.xyz^$all
@@ -18014,6 +18019,7 @@
 ||e3-nf0.cfd^$all
 ||e3de3bf5732f82744f68065e90cb215c.dirks.pl^$all
 ||e3oj.cfd^$all
+||e3zmxw.rest^$all
 ||e4-ij7.sbs^$all
 ||e4lfoz.bond^$all
 ||e4roms.cfd^$all
@@ -33265,6 +33271,7 @@
 ||lifevibrancy.life^$all
 ||lifevicenza.com^$all
 ||lifewithquotes.com^$all
+||lifeworksroyaloak.ru^$all
 ||lifinexecutcon.life^$all
 ||lifoff.top^$all
 ||lift-detoxblack.com^$all
@@ -40326,6 +40333,7 @@
 ||oovd.actiprogz.top^$all
 ||op0rtu-sinlng.site^$all
 ||op1atadpd24.shop^$all
+||op1ejc.one^$all
 ||op-100355.weeblysite.com^$all
 ||op-103563.weeblysite.com^$all
 ||op-104786.weeblysite.com^$all
@@ -56483,6 +56491,7 @@
 ||vinted-com.home478.shop^$all
 ||vinted-com.verlfy32.shop^$all
 ||vinted-connaissance.info^$all
+||vinted-de.id921356.info^$all
 ||vinted-de.id8468643.info^$all
 ||vinted-dk.id-35961.com^$all
 ||vinted-es.bind9438.com^$all
@@ -56569,6 +56578,7 @@
 ||vintedse.methostableout.eu^$all
 ||vintedse.salmonsmooth.eu^$all
 ||vintedsell.org^$all
+||vintedsels.org^$all
 ||vintedservice885.wixsite.com^$all
 ||vintedsk.order1120.eu^$all
 ||vintedsk.order1177.eu^$all
@@ -58867,6 +58877,7 @@
 ||wyszacuneklecz.lat^$all
 ||wytrosocs.xyz^$all
 ||wytrzymalyprzyroza.cfd^$all
+||wyvecoo.com^$all
 ||wyvernquip.mom^$all
 ||wywiad.polinvst.com^$all
 ||wywiadyifakty.rest^$all
@@ -59600,6 +59611,7 @@
 ||yourbestlive.click^$all
 ||yourbestlive.quest^$all
 ||yourbluereview.com^$all
+||yourbonushere.online^$all
 ||yourbridebliss.com^$all
 ||yourchoice.stormo.site^$all
 ||yourdealshoponline.store^$all
