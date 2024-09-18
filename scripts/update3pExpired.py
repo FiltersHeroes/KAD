@@ -28,6 +28,7 @@ os.chdir(temp_path)
 
 tp = sys.argv[1]
 tp_path = "./" + tp + ".txt"
+tpDomains = {}
 
 if tp == "CERT":
     download(tp_path, "https://hole.cert.pl/domains/v2/domains.txt")
@@ -50,6 +51,8 @@ with open(tp_path, "r", encoding='utf-8') as tp_f, \
         domains.append(domain)
     domains = sorted(set(domains))
     for domain in domains:
+        if tp == "LWS":
+            tpDomains[domain.strip()] = ""
         f_out.write(str(domain).encode())
     os.rename(f_out.name, tp_path)
 
@@ -79,14 +82,17 @@ if tp == "CERT":
         strings = json.load(domains_json)
 
     for string in strings:
+        cleanedURL = string["DomainAddress"].replace("www.", "")
         if string["DeleteDate"]:
-            cleanedURL = string["DomainAddress"].replace("www.", "")
-            removedDomains[f"||{cleanedURL}^$all"] = ""
+            removedDomains[f"{cleanedURL}"] = ""
+        else:
+            tpDomains[f"{cleanedURL}"] = ""
 
 with open(tp_e_path, "r", encoding='utf-8') as tp_e, NamedTemporaryFile(dir=temp_path, delete=False, mode="w", encoding='utf-8') as f_t:
     for line in sorted(set(tp_e)):
-        if line := line.strip():
-            if line not in removedDomains:
+        line = line.strip()
+        if line:
+            if line not in '\t'.join(removedDomains) and line in '\t'.join(tpDomains):
                 f_t.write(f"{line}\n")
 os.replace(f_t.name, tp_e_path)
 if os.path.isdir(temp_path):
