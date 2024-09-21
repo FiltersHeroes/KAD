@@ -99,8 +99,14 @@ for string in strings_v2:
         cleanedURL = string["DomainAddress"].replace("www.", "")
         removedDomains[f"||{cleanedURL}^$all"] = ""
 
+cert_v2_domains = {}
+for string in strings_v2:
+    cert_v2_domains[string["DomainAddress"]] = ""
+
+cert_v2_domains_combined = '\t'.join(cert_v2_domains)
+
 for string in strings:
-    if string["DomainAddress"] not in strings_v2:
+    if string["DomainAddress"] not in cert_v2_domains_combined:
         cleanedURL = string["DomainAddress"].replace("www.", "")
         removedDomains[f"||{cleanedURL}^$all"] = ""
 
