@@ -83,14 +83,24 @@ combineFiles(LWS_NOVELTIES_PATH, PODEJRZANE_PATH)
 
 # Usuwamy domeny usunięte z CERT
 download(pj(temp_path, "domains.json"),
+         "https://hole.cert.pl/domains/domains.json")
+download(pj(temp_path, "domains_v2.json"),
          "https://hole.cert.pl/domains/v2/domains.json")
+
+with open(pj(temp_path, "domains_v2.json"), "r", encoding='utf-8') as domains_v2_json:
+    strings_v2 = json.load(domains_v2_json)
 
 with open(pj(temp_path, "domains.json"), "r", encoding='utf-8') as domains_json:
     strings = json.load(domains_json)
 
 removedDomains = {}
-for string in strings:
+for string in strings_v2:
     if string["DeleteDate"]:
+        cleanedURL = string["DomainAddress"].replace("www.", "")
+        removedDomains[f"||{cleanedURL}^$all"] = ""
+
+for string in strings:
+    if string["DomainAddress"] not in strings_v2:
         cleanedURL = string["DomainAddress"].replace("www.", "")
         removedDomains[f"||{cleanedURL}^$all"] = ""
 
