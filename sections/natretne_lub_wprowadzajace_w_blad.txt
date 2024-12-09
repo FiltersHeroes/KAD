@@ -2,7 +2,6 @@
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,important,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
 |http://a2g.me/$doc,important,to=~zalecane-wymuszenie-https.*
 ||digitogy.eu^$all
-||displayfilmy.pl^$all
 ||displaymovies.pl^$all
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
 ||ptoszek.pl^$all
