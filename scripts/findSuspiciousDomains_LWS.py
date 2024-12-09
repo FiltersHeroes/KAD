@@ -24,11 +24,11 @@ def main():
     for div in data:
         links = div.find_all('a', rel="nofollow")
         for a in links:
-            a['href'] = re.sub('http(s)?:\/\/', '', a['href'])
-            a['href'] = re.sub('\/(.*)', '', a['href'])
-            a['href'] = re.sub('^www[0-9]\.', '', a['href'])
-            a['href'] = re.sub('^www\.', '', a['href'])
-            if domain_pat.match(a['href']):
-                domains.append(a['href'])
-
+            domain = a['href']
+            if domain_pat.match(domain):
+                domain = re.sub('http(s)?:\/\/', '', a['href'])
+                domain = re.sub('\/(.*)', '', a['href'])
+                domain = re.sub('^www[0-9]\.', '', a['href'])
+                domain = re.sub('^www\.', '', a['href'])
+                domains.append(domain)
     return domains
