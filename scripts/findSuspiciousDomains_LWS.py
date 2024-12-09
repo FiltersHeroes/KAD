@@ -20,6 +20,7 @@ def main():
     data = soup.find_all('div', class_="ul-unsafe")
 
     domains = []
+    domain_pat = re.compile(r"^https?:\/\/(?:[^@\n]+@)?(?:www\.)?([^:\/\n?]+)")
     for div in data:
         links = div.find_all('a', rel="nofollow")
         for a in links:
@@ -27,6 +28,7 @@ def main():
             a['href'] = re.sub('\/(.*)', '', a['href'])
             a['href'] = re.sub('^www[0-9]\.', '', a['href'])
             a['href'] = re.sub('^www\.', '', a['href'])
-            domains.append(a['href'])
+            if domain_pat.match(a['href']):
+                domains.append(a['href'])
 
     return domains
