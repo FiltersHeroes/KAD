@@ -24,6 +24,16 @@
 /^https?:\/\/([\w]{1,4}\.)?vjnted\.[0-9]+\.(xyz)/$doc,to=xyz
 |http*://*/fb-login/$doc,to=~facebook.com
 |http*://*/ym.html?email=*@$doc,to=~to-moze-byc-phishing.*
+/\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
+/\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
+/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.(?:li[fv]e|top|xyz)\/[a-z]{8}\/\?utm_campaign=\w{40,}/$doc,match-case,to=life|live|top|xyz
+/^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,to=top
+/^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/$doc
+/^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,to=biz
+/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case
+/^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case
+/^https?:\/\/crypto0[0-9]+\.online/$doc,important
+/https?:\/\/(?:\w+\.)?skryptcookies\.pl/cookies\.js/$all
 ||*.*.mirsolar.com.tr^$all
 ||*.atthost24.pl/weryfikacja/$doc,frame
 ||*.cal24.pl/weryfikacja/$doc,frame
