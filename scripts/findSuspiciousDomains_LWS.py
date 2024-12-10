@@ -26,9 +26,9 @@ def main():
         for a in links:
             domain = a['href']
             if domain_pat.match(domain):
-                domain = re.sub('http(s)?:\/\/', '', a['href'])
-                domain = re.sub('\/(.*)', '', a['href'])
-                domain = re.sub('^www[0-9]\.', '', a['href'])
-                domain = re.sub('^www\.', '', a['href'])
+                domain = re.sub('http(s)?:\/\/', '', domain)
+                domain = re.sub('\/(.*)', '', domain)
+                domain = re.sub('^www[0-9]\.', '', domain)
+                domain = re.sub('^www\.', '', domain)
                 domains.append(domain)
     return domains
