@@ -51,11 +51,9 @@
 ||apple-*.deviceoffergiveaways.icu^$all
 ||apple.*.top^$all,domain=top
 ||apple.com-*.$all,domain=live|xyz
-||aragon.network^$doc,frame,domain=~mozliwy-phishing.*
 ||c*.tmweb.ru/weryfikacja/$doc,frame
 ||chomikuj*.opx.pl^$all,domain=pl
 ||chomikuj.$doc,to=~bing.*|~chomikuj.pl|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*
-||crustwebsites.net^$doc,frame,domain=~mozliwy-phishing.*
 ||czyjtonumer.net^$doc,to=~uwazaj-na-pakiet-premium.*
 ||dates-here-now*.com^$all
 ||dating-4-adults*.com^$all
@@ -63,7 +61,6 @@
 ||distracted-babbage-*.netlify.app^$all
 ||dobrapraca*.ct8.pl^$all
 ||dreamwoman-finder*.com^$all
-||dweb.link^$doc,frame,domain=~mozliwy-phishing.*
 ||e-wyborcza24-*.cleverapps.io^$all
 ||ezalukaj*.$doc
 ||faccebook*.5v.pl^$all
@@ -126,11 +123,9 @@
 ||olxpl-order.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||paiementhome-pl-*.*.$all
 ||paiementnazwa-pl-*.*.$all
-||parkingcrew.net^$doc,frame,domain=~mozliwy-phishing.*
 ||pay-home-*.*.$all
 ||payhome-pl-*.*.$all
 ||paynazwa-pl-*.*.$all
-||pinata.cloud^$doc,frame,domain=~mozliwy-phishing.*
 ||pl.*bitcoin*.tiptopko*.com^$all
 ||platnik*.online^$all
 ||polska-teraz*.idl.pl^$all
