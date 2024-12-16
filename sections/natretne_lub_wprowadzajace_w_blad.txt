@@ -13,7 +13,7 @@
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
-github.com##:matches-path(/FiltersHeroes/KAD/issues/1241) :is(#close-as-unplanned, .js-comment-and-button, .js-comment-and-button + details):remove()
+!github.com##:matches-path(/FiltersHeroes/KAD/issues/1241) :is(#close-as-unplanned, .js-comment-and-button, .js-comment-and-button + details):remove()
 pl##a[href*="whokeys.com/"]
 porta.salesmanago.pl##+js(href-sanitizer, a[href*="porta.salesmanago.pl/ms/rd.htm?url"], ?url)
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
