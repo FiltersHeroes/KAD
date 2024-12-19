@@ -87,6 +87,7 @@
 ||legalniewsieci.$doc,to=~bing.*|~duckduck.*|~ecosia.org|~google.*|~legalniewsieci.pl|~qwant.com|~startpage.com|~yahoo.*
 ||localdates*.com^$all
 ||lokalneinformacje*.vot.pl^$all
+||mail.hodtd.com/*url=*swietne-ceny.com$doc,important,to=mail.hodtd.com
 ||mobile-app-market-here*.life^$all
 ||money-for-you-*.ru^$all
 ||mysexdating*.club^$all
@@ -155,4 +156,3 @@
 ||zalukaj*.$doc
 ||zaplata*.tk^$all
 ||zdjecie-facebook-*.dkonto.pl^$all
-||mail.hodtd.com/*url=*swietne-ceny.com$doc,important,to=mail.hodtd.com
