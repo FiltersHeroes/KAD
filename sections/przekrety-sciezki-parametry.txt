@@ -1,3 +1,12 @@
+||c*.tmweb.ru/weryfikacja/$doc,frame
+/fb-login/|$doc,to=~facebook.com
+/fb-login/*$doc,to=~facebook.com
+/ym.html?email=*@$doc,to=~to-moze-byc-phishing.*
+||*.atthost24.pl/weryfikacja/$doc,frame
+||*.cal24.pl/weryfikacja/$doc,frame
+||*.e-kei.pl/weryfikacja/$doc,frame
+||*.hekko24.pl/weryfikacja/$doc,frame
+||*.kei.pl/weryfikacja/$doc,frame
 ||ostrowlubelski.pl/libs/$doc,frame,important,to=~przekierowania-z-google.*
 ||lds.xyz/*&sbtag=$doc,to=xyz
 ||lds.xyz/*?sbtag=$doc,to=xyz
