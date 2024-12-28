@@ -32,13 +32,6 @@
 /^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case
 /^https?:\/\/crypto0[0-9]+\.online/$doc,important
 /https?:\/\/(?:\w+\.)?skryptcookies\.pl/cookies\.js/$all
-||bestprize-places-here*.life^$all
-||bestprizesday*.life^$all
-||grand-prise-ishere*.life^$all
-||megabonus-point*.life^$all
-||mobile*-global-apps-stor*.life^$all
-||parcel.*.nildenaksoy.com^$all
-||youtube.com.*.*.com^$all,to=com|~youtube.com
 ||*.*.mirsolar.com.tr^$all
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
@@ -51,6 +44,8 @@
 ||apple-*.deviceoffergiveaways.icu^$all
 ||apple.*.top^$all,domain=top
 ||apple.com-*.$all,domain=live|xyz
+||bestprize-places-here*.life^$all
+||bestprizesday*.life^$all
 ||chomikuj*.opx.pl^$all,domain=pl
 ||chomikuj.$doc,to=~bing.*|~chomikuj.pl|~duckduck.*|~ecosia.org|~google.*|~qwant.com|~startpage.com|~yahoo.*
 ||czyjtonumer.net^$doc,to=~uwazaj-na-pakiet-premium.*
@@ -74,6 +69,7 @@
 ||google-*.*giveaway*.xyz^$all
 ||google-*.*offer*.icu^$all
 ||google-*.*present*.icu^$all
+||grand-prise-ishere*.life^$all
 ||historieludzkie*.online^$all
 ||homepaiement-pl-*.*.$all,domain=at|com
 ||homepay-pl-*.*.$all,domain=at|com
@@ -87,6 +83,8 @@
 ||localdates*.com^$all
 ||lokalneinformacje*.vot.pl^$all
 ||mail.hodtd.com/*url=*swietne-ceny.com$doc,important,to=mail.hodtd.com
+||megabonus-point*.life^$all
+||mobile*-global-apps-stor*.life^$all
 ||mobile-app-market-here*.life^$all
 ||money-for-you-*.ru^$all
 ||mysexdating*.club^$all
@@ -123,6 +121,7 @@
 ||olxpl-order.$all,domain=~olx.pl|~przekret-z-falszywym-kuriererm-dostawa.*
 ||paiementhome-pl-*.*.$all
 ||paiementnazwa-pl-*.*.$all
+||parcel.*.nildenaksoy.com^$all
 ||pay-home-*.*.$all
 ||payhome-pl-*.*.$all
 ||paynazwa-pl-*.*.$all
@@ -152,6 +151,7 @@
 ||xn*gwatpolska24*.$all
 ||xn--onetgwat-*.$all
 ||xn--polskagwat24-*.$all
+||youtube.com.*.*.com^$all,to=com|~youtube.com
 ||zalukaj*.$doc
 ||zaplata*.tk^$all
 ||zdjecie-facebook-*.dkonto.pl^$all
