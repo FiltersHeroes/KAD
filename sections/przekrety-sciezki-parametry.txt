@@ -22,7 +22,7 @@
 /pl/nestbank/login/kir/*.php?pay&b=$doc,frame,domain=~pl
 /pl/noble-bank/index/index/*/index.php?pay&b=$doc,frame,domain=~pl
 /pl/pekao/directtransfer/auth.php?pay&b=$doc,frame,domain=~pl
-/pl/pge/87315823/1895292/|$doc,frame
+/pl/pge/87315823/1895292/|$doc,frame,domain=~browserleaks.com
 /pl/pge/pay.php|$doc,frame,domain=~pl
 /pl/pge/start-transaction/index.php|$doc,frame,domain=~pl
 /pl/plusbank/?pay|$doc,frame,domain=~pl
