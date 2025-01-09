@@ -15,7 +15,7 @@ cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
 pl##a[href*="whokeys.com/"]
-porta.salesmanago.pl##+js(href-sanitizer, a[href*="porta.salesmanago.pl/ms/rd.htm?url"], ?url)
+salesmanago.pl##+js(href-sanitizer, a[href*="salesmanago.pl/ms/rd.htm?url"], ?url)
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
 support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style(display: inline-block !important; text-align: center !important)
