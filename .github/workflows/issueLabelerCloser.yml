@@ -10,7 +10,7 @@ jobs:
     permissions:
       issues: write
     steps:
-      - uses: hawkeye116477/issue-manager-action@v1.2.3
+      - uses: hawkeye116477/issue-manager-action@v1
         with:
           mode: "labelClosed"
           completed-label: "zatwierdzone"
