@@ -4,6 +4,7 @@
 /^https:\/\/[0-9a-z]{3,}\.[-a-z]{10,}\.top\/[a-z]{8}\/\?(?:cid=[0-9a-z]+&)?u=[0-9a-z]+&/$doc,to=top
 /^https:\/\/[a-z]+\.com\/away\.php\?url=[%0-9A-z]{100,}$/$doc
 /^https:\/\/[a-z]{2,3}\d\.biz\/go\/[0-9a-z]{15,18}$/$doc,to=biz
+/^https?:\/\/(?:ak\.)?[a-z]{6,15}\.(?:com|net)\/4\/\d{7}/$document
 /^https?:\/\/(\w{1,4}\.)?(\w+)?-?(\d+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.\w{2,22}/$all
 /^https?:\/\/(\w{1,4}\.)?(\w+)?-?pocztex.*\d+-?(polska)?\.\w{2,22}/$all,domain=~pocztex.pl
 /^https?:\/\/(\w{1,4}\.)?(\w+)?.?\w+-?poczta(\d+)?-?polska(\d+)?\.\w{2,22}/$all
@@ -34,7 +35,6 @@
 /^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case
 /^https?:\/\/crypto0[0-9]+\.online/$doc,important
 /https?:\/\/(?:\w+\.)?skryptcookies\.pl/cookies\.js/$all,important
-/^https?:\/\/(?:ak\.)?[a-z]{6,15}\.(?:com|net)\/4\/\d{7}/$document
 ||*.*.mirsolar.com.tr^$all
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
