@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Tue, 18 Feb 2025, 20:26 UTC+01:00
-! Version: 2025.2.18.3
+! Last modified: Tue, 18 Feb 2025, 21:21 UTC+01:00
+! Version: 2025.2.18.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3446,6 +3446,7 @@
 ||alebilet.pl-oferta50455.cfd^$all
 ||alebilet.pl-oferta50551.cfd^$all
 ||alebilet.pl-oferta51717.online^$all
+||alebilet.pl-oferta55274.sbs^$all
 ||alebilet.pl-oferta55401.cfd^$all
 ||alebilet.pl-oferta55404.cfd^$all
 ||alebilet.pl-oferta69463.online^$all
@@ -3848,6 +3849,7 @@
 ||allegro.pl-oferta7544.icu^$all
 ||allegro.pl-oferta50455.cfd^$all
 ||allegro.pl-oferta50551.cfd^$all
+||allegro.pl-oferta55274.sbs^$all
 ||allegro.pl-oferta55401.cfd^$all
 ||allegro.pl-oferta55404.cfd^$all
 ||allegro.pl-oferta78310.cfd^$all
@@ -4012,7 +4014,6 @@
 ||allegrolokainie.pl09724item.pl^$all
 ||allegrolokainie.pl33881item.pl^$all
 ||allegrolokainie.pl66942item.pl^$all
-||allegrolokainie.pl77019item.pl^$all
 ||allegrolokainie.pl79048item.pl^$all
 ||allegrolokainie.pl87329.pl^$all
 ||allegrolokainie.pl-728.cfd^$all
@@ -4678,6 +4679,7 @@
 ||allegrolokalnie.pl-oferta34534.cfd^$all
 ||allegrolokalnie.pl-oferta50455.cfd^$all
 ||allegrolokalnie.pl-oferta50551.cfd^$all
+||allegrolokalnie.pl-oferta55274.sbs^$all
 ||allegrolokalnie.pl-oferta55401.cfd^$all
 ||allegrolokalnie.pl-oferta55404.cfd^$all
 ||allegrolokalnie.pl-oferta76026.top^$all
@@ -4826,6 +4828,7 @@
 ||allegrolokalnie.pl-oferta82374263398.sbs^$all
 ||allegrolokalnie.pl-oferta898999429574.cyou^$all
 ||allegrolokalnie.pl-oferta3858264957285629462.icu^$all
+||allegrolokalnie.pl-oferta-083456634.icu^$all
 ||allegrolokalnie.pl-oferta-5345553454.cfd^$all
 ||allegrolokalnie.pl-oferta-firmowa746567.icu^$all
 ||allegrolokalnie.pl-oferta-id261352.cfd^$all
@@ -8032,6 +8035,7 @@
 ||btbasement.com^$all
 ||btc-era.com^$all
 ||btc-evo.com^$all
+||btc-xp.com^$all
 ||btcavage.com^$all
 ||btcduke.com^$all
 ||btckhabar.com^$all
@@ -19751,6 +19755,7 @@
 ||kjlj.com^$all
 ||kjmv.trdeone.top^$all
 ||kjn.ximprrove.top^$all
+||kjrehf87e4r97uh4ueyryifheruyotyeriutjkl-t17.vercel.app^$all
 ||kjujuio344.com^$all
 ||kjvi.skin^$all
 ||kk2snp.bond^$all
@@ -26751,6 +26756,7 @@
 ||olx.pl-oferta8491.cfd^$all
 ||olx.pl-oferta50455.cfd^$all
 ||olx.pl-oferta50551.cfd^$all
+||olx.pl-oferta55274.sbs^$all
 ||olx.pl-oferta55401.cfd^$all
 ||olx.pl-oferta55404.cfd^$all
 ||olx.pl-oferta78310.cfd^$all
@@ -28678,6 +28684,7 @@
 ||pl-oferta23342.top^$all
 ||pl-oferta50455.cfd^$all
 ||pl-oferta50551.cfd^$all
+||pl-oferta55274.sbs^$all
 ||pl-oferta55401.cfd^$all
 ||pl-oferta55404.cfd^$all
 ||pl-oferta59347.top^$all
@@ -39745,7 +39752,6 @@
 ||wvu00guao53gcn06j405g5e4.animalsbooster.com^$all
 ||wvvp56h92dcgabs5j2fuju67.lifestylecloudd.com^$all
 ||wvzg.lat^$all
-||ww7jre.skin^$all
 ||ww-jh.lpra.top^$all
 ||ww.digitkin.top^$all
 ||ww.poxj.skin^$all
@@ -40869,6 +40875,7 @@
 ||*.*.mirsolar.com.tr^$all
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
 ||*automatyczny-dozownikmydla-pl.com^$all,domain=com
+||alebilet.pl-*.$doc
 ||allegro.pl-nowe-regulamin*.*.com^$all
 ||allegro.pl.*.pl^$all,domain=~allegro.pl|pl
 ||allegrolokalnie-pl.$doc,to=~translate.goog|~translate.google.*
