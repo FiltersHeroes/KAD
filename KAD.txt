@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 08 Mar 2025, 17:21 UTC+01:00
-! Version: 2025.3.8.2
+! Last modified: Sat, 08 Mar 2025, 21:18 UTC+01:00
+! Version: 2025.3.8.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1923,6 +1923,7 @@
 ||001-x.38452658.xyz^$all
 ||001-x.48452658.xyz^$all
 ||01-x.54149815.xyz^$all
+||01-x.68176305.xyz^$all
 ||01-x.74978051.xyz^$all
 ||01-x.94978051.xyz^$all
 ||1.mtradi.top^$all
@@ -1978,6 +1979,7 @@
 ||01x.09851736.xyz^$all
 ||01x.29851736.xyz^$all
 ||01x.44537653.xyz^$all
+||01x.45412796.xyz^$all
 ||01x.48826126.xyz^$all
 ||01x.59184872.xyz^$all
 ||01x.69184872.xyz^$all
@@ -2572,7 +2574,6 @@
 ||77264cf0e6.mertv.pl^$all
 ||84320.cfd^$all
 ||84935cb032.facplus.click^$all
-||93109.cfd^$all
 ||97457de4d9.win40.fun^$all
 ||98516e1839.4lr.fun^$all
 ||99699c6727.www-dis.lat^$all
@@ -3289,6 +3290,7 @@
 ||aiebilet.pl32944.cfd^$all
 ||aiebilet.pl34952.cfd^$all
 ||aiebilet.pl39943.cfd^$all
+||aiebilet.pl43900.cfd^$all
 ||aiebilet.pl43939.cfd^$all
 ||aiethereumsynergy.com^$all
 ||aiezway.com^$all
@@ -3546,6 +3548,7 @@
 ||alebilet.oferta-2381959.shop^$all
 ||alebilet.oferta-2490966.shop^$all
 ||alebilet.oferta-2813133.icu^$all
+||alebilet.oferta-2932823.cyou^$all
 ||alebilet.oferta-2932823.icu^$all
 ||alebilet.oferta-3136196.digital^$all
 ||alebilet.oferta-3555256.com^$all
@@ -3886,6 +3889,7 @@
 ||alebilet.pl-oferta8956352.shop^$all
 ||alebilet.pl-oferta8961309.icu^$all
 ||alebilet.pl-oferta9177011.shop^$all
+||alebilet.pl-oferta9270318.shop^$all
 ||alebilet.pl-oferta9356197.shop^$all
 ||alebilet.pl-oferta9413154.click^$all
 ||alebilet.pl-oferta9431404.cfd^$all
@@ -3950,6 +3954,7 @@
 ||alebilet.pl-ogloszenie-938495.icu^$all
 ||alebilet.pl-ogloszenie-952019.rest^$all
 ||alebilet.pl-ogloszenie-9203942.icu^$all
+||alebilet.pl-ogloszenie-firmowe823801.icu^$all
 ||alebilet.pl-ogloszenie-firmowe-92149.shop^$all
 ||alebilet.pl-ogloszenie-firmowe-456120.icu^$all
 ||alebilet.pl-ogloszenie-firmowe-521092.cfd^$all
@@ -4090,6 +4095,7 @@
 ||allebilet.pl04393.cfd^$all
 ||allebilet.pl14934.cfd^$all
 ||allebilet.pl43829.cfd^$all
+||allebilet.pl43900.cfd^$all
 ||allebilet.pl53293.cfd^$all
 ||allegadosgoods.com^$all
 ||allegr0-centrumtransferu.online^$all
@@ -4192,6 +4198,7 @@
 ||allegro.oferta-2381959.shop^$all
 ||allegro.oferta-2490966.shop^$all
 ||allegro.oferta-2813133.icu^$all
+||allegro.oferta-2932823.cyou^$all
 ||allegro.oferta-2932823.icu^$all
 ||allegro.oferta-3136196.digital^$all
 ||allegro.oferta-3555256.com^$all
@@ -4530,6 +4537,7 @@
 ||allegro.pl-oferta8956352.shop^$all
 ||allegro.pl-oferta8961309.icu^$all
 ||allegro.pl-oferta9177011.shop^$all
+||allegro.pl-oferta9270318.shop^$all
 ||allegro.pl-oferta9356197.shop^$all
 ||allegro.pl-oferta9413154.click^$all
 ||allegro.pl-oferta9431404.cfd^$all
@@ -4594,6 +4602,7 @@
 ||allegro.pl-ogloszenie-938495.icu^$all
 ||allegro.pl-ogloszenie-952019.rest^$all
 ||allegro.pl-ogloszenie-9203942.icu^$all
+||allegro.pl-ogloszenie-firmowe823801.icu^$all
 ||allegro.pl-ogloszenie-firmowe-92149.shop^$all
 ||allegro.pl-ogloszenie-firmowe-456120.icu^$all
 ||allegro.pl-ogloszenie-firmowe-521092.cfd^$all
@@ -4901,7 +4910,6 @@
 ||allegrolokalnie.80783092.online^$all
 ||allegrolokalnie.81739513.buzz^$all
 ||allegrolokalnie.87291472.shop^$all
-||allegrolokalnie.89721412.shop^$all
 ||allegrolokalnie.90128401-id.shop^$all
 ||allegrolokalnie.90283976.online^$all
 ||allegrolokalnie.90482039.xyz^$all
@@ -5072,6 +5080,7 @@
 ||allegrolokalnie.oferta-2381959.shop^$all
 ||allegrolokalnie.oferta-2490966.shop^$all
 ||allegrolokalnie.oferta-2813133.icu^$all
+||allegrolokalnie.oferta-2932823.cyou^$all
 ||allegrolokalnie.oferta-2932823.icu^$all
 ||allegrolokalnie.oferta-3136196.digital^$all
 ||allegrolokalnie.oferta-3412900.icu^$all
@@ -5262,6 +5271,8 @@
 ||allegrolokalnie.pl-634ng9u35vsyurdfbdfs.icu^$all
 ||allegrolokalnie.pl-642gdsve34uhrbdwt32tvc.cyou^$all
 ||allegrolokalnie.pl-642gdsve34uhrbdwt32tvc.icu^$all
+||allegrolokalnie.pl-643bfyrwc53utcweyykthg.cyou^$all
+||allegrolokalnie.pl-643bfyrwc53utcweyykthg.icu^$all
 ||allegrolokalnie.pl-653gf45645g3465.buzz^$all
 ||allegrolokalnie.pl-692.icu^$all
 ||allegrolokalnie.pl-728.cfd^$all
@@ -5805,6 +5816,7 @@
 ||allegrolokalnie.pl-oferta8956352.shop^$all
 ||allegrolokalnie.pl-oferta8961309.icu^$all
 ||allegrolokalnie.pl-oferta9177011.shop^$all
+||allegrolokalnie.pl-oferta9270318.shop^$all
 ||allegrolokalnie.pl-oferta9356197.shop^$all
 ||allegrolokalnie.pl-oferta9413154.click^$all
 ||allegrolokalnie.pl-oferta9431404.cfd^$all
@@ -5886,6 +5898,7 @@
 ||allegrolokalnie.pl-ogloszenie-938495.icu^$all
 ||allegrolokalnie.pl-ogloszenie-952019.rest^$all
 ||allegrolokalnie.pl-ogloszenie-9203942.icu^$all
+||allegrolokalnie.pl-ogloszenie-firmowe823801.icu^$all
 ||allegrolokalnie.pl-ogloszenie-firmowe-8117.buzz^$all
 ||allegrolokalnie.pl-ogloszenie-firmowe-8576.shop^$all
 ||allegrolokalnie.pl-ogloszenie-firmowe-8748.buzz^$all
@@ -5950,6 +5963,7 @@
 ||allegrolokalnie.pl-zakupy24h.pl^$all
 ||allegrolokalnie.pl-zakupy-24h.pl^$all
 ||allegrolokalnie.pll-oferta-firmowa687550.cyou^$all
+||allegrolokalnie.pll-oferta-firmowa821574.icu^$all
 ||allegrolokalnie.pll-oferta-firmowa854127.icu^$all
 ||allegrolokalnie.pll-oferta-firmowa854167.icu^$all
 ||allegrolokalnie.polecane592.shop^$all
@@ -9859,6 +9873,7 @@
 ||caseem.cfd^$all
 ||caseems.com^$all
 ||caseid100075127868952-0306-1tlc3kyadaebszig4hf6xnkj.vercel.app^$all
+||caseid100075127868955-0307-1tlc3kyadgzgaehbad1ig46xnkj.vercel.app^$all
 ||caselens.cfd^$all
 ||casenim.cfd^$all
 ||caserix.com^$all
@@ -11924,7 +11939,6 @@
 ||daseha.pics^$all
 ||dasesu-daboci.pro^$all
 ||dash8.space^$all
-||dash-bits.top^$all
 ||dash-olx.sign-up.shop^$all
 ||dash-probits.top^$all
 ||dash.biurosa.com^$all
@@ -12042,6 +12056,7 @@
 ||dczx.jinmap.top^$all
 ||dd3cb7a8.docsectypess.pages.dev^$all
 ||dd214lifecontracting.com^$all
+||dd-pd.75412796.xyz^$all
 ||dd.buddappro.top^$all
 ||ddbud.daggoal.top^$all
 ||ddbuds.thenextstep.top^$all
@@ -26228,6 +26243,7 @@
 ||oferta-2381959.shop^$all
 ||oferta-2490966.shop^$all
 ||oferta-2813133.icu^$all
+||oferta-2932823.cyou^$all
 ||oferta-2932823.icu^$all
 ||oferta-3136196.digital^$all
 ||oferta-3555256.com^$all
@@ -26453,7 +26469,6 @@
 ||okropnenasza.rest^$all
 ||okropneznajdziesz.rest^$all
 ||okropnyciebie.rest^$all
-||okropnypolska.rest^$all
 ||oksevilletours.com^$all
 ||oktenerifetours.com^$all
 ||okulary-wieloogniskowe-pl.com^$all
@@ -28316,6 +28331,7 @@
 ||olx.oferta-2381959.shop^$all
 ||olx.oferta-2490966.shop^$all
 ||olx.oferta-2813133.icu^$all
+||olx.oferta-2932823.cyou^$all
 ||olx.oferta-2932823.icu^$all
 ||olx.oferta-3136196.digital^$all
 ||olx.oferta-3555256.com^$all
@@ -28429,6 +28445,8 @@
 ||olx.pl-634ng9u35vsyurdfbdfs.icu^$all
 ||olx.pl-642gdsve34uhrbdwt32tvc.cyou^$all
 ||olx.pl-642gdsve34uhrbdwt32tvc.icu^$all
+||olx.pl-643bfyrwc53utcweyykthg.cyou^$all
+||olx.pl-643bfyrwc53utcweyykthg.icu^$all
 ||olx.pl-692.icu^$all
 ||olx.pl-728.cfd^$all
 ||olx.pl-753u87372.icu^$all
@@ -28741,6 +28759,7 @@
 ||olx.pl-oferta8956352.shop^$all
 ||olx.pl-oferta8961309.icu^$all
 ||olx.pl-oferta9177011.shop^$all
+||olx.pl-oferta9270318.shop^$all
 ||olx.pl-oferta9356197.shop^$all
 ||olx.pl-oferta9413154.click^$all
 ||olx.pl-oferta9431404.cfd^$all
@@ -28804,6 +28823,7 @@
 ||olx.pl-ogloszenie-938495.icu^$all
 ||olx.pl-ogloszenie-952019.rest^$all
 ||olx.pl-ogloszenie-9203942.icu^$all
+||olx.pl-ogloszenie-firmowe823801.icu^$all
 ||olx.pl-ogloszenie-firmowe-92149.shop^$all
 ||olx.pl-ogloszenie-firmowe-456120.icu^$all
 ||olx.pl-ogloszenie-firmowe-521092.cfd^$all
@@ -30579,6 +30599,7 @@
 ||pl42140.cfd^$all
 ||pl42940.cfd^$all
 ||pl43249.cfd^$all
+||pl43900.cfd^$all
 ||pl54390.cfd^$all
 ||pl63992oferta-iphone.cfd^$all
 ||pl75030.cfd^$all
@@ -30610,6 +30631,8 @@
 ||pl-634ng9u35vsyurdfbdfs.icu^$all
 ||pl-642gdsve34uhrbdwt32tvc.cyou^$all
 ||pl-642gdsve34uhrbdwt32tvc.icu^$all
+||pl-643bfyrwc53utcweyykthg.cyou^$all
+||pl-643bfyrwc53utcweyykthg.icu^$all
 ||pl-692.icu^$all
 ||pl-728.cfd^$all
 ||pl-753u87372.icu^$all
@@ -30949,6 +30972,7 @@
 ||pl-oferta8956352.shop^$all
 ||pl-oferta8961309.icu^$all
 ||pl-oferta9177011.shop^$all
+||pl-oferta9270318.shop^$all
 ||pl-oferta9356197.shop^$all
 ||pl-oferta9413154.click^$all
 ||pl-oferta9431404.cfd^$all
@@ -31012,6 +31036,7 @@
 ||pl-ogloszenie-938495.icu^$all
 ||pl-ogloszenie-952019.rest^$all
 ||pl-ogloszenie-9203942.icu^$all
+||pl-ogloszenie-firmowe823801.icu^$all
 ||pl-ogloszenie-firmowe-8117.buzz^$all
 ||pl-ogloszenie-firmowe-92149.shop^$all
 ||pl-ogloszenie-firmowe-456120.icu^$all
@@ -34325,7 +34350,6 @@
 ||sa.yaaj.skin^$all
 ||saadsfds7.myshoplaza.com^$all
 ||saaudiaschoolsa.com^$all
-||sabaecomwebsite.info^$all
 ||sabanamagek.com^$all
 ||sabayeqom.com^$all
 ||sabersih.com^$all
@@ -34521,6 +34545,7 @@
 ||sanctuarydevelop.xyz^$all
 ||sanctumcc.com^$all
 ||sandbtaxis.com^$all
+||sander-2025.com^$all
 ||sandersboxj.top^$all
 ||sandi4d.org^$all
 ||sandiegopronetwork.com^$all
@@ -35849,6 +35874,7 @@
 ||smtvw.pl^$all
 ||smudginggoddess.com^$all
 ||smushgame.com^$all
+||sn1lerpski.com^$all
 ||sn.ahwb.top^$all
 ||sn.drrd.lat^$all
 ||snabbbusiness.com^$all
@@ -37907,7 +37933,6 @@
 ||theblackdogcoffeecompany.com^$all
 ||thebloomjournal.com^$all
 ||theboldvisionaire.com^$all
-||theboxisagift.com^$all
 ||thebrainweaver.com^$all
 ||thebramovement.com^$all
 ||thebrandcrest.com^$all
@@ -39282,6 +39307,7 @@
 ||tvktransport.com^$all
 ||tvnowapp.net^$all
 ||tvnwakacje24.eu^$all
+||tvnwydarzenia24h.com.pl^$all
 ||tvnyj5mrcw.autograalmann.de^$all
 ||tvpalmvacation.com^$all
 ||tvpeuropa24.eu^$all
@@ -40540,6 +40566,7 @@
 ||vipacadem.com^$all
 ||vipavadee.com^$all
 ||vipclothing.shop^$all
+||vipclothingoff.shop^$all
 ||vipdiamondsgroup.com^$all
 ||viperanet.com^$all
 ||vipervoip.com^$all
