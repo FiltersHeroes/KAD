@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 19 Mar 2025, 22:19 UTC+01:00
-! Version: 2025.3.19.5
+! Last modified: Wed, 19 Mar 2025, 22:40 UTC+01:00
+! Version: 2025.3.19.6
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3283,6 +3283,7 @@
 ||aiebilet.pl2483.cfd^$all
 ||aiebilet.pl2483.icu^$all
 ||aiebilet.pl2634.cfd^$all
+||aiebilet.pl2634.icu^$all
 ||aiebilet.pl3771.cfd^$all
 ||aiebilet.pl8573.cfd^$all
 ||aiebilet.pl32944.cfd^$all
@@ -5006,6 +5007,7 @@
 ||allegrolokalne.pl2483.cfd^$all
 ||allegrolokalne.pl2483.icu^$all
 ||allegrolokalne.pl2634.cfd^$all
+||allegrolokalne.pl2634.icu^$all
 ||allegrolokalne.pl3771.cfd^$all
 ||allegrolokalne.pl8573.cfd^$all
 ||allegrolokalne.pl14934.cfd^$all
@@ -5112,6 +5114,7 @@
 ||allegrolokalnie.12948-09a0.shop^$all
 ||allegrolokalnie.035453.sbs^$all
 ||allegrolokalnie.41892-19825-98128.shop^$all
+||allegrolokalnie.042942.shop^$all
 ||allegrolokalnie.045885.shop^$all
 ||allegrolokalnie.74546.live^$all
 ||allegrolokalnie.75746.top^$all
@@ -40606,7 +40609,6 @@
 ||ui7qdp.lat^$all
 ||ui8sbh.rest^$all
 ||ui.theo.lat^$all
-||uil0889hsgdte.serv00.net^$all
 ||uipluszz.top^$all
 ||uj.kihcybm1.sa.com^$all
 ||uj.qcct.lat^$all
@@ -44866,6 +44868,7 @@ cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
 morele.net##.cat-product.card:is([data-product-merchant="1592"], [data-element-merchant="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; color: #f00 !important; font-weight: bold !important)
+morele.net##.js-basket-box-1592 .basket-box-items::before:style(content: '\00a0\00a0\00a0\00a0Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; color: #f00 !important; font-weight: bold !important)
 morele.net##.mp-supplier-row:has(a[href*="/add/"][href*="/1592/"], a[href*="/net-s-1592/"], [data-merchant-name*="NET-S"], [data-supplier-id="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; color: #f00 !important; width: 100vw !important; width: 100lvw !important; display: flex !important; font-weight: bold !important)
 morele.net##.product-content:is([data-merchant-name*="NET-S"], [data-supplier-id="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; color: #f00 !important; font-weight: bold !important)
 net-s.pl##html body header nav::after:style(content: 'Zakupy na własną odpowiedzialność, zostałeś ostrzeżony (KAD - Przekręty).' !important; color: #f00 !important; font-weight: bold !important; background: #fff !important; width: 100vw !important; width: 100lvw !important; display: flex !important; justify-content: center !important; text-align: center !important)
