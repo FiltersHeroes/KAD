@@ -1,3 +1,4 @@
+!||morele.net/*/?sprzedawca=1592$doc,to=morele.net|~zakupy-na-wlasna-odpowiedzialnosc.*
 ##a[href^="/fb-login"]
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,important,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
 @@||blocked-site-hole-cert.pl^$domain=lista.cert.pl
@@ -14,6 +15,10 @@
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
+morele.net##.cat-product.card:is([data-product-merchant="1592"], [data-element-merchant="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; color: #f00 !important; font-weight: bold !important)
+morele.net##.mp-supplier-row:has(a[href*="/add/"][href*="/1592/"], a[href*="/net-s-1592/"], [data-merchant-name*="NET-S"], [data-supplier-id="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; color: #f00 !important; width: 100vw !important; width: 100lvw !important; display: flex !important; font-weight: bold !important)
+morele.net##.product-content:is([data-merchant-name*="NET-S"], [data-supplier-id="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; color: #f00 !important; font-weight: bold !important)
+net-s.pl##html body header nav::after:style(content: 'Zakupy na własną odpowiedzialność, zostałeś ostrzeżony (KAD - Przekręty).' !important; color: #f00 !important; font-weight: bold !important; background: #fff !important; width: 100vw !important; width: 100lvw !important; display: flex !important; justify-content: center !important)
 pl##a[href*="whokeys.com/"]
 salesmanago.pl##+js(href-sanitizer, a[href*="salesmanago.pl/ms/rd.htm?url"], ?url)
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
