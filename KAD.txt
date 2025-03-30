@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 30 Mar 2025, 18:25 UTC+02:00
-! Version: 2025.3.30.3
+! Last modified: Sun, 30 Mar 2025, 22:23 UTC+02:00
+! Version: 2025.3.30.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -3631,6 +3631,7 @@
 ||alebilet.oferta-124125.icu^$all
 ||alebilet.oferta-125822.cyou^$all
 ||alebilet.oferta-163959.shop^$all
+||alebilet.oferta-205855.shop^$all
 ||alebilet.oferta-321452.icu^$all
 ||alebilet.oferta-324543.icu^$all
 ||alebilet.oferta-412515.icu^$all
@@ -3677,6 +3678,7 @@
 ||alebilet.oferta-4302880.icu^$all
 ||alebilet.oferta-4303518.shop^$all
 ||alebilet.oferta-4319222.shop^$all
+||alebilet.oferta-4417653.cfd^$all
 ||alebilet.oferta-4465727.shop^$all
 ||alebilet.oferta-4952804.shop^$all
 ||alebilet.oferta-4978904.shop^$all
@@ -3816,6 +3818,7 @@
 ||alebilet.pl-84382019.rest^$all
 ||alebilet.pl-92032932.rest^$all
 ||alebilet.pl-92049021.rest^$all
+||alebilet.pl-92049021.sbs^$all
 ||alebilet.pl-93045492.sbs^$all
 ||alebilet.pl-94296953.cfd^$all
 ||alebilet.pl-98483597.icu^$all
@@ -3827,9 +3830,11 @@
 ||alebilet.pl-89233124756.icu^$all
 ||alebilet.pl-812234778845.cfd^$all
 ||alebilet.pl-bvb72vnyxm1vn2y6vb6u.icu^$all
+||alebilet.pl-firmowe-konto451432.icu^$all
 ||alebilet.pl-firmowe-konto839112.icu^$all
 ||alebilet.pl-firmowe-konto842112.icu^$all
 ||alebilet.pl-firmowe-ogloszenie231452.icu^$all
+||alebilet.pl-firmowe-ogloszenie252342.icu^$all
 ||alebilet.pl-id639162.sbs^$all
 ||alebilet.pl-id1234786.icu^$all
 ||alebilet.pl-id1274786.icu^$all
@@ -3873,6 +3878,7 @@
 ||alebilet.pl-oferta90909.icu^$all
 ||alebilet.pl-oferta93457.sbs^$all
 ||alebilet.pl-oferta94365.cfd^$all
+||alebilet.pl-oferta94563.cfd^$all
 ||alebilet.pl-oferta94851.icu^$all
 ||alebilet.pl-oferta443532.rest^$all
 ||alebilet.pl-oferta528437.icu^$all
@@ -3886,6 +3892,7 @@
 ||alebilet.pl-oferta732387.cfd^$all
 ||alebilet.pl-oferta743218.icu^$all
 ||alebilet.pl-oferta746598.com^$all
+||alebilet.pl-oferta754387.cfd^$all
 ||alebilet.pl-oferta754387.cyou^$all
 ||alebilet.pl-oferta754387.shop^$all
 ||alebilet.pl-oferta756893.com^$all
@@ -3927,6 +3934,7 @@
 ||alebilet.pl-oferta2379113.shop^$all
 ||alebilet.pl-oferta2428971.icu^$all
 ||alebilet.pl-oferta2452084.cfd^$all
+||alebilet.pl-oferta2546631.shop^$all
 ||alebilet.pl-oferta2609748.icu^$all
 ||alebilet.pl-oferta2654432.shop^$all
 ||alebilet.pl-oferta2693800.shop^$all
@@ -4062,6 +4070,9 @@
 ||alebilet.pl-ogloszenia78517.shop^$all
 ||alebilet.pl-ogloszenia-firmowe-361991.cfd^$all
 ||alebilet.pl-ogloszenia-firmowe-391851.icu^$all
+||alebilet.pl-ogloszenia-firmowe-858126.icu^$all
+||alebilet.pl-ogloszenia-promowane-532835.icu^$all
+||alebilet.pl-ogloszenia-promowane-832848.icu^$all
 ||alebilet.pl-ogloszenia-telefony-5815.rest^$all
 ||alebilet.pl-ogloszenie2562.sbs^$all
 ||alebilet.pl-ogloszenie2562.shop^$all
@@ -4103,6 +4114,7 @@
 ||alebilet.pl-ogloszenie-firmowe-8845431.icu^$all
 ||alebilet.pl-ogloszenie-konsole-2764.shop^$all
 ||alebilet.pl-ogloszenie-promowane-7238.icu^$all
+||alebilet.pl-ogloszenie-promowane-532835.icu^$all
 ||alebilet.pl-okazje-cenowe-124.icu^$all
 ||alebilet.pl-pitbullpartyafterdarktour.top^$all
 ||alebilet.pl-propozycje-71824.icu^$all
@@ -4345,6 +4357,7 @@
 ||allegro.oferta-124125.icu^$all
 ||allegro.oferta-125822.cyou^$all
 ||allegro.oferta-163959.shop^$all
+||allegro.oferta-205855.shop^$all
 ||allegro.oferta-321452.icu^$all
 ||allegro.oferta-324543.icu^$all
 ||allegro.oferta-412515.icu^$all
@@ -4390,6 +4403,7 @@
 ||allegro.oferta-4302880.icu^$all
 ||allegro.oferta-4303518.shop^$all
 ||allegro.oferta-4319222.shop^$all
+||allegro.oferta-4417653.cfd^$all
 ||allegro.oferta-4465727.shop^$all
 ||allegro.oferta-4952804.shop^$all
 ||allegro.oferta-4978904.shop^$all
@@ -4592,6 +4606,7 @@
 ||allegro.pl-84382019.rest^$all
 ||allegro.pl-92032932.rest^$all
 ||allegro.pl-92049021.rest^$all
+||allegro.pl-92049021.sbs^$all
 ||allegro.pl-93045492.sbs^$all
 ||allegro.pl-94296953.cfd^$all
 ||allegro.pl-98483597.icu^$all
@@ -4607,9 +4622,11 @@
 ||allegro.pl-app-82368.cfd^$all
 ||allegro.pl-aukcja-5774345.icu^$all
 ||allegro.pl-bvb72vnyxm1vn2y6vb6u.icu^$all
+||allegro.pl-firmowe-konto451432.icu^$all
 ||allegro.pl-firmowe-konto839112.icu^$all
 ||allegro.pl-firmowe-konto842112.icu^$all
 ||allegro.pl-firmowe-ogloszenie231452.icu^$all
+||allegro.pl-firmowe-ogloszenie252342.icu^$all
 ||allegro.pl-id639162.sbs^$all
 ||allegro.pl-id781361.icu^$all
 ||allegro.pl-id1234786.icu^$all
@@ -4668,6 +4685,7 @@
 ||allegro.pl-oferta087640.shop^$all
 ||allegro.pl-oferta93457.sbs^$all
 ||allegro.pl-oferta94365.cfd^$all
+||allegro.pl-oferta94563.cfd^$all
 ||allegro.pl-oferta94851.icu^$all
 ||allegro.pl-oferta216217.cfd^$all
 ||allegro.pl-oferta216267.cfd^$all
@@ -4698,6 +4716,7 @@
 ||allegro.pl-oferta746478.com^$all
 ||allegro.pl-oferta746598.com^$all
 ||allegro.pl-oferta746837.icu^$all
+||allegro.pl-oferta754387.cfd^$all
 ||allegro.pl-oferta754387.cyou^$all
 ||allegro.pl-oferta754387.shop^$all
 ||allegro.pl-oferta756893.com^$all
@@ -4753,6 +4772,7 @@
 ||allegro.pl-oferta2428971.icu^$all
 ||allegro.pl-oferta2452084.cfd^$all
 ||allegro.pl-oferta2490148.cfd^$all
+||allegro.pl-oferta2546631.shop^$all
 ||allegro.pl-oferta2609748.icu^$all
 ||allegro.pl-oferta2630212.icu^$all
 ||allegro.pl-oferta2654432.shop^$all
@@ -4933,6 +4953,9 @@
 ||allegro.pl-ogloszenia78517.shop^$all
 ||allegro.pl-ogloszenia-firmowe-361991.cfd^$all
 ||allegro.pl-ogloszenia-firmowe-391851.icu^$all
+||allegro.pl-ogloszenia-firmowe-858126.icu^$all
+||allegro.pl-ogloszenia-promowane-532835.icu^$all
+||allegro.pl-ogloszenia-promowane-832848.icu^$all
 ||allegro.pl-ogloszenia-telefony-5815.rest^$all
 ||allegro.pl-ogloszenie2562.icu^$all
 ||allegro.pl-ogloszenie2562.sbs^$all
@@ -4986,6 +5009,7 @@
 ||allegro.pl-ogloszenie-konsole-2764.shop^$all
 ||allegro.pl-ogloszenie-numer5430876.icu^$all
 ||allegro.pl-ogloszenie-promowane-7238.icu^$all
+||allegro.pl-ogloszenie-promowane-532835.icu^$all
 ||allegro.pl-okazje-cenowe-124.icu^$all
 ||allegro.pl-order1093203.cfd^$all
 ||allegro.pl-pitbullpartyafterdarktour.top^$all
@@ -5391,7 +5415,6 @@
 ||allegrolokalnie.70493621.xyz^$all
 ||allegrolokalnie.80783092.online^$all
 ||allegrolokalnie.81739513.buzz^$all
-||allegrolokalnie.90128401-id.shop^$all
 ||allegrolokalnie.90283976.online^$all
 ||allegrolokalnie.90482039.xyz^$all
 ||allegrolokalnie.90672635.online^$all
@@ -5511,6 +5534,7 @@
 ||allegrolokalnie.oferta136564.buzz^$all
 ||allegrolokalnie.oferta136564.world^$all
 ||allegrolokalnie.oferta0196481.top^$all
+||allegrolokalnie.oferta202272.cfd^$all
 ||allegrolokalnie.oferta326736.buzz^$all
 ||allegrolokalnie.oferta394261.com^$all
 ||allegrolokalnie.oferta452378.buzz^$all
@@ -5561,6 +5585,7 @@
 ||allegrolokalnie.oferta-124125.icu^$all
 ||allegrolokalnie.oferta-125822.cyou^$all
 ||allegrolokalnie.oferta-163959.shop^$all
+||allegrolokalnie.oferta-205855.shop^$all
 ||allegrolokalnie.oferta-278182.link^$all
 ||allegrolokalnie.oferta-321452.icu^$all
 ||allegrolokalnie.oferta-324543.icu^$all
@@ -5614,6 +5639,7 @@
 ||allegrolokalnie.oferta-4302880.icu^$all
 ||allegrolokalnie.oferta-4303518.shop^$all
 ||allegrolokalnie.oferta-4319222.shop^$all
+||allegrolokalnie.oferta-4417653.cfd^$all
 ||allegrolokalnie.oferta-4465727.shop^$all
 ||allegrolokalnie.oferta-4607222.cfd^$all
 ||allegrolokalnie.oferta-4869401.cfd^$all
@@ -6067,6 +6093,7 @@
 ||allegrolokalnie.pl-90609484g.shop^$all
 ||allegrolokalnie.pl-92032932.rest^$all
 ||allegrolokalnie.pl-92049021.rest^$all
+||allegrolokalnie.pl-92049021.sbs^$all
 ||allegrolokalnie.pl-93045492.sbs^$all
 ||allegrolokalnie.pl-94296953.cfd^$all
 ||allegrolokalnie.pl-98483597.icu^$all
@@ -6117,9 +6144,11 @@
 ||allegrolokalnie.pl-dwxe4.icu^$all
 ||allegrolokalnie.pl-ezakupy-24h.shop^$all
 ||allegrolokalnie.pl-fgbny57e64g.sbs^$all
+||allegrolokalnie.pl-firmowe-konto451432.icu^$all
 ||allegrolokalnie.pl-firmowe-konto839112.icu^$all
 ||allegrolokalnie.pl-firmowe-konto842112.icu^$all
 ||allegrolokalnie.pl-firmowe-ogloszenie231452.icu^$all
+||allegrolokalnie.pl-firmowe-ogloszenie252342.icu^$all
 ||allegrolokalnie.pl-fnkvsgifhvnoa.buzz^$all
 ||allegrolokalnie.pl-g34g4626fdw.sbs^$all
 ||allegrolokalnie.pl-g4564f567f3f.icu^$all
@@ -6239,6 +6268,7 @@
 ||allegrolokalnie.pl-oferta087640.shop^$all
 ||allegrolokalnie.pl-oferta93457.sbs^$all
 ||allegrolokalnie.pl-oferta94365.cfd^$all
+||allegrolokalnie.pl-oferta94563.cfd^$all
 ||allegrolokalnie.pl-oferta94851.icu^$all
 ||allegrolokalnie.pl-oferta98742.top^$all
 ||allegrolokalnie.pl-oferta216217.cfd^$all
@@ -6305,6 +6335,7 @@
 ||allegrolokalnie.pl-oferta754384.com^$all
 ||allegrolokalnie.pl-oferta754385.com^$all
 ||allegrolokalnie.pl-oferta754386.com^$all
+||allegrolokalnie.pl-oferta754387.cfd^$all
 ||allegrolokalnie.pl-oferta754387.com^$all
 ||allegrolokalnie.pl-oferta754387.cyou^$all
 ||allegrolokalnie.pl-oferta754387.shop^$all
@@ -6379,6 +6410,7 @@
 ||allegrolokalnie.pl-oferta2452084.cfd^$all
 ||allegrolokalnie.pl-oferta2490148.cfd^$all
 ||allegrolokalnie.pl-oferta2507068.cfd^$all
+||allegrolokalnie.pl-oferta2546631.shop^$all
 ||allegrolokalnie.pl-oferta2609748.icu^$all
 ||allegrolokalnie.pl-oferta2630212.icu^$all
 ||allegrolokalnie.pl-oferta2654432.shop^$all
@@ -6594,6 +6626,9 @@
 ||allegrolokalnie.pl-ogloszenia-firmowe-8864.buzz^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-361991.cfd^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-391851.icu^$all
+||allegrolokalnie.pl-ogloszenia-firmowe-858126.icu^$all
+||allegrolokalnie.pl-ogloszenia-promowane-532835.icu^$all
+||allegrolokalnie.pl-ogloszenia-promowane-832848.icu^$all
 ||allegrolokalnie.pl-ogloszenia-proponowane-842.blog^$all
 ||allegrolokalnie.pl-ogloszenia-telefony-5815.rest^$all
 ||allegrolokalnie.pl-ogloszenie2251.sbs^$all
@@ -6661,6 +6696,7 @@
 ||allegrolokalnie.pl-ogloszenie-konsole-2764.shop^$all
 ||allegrolokalnie.pl-ogloszenie-numer5430876.icu^$all
 ||allegrolokalnie.pl-ogloszenie-promowane-7238.icu^$all
+||allegrolokalnie.pl-ogloszenie-promowane-532835.icu^$all
 ||allegrolokalnie.pl-okazje-cenowe-124.icu^$all
 ||allegrolokalnie.pl-okazje-cenowe-981.icu^$all
 ||allegrolokalnie.pl-okazje-weekendowe-9313.rest^$all
@@ -6837,6 +6873,7 @@
 ||allegrolokalniepl.89518934189519.sbs^$all
 ||allegrolokalniepl.9172390123012546.online^$all
 ||allegrolokalniepl.9571205912039214.online^$all
+||allegrolokalniepl.645389049938583223.icu^$all
 ||allegrolokalniepl.8721394812394239746.online^$all
 ||allegrolokalniepl.37934659518205673470251.online^$all
 ||allegrolokalniepl.649392740202837283848207.online^$all
@@ -6847,6 +6884,7 @@
 ||allegrolokalniepl.9683081239018571985139763.online^$all
 ||allegrolokalniepl.9185812489123859213845420947.online^$all
 ||allegrolokalniepl.9471591280315015789032841158.online^$all
+||allegrolokalniepl.09075712391240912084520140812386981261324.online^$all
 ||allegrolokalniepl.id738827772776403.cfd^$all
 ||allegrolokalniepl.id-898736-listing.cfd^$all
 ||allegrolokalniepl.id-9876453-listing.cfd^$all
@@ -8273,7 +8311,6 @@
 ||b.jcsbbots.site^$all
 ||b.mtradi.top^$all
 ||b.waptrad.top^$all
-||ba.inmq.lat^$all
 ||bab.uhhokker.top^$all
 ||babablue.net^$all
 ||babablue.org^$all
@@ -10775,15 +10812,12 @@
 ||caseid10007512786895-0315-1tlc3kyadaerba1ig46xnkj.vercel.app^$all
 ||caseid100075127868952-0306-1tlc3kyadaebszig4hf6xnkj.vercel.app^$all
 ||caseid100075127868955-0307-1tlc3kyadgzgaehbad1ig46xnkj.vercel.app^$all
-||casenim.cfd^$all
 ||caserix.com^$all
 ||casertas.org^$all
-||casesml.cfd^$all
 ||casetasdeocasion.com^$all
 ||caseteos.com^$all
 ||caseters.com^$all
 ||casetesy.com^$all
-||casezenk.cfd^$all
 ||cashbridge.website^$all
 ||cashbro.net^$all
 ||cashcarbuying.com^$all
@@ -13096,6 +13130,7 @@
 ||deelincinvestigation.com^$all
 ||deelnation.com^$all
 ||deelznation.com^$all
+||deemipalin.pro^$all
 ||deendoughouz.net^$all
 ||deendoughouz.org^$all
 ||deep-voxel.xyz^$all
@@ -14061,6 +14096,7 @@
 ||dpd-pl.bezpieczna-transakcja.live^$all
 ||dpd-pl.bezpieczna-transakcja.top^$all
 ||dpd-pl.check-buy99.shop^$all
+||dpd-pl.check-buy100.shop^$all
 ||dpd-pl.check-buy178.shop^$all
 ||dpd-pl.check-buy180.shop^$all
 ||dpd-pl.check-buy1115.shop^$all
@@ -18080,7 +18116,6 @@
 ||gowiwaa.shop^$all
 ||goworksofficesspace.com^$all
 ||goworldofapps.com^$all
-||gp.inmq.lat^$all
 ||gpk8afzw4hbytce.tvshow-netfiix.cfd^$all
 ||gproffice.com^$all
 ||gps-connect.site^$all
@@ -20856,7 +20891,6 @@
 ||iqige.yachts^$all
 ||iqpa-pay.com^$all
 ||iqraapress.com^$all
-||ir.inmq.lat^$all
 ||irachande.org^$all
 ||iranesport.com^$all
 ||iranfelezyab.com^$all
@@ -22576,6 +22610,7 @@
 ||kurawogniustoi.space^$all
 ||kuriftuclothingzim.com^$all
 ||kurivi.com^$all
+||kurjerzy-pl.pro^$all
 ||kuromax.com^$all
 ||kursyszkolenia.com^$all
 ||kurtcantellomarketing.com^$all
@@ -23744,7 +23779,6 @@
 ||lpkoblznes.pro^$all
 ||lpmt.net^$all
 ||lq4bzh.top^$all
-||lq.inmq.lat^$all
 ||lr6mff.icu^$all
 ||lr-group.co.za^$all
 ||lrctp.info^$all
@@ -27169,7 +27203,6 @@
 ||notiziecristiane.org^$all
 ||nouamedia.com^$all
 ||nouatv.com^$all
-||nounsbeman.cklesnest.world^$all
 ||nourishinglouisa.com^$all
 ||nourishingslowliving.com^$all
 ||nova-inkasso.com^$all
@@ -27564,6 +27597,7 @@
 ||oferta-124125.icu^$all
 ||oferta-125822.cyou^$all
 ||oferta-163959.shop^$all
+||oferta-205855.shop^$all
 ||oferta-321452.icu^$all
 ||oferta-324543.icu^$all
 ||oferta-412515.icu^$all
@@ -27610,6 +27644,7 @@
 ||oferta-4302880.icu^$all
 ||oferta-4303518.shop^$all
 ||oferta-4319222.shop^$all
+||oferta-4417653.cfd^$all
 ||oferta-4465727.shop^$all
 ||oferta-4952804.shop^$all
 ||oferta-4978904.shop^$all
@@ -29575,6 +29610,7 @@
 ||olx.id8568.pl^$all
 ||olx.iektrom.icu^$all
 ||olx.igtade.cfd^$all
+||olx.iklehan.sbs^$all
 ||olx.ilamshac.cfd^$all
 ||olx.ileman.pics^$all
 ||olx.ilyfamn.sbs^$all
@@ -29582,6 +29618,7 @@
 ||olx.insedo.lol^$all
 ||olx.itsimler.org^$all
 ||olx.jhfolje.shop^$all
+||olx.jinabkae.sbs^$all
 ||olx.jjthrfvghj53.sbs^$all
 ||olx.jnoverm.cfd^$all
 ||olx.jofrileo.sbs^$all
@@ -29646,6 +29683,7 @@
 ||olx.oferta-124125.icu^$all
 ||olx.oferta-125822.cyou^$all
 ||olx.oferta-163959.shop^$all
+||olx.oferta-205855.shop^$all
 ||olx.oferta-321452.icu^$all
 ||olx.oferta-324543.icu^$all
 ||olx.oferta-412515.icu^$all
@@ -29693,6 +29731,7 @@
 ||olx.oferta-4302880.icu^$all
 ||olx.oferta-4303518.shop^$all
 ||olx.oferta-4319222.shop^$all
+||olx.oferta-4417653.cfd^$all
 ||olx.oferta-4465727.shop^$all
 ||olx.oferta-4952804.shop^$all
 ||olx.oferta-4978904.shop^$all
@@ -29878,6 +29917,7 @@
 ||olx.pl-84382019.rest^$all
 ||olx.pl-92032932.rest^$all
 ||olx.pl-92049021.rest^$all
+||olx.pl-92049021.sbs^$all
 ||olx.pl-93045492.sbs^$all
 ||olx.pl-94296953.cfd^$all
 ||olx.pl-98483597.icu^$all
@@ -29899,9 +29939,11 @@
 ||olx.pl-cnt8g2ny9353noycg35.icu^$all
 ||olx.pl-dvftg567gfrt.icu^$all
 ||olx.pl-fgbny57e64g.sbs^$all
+||olx.pl-firmowe-konto451432.icu^$all
 ||olx.pl-firmowe-konto839112.icu^$all
 ||olx.pl-firmowe-konto842112.icu^$all
 ||olx.pl-firmowe-ogloszenie231452.icu^$all
+||olx.pl-firmowe-ogloszenie252342.icu^$all
 ||olx.pl-g533465uh353rv3.cyou^$all
 ||olx.pl-h7v943h086t3xy4ho363.cyou^$all
 ||olx.pl-h7v943h086t3xy4ho363.icu^$all
@@ -29949,6 +29991,7 @@
 ||olx.pl-oferta087640.shop^$all
 ||olx.pl-oferta93457.sbs^$all
 ||olx.pl-oferta94365.cfd^$all
+||olx.pl-oferta94563.cfd^$all
 ||olx.pl-oferta94851.icu^$all
 ||olx.pl-oferta443532.rest^$all
 ||olx.pl-oferta528437.icu^$all
@@ -29962,6 +30005,7 @@
 ||olx.pl-oferta732387.cfd^$all
 ||olx.pl-oferta743218.icu^$all
 ||olx.pl-oferta746598.com^$all
+||olx.pl-oferta754387.cfd^$all
 ||olx.pl-oferta754387.cyou^$all
 ||olx.pl-oferta754387.shop^$all
 ||olx.pl-oferta756893.com^$all
@@ -30003,6 +30047,7 @@
 ||olx.pl-oferta2379113.shop^$all
 ||olx.pl-oferta2428971.icu^$all
 ||olx.pl-oferta2452084.cfd^$all
+||olx.pl-oferta2546631.shop^$all
 ||olx.pl-oferta2609748.icu^$all
 ||olx.pl-oferta2654432.shop^$all
 ||olx.pl-oferta2693800.shop^$all
@@ -30139,6 +30184,9 @@
 ||olx.pl-ogloszenia78517.shop^$all
 ||olx.pl-ogloszenia-firmowe-361991.cfd^$all
 ||olx.pl-ogloszenia-firmowe-391851.icu^$all
+||olx.pl-ogloszenia-firmowe-858126.icu^$all
+||olx.pl-ogloszenia-promowane-532835.icu^$all
+||olx.pl-ogloszenia-promowane-832848.icu^$all
 ||olx.pl-ogloszenia-telefony-5815.rest^$all
 ||olx.pl-ogloszenie2562.sbs^$all
 ||olx.pl-ogloszenie2562.shop^$all
@@ -30180,6 +30228,7 @@
 ||olx.pl-ogloszenie-firmowe-8845431.icu^$all
 ||olx.pl-ogloszenie-konsole-2764.shop^$all
 ||olx.pl-ogloszenie-promowane-7238.icu^$all
+||olx.pl-ogloszenie-promowane-532835.icu^$all
 ||olx.pl-okazje-cenowe-124.icu^$all
 ||olx.pl-pitbullpartyafterdarktour.top^$all
 ||olx.pl-propozycje-71824.icu^$all
@@ -30283,6 +30332,7 @@
 ||olx.sttrulee.sbs^$all
 ||olx.stynkimr.cfd^$all
 ||olx.suit-me.shop^$all
+||olx.tazbelis.sbs^$all
 ||olx.tdunbalo.sbs^$all
 ||olx.tecidny.cfd^$all
 ||olx.teellam.sbs^$all
@@ -31337,6 +31387,7 @@
 ||patchesformasks.com^$all
 ||path.swiftloanway.com^$all
 ||pathfinderscommune.com^$all
+||patient-shade-buildings-halo.trycloudflare.com^$all
 ||patitasbarcelona.com^$all
 ||patnasuper30.com^$all
 ||patricepatrickbanks.com^$all
@@ -31470,6 +31521,7 @@
 ||pdiexpo.com^$all
 ||pdp.0907453.xyz^$all
 ||pdp.60683263.xyz^$all
+||pdp.94784673.xyz^$all
 ||pe2esw.cyou^$all
 ||peaceful-humdrum-plot.glitch.me^$all
 ||peacefulline.sbs^$all
@@ -32232,6 +32284,7 @@
 ||pl-84382019.rest^$all
 ||pl-92032932.rest^$all
 ||pl-92049021.rest^$all
+||pl-92049021.sbs^$all
 ||pl-93045492.sbs^$all
 ||pl-94296953.cfd^$all
 ||pl-98483597.icu^$all
@@ -32267,9 +32320,11 @@
 ||pl-dwxe4.icu^$all
 ||pl-eu.unitynetwork.sbs^$all
 ||pl-fgbny57e64g.sbs^$all
+||pl-firmowe-konto451432.icu^$all
 ||pl-firmowe-konto839112.icu^$all
 ||pl-firmowe-konto842112.icu^$all
 ||pl-firmowe-ogloszenie231452.icu^$all
+||pl-firmowe-ogloszenie252342.icu^$all
 ||pl-g533465uh353rv3.cyou^$all
 ||pl-gov.info^$all
 ||pl-gov.org^$all
@@ -32358,6 +32413,7 @@
 ||pl-oferta087640.shop^$all
 ||pl-oferta93457.sbs^$all
 ||pl-oferta94365.cfd^$all
+||pl-oferta94563.cfd^$all
 ||pl-oferta94851.icu^$all
 ||pl-oferta216217.cfd^$all
 ||pl-oferta216267.cfd^$all
@@ -32388,6 +32444,7 @@
 ||pl-oferta746478.com^$all
 ||pl-oferta746598.com^$all
 ||pl-oferta746837.icu^$all
+||pl-oferta754387.cfd^$all
 ||pl-oferta754387.cyou^$all
 ||pl-oferta754387.shop^$all
 ||pl-oferta756893.com^$all
@@ -32445,6 +32502,7 @@
 ||pl-oferta2428971.icu^$all
 ||pl-oferta2452084.cfd^$all
 ||pl-oferta2490148.cfd^$all
+||pl-oferta2546631.shop^$all
 ||pl-oferta2609748.icu^$all
 ||pl-oferta2630212.icu^$all
 ||pl-oferta2654432.shop^$all
@@ -32626,6 +32684,9 @@
 ||pl-ogloszenia78517.shop^$all
 ||pl-ogloszenia-firmowe-361991.cfd^$all
 ||pl-ogloszenia-firmowe-391851.icu^$all
+||pl-ogloszenia-firmowe-858126.icu^$all
+||pl-ogloszenia-promowane-532835.icu^$all
+||pl-ogloszenia-promowane-832848.icu^$all
 ||pl-ogloszenia-telefony-5815.rest^$all
 ||pl-ogloszenie2562.icu^$all
 ||pl-ogloszenie2562.sbs^$all
@@ -32680,6 +32741,7 @@
 ||pl-ogloszenie-konsole-2764.shop^$all
 ||pl-ogloszenie-numer5430876.icu^$all
 ||pl-ogloszenie-promowane-7238.icu^$all
+||pl-ogloszenie-promowane-532835.icu^$all
 ||pl-okazje-cenowe-124.icu^$all
 ||pl-olx.festiveexplosions.sbs^$all
 ||pl-order1093203.cfd^$all
@@ -32937,6 +32999,7 @@
 ||plmobile.top^$all
 ||plmoknijuhbvgyt.buzz^$all
 ||plmoney.paskaite.com^$all
+||plmoreie.com^$all
 ||plmtworld.facepl.com^$all
 ||plnd.standlonepl.com^$all
 ||plnews1.github.io^$all
@@ -37469,7 +37532,6 @@
 ||siycma.com^$all
 ||sizijoy.com^$all
 ||sj.gmasken.top^$all
-||sj.inmq.lat^$all
 ||sjqor.com^$all
 ||sjqxb.com^$all
 ||sjrq.lat^$all
@@ -40315,7 +40377,6 @@
 ||ti-meta-tp2.kujlon.top^$all
 ||ti-meta-tp2.metlant.site^$all
 ||ti-what-tp2.vvappp.top^$all
-||ti.inmq.lat^$all
 ||tia-kika.com^$all
 ||tiakika.com^$all
 ||tianartextile.com^$all
@@ -40990,6 +41051,7 @@
 ||tricityvanandstorage.com^$all
 ||triconwaersolutions.com^$all
 ||tridace.com^$all
+||tridiametral.com^$all
 ||triedandtruemomreviews.com^$all
 ||trigarena.com^$all
 ||triiiiangle.com^$all
@@ -41728,7 +41790,6 @@
 ||upsecure.hitebre.shop^$all
 ||upsecure.jindou.shop^$all
 ||upsecure.jtrm.shop^$all
-||upsecure.mingtian.shop^$all
 ||upsecure.providee.shop^$all
 ||upsecure.starcellindopulsa.shop^$all
 ||upsecure.strmrs.shop^$all
@@ -41962,7 +42023,6 @@
 ||valoralex.com^$all
 ||valorantshop.today^$all
 ||valordereferenciacatastro.com^$all
-||valoreward.com^$all
 ||valorraiz.com^$all
 ||valuadeals.com^$all
 ||valuecoalition.org^$all
@@ -42516,7 +42576,6 @@
 ||vinted.order83177.info^$all
 ||vinted.order-de-2004.pro^$all
 ||vinted.page039.biz^$all
-||vinted.page7412.biz^$all
 ||vinted.page8909.biz^$all
 ||vinted.page10345.com^$all
 ||vinted.page37846.com^$all
@@ -43295,7 +43354,6 @@
 ||we1lp5lfcbvehv66j3bf3gpo.fashionlakes.com^$all
 ||we2mpaiotdhafrv53tti1sv2.animalsaidz.com^$all
 ||we-are-blue.online^$all
-||we.inmq.lat^$all
 ||wealpthep.com^$all
 ||wealsod.com^$all
 ||wealthbooster.xyz^$all
