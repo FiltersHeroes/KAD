@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 13 Apr 2025, 14:40 UTC+02:00
-! Version: 2025.4.13.2
+! Last modified: Sun, 13 Apr 2025, 18:27 UTC+02:00
+! Version: 2025.4.13.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2686,6 +2686,7 @@
 ||1211s5-seven.vercel.app^$all
 ||1211s6-alpha.vercel.app^$all
 ||1211s6-xi.vercel.app^$all
+||1211s8-rzgc.vercel.app^$all
 ||1211s8-three.vercel.app^$all
 ||1610f9b1b9.allegro40.fun^$all
 ||01829fb4e2.netfx-pl.click^$all
@@ -3534,6 +3535,7 @@
 ||aiebilet.pl-kategorie-inne-81.icu^$all
 ||aiebilet.pl-kategorie-inne-91.icu^$all
 ||aiebilet.pl-kategorie-inne-187.icu^$all
+||aiebilet.pl-kategorie-inne-814.sbs^$all
 ||aiebilet.pl-kategorie-inne-894.icu^$all
 ||aiebilet.pl-kategorie-inne-982.icu^$all
 ||aiebilet.pl-kategorie-inne-1023.icu^$all
@@ -3550,6 +3552,7 @@
 ||aiebilet.pl-kategorie-pozostale-491.sbs^$all
 ||aiebilet.pl-kategorie-pozostale-912.icu^$all
 ||aiebilet.pl-kategorie-pozostale-917.qpon^$all
+||aiebilet.pl-kategorie-pozostale-7912.sbs^$all
 ||aiebilet.pl-kategorie-pozostale-9124.icu^$all
 ||aiebilet.pl-ogloszenia-pozostale.icu^$all
 ||aiebilet.pl-ogloszenia-proponowane-842.blog^$all
@@ -3560,6 +3563,7 @@
 ||aiebilet.pl-promowane-artykuly-481.cfd^$all
 ||aiebilet.pl-propozycje-inne-14.icu^$all
 ||aiebilet.pl-propozycje-inne-17.icu^$all
+||aiebilet.pl-propozycje-inne-72726.sbs^$all
 ||aiebilet.pl-propozycje-pozostale-13.icu^$all
 ||aiebilet.pl-uzywane-inne-42333.cfd^$all
 ||aiebilet.pl-uzywane-inne-545431.cfd^$all
@@ -4090,6 +4094,7 @@
 ||alebilet.pl-kategorie-inne-81.icu^$all
 ||alebilet.pl-kategorie-inne-91.icu^$all
 ||alebilet.pl-kategorie-inne-187.icu^$all
+||alebilet.pl-kategorie-inne-814.sbs^$all
 ||alebilet.pl-kategorie-inne-894.icu^$all
 ||alebilet.pl-kategorie-inne-982.icu^$all
 ||alebilet.pl-kategorie-inne-1023.icu^$all
@@ -4111,6 +4116,7 @@
 ||alebilet.pl-kategorie-pozostale-491.sbs^$all
 ||alebilet.pl-kategorie-pozostale-912.icu^$all
 ||alebilet.pl-kategorie-pozostale-917.qpon^$all
+||alebilet.pl-kategorie-pozostale-7912.sbs^$all
 ||alebilet.pl-kategorie-pozostale-9124.icu^$all
 ||alebilet.pl-kategorie-promowane-923256.icu^$all
 ||alebilet.pl-navcategory093283.cfd^$all
@@ -4339,6 +4345,7 @@
 ||alebilet.pl-oferta-bilety-93820.shop^$all
 ||alebilet.pl-oferta-firmowa-id88394.shop^$all
 ||alebilet.pl-oferta-iphone-16-pro-max.sbs^$all
+||alebilet.pl-oferta-iphone-polska.cfd^$all
 ||alebilet.pl-oferta-iphone.cfd^$all
 ||alebilet.pl-oferta-iphone.com^$all
 ||alebilet.pl-oferta-iphone.icu^$all
@@ -4425,6 +4432,7 @@
 ||alebilet.pl-propozycje-71847.icu^$all
 ||alebilet.pl-propozycje-inne-14.icu^$all
 ||alebilet.pl-propozycje-inne-17.icu^$all
+||alebilet.pl-propozycje-inne-72726.sbs^$all
 ||alebilet.pl-propozycje-pozostale-13.icu^$all
 ||alebilet.pl-prywatnie-kup-teraz-93203.shop^$all
 ||alebilet.pl-rezerwacja3638.icu^$all
@@ -4438,6 +4446,7 @@
 ||alebilet.pl-v2y96vny9vqt4om9y34vw6.it.com^$all
 ||alebilet.pl-wyprzedaz-rozne-15.icu^$all
 ||alebilet.pl-x8k13bcz7msq1nwd93lfya5.xyz^$all
+||alebilet.pll-firmowa274183.icu^$all
 ||alebilet.pll-firmowa787231.icu^$all
 ||alebilet.pll-firmowe49275.icu^$all
 ||alebilet.pll-firmowe531853.icu^$all
@@ -4668,6 +4677,7 @@
 ||allebilet.pl-kategorie-inne-81.icu^$all
 ||allebilet.pl-kategorie-inne-91.icu^$all
 ||allebilet.pl-kategorie-inne-187.icu^$all
+||allebilet.pl-kategorie-inne-814.sbs^$all
 ||allebilet.pl-kategorie-inne-894.icu^$all
 ||allebilet.pl-kategorie-inne-982.icu^$all
 ||allebilet.pl-kategorie-inne-1023.icu^$all
@@ -4684,6 +4694,7 @@
 ||allebilet.pl-kategorie-pozostale-491.sbs^$all
 ||allebilet.pl-kategorie-pozostale-912.icu^$all
 ||allebilet.pl-kategorie-pozostale-917.qpon^$all
+||allebilet.pl-kategorie-pozostale-7912.sbs^$all
 ||allebilet.pl-kategorie-pozostale-9124.icu^$all
 ||allebilet.pl-ogloszenia-pozostale.icu^$all
 ||allebilet.pl-ogloszenia-proponowane-842.blog^$all
@@ -4694,6 +4705,7 @@
 ||allebilet.pl-promowane-artykuly-481.cfd^$all
 ||allebilet.pl-propozycje-inne-14.icu^$all
 ||allebilet.pl-propozycje-inne-17.icu^$all
+||allebilet.pl-propozycje-inne-72726.sbs^$all
 ||allebilet.pl-propozycje-pozostale-13.icu^$all
 ||allebilet.pl-uzywane-inne-42333.cfd^$all
 ||allebilet.pl-uzywane-inne-545431.cfd^$all
@@ -4737,7 +4749,6 @@
 ||allegro.id-69332.icu^$all
 ||allegro.id-8712441.sbs^$all
 ||allegro.index-178.cfd^$all
-||allegro.kategorie-promowane-931.shop^$all
 ||allegro.kategorie-promowane-81532.buzz^$all
 ||allegro.lista-artykulow-91.buzz^$all
 ||allegro.net^$all
@@ -4891,7 +4902,6 @@
 ||allegro.oferta-928317231.icu^$all
 ||allegro.ofertaxz.shop^$all
 ||allegro.ofetra1131.shop^$all
-||allegro.ogloszenia-proponowane.shop^$all
 ||allegro.ogloszenie-354793.shop^$all
 ||allegro.ogloszenie-534119.shop^$all
 ||allegro.ogloszenie-574311.shop^$all
@@ -5101,6 +5111,7 @@
 ||allegro.pl-kategorie-inne-81.icu^$all
 ||allegro.pl-kategorie-inne-91.icu^$all
 ||allegro.pl-kategorie-inne-187.icu^$all
+||allegro.pl-kategorie-inne-814.sbs^$all
 ||allegro.pl-kategorie-inne-894.icu^$all
 ||allegro.pl-kategorie-inne-982.icu^$all
 ||allegro.pl-kategorie-inne-1023.icu^$all
@@ -5122,6 +5133,7 @@
 ||allegro.pl-kategorie-pozostale-491.sbs^$all
 ||allegro.pl-kategorie-pozostale-912.icu^$all
 ||allegro.pl-kategorie-pozostale-917.qpon^$all
+||allegro.pl-kategorie-pozostale-7912.sbs^$all
 ||allegro.pl-kategorie-pozostale-9124.icu^$all
 ||allegro.pl-kategorie-promowane-923256.icu^$all
 ||allegro.pl-navcategory093283.cfd^$all
@@ -5431,6 +5443,7 @@
 ||allegro.pl-oferta-firmowa-id88394.shop^$all
 ||allegro.pl-oferta-id261352.cfd^$all
 ||allegro.pl-oferta-iphone-16-pro-max.sbs^$all
+||allegro.pl-oferta-iphone-polska.cfd^$all
 ||allegro.pl-oferta-iphone.cfd^$all
 ||allegro.pl-oferta-iphone.com^$all
 ||allegro.pl-oferta-iphone.icu^$all
@@ -5538,6 +5551,7 @@
 ||allegro.pl-propozycje-71847.icu^$all
 ||allegro.pl-propozycje-inne-14.icu^$all
 ||allegro.pl-propozycje-inne-17.icu^$all
+||allegro.pl-propozycje-inne-72726.sbs^$all
 ||allegro.pl-propozycje-pozostale-13.icu^$all
 ||allegro.pl-prywatnie-kup-teraz-93203.shop^$all
 ||allegro.pl-redirect927.cfd^$all
@@ -5552,6 +5566,7 @@
 ||allegro.pl-wyroznione445909.icu^$all
 ||allegro.pl-x8k13bcz7msq1nwd93lfya5.xyz^$all
 ||allegro.plas8dalhlfia41gjk.shop^$all
+||allegro.pll-firmowa274183.icu^$all
 ||allegro.pll-firmowa787231.icu^$all
 ||allegro.pll-firmowe49275.icu^$all
 ||allegro.pll-firmowe531853.icu^$all
@@ -5761,6 +5776,7 @@
 ||allegrolokainie.pl-kategorie-inne-81.icu^$all
 ||allegrolokainie.pl-kategorie-inne-91.icu^$all
 ||allegrolokainie.pl-kategorie-inne-187.icu^$all
+||allegrolokainie.pl-kategorie-inne-814.sbs^$all
 ||allegrolokainie.pl-kategorie-inne-894.icu^$all
 ||allegrolokainie.pl-kategorie-inne-982.icu^$all
 ||allegrolokainie.pl-kategorie-inne-1023.icu^$all
@@ -5777,6 +5793,7 @@
 ||allegrolokainie.pl-kategorie-pozostale-491.sbs^$all
 ||allegrolokainie.pl-kategorie-pozostale-912.icu^$all
 ||allegrolokainie.pl-kategorie-pozostale-917.qpon^$all
+||allegrolokainie.pl-kategorie-pozostale-7912.sbs^$all
 ||allegrolokainie.pl-kategorie-pozostale-9124.icu^$all
 ||allegrolokainie.pl-ogloszenia-pozostale.icu^$all
 ||allegrolokainie.pl-ogloszenie-firmowe-812735.icu^$all
@@ -5786,6 +5803,7 @@
 ||allegrolokainie.pl-promowane-artykuly-481.cfd^$all
 ||allegrolokainie.pl-propozycje-inne-14.icu^$all
 ||allegrolokainie.pl-propozycje-inne-17.icu^$all
+||allegrolokainie.pl-propozycje-inne-72726.sbs^$all
 ||allegrolokainie.pl-propozycje-pozostale-13.icu^$all
 ||allegrolokainie.pl-uzywane-inne-42333.cfd^$all
 ||allegrolokainie.pl-uzywane-inne-545431.cfd^$all
@@ -5869,6 +5887,7 @@
 ||allegrolokalne.pl-kategorie-inne-81.icu^$all
 ||allegrolokalne.pl-kategorie-inne-91.icu^$all
 ||allegrolokalne.pl-kategorie-inne-187.icu^$all
+||allegrolokalne.pl-kategorie-inne-814.sbs^$all
 ||allegrolokalne.pl-kategorie-inne-894.icu^$all
 ||allegrolokalne.pl-kategorie-inne-982.icu^$all
 ||allegrolokalne.pl-kategorie-inne-1023.icu^$all
@@ -5885,6 +5904,7 @@
 ||allegrolokalne.pl-kategorie-pozostale-491.sbs^$all
 ||allegrolokalne.pl-kategorie-pozostale-912.icu^$all
 ||allegrolokalne.pl-kategorie-pozostale-917.qpon^$all
+||allegrolokalne.pl-kategorie-pozostale-7912.sbs^$all
 ||allegrolokalne.pl-kategorie-pozostale-9124.icu^$all
 ||allegrolokalne.pl-oferta-455681.icu^$all
 ||allegrolokalne.pl-ogloszenia-pozostale.icu^$all
@@ -5895,6 +5915,7 @@
 ||allegrolokalne.pl-promowane-artykuly-481.cfd^$all
 ||allegrolokalne.pl-propozycje-inne-14.icu^$all
 ||allegrolokalne.pl-propozycje-inne-17.icu^$all
+||allegrolokalne.pl-propozycje-inne-72726.sbs^$all
 ||allegrolokalne.pl-propozycje-pozostale-13.icu^$all
 ||allegrolokalne.pl-uzywane-inne-42333.cfd^$all
 ||allegrolokalne.pl-uzywane-inne-545431.cfd^$all
@@ -6165,6 +6186,7 @@
 ||allegrolokalnie.kategoria-dom-i-ogrod-7x6y9c.rest^$all
 ||allegrolokalnie.kategoria-iphone-5643728732.shop^$all
 ||allegrolokalnie.kategoria-promowana-9311.buzz^$all
+||allegrolokalnie.kategorie-dom-i-ogrod-85012.xyz^$all
 ||allegrolokalnie.kategorie-inne192475.icu^$all
 ||allegrolokalnie.kategorie-inne-429.buzz^$all
 ||allegrolokalnie.kategorie-inne-573927.icu^$all
@@ -6486,8 +6508,10 @@
 ||allegrolokalnie.pi-79485005.icu^$all
 ||allegrolokalnie.pi-kategorie-dom-i-ogrod-99821.rest^$all
 ||allegrolokalnie.pi-kategorie-inne-93254.rest^$all
+||allegrolokalnie.pi-kategorie-inne-158393.sbs^$all
 ||allegrolokalnie.pi-kategorie-inne-strona-67.cfd^$all
 ||allegrolokalnie.pi-kategorie-ogrod-93682.rest^$all
+||allegrolokalnie.pi-kategorie-ogrodowe-58201.top^$all
 ||allegrolokalnie.pi-kategorie-ogrodowe-75345.rest^$all
 ||allegrolokalnie.pi-kategorie-ogrodowe-strona-93.rest^$all
 ||allegrolokalnie.pi-oferta49271.top^$all
@@ -6753,11 +6777,11 @@
 ||allegrolokalnie.pl-871421.top^$all
 ||allegrolokalnie.pl-872144.icu^$all
 ||allegrolokalnie.pl-874333.top^$all
-||allegrolokalnie.pl-897124.shop^$all
 ||allegrolokalnie.pl-897480.shop^$all
 ||allegrolokalnie.pl-912082.shop^$all
 ||allegrolokalnie.pl-914211.sbs^$all
 ||allegrolokalnie.pl-918244.cfd^$all
+||allegrolokalnie.pl-919482.cfd^$all
 ||allegrolokalnie.pl-924834.icu^$all
 ||allegrolokalnie.pl-926434.icu^$all
 ||allegrolokalnie.pl-928492.cfd^$all
@@ -6951,6 +6975,7 @@
 ||allegrolokalnie.pl-kategorie-inne-214.icu^$all
 ||allegrolokalnie.pl-kategorie-inne-412.rest^$all
 ||allegrolokalnie.pl-kategorie-inne-501.cfd^$all
+||allegrolokalnie.pl-kategorie-inne-814.sbs^$all
 ||allegrolokalnie.pl-kategorie-inne-894.icu^$all
 ||allegrolokalnie.pl-kategorie-inne-982.icu^$all
 ||allegrolokalnie.pl-kategorie-inne-1023.icu^$all
@@ -6984,6 +7009,7 @@
 ||allegrolokalnie.pl-kategorie-pozostale-912.icu^$all
 ||allegrolokalnie.pl-kategorie-pozostale-917.qpon^$all
 ||allegrolokalnie.pl-kategorie-pozostale-4125.rest^$all
+||allegrolokalnie.pl-kategorie-pozostale-7912.sbs^$all
 ||allegrolokalnie.pl-kategorie-pozostale-9124.icu^$all
 ||allegrolokalnie.pl-kategorie-pozostale-9412.icu^$all
 ||allegrolokalnie.pl-kategorie-pozostale.sbs^$all
@@ -7396,6 +7422,7 @@
 ||allegrolokalnie.pl-oferta-firmowa-id88394.shop^$all
 ||allegrolokalnie.pl-oferta-id261352.cfd^$all
 ||allegrolokalnie.pl-oferta-iphone-16-pro-max.sbs^$all
+||allegrolokalnie.pl-oferta-iphone-polska.cfd^$all
 ||allegrolokalnie.pl-oferta-iphone.cfd^$all
 ||allegrolokalnie.pl-oferta-iphone.com^$all
 ||allegrolokalnie.pl-oferta-iphone.icu^$all
@@ -7536,6 +7563,7 @@
 ||allegrolokalnie.pl-propozycje-inne-14.icu^$all
 ||allegrolokalnie.pl-propozycje-inne-17.icu^$all
 ||allegrolokalnie.pl-propozycje-inne-391.icu^$all
+||allegrolokalnie.pl-propozycje-inne-72726.sbs^$all
 ||allegrolokalnie.pl-propozycje-pozostale-13.icu^$all
 ||allegrolokalnie.pl-prywatna-oferta-id43232.buzz^$all
 ||allegrolokalnie.pl-prywatnie-kup-teraz-93203.shop^$all
@@ -7578,6 +7606,7 @@
 ||allegrolokalnie.placdzisiaj24.icu^$all
 ||allegrolokalnie.plas8dalhlfia41gjk.shop^$all
 ||allegrolokalnie.plasgja3hlfia21gjk.shop^$all
+||allegrolokalnie.pll-firmowa274183.icu^$all
 ||allegrolokalnie.pll-firmowa787231.icu^$all
 ||allegrolokalnie.pll-firmowe49275.icu^$all
 ||allegrolokalnie.pll-firmowe531853.icu^$all
@@ -11824,6 +11853,7 @@
 ||caseems.com^$all
 ||caseid10007512786895-0315-1tlc3kyadaerba1ig46xnkj.vercel.app^$all
 ||caseid10007512786895-0328-1tlc3kykadaa1ig46xnkj.vercel.app^$all
+||caseid10007512786895-0413-1tlc3kyadaebag1ig46xnkj.vercel.app^$all
 ||caseid100075127868952-0306-1tlc3kyadaebszig4hf6xnkj.vercel.app^$all
 ||caseid100075127868955-0307-1tlc3kyadgzgaehbad1ig46xnkj.vercel.app^$all
 ||caserix.com^$all
@@ -12162,6 +12192,7 @@
 ||charmingflare.pro^$all
 ||charminglittleoneclothing.com^$all
 ||charmingrealm.pro^$all
+||charmingtide.pro^$all
 ||charterschoolaction.com^$all
 ||chasecapitalonline.com^$all
 ||chaseclancy.com^$all
@@ -12700,7 +12731,6 @@
 ||cmunitize.com^$all
 ||cmwx.com^$all
 ||cmzhtuxnoly.pro^$all
-||cn2haj.top^$all
 ||cn2luc.lat^$all
 ||cn3soo.lat^$all
 ||cn-allegeo-no1.one^$all
@@ -14118,6 +14148,7 @@
 ||dbellamy.com^$all
 ||dbienestarlab.com^$all
 ||dbkuliner.com^$all
+||dbond.ycode.site^$all
 ||dbpyjgroup.cfd^$all
 ||dbrroofingsupplies.com^$all
 ||dbruner.com^$all
@@ -14961,7 +14992,6 @@
 ||dlsmartdev.com^$all
 ||dlsmartsolutionstop.com^$all
 ||dlsoftlab.com^$all
-||dlsparkideas.com^$all
 ||dlstreamitup.com^$all
 ||dlsurfnow.com^$all
 ||dlsyncpro.com^$all
@@ -15656,7 +15686,6 @@
 ||e8cglh.cyou^$all
 ||e8d429b386.disnnplus.click^$all
 ||e8ee132d5b.mertv.pl^$all
-||e8yted.bond^$all
 ||e9lvau.lat^$all
 ||e9qtif.icu^$all
 ||e29a2f84f.brzysk.hekko.pl^$all
@@ -17154,6 +17183,7 @@
 ||faleinglesparasempre.com^$all
 ||fallacydetective.org^$all
 ||fallcase.top^$all
+||fallisvegl.pro^$all
 ||fallmusicfestival.com^$all
 ||fameandfusion.com^$all
 ||fameflux.com^$all
@@ -17962,6 +17992,7 @@
 ||foodtruths.org^$all
 ||foohelicopter.xyz^$all
 ||fookhuat.com^$all
+||foolispuzz.pro^$all
 ||foolsfollymusic.com^$all
 ||foopossession.xyz^$all
 ||foosimplicity.xyz^$all
@@ -18335,6 +18366,7 @@
 ||funflowdance.com^$all
 ||funfunding.com^$all
 ||funfusisfon.biz^$all
+||funghsopre.pro^$all
 ||fungifamilyhealing.com^$all
 ||fungizmos.st^$all
 ||funiversity.com^$all
@@ -19398,6 +19430,7 @@
 ||gqpfilters.com^$all
 ||gqrims.com^$all
 ||gqsnt.com^$all
+||gr1syb.skin^$all
 ||gr2zse.icu^$all
 ||grabdealcroma.com^$all
 ||grabyourbookhere.com^$all
@@ -19779,7 +19812,6 @@
 ||h5nls9.cc^$all
 ||h6fgjr.top^$all
 ||h6qlnw.cyou^$all
-||h6qolu.skin^$all
 ||h9i25do61ucgyz0.nh28a.pl^$all
 ||h9jpik.top^$all
 ||h22qw.top^$all
@@ -22330,6 +22362,7 @@
 ||istaye.net^$all
 ||istgaleri.com^$all
 ||istithmar.com^$all
+||istruunder.pro^$all
 ||isueu2.com^$all
 ||isuperclear.com^$all
 ||isvtron.com^$all
@@ -23728,7 +23761,6 @@
 ||kitsap-kitchen-bath.online^$all
 ||kitsunesustainable.com^$all
 ||kiuwoxo.shop^$all
-||kiva.perkquestadventures.xyz^$all
 ||kivunai.autos^$all
 ||kivunai.store^$all
 ||kiwi-handyman.com^$all
@@ -27818,6 +27850,7 @@
 ||mysticviolets.xyz^$all
 ||mystocks-ai.com^$all
 ||mystrategi.com^$all
+||mysub-status.com^$all
 ||mytacua4.pro^$all
 ||mytalentu.net^$all
 ||mytalentu.org^$all
@@ -29611,6 +29644,7 @@
 ||oiz.4684376.xyz^$all
 ||ojasgovtjob.com^$all
 ||ojcm.lat^$all
+||ojix.uw2lya.cyou^$all
 ||ojwbat72c5mlf9u.netfx-plat.cfd^$all
 ||ojx-ipko-pl.authorezed.site^$all
 ||ojx.0653265.xyz^$all
@@ -30574,7 +30608,6 @@
 ||olx-pl.onservv.shop^$all
 ||olx-pl.onsfan.pics^$all
 ||olx-pl.onxoglznie.site^$all
-||olx-pl.onzemzakup.site^$all
 ||olx-pl.onzkuppel.site^$all
 ||olx-pl.opechatra.cfd^$all
 ||olx-pl.opeifjs.lol^$all
@@ -30629,7 +30662,6 @@
 ||olx-pl.pivren.lol^$all
 ||olx-pl.pladewe.cfd^$all
 ||olx-pl.plaend.lol^$all
-||olx-pl.platnosc1263.site^$all
 ||olx-pl.platnosc09263.site^$all
 ||olx-pl.platnosc09341.site^$all
 ||olx-pl.platnosc30113.site^$all
@@ -31008,7 +31040,6 @@
 ||olx-pl.wazqopl.sbs^$all
 ||olx-pl.wefos.lol^$all
 ||olx-pl.wejkonzen.site^$all
-||olx-pl.wejnmoxpl.site^$all
 ||olx-pl.wejogloszzne.site^$all
 ||olx-pl.wejznoplen.site^$all
 ||olx-pl.wekonplzmwne.site^$all
@@ -31189,7 +31220,6 @@
 ||olx.club-social.shop^$all
 ||olx.com-orders.shop^$all
 ||olx.contact-home.shop^$all
-||olx.control-orange.shop^$all
 ||olx.ctoflej.cfd^$all
 ||olx.current-url.shop^$all
 ||olx.custom-net.shop^$all
@@ -31239,7 +31269,6 @@
 ||olx.hagabl.sbs^$all
 ||olx.hatollw.sbs^$all
 ||olx.hgeladon.sbs^$all
-||olx.home-out.shop^$all
 ||olx.hopelfj.cfd^$all
 ||olx.hoster-net.shop^$all
 ||olx.hostiark.life^$all
@@ -31648,6 +31677,7 @@
 ||olx.pl-kategorie-inne-81.icu^$all
 ||olx.pl-kategorie-inne-91.icu^$all
 ||olx.pl-kategorie-inne-187.icu^$all
+||olx.pl-kategorie-inne-814.sbs^$all
 ||olx.pl-kategorie-inne-894.icu^$all
 ||olx.pl-kategorie-inne-982.icu^$all
 ||olx.pl-kategorie-inne-1023.icu^$all
@@ -31669,6 +31699,7 @@
 ||olx.pl-kategorie-pozostale-491.sbs^$all
 ||olx.pl-kategorie-pozostale-912.icu^$all
 ||olx.pl-kategorie-pozostale-917.qpon^$all
+||olx.pl-kategorie-pozostale-7912.sbs^$all
 ||olx.pl-kategorie-pozostale-9124.icu^$all
 ||olx.pl-kategorie-promowane-923256.icu^$all
 ||olx.pl-navcategory093283.cfd^$all
@@ -31897,6 +31928,7 @@
 ||olx.pl-oferta-bilety-93820.shop^$all
 ||olx.pl-oferta-firmowa-id88394.shop^$all
 ||olx.pl-oferta-iphone-16-pro-max.sbs^$all
+||olx.pl-oferta-iphone-polska.cfd^$all
 ||olx.pl-oferta-iphone.cfd^$all
 ||olx.pl-oferta-iphone.com^$all
 ||olx.pl-oferta-iphone.icu^$all
@@ -31983,6 +32015,7 @@
 ||olx.pl-propozycje-71847.icu^$all
 ||olx.pl-propozycje-inne-14.icu^$all
 ||olx.pl-propozycje-inne-17.icu^$all
+||olx.pl-propozycje-inne-72726.sbs^$all
 ||olx.pl-propozycje-pozostale-13.icu^$all
 ||olx.pl-prywatnie-kup-teraz-93203.shop^$all
 ||olx.pl-rezerwacja3638.icu^$all
@@ -31998,6 +32031,7 @@
 ||olx.pl-x8k13bcz7msq1nwd93lfya5.xyz^$all
 ||olx.platform-net.shop^$all
 ||olx.platnosc6141.site^$all
+||olx.pll-firmowa274183.icu^$all
 ||olx.pll-firmowa787231.icu^$all
 ||olx.pll-firmowe49275.icu^$all
 ||olx.pll-firmowe531853.icu^$all
@@ -32130,7 +32164,6 @@
 ||olx.tinovixm.cfd^$all
 ||olx.tinyzebk.cfd^$all
 ||olx.tiposh.lol^$all
-||olx.tmobile-cloud.shop^$all
 ||olx.tnyklim.sbs^$all
 ||olx.tqesanz.sbs^$all
 ||olx.tranzaktservice.sbs^$all
@@ -32145,7 +32178,6 @@
 ||olx.vcealon.icu^$all
 ||olx.vehainyx.sbs^$all
 ||olx.vekuue.cfd^$all
-||olx.vendor-more.shop^$all
 ||olx.version-old.shop^$all
 ||olx.viard.today^$all
 ||olx.viherho.pics^$all
@@ -34289,6 +34321,7 @@
 ||pl-kategorie-inne-81.icu^$all
 ||pl-kategorie-inne-91.icu^$all
 ||pl-kategorie-inne-187.icu^$all
+||pl-kategorie-inne-814.sbs^$all
 ||pl-kategorie-inne-894.icu^$all
 ||pl-kategorie-inne-982.icu^$all
 ||pl-kategorie-inne-1023.icu^$all
@@ -34310,6 +34343,7 @@
 ||pl-kategorie-pozostale-491.sbs^$all
 ||pl-kategorie-pozostale-912.icu^$all
 ||pl-kategorie-pozostale-917.qpon^$all
+||pl-kategorie-pozostale-7912.sbs^$all
 ||pl-kategorie-pozostale-9124.icu^$all
 ||pl-kategorie-promowane-923256.icu^$all
 ||pl-ll2-policja.online^$all
@@ -34636,6 +34670,7 @@
 ||pl-oferta-firmowa-id88394.shop^$all
 ||pl-oferta-id261352.cfd^$all
 ||pl-oferta-iphone-16-pro-max.sbs^$all
+||pl-oferta-iphone-polska.cfd^$all
 ||pl-oferta-iphone.cfd^$all
 ||pl-oferta-iphone.com^$all
 ||pl-oferta-iphone.icu^$all
@@ -34762,6 +34797,7 @@
 ||pl-propozycje-71847.icu^$all
 ||pl-propozycje-inne-14.icu^$all
 ||pl-propozycje-inne-17.icu^$all
+||pl-propozycje-inne-72726.sbs^$all
 ||pl-propozycje-pozostale-13.icu^$all
 ||pl-prywatnie-kup-teraz-93203.shop^$all
 ||pl-redirect927.cfd^$all
@@ -34964,6 +35000,7 @@
 ||plinvem.click^$all
 ||plit.ecmx.top^$all
 ||plk.troove.top^$all
+||pll-firmowa274183.icu^$all
 ||pll-firmowa787231.icu^$all
 ||pll-firmowe49275.icu^$all
 ||pll-firmowe531853.icu^$all
@@ -37803,6 +37840,7 @@
 ||rnn-net.com^$all
 ||rntoblog.com^$all
 ||rnym.com^$all
+||ro6jzx.lol^$all
 ||ro-gimsis.com^$all
 ||roadkillhaiku.com^$all
 ||roadreadyfix.com^$all
@@ -39788,7 +39826,6 @@
 ||skinbydominique.com^$all
 ||skingearinc.com^$all
 ||skinningself.com^$all
-||skinny-cobra-bdqiqndd.sandboxcms.com^$all
 ||skinnyartist.net^$all
 ||skinnyartists.com^$all
 ||skinnygirlsideas.com^$all
@@ -40848,7 +40885,6 @@
 ||starrok-khorax.autos^$all
 ||starrshipsnebula.com^$all
 ||stars.politikinsider.pro^$all
-||starship.today^$all
 ||starstoneed.pro^$all
 ||starstylesstudios.com^$all
 ||start.favbook.net^$all
@@ -41917,6 +41953,7 @@
 ||taxiprivado.net^$all
 ||taxitransferzaragoza.com^$all
 ||taxloop.com^$all
+||taxocyo7.pro^$all
 ||taxservicesnigeria.com^$all
 ||taxstats.org^$all
 ||taxtures.com^$all
@@ -44714,6 +44751,7 @@
 ||venartsurgery.com^$all
 ||venatoscana.com^$all
 ||vendor-registrations.com^$all
+||venerationmio.ru^$all
 ||venom-studio.com^$all
 ||venomia.com^$all
 ||venomsites.com^$all
@@ -44984,7 +45022,6 @@
 ||vinted-es.web-secure.org^$all
 ||vinted-etikett.shop^$all
 ||vinted-etikett.world^$all
-||vinted-fr.s1id439.shop^$all
 ||vinted-hu.iishine.shop^$all
 ||vinted-hu.vinar.shop^$all
 ||vinted-it.abidcreations.com^$all
@@ -45123,7 +45160,6 @@
 ||vinted.order69216.cfd^$all
 ||vinted.order83177.info^$all
 ||vinted.order-de-2004.pro^$all
-||vinted.page039.biz^$all
 ||vinted.page10345.com^$all
 ||vinted.page37846.com^$all
 ||vinted.page3045667.com^$all
@@ -45572,7 +45608,6 @@
 ||vunurye.com^$all
 ||vuqonyi.com^$all
 ||vuril.info^$all
-||vuvohie.pics^$all
 ||vuvulae.com^$all
 ||vuxynyo.com^$all
 ||vuydvwy87tg.weebly.com^$all
@@ -47421,6 +47456,7 @@
 ||yttr.lat^$all
 ||yu-repository.site^$all
 ||yufijmieuwhrfheniokjmwiej.pages.dev^$all
+||yughjebsdf6t87y8eusigyurh-13t-tydsfgvx.vercel.app^$all
 ||yuhkeyse.com^$all
 ||yuhkudnelappilcat.sviluppo.host^$all
 ||yujp.holcom.top^$all
@@ -47487,7 +47523,6 @@
 ||zaidanworld.com^$all
 ||zajonc.de^$all
 ||zakatekinformacji24.pl^$all
-||zakaye.treasurendtrovedeals.com^$all
 ||zakixio.com^$all
 ||zakreconyprecel.pl^$all
 ||zakservise.com^$all
@@ -47630,6 +47665,7 @@
 ||zenith-sav80.quest^$all
 ||zenithelite.site^$all
 ||zenithflow.biz^$all
+||zenithgoods.online^$all
 ||zenithsend.org^$all
 ||zenloop360.com^$all
 ||zenoadvisory.com^$all
