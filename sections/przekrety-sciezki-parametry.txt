@@ -1,7 +1,7 @@
-/bonus/com-*.php?c=$doc
 .com/c/*?s1=$doc,to=com
 .net/c/*?s1=$doc,to=net
 /?track=*&key=$doc
+/bonus/com-*.php?c=$doc
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
 /counts.php?cat=1&t=$3p,script
