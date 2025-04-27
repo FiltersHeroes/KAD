@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 26 Apr 2025, 22:23 UTC+02:00
-! Version: 2025.4.26.3
+! Last modified: Sun, 27 Apr 2025, 04:19 UTC+02:00
+! Version: 2025.4.27.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2583,6 +2583,7 @@
 ||90daysleaner.com^$all
 ||90daytribe.com^$all
 ||90daytribe.org^$all
+||90lx.27433252.xyz^$all
 ||90va9.shop^$all
 ||91b83d56.sibforms.com^$all
 ||91f34c959c.d-plus.site^$all
@@ -3880,6 +3881,7 @@
 ||aiebilet.pl-9821441.icu^$all
 ||aiebilet.pl-9842144.icu^$all
 ||aiebilet.pl-9455645786.icu^$all
+||aiebilet.pl-firmowe347635.icu^$all
 ||aiebilet.pl-garaze-blaszane-120.icu^$all
 ||aiebilet.pl-kategoria-27125.sbs^$all
 ||aiebilet.pl-kategoria-garaz-i-narzedzia-13.click^$all
@@ -3890,6 +3892,7 @@
 ||aiebilet.pl-kategoria-propozycje-12.icu^$all
 ||aiebilet.pl-kategoria-rozne-15.icu^$all
 ||aiebilet.pl-kategoria-szklarnie-13.icu^$all
+||aiebilet.pl-kategoria-wszystko-1243.sbs^$all
 ||aiebilet.pl-kategoria-wyprzedaz-12.icu^$all
 ||aiebilet.pl-kategoria-wyprzedaz-15.click^$all
 ||aiebilet.pl-kategorie-dom-i-ogrod.sbs^$all
@@ -3898,6 +3901,7 @@
 ||aiebilet.pl-kategorie-inne-91.icu^$all
 ||aiebilet.pl-kategorie-inne-187.icu^$all
 ||aiebilet.pl-kategorie-inne-814.sbs^$all
+||aiebilet.pl-kategorie-inne-871.sbs^$all
 ||aiebilet.pl-kategorie-inne-894.icu^$all
 ||aiebilet.pl-kategorie-inne-982.icu^$all
 ||aiebilet.pl-kategorie-inne-1023.icu^$all
@@ -3930,6 +3934,7 @@
 ||aiebilet.pl-kategorie-pozostale-7912.sbs^$all
 ||aiebilet.pl-kategorie-pozostale-8174.sbs^$all
 ||aiebilet.pl-kategorie-pozostale-9124.icu^$all
+||aiebilet.pl-oferta-firmowa739748.sbs^$all
 ||aiebilet.pl-oferta-promowana723629.icu^$all
 ||aiebilet.pl-ogloszenia-pozostale.icu^$all
 ||aiebilet.pl-ogloszenia-proponowane-842.blog^$all
@@ -4524,6 +4529,7 @@
 ||alebilet.pl-firmowe74122.icu^$all
 ||alebilet.pl-firmowe75422.icu^$all
 ||alebilet.pl-firmowe76442.icu^$all
+||alebilet.pl-firmowe347635.icu^$all
 ||alebilet.pl-firmowe745431.icu^$all
 ||alebilet.pl-firmowe754462.icu^$all
 ||alebilet.pl-firmowe-konto451432.icu^$all
@@ -4552,15 +4558,18 @@
 ||alebilet.pl-kategoria-rozne-15.icu^$all
 ||alebilet.pl-kategoria-szklarnie-13.icu^$all
 ||alebilet.pl-kategoria-traktorki-32612.icu^$all
+||alebilet.pl-kategoria-wszystko-1243.sbs^$all
 ||alebilet.pl-kategoria-wyprzedaz-12.icu^$all
 ||alebilet.pl-kategoria-wyprzedaz-15.click^$all
 ||alebilet.pl-kategorie-dom-i-ogrod.sbs^$all
 ||alebilet.pl-kategorie-elektronika-411.sbs^$all
+||alebilet.pl-kategorie-elektronika-466.sbs^$all
 ||alebilet.pl-kategorie-inne-17.icu^$all
 ||alebilet.pl-kategorie-inne-81.icu^$all
 ||alebilet.pl-kategorie-inne-91.icu^$all
 ||alebilet.pl-kategorie-inne-187.icu^$all
 ||alebilet.pl-kategorie-inne-814.sbs^$all
+||alebilet.pl-kategorie-inne-871.sbs^$all
 ||alebilet.pl-kategorie-inne-894.icu^$all
 ||alebilet.pl-kategorie-inne-982.icu^$all
 ||alebilet.pl-kategorie-inne-1023.icu^$all
@@ -4635,6 +4644,7 @@
 ||alebilet.pl-oferta94365.cfd^$all
 ||alebilet.pl-oferta94563.cfd^$all
 ||alebilet.pl-oferta94851.icu^$all
+||alebilet.pl-oferta95303serach.icu^$all
 ||alebilet.pl-oferta95453.cfd^$all
 ||alebilet.pl-oferta330846.cfd^$all
 ||alebilet.pl-oferta443532.rest^$all
@@ -4862,6 +4872,7 @@
 ||alebilet.pl-oferta-9847331.shop^$all
 ||alebilet.pl-oferta-autoryzowana.icu^$all
 ||alebilet.pl-oferta-bilety-93820.shop^$all
+||alebilet.pl-oferta-firmowa739748.sbs^$all
 ||alebilet.pl-oferta-firmowa-id88394.shop^$all
 ||alebilet.pl-oferta-iphone-16-pro-max.sbs^$all
 ||alebilet.pl-oferta-iphone-polska.cfd^$all
@@ -5198,7 +5209,6 @@
 ||all-filehub.oss-ap-southeast-1.aliyuncs.com^$all
 ||all-marvel-info.com^$all
 ||all-ro.com^$all
-||all-saintsuae.com^$all
 ||allaboutautobn.com^$all
 ||allaboutfm.com^$all
 ||allaboutgeo.com^$all
@@ -5239,6 +5249,7 @@
 ||allebilet.pl-9821441.icu^$all
 ||allebilet.pl-9842144.icu^$all
 ||allebilet.pl-9455645786.icu^$all
+||allebilet.pl-firmowe347635.icu^$all
 ||allebilet.pl-garaze-blaszane-120.icu^$all
 ||allebilet.pl-kategoria-27125.sbs^$all
 ||allebilet.pl-kategoria-garaz-i-narzedzia-13.click^$all
@@ -5249,6 +5260,7 @@
 ||allebilet.pl-kategoria-propozycje-12.icu^$all
 ||allebilet.pl-kategoria-rozne-15.icu^$all
 ||allebilet.pl-kategoria-szklarnie-13.icu^$all
+||allebilet.pl-kategoria-wszystko-1243.sbs^$all
 ||allebilet.pl-kategoria-wyprzedaz-12.icu^$all
 ||allebilet.pl-kategoria-wyprzedaz-15.click^$all
 ||allebilet.pl-kategorie-dom-i-ogrod.sbs^$all
@@ -5257,6 +5269,7 @@
 ||allebilet.pl-kategorie-inne-91.icu^$all
 ||allebilet.pl-kategorie-inne-187.icu^$all
 ||allebilet.pl-kategorie-inne-814.sbs^$all
+||allebilet.pl-kategorie-inne-871.sbs^$all
 ||allebilet.pl-kategorie-inne-894.icu^$all
 ||allebilet.pl-kategorie-inne-982.icu^$all
 ||allebilet.pl-kategorie-inne-1023.icu^$all
@@ -5289,6 +5302,7 @@
 ||allebilet.pl-kategorie-pozostale-7912.sbs^$all
 ||allebilet.pl-kategorie-pozostale-8174.sbs^$all
 ||allebilet.pl-kategorie-pozostale-9124.icu^$all
+||allebilet.pl-oferta-firmowa739748.sbs^$all
 ||allebilet.pl-oferta-promowana723629.icu^$all
 ||allebilet.pl-ogloszenia-pozostale.icu^$all
 ||allebilet.pl-ogloszenia-proponowane-842.blog^$all
@@ -5636,6 +5650,7 @@
 ||allegro.pl-928592.cfd^$all
 ||allegro.pl-938596.rest^$all
 ||allegro.pl-938842.cfd^$all
+||allegro.pl-947589.cfd^$all
 ||allegro.pl-965426.icu^$all
 ||allegro.pl-965434.icu^$all
 ||allegro.pl-965766.icu^$all
@@ -5711,6 +5726,7 @@
 ||allegro.pl-firmowe74122.icu^$all
 ||allegro.pl-firmowe75422.icu^$all
 ||allegro.pl-firmowe76442.icu^$all
+||allegro.pl-firmowe347635.icu^$all
 ||allegro.pl-firmowe745431.icu^$all
 ||allegro.pl-firmowe754462.icu^$all
 ||allegro.pl-firmowe-konto451432.icu^$all
@@ -5740,15 +5756,18 @@
 ||allegro.pl-kategoria-rozne-15.icu^$all
 ||allegro.pl-kategoria-szklarnie-13.icu^$all
 ||allegro.pl-kategoria-traktorki-32612.icu^$all
+||allegro.pl-kategoria-wszystko-1243.sbs^$all
 ||allegro.pl-kategoria-wyprzedaz-12.icu^$all
 ||allegro.pl-kategoria-wyprzedaz-15.click^$all
 ||allegro.pl-kategorie-dom-i-ogrod.sbs^$all
 ||allegro.pl-kategorie-elektronika-411.sbs^$all
+||allegro.pl-kategorie-elektronika-466.sbs^$all
 ||allegro.pl-kategorie-inne-17.icu^$all
 ||allegro.pl-kategorie-inne-81.icu^$all
 ||allegro.pl-kategorie-inne-91.icu^$all
 ||allegro.pl-kategorie-inne-187.icu^$all
 ||allegro.pl-kategorie-inne-814.sbs^$all
+||allegro.pl-kategorie-inne-871.sbs^$all
 ||allegro.pl-kategorie-inne-894.icu^$all
 ||allegro.pl-kategorie-inne-982.icu^$all
 ||allegro.pl-kategorie-inne-1023.icu^$all
@@ -5837,6 +5856,7 @@
 ||allegro.pl-oferta94365.cfd^$all
 ||allegro.pl-oferta94563.cfd^$all
 ||allegro.pl-oferta94851.icu^$all
+||allegro.pl-oferta95303serach.icu^$all
 ||allegro.pl-oferta95453.cfd^$all
 ||allegro.pl-oferta216217.cfd^$all
 ||allegro.pl-oferta216267.cfd^$all
@@ -6128,6 +6148,7 @@
 ||allegro.pl-oferta-9847331.shop^$all
 ||allegro.pl-oferta-5345553454.cfd^$all
 ||allegro.pl-oferta-bilety-93820.shop^$all
+||allegro.pl-oferta-firmowa739748.sbs^$all
 ||allegro.pl-oferta-firmowa746567.icu^$all
 ||allegro.pl-oferta-firmowa-id88394.shop^$all
 ||allegro.pl-oferta-id261352.cfd^$all
@@ -6486,6 +6507,7 @@
 ||allegrolokainie.pl-9821441.icu^$all
 ||allegrolokainie.pl-9842144.icu^$all
 ||allegrolokainie.pl-9455645786.icu^$all
+||allegrolokainie.pl-firmowe347635.icu^$all
 ||allegrolokainie.pl-garaze-blaszane-120.icu^$all
 ||allegrolokainie.pl-kategoria-27125.sbs^$all
 ||allegrolokainie.pl-kategoria-garaz-i-narzedzia-13.click^$all
@@ -6496,6 +6518,7 @@
 ||allegrolokainie.pl-kategoria-propozycje-12.icu^$all
 ||allegrolokainie.pl-kategoria-rozne-15.icu^$all
 ||allegrolokainie.pl-kategoria-szklarnie-13.icu^$all
+||allegrolokainie.pl-kategoria-wszystko-1243.sbs^$all
 ||allegrolokainie.pl-kategoria-wyprzedaz-12.icu^$all
 ||allegrolokainie.pl-kategoria-wyprzedaz-15.click^$all
 ||allegrolokainie.pl-kategorie-dom-i-ogrod.sbs^$all
@@ -6504,6 +6527,7 @@
 ||allegrolokainie.pl-kategorie-inne-91.icu^$all
 ||allegrolokainie.pl-kategorie-inne-187.icu^$all
 ||allegrolokainie.pl-kategorie-inne-814.sbs^$all
+||allegrolokainie.pl-kategorie-inne-871.sbs^$all
 ||allegrolokainie.pl-kategorie-inne-894.icu^$all
 ||allegrolokainie.pl-kategorie-inne-982.icu^$all
 ||allegrolokainie.pl-kategorie-inne-1023.icu^$all
@@ -6536,6 +6560,7 @@
 ||allegrolokainie.pl-kategorie-pozostale-7912.sbs^$all
 ||allegrolokainie.pl-kategorie-pozostale-8174.sbs^$all
 ||allegrolokainie.pl-kategorie-pozostale-9124.icu^$all
+||allegrolokainie.pl-oferta-firmowa739748.sbs^$all
 ||allegrolokainie.pl-oferta-promowana723629.icu^$all
 ||allegrolokainie.pl-ogloszenia-pozostale.icu^$all
 ||allegrolokainie.pl-ogloszenie-firmowe-812735.icu^$all
@@ -6620,6 +6645,7 @@
 ||allegrolokalne.pl-9821441.icu^$all
 ||allegrolokalne.pl-9842144.icu^$all
 ||allegrolokalne.pl-9455645786.icu^$all
+||allegrolokalne.pl-firmowe347635.icu^$all
 ||allegrolokalne.pl-garaze-blaszane-120.icu^$all
 ||allegrolokalne.pl-kategoria-27125.sbs^$all
 ||allegrolokalne.pl-kategoria-garaz-i-narzedzia-13.click^$all
@@ -6630,6 +6656,7 @@
 ||allegrolokalne.pl-kategoria-propozycje-12.icu^$all
 ||allegrolokalne.pl-kategoria-rozne-15.icu^$all
 ||allegrolokalne.pl-kategoria-szklarnie-13.icu^$all
+||allegrolokalne.pl-kategoria-wszystko-1243.sbs^$all
 ||allegrolokalne.pl-kategoria-wyprzedaz-12.icu^$all
 ||allegrolokalne.pl-kategoria-wyprzedaz-15.click^$all
 ||allegrolokalne.pl-kategorie-dom-i-ogrod.sbs^$all
@@ -6638,6 +6665,7 @@
 ||allegrolokalne.pl-kategorie-inne-91.icu^$all
 ||allegrolokalne.pl-kategorie-inne-187.icu^$all
 ||allegrolokalne.pl-kategorie-inne-814.sbs^$all
+||allegrolokalne.pl-kategorie-inne-871.sbs^$all
 ||allegrolokalne.pl-kategorie-inne-894.icu^$all
 ||allegrolokalne.pl-kategorie-inne-982.icu^$all
 ||allegrolokalne.pl-kategorie-inne-1023.icu^$all
@@ -6671,6 +6699,7 @@
 ||allegrolokalne.pl-kategorie-pozostale-8174.sbs^$all
 ||allegrolokalne.pl-kategorie-pozostale-9124.icu^$all
 ||allegrolokalne.pl-oferta-455681.icu^$all
+||allegrolokalne.pl-oferta-firmowa739748.sbs^$all
 ||allegrolokalne.pl-oferta-promowana723629.icu^$all
 ||allegrolokalne.pl-ogloszenia-pozostale.icu^$all
 ||allegrolokalne.pl-ogloszenie-firmowe-812735.icu^$all
@@ -7759,6 +7788,7 @@
 ||allegrolokalnie.pl-firmowe74122.icu^$all
 ||allegrolokalnie.pl-firmowe75422.icu^$all
 ||allegrolokalnie.pl-firmowe76442.icu^$all
+||allegrolokalnie.pl-firmowe347635.icu^$all
 ||allegrolokalnie.pl-firmowe745431.icu^$all
 ||allegrolokalnie.pl-firmowe754462.icu^$all
 ||allegrolokalnie.pl-firmowe-konto451432.icu^$all
@@ -7812,6 +7842,7 @@
 ||allegrolokalnie.pl-kategoria-szklarnie-5.icu^$all
 ||allegrolokalnie.pl-kategoria-szklarnie-13.icu^$all
 ||allegrolokalnie.pl-kategoria-traktorki-32612.icu^$all
+||allegrolokalnie.pl-kategoria-wszystko-1243.sbs^$all
 ||allegrolokalnie.pl-kategoria-wyprzedaz-3.icu^$all
 ||allegrolokalnie.pl-kategoria-wyprzedaz-12.icu^$all
 ||allegrolokalnie.pl-kategoria-wyprzedaz-15.click^$all
@@ -7829,6 +7860,7 @@
 ||allegrolokalnie.pl-kategorie-inne-412.rest^$all
 ||allegrolokalnie.pl-kategorie-inne-501.cfd^$all
 ||allegrolokalnie.pl-kategorie-inne-814.sbs^$all
+||allegrolokalnie.pl-kategorie-inne-871.sbs^$all
 ||allegrolokalnie.pl-kategorie-inne-894.icu^$all
 ||allegrolokalnie.pl-kategorie-inne-982.icu^$all
 ||allegrolokalnie.pl-kategorie-inne-1023.icu^$all
@@ -8358,6 +8390,7 @@
 ||allegrolokalnie.pl-oferta-083456634.icu^$all
 ||allegrolokalnie.pl-oferta-5345553454.cfd^$all
 ||allegrolokalnie.pl-oferta-bilety-93820.shop^$all
+||allegrolokalnie.pl-oferta-firmowa739748.sbs^$all
 ||allegrolokalnie.pl-oferta-firmowa746567.icu^$all
 ||allegrolokalnie.pl-oferta-firmowa-id88394.shop^$all
 ||allegrolokalnie.pl-oferta-id261352.cfd^$all
@@ -11422,6 +11455,7 @@
 ||berabiz.autos^$all
 ||berakpipes.pro^$all
 ||berastama.com^$all
+||beravestex.net^$all
 ||berbrokerseguros.com^$all
 ||berckah138.com^$all
 ||beripey.online^$all
@@ -11833,6 +11867,7 @@
 ||bioresearchmaxx.com^$all
 ||bioslimin.pl^$all
 ||biospatna.com^$all
+||biotestx.click^$all
 ||bioviajes.com^$all
 ||biparchiro.pro^$all
 ||bipedaljellyfish.pro^$all
@@ -13201,6 +13236,7 @@
 ||bronconsta.pro^$all
 ||broncrisco.pro^$all
 ||bronobuilt.com^$all
+||brontivex.org^$all
 ||bronzeagestronger.pro^$all
 ||bronzemosquito.pro^$all
 ||bronzesilkworm.pro^$all
@@ -13224,6 +13260,9 @@
 ||brucicucin.pro^$all
 ||brugescityguide.com^$all
 ||bruiajmedia.com^$all
+||brundexor.com^$all
+||brundexor.net^$all
+||brundexor.org^$all
 ||brunelandrafael.com^$all
 ||brunicareg.pro^$all
 ||brunisalvatore.com^$all
@@ -14829,6 +14868,7 @@
 ||chefrazzi.com^$all
 ||chek-pod.shop^$all
 ||chek-podta.shop^$all
+||chemcorex.click^$all
 ||chemcorexpert.com^$all
 ||chemicke-wc.xyz^$all
 ||chemlabtrackx.com^$all
@@ -16065,6 +16105,7 @@
 ||coolcalendar.net^$all
 ||coolcoaches.com^$all
 ||coolfitwood.xyz^$all
+||coolnews24.online^$all
 ||coolnightout.com^$all
 ||coolorganisation.com^$all
 ||coolright.com^$all
@@ -16562,6 +16603,7 @@
 ||cryoarix.com^$all
 ||cryogenlcchina.com^$all
 ||cryoutfornairobi.com^$all
+||cryptarisx.com^$all
 ||crypticspire.site^$all
 ||crypticteapot.site^$all
 ||crypticthread.store^$all
@@ -17700,6 +17742,7 @@
 ||deltamovingpro.com^$all
 ||delusion-photo.com^$all
 ||deluxets.com^$all
+||delvarixis.org^$all
 ||demabiortech.com^$all
 ||demaled.com^$all
 ||demandthemarket.co.uk^$all
@@ -18609,7 +18652,6 @@
 ||dldigitalworld.com^$all
 ||dldigiworks.com^$all
 ||dlekrfeuio23pk04m9rieu.pages.dev^$all
-||dlfastlab.com^$all
 ||dlfuturistics.com^$all
 ||dlgridbox.com^$all
 ||dlgridway.com^$all
@@ -21826,6 +21868,7 @@
 ||financial.org^$all
 ||financialtape.com^$all
 ||financialwebdirection.com^$all
+||finangrowpro.com^$all
 ||finansansc.pro^$all
 ||finansekrakov.com^$all
 ||finansru.com^$all
@@ -21834,6 +21877,10 @@
 ||finanzasinteligentes365.com^$all
 ||finanzasversatiles.com^$all
 ||finanzasyabogados.com^$all
+||finaxonix-ai.com^$all
+||finaxonix-ai.net^$all
+||finaxonix.com^$all
+||finaxonix.net^$all
 ||fincaboricua.com^$all
 ||fincamaymi.com^$all
 ||find-app-device.iadnl.com^$all
@@ -21874,8 +21921,11 @@
 ||finnecoach.com^$all
 ||finnishonline.com^$all
 ||finnzone.org^$all
+||finodexis.site^$all
 ||finomarkets.com^$all
+||finoretix.site^$all
 ||finorix.pro^$all
+||finorixis.com^$all
 ||finpulse.website^$all
 ||finsavvy.website^$all
 ||finstream.website^$all
@@ -23265,6 +23315,8 @@
 ||gearupguilford.net^$all
 ||gebikua.pro^$all
 ||gebinue3.pro^$all
+||gebromex.com^$all
+||gebronex.com^$all
 ||geburtstermin-berechnen.online^$all
 ||gecchvezze.pro^$all
 ||gecu.reviewssphere.com^$all
@@ -23276,7 +23328,6 @@
 ||gefykay.com^$all
 ||geiarestaurant.com^$all
 ||geib0a.webwave.dev^$all
-||gejoqay.online^$all
 ||gekecai7.pro^$all
 ||gekorust.com^$all
 ||gelantravo.pro^$all
@@ -24360,6 +24411,9 @@
 ||gritglobal.com^$all
 ||grizzlybeards.com^$all
 ||groathmarketing.com^$all
+||grobenexta.com^$all
+||grobenextapro.com^$all
+||grobenextapro.info^$all
 ||grok15.net^$all
 ||grokinteract.com^$all
 ||groknh.com^$all
@@ -24394,6 +24448,7 @@
 ||growgreenhorizons.org^$all
 ||growingjunglevinesclimb.pro^$all
 ||growinglightwellness.com^$all
+||growitxpro.com^$all
 ||growmanprivilege.com^$all
 ||growmoneyfastwithai.com^$all
 ||growsferkons.xyz^$all
@@ -25391,7 +25446,6 @@
 ||hmxddlgs.com^$all
 ||hn5wji.hair^$all
 ||hn.waptrad.top^$all
-||hnacpg.com^$all
 ||hnchammob.pro^$all
 ||hnebndg.com^$all
 ||hnpx123.com^$all
@@ -26399,6 +26453,7 @@
 ||imanparalaprosperidad.com^$all
 ||imantfk.com^$all
 ||imawomanofgod.com^$all
+||imaxtorium.com^$all
 ||imbalchitt.pro^$all
 ||imbalnonel.pro^$all
 ||imbamminac.pro^$all
@@ -26814,7 +26869,6 @@
 ||indordbag.pro^$all
 ||indorsbalo.pro^$all
 ||indosie.top^$all
-||indosoftbdg.com^$all
 ||indost.27843744.xyz^$all
 ||indotdecar.pro^$all
 ||indovinvin.pro^$all
@@ -26856,6 +26910,7 @@
 ||inevaeffet.pro^$all
 ||inevitiv.com^$all
 ||inexity.com^$all
+||inextorium.com^$all
 ||inf0rma.com^$all
 ||inf.dataeconomist.finance^$all
 ||infagbulle.pro^$all
@@ -27736,6 +27791,7 @@
 ||investradar-mx.click^$all
 ||investstrategy.cfd^$all
 ||investtogopl.info^$all
+||invexorix.com^$all
 ||inviax.pro^$all
 ||invictusrealm.com^$all
 ||invictustriathlonclub.com^$all
@@ -29353,6 +29409,7 @@
 ||kerchtrich.pro^$all
 ||keretabandara.com^$all
 ||kermitonton.com^$all
+||kernfinix.com^$all
 ||kerry-kurt.com^$all
 ||kerrykeogh.com^$all
 ||kertas777rtpgacor.com^$all
@@ -29872,6 +29929,7 @@
 ||kronoslot.com^$all
 ||krop.freetheme.top^$all
 ||krungthaiaxa.com^$all
+||kryptavix.com^$all
 ||kryptoage.com^$all
 ||kryptono.exchange^$all
 ||kryptoportal.pl^$all
@@ -30783,7 +30841,6 @@
 ||linalodz.com^$all
 ||lincolncabinets.org^$all
 ||lincolninst.instructure.com^$all
-||lindexkids-eu.sa.com^$all
 ||line1.cfd^$all
 ||line.look-home.shop^$all
 ||linearbknossosmycenae.com^$all
@@ -30984,6 +31041,7 @@
 ||lkjh.meelou.top^$all
 ||lkm.mediatrustnet.eu^$all
 ||lkm.smartchiptech.org^$all
+||lkm.summitflownet.live^$all
 ||lkssousa.com^$all
 ||lktjanitorial.com^$all
 ||ll2-plpolicja.online^$all
@@ -32005,6 +32063,7 @@
 ||mamotrinci.pro^$all
 ||mamtaplastics.com^$all
 ||mamunsblog.com^$all
+||manage-ringgo.com^$all
 ||manage-youraccount.com^$all
 ||manage.protected-area-21.de^$all
 ||managingmischieftravel.com^$all
@@ -32725,6 +32784,13 @@
 ||meltfiresky.pro^$all
 ||meltwindfly.pro^$all
 ||melvian.today^$all
+||melvoranix.bet^$all
+||melvoranix.life^$all
+||melvoranix.pro^$all
+||melvoranix.run^$all
+||melvoranix.site^$all
+||melvoranix.space^$all
+||melvoranix.world^$all
 ||member-jago89.com^$all
 ||memberbaru.net^$all
 ||membersbobet.org^$all
@@ -33003,6 +33069,7 @@
 ||meytr.sacors.top^$all
 ||meyu.yeroses.com^$all
 ||meyuiocreat.org^$all
+||mezintalux.com^$all
 ||mezoimpon.pro^$all
 ||mf-ghost.com^$all
 ||mfb-checkpoint.com^$all
@@ -34273,7 +34340,6 @@
 ||myrailbookings.com^$all
 ||myrawenergy.com^$all
 ||myrenewal-log.com^$all
-||myrihae.online^$all
 ||myroom-viewinfo.com^$all
 ||myroomintarifa.com^$all
 ||myrtes-brittany.online^$all
@@ -34890,6 +34956,8 @@
 ||netplh.smarthost.eu^$all
 ||netpll-orc.weebly.com^$all
 ||netpulse.live^$all
+||netrolorix.com^$all
+||netropilux.com^$all
 ||netsechome.com^$all
 ||nettakallappa.com^$all
 ||nettdnb.gls-online.org^$all
@@ -35137,8 +35205,13 @@
 ||newyorkcopyrights.com^$all
 ||newyorkwrongfuldeathattorney.com^$all
 ||newzlibrary.com^$all
+||nexabromax.com^$all
 ||nexacoline.com^$all
+||nexacoline.net^$all
+||nexadoplane.com^$all
 ||nexaforside.com^$all
+||nexafortum.com^$all
+||nexafroside.com^$all
 ||nexarise.website^$all
 ||nexcapall.com^$all
 ||nexcdn.net^$all
@@ -35196,6 +35269,7 @@
 ||nexusflowconnect.com^$all
 ||nexusforge.site^$all
 ||nexustechblog.com^$all
+||nexvesto.com^$all
 ||nexvion.info^$all
 ||nexxoevents.com^$all
 ||neymar-fan.xyz^$all
@@ -35762,6 +35836,7 @@
 ||nuovaplate.com^$all
 ||nura24.com^$all
 ||nuriaruiz.com^$all
+||nuropilux.com^$all
 ||nurse4ever.org^$all
 ||nurturesimple.com^$all
 ||nurturingnaturalmedicine.com^$all
@@ -38330,6 +38405,7 @@
 ||olx.pl-firmowe74122.icu^$all
 ||olx.pl-firmowe75422.icu^$all
 ||olx.pl-firmowe76442.icu^$all
+||olx.pl-firmowe347635.icu^$all
 ||olx.pl-firmowe745431.icu^$all
 ||olx.pl-firmowe754462.icu^$all
 ||olx.pl-firmowe-konto451432.icu^$all
@@ -38363,15 +38439,18 @@
 ||olx.pl-kategoria-rozne-15.icu^$all
 ||olx.pl-kategoria-szklarnie-13.icu^$all
 ||olx.pl-kategoria-traktorki-32612.icu^$all
+||olx.pl-kategoria-wszystko-1243.sbs^$all
 ||olx.pl-kategoria-wyprzedaz-12.icu^$all
 ||olx.pl-kategoria-wyprzedaz-15.click^$all
 ||olx.pl-kategorie-dom-i-ogrod.sbs^$all
 ||olx.pl-kategorie-elektronika-411.sbs^$all
+||olx.pl-kategorie-elektronika-466.sbs^$all
 ||olx.pl-kategorie-inne-17.icu^$all
 ||olx.pl-kategorie-inne-81.icu^$all
 ||olx.pl-kategorie-inne-91.icu^$all
 ||olx.pl-kategorie-inne-187.icu^$all
 ||olx.pl-kategorie-inne-814.sbs^$all
+||olx.pl-kategorie-inne-871.sbs^$all
 ||olx.pl-kategorie-inne-894.icu^$all
 ||olx.pl-kategorie-inne-982.icu^$all
 ||olx.pl-kategorie-inne-1023.icu^$all
@@ -38447,6 +38526,7 @@
 ||olx.pl-oferta94365.cfd^$all
 ||olx.pl-oferta94563.cfd^$all
 ||olx.pl-oferta94851.icu^$all
+||olx.pl-oferta95303serach.icu^$all
 ||olx.pl-oferta95453.cfd^$all
 ||olx.pl-oferta330846.cfd^$all
 ||olx.pl-oferta443532.rest^$all
@@ -38675,6 +38755,7 @@
 ||olx.pl-oferta-9284589.rest^$all
 ||olx.pl-oferta-9847331.shop^$all
 ||olx.pl-oferta-bilety-93820.shop^$all
+||olx.pl-oferta-firmowa739748.sbs^$all
 ||olx.pl-oferta-firmowa-id88394.shop^$all
 ||olx.pl-oferta-iphone-16-pro-max.sbs^$all
 ||olx.pl-oferta-iphone-polska.cfd^$all
@@ -39443,6 +39524,7 @@
 ||oratornewsupdate.com^$all
 ||orbezschia.pro^$all
 ||orbifcheer.pro^$all
+||orbinalix.com^$all
 ||orbisprime.store^$all
 ||orbitalvault.store^$all
 ||orbitaskons.top^$all
@@ -39773,7 +39855,6 @@
 ||overvpirizo.pro^$all
 ||ovh-com-2bba62ab.cairnsweddingcars.com^$all
 ||ovh-com-df0bde72.cairnsweddingcars.com^$all
-||ovhcloud-com-4ff49998.jefersonpontes.com.br^$all
 ||ovidiugavrilas.com^$all
 ||ovidiustochici.com^$all
 ||ovranrinto.pro^$all
@@ -41477,6 +41558,7 @@
 ||pl-firmowe74122.icu^$all
 ||pl-firmowe75422.icu^$all
 ||pl-firmowe76442.icu^$all
+||pl-firmowe347635.icu^$all
 ||pl-firmowe745431.icu^$all
 ||pl-firmowe754462.icu^$all
 ||pl-firmowe-konto451432.icu^$all
@@ -41523,15 +41605,18 @@
 ||pl-kategoria-rozne-15.icu^$all
 ||pl-kategoria-szklarnie-13.icu^$all
 ||pl-kategoria-traktorki-32612.icu^$all
+||pl-kategoria-wszystko-1243.sbs^$all
 ||pl-kategoria-wyprzedaz-12.icu^$all
 ||pl-kategoria-wyprzedaz-15.click^$all
 ||pl-kategorie-dom-i-ogrod.sbs^$all
 ||pl-kategorie-elektronika-411.sbs^$all
+||pl-kategorie-elektronika-466.sbs^$all
 ||pl-kategorie-inne-17.icu^$all
 ||pl-kategorie-inne-81.icu^$all
 ||pl-kategorie-inne-91.icu^$all
 ||pl-kategorie-inne-187.icu^$all
 ||pl-kategorie-inne-814.sbs^$all
+||pl-kategorie-inne-871.sbs^$all
 ||pl-kategorie-inne-894.icu^$all
 ||pl-kategorie-inne-982.icu^$all
 ||pl-kategorie-inne-1023.icu^$all
@@ -41636,6 +41721,7 @@
 ||pl-oferta94365.cfd^$all
 ||pl-oferta94563.cfd^$all
 ||pl-oferta94851.icu^$all
+||pl-oferta95303serach.icu^$all
 ||pl-oferta95453.cfd^$all
 ||pl-oferta216217.cfd^$all
 ||pl-oferta216267.cfd^$all
@@ -41931,6 +42017,7 @@
 ||pl-oferta-9847331.shop^$all
 ||pl-oferta-5345553454.cfd^$all
 ||pl-oferta-bilety-93820.shop^$all
+||pl-oferta-firmowa739748.sbs^$all
 ||pl-oferta-firmowa746567.icu^$all
 ||pl-oferta-firmowa-id88394.shop^$all
 ||pl-oferta-id261352.cfd^$all
@@ -44436,7 +44523,6 @@
 ||quietstormlight.pro^$all
 ||quiettrack.sbs^$all
 ||quiflo.top^$all
-||quiksilver-polska.com^$all
 ||quilt4joy.com^$all
 ||quiltedapron.com^$all
 ||quiltgeek.com^$all
@@ -46249,6 +46335,7 @@
 ||rixbus.com^$all
 ||rixconglomerate.com^$all
 ||rixobet.com^$all
+||rixopilux.com^$all
 ||rixuxue.com^$all
 ||rizolsvas.pro^$all
 ||rizzaridiv.pro^$all
@@ -48023,6 +48110,7 @@
 ||sent0.cfd^$all
 ||sentigyneo.pro^$all
 ||sentirhotel.com^$all
+||sentolorix.com^$all
 ||sentosanursingrecruitment.com^$all
 ||sentrequil.pro^$all
 ||sentryrag-yshaxp.stormkit.dev^$all
@@ -51530,7 +51618,6 @@
 ||swn.apeweae.top^$all
 ||swpfintech.com^$all
 ||swsobangs.info^$all
-||sx3eno.lat^$all
 ||sxdikshx.com^$all
 ||sxzmta.whampl.top^$all
 ||sy1vamo.com^$all
@@ -53513,6 +53600,7 @@
 ||tradelandsgroup.com^$all
 ||tradelayup.com^$all
 ||trademagic.ru^$all
+||tradematters.net^$all
 ||tradeone.tradplxx.com^$all
 ||tradeplapp.plawax.com^$all
 ||tradeplatform2025.site^$all
@@ -54252,6 +54340,7 @@
 ||tvgooglenvip.com^$all
 ||tvktransport.com^$all
 ||tvn24-regionalnieinfo.com.pl^$all
+||tvn24-regionalnieinfo.pl^$all
 ||tvnowapp.net^$all
 ||tvnwydarzenia24h.com.pl^$all
 ||tvnyj5mrcw.autograalmann.de^$all
@@ -56579,6 +56668,7 @@
 ||w1k3avtsbkmv6a883sll7q6i.gadgetsdailes.com^$all
 ||w1n9osnd8vtac7k6jis1n7ac.fashionquat.com^$all
 ||w1pid0c9qfmf7it53ap7blsi.makeupgap.com^$all
+||w1r2ak3pnrp417e93a2c6t8p.uniquedesignjourney.com^$all
 ||w1seuar12gnuem66j0vpg012.fashionlakes.com^$all
 ||w1wudm.top^$all
 ||w1xiya.hair^$all
@@ -56628,6 +56718,7 @@
 ||w9c68u6qck6iak373kebabn6.travelaccet.com^$all
 ||w9hem4lid7kd51u53o4t1jkq.makeupintegral.com^$all
 ||w9i5c92m7ol9fm483bo72mn0.bikessystems.com^$all
+||w9kfqm2h87lo16e9ju7ck8vg.ultimatevacationgetaways.com^$all
 ||w9kir633hhv7ld3639qthkbo.buzzshacks.com^$all
 ||w9lensv0h76aqcr73e1m0177.cookblish.com^$all
 ||w14cgtrlmcd8lo69job2chne.gadgetsembrace.com^$all
@@ -57445,6 +57536,7 @@
 ||whjiryjr.pro^$all
 ||whjo71pt06ma9i46jqrrqj4e.lifestylebones.com^$all
 ||whkoanfhnutm2qo53hnj3lfa.gadgetscapes.com^$all
+||whm410qacrtac4e93eatbdfg.travelstoryadventures.com^$all
 ||whmq-group.com^$all
 ||whmqgroup.com^$all
 ||whnews.tilda.ws^$all
@@ -57745,6 +57837,7 @@
 ||wk548l1tfrb5tb683boa23b8.gadgetsgem.com^$all
 ||wk2823ld76iu7g693fmft0pq.gadgetsbask.com^$all
 ||wkartistas.com^$all
+||wkelg1o8d21kp6e93rlari7l.ultimatevacationgetaways.com^$all
 ||wkf3a9s3honbdas63dbkqdle.gamegekk.com^$all
 ||wkf849kg8h224cl53r4jkqpi.gameflown.com^$all
 ||wkjnvrjq4fpp9e893k8jc2kk.charmingceremonyguide.com^$all
@@ -58906,6 +58999,7 @@
 ||zerocodetech.com^$all
 ||zerokinsberg.xyz^$all
 ||zerotrusteds.top^$all
+||zertomex.com^$all
 ||zeruka.reviewssphere.com^$all
 ||zerumiy.com^$all
 ||zestfuldora.pro^$all
