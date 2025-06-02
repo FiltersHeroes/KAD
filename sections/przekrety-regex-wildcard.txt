@@ -43,8 +43,8 @@
 ||allegro.pl.*.pl^$all,domain=~allegro.pl|pl
 ||allegrolokalnie-pl.$doc,to=~translate.goog|~translate.google.*
 ||allegrolokalnie-pl.$frame,domain=~translate.goog|~translate.google.*
-||allegrolokalnie.$doc,to=~allegro.com|~allegro.cz|~allegro.pl|~allegro.sk|~allegrolokalnie.pl|~czc.cz|~mall.cz|~mall.hr|~mall.hu|~mall.pl|~mall.sk|~mimovrste.com|~wedo.cz
-||allegrolokalnie.$frame,domain=~allegro.com|~allegro.cz|~allegro.pl|~allegro.sk|~allegrolokalnie.pl|~czc.cz|~mall.cz|~mall.hr|~mall.hu|~mall.pl|~mall.sk|~mimovrste.com|~wedo.cz
+||allegrolokalnie.$doc,to=~allegro.com|~allegro.cz|~allegro.pl|~allegro.sk|~allegro.hu|~allegrolokalnie.pl|~czc.cz|~mall.cz|~mall.hr|~mall.hu|~mall.pl|~mall.sk|~mimovrste.com|~wedo.cz
+||allegrolokalnie.$frame,domain=~allegro.com|~allegro.cz|~allegro.pl|~allegro.sk|~allegro.hu|~allegrolokalnie.pl|~czc.cz|~mall.cz|~mall.hr|~mall.hu|~mall.pl|~mall.sk|~mimovrste.com|~wedo.cz
 ||allegroloklinie-oferta*.xyz^$all
 ||app*.kromtech.net^$all,domain=net
 ||apple-*.deviceoffergiveaways.icu^$all
@@ -54,7 +54,7 @@
 ||bestprizesday*.life^$all
 ||chomikuj*.opx.pl^$all,domain=pl
 ||chomikuj.$doc,to=~chomikuj.pl
-||czyjtonumer.net^$doc,to=~uwazaj-na-pakiet-premium.*
+||czyjtonumer.net^$doc,to=~uwazaj-na-pakiet-premium.*|czyjtonumer.net
 ||dates-here-now*.com^$all
 ||dating-4-adults*.com^$all
 ||dating-heart*.com^$all
@@ -152,7 +152,6 @@
 ||tvp-informacyjna*.eu^$all
 ||u*p*w.ha*.t.justns.ru^$doc,to=ru
 ||update.*sf*.online^$all
-||vider.$doc,to=~uwaga-natretne-reklamy.*|vider.*
 ||wp.*.top^$doc,to=top
 ||xn*gwatpolska24*.$all
 ||xn--onetgwat-*.$all
