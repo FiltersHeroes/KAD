@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 04 Jun 2025, 22:20 UTC+02:00
-! Version: 2025.6.4.3
+! Last modified: Wed, 04 Jun 2025, 22:23 UTC+02:00
+! Version: 2025.6.4.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -75912,8 +75912,8 @@
 ||zobaczktopodgladaa.blogspot.com^$all
 !
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
-!||morele.net/*/?sprzedawca=1592$doc,to=morele.net|~zakupy-na-wlasna-odpowiedzialnosc.*
 ##a[href^="/fb-login"]
+##body > .container:not([id]):only-child:has(> h1:first-child ~ table:not([id]):not([class]):only-of-type ~ div.dconts:not([id]):last-child)
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,important,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
 @@||blocked-site-hole-cert.pl^$domain=lista.cert.pl
 |http://a2g.me/$doc,important,to=~zalecane-wymuszenie-https.*
