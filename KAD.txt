@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Mon, 23 Jun 2025, 14:50 UTC+02:00
-! Version: 2025.6.23.1
+! Last modified: Mon, 23 Jun 2025, 18:31 UTC+02:00
+! Version: 2025.6.23.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1998,6 +1998,7 @@
 ||1s1sv.com^$all
 ||1stop-automotive.top^$all
 ||1stopris.com^$all
+||1tftdctr2.lat^$all
 ||1timeid.com^$all
 ||1twlbh3aipmek7.plus-pl.lat^$all
 ||1twodistribution.com^$all
@@ -4241,11 +4242,13 @@
 ||aiebilet.pl-conformation95.shop^$all
 ||aiebilet.pl-conformation97.shop^$all
 ||aiebilet.pl-conformation102.shop^$all
+||aiebilet.pl-conformation103.shop^$all
 ||aiebilet.pl-conformation104.shop^$all
 ||aiebilet.pl-conformation107.shop^$all
 ||aiebilet.pl-conformation108.shop^$all
 ||aiebilet.pl-conformation109.shop^$all
 ||aiebilet.pl-conformation110.shop^$all
+||aiebilet.pl-conformation213.shop^$all
 ||aiebilet.pl-firmowe161.sbs^$all
 ||aiebilet.pl-firmowe347635.icu^$all
 ||aiebilet.pl-garaze-blaszane-120.icu^$all
@@ -5193,10 +5196,12 @@
 ||alebilet.pl-conformation95.shop^$all
 ||alebilet.pl-conformation97.shop^$all
 ||alebilet.pl-conformation102.shop^$all
+||alebilet.pl-conformation103.shop^$all
 ||alebilet.pl-conformation104.shop^$all
 ||alebilet.pl-conformation107.shop^$all
 ||alebilet.pl-conformation109.shop^$all
 ||alebilet.pl-conformation110.shop^$all
+||alebilet.pl-conformation213.shop^$all
 ||alebilet.pl-cweljebany.cfd^$all
 ||alebilet.pl-d-oferta-szafka-narzedziowwa-z-garstka-narzedzi-cid628.shop^$all
 ||alebilet.pl-domena.cfd^$all
@@ -5553,6 +5558,7 @@
 ||alebilet.pl-oferta708373.cfd^$all
 ||alebilet.pl-oferta0714598.cfd^$all
 ||alebilet.pl-oferta0714907.cfd^$all
+||alebilet.pl-oferta722137.cyou^$all
 ||alebilet.pl-oferta722137.sbs^$all
 ||alebilet.pl-oferta732387.cfd^$all
 ||alebilet.pl-oferta740347.sbs^$all
@@ -5771,6 +5777,7 @@
 ||alebilet.pl-oferta5653392.icu^$all
 ||alebilet.pl-oferta5680053.sbs^$all
 ||alebilet.pl-oferta5697019.icu^$all
+||alebilet.pl-oferta5705203.icu^$all
 ||alebilet.pl-oferta5737518.shop^$all
 ||alebilet.pl-oferta5747749.shop^$all
 ||alebilet.pl-oferta5754677.cfd^$all
@@ -6531,11 +6538,13 @@
 ||allebilet.pl-conformation95.shop^$all
 ||allebilet.pl-conformation97.shop^$all
 ||allebilet.pl-conformation102.shop^$all
+||allebilet.pl-conformation103.shop^$all
 ||allebilet.pl-conformation104.shop^$all
 ||allebilet.pl-conformation107.shop^$all
 ||allebilet.pl-conformation108.shop^$all
 ||allebilet.pl-conformation109.shop^$all
 ||allebilet.pl-conformation110.shop^$all
+||allebilet.pl-conformation213.shop^$all
 ||allebilet.pl-firmowe161.sbs^$all
 ||allebilet.pl-firmowe347635.icu^$all
 ||allebilet.pl-garaze-blaszane-120.icu^$all
@@ -7275,11 +7284,13 @@
 ||allegro.pl-conformation95.shop^$all
 ||allegro.pl-conformation97.shop^$all
 ||allegro.pl-conformation102.shop^$all
+||allegro.pl-conformation103.shop^$all
 ||allegro.pl-conformation104.shop^$all
 ||allegro.pl-conformation107.shop^$all
 ||allegro.pl-conformation108.shop^$all
 ||allegro.pl-conformation109.shop^$all
 ||allegro.pl-conformation110.shop^$all
+||allegro.pl-conformation213.shop^$all
 ||allegro.pl-cweljebany.cfd^$all
 ||allegro.pl-d-oferta-szafka-narzedziowwa-z-garstka-narzedzi-cid628.shop^$all
 ||allegro.pl-domena.cfd^$all
@@ -7655,6 +7666,7 @@
 ||allegro.pl-oferta708373.cfd^$all
 ||allegro.pl-oferta0714598.cfd^$all
 ||allegro.pl-oferta0714907.cfd^$all
+||allegro.pl-oferta722137.cyou^$all
 ||allegro.pl-oferta722137.sbs^$all
 ||allegro.pl-oferta732387.cfd^$all
 ||allegro.pl-oferta740347.sbs^$all
@@ -7905,6 +7917,7 @@
 ||allegro.pl-oferta5653392.icu^$all
 ||allegro.pl-oferta5680053.sbs^$all
 ||allegro.pl-oferta5697019.icu^$all
+||allegro.pl-oferta5705203.icu^$all
 ||allegro.pl-oferta5737518.shop^$all
 ||allegro.pl-oferta5747749.shop^$all
 ||allegro.pl-oferta5754677.cfd^$all
@@ -8606,10 +8619,12 @@
 ||allegrolokainie.pl-conformation95.shop^$all
 ||allegrolokainie.pl-conformation97.shop^$all
 ||allegrolokainie.pl-conformation102.shop^$all
+||allegrolokainie.pl-conformation103.shop^$all
 ||allegrolokainie.pl-conformation104.shop^$all
 ||allegrolokainie.pl-conformation107.shop^$all
 ||allegrolokainie.pl-conformation108.shop^$all
 ||allegrolokainie.pl-conformation110.shop^$all
+||allegrolokainie.pl-conformation213.shop^$all
 ||allegrolokainie.pl-firmowe161.sbs^$all
 ||allegrolokainie.pl-firmowe347635.icu^$all
 ||allegrolokainie.pl-garaze-blaszane-120.icu^$all
@@ -8864,11 +8879,13 @@
 ||allegrolokalne.pl-conformation95.shop^$all
 ||allegrolokalne.pl-conformation97.shop^$all
 ||allegrolokalne.pl-conformation102.shop^$all
+||allegrolokalne.pl-conformation103.shop^$all
 ||allegrolokalne.pl-conformation104.shop^$all
 ||allegrolokalne.pl-conformation107.shop^$all
 ||allegrolokalne.pl-conformation108.shop^$all
 ||allegrolokalne.pl-conformation109.shop^$all
 ||allegrolokalne.pl-conformation110.shop^$all
+||allegrolokalne.pl-conformation213.shop^$all
 ||allegrolokalne.pl-firmowe161.sbs^$all
 ||allegrolokalne.pl-firmowe347635.icu^$all
 ||allegrolokalne.pl-garaze-blaszane-120.icu^$all
@@ -9350,6 +9367,7 @@
 ||allegrolokalnie.id-78123755.buzz^$all
 ||allegrolokalnie.id-78124891.rest^$all
 ||allegrolokalnie.id-178359122.cfd^$all
+||allegrolokalnie.il-6-5275736.xyz^$all
 ||allegrolokalnie.index-8744.rest^$all
 ||allegrolokalnie.ioferta0120527.icu^$all
 ||allegrolokalnie.ioferty-0150292.sbs^$all
@@ -10519,11 +10537,13 @@
 ||allegrolokalnie.pl-conformation95.shop^$all
 ||allegrolokalnie.pl-conformation97.shop^$all
 ||allegrolokalnie.pl-conformation102.shop^$all
+||allegrolokalnie.pl-conformation103.shop^$all
 ||allegrolokalnie.pl-conformation104.shop^$all
 ||allegrolokalnie.pl-conformation107.shop^$all
 ||allegrolokalnie.pl-conformation108.shop^$all
 ||allegrolokalnie.pl-conformation109.shop^$all
 ||allegrolokalnie.pl-conformation110.shop^$all
+||allegrolokalnie.pl-conformation213.shop^$all
 ||allegrolokalnie.pl-cweljebany.cfd^$all
 ||allegrolokalnie.pl-d-oferta-szafka-narzedziowwa-z-garstka-narzedzi-cid628.shop^$all
 ||allegrolokalnie.pl-domena.cfd^$all
@@ -11041,6 +11061,7 @@
 ||allegrolokalnie.pl-oferta708373.cfd^$all
 ||allegrolokalnie.pl-oferta0714598.cfd^$all
 ||allegrolokalnie.pl-oferta0714907.cfd^$all
+||allegrolokalnie.pl-oferta722137.cyou^$all
 ||allegrolokalnie.pl-oferta722137.sbs^$all
 ||allegrolokalnie.pl-oferta724394.com^$all
 ||allegrolokalnie.pl-oferta729301.icu^$all
@@ -11362,6 +11383,7 @@
 ||allegrolokalnie.pl-oferta5653392.icu^$all
 ||allegrolokalnie.pl-oferta5680053.sbs^$all
 ||allegrolokalnie.pl-oferta5697019.icu^$all
+||allegrolokalnie.pl-oferta5705203.icu^$all
 ||allegrolokalnie.pl-oferta5737518.shop^$all
 ||allegrolokalnie.pl-oferta5747749.shop^$all
 ||allegrolokalnie.pl-oferta5754677.cfd^$all
@@ -19446,6 +19468,7 @@
 ||ccchephzibahparish.com^$all
 ||cccolsztyn.shop^$all
 ||cccopole.shop^$all
+||cccshoe-pl.shop^$all
 ||cccshoes-pl.shop^$all
 ||cccshoes.shop^$all
 ||cccshop.top^$all
@@ -23742,6 +23765,7 @@
 ||dablecabri.pro^$all
 ||dabopeo.top^$all
 ||dac.kiopeut.top^$all
+||daciwya6.pro^$all
 ||dacpw.opnmeteu.com^$all
 ||dacryscont.pro^$all
 ||dacryvacci.pro^$all
@@ -28802,6 +28826,7 @@
 ||eso-sales.com^$all
 ||esome-oradoe-prazon.vercel.app^$all
 ||esordcuveno.pro^$all
+||esordmesci.pro^$all
 ||esortantit.pro^$all
 ||esotericcatfish.pro^$all
 ||esotericmantis.pro^$all
@@ -29158,6 +29183,7 @@
 ||eurobnet.com^$all
 ||eurocoin-app.com^$all
 ||eurocoinapp.net^$all
+||euroflashsale.shop^$all
 ||eurogardencbd.com^$all
 ||euroinvest20.com^$all
 ||euromarketsale.com^$all
@@ -30311,6 +30337,7 @@
 ||fesmeuntruc.com^$all
 ||fessusubbo.pro^$all
 ||festaanadu.pro^$all
+||festaumbil.pro^$all
 ||festeinsol.pro^$all
 ||festivaldeteatromusical.com^$all
 ||festivalgas.com^$all
@@ -31341,6 +31368,7 @@
 ||fohoca-fayico.site^$all
 ||fohoxey.com^$all
 ||foifreppaufreibreu-6120.vercel.app^$all
+||fojahiy7.pro^$all
 ||fojeboa.com^$all
 ||fojuca-nugafu.site^$all
 ||folawau.com^$all
@@ -34974,6 +35002,7 @@
 ||gupiaozhang.com^$all
 ||gupoleo.com^$all
 ||guptabloodpressure.com^$all
+||guqopai.com^$all
 ||gurjasuper.pro^$all
 ||gurklomirtam.top^$all
 ||gurubestdeal.com^$all
@@ -39510,6 +39539,7 @@
 ||installcurrentuberthe-file.top^$all
 ||installdevelopedhighlythe-file.top^$all
 ||installextremelycurrentthe-file.top^$all
+||installextremelydevelopedthe-file.top^$all
 ||installextremelylatestthe-file.top^$all
 ||installextremelynewestthe-file.top^$all
 ||installextremelyoriginalthe-file.top^$all
@@ -39558,6 +39588,7 @@
 ||installoverlyswiftthe-file.top^$all
 ||installpreciseoverlythe-file.top^$all
 ||installpreciseuberthe-file.top^$all
+||installprogressiveextremelythe-file.top^$all
 ||installprogressivehighlythe-file.top^$all
 ||installprogressiveoverlythe-file.top^$all
 ||installprogressiveuberthe-file.top^$all
@@ -40991,6 +41022,7 @@
 ||jeweltrained.com^$all
 ||jewikeln.com^$all
 ||jewylye.com^$all
+||jexake-niyolo.pics^$all
 ||jexeni-tiluku.site^$all
 ||jexled6.shop^$all
 ||jexorium.online^$all
@@ -47042,6 +47074,7 @@
 ||meta-ads-manager-facebook-support-business-id200056679982.vercel.app^$all
 ||meta-authentication1.click^$all
 ||meta-betrix.com^$all
+||meta-compliance-center-id6897-n4dj.vercel.app^$all
 ||meta-customer-team.vercel.app^$all
 ||meta-fengshui.com^$all
 ||meta-insight.info^$all
@@ -47323,6 +47356,7 @@
 ||microsoftsmailgydoikokfl.iparyamp.ru^$all
 ||microsoftsql.com^$all
 ||microwavebites.com^$all
+||micrrosofttonliine.com^$all
 ||miculparisproperties.com^$all
 ||midamerica-properties.xyz^$all
 ||midastouchsystems.com^$all
@@ -48012,6 +48046,7 @@
 ||moku.surveyrewardsclub.store^$all
 ||mokuzimo.com^$all
 ||mokysee4.pro^$all
+||mol.wextro.top^$all
 ||molaimpor.pro^$all
 ||molakiven3.top^$all
 ||moldedcarps.com^$all
@@ -50564,6 +50599,7 @@
 ||niveshkro.com^$all
 ||nivexis-core-gpt.net^$all
 ||nivexiscoregptapp.net^$all
+||nivijyo0.pro^$all
 ||nivlsmotors.com^$all
 ||nivoro-banco-app.com^$all
 ||nivoro-banco.net^$all
@@ -51270,6 +51306,7 @@
 ||nuvofu.nuvixos.com^$all
 ||nuvolcorp.com^$all
 ||nuvora.today^$all
+||nuwazo-zusiko.pics^$all
 ||nuwypau.com^$all
 ||nuxexio-fin.com^$all
 ||nuxexiofin-ai-app.com^$all
@@ -54083,10 +54120,12 @@
 ||olx.pl-conformation95.shop^$all
 ||olx.pl-conformation97.shop^$all
 ||olx.pl-conformation102.shop^$all
+||olx.pl-conformation103.shop^$all
 ||olx.pl-conformation104.shop^$all
 ||olx.pl-conformation107.shop^$all
 ||olx.pl-conformation108.shop^$all
 ||olx.pl-conformation110.shop^$all
+||olx.pl-conformation213.shop^$all
 ||olx.pl-cweljebany.cfd^$all
 ||olx.pl-d-oferta-szafka-narzedziowwa-z-garstka-narzedzi-cid628.shop^$all
 ||olx.pl-domena.cfd^$all
@@ -54475,6 +54514,7 @@
 ||olx.pl-oferta708373.cfd^$all
 ||olx.pl-oferta0714598.cfd^$all
 ||olx.pl-oferta0714907.cfd^$all
+||olx.pl-oferta722137.cyou^$all
 ||olx.pl-oferta722137.sbs^$all
 ||olx.pl-oferta732387.cfd^$all
 ||olx.pl-oferta740347.sbs^$all
@@ -54692,6 +54732,7 @@
 ||olx.pl-oferta5653392.icu^$all
 ||olx.pl-oferta5680053.sbs^$all
 ||olx.pl-oferta5697019.icu^$all
+||olx.pl-oferta5705203.icu^$all
 ||olx.pl-oferta5737518.shop^$all
 ||olx.pl-oferta5747749.shop^$all
 ||olx.pl-oferta5754677.cfd^$all
@@ -57363,6 +57404,7 @@
 ||pectirappe.pro^$all
 ||pecucey.com^$all
 ||pecudae4.pro^$all
+||pecule-fabucu.pics^$all
 ||peculiarparlour.com^$all
 ||pecunconse.pro^$all
 ||pecuro-vocuro.pics^$all
@@ -58674,11 +58716,13 @@
 ||pl-conformation95.shop^$all
 ||pl-conformation97.shop^$all
 ||pl-conformation102.shop^$all
+||pl-conformation103.shop^$all
 ||pl-conformation104.shop^$all
 ||pl-conformation107.shop^$all
 ||pl-conformation108.shop^$all
 ||pl-conformation109.shop^$all
 ||pl-conformation110.shop^$all
+||pl-conformation213.shop^$all
 ||pl-cweljebany.cfd^$all
 ||pl-d-oferta-szafka-narzedziowwa-z-garstka-narzedzi-cid628.shop^$all
 ||pl-daily2025.org^$all
@@ -59134,6 +59178,7 @@
 ||pl-oferta708373.cfd^$all
 ||pl-oferta0714598.cfd^$all
 ||pl-oferta0714907.cfd^$all
+||pl-oferta722137.cyou^$all
 ||pl-oferta722137.sbs^$all
 ||pl-oferta732387.cfd^$all
 ||pl-oferta740347.sbs^$all
@@ -59389,6 +59434,7 @@
 ||pl-oferta5653392.icu^$all
 ||pl-oferta5680053.sbs^$all
 ||pl-oferta5697019.icu^$all
+||pl-oferta5705203.icu^$all
 ||pl-oferta5737518.shop^$all
 ||pl-oferta5747749.shop^$all
 ||pl-oferta5754677.cfd^$all
@@ -60647,6 +60693,7 @@
 ||podpora-zkaznkm.com^$all
 ||podt-zak.shop^$all
 ||podt-zamm.shop^$all
+||podtarded.com^$all
 ||poe.wextro.top^$all
 ||poeblossom.weebly.com^$all
 ||poempom.com^$all
@@ -61171,6 +61218,7 @@
 ||postagols.top^$all
 ||postalessinrumbo.com^$all
 ||postalion.net^$all
+||postalkz.top^$all
 ||postalpl.help^$all
 ||postalpl.sbs^$all
 ||postalpl.top^$all
@@ -62802,6 +62850,7 @@
 ||qemataltamayoz.com^$all
 ||qemawya.com^$all
 ||qemuzii.pro^$all
+||qenafue.com^$all
 ||qenidau.com^$all
 ||qenogiu.pro^$all
 ||qenuqea.com^$all
@@ -64610,6 +64659,7 @@
 ||rejuvenara.com^$all
 ||rekening-168.com^$all
 ||rekeycircu.pro^$all
+||rekilu-pohibi.pics^$all
 ||rekoga-fikuyi.site^$all
 ||rekomenrne.com^$all
 ||rekrotinka.xyz^$all
@@ -69330,6 +69380,7 @@
 ||singttel-cast-sgg.com^$all
 ||singttel-castt-sg.com^$all
 ||singularity-partners.com^$all
+||sinisrifer.pro^$all
 ||sinisulanku006.com^$all
 ||sinisultanku002.com^$all
 ||sinisultanku003.com^$all
@@ -71906,6 +71957,7 @@
 ||steomcoommnumnlty.com^$all
 ||step1consultants.com^$all
 ||stepbystepcookbook.com^$all
+||stepclear.info^$all
 ||stephane-bruchez.online^$all
 ||stephenknutter.com^$all
 ||stephenmahararn.com^$all
@@ -73747,6 +73799,7 @@
 ||tarikhdan.org^$all
 ||tarimasac5.com^$all
 ||tarimasac6.com^$all
+||tarinu-moxuja.sbs^$all
 ||tariqon-sync-gpt.com^$all
 ||tariqonsyncgptapp.com^$all
 ||tariuniverse.com^$all
@@ -75088,6 +75141,7 @@
 ||throughmywindow.org^$all
 ||thryver.store^$all
 ||thryvon-bolt-app.net^$all
+||tht-theforge.com^$all
 ||thumbfight.com^$all
 ||thunderbloom.site^$all
 ||thundercelestialpath.pro^$all
@@ -83108,11 +83162,13 @@
 ||xn--albilet-b9a.pl-conformation93.shop^$all
 ||xn--albilet-b9a.pl-conformation97.shop^$all
 ||xn--albilet-b9a.pl-conformation102.shop^$all
+||xn--albilet-b9a.pl-conformation103.shop^$all
 ||xn--albilet-b9a.pl-conformation104.shop^$all
 ||xn--albilet-b9a.pl-conformation107.shop^$all
 ||xn--albilet-b9a.pl-conformation108.shop^$all
 ||xn--albilet-b9a.pl-conformation109.shop^$all
 ||xn--albilet-b9a.pl-conformation110.shop^$all
+||xn--albilet-b9a.pl-conformation213.shop^$all
 ||xn--albilet-b9a.pl-oferta485433.pl^$all
 ||xn--albilet-b9a.pl-oferta962862.pl^$all
 ||xn--albilet-b9a.pl-oferta982671.pl^$all
@@ -83562,6 +83618,7 @@
 ||yourapp-dlgital.com^$all
 ||yourcapitalfuel.com^$all
 ||yourcitynewsdaily.com^$all
+||yourcloudrive.com^$all
 ||yourcoatofarms.com^$all
 ||yourcuttieeva.top^$all
 ||yourdailyfeedfix.com^$all
