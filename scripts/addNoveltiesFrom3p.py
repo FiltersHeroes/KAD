@@ -43,16 +43,17 @@ elif tp == "LWS":
 
 unnecessary_pat = re.compile(r"^(#|!)")
 
-with open(KADomains_path, "r", encoding='utf-8') as KADhosts, \
-        NamedTemporaryFile(dir='.', delete=False, mode="w", encoding='utf-8') as f_out:
-    lines = []
-    for line in KADhosts:
-        line = line.strip()
-        if not unnecessary_pat.match(line):
-            lines.append(re.sub(r"^www\.", "", line))
-    for line in sorted(set(lines)):
-        f_out.write(f"{line}\n")
-    del lines
+if tp != "CERT":
+    with open(KADomains_path, "r", encoding='utf-8') as KADhosts, \
+            NamedTemporaryFile(dir='.', delete=False, mode="w", encoding='utf-8') as f_out:
+        lines = []
+        for line in KADhosts:
+            line = line.strip()
+            if not unnecessary_pat.match(line):
+                lines.append(re.sub(r"^www\.", "", line))
+        for line in sorted(set(lines)):
+            f_out.write(f"{line}\n")
+        del lines
     os.rename(f_out.name, KADomains_path)
 
 cleanup3p(tp_path)
@@ -60,11 +61,12 @@ cleanup3p(tp_path)
 expired_path = pj(main_path, "exclusions", tp + "_expired.txt")
 
 KADomains_list = {}
-with open(KADomains_path, "r", encoding='utf-8') as KADhosts:
-    for line in KADhosts:
-        line = line.strip()
-        if line != "":
-            KADomains_list[line] = ""
+if tp != "CERT":
+    with open(KADomains_path, "r", encoding='utf-8') as KADhosts:
+        for line in KADhosts:
+            line = line.strip()
+            if line != "":
+                KADomains_list[line] = ""
 
 novelties = {}
 with open(tp_path, "r", encoding='utf-8') as tp_f:

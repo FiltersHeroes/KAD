@@ -56,7 +56,7 @@ if not os.path.exists(temp_path):
     os.mkdir(temp_path)
 
 CERT_NOVELTIES_PATH = pj(main_path, "sections", "CERT_novelties.txt")
-PRZEKRETY_PATH = pj(main_path, "sections", "przekrety.txt")
+PRZEKRETY_PATH = pj(main_path, "sections", "przekrety_CERT.txt")
 LWS_NOVELTIES_PATH = pj(main_path, "sections", "LWS_novelties.txt")
 PODEJRZANE_PATH = pj(main_path, "sections", "podejrzane_inne_oszustwa.txt")
 
@@ -78,45 +78,10 @@ def combineFiles(file1, file2):
         os.remove(file1)
 
 
-combineFiles(CERT_NOVELTIES_PATH, PRZEKRETY_PATH)
+os.replace(CERT_NOVELTIES_PATH, PRZEKRETY_PATH)
 combineFiles(LWS_NOVELTIES_PATH, PODEJRZANE_PATH)
 
-# Usuwamy domeny usunięte z CERT
-download(pj(temp_path, "domains.json"),
-         "https://hole.cert.pl/domains/domains.json")
-download(pj(temp_path, "domains_v2.json"),
-         "https://hole.cert.pl/domains/v2/domains.json")
 
-with open(pj(temp_path, "domains_v2.json"), "r", encoding='utf-8') as domains_v2_json:
-    strings_v2 = json.load(domains_v2_json)
-
-with open(pj(temp_path, "domains.json"), "r", encoding='utf-8') as domains_json:
-    strings = json.load(domains_json)
-
-removedDomains = {}
-for string in strings_v2:
-    if string["DeleteDate"]:
-        cleanedURL = string["DomainAddress"].replace("www.", "")
-        removedDomains[f"||{cleanedURL}^$all"] = ""
-
-cert_v2_domains = {}
-for string in strings_v2:
-    cert_v2_domains[string["DomainAddress"]] = ""
-
-cert_v2_domains_combined = '\t'.join(cert_v2_domains)
-
-for string in strings:
-    if string["DomainAddress"] not in cert_v2_domains_combined:
-        cleanedURL = string["DomainAddress"].replace("www.", "")
-        removedDomains[f"||{cleanedURL}^$all"] = ""
-
-with open(PRZEKRETY_PATH, "r", encoding='utf-8') as przekrety_content, NamedTemporaryFile(dir=temp_path, delete=False, mode="w", encoding='utf-8') as cleared_temp:
-    for line in przekrety_content:
-        if line.strip() in removedDomains:
-            line = ""
-        if line:
-            cleared_temp.write(line)
-    os.replace(cleared_temp.name, PRZEKRETY_PATH)
 shutil.rmtree(temp_path)
 
 SFLB_path = pn(main_path+"/../ScriptsPlayground/scripts/SFLB.py")
