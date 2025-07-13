@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 13 Jul 2025, 21:29 UTC+02:00
-! Version: 2025.7.13.5
+! Last modified: Sun, 13 Jul 2025, 22:24 UTC+02:00
+! Version: 2025.7.13.6
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -5287,10 +5287,15 @@
 ||alebilet.pl-1619.sbs^$all
 ||alebilet.pl-1751.cfd^$all
 ||alebilet.pl-2312.cfd^$all
+||alebilet.pl-2392.cfd^$all
+||alebilet.pl-2841.cfd^$all
 ||alebilet.pl-2850.cyou^$all
 ||alebilet.pl-3723.cfd^$all
+||alebilet.pl-3934.cfd^$all
+||alebilet.pl-4299.cfd^$all
 ||alebilet.pl-5423.icu^$all
 ||alebilet.pl-6281.icu^$all
+||alebilet.pl-6493.cfd^$all
 ||alebilet.pl-7391.cfd^$all
 ||alebilet.pl-7839.cfd^$all
 ||alebilet.pl-9321.cfd^$all
@@ -5318,6 +5323,7 @@
 ||alebilet.pl-41257.icu^$all
 ||alebilet.pl-43907.icu^$all
 ||alebilet.pl-43907.sbs^$all
+||alebilet.pl-48951.icu^$all
 ||alebilet.pl-51298.icu^$all
 ||alebilet.pl-56859.cfd^$all
 ||alebilet.pl-64512.icu^$all
@@ -5327,6 +5333,7 @@
 ||alebilet.pl-65932.sbs^$all
 ||alebilet.pl-76226.icu^$all
 ||alebilet.pl-76532.icu^$all
+||alebilet.pl-76541.icu^$all
 ||alebilet.pl-81323.icu^$all
 ||alebilet.pl-82949.cfd^$all
 ||alebilet.pl-83173.icu^$all
@@ -5758,6 +5765,7 @@
 ||alebilet.pl-oferta2425.icu^$all
 ||alebilet.pl-oferta02551.icu^$all
 ||alebilet.pl-oferta2647.top^$all
+||alebilet.pl-oferta2695.online^$all
 ||alebilet.pl-oferta2773.online^$all
 ||alebilet.pl-oferta3148.icu^$all
 ||alebilet.pl-oferta3592.online^$all
@@ -5767,6 +5775,7 @@
 ||alebilet.pl-oferta6845.icu^$all
 ||alebilet.pl-oferta7882.icu^$all
 ||alebilet.pl-oferta8296-playstation.shop^$all
+||alebilet.pl-oferta8349.cfd^$all
 ||alebilet.pl-oferta8662.icu^$all
 ||alebilet.pl-oferta8766.icu^$all
 ||alebilet.pl-oferta8823.icu^$all
@@ -5822,6 +5831,7 @@
 ||alebilet.pl-oferta58805.icu^$all
 ||alebilet.pl-oferta59522.icu^$all
 ||alebilet.pl-oferta65483.rest^$all
+||alebilet.pl-oferta69463.online^$all
 ||alebilet.pl-oferta70124.cyou^$all
 ||alebilet.pl-oferta70124.icu^$all
 ||alebilet.pl-oferta71841.icu^$all
@@ -6142,6 +6152,7 @@
 ||alebilet.pl-oferta4955539.icu^$all
 ||alebilet.pl-oferta4987283.icu^$all
 ||alebilet.pl-oferta4996755.cfd^$all
+||alebilet.pl-oferta5016929.cfd^$all
 ||alebilet.pl-oferta5020614.icu^$all
 ||alebilet.pl-oferta5050896.icu^$all
 ||alebilet.pl-oferta5054055.icu^$all
@@ -6351,6 +6362,7 @@
 ||alebilet.pl-oferta8971516.cfd^$all
 ||alebilet.pl-oferta8997340.icu^$all
 ||alebilet.pl-oferta9018105.icu^$all
+||alebilet.pl-oferta9028172.sbs^$all
 ||alebilet.pl-oferta9051192.sbs^$all
 ||alebilet.pl-oferta9062052.cfd^$all
 ||alebilet.pl-oferta9062061.cfd^$all
@@ -7729,6 +7741,7 @@
 ||allegro.pl-2850.cyou^$all
 ||allegro.pl-3723.cfd^$all
 ||allegro.pl-4285.cfd^$all
+||allegro.pl-4299.cfd^$all
 ||allegro.pl-4327.cfd^$all
 ||allegro.pl-6281.icu^$all
 ||allegro.pl-6723.cfd^$all
@@ -8799,6 +8812,7 @@
 ||allegro.pl-oferta8971516.cfd^$all
 ||allegro.pl-oferta8997340.icu^$all
 ||allegro.pl-oferta9018105.icu^$all
+||allegro.pl-oferta9028172.sbs^$all
 ||allegro.pl-oferta9051192.sbs^$all
 ||allegro.pl-oferta9062052.cfd^$all
 ||allegro.pl-oferta9062061.cfd^$all
@@ -10938,17 +10952,21 @@
 ||allegrolokalnie.pl-1751.cfd^$all
 ||allegrolokalnie.pl-1752.cfd^$all
 ||allegrolokalnie.pl-2312.cfd^$all
+||allegrolokalnie.pl-2392.cfd^$all
 ||allegrolokalnie.pl-2421.cfd^$all
 ||allegrolokalnie.pl-2649hygvsdfnovsdu.cyou^$all
 ||allegrolokalnie.pl-2649hygvsdfnovsdu.icu^$all
+||allegrolokalnie.pl-2841.cfd^$all
 ||allegrolokalnie.pl-2850.cyou^$all
 ||allegrolokalnie.pl-3124.cfd^$all
 ||allegrolokalnie.pl-3219.cfd^$all
 ||allegrolokalnie.pl-3292.cfd^$all
 ||allegrolokalnie.pl-3723.cfd^$all
 ||allegrolokalnie.pl-3794.cfd^$all
+||allegrolokalnie.pl-3934.cfd^$all
 ||allegrolokalnie.pl-3963.cfd^$all
 ||allegrolokalnie.pl-4285.cfd^$all
+||allegrolokalnie.pl-4299.cfd^$all
 ||allegrolokalnie.pl-4327.cfd^$all
 ||allegrolokalnie.pl-4387.cfd^$all
 ||allegrolokalnie.pl-4567.icu^$all
@@ -10956,6 +10974,7 @@
 ||allegrolokalnie.pl-5819.cfd^$all
 ||allegrolokalnie.pl-6243.cfd^$all
 ||allegrolokalnie.pl-6281.icu^$all
+||allegrolokalnie.pl-6493.cfd^$all
 ||allegrolokalnie.pl-6723.cfd^$all
 ||allegrolokalnie.pl-7164.cfd^$all
 ||allegrolokalnie.pl-7291.cfd^$all
@@ -11040,6 +11059,7 @@
 ||allegrolokalnie.pl-75474.icu^$all
 ||allegrolokalnie.pl-75982.cfd^$all
 ||allegrolokalnie.pl-76501.cfd^$all
+||allegrolokalnie.pl-76541.icu^$all
 ||allegrolokalnie.pl-78111.cfd^$all
 ||allegrolokalnie.pl-81993.rest^$all
 ||allegrolokalnie.pl-82591.cfd^$all
@@ -11057,6 +11077,7 @@
 ||allegrolokalnie.pl-87301.cfd^$all
 ||allegrolokalnie.pl-87427.icu^$all
 ||allegrolokalnie.pl-89124.shop^$all
+||allegrolokalnie.pl-89626.icu^$all
 ||allegrolokalnie.pl-92748.cfd^$all
 ||allegrolokalnie.pl-92749.cfd^$all
 ||allegrolokalnie.pl-92758.cfd^$all
@@ -11241,7 +11262,6 @@
 ||allegrolokalnie.pl-84382019.rest^$all
 ||allegrolokalnie.pl-84927592.icu^$all
 ||allegrolokalnie.pl-87295721.icu^$all
-||allegrolokalnie.pl-89251221.cfd^$all
 ||allegrolokalnie.pl-89610513.cfd^$all
 ||allegrolokalnie.pl-89610513.cyou^$all
 ||allegrolokalnie.pl-89610513.icu^$all
@@ -11732,6 +11752,8 @@
 ||allegrolokalnie.pl-oferta7738.top^$all
 ||allegrolokalnie.pl-oferta7882.icu^$all
 ||allegrolokalnie.pl-oferta8296-playstation.shop^$all
+||allegrolokalnie.pl-oferta8349.cfd^$all
+||allegrolokalnie.pl-oferta8491.cfd^$all
 ||allegrolokalnie.pl-oferta8662.icu^$all
 ||allegrolokalnie.pl-oferta8766.icu^$all
 ||allegrolokalnie.pl-oferta8823.icu^$all
@@ -12178,6 +12200,7 @@
 ||allegrolokalnie.pl-oferta4955539.icu^$all
 ||allegrolokalnie.pl-oferta4987283.icu^$all
 ||allegrolokalnie.pl-oferta4996755.cfd^$all
+||allegrolokalnie.pl-oferta5016929.cfd^$all
 ||allegrolokalnie.pl-oferta5020614.icu^$all
 ||allegrolokalnie.pl-oferta5050896.icu^$all
 ||allegrolokalnie.pl-oferta5054055.icu^$all
@@ -12411,6 +12434,7 @@
 ||allegrolokalnie.pl-oferta8997340.icu^$all
 ||allegrolokalnie.pl-oferta9016570.shop^$all
 ||allegrolokalnie.pl-oferta9018105.icu^$all
+||allegrolokalnie.pl-oferta9028172.sbs^$all
 ||allegrolokalnie.pl-oferta9051192.sbs^$all
 ||allegrolokalnie.pl-oferta9062052.cfd^$all
 ||allegrolokalnie.pl-oferta9062061.cfd^$all
@@ -20335,6 +20359,7 @@
 ||bruttmyalg.pro^$all
 ||bruxismosinferula.com^$all
 ||brw-pl.shop^$all
+||brw-polska.shop^$all
 ||brwpromotions.shop^$all
 ||bryanbatcher.com^$all
 ||brygadyr.com^$all
@@ -35907,6 +35932,7 @@
 ||findlove40.com^$all
 ||findmi.fun^$all
 ||findmyiphone.com.im^$all
+||findmyiphone.my^$all
 ||findthe-way.info^$all
 ||fine-patterns.com^$all
 ||fineaincar.pro^$all
@@ -54295,7 +54321,6 @@
 ||madetail.net^$all
 ||madgeriokaser.site^$all
 ||madinatysportsclub.com^$all
-||madixey6.pro^$all
 ||madladairships.com^$all
 ||madmanblank.click^$all
 ||madmoh.com^$all
@@ -61240,7 +61265,6 @@
 ||o1x.71174152.xyz^$all
 ||o1x.74563544.xyz^$all
 ||o1x.87904343.xyz^$all
-||o1x.99415487.xyz^$all
 ||o1x.164815472.xyz^$all
 ||o1x.539748514.xyz^$all
 ||o1x.773467478.xyz^$all
@@ -63718,14 +63742,19 @@
 ||olx.pl-1619.sbs^$all
 ||olx.pl-1751.cfd^$all
 ||olx.pl-2312.cfd^$all
+||olx.pl-2392.cfd^$all
 ||olx.pl-2649hygvsdfnovsdu.cyou^$all
 ||olx.pl-2649hygvsdfnovsdu.icu^$all
+||olx.pl-2841.cfd^$all
 ||olx.pl-2850.cyou^$all
 ||olx.pl-3723.cfd^$all
+||olx.pl-3934.cfd^$all
 ||olx.pl-4285.cfd^$all
+||olx.pl-4299.cfd^$all
 ||olx.pl-4327.cfd^$all
 ||olx.pl-4567.icu^$all
 ||olx.pl-6281.icu^$all
+||olx.pl-6493.cfd^$all
 ||olx.pl-6723.cfd^$all
 ||olx.pl-7391.cfd^$all
 ||olx.pl-7839.cfd^$all
@@ -63767,6 +63796,7 @@
 ||olx.pl-83173.icu^$all
 ||olx.pl-83256.cfd^$all
 ||olx.pl-83424.cfd^$all
+||olx.pl-89626.icu^$all
 ||olx.pl-98983.icu^$all
 ||olx.pl-182744.icu^$all
 ||olx.pl-259306.sbs^$all
@@ -64257,6 +64287,8 @@
 ||olx.pl-oferta6845.icu^$all
 ||olx.pl-oferta7882.icu^$all
 ||olx.pl-oferta8296-playstation.shop^$all
+||olx.pl-oferta8349.cfd^$all
+||olx.pl-oferta8491.cfd^$all
 ||olx.pl-oferta8662.icu^$all
 ||olx.pl-oferta8766.icu^$all
 ||olx.pl-oferta8823.icu^$all
@@ -64828,6 +64860,7 @@
 ||olx.pl-oferta8971516.cfd^$all
 ||olx.pl-oferta8997340.icu^$all
 ||olx.pl-oferta9018105.icu^$all
+||olx.pl-oferta9028172.sbs^$all
 ||olx.pl-oferta9051192.sbs^$all
 ||olx.pl-oferta9062052.cfd^$all
 ||olx.pl-oferta9062061.cfd^$all
@@ -64893,6 +64926,7 @@
 ||olx.pl-oferta78855125.cfd^$all
 ||olx.pl-oferta0078964219.cfd^$all
 ||olx.pl-oferta82634283.com^$all
+||olx.pl-oferta83472304.icu^$all
 ||olx.pl-oferta84364924.icu^$all
 ||olx.pl-oferta85559642.icu^$all
 ||olx.pl-oferta89371243.icu^$all
@@ -70536,6 +70570,7 @@
 ||pl-oferta8971516.cfd^$all
 ||pl-oferta8997340.icu^$all
 ||pl-oferta9018105.icu^$all
+||pl-oferta9028172.sbs^$all
 ||pl-oferta9051192.sbs^$all
 ||pl-oferta9062052.cfd^$all
 ||pl-oferta9062061.cfd^$all
@@ -86830,6 +86865,8 @@
 ||suasesor.com^$all
 ||suasoabbor.pro^$all
 ||suave-singlemalt.com^$all
+||sub10.blocked-site-hole-cert.pl^$all
+||sub12.blocked-site-hole-cert.pl^$all
 ||sub-info.help^$all
 ||subafliofi.pro^$all
 ||subafreste.pro^$all
