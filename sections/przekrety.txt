@@ -8,7 +8,6 @@
 ||5tysiecy.pl^$all
 ||7dot.cn^$all
 ||20icecasino.com^$all
-||24.eu^$doc,to=24.eu|~www.24.eu
 ||100-ledowe-solary-pl.com^$all
 ||100sport.tv^$all
 ||123mopie.com^$all
@@ -68,7 +67,8 @@
 ||attiora.uk.com^$all
 ||attractionmarketing.com^$all
 ||attractsteadyclients.com^$all
-||auto.pl^$all,domain=~www.auto.pl
+||auto.pl^$doc,to=auto.pl|~www.auto.pl
+||auto.pl^$frame,domain=auto.pl|~www.auto.pl
 ||autoresdecomic.com^$all
 ||avaparse.ir^$all
 ||axes.co^$all
@@ -146,7 +146,6 @@
 ||buylike.pro^$all
 ||buz2mobile.com^$all
 ||bzykrandki.pl^$all
-||c.pl^$doc,to=c.pl|~www.c.pl
 ||caly-film.refy.pl^$all
 ||calyfilm.online^$all
 ||carambaba.com^$all
@@ -429,6 +428,7 @@
 ||futureadpro.com^$all
 ||futurepay.globway.eu^$all
 ||fx.cinkciarz.pl^$doc,to=~1200-osob-skarzy-sie-na-internetowy-kantor-w-prokuraturze.*|cinkciarz.pl
+||fx.cinkciarz.pl^$doc,reason="1200 osób skarzy się na internetowy kantor w prokuraturze",important
 ||fxglobe.international^$all
 ||galaxystore.pl^$all
 ||galaxytrade.co^$all
@@ -1190,7 +1190,6 @@
 ||wygraj-dzisiaj.com^$all
 ||wygraj-iphone-x.tujest.pl^$all
 ||wygraj-super-nagrode.com^$all
-||x9.eu^$doc,to=~www.x9.eu|x9.eu
 ||x-hosepl2.com^$all
 ||x.hemonx.com^$all
 ||xianyujc.com^$all
