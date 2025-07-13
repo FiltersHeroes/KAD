@@ -71,9 +71,7 @@ def combineFiles(file1, file2):
                     combined_temp.write(lineF1)
             os.replace(combined_temp.name, file2)
             git_repo.index.add(file2)
-            if file1 == CERT_NOVELTIES_PATH:
-                git_repo.index.commit("Nowości z listy CERT")
-            else:
+            if file1 == LWS_NOVELTIES_PATH:
                 git_repo.index.commit("Nowości z LWS")
         os.remove(file1)
 

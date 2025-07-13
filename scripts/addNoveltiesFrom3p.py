@@ -27,11 +27,6 @@ os.chdir(temp_path)
 
 tp = sys.argv[1]
 tp_path = "./" + tp + ".txt"
-KADomains_path = "./KADomains.txt"
-
-download(KADomains_path,
-         "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt")
-
 
 if tp == "CERT":
     download(tp_path, "https://hole.cert.pl/domains/v2/domains.txt")
@@ -43,29 +38,26 @@ elif tp == "LWS":
 
 unnecessary_pat = re.compile(r"^(#|!)")
 
-if tp != "CERT":
-    with open(KADomains_path, "r", encoding='utf-8') as KADhosts, \
-            NamedTemporaryFile(dir='.', delete=False, mode="w", encoding='utf-8') as f_out:
-        lines = []
-        for line in KADhosts:
-            line = line.strip()
-            if not unnecessary_pat.match(line):
-                lines.append(re.sub(r"^www\.", "", line))
-        for line in sorted(set(lines)):
-            f_out.write(f"{line}\n")
-        del lines
-    os.rename(f_out.name, KADomains_path)
-
 cleanup3p(tp_path)
 
 expired_path = pj(main_path, "exclusions", tp + "_expired.txt")
 
 KADomains_list = {}
+KADomains_parts = ["podejrzane_inne_oszustwa.txt", "przekierowujace_do_przekretow.txt", "szybko_wygaszajace.txt", "przekrety.txt", "blogspot.txt"]
+
 if tp != "CERT":
-    with open(KADomains_path, "r", encoding='utf-8') as KADhosts:
-        for line in KADhosts:
+    KADomains_parts.append("przekrety_CERT.txt")
+
+for KADomains_part in KADomains_parts:
+    with open(pj(main_path, "sections", KADomains_part), "r", encoding='utf-8') as KADomains_part_content:
+        for line in KADomains_part_content:
             line = line.strip()
-            if line != "":
+            if line != "" and re.match(r"^(0\.0\.0\.0.*|\|\|(?!.*\/).*\^(\$all)?$)", line):
+                convertItems = [(r"^[|][|]", ""),
+                                (r"\^\$all$", ""),
+                                (r"[\^]$", "")]
+                for old, new in convertItems:
+                    line = re.sub(old, new, line)
                 KADomains_list[line] = ""
 
 novelties = {}
