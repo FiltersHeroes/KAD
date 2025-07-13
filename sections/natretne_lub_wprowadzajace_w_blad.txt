@@ -1,7 +1,7 @@
 ##a[href^="/fb-login"]
 ##body > .container:not([id]):only-child:has(> h1:first-child ~ table:not([id]):not([class]):only-of-type ~ div.dconts:not([id]):last-child)
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
-/^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,important,reason="Szkoldiwy asystent pobierania na dobreprogramy lub np. softonic",domain=cloudfront.net,to=cloudfront.net,important
+/^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,important,reason="Szkoldiwy asystent pobierania na dobreprogramy lub np. softonic",domain=cloudfront.net,to=cloudfront.net
 @@||blocked-site-hole-cert.pl^$domain=lista.cert.pl
 ||digitogy.eu^$all
 ||displaymovies.pl^$all
