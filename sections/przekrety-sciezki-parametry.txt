@@ -39,7 +39,7 @@
 /uploads/*.xml$doc,to=europartner.com.pl|zdrowiedlawszystkich.pl
 /userfiles/*.xml$doc,to=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl
 /ym.html?email=*@$doc,frame
-/ym.html?email=*@$doc,reason="to-moze-byc-phishing",important
+/ym.html?email=*@$doc,important,reason="to-moze-byc-phishing"
 /zcvisitor/*?campaignid$doc
 ?zoneid=*&cost=0.$doc
 ^s1=*&click_id=$doc
