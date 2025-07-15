@@ -55,7 +55,7 @@
 ||chomikuj*.opx.pl^$all,domain=pl
 ||chomikuj.$doc,to=~chomikuj.pl
 ||czyjtonumer.net^$doc,to=czyjtonumer.net
-||czyjtonumer.net^$doc,to=czyjtonumer.net,important,reason="Uważaj na oferowany przez nich pakiet premium"
+||czyjtonumer.net^$doc,to=czyjtonumer.net,reason="Uważaj na oferowany przez nich pakiet premium"
 ||dates-here-now*.com^$all
 ||dating-4-adults*.com^$all
 ||dating-heart*.com^$all
@@ -83,9 +83,9 @@
 ||hosting*.online.pro^$doc
 ||inform*.is-best.net^$all
 ||inpost.pl-*.$doc,to=~inpost.pl
-||inpost.pl-*.$doc,to=~inpost.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||inpost.pl-*.$doc,to=~inpost.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||inpost.pl.*.$doc,to=~inpost.pl
-||inpost.pl.*.$doc,to=~inpost.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||inpost.pl.*.$doc,to=~inpost.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||instasexlocator*.com^$all
 ||komornik*-gov.tk^$all
 ||legalniewsieci.$doc,to=~legalniewsieci.pl
@@ -106,51 +106,51 @@
 ||ogloszenie-kupteraz-*.$all
 ||ogloszeniie-kupteraz-pl-*.$all
 ||olx-deliver.$all,domain=~olx.pl
-||olx-deliver.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-deliver.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-delivers.$all,domain=~olx.pl
-||olx-delivers.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-delivers.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-delivery-*.$all,domain=~olx.pl
-||olx-delivery-*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-delivery-*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-delivery.$all,domain=~olx.pl
-||olx-delivery.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-delivery.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-dostava.$all,domain=~olx.pl
-||olx-dostava.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-dostava.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-dostawa.$all,domain=~olx.pl
-||olx-dostawa.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-dostawa.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-oferta.$all,domain=~olx.pl
-||olx-oferta.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-oferta.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-offerta.$all,domain=~olx.pl
-||olx-offerta.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-offerta.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-pl-delivery.$all,domain=~olx.pl
-||olx-pl-delivery.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-pl-delivery.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-pl-dostava.$all,domain=~olx.pl
-||olx-pl-dostava.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-pl-dostava.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-pl-dostawa.$all,domain=~olx.pl
-||olx-pl-dostawa.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-pl-dostawa.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-pl-id-*.$all,domain=~olx.pl
-||olx-pl-id-*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-pl-id-*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-pl-id.$all,domain=~olx.pl
-||olx-pl-id.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-pl-id.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-poland.$all,domain=~olx.pl
-||olx-poland.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-poland.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-polands.$all,domain=~olx.pl
-||olx-polands.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-polands.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-przesylk*.$all,domain=~olx.pl
-||olx-przesylk*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-przesylk*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-transfer.$all,domain=~olx.pl
-||olx-transfer.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-transfer.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx-zamowienie.$all,domain=~olx.pl
-||olx-zamowienie.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx-zamowienie.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx.pl-*.$doc,to=~olx.pl
-||olx.pl-*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx.pl-*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olx.pl.*.$doc,to=~olx.pl
-||olx.pl.*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olx.pl.*.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olxdostawa.$all,domain=~olx.pl
-||olxdostawa.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olxdostawa.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olxpl-dostawa.$all,domain=~olx.pl
-||olxpl-dostawa.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olxpl-dostawa.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||olxpl-order.$all,domain=~olx.pl
-||olxpl-order.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką",important
+||olxpl-order.$doc,to=~olx.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||paiementhome-pl-*.*.$all
 ||paiementnazwa-pl-*.*.$all
 ||parcel.*.nildenaksoy.com^$all
