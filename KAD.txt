@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 19 Jul 2025, 10:29 UTC+02:00
-! Version: 2025.7.19.0
+! Last modified: Sat, 19 Jul 2025, 14:45 UTC+02:00
+! Version: 2025.7.19.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -4776,6 +4776,7 @@
 ||alebilet.id324.eu^$all
 ||alebilet.id534.pl^$all
 ||alebilet.id2847.pl^$all
+||alebilet.id3291.pl^$all
 ||alebilet.id4441.pl^$all
 ||alebilet.id4663.pl^$all
 ||alebilet.id6642.pl^$all
@@ -4817,6 +4818,7 @@
 ||alebilet.oferta42539009.shop^$all
 ||alebilet.oferta63816492.com^$all
 ||alebilet.oferta99582345.cfd^$all
+||alebilet.oferta150125121.sbs^$all
 ||alebilet.oferta425353529.shop^$all
 ||alebilet.oferta425395609.cfd^$all
 ||alebilet.oferta435353529.shop^$all
@@ -4972,6 +4974,7 @@
 ||alebilet.oferta-5029172.cfd^$all
 ||alebilet.oferta-5083176.icu^$all
 ||alebilet.oferta-5178710.sbs^$all
+||alebilet.oferta-5203897.cfd^$all
 ||alebilet.oferta-5205282.cfd^$all
 ||alebilet.oferta-5219677.shop^$all
 ||alebilet.oferta-05381762.cfd^$all
@@ -5167,6 +5170,7 @@
 ||alebilet.pi-aukcja.cfd^$all
 ||alebilet.pi-id3118.icu^$all
 ||alebilet.pi-id34588.icu^$all
+||alebilet.pi-katlegoria-ogrodowe-0xc98bv.rest^$all
 ||alebilet.pi-oferta5222739381.icu^$all
 ||alebilet.pi-oferta-207126216.rest^$all
 ||alebilet.pi-oferta-3001375827.rest^$all
@@ -5651,6 +5655,7 @@
 ||alebilet.pl-kategorie91237714278123.icu^$all
 ||alebilet.pl-kategorie267287266862739.icu^$all
 ||alebilet.pl-kategorie712714712692566.icu^$all
+||alebilet.pl-kategorie712773124612612.sbs^$all
 ||alebilet.pl-kategorie812367127471274.icu^$all
 ||alebilet.pl-kategorie812371723717212.icu^$all
 ||alebilet.pl-kategorie812741764422751.icu^$all
@@ -6197,6 +6202,7 @@
 ||alebilet.pl-oferta5613398.icu^$all
 ||alebilet.pl-oferta5650637.shop^$all
 ||alebilet.pl-oferta5653392.icu^$all
+||alebilet.pl-oferta5669595.cfd^$all
 ||alebilet.pl-oferta5680053.sbs^$all
 ||alebilet.pl-oferta5680524.icu^$all
 ||alebilet.pl-oferta5697019.icu^$all
@@ -6463,6 +6469,7 @@
 ||alebilet.pl-oferta82634283.com^$all
 ||alebilet.pl-oferta84364924.icu^$all
 ||alebilet.pl-oferta85559642.icu^$all
+||alebilet.pl-oferta86329632.shop^$all
 ||alebilet.pl-oferta89371243.icu^$all
 ||alebilet.pl-oferta90620682.cfd^$all
 ||alebilet.pl-oferta093442345.sbs^$all
@@ -7354,6 +7361,7 @@
 ||allegro.oferta9513207.shop^$all
 ||allegro.oferta42539009.shop^$all
 ||allegro.oferta63816492.com^$all
+||allegro.oferta150125121.sbs^$all
 ||allegro.oferta425353529.shop^$all
 ||allegro.oferta425395609.cfd^$all
 ||allegro.oferta435353529.shop^$all
@@ -7702,6 +7710,7 @@
 ||allegro.pi-aukcja.cfd^$all
 ||allegro.pi-id3118.icu^$all
 ||allegro.pi-id34588.icu^$all
+||allegro.pi-katlegoria-ogrodowe-0xc98bv.rest^$all
 ||allegro.pi-oferta5222739381.icu^$all
 ||allegro.pi-oferta-207126216.rest^$all
 ||allegro.pi-oferta-3001375827.rest^$all
@@ -8214,6 +8223,7 @@
 ||allegro.pl-kategorie91237714278123.icu^$all
 ||allegro.pl-kategorie267287266862739.icu^$all
 ||allegro.pl-kategorie712714712692566.icu^$all
+||allegro.pl-kategorie712773124612612.sbs^$all
 ||allegro.pl-kategorie812367127471274.icu^$all
 ||allegro.pl-kategorie812371723717212.icu^$all
 ||allegro.pl-kategorie812741764422751.icu^$all
@@ -8743,6 +8753,7 @@
 ||allegro.pl-oferta5613398.icu^$all
 ||allegro.pl-oferta5650637.shop^$all
 ||allegro.pl-oferta5653392.icu^$all
+||allegro.pl-oferta5669595.cfd^$all
 ||allegro.pl-oferta5680053.sbs^$all
 ||allegro.pl-oferta5680524.icu^$all
 ||allegro.pl-oferta5697019.icu^$all
@@ -9009,6 +9020,7 @@
 ||allegro.pl-oferta82634283.com^$all
 ||allegro.pl-oferta84364924.icu^$all
 ||allegro.pl-oferta85559642.icu^$all
+||allegro.pl-oferta86329632.shop^$all
 ||allegro.pl-oferta89371243.icu^$all
 ||allegro.pl-oferta90620682.cfd^$all
 ||allegro.pl-oferta093442345.sbs^$all
@@ -10507,6 +10519,7 @@
 ||allegrolokalnie.oferta78536732.com^$all
 ||allegrolokalnie.oferta86268354.com^$all
 ||allegrolokalnie.oferta86493641.com^$all
+||allegrolokalnie.oferta150125121.sbs^$all
 ||allegrolokalnie.oferta425353529.shop^$all
 ||allegrolokalnie.oferta425395609.cfd^$all
 ||allegrolokalnie.oferta435353529.shop^$all
@@ -10940,6 +10953,7 @@
 ||allegrolokalnie.pi-kategorie-ogrodowe-75345.rest^$all
 ||allegrolokalnie.pi-kategorie-ogrodowe-84264.xyz^$all
 ||allegrolokalnie.pi-kategorie-ogrodowe-strona-93.rest^$all
+||allegrolokalnie.pi-katlegoria-ogrodowe-0xc98bv.rest^$all
 ||allegrolokalnie.pi-katlegorie-ogrodove-98x3v27.xyz^$all
 ||allegrolokalnie.pi-oferta48901.icu^$all
 ||allegrolokalnie.pi-oferta00214421.icu^$all
@@ -11244,7 +11258,6 @@
 ||allegrolokalnie.pl-83949.cfd^$all
 ||allegrolokalnie.pl-84378.cfd^$all
 ||allegrolokalnie.pl-84712.icu^$all
-||allegrolokalnie.pl-85326.icu^$all
 ||allegrolokalnie.pl-86479.cfd^$all
 ||allegrolokalnie.pl-87293.cfd^$all
 ||allegrolokalnie.pl-87301.cfd^$all
@@ -11781,6 +11794,7 @@
 ||allegrolokalnie.pl-kategorie91237714278123.icu^$all
 ||allegrolokalnie.pl-kategorie267287266862739.icu^$all
 ||allegrolokalnie.pl-kategorie712714712692566.icu^$all
+||allegrolokalnie.pl-kategorie712773124612612.sbs^$all
 ||allegrolokalnie.pl-kategorie812367127471274.icu^$all
 ||allegrolokalnie.pl-kategorie812371723717212.icu^$all
 ||allegrolokalnie.pl-kategorie812741764422751.icu^$all
@@ -12436,6 +12450,7 @@
 ||allegrolokalnie.pl-oferta5613398.icu^$all
 ||allegrolokalnie.pl-oferta5650637.shop^$all
 ||allegrolokalnie.pl-oferta5653392.icu^$all
+||allegrolokalnie.pl-oferta5669595.cfd^$all
 ||allegrolokalnie.pl-oferta5680053.sbs^$all
 ||allegrolokalnie.pl-oferta5680524.icu^$all
 ||allegrolokalnie.pl-oferta5697019.icu^$all
@@ -12749,6 +12764,7 @@
 ||allegrolokalnie.pl-oferta82634283.com^$all
 ||allegrolokalnie.pl-oferta84364924.icu^$all
 ||allegrolokalnie.pl-oferta85559642.icu^$all
+||allegrolokalnie.pl-oferta86329632.shop^$all
 ||allegrolokalnie.pl-oferta88101029.cfd^$all
 ||allegrolokalnie.pl-oferta89371243.icu^$all
 ||allegrolokalnie.pl-oferta90620682.cfd^$all
@@ -18052,7 +18068,6 @@
 ||biljoma.pics^$all
 ||bill.exone-web.pl^$all
 ||bill.pointblankproductions.in^$all
-||bill.tipografies.com^$all
 ||billdisnemail.com^$all
 ||billemailsoy.help^$all
 ||billeraapp.com^$all
@@ -22255,7 +22270,6 @@
 ||cazkazenonixapp.com^$all
 ||cazkazenonixapp.net^$all
 ||cazuwuo.com^$all
-||cazyvye.com^$all
 ||cbcards.net^$all
 ||cbchannelinfo.com^$all
 ||cbddealernews.com^$all
@@ -31923,7 +31937,6 @@
 ||dutyfirstlogistics.com^$all
 ||duvemo-lozoco.pics^$all
 ||duvidoo.com^$all
-||duvuwo.basspulse22.com^$all
 ||duwayo-cubogu.pics^$all
 ||duweqif.com^$all
 ||duwesie.com^$all
@@ -32967,6 +32980,7 @@
 ||elspecmexico.com^$all
 ||eltacouriers.site^$all
 ||eltendalvintage.com^$all
+||eltrixapp.store^$all
 ||eltsunamitecnologico.com^$all
 ||elucichlor.com^$all
 ||eludeatten.pro^$all
@@ -42956,6 +42970,7 @@
 ||hiwituu1.pro^$all
 ||hiwizei.com^$all
 ||hix6eba.pics^$all
+||hixecey.com^$all
 ||hiyaso-poneco.site^$all
 ||hiyo.tech-fizz.com^$all
 ||hiyu.metaengisignal.com^$all
@@ -45626,7 +45641,6 @@
 ||inapost.top^$all
 ||inappnauti.pro^$all
 ||inappritor.pro^$all
-||inapuozsit.top^$all
 ||inarchesnski.info^$all
 ||inarcstraf.pro^$all
 ||inardgitta.pro^$all
@@ -50714,6 +50728,7 @@
 ||killeaquin.pro^$all
 ||killeencabinets.com^$all
 ||killinonat.pro^$all
+||kilommoral.pro^$all
 ||kilomorang.pro^$all
 ||kilomporzi.pro^$all
 ||kilopra.pics^$all
@@ -55183,6 +55198,7 @@
 ||mana-fever.com^$all
 ||manage-authentification-215.newgencards.com^$all
 ||manage-ringgo.com^$all
+||manage-sale.click^$all
 ||manage-youraccount.com^$all
 ||manageablefd.info^$all
 ||managecanall.com^$all
@@ -57379,6 +57395,7 @@
 ||mixeruntro.pro^$all
 ||mixexae.pro^$all
 ||mixgopro.com^$all
+||mixogye.com^$all
 ||mixolita.online^$all
 ||mixymio.com^$all
 ||mixzonestudio63.sbs^$all
@@ -57638,6 +57655,7 @@
 ||mojoboyz.com^$all
 ||mojobyw.sbs^$all
 ||mojseans.pl^$all
+||mojzielonyraj.shop^$all
 ||mokadpinny.pro^$all
 ||mokaro.top^$all
 ||mokaryo.club^$all
@@ -61335,6 +61353,7 @@
 ||noxpira7.pics^$all
 ||noxroma.store^$all
 ||noxt.nextprogi.top^$all
+||noxyjea.com^$all
 ||noyuro-gelebo.site^$all
 ||nozicya5.pro^$all
 ||nozipe-jafowi.pro^$all
@@ -61929,6 +61948,7 @@
 ||oferta9513207.shop^$all
 ||oferta42539009.shop^$all
 ||oferta63816492.com^$all
+||oferta150125121.sbs^$all
 ||oferta425353529.shop^$all
 ||oferta425395609.cfd^$all
 ||oferta435353529.shop^$all
@@ -63126,7 +63146,6 @@
 ||olx-pl.mudpels.cfd^$all
 ||olx-pl.nadioler.sbs^$all
 ||olx-pl.nahcrem.cfd^$all
-||olx-pl.nametof.sbs^$all
 ||olx-pl.navalork.sbs^$all
 ||olx-pl.navdru.life^$all
 ||olx-pl.navipelkim.sbs^$all
@@ -63689,6 +63708,7 @@
 ||olx.oferta9375993.shop^$all
 ||olx.oferta42539009.shop^$all
 ||olx.oferta63816492.com^$all
+||olx.oferta150125121.sbs^$all
 ||olx.oferta425353529.shop^$all
 ||olx.oferta425395609.cfd^$all
 ||olx.oferta435353529.shop^$all
@@ -64036,6 +64056,7 @@
 ||olx.pi-aukcja.cfd^$all
 ||olx.pi-id3118.icu^$all
 ||olx.pi-id34588.icu^$all
+||olx.pi-katlegoria-ogrodowe-0xc98bv.rest^$all
 ||olx.pi-oferta5222739381.icu^$all
 ||olx.pi-oferta-207126216.rest^$all
 ||olx.pi-oferta-3001375827.rest^$all
@@ -64585,6 +64606,7 @@
 ||olx.pl-kategorie91237714278123.icu^$all
 ||olx.pl-kategorie267287266862739.icu^$all
 ||olx.pl-kategorie712714712692566.icu^$all
+||olx.pl-kategorie712773124612612.sbs^$all
 ||olx.pl-kategorie812367127471274.icu^$all
 ||olx.pl-kategorie812371723717212.icu^$all
 ||olx.pl-kategorie812741764422751.icu^$all
@@ -65127,6 +65149,7 @@
 ||olx.pl-oferta5613398.icu^$all
 ||olx.pl-oferta5650637.shop^$all
 ||olx.pl-oferta5653392.icu^$all
+||olx.pl-oferta5669595.cfd^$all
 ||olx.pl-oferta5680053.sbs^$all
 ||olx.pl-oferta5680524.icu^$all
 ||olx.pl-oferta5697019.icu^$all
@@ -65395,6 +65418,7 @@
 ||olx.pl-oferta83472304.icu^$all
 ||olx.pl-oferta84364924.icu^$all
 ||olx.pl-oferta85559642.icu^$all
+||olx.pl-oferta86329632.shop^$all
 ||olx.pl-oferta89371243.icu^$all
 ||olx.pl-oferta90620682.cfd^$all
 ||olx.pl-oferta093442345.sbs^$all
@@ -65823,6 +65847,7 @@
 ||olx.saivmle.cfd^$all
 ||olx.sdetehna.cfd^$all
 ||olx.securetransaction24wygodnaplatnosc24h.cfd^$all
+||olx.securetransaction24wygodnaplatnosc24h.sbs^$all
 ||olx.seonsil.sbs^$all
 ||olx.sfole.cfd^$all
 ||olx.sfyjoler.cfd^$all
@@ -69331,6 +69356,7 @@
 ||pi-aukcja.cfd^$all
 ||pi-id3118.icu^$all
 ||pi-id34588.icu^$all
+||pi-katlegoria-ogrodowe-0xc98bv.rest^$all
 ||pi-oferta5222739381.icu^$all
 ||pi-oferta-207126216.rest^$all
 ||pi-oferta-3001375827.rest^$all
@@ -70377,6 +70403,7 @@
 ||pl-kategorie91237714278123.icu^$all
 ||pl-kategorie267287266862739.icu^$all
 ||pl-kategorie712714712692566.icu^$all
+||pl-kategorie712773124612612.sbs^$all
 ||pl-kategorie812367127471274.icu^$all
 ||pl-kategorie812371723717212.icu^$all
 ||pl-kategorie812741764422751.icu^$all
@@ -70920,6 +70947,7 @@
 ||pl-oferta5613398.icu^$all
 ||pl-oferta5650637.shop^$all
 ||pl-oferta5653392.icu^$all
+||pl-oferta5669595.cfd^$all
 ||pl-oferta5680053.sbs^$all
 ||pl-oferta5680524.icu^$all
 ||pl-oferta5697019.icu^$all
@@ -71181,6 +71209,7 @@
 ||pl-oferta82634283.com^$all
 ||pl-oferta84364924.icu^$all
 ||pl-oferta85559642.icu^$all
+||pl-oferta86329632.shop^$all
 ||pl-oferta89371243.icu^$all
 ||pl-oferta90620682.cfd^$all
 ||pl-oferta093442345.sbs^$all
@@ -76800,6 +76829,7 @@
 ||raseko-panado.site^$all
 ||rasencrede.pro^$all
 ||rasensbarb.pro^$all
+||rasevya.com^$all
 ||rashnessmoke.com^$all
 ||rasiabowel.pro^$all
 ||rasida-texife.site^$all
@@ -81761,6 +81791,7 @@
 ||searhrt.com^$all
 ||seasetcounsl.com^$all
 ||seasidedonkey.com^$all
+||season-price-for-ipad.world^$all
 ||seasonalgrainsurbanhomestead.com^$all
 ||seasoned-sphenoid-soprano.glitch.me^$all
 ||seat1atravel.net^$all
@@ -83076,7 +83107,6 @@
 ||shop.pcqbcu.top^$all
 ||shop.phone-shopper.top^$all
 ||shop.prizescanner.top^$all
-||shop.pxeedr.top^$all
 ||shop.rbsosg.top^$all
 ||shop.stanlay-store.com^$all
 ||shop.tdbtdbb.shop^$all
@@ -89878,6 +89908,7 @@
 ||telegrfvb.ink^$all
 ||telegsrhpd.bond^$all
 ||telegtgrf.hair^$all
+||telegtqew.ren^$all
 ||telegtrqw.cab^$all
 ||telegtyou.ren^$all
 ||telegvctb.ltd^$all
@@ -97638,6 +97669,7 @@
 ||vlnted-se.ekotovary.shop^$all
 ||vlnted.882542819.cfd^$all
 ||vlnted.5713423411.cfd^$all
+||vlnted.form71324.cfd^$all
 ||vlnted.form74271.world^$all
 ||vlnted.offer95821.help^$all
 ||vlo.cura-ipertensione.info^$all
@@ -100441,7 +100473,6 @@
 ||wv6flr.cc^$all
 ||wv7esi3sl2915ha73ib8ra9c.weddingblye.com^$all
 ||wvbvd22ttq29ch69jgaq0v62.gadgetsbask.com^$all
-||wvd6mjvhn1p64257jcsc450r.techblize.com^$all
 ||wvmet.apeweae.top^$all
 ||wvqbla7ki1n980793rbeh2b0.gadgetsblish.com^$all
 ||wvs.troove.top^$all
