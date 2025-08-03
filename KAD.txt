@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 02 Aug 2025, 22:25 UTC+02:00
-! Version: 2025.8.2.3
+! Last modified: Sun, 03 Aug 2025, 04:43 UTC+02:00
+! Version: 2025.8.3.0
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1655,7 +1655,6 @@
 ||0-lx.35300934.xyz^$all
 ||0-lx.64365457.xyz^$all
 ||0-lx.76909543.xyz^$all
-||0-lx.090535422.xyz^$all
 ||0-lx.95463953.xyz^$all
 ||0-lx.656747882.xyz^$all
 ||0-lz.46847653.xyz^$all
@@ -5007,6 +5006,7 @@
 ||alebilet.oferta-4978904.shop^$all
 ||alebilet.oferta-5029172.cfd^$all
 ||alebilet.oferta-5083176.icu^$all
+||alebilet.oferta-5133966.shop^$all
 ||alebilet.oferta-5178710.sbs^$all
 ||alebilet.oferta-5203897.cfd^$all
 ||alebilet.oferta-5205282.cfd^$all
@@ -5658,9 +5658,11 @@
 ||alebilet.pl-kategoria73861859572685.shop^$all
 ||alebilet.pl-kategoria78123678314768.shop^$all
 ||alebilet.pl-kategoria81924124871468.sbs^$all
+||alebilet.pl-kategoria179851948267378.shop^$all
 ||alebilet.pl-kategoria189723348925136.shop^$all
 ||alebilet.pl-kategoria781871512867234.shop^$all
 ||alebilet.pl-kategoria812317271214512.icu^$all
+||alebilet.pl-kategoria1785217652812763.shop^$all
 ||alebilet.pl-kategoria-27125.sbs^$all
 ||alebilet.pl-kategoria-garaz-i-narzedzia-13.click^$all
 ||alebilet.pl-kategoria-inne231787346.rest^$all
@@ -6349,9 +6351,11 @@
 ||alebilet.pl-oferta2693800.shop^$all
 ||alebilet.pl-oferta2732553.icu^$all
 ||alebilet.pl-oferta2738292.sbs^$all
+||alebilet.pl-oferta2749265.sbs^$all
 ||alebilet.pl-oferta2750120.icu^$all
 ||alebilet.pl-oferta2784529.shop^$all
 ||alebilet.pl-oferta2802741.cfd^$all
+||alebilet.pl-oferta2837296.sbs^$all
 ||alebilet.pl-oferta2837329.sbs^$all
 ||alebilet.pl-oferta2842987.sbs^$all
 ||alebilet.pl-oferta2844029.sbs^$all
@@ -7010,12 +7014,15 @@
 ||alebilet.pl-ogloszenia-firmowe-83931.com^$all
 ||alebilet.pl-ogloszenia-firmowe-83935.com^$all
 ||alebilet.pl-ogloszenia-firmowe-88319.com^$all
+||alebilet.pl-ogloszenia-firmowe-88893.icu^$all
 ||alebilet.pl-ogloszenia-firmowe-92193.cfd^$all
 ||alebilet.pl-ogloszenia-firmowe-361991.cfd^$all
 ||alebilet.pl-ogloszenia-firmowe-391851.icu^$all
 ||alebilet.pl-ogloszenia-firmowe-858126.icu^$all
 ||alebilet.pl-ogloszenia-firmowe-888293.icu^$all
 ||alebilet.pl-ogloszenia-firmowe-888924.icu^$all
+||alebilet.pl-ogloszenia-firmowe-888927.icu^$all
+||alebilet.pl-ogloszenia-firmowe-888929.icu^$all
 ||alebilet.pl-ogloszenia-firmowe-931242.cfd^$all
 ||alebilet.pl-ogloszenia-firmowe-935124.cfd^$all
 ||alebilet.pl-ogloszenia-firmowe-935124.icu^$all
@@ -8009,6 +8016,7 @@
 ||allegro.oferta-4978904.shop^$all
 ||allegro.oferta-5029172.cfd^$all
 ||allegro.oferta-5083176.icu^$all
+||allegro.oferta-5133966.shop^$all
 ||allegro.oferta-5178710.sbs^$all
 ||allegro.oferta-5205282.cfd^$all
 ||allegro.oferta-5219677.shop^$all
@@ -8680,9 +8688,11 @@
 ||allegro.pl-kategoria73861859572685.shop^$all
 ||allegro.pl-kategoria78123678314768.shop^$all
 ||allegro.pl-kategoria81924124871468.sbs^$all
+||allegro.pl-kategoria179851948267378.shop^$all
 ||allegro.pl-kategoria189723348925136.shop^$all
 ||allegro.pl-kategoria781871512867234.shop^$all
 ||allegro.pl-kategoria812317271214512.icu^$all
+||allegro.pl-kategoria1785217652812763.shop^$all
 ||allegro.pl-kategoria-27125.sbs^$all
 ||allegro.pl-kategoria-garaz-i-narzedzia-13.click^$all
 ||allegro.pl-kategoria-inne231787346.rest^$all
@@ -9354,9 +9364,11 @@
 ||allegro.pl-oferta2693800.shop^$all
 ||allegro.pl-oferta2732553.icu^$all
 ||allegro.pl-oferta2738292.sbs^$all
+||allegro.pl-oferta2749265.sbs^$all
 ||allegro.pl-oferta2750120.icu^$all
 ||allegro.pl-oferta2784529.shop^$all
 ||allegro.pl-oferta2802741.cfd^$all
+||allegro.pl-oferta2837296.sbs^$all
 ||allegro.pl-oferta2837329.sbs^$all
 ||allegro.pl-oferta2842987.sbs^$all
 ||allegro.pl-oferta2844029.sbs^$all
@@ -10016,12 +10028,15 @@
 ||allegro.pl-ogloszenia-firmowe-83931.com^$all
 ||allegro.pl-ogloszenia-firmowe-83935.com^$all
 ||allegro.pl-ogloszenia-firmowe-88319.com^$all
+||allegro.pl-ogloszenia-firmowe-88893.icu^$all
 ||allegro.pl-ogloszenia-firmowe-92193.cfd^$all
 ||allegro.pl-ogloszenia-firmowe-361991.cfd^$all
 ||allegro.pl-ogloszenia-firmowe-391851.icu^$all
 ||allegro.pl-ogloszenia-firmowe-858126.icu^$all
 ||allegro.pl-ogloszenia-firmowe-888293.icu^$all
 ||allegro.pl-ogloszenia-firmowe-888924.icu^$all
+||allegro.pl-ogloszenia-firmowe-888927.icu^$all
+||allegro.pl-ogloszenia-firmowe-888929.icu^$all
 ||allegro.pl-ogloszenia-firmowe-931242.cfd^$all
 ||allegro.pl-ogloszenia-firmowe-935124.cfd^$all
 ||allegro.pl-ogloszenia-firmowe-935124.icu^$all
@@ -11003,7 +11018,6 @@
 ||allegrolokalnie.10y.icu^$all
 ||allegrolokalnie.17y91v0.icu^$all
 ||allegrolokalnie.48-274828.xyz^$all
-||allegrolokalnie.48c.rest^$all
 ||allegrolokalnie.51c.rest^$all
 ||allegrolokalnie.53-sfs-5387532.xyz^$all
 ||allegrolokalnie.85xc.rest^$all
@@ -11663,6 +11677,7 @@
 ||allegrolokalnie.oferta-4978904.shop^$all
 ||allegrolokalnie.oferta-5029172.cfd^$all
 ||allegrolokalnie.oferta-5083176.icu^$all
+||allegrolokalnie.oferta-5133966.shop^$all
 ||allegrolokalnie.oferta-5178710.sbs^$all
 ||allegrolokalnie.oferta-5205282.cfd^$all
 ||allegrolokalnie.oferta-5219677.shop^$all
@@ -12315,7 +12330,6 @@
 ||allegrolokalnie.pl-98264.cfd^$all
 ||allegrolokalnie.pl-98374.cfd^$all
 ||allegrolokalnie.pl-98412.icu^$all
-||allegrolokalnie.pl-98421.rest^$all
 ||allegrolokalnie.pl-98749.cfd^$all
 ||allegrolokalnie.pl-98983.icu^$all
 ||allegrolokalnie.pl-99017.cfd^$all
@@ -12748,9 +12762,11 @@
 ||allegrolokalnie.pl-kategoria73861859572685.shop^$all
 ||allegrolokalnie.pl-kategoria78123678314768.shop^$all
 ||allegrolokalnie.pl-kategoria81924124871468.sbs^$all
+||allegrolokalnie.pl-kategoria179851948267378.shop^$all
 ||allegrolokalnie.pl-kategoria189723348925136.shop^$all
 ||allegrolokalnie.pl-kategoria781871512867234.shop^$all
 ||allegrolokalnie.pl-kategoria812317271214512.icu^$all
+||allegrolokalnie.pl-kategoria1785217652812763.shop^$all
 ||allegrolokalnie.pl-kategoria-27125.sbs^$all
 ||allegrolokalnie.pl-kategoria-436732.icu^$all
 ||allegrolokalnie.pl-kategoria-garaz-i-narzedzia-13.click^$all
@@ -13539,11 +13555,13 @@
 ||allegrolokalnie.pl-oferta2693800.shop^$all
 ||allegrolokalnie.pl-oferta2732553.icu^$all
 ||allegrolokalnie.pl-oferta2738292.sbs^$all
+||allegrolokalnie.pl-oferta2749265.sbs^$all
 ||allegrolokalnie.pl-oferta2750120.icu^$all
 ||allegrolokalnie.pl-oferta2784529.shop^$all
 ||allegrolokalnie.pl-oferta2785847.icu^$all
 ||allegrolokalnie.pl-oferta2802741.cfd^$all
 ||allegrolokalnie.pl-oferta2821486.icu^$all
+||allegrolokalnie.pl-oferta2837296.sbs^$all
 ||allegrolokalnie.pl-oferta2837329.sbs^$all
 ||allegrolokalnie.pl-oferta2842987.sbs^$all
 ||allegrolokalnie.pl-oferta2844029.sbs^$all
@@ -14285,12 +14303,15 @@
 ||allegrolokalnie.pl-ogloszenia-firmowe-83931.com^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-83935.com^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-88319.com^$all
+||allegrolokalnie.pl-ogloszenia-firmowe-88893.icu^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-92193.cfd^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-361991.cfd^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-391851.icu^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-858126.icu^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-888293.icu^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-888924.icu^$all
+||allegrolokalnie.pl-ogloszenia-firmowe-888927.icu^$all
+||allegrolokalnie.pl-ogloszenia-firmowe-888929.icu^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-931242.cfd^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-935124.cfd^$all
 ||allegrolokalnie.pl-ogloszenia-firmowe-935124.icu^$all
@@ -21463,7 +21484,6 @@
 ||boxedctwisted.lat^$all
 ||boxeguarifguastanis.com^$all
 ||boxen.metplxx.com^$all
-||boxesaruisgusta.com^$all
 ||boxfidolci.pro^$all
 ||boxi.freetheme.top^$all
 ||boxing-sale.click^$all
@@ -48636,6 +48656,7 @@
 ||inespaccor.com^$all
 ||inestmonte.pro^$all
 ||inestzealo.pro^$all
+||inetzreact.com^$all
 ||ineucd.top^$all
 ||ineurobot.com^$all
 ||inevaeffet.pro^$all
@@ -53070,6 +53091,7 @@
 ||kazakinskiy.store^$all
 ||kazancai.cyou^$all
 ||kazaronline.shop^$all
+||kazarrssalee.shop^$all
 ||kazarssale.shop^$all
 ||kazarssales.shop^$all
 ||kazcrapor.cfd^$all
@@ -60973,7 +60995,6 @@
 ||morvedre.com^$all
 ||morvedreturismo.com^$all
 ||morvento.lat^$all
-||mosahee.store^$all
 ||mosaiccremation.com^$all
 ||mosaiccremationservices.com^$all
 ||mosaicecho.pro^$all
@@ -63167,6 +63188,7 @@
 ||nexonixprofit.net^$all
 ||nexonixprofitapp.net^$all
 ||nexonkraft.info^$all
+||nexonkraft.shop^$all
 ||nexonova.online^$all
 ||nexopedia.info^$all
 ||nexopoint.site^$all
@@ -65202,6 +65224,7 @@
 ||oferta-4978904.shop^$all
 ||oferta-5029172.cfd^$all
 ||oferta-5083176.icu^$all
+||oferta-5133966.shop^$all
 ||oferta-5178710.sbs^$all
 ||oferta-5205282.cfd^$all
 ||oferta-5219677.shop^$all
@@ -66951,6 +66974,7 @@
 ||olx.oferta-4978904.shop^$all
 ||olx.oferta-5029172.cfd^$all
 ||olx.oferta-5083176.icu^$all
+||olx.oferta-5133966.shop^$all
 ||olx.oferta-5178710.sbs^$all
 ||olx.oferta-5205282.cfd^$all
 ||olx.oferta-5219677.shop^$all
@@ -67663,9 +67687,11 @@
 ||olx.pl-kategoria73861859572685.shop^$all
 ||olx.pl-kategoria78123678314768.shop^$all
 ||olx.pl-kategoria81924124871468.sbs^$all
+||olx.pl-kategoria179851948267378.shop^$all
 ||olx.pl-kategoria189723348925136.shop^$all
 ||olx.pl-kategoria781871512867234.shop^$all
 ||olx.pl-kategoria812317271214512.icu^$all
+||olx.pl-kategoria1785217652812763.shop^$all
 ||olx.pl-kategoria-27125.sbs^$all
 ||olx.pl-kategoria-garaz-i-narzedzia-13.click^$all
 ||olx.pl-kategoria-inne231787346.rest^$all
@@ -68353,9 +68379,11 @@
 ||olx.pl-oferta2693800.shop^$all
 ||olx.pl-oferta2732553.icu^$all
 ||olx.pl-oferta2738292.sbs^$all
+||olx.pl-oferta2749265.sbs^$all
 ||olx.pl-oferta2750120.icu^$all
 ||olx.pl-oferta2784529.shop^$all
 ||olx.pl-oferta2802741.cfd^$all
+||olx.pl-oferta2837296.sbs^$all
 ||olx.pl-oferta2837329.sbs^$all
 ||olx.pl-oferta2842987.sbs^$all
 ||olx.pl-oferta2844029.sbs^$all
@@ -69017,12 +69045,15 @@
 ||olx.pl-ogloszenia-firmowe-83931.com^$all
 ||olx.pl-ogloszenia-firmowe-83935.com^$all
 ||olx.pl-ogloszenia-firmowe-88319.com^$all
+||olx.pl-ogloszenia-firmowe-88893.icu^$all
 ||olx.pl-ogloszenia-firmowe-92193.cfd^$all
 ||olx.pl-ogloszenia-firmowe-361991.cfd^$all
 ||olx.pl-ogloszenia-firmowe-391851.icu^$all
 ||olx.pl-ogloszenia-firmowe-858126.icu^$all
 ||olx.pl-ogloszenia-firmowe-888293.icu^$all
 ||olx.pl-ogloszenia-firmowe-888924.icu^$all
+||olx.pl-ogloszenia-firmowe-888927.icu^$all
+||olx.pl-ogloszenia-firmowe-888929.icu^$all
 ||olx.pl-ogloszenia-firmowe-931242.cfd^$all
 ||olx.pl-ogloszenia-firmowe-935124.cfd^$all
 ||olx.pl-ogloszenia-firmowe-935124.icu^$all
@@ -73382,6 +73413,7 @@
 ||pizzialvin.pro^$all
 ||pizziobser.pro^$all
 ||pj-ma.com^$all
+||pjbzm.com^$all
 ||pjetur.com^$all
 ||pjh.tj2hnzaw2.ru^$all
 ||pjjglobalco.com^$all
@@ -73962,9 +73994,11 @@
 ||pl-kategoria73861859572685.shop^$all
 ||pl-kategoria78123678314768.shop^$all
 ||pl-kategoria81924124871468.sbs^$all
+||pl-kategoria179851948267378.shop^$all
 ||pl-kategoria189723348925136.shop^$all
 ||pl-kategoria781871512867234.shop^$all
 ||pl-kategoria812317271214512.icu^$all
+||pl-kategoria1785217652812763.shop^$all
 ||pl-kategoria-27125.sbs^$all
 ||pl-kategoria-garaz-i-narzedzia-13.click^$all
 ||pl-kategoria-inne231787346.rest^$all
@@ -74649,10 +74683,12 @@
 ||pl-oferta2693800.shop^$all
 ||pl-oferta2732553.icu^$all
 ||pl-oferta2738292.sbs^$all
+||pl-oferta2749265.sbs^$all
 ||pl-oferta2750120.icu^$all
 ||pl-oferta2784529.shop^$all
 ||pl-oferta2802741.cfd^$all
 ||pl-oferta2821486.icu^$all
+||pl-oferta2837296.sbs^$all
 ||pl-oferta2837329.sbs^$all
 ||pl-oferta2842987.sbs^$all
 ||pl-oferta2844029.sbs^$all
@@ -75293,12 +75329,15 @@
 ||pl-ogloszenia-firmowe-83931.com^$all
 ||pl-ogloszenia-firmowe-83935.com^$all
 ||pl-ogloszenia-firmowe-88319.com^$all
+||pl-ogloszenia-firmowe-88893.icu^$all
 ||pl-ogloszenia-firmowe-92193.cfd^$all
 ||pl-ogloszenia-firmowe-361991.cfd^$all
 ||pl-ogloszenia-firmowe-391851.icu^$all
 ||pl-ogloszenia-firmowe-858126.icu^$all
 ||pl-ogloszenia-firmowe-888293.icu^$all
 ||pl-ogloszenia-firmowe-888924.icu^$all
+||pl-ogloszenia-firmowe-888927.icu^$all
+||pl-ogloszenia-firmowe-888929.icu^$all
 ||pl-ogloszenia-firmowe-931242.cfd^$all
 ||pl-ogloszenia-firmowe-935124.cfd^$all
 ||pl-ogloszenia-firmowe-935124.icu^$all
@@ -82463,7 +82502,6 @@
 ||rewertonjek.xyz^$all
 ||rewiekjnyerukfjwryyteuirueiwjriwuweujklerhoreiowyu.pages.dev^$all
 ||rewies-extranet.com^$all
-||rewiewe-optokens.com^$all
 ||rewiewi-hotielindesx.com^$all
 ||rewiewsohrbadhot.com^$all
 ||rewifue8.pro^$all
@@ -82673,6 +82711,7 @@
 ||ribuznomin.pro^$all
 ||ricacbewre.pro^$all
 ||ricaldicli.pro^$all
+||ricalmerca.pro^$all
 ||ricalnonin.pro^$all
 ||ricalstris.pro^$all
 ||ricamidream.it^$all
@@ -95930,6 +95969,7 @@
 ||titubsgove.pro^$all
 ||titubstudh.pro^$all
 ||titudui0.pro^$all
+||tiumkc.ngovji.ru^$all
 ||tivjora.pics^$all
 ||tivujyi.com^$all
 ||tivuwici.com^$all
@@ -101816,7 +101856,6 @@
 ||vinted.accept-now.com^$all
 ||vinted.aggiorna-etichetta.com^$all
 ||vinted.ahh05.cfd^$all
-||vinted.billing069.life^$all
 ||vinted.billing082.info^$all
 ||vinted.buy5032077.com^$all
 ||vinted.carouz.world^$all
@@ -106497,6 +106536,7 @@
 ||xn--albilet-b9a.pl-prywatne-919.icu^$all
 ||xn--albilet-b9a.pl-prywatne-id190.icu^$all
 ||xn--allgro-y4a.pl-5720.sbs^$all
+||xn--bn-c-h5-kwa0879d.com^$all
 ||xn--dostpnazawsze-l0b.itsforever.org^$all
 ||xn--dpd-pomc-13a.crwygs.com^$all
 ||xn--facebook-krzyacki-8yd.businesshelpcenter-policy.click^$all
@@ -107420,6 +107460,7 @@
 ||zaswiadczeniekrk.pl^$all
 ||zatkeavall.pro^$all
 ||zator-polska.pl^$all
+||zator-wirtualnapolska.pl^$all
 ||zatumoe.com^$all
 ||zaufaliverenta.my^$all
 ||zaufanorytmika.click^$all
