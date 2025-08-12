@@ -38,11 +38,11 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v5
         with:
           name: CERT
           path: sections
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v5
         with:
           name: LWS
           path: sections
