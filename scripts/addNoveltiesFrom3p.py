@@ -29,7 +29,7 @@ tp = sys.argv[1]
 tp_path = "./" + tp + ".txt"
 
 if tp == "CERT":
-    download(tp_path, "https://hole.cert.pl/domains/v2/domains.txt")
+    download(tp_path, "https://hole.cert.pl/domains/v2/domains_ublock.txt")
 elif tp == "LWS":
     import findSuspiciousDomains_LWS as findLWS
     with open(tp_path, "w", encoding='utf-8') as tp_f:
@@ -52,7 +52,7 @@ for KADomains_part in KADomains_parts:
     with open(pj(main_path, "sections", KADomains_part), "r", encoding='utf-8') as KADomains_part_content:
         for line in KADomains_part_content:
             line = line.strip()
-            if line != "" and re.match(r"^(0\.0\.0\.0.*|\|\|(?!.*\/).*\^(\$all)?$)", line):
+            if line != "" and not line.startswith("!") and re.match(r"^(0\.0\.0\.0.*|\|\|(?!.*\/).*\^(\$all)?$)", line):
                 convertItems = [(r"^[|][|]", ""),
                                 (r"\^\$all$", ""),
                                 (r"[\^]$", "")]
@@ -64,7 +64,7 @@ novelties = {}
 with open(tp_path, "r", encoding='utf-8') as tp_f:
     for line in tp_f:
         line = line.strip()
-        if not line in KADomains_list:
+        if line and not line.startswith("!") and not line in KADomains_list:
             novelties[line] = ""
 
 if os.path.isfile(expired_path):
@@ -79,20 +79,22 @@ if os.path.isfile(skip_path):
     with open(skip_path, "r", encoding='utf-8') as skip_list:
         for line in skip_list:
             line = line.strip()
-            if line in novelties:
+            if line and not line.startswith("!") and line in novelties:
                 del novelties[line]
 
 exclusion_f_list = []
 if os.path.isfile(expired_path):
     with open(expired_path, "r", encoding='utf-8') as offline_list:
         for line in offline_list:
-            if line := line.strip():
+            line = line.strip()
+            if line and not line.startswith("!"):
                 exclusion_f_list.append(re.escape(line))
 
 if os.path.isfile(skip_path):
     with open(skip_path, "r", encoding='utf-8') as skip_list:
         for line in skip_list:
-            if line := line.strip():
+            line = line.strip()
+            if line and not line.startswith("!"):
                 exclusion_f_list.append(re.escape(line))
 
 regex_part_domains = '|'.join(exclusion_f_list)
@@ -104,7 +106,8 @@ tp_novelties_path = pj(main_path, "sections", tp + "_novelties.txt")
 with open(tp_novelties_path, "w+", encoding='utf-8') as f_out:
     for entry in novelties:
         entry = long_regex.sub(r'', entry)
-        if entry := entry.strip():
+        entry = entry.strip()
+        if entry:
             f_out.write(f"||{entry}^$all\n")
 
 shutil.rmtree(temp_path)
