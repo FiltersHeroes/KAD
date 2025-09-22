@@ -1,5 +1,3 @@
-emedyczny.com,emedyczny.pl##a[href*="/zegarki-kardiowatch" i], a[href*="/smartwatche" i], a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i]
-emedyczny.com,emedyczny.pl##.c-product-box:has(a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i])
 ##a[href^="/fb-login"]
 ##body > .container:not([id]):only-child:has(> h1:first-child ~ table:not([id]):not([class]):only-of-type ~ div.dconts:not([id]):last-child)
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
@@ -16,6 +14,8 @@ emedyczny.com,emedyczny.pl##.c-product-box:has(a[href*="/cisnieniomierz-ekg-smar
 ~support.ublock.org,ublock.org##body main::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
+emedyczny.com,emedyczny.pl##.c-product-box:has(a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i])
+emedyczny.com,emedyczny.pl##a[href*="/zegarki-kardiowatch" i], a[href*="/smartwatche" i], a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i]
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
 morele.net##.cat-product.card:is([data-product-merchant="1592"], [data-element-merchant="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; color: #f00 !important; font-weight: bold !important)
 morele.net##.js-basket-box-1592 .basket-box-items::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - Przekręty).' !important; margin-left: 10px !important; color: #f00 !important; font-weight: bold !important)
