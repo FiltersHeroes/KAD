@@ -34,7 +34,7 @@
 /^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?o=[0-9a-z]{7}&u=[0-9a-z]{7}/$doc,frame,match-case
 /^https?:\/\/[0-9a-z]*\.?[-0-9a-z]{4,}\.[a-z]{2,11}\/(?:[0-9a-z]{6,8}\/)?\/?(?:article\d{4}\.doc)?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$doc,frame,match-case
 /^https?:\/\/crypto0[0-9]+\.online/$doc,important
-/https?:\/\/(?:\w+\.)?jnews[0-9]+?\.com/$all
+/https?:\/\/(?:\w+\.)?jnews([023456789]|[0-9][0-9][0-9]?)\.com/$all
 /https?:\/\/(?:\w+\.)?skryptcookies\.pl/cookies\.js/$all,important
 ||*.*.mirsolar.com.tr^$all
 ||*automatyczny-dozownik-mydla-pl.com^$all,domain=com
