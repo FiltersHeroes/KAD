@@ -3,7 +3,7 @@ name: Aktualizacja listy
 on:
   workflow_dispatch: null
   schedule:
-      - cron: "40 7,11,15,19 * * *"
+      - cron: "57 7,11,15,19 * * *"
       - cron: "15 0 * * 0"
 
 jobs:
