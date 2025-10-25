@@ -24,14 +24,12 @@
 !
 ! Szybko wygaszające
 @include szybko_wygaszajace
-!#safari_cb_affinity
 !
 ! Przekręty
 @include przekrety + przekrety_CERT
 @include przekrety-sciezki-parametry
 @include przekrety-regex-wildcard
 !
-!#safari_cb_affinity(security)
 ! Blogspot
 @include blogspot
 !
