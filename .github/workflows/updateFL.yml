@@ -18,12 +18,12 @@ jobs:
       - name: Dodawanie nowości z LWS
         run: |
           ./scripts/addNoveltiesFrom3p.py LWS
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         with:
           name: CERT
           path: |
             sections/CERT_novelties.txt
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         with:
           name: LWS
           path: sections/LWS_novelties.txt
