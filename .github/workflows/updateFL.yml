@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/kad_image:3.0.12
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Dodawanie nowości z CERT
         run: |
           ./scripts/addNoveltiesFrom3p.py CERT
@@ -34,7 +34,7 @@ jobs:
       contents: write
     container: ghcr.io/filtersheroes/kad_image:3.0.12
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
           persist-credentials: false
