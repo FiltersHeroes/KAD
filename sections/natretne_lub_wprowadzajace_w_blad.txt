@@ -16,6 +16,7 @@ cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 emedyczny.com,emedyczny.pl##.c-product-box:has(a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i])
 emedyczny.com,emedyczny.pl##a[href*="/zegarki-kardiowatch" i], a[href*="/smartwatche" i], a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i]
+empik.com##div[data-shop-id="8872"]::after:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; margin: 15px 0 15px 15px !important; display: block !important; color: #f00 !important; font-weight: bold !important)
 empik.com##div[class*="items"]:has(a[href*="/sklepy/net-s,8872,m"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; margin: 15px 0 15px 15px !important; display: block !important; color: #f00 !important; font-weight: bold !important)
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
 morele.net##.cat-product.card:is([data-product-merchant="1592"], [data-element-merchant="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; color: #f00 !important; font-weight: bold !important)
