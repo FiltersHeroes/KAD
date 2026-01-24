@@ -1,4 +1,3 @@
-||leclerc-sklep.agmb.pl^$all
 ##a[href^="/fb-login"]
 ##body > .container:not([id]):only-child:has(> h1:first-child ~ table:not([id]):not([class]):only-of-type ~ div.dconts:not([id]):last-child)
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
@@ -7,6 +6,7 @@
 ||digitogy.eu^$all
 ||displaymovies.pl^$all
 ||ekino-tv.pl/views/img/reklama_btn2.png$image
+||leclerc-sklep.agmb.pl^$all
 ||ptoszek.pl^$all
 ||remontujemysami.pl^$all
 ||uploadfile.pl/download.png$image
