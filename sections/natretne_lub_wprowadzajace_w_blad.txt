@@ -1,4 +1,3 @@
-id-ransomware.malwarehunterteam.com##.panel-danger ul li:has(a[href="https://link.malcore.io/ransom-note"]):remove()
 ##a[href^="/fb-login"]
 ##body > .container:not([id]):only-child:has(> h1:first-child ~ table:not([id]):not([class]):only-of-type ~ div.dconts:not([id]):last-child)
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
@@ -23,6 +22,7 @@ emedyczny.com,emedyczny.pl##a[href*="/zegarki-kardiowatch" i], a[href*="/smartwa
 empik.com##div[class*="items"]:has(a[href*="/sklepy/net-s,8872,m"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; margin: 15px 0 15px 15px !important; display: block !important; color: #f00 !important; font-weight: bold !important)
 empik.com##div[data-shop-id="8872"]::after:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; margin: 15px 0 15px 15px !important; display: block !important; color: #f00 !important; font-weight: bold !important)
 facetikuchnia.com.pl###sidebar > div.widget:has(#flashContent)
+id-ransomware.malwarehunterteam.com##.panel-danger ul li:has(a[href="https://link.malcore.io/ransom-note"]):remove()
 morele.net##.cat-product.card:is([data-product-merchant="1592"], [data-element-merchant="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; color: #f00 !important; font-weight: bold !important)
 morele.net##.js-basket-box-1592 .basket-box-items::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; margin-left: 10px !important; color: #f00 !important; font-weight: bold !important)
 morele.net##.mp-supplier-row:has(a[href*="/add/"][href*="/1592/"], a[href*="/net-s-1592/"], [data-merchant-name*="NET-S"], [data-supplier-id="1592"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; color: #f00 !important; width: 100vw !important; width: 100lvw !important; display: flex !important; font-weight: bold !important)
