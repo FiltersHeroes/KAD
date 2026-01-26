@@ -1,3 +1,4 @@
+.com/k082rwq?t=$doc,to=com
 .com/c/*?s1=$doc,to=com
 .net/c/*?s1=$doc,to=net
 /?track=*&key=$doc
@@ -43,7 +44,6 @@
 /ym.html?email=*@$doc,reason="to może być phishing"
 /zcvisitor/*?campaignid$doc
 ?zoneid=*&cost=0.$doc
-^s1=*&click_id=$doc
 ||lds.xyz/*&sbtag=$doc,to=xyz
 ||lds.xyz/*?sbtag=$doc,to=xyz
 ||ostrowlubelski.pl/libs/$doc,frame,object
