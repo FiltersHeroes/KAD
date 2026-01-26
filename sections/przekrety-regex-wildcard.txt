@@ -186,7 +186,8 @@
 ||xn*gwatpolska24*.$all
 ||xn--onetgwat-*.$all
 ||xn--polskagwat24-*.$all
-||youtube.com.*.*.com^$all,to=com|~youtube.com
+||youtube.com.*.*.com^$doc,to=com|~youtube.com
+||youtube.com.*.*.com^$frame,object,domain=com|~youtube.com
 ||zalukaj*.$doc
 ||zaplata*.tk^$all
 ||zdjecie-facebook-*.dkonto.pl^$all
