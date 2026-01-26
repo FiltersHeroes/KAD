@@ -52,12 +52,12 @@
 ||apple-*.deviceoffergiveaways.icu^$all
 ||apple.*.top^$all,domain=top
 ||apple.com-*.$all,domain=live|xyz
+||apteline-pl.$doc,to=~apteline.pl
+||apteline-pl.$frame,object,domain=~apteline.pl
 ||bestprize-places-here*.life^$all
 ||bestprizesday*.life^$all
 ||chomikuj*.opx.pl^$all,domain=pl
 ||chomikuj.$doc,to=~chomikuj.pl
-||apteline-pl.$doc,to=~apteline.pl
-||apteline-pl.$frame,object,domain=~apteline.pl
 ||czyjtonumer.net^$doc,to=czyjtonumer.net
 ||czyjtonumer.net^$doc,to=czyjtonumer.net,reason="Uważaj na oferowany przez nich pakiet premium"
 ||dates-here-now*.com^$all
