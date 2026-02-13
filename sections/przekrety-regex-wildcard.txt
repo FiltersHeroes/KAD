@@ -7,7 +7,7 @@
 /^https?:\/\/(?:ak\.)?[a-z]{6,15}\.(?:com|net)\/4\/[0-9]{7}/$doc
 /^https?:\/\/(\w{1,4}\.)?(\w+)?-?([0-9]+)?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\.\w{2,22}/$all
 /^https?:\/\/(\w{1,4}\.)?(\w+)?-?pocztex.*[0-9]+-?(polska)?\.\w{2,22}/$all,domain=~pocztex.pl
-/^https?:\/\/(\w{1,4}\.)?(\w+)?.?\w+-?poczta([0-9]+)?-?polska([0-9]+)?\.\w{2,22}/$all
+!/^https?:\/\/(\w{1,4}\.)?(\w+)?.?\w+-?poczta([0-9]+)?-?polska([0-9]+)?\.\w{2,22}/$all
 /^https?:\/\/(\w{1,4}\.)?(\w+)?.?\w+-?polska([0-9]+)?-?poczta\.\w{2,22}/$all
 /^https?:\/\/(\w{1,4}\.)?(\w+)?\.?poczta-?polska[0-9]+\.\w{2,22}/$all
 /^https?:\/\/(\w{1,4}\.)?(\w+)?\.\w+-?pocztex([0-9]+)?\.\w{2,22}/$all,domain=~pocztex.pl
