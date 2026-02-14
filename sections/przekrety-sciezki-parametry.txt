@@ -7,16 +7,16 @@
 /click?pid=*&sub1=$doc
 /counts.php?cat=1&t=$3p,script
 /fck_files/*.xml$doc,to=m-vision.com.pl
-/fckupload/*.xml$doc,to=libron.pl
-/file/*.xml$doc,to=akademiaplywania.com.pl
-/files/*.xml$doc,to=kolorowemotyle.pl
-/fotki/*.xml$doc,to=italiamipiace.pl
-/gfx/*.xml$doc,to=ochroniarz.com.pl
 /fck_files/*.xml$doc,to=m-vision.com.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
+/fckupload/*.xml$doc,to=libron.pl
 /fckupload/*.xml$doc,to=libron.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
+/file/*.xml$doc,to=akademiaplywania.com.pl
 /file/*.xml$doc,to=akademiaplywania.com.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
+/files/*.xml$doc,to=kolorowemotyle.pl
 /files/*.xml$doc,to=kolorowemotyle.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
+/fotki/*.xml$doc,to=italiamipiace.pl
 /fotki/*.xml$doc,to=italiamipiace.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
+/gfx/*.xml$doc,to=ochroniarz.com.pl
 /gfx/*.xml$doc,to=ochroniarz.com.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /jump?id=*&_tgurl=$doc
 /site/redirectpage?ca=link&sid=$doc
@@ -39,8 +39,8 @@
 ||flavio.pl/3356/vitacredit-pl$all
 ||lds.xyz/*&sbtag=$doc,to=xyz
 ||lds.xyz/*?sbtag=$doc,to=xyz
+||mail.hodtd.com/*url=*swietne-ceny.com$doc,important,to=mail.hodtd.com
 ||my.demio.com/ref/sdzQ7d6D7ltwGTD7$all
 ||nelofinances.com/contact$all
-||sites.google.com/view/da2-globaltradruv-com$all,important
-||mail.hodtd.com/*url=*swietne-ceny.com$doc,important,to=mail.hodtd.com
 ||sites.google.com/view/*caly-film$all,important
+||sites.google.com/view/da2-globaltradruv-com$all,important
