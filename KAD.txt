@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 14 Feb 2026, 17:14 UTC+01:00
-! Version: 2026.2.14.2
+! Last modified: Sat, 14 Feb 2026, 17:18 UTC+01:00
+! Version: 2026.2.14.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -7773,7 +7773,6 @@
 ||dosthali.com^$all
 ||dostowar-0lx-56361.top^$all
 ||dostowar-0lx-58611.top^$all
-||dostw-103.shop^$all
 ||dostw-112.shop^$all
 ||dostw-123.shop^$all
 ||dostw-126.shop^$all
@@ -22381,39 +22380,28 @@
 /click.php?key=*&cost=$doc
 /click?pid=*&sub1=$doc
 /counts.php?cat=1&t=$3p,script
-/fb-login/*$doc,to=~facebook.com
-/fb-login/|$doc,to=~facebook.com
 /fck_files/*.xml$doc,to=m-vision.com.pl
+/fck_files/*.xml$doc,to=m-vision.com.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /fckupload/*.xml$doc,to=libron.pl
+/fckupload/*.xml$doc,to=libron.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /file/*.xml$doc,to=akademiaplywania.com.pl
+/file/*.xml$doc,to=akademiaplywania.com.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /files/*.xml$doc,to=kolorowemotyle.pl
+/files/*.xml$doc,to=kolorowemotyle.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /fotki/*.xml$doc,to=italiamipiace.pl
+/fotki/*.xml$doc,to=italiamipiace.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /gfx/*.xml$doc,to=ochroniarz.com.pl
+/gfx/*.xml$doc,to=ochroniarz.com.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /jump?id=*&_tgurl=$doc
-/pl/bnp-paribas/login.php?pay&b=$doc,frame,object,domain=~pl
-/pl/bos-bank/?pay|$doc,frame,object,domain=~pl
-/pl/citibank/?pay&b=$doc,frame,object,domain=~pl
-/pl/credit-agricole/login/login.php?pay&b=$doc,frame,object,domain=~pl
-/pl/getin/index/index/*/index.php?pay&b=$doc,frame,object,domain=~pl
-/pl/ing/mojeing/paybylink/login/ctxid/*/index.php?pay&b=$doc,frame,object,domain=~pl
-/pl/nestbank/login/kir/*.php?pay&b=$doc,frame,object,domain=~pl
-/pl/noble-bank/index/index/*/index.php?pay&b=$doc,frame,object,domain=~pl
-/pl/pekao/directtransfer/auth.php?pay&b=$doc,frame,object,domain=~pl
-/pl/pge/87315823/1895292/|$doc,frame,object,domain=~browserleaks.com
-/pl/pge/pay.php|$doc,frame,object,domain=~pl
-/pl/pge/start-transaction/index.php|$doc,frame,object,domain=~pl
-/pl/plusbank/?pay|$doc,frame,object,domain=~pl
-/pl/pocztowy.pl/login/index.php?pay&$doc,frame,object,domain=~pl
-/pl/tpay/centrum24/index.php?pay&b=$doc,frame,object
-/pl/tpay/centrum24/pin.php?pay&b=$doc,frame,object
-/pl/tpay/index.php?pay&b=$doc,frame,object
-/pl/vwfs/portal/?pay|$doc,frame,object,domain=~pl
 /site/redirectpage?ca=link&sid=$doc
 /tds/ae?*&clickid=$doc
 /tds/ae?tds_campaign=$doc
 /upload/*.xml$doc,to=miniraj.pl
+/upload/*.xml$doc,to=miniraj.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /uploads/*.xml$doc,to=europartner.com.pl|zdrowiedlawszystkich.pl
+/uploads/*.xml$doc,to=europartner.com.pl|zdrowiedlawszystkich.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /userfiles/*.xml$doc,to=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl
+/userfiles/*.xml$doc,to=aquatech.com.pl|bartodzieje.medycyna.net.pl|bip.wuozprzemysl.pl|ekobarc.pl|everest-sport.pl|gdziezjesc.info|ikuchnia.com.pl|jta.com.pl|kamart.com.pl|kieryk.pl|kppzp.pl|muzeum.kety.pl|pomerania.org.pl|radecznica.pl|rbmtechnik.pl|serwisnawigacji.pl|sjo.uni.lodz.pl|sunrest.com.pl|warszawa-pragapoludnie.sr.gov.pl|wobo.com.pl|wodnik-tour.com.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /wp-content/plugins/ckk/assets/js/captcha-loader.js?ver=2.0.0
 /ym.html?email=*@$doc,frame,object
 /ym.html?email=*@$doc,reason="to może być phishing"
@@ -22425,11 +22413,10 @@
 ||flavio.pl/3356/vitacredit-pl$all
 ||lds.xyz/*&sbtag=$doc,to=xyz
 ||lds.xyz/*?sbtag=$doc,to=xyz
+||mail.hodtd.com/*url=*swietne-ceny.com$doc,important,to=mail.hodtd.com
 ||my.demio.com/ref/sdzQ7d6D7ltwGTD7$all
 ||nelofinances.com/contact$all
-||ostrowlubelski.pl/libs/$doc,frame,object
-||ostrowlubelski.pl/libs/$doc,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
-||preview-domain.com/poczta/$all,domain=preview-domain.com
+||sites.google.com/view/*caly-film$all,important
 ||sites.google.com/view/da2-globaltradruv-com$all,important
 /\/\?[0-9a-zA-Z]{32}&[0-9]{5}&(https?|undefined$)/$1p,script
 /\/\?[0-9a-zA-Z]{32}&ver=[0-9]{1,3}\./$1p,script
