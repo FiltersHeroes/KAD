@@ -1,5 +1,5 @@
 /^https?:\/\/(\w{1,4}\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(\w+)?[0-9]+\.(site|space)/$all
-/^https?:\/\/(?:\w+\.)?skryptcookies\.pl/cookies\.js/$all,important
+/^https?:\/\/(?:\w+\.)?skryptcookies\.pl\/cookies\.js/$all,important
 ||*.*.mirsolar.com.tr^$all,domain=mirsolar.com.tr
 ||alebilet.pl-*.$doc
 ||allegro.pl-nowe-regulamin*.*.com^$all
