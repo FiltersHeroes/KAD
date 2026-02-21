@@ -1,4 +1,5 @@
-/^https?:\/\/(\w{1,4}\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(\w+)?[0-9]+\.(site|space)/$all
+/^https?:\/\/(?:\w+\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(?:\w+)?[0-9]+\.(site|space)/$doc,to=site|space
+/^https?:\/\/(?:\w+\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(?:\w+)?[0-9]+\.(site|space)/$frame,object,domain=site|space
 /^https?:\/\/(?:\w+\.)?skryptcookies\.pl\/cookies\.js/$all,important
 ||*.*.mirsolar.com.tr^$all,domain=mirsolar.com.tr
 ||alebilet.pl-*.$doc
