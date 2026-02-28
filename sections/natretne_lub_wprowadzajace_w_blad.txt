@@ -36,6 +36,6 @@ support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style
 support.ublock.org##body div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com##.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
-www.dobreprogramy.pl##:matches-path(/\/[a-zA-Z0-9-]{1,99},program,/) article#main-content > div[class]:not([id]) > div[class]:not([id]):watch-attr(class):has(> div[class]:not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > a[class][href*="niepotrzebne-pliki"][href*=","]:not([id]):has-text(naszego poradnika)) > div:nth-child(-n+2):not(:empty):not(:has(a[href*="oprogramowanie-z-rosji"], a[href*="niepotrzebne-pliki"]))
+dobreprogramy.pl###main-content button:has-text(przy pomocy Asystenta pobierania)
 www.google.*##.g:has(a[href*="//adservice.google."])
 xja.pl,xn.pl##+js(refresh-defuser, 5)
