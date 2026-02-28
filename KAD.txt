@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 28 Feb 2026, 10:25 UTC+01:00
-! Version: 2026.2.28.1
+! Last modified: Sat, 28 Feb 2026, 10:50 UTC+01:00
+! Version: 2026.2.28.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -76,6 +76,7 @@
 ||annajuliana.com^$all
 ||anpicker.com^$all
 ||anwan.pl^$all
+||aplexbode.com^$all
 ||appcaptcha.com^$all
 ||appleking.pl^$all
 ||apteka2000.pl^$all
@@ -2993,7 +2994,6 @@
 ||allegro-lokalnie.0391-110s.sbs^$all
 ||allegro-lokalnie.039183d1-1.click^$all
 ||allegro-lokalnie.52182ido.it.com^$all
-||allegro-lokalnie.78298.cfd^$all
 ||allegro-lokalnie.689224id.it.com^$all
 ||allegro-lokalnie.986473g73.cyou^$all
 ||allegro-lokalnie.5252393f29f3929d29d2.biz^$all
@@ -7763,7 +7763,6 @@
 ||dzieci-pl.com^$all
 ||dzieciaczeksklep.shop^$all
 ||dziecipl-online.shop^$all
-||dziecko-pl-vip.shop^$all
 ||dziecko-swiat.pl^$all
 ||dzieckoinfo.com.pl^$all
 ||dziennik.warszawa.pl^$all
@@ -11804,6 +11803,7 @@
 ||lnocode.com^$all
 ||lnpost.asdfaswfuo32.cyou^$all
 ||lnpost.asdfaswfuo32.sbs^$all
+||lnpost.asdfkjasd432.cyou^$all
 ||lnpost.barakuzlau.cyou^$all
 ||lnpost.barakuzlau.sbs^$all
 ||lnpost.clidkdspq231.sbs^$all
@@ -12782,8 +12782,6 @@
 ||networkcoin.vip^$all
 ||networkedorganisms.com^$all
 ||networking2networth.com^$all
-||networkingmommies.com^$all
-||networkingtalento.com^$all
 ||networkmercenaries.com^$all
 ||networkninjas.us^$all
 ||networthatdeath.com^$all
@@ -12814,7 +12812,6 @@
 ||newepochtechnologies.com^$all
 ||newepochtechnology.org^$all
 ||newgoalpath.com^$all
-||newhorizonprograms.com^$all
 ||newjerseyhipinjurylawyers.com^$all
 ||newjerseypetsitter.org^$all
 ||newkitchenessentials.com^$all
@@ -13167,7 +13164,6 @@
 ||oa9ifp.webwave.dev^$all
 ||oakdenup.pro^$all
 ||oakit.net^$all
-||oakstreetgroupreferralcontest.com^$all
 ||oakwoodresidency.com^$all
 ||oascvdydnxs.live^$all
 ||obaquadri.com^$all
@@ -14399,6 +14395,7 @@
 ||phafetarekitj.pro^$all
 ||phainogrbfa.pro^$all
 ||phaiumkurke.pro^$all
+||phaldrove.org^$all
 ||pharma-eu365.online^$all
 ||pharmaciefertilite.com^$all
 ||pharmacy-europe24.online^$all
@@ -16951,7 +16948,6 @@
 ||sermexo.com^$all
 ||sermontide.top^$all
 ||seroleistfmfy.pro^$all
-||serpesdema.rest^$all
 ||sersictannet.com^$all
 ||servantsheartrelief.org^$all
 ||server386917.nazwa.pl^$all
@@ -19979,7 +19975,6 @@
 ||volgisvani.rest^$all
 ||volmkresser.top^$all
 ||vomozak.top^$all
-||vonacai.com^$all
 ||vontabeta.pages.dev^$all
 ||vopafg400h.lat^$all
 ||voqyfuy.com^$all
@@ -21036,7 +21031,6 @@
 ||zulmeratechnology.top^$all
 ||zulviane.org^$all
 ||zumodi.com^$all
-||zumufaedu.website^$all
 ||zuprel.pro^$all
 ||zurutanzania.com^$all
 ||zusoworld.org^$all
@@ -21559,7 +21553,7 @@
 ##a[href^="/fb-login"]
 ##body > .container:not([id]):only-child:has(> h1:first-child ~ table:not([id]):not([class]):only-of-type ~ div.dconts:not([id]):last-child)
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
-/^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,important,reason="Szkoldiwy asystent pobierania na dobreprogramy lub np. softonic",domain=cloudfront.net,to=cloudfront.net
+/^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,important,reason="Szkoldiwy asystent pobierania na dobreprogramy lub np. softonic",to=cloudfront.net
 @@||blocked-site-hole-cert.pl^$domain=lista.cert.pl
 |https://agmb.pl^$all
 |https://dev.agmb.pl^$all
@@ -21574,7 +21568,8 @@
 ~pl##a[href*="whokeys.com/"]:lang(pl)
 ~support.ublock.org,ublock.org##body main::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
-dobreprogramy.pl###main-content button:has-text(przy pomocy Asystenta pobierania)
+dobreprogramy.pl##article#main-content button:has-text(przy pomocy Asystenta pobierania)
+dobreprogramy.pl##article#main-content div[data-nosnippet]:has(> div > div > a[href*="/jak-w-windowsie-usunac-niepotrzebne-pliki-i-posprzatac-w-systemie"])
 download.komputerswiat.pl##div[id] > .big.dl_button.download_link:not([href*="//files-download.playpc.pl/"])
 emedyczny.com,emedyczny.pl##.c-product-box:has(a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i])
 emedyczny.com,emedyczny.pl##a[href*="/zegarki-kardiowatch" i], a[href*="/smartwatche" i], a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i]
