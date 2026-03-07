@@ -37,9 +37,11 @@ net-s.pl##html body header nav::after:style(content: 'Zakupy na własną odpowie
 pl##a[href*="whokeys.com/"]
 salesmanago.pl##+js(href-sanitizer, a[href*="salesmanago.pl/ms/rd.htm?url"], ?url)
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
-support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
-support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style(display: inline-block !important; text-align: center !important)
-support.ublock.org##body div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
+ublockorigin.com##:root .title::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
+ublockdns.com##:root nav+section>div:first-child::before:style(content: 'Nie ma związku z uBlock Origin.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
+support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
+support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:style(display: inline-block !important; text-align: center !important)
+support.ublock.org##:root div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
 tyfloswiat.pl##^responseheader(location)
 www.cyclonis.com##.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.google.*##.g:has(a[href*="//adservice.google."])
