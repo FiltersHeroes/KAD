@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 07 Mar 2026, 12:59 UTC+01:00
-! Version: 2026.3.7.1
+! Last modified: Sat, 07 Mar 2026, 14:02 UTC+01:00
+! Version: 2026.3.7.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2074,6 +2074,7 @@
 ||24726.click^$all
 ||34012.cyou^$all
 ||36178ds7c9.lat^$all
+||43577.cyou^$all
 ||46913c24.flyjasper.ca^$all
 ||47931.cyou^$all
 ||51015kids.club^$all
@@ -2082,6 +2083,7 @@
 ||51015kindsn.club^$all
 ||63016aa2.flyjasper.ca^$all
 ||72102.cyou^$all
+||73891.cyou^$all
 ||75138.cfd^$all
 ||75421.cfd^$all
 ||75431.cfd^$all
@@ -2091,6 +2093,7 @@
 ||82763hd.cfd^$all
 ||84519.cyou^$all
 ||090675.weebly.com^$all
+||91761.cfd^$all
 ||92901.cyou^$all
 ||94851.cfd^$all
 ||94871.cfd^$all
@@ -2104,8 +2107,10 @@
 ||0423765.top^$all
 ||484744.xyz^$all
 ||658483d8.flyjasper.ca^$all
+||726272.sbs^$all
 ||728264.sbs^$all
 ||807316e6.flyjasper.ca^$all
+||873282.sbs^$all
 ||899887v.weebly.com^$all
 ||927197b8.flyjasper.ca^$all
 ||973480.xyz^$all
@@ -2125,6 +2130,7 @@
 ||07849950.euro-maconnerie.fr^$all
 ||7865885.xyz^$all
 ||7960703-oferta-sprzedam-macbook-air-m1.sbs^$all
+||8374829.bond^$all
 ||008963466.weebly.com^$all
 ||10686004.kbh-services.fr^$all
 ||12496032.xyz^$all
@@ -2216,6 +2222,7 @@
 ||39846027.xyz^$all
 ||39846427.xyz^$all
 ||40179285.xyz^$all
+||40317682.xyz^$all
 ||40671983.xyz^$all
 ||40678983.xyz^$all
 ||41069835.xyz^$all
@@ -2223,6 +2230,7 @@
 ||41324134.xyz^$all
 ||41629875.xyz^$all
 ||41699507.euro-maconnerie.fr^$all
+||41850732.xyz^$all
 ||41857290.xyz^$all
 ||41858290.xyz^$all
 ||42838860.kbh-services.fr^$all
@@ -2405,17 +2413,23 @@
 ||716145009-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||885294026-oferta-ipad-pro-m5-13-wifi-cellular.cfd^$all
 ||894873847.xyz^$all
+||2348723523.cfd^$all
+||2348723523.sbs^$all
 ||6143897201.click^$all
 ||7189172361-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||28473939854.click^$all
+||38427584325.cfd^$all
 ||85075937269-oferta-samsung-galaxy-z-flip7.click^$all
 ||98345934850.click^$all
 ||99282671000-oferta-apple-macbook-m3-16-512-gb.cfd^$all
 ||293743038596.click^$all
 ||299374322854.click^$all
 ||718911237512-oferta-samsung-galaxy-z-flip7.cfd^$all
+||2837433836365.click^$all
 ||2837437359686.click^$all
 ||2937439396285.click^$all
+||2937473735433.click^$all
+||9595329932654.click^$all
 ||20374292373748.click^$all
 ||38904778345043.click^$all
 ||54456665446684.click^$all
@@ -2791,8 +2805,10 @@
 ||alebilet.24726.click^$all
 ||alebilet.34012.cyou^$all
 ||alebilet.36178ds7c9.lat^$all
+||alebilet.43577.cyou^$all
 ||alebilet.47931.cyou^$all
 ||alebilet.72102.cyou^$all
+||alebilet.73891.cyou^$all
 ||alebilet.75995.click^$all
 ||alebilet.84519.cyou^$all
 ||alebilet.84951.cyou^$all
@@ -2800,11 +2816,14 @@
 ||alebilet.238722.sbs^$all
 ||alebilet.0423765.top^$all
 ||alebilet.438104.cyou^$all
+||alebilet.726272.sbs^$all
 ||alebilet.728264.sbs^$all
+||alebilet.873282.sbs^$all
 ||alebilet.3453639.click^$all
 ||alebilet.4388892.cyou^$all
 ||alebilet.7181712-oferta-apple-macbook-m3-16gb-512gb.lat^$all
 ||alebilet.7960703-oferta-sprzedam-macbook-air-m1.sbs^$all
+||alebilet.8374829.bond^$all
 ||alebilet.17561096.click^$all
 ||alebilet.79732554.rest^$all
 ||alebilet.99325235.cyou^$all
@@ -2813,16 +2832,22 @@
 ||alebilet.712781002-oferta-apple-macbook-m3-16gb-512gb.click^$all
 ||alebilet.716145009-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||alebilet.885294026-oferta-ipad-pro-m5-13-wifi-cellular.cfd^$all
+||alebilet.2348723523.cfd^$all
+||alebilet.2348723523.sbs^$all
 ||alebilet.6143897201.click^$all
 ||alebilet.7189172361-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||alebilet.28473939854.click^$all
+||alebilet.38427584325.cfd^$all
 ||alebilet.85075937269-oferta-samsung-galaxy-z-flip7.click^$all
 ||alebilet.98345934850.click^$all
 ||alebilet.99282671000-oferta-apple-macbook-m3-16-512-gb.cfd^$all
 ||alebilet.293743038596.click^$all
 ||alebilet.299374322854.click^$all
+||alebilet.2837433836365.click^$all
 ||alebilet.2837437359686.click^$all
 ||alebilet.2937439396285.click^$all
+||alebilet.2937473735433.click^$all
+||alebilet.9595329932654.click^$all
 ||alebilet.20374292373748.click^$all
 ||alebilet.38904778345043.click^$all
 ||alebilet.54456665446684.click^$all
@@ -3010,6 +3035,7 @@
 ||alebilet.pl-19141941032.cfd^$all
 ||alebilet.pl-19341041932.cfd^$all
 ||alebilet.pl-83391266223zamowienie7262650197.lat^$all
+||alebilet.pl-331257884267zamowienie21246745894c.sbs^$all
 ||alebilet.pl-829662192726bwgavsbnjsbsn726262738.club^$all
 ||alebilet.pl-882516738383ogloszenie928263799263.biz^$all
 ||alebilet.pl-8262628365628ogloszenie8262637vafndb.cfd^$all
@@ -3075,6 +3101,7 @@
 ||alebilet.pl-oferta783478.sbs^$all
 ||alebilet.pl-oferta824753.sbs^$all
 ||alebilet.pl-oferta826193.sbs^$all
+||alebilet.pl-oferta832719.info^$all
 ||alebilet.pl-oferta873590.cfd^$all
 ||alebilet.pl-oferta886199.cfd^$all
 ||alebilet.pl-oferta891624.sbs^$all
@@ -3173,6 +3200,7 @@
 ||alebilet.pl-oferta283742938364.sbs^$all
 ||alebilet.pl-oferta2833729264955.sbs^$all
 ||alebilet.pl-oferta501278645128412.top^$all
+||alebilet.pl-oferta-9281902392.sbs^$all
 ||alebilet.pl-oferta-id-133457-kategorie-id-192876.cfd^$all
 ||alebilet.pl-oferta-id-133457-kategorie-id-192926.cfd^$all
 ||alebilet.pl-oferta-id-184936-kategorie-id-199438.cfd^$all
@@ -3220,6 +3248,7 @@
 ||alebilet.pls2glhfash62xk.sbs^$all
 ||alebilet.rezerwacja5907870.sbs^$all
 ||alebilet.smart94731.cfd^$all
+||alebilet.x9v8.sbs^$all
 ||alebilet.x21830p391p17.icu^$all
 ||alebilet.x-kategorie-1-59.one^$all
 ||alebilet.zakupy1623632.click^$all
@@ -3346,25 +3375,31 @@
 ||allegro.25399f9f20-d1.cfd^$all
 ||allegro.34012.cyou^$all
 ||allegro.36178ds7c9.lat^$all
+||allegro.43577.cyou^$all
 ||allegro.47931.cyou^$all
 ||allegro.72102.cyou^$all
+||allegro.73891.cyou^$all
 ||allegro.75138.cfd^$all
 ||allegro.75421.cfd^$all
 ||allegro.75431.cfd^$all
 ||allegro.75995.click^$all
 ||allegro.84519.cyou^$all
+||allegro.91761.cfd^$all
 ||allegro.94871.cfd^$all
 ||allegro.98431.cfd^$all
 ||allegro.98851.cfd^$all
 ||allegro.238722.sbs^$all
 ||allegro.0423765.top^$all
+||allegro.726272.sbs^$all
 ||allegro.728264.sbs^$all
+||allegro.873282.sbs^$all
 ||allegro.1291801-21s.biz^$all
 ||allegro.3453639.click^$all
 ||allegro.5646454gg4g4.cyou^$all
 ||allegro.6343848-d1.cfd^$all
 ||allegro.7181712-oferta-apple-macbook-m3-16gb-512gb.lat^$all
 ||allegro.7960703-oferta-sprzedam-macbook-air-m1.sbs^$all
+||allegro.8374829.bond^$all
 ||allegro.12881010s-1.biz^$all
 ||allegro.17561096.click^$all
 ||allegro.28238787d23d2.cyou^$all
@@ -3377,18 +3412,24 @@
 ||allegro.712781002-oferta-apple-macbook-m3-16gb-512gb.click^$all
 ||allegro.716145009-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||allegro.885294026-oferta-ipad-pro-m5-13-wifi-cellular.cfd^$all
+||allegro.2348723523.cfd^$all
+||allegro.2348723523.sbs^$all
 ||allegro.6143897201.click^$all
 ||allegro.7189172361-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||allegro.28473939854.click^$all
+||allegro.38427584325.cfd^$all
 ||allegro.85075937269-oferta-samsung-galaxy-z-flip7.click^$all
 ||allegro.98345934850.click^$all
 ||allegro.99282671000-oferta-apple-macbook-m3-16-512-gb.cfd^$all
 ||allegro.293743038596.click^$all
 ||allegro.299374322854.click^$all
 ||allegro.718911237512-oferta-samsung-galaxy-z-flip7.cfd^$all
+||allegro.2837433836365.click^$all
 ||allegro.2837437359686.click^$all
 ||allegro.2937439396285.click^$all
+||allegro.2937473735433.click^$all
 ||allegro.5891821822993f0.cyou^$all
+||allegro.9595329932654.click^$all
 ||allegro.20374292373748.click^$all
 ||allegro.38904778345043.click^$all
 ||allegro.45689459868945.sbs^$all
@@ -3411,6 +3452,7 @@
 ||allegro.id4578.pl^$all
 ||allegro.id4893.pl^$all
 ||allegro.id6653.pl^$all
+||allegro.id8341.pl^$all
 ||allegro.id8381.pl^$all
 ||allegro.id8400.pl^$all
 ||allegro.id9021.pl^$all
@@ -3666,6 +3708,7 @@
 ||allegro.pl-19141941032.cfd^$all
 ||allegro.pl-19341041932.cfd^$all
 ||allegro.pl-83391266223zamowienie7262650197.lat^$all
+||allegro.pl-331257884267zamowienie21246745894c.sbs^$all
 ||allegro.pl-829662192726bwgavsbnjsbsn726262738.club^$all
 ||allegro.pl-882516738383ogloszenie928263799263.biz^$all
 ||allegro.pl-8262628365628ogloszenie8262637vafndb.cfd^$all
@@ -3733,6 +3776,7 @@
 ||allegro.pl-oferta783478.sbs^$all
 ||allegro.pl-oferta824753.sbs^$all
 ||allegro.pl-oferta826193.sbs^$all
+||allegro.pl-oferta832719.info^$all
 ||allegro.pl-oferta873590.cfd^$all
 ||allegro.pl-oferta886199.cfd^$all
 ||allegro.pl-oferta891624.sbs^$all
@@ -3831,6 +3875,7 @@
 ||allegro.pl-oferta283742938364.sbs^$all
 ||allegro.pl-oferta2833729264955.sbs^$all
 ||allegro.pl-oferta501278645128412.top^$all
+||allegro.pl-oferta-9281902392.sbs^$all
 ||allegro.pl-oferta-id-133457-kategorie-id-192876.cfd^$all
 ||allegro.pl-oferta-id-133457-kategorie-id-192926.cfd^$all
 ||allegro.pl-oferta-id-184936-kategorie-id-199438.cfd^$all
@@ -3888,6 +3933,7 @@
 ||allegro.przedmiot56432.sbs^$all
 ||allegro.rezerwacja5907870.sbs^$all
 ||allegro.smart94731.cfd^$all
+||allegro.x9v8.sbs^$all
 ||allegro.x21830p391p17.icu^$all
 ||allegro.x-kategorie-1-59.one^$all
 ||allegro.zakupy1623632.click^$all
@@ -4013,9 +4059,11 @@
 ||allegrolokalnie.38139fs72.sbs^$all
 ||allegrolokalnie.38492.cfd^$all
 ||allegrolokalnie.38735.cfd^$all
+||allegrolokalnie.43577.cyou^$all
 ||allegrolokalnie.47931.cyou^$all
 ||allegrolokalnie.72102.cyou^$all
 ||allegrolokalnie.73401.cyou^$all
+||allegrolokalnie.73891.cyou^$all
 ||allegrolokalnie.75845.cfd^$all
 ||allegrolokalnie.75995.click^$all
 ||allegrolokalnie.78884g9g9.bond^$all
@@ -4041,12 +4089,14 @@
 ||allegrolokalnie.493262.cfd^$all
 ||allegrolokalnie.537358.cfd^$all
 ||allegrolokalnie.0687438.top^$all
+||allegrolokalnie.726272.sbs^$all
 ||allegrolokalnie.728264.sbs^$all
 ||allegrolokalnie.743903.top^$all
 ||allegrolokalnie.786542.sbs^$all
 ||allegrolokalnie.823326.sbs^$all
 ||allegrolokalnie.823568.sbs^$all
 ||allegrolokalnie.823896.sbs^$all
+||allegrolokalnie.873282.sbs^$all
 ||allegrolokalnie.0873455.rest^$all
 ||allegrolokalnie.958124.cyou^$all
 ||allegrolokalnie.2385691.cfd^$all
@@ -4067,6 +4117,7 @@
 ||allegrolokalnie.7852516.cfd^$all
 ||allegrolokalnie.07863224.lat^$all
 ||allegrolokalnie.7960703-oferta-sprzedam-macbook-air-m1.sbs^$all
+||allegrolokalnie.8374829.bond^$all
 ||allegrolokalnie.8423734.cfd^$all
 ||allegrolokalnie.9423021.sbs^$all
 ||allegrolokalnie.9832583.icu^$all
@@ -4108,6 +4159,8 @@
 ||allegrolokalnie.735483423.sbs^$all
 ||allegrolokalnie.932578235.cfd^$all
 ||allegrolokalnie.992358662.sbs^$all
+||allegrolokalnie.2348723523.cfd^$all
+||allegrolokalnie.2348723523.sbs^$all
 ||allegrolokalnie.2387236235.sbs^$all
 ||allegrolokalnie.2837582645.cfd^$all
 ||allegrolokalnie.2837582645.sbs^$all
@@ -4124,13 +4177,17 @@
 ||allegrolokalnie.8237523752.sbs^$all
 ||allegrolokalnie.23723875235.sbs^$all
 ||allegrolokalnie.28473939854.click^$all
+||allegrolokalnie.38427584325.cfd^$all
 ||allegrolokalnie.85075937269-oferta-samsung-galaxy-z-flip7.click^$all
 ||allegrolokalnie.98345934850.click^$all
 ||allegrolokalnie.293743038596.click^$all
 ||allegrolokalnie.299374322854.click^$all
+||allegrolokalnie.2837433836365.click^$all
 ||allegrolokalnie.2837437359686.click^$all
 ||allegrolokalnie.2937439396285.click^$all
+||allegrolokalnie.2937473735433.click^$all
 ||allegrolokalnie.5287542566754.sbs^$all
+||allegrolokalnie.9595329932654.click^$all
 ||allegrolokalnie.20374292373748.click^$all
 ||allegrolokalnie.25438939234224.sbs^$all
 ||allegrolokalnie.29593463674744.sbs^$all
@@ -4190,6 +4247,9 @@
 ||allegrolokalnie.l412arg526.cyou^$all
 ||allegrolokalnie.l412arg526.sbs^$all
 ||allegrolokalnie.l905rakzsna54d.sbs^$all
+||allegrolokalnie.ld542196890.cfd^$all
+||allegrolokalnie.ld548196890.cfd^$all
+||allegrolokalnie.ld5802196890.cfd^$all
 ||allegrolokalnie.ltrbkvkcmebrvcdsr.sbs^$all
 ||allegrolokalnie.mj1ar9pqt4icvf.sbs^$all
 ||allegrolokalnie.net-aukcja-1245325.cfd^$all
@@ -4323,8 +4383,10 @@
 ||allegrolokalnie.p6283q819.sbs^$all
 ||allegrolokalnie.p7656ds729x81.icu^$all
 ||allegrolokalnie.p8469x786d3.lat^$all
+||allegrolokalnie.p18529x173x9.click^$all
 ||allegrolokalnie.p39489ds835.lat^$all
 ||allegrolokalnie.p173638vk182.biz^$all
+||allegrolokalnie.p1297383xv91.biz^$all
 ||allegrolokalnie.p1371902q53.lat^$all
 ||allegrolokalnie.p1839200s8.sbs^$all
 ||allegrolokalnie.p1854389g22.sbs^$all
@@ -4786,6 +4848,7 @@
 ||allegrolokalnie.pl-19341041932.cfd^$all
 ||allegrolokalnie.pl-19341141032.cfd^$all
 ||allegrolokalnie.pl-83391266223zamowienie7262650197.lat^$all
+||allegrolokalnie.pl-331257884267zamowienie21246745894c.sbs^$all
 ||allegrolokalnie.pl-829662192726bwgavsbnjsbsn726262738.club^$all
 ||allegrolokalnie.pl-882516738383ogloszenie928263799263.biz^$all
 ||allegrolokalnie.pl-8262628365628ogloszenie8262637vafndb.cfd^$all
@@ -4903,6 +4966,7 @@
 ||allegrolokalnie.pl-oferta754387.bond^$all
 ||allegrolokalnie.pl-oferta783478.sbs^$all
 ||allegrolokalnie.pl-oferta824753.sbs^$all
+||allegrolokalnie.pl-oferta832719.info^$all
 ||allegrolokalnie.pl-oferta873590.cfd^$all
 ||allegrolokalnie.pl-oferta886199.cfd^$all
 ||allegrolokalnie.pl-oferta891624.sbs^$all
@@ -5039,6 +5103,7 @@
 ||allegrolokalnie.pl-oferta-89233452.cyou^$all
 ||allegrolokalnie.pl-oferta-368934345.sbs^$all
 ||allegrolokalnie.pl-oferta-567885747.sbs^$all
+||allegrolokalnie.pl-oferta-9281902392.sbs^$all
 ||allegrolokalnie.pl-oferta-67883463896.cfd^$all
 ||allegrolokalnie.pl-oferta-127834689945.sbs^$all
 ||allegrolokalnie.pl-oferta-2567895534678.sbs^$all
@@ -5134,6 +5199,7 @@
 ||allegrolokalnie.to5bvkdkcskcs.sbs^$all
 ||allegrolokalnie.trbrptbkfvsdkv.sbs^$all
 ||allegrolokalnie.x09.biz^$all
+||allegrolokalnie.x9v8.sbs^$all
 ||allegrolokalnie.x98.digital^$all
 ||allegrolokalnie.x21830p391p17.icu^$all
 ||allegrolokalnie.x-kategorie-1-59.one^$all
@@ -5791,6 +5857,7 @@
 ||bancareshe.rest^$all
 ||banchdispu.rest^$all
 ||bangalorcallgirls.com^$all
+||bangdeba.idrivenglobal.com^$all
 ||banghub.pl^$all
 ||banishgame.com^$all
 ||bankzomuz.click^$all
@@ -6093,6 +6160,7 @@
 ||biedronkapl.shop^$all
 ||bigbeta.cool^$all
 ||bigcityfundinggroup.com^$all
+||bigfei.com^$all
 ||bigmoviesz.com^$all
 ||bignewser.com^$all
 ||bigosext1.com^$all
@@ -6193,6 +6261,7 @@
 ||blackrosefinbitnex-pl.com^$all
 ||blackrosefinbitnexapp.com^$all
 ||blackstudiescolloquium.org^$all
+||bladplatnosci.com^$all
 ||blahormeh.com^$all
 ||blakelycain.shop^$all
 ||blakesonelliott.com^$all
@@ -6543,6 +6612,7 @@
 ||buynship-marketplace.com^$all
 ||buz2mobile.com^$all
 ||buzzit.digital^$all
+||buzzmatic5core.info^$all
 ||buzzmatic7hub.info^$all
 ||buzzmind.life^$all
 ||buzzxp.click^$all
@@ -7144,6 +7214,7 @@
 ||clickscenics.net^$all
 ||clickscenics.xyz^$all
 ||clickss.help^$all
+||clickstore.club^$all
 ||clientsonautomation.com^$all
 ||climamasti.rest^$all
 ||climbwavy.premiumhubplus.com^$all
@@ -8977,7 +9048,6 @@
 ||extra-promotion.cfd^$all
 ||extra-promotion.cyou^$all
 ||extra.lanck.info^$all
-||extractoresdeaire.info^$all
 ||extremefree.sbs^$all
 ||exuvisacch.rest^$all
 ||exyron.cyou^$all
@@ -9646,6 +9716,7 @@
 ||fuwdha9itloqb8v.jjs92.pl^$all
 ||fuwitri.xyz^$all
 ||fuxuplaniryv.pro^$all
+||fvgbdr.com^$all
 ||fvlservers.net^$all
 ||fwbdndyikloaxb68duujcfyudy.appwrite.network^$all
 ||fx5g6.cfd^$all
@@ -10651,6 +10722,7 @@
 ||id4578.pl^$all
 ||id4893.pl^$all
 ||id6653.pl^$all
+||id8341.pl^$all
 ||id8381.pl^$all
 ||id8400.pl^$all
 ||id9021.pl^$all
@@ -11204,6 +11276,7 @@
 ||jehdin.net^$all
 ||jehoyuxigi.org^$all
 ||jellyds.com^$all
+||jellyy8bean.info^$all
 ||jenkinsjulian.shop^$all
 ||jenniferkristiansen.com^$all
 ||jennifernunez.com^$all
@@ -12926,6 +12999,7 @@
 ||n9h7k2.lat^$all
 ||n31v0a.cfd^$all
 ||n95.us^$all
+||na5pw.club^$all
 ||naaavc.com^$all
 ||naanaavc.com^$all
 ||naatpdata.org^$all
@@ -13702,24 +13776,30 @@
 ||olx.24726.click^$all
 ||olx.34012.cyou^$all
 ||olx.36178ds7c9.lat^$all
+||olx.43577.cyou^$all
 ||olx.47931.cyou^$all
 ||olx.52182ido.it.com^$all
 ||olx.72102.cyou^$all
+||olx.73891.cyou^$all
 ||olx.75138.cfd^$all
 ||olx.75421.cfd^$all
 ||olx.75431.cfd^$all
 ||olx.75995.click^$all
 ||olx.84519.cyou^$all
+||olx.91761.cfd^$all
 ||olx.94851.cfd^$all
 ||olx.94871.cfd^$all
 ||olx.98431.cfd^$all
 ||olx.98851.cfd^$all
 ||olx.238722.sbs^$all
 ||olx.0423765.top^$all
+||olx.726272.sbs^$all
 ||olx.728264.sbs^$all
+||olx.873282.sbs^$all
 ||olx.3453639.click^$all
 ||olx.7181712-oferta-apple-macbook-m3-16gb-512gb.lat^$all
 ||olx.7960703-oferta-sprzedam-macbook-air-m1.sbs^$all
+||olx.8374829.bond^$all
 ||olx.17561096.click^$all
 ||olx.79732554.rest^$all
 ||olx.99325235.cyou^$all
@@ -13728,19 +13808,24 @@
 ||olx.712781002-oferta-apple-macbook-m3-16gb-512gb.click^$all
 ||olx.716145009-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||olx.885294026-oferta-ipad-pro-m5-13-wifi-cellular.cfd^$all
+||olx.2348723523.cfd^$all
+||olx.2348723523.sbs^$all
 ||olx.5273772635.sbs^$all
 ||olx.6143897201.click^$all
 ||olx.7189172361-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||olx.28473939854.click^$all
+||olx.38427584325.cfd^$all
 ||olx.85075937269-oferta-samsung-galaxy-z-flip7.click^$all
 ||olx.98345934850.click^$all
 ||olx.99282671000-oferta-apple-macbook-m3-16-512-gb.cfd^$all
 ||olx.293743038596.click^$all
 ||olx.299374322854.click^$all
 ||olx.328582572329.click^$all
+||olx.2837433836365.click^$all
 ||olx.2837437359686.click^$all
 ||olx.2937439396285.click^$all
 ||olx.2937473735433.click^$all
+||olx.9595329932654.click^$all
 ||olx.20374292373748.click^$all
 ||olx.38904778345043.click^$all
 ||olx.54456665446684.click^$all
@@ -14034,6 +14119,7 @@
 ||olx.pl-19141941032.cfd^$all
 ||olx.pl-19341041932.cfd^$all
 ||olx.pl-83391266223zamowienie7262650197.lat^$all
+||olx.pl-331257884267zamowienie21246745894c.sbs^$all
 ||olx.pl-829662192726bwgavsbnjsbsn726262738.club^$all
 ||olx.pl-882516738383ogloszenie928263799263.biz^$all
 ||olx.pl-8262628365628ogloszenie8262637vafndb.cfd^$all
@@ -14101,6 +14187,7 @@
 ||olx.pl-oferta783478.sbs^$all
 ||olx.pl-oferta824753.sbs^$all
 ||olx.pl-oferta826193.sbs^$all
+||olx.pl-oferta832719.info^$all
 ||olx.pl-oferta873590.cfd^$all
 ||olx.pl-oferta886199.cfd^$all
 ||olx.pl-oferta891624.sbs^$all
@@ -14200,6 +14287,7 @@
 ||olx.pl-oferta283742938364.sbs^$all
 ||olx.pl-oferta2833729264955.sbs^$all
 ||olx.pl-oferta501278645128412.top^$all
+||olx.pl-oferta-9281902392.sbs^$all
 ||olx.pl-oferta-id-133457-kategorie-id-192876.cfd^$all
 ||olx.pl-oferta-id-133457-kategorie-id-192926.cfd^$all
 ||olx.pl-oferta-id-184936-kategorie-id-199438.cfd^$all
@@ -14263,6 +14351,7 @@
 ||olx.stufixone.cfd^$all
 ||olx.tasksboards.com^$all
 ||olx.volum-res.world^$all
+||olx.x9v8.sbs^$all
 ||olx.x21830p391p17.icu^$all
 ||olx.x-kategorie-1-59.one^$all
 ||olx.zabarhoan.cfd^$all
@@ -14533,7 +14622,6 @@
 ||oxtlxpl.lumin.casa^$all
 ||oxtlxpl.raketo.casa^$all
 ||oxtlxpl.x2gglq.sbs^$all
-||oxx7opl.c6ybux.rest^$all
 ||oxx7opl.ek5xjf.beer^$all
 ||oyshonew.com^$all
 ||oyshoshop.com^$all
@@ -14866,6 +14954,7 @@
 ||personal80439-onet-verify.174-138-26-139.cpanel.site^$all
 ||personal81019-onet-verify.174-138-26-139.cpanel.site^$all
 ||personal82091-onet-verify.174-138-26-139.cpanel.site^$all
+||personal84309-info-verify-app.216-194-173-141.cpanel.site^$all
 ||personal86868-info-verify-app.216-194-173-141.cpanel.site^$all
 ||personal87347-onet-verify.app-poczta.site^$all
 ||personal88147-info-verify-app.216-194-173-141.cpanel.site^$all
@@ -15460,6 +15549,7 @@
 ||pl-72341141092.cfd^$all
 ||pl-72349741092.cfd^$all
 ||pl-83391266223zamowienie7262650197.lat^$all
+||pl-331257884267zamowienie21246745894c.sbs^$all
 ||pl-829662192726bwgavsbnjsbsn726262738.club^$all
 ||pl-882516738383ogloszenie928263799263.biz^$all
 ||pl-8262628365628ogloszenie8262637vafndb.cfd^$all
@@ -15555,6 +15645,7 @@
 ||pl-oferta783478.sbs^$all
 ||pl-oferta824753.sbs^$all
 ||pl-oferta826193.sbs^$all
+||pl-oferta832719.info^$all
 ||pl-oferta851822.sbs^$all
 ||pl-oferta873590.cfd^$all
 ||pl-oferta876329.sbs^$all
@@ -15674,6 +15765,7 @@
 ||pl-oferta283742938364.sbs^$all
 ||pl-oferta2833729264955.sbs^$all
 ||pl-oferta501278645128412.top^$all
+||pl-oferta-9281902392.sbs^$all
 ||pl-oferta-id-133457-kategorie-id-192876.cfd^$all
 ||pl-oferta-id-133457-kategorie-id-192926.cfd^$all
 ||pl-oferta-id-184936-kategorie-id-199438.cfd^$all
@@ -15874,6 +15966,7 @@
 ||plungsprof.rest^$all
 ||plunkstep.com^$all
 ||pluracostu.rest^$all
+||plus.disneyupdate.online^$all
 ||plusai.space^$all
 ||pluto2.appwrite.network^$all
 ||plvnigmapl.gloryft.com^$all
@@ -18297,6 +18390,7 @@
 ||spriggulum.cyou^$all
 ||sprightly-unicorn-63000d.netlify.app^$all
 ||springfdrip.golentra.com^$all
+||sprintice.nomadsocials.com^$all
 ||sprizexasp.rest^$all
 ||spuapanos.rest^$all
 ||spumasmela.rest^$all
@@ -20055,21 +20149,27 @@
 ||vinted.24726.click^$all
 ||vinted.34012.cyou^$all
 ||vinted.36178ds7c9.lat^$all
+||vinted.43577.cyou^$all
 ||vinted.47931.cyou^$all
 ||vinted.72102.cyou^$all
+||vinted.73891.cyou^$all
 ||vinted.75138.cfd^$all
 ||vinted.75421.cfd^$all
 ||vinted.75431.cfd^$all
 ||vinted.75995.click^$all
 ||vinted.84519.cyou^$all
+||vinted.91761.cfd^$all
 ||vinted.94871.cfd^$all
 ||vinted.98431.cfd^$all
 ||vinted.238722.sbs^$all
 ||vinted.0423765.top^$all
+||vinted.726272.sbs^$all
 ||vinted.728264.sbs^$all
+||vinted.873282.sbs^$all
 ||vinted.3453639.click^$all
 ||vinted.7181712-oferta-apple-macbook-m3-16gb-512gb.lat^$all
 ||vinted.7960703-oferta-sprzedam-macbook-air-m1.sbs^$all
+||vinted.8374829.bond^$all
 ||vinted.17561096.click^$all
 ||vinted.79732554.rest^$all
 ||vinted.99325235.cyou^$all
@@ -20078,17 +20178,23 @@
 ||vinted.712781002-oferta-apple-macbook-m3-16gb-512gb.click^$all
 ||vinted.716145009-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||vinted.885294026-oferta-ipad-pro-m5-13-wifi-cellular.cfd^$all
+||vinted.2348723523.cfd^$all
+||vinted.2348723523.sbs^$all
 ||vinted.6143897201.click^$all
 ||vinted.7189172361-oferta-samsung-galaxy-z-flip7.cfd^$all
 ||vinted.28473939854.click^$all
+||vinted.38427584325.cfd^$all
 ||vinted.85075937269-oferta-samsung-galaxy-z-flip7.click^$all
 ||vinted.98345934850.click^$all
 ||vinted.99282671000-oferta-apple-macbook-m3-16-512-gb.cfd^$all
 ||vinted.293743038596.click^$all
 ||vinted.299374322854.click^$all
 ||vinted.718911237512-oferta-samsung-galaxy-z-flip7.cfd^$all
+||vinted.2837433836365.click^$all
 ||vinted.2837437359686.click^$all
 ||vinted.2937439396285.click^$all
+||vinted.2937473735433.click^$all
+||vinted.9595329932654.click^$all
 ||vinted.20374292373748.click^$all
 ||vinted.38904778345043.click^$all
 ||vinted.54456665446684.click^$all
@@ -20282,6 +20388,7 @@
 ||vinted.pl-19141941032.cfd^$all
 ||vinted.pl-19341041932.cfd^$all
 ||vinted.pl-83391266223zamowienie7262650197.lat^$all
+||vinted.pl-331257884267zamowienie21246745894c.sbs^$all
 ||vinted.pl-829662192726bwgavsbnjsbsn726262738.club^$all
 ||vinted.pl-882516738383ogloszenie928263799263.biz^$all
 ||vinted.pl-8262628365628ogloszenie8262637vafndb.cfd^$all
@@ -20347,6 +20454,7 @@
 ||vinted.pl-oferta783478.sbs^$all
 ||vinted.pl-oferta824753.sbs^$all
 ||vinted.pl-oferta826193.sbs^$all
+||vinted.pl-oferta832719.info^$all
 ||vinted.pl-oferta873590.cfd^$all
 ||vinted.pl-oferta886199.cfd^$all
 ||vinted.pl-oferta891624.sbs^$all
@@ -20445,6 +20553,7 @@
 ||vinted.pl-oferta283742938364.sbs^$all
 ||vinted.pl-oferta2833729264955.sbs^$all
 ||vinted.pl-oferta501278645128412.top^$all
+||vinted.pl-oferta-9281902392.sbs^$all
 ||vinted.pl-oferta-id-133457-kategorie-id-192876.cfd^$all
 ||vinted.pl-oferta-id-133457-kategorie-id-192926.cfd^$all
 ||vinted.pl-oferta-id-184936-kategorie-id-199438.cfd^$all
@@ -20503,6 +20612,7 @@
 ||vinted.wby2mj.shop^$all
 ||vinted.weryfikacja.click^$all
 ||vinted.wqtvof.shop^$all
+||vinted.x9v8.sbs^$all
 ||vinted.x21830p391p17.icu^$all
 ||vinted.x-kategorie-1-59.one^$all
 ||vinted.zakupy1623632.click^$all
@@ -20565,6 +20675,7 @@
 ||vlnted.check1508.cfd^$all
 ||vlnted.check2751.cfd^$all
 ||vnhbgf.com^$all
+||voaqvo.com^$all
 ||vocabgym.com^$all
 ||vocitcocke.rest^$all
 ||vod-base.com^$all
@@ -21169,6 +21280,7 @@
 ||x7v3a4.lat^$all
 ||x7y6q0.lat^$all
 ||x9relpax.com^$all
+||x9v8.sbs^$all
 ||x21830p391p17.icu^$all
 ||x-hosepl2.com^$all
 ||x-kategorie-1-59.one^$all
@@ -21324,6 +21436,7 @@
 ||ycomp.cynthiaboyermlo.com^$all
 ||ycont.rebusdreams.com^$all
 ||ycoree.plastrocraft.com^$all
+||ydohd.com^$all
 ||ydsbvadk.shop^$all
 ||yearmoon.cyou^$all
 ||yeentso.com^$all
@@ -21595,6 +21708,7 @@
 ||zuscentrum.mediadons.com^$all
 ||zusoworld.org^$all
 ||zutisisbetail.pro^$all
+||zvlwum.com^$all
 ||zw-test.website^$all
 ||zwenmatthews.com^$all
 ||zweryfikujmet2026.site^$all
@@ -22111,8 +22225,12 @@
 ||zobaczktopodgladaa.blogspot.com^$all
 !
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
+###humanFrame
+###humanModal:has(#humanFrame)
 ##a[href^="/fb-login"]
 ##body > .container:not([id]):only-child:has(> h1:first-child ~ table:not([id]):not([class]):only-of-type ~ div.dconts:not([id]):last-child)
+*###humanFrame:remove()
+*###humanModal:has(#humanFrame):remove()
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,domain=~asystent-pobierania-na-dobreprogramy-lub-softonic.*|cloudfront.net,to=cloudfront.net
 /^https?:\/\/[\w]+\.cloudfront\.net\/(?:build|current|latest|main|release|rel|revision|rev|v|version|ver)\/pl\/v/$doc,important,reason="Szkoldiwy asystent pobierania na dobreprogramy lub np. softonic",to=cloudfront.net
 @@||blocked-site-hole-cert.pl^$domain=lista.cert.pl
@@ -22146,10 +22264,12 @@ net-s.pl##html body header nav::after:style(content: 'Zakupy na własną odpowie
 pl##a[href*="whokeys.com/"]
 salesmanago.pl##+js(href-sanitizer, a[href*="salesmanago.pl/ms/rd.htm?url"], ?url)
 speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
-support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
-support.ublock.org##body div.hero-unit > div.search-box--hero-unit::before:style(display: inline-block !important; text-align: center !important)
-support.ublock.org##body div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
+support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
+support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:style(display: inline-block !important; text-align: center !important)
+support.ublock.org##:root div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
 tyfloswiat.pl##^responseheader(location)
+ublockdns.com##:root nav + section > div:first-child::before:style(content: 'Nie ma związku z uBlock Origin.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
+ublockorigin.com##:root .title::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
 www.cyclonis.com##.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.google.*##.g:has(a[href*="//adservice.google."])
 xja.pl,xn.pl##+js(refresh-defuser, 5)
