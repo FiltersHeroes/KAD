@@ -39,6 +39,9 @@
 !
 ! Natrętne lub wprowadzające w błąd reklamy/obrazy
 @include natretne_lub_wprowadzajace_w_blad
+!#if env_legacy
+@include natretne_lub_wprowadzajace_w_blad_Legacy
+!#endif
 !#if !ext_ublock
 @include natretne_lub_wprowadzajace_w_blad_AG
 !#endif

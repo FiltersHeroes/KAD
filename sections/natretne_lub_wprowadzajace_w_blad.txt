@@ -15,6 +15,9 @@
 ||leclerc-sklep.agmb.pl^$all
 ||ptoszek.pl^$all
 ||remontujemysami.pl^$all
+||ublock.org^$doc,to=ublock.org,reason="uBlock nie jest powiązany z dobrze znanym uBlock Origin"
+||ublockdns.com^$doc,to=ublockdns.com,reason="Nie ma związku z uBlock Origin"
+||ublockorigin.com^$doc,to=ublockorigin.com,reason="To nie jest oficjalna strona uBlock Origin"
 ||wilczynscy-ogrody.pl^$all
 ~pl##a[href*="whokeys.com/"]:lang(pl)
 ~support.ublock.org,ublock.org##body main::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
@@ -39,8 +42,10 @@ support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:styl
 support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:style(display: inline-block !important; text-align: center !important)
 support.ublock.org##:root div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
 tyfloswiat.pl##^responseheader(location)
-ublockdns.com##:root nav + section > div:first-child::before:style(content: 'Nie ma związku z uBlock Origin.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
-ublockorigin.com##:root .title::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important; font-size: 32px !important; color: red !important; font-weight: bold !important;)
+ublockdns.com##:root main > section > div:first-child::before:style(content: 'Nie ma związku z uBlock Origin.' !important)
+ublockdns.com##:root main > section > div:first-child::before:style(font-size: 32px !important; color: red !important; font-weight: bold !important)
+ublockorigin.com##:root .title::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important)
+ublockorigin.com##:root .title::before:style(font-size: 32px !important; color: red !important; font-weight: bold !important)
 www.cyclonis.com##.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.google.*##.g:has(a[href*="//adservice.google."])
 xja.pl,xn.pl##+js(refresh-defuser, 5)
