@@ -17,7 +17,7 @@
 ||remontujemysami.pl^$all
 ||ublock.org^$doc,to=ublock.org,reason="uBlock nie jest powiązany z dobrze znanym uBlock Origin"
 ||ublockdns.com^$doc,to=ublockdns.com,reason="Nie ma związku z uBlock Origin"
-||ublockorigin.^$doc,to=ublockorigin.com|ublockorigin.app,reason="To nie jest oficjalna strona uBlock Origin"
+||ublockorigin.$doc,to=ublockorigin.com|ublockorigin.app,reason="To nie jest oficjalna strona uBlock Origin"
 ||wilczynscy-ogrody.pl^$all
 ~pl##a[href*="whokeys.com/"]:lang(pl)
 ~support.ublock.org,ublock.org##body main::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
