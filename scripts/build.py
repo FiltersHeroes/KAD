@@ -9,13 +9,12 @@
 #
 import os
 import re
-import json
+import hashlib
+import sys
 import shutil
 import importlib.util
 from tempfile import NamedTemporaryFile
 import git
-from downloader import download
-
 
 pj = os.path.join
 pn = os.path.normpath
@@ -55,6 +54,24 @@ if "CI" in os.environ and "git_repo" in locals():
 if not os.path.exists(temp_path):
     os.mkdir(temp_path)
 
+
+SFLB_path = pn(main_path+"/../ScriptsPlayground/scripts/SFLB.py")
+if "CI" in os.environ:
+    SFLB_path = "/usr/bin/SFLB.py"
+elif not "TESTING_MODE" in os.environ:
+    checksum = ""
+    with open(SFLB_path, 'rb') as fh:
+        m = hashlib.sha256()
+        while True:
+            data = fh.read(8192)
+            if not data:
+                break
+            m.update(data)
+        checksum = m.hexdigest()
+    if checksum != "a969b948a0d5c5367a12dcf53447f0bb4d3d7159721ba9a36b0f0227fd3c761a":
+        sys.exit("Error: checksum verification failed for SFLB script.")
+
+
 CERT_NOVELTIES_PATH = pj(main_path, "sections", "CERT_novelties.txt")
 PRZEKRETY_PATH = pj(main_path, "sections", "przekrety_CERT.txt")
 LWS_NOVELTIES_PATH = pj(main_path, "sections", "LWS_novelties.txt")
@@ -75,16 +92,10 @@ def combineFiles(file1, file2):
                 git_repo.index.commit("Nowości z LWS")
         os.remove(file1)
 
-
 os.replace(CERT_NOVELTIES_PATH, PRZEKRETY_PATH)
 combineFiles(LWS_NOVELTIES_PATH, PODEJRZANE_PATH)
-
-
 shutil.rmtree(temp_path)
 
-SFLB_path = pn(main_path+"/../ScriptsPlayground/scripts/SFLB.py")
-if "CI" in os.environ:
-    SFLB_path = "/usr/bin/SFLB.py"
 spec = importlib.util.spec_from_file_location(
     "SFLB", SFLB_path)
 SFLB = importlib.util.module_from_spec(spec)
