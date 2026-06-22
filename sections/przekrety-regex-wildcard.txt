@@ -54,6 +54,7 @@
 ||inpost.pl-*.$doc,to=~inpost.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
 ||inpost.pl.*.$doc,to=~inpost.pl
 ||inpost.pl.*.$doc,to=~inpost.pl,reason="Przekręt z fałszywym kuriererm lub paczką"
+||inpostpl.$doc,to=~inpost.pl
 ||instasexlocator*.com^$all
 ||ionetporwanie.$all
 ||iporwaniedziecka24.$all
