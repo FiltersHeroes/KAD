@@ -55,8 +55,10 @@
 ||attractionmarketing.com^$all
 ||attractsteadyclients.com^$all
 ||auradelunadao.com^$all
-||auto.pl^$doc,to=auto.pl|~www.auto.pl
-||auto.pl^$frame,object,domain=auto.pl|~www.auto.pl
+|http://auto.pl^$doc,to=auto.pl
+|http://auto.pl^$frame,object,domain=auto.pl
+|http://www.auto.pl^$doc,to=auto.pl
+|http://www.auto.pl^$frame,object,domain=auto.pl
 ||autoresdecomic.com^$all
 ||avaparse.ir^$all
 ||axes.co^$all
