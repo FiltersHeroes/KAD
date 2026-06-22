@@ -31,6 +31,9 @@
 !
 ! Przekręty
 @include przekrety + przekrety_CERT
+!#if env_legacy
+@include przekrety_Legacy
+!#endif
 @include przekrety-sciezki-parametry
 @include przekrety-regex-wildcard
 !
