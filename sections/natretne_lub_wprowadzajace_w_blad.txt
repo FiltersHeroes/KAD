@@ -22,6 +22,7 @@
 ~pl##a[href*="whokeys.com/"]:lang(pl)
 ~support.ublock.org,ublock.org##body main::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
+dobreprogramy.pl##a[href*="forum.dobreprogramy.pl/c/oprogramowanie-komputerowe"]:upward(div)
 dobreprogramy.pl##article#main-content button:has-text(przy pomocy Asystenta pobierania)
 dobreprogramy.pl##article#main-content div[data-nosnippet]:has(> div > div > a[href*="/jak-w-windowsie-usunac-niepotrzebne-pliki-i-posprzatac-w-systemie"])
 emedyczny.com,emedyczny.pl##.c-product-box:has(a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i])
