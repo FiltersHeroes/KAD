@@ -1,7 +1,3 @@
-|http://auto.pl^$doc,to=auto.pl|~www.auto.pl|~km.auto.pl,reason="Sugerowane używanie HTTPS (szyfrowanego połączenia) ze subdomeną www."
-|http://auto.pl^$frame,object,domain=auto.pl|~www.auto.pl|~km.auto.pl
-|http://www.auto.pl^$doc,to=www.auto.pl,reason="Sugerowane używanie HTTPS (szyfrowanego połączenia)"
-|http://www.auto.pl^$frame,object,domain=www.auto.pl
 .com/c/*?s1=$doc,to=com
 .com/k082rwq?t=$doc,to=com
 .com/s/*?track=$doc
@@ -39,6 +35,10 @@
 /zcvisitor/*?campaignid$doc
 ?zoneid=*&cost=0.$doc
 ^s1=*&click_id=$doc
+|http://auto.pl^$doc,to=auto.pl|~www.auto.pl|~km.auto.pl,reason="Sugerowane używanie HTTPS (szyfrowanego połączenia) ze subdomeną www."
+|http://auto.pl^$frame,object,domain=auto.pl|~km.auto.pl|~www.auto.pl
+|http://www.auto.pl^$doc,to=www.auto.pl,reason="Sugerowane używanie HTTPS (szyfrowanego połączenia)"
+|http://www.auto.pl^$frame,object,domain=www.auto.pl
 ||about.me/finansowanie24na7$all
 ||erne.pl/50/oreon-pozyczki$all
 ||erne.pl/239/personum-pozyczki$all
