@@ -42,7 +42,7 @@ speedtest.com.pl,speedtest.pl##a[href*="przyspiesz.pl/"]
 support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
 support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:style(display: block !important; text-align: center !important)
 support.ublock.org##:root div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
-tyfloswiat.pl##^responseheader(location)
+tyfloswiat.pl,alexdent.waw.pl##^responseheader(location)
 ublockdns.com##:root main > section > div:first-child::before:style(content: 'Nie ma związku z uBlock Origin.' !important)
 ublockdns.com##:root main > section > div:first-child::before:style(display: block !important; font-size: 32px !important; color: red !important; font-weight: bold !important)
 ublockorigin.com##:root #main::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important)
