@@ -49,8 +49,6 @@ ublockdns.com##:root main > section > div:first-child::before:style(content: 'Ni
 ublockdns.com##:root main > section > div:first-child::before:style(display: block !important; font-size: 32px !important; color: red !important; font-weight: bold !important)
 ublockorigin.app,ublockorigin.com##:root :is(#main, .title)::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important)
 ublockorigin.app,ublockorigin.com##:root :is(#main, .title)::before:style(display: block !important; font-size: 32px !important; color: red !important; font-weight: bold !important)
-ublockorigin.app,ublockorigin.com##:root :is(#main, .title)::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important)
-ublockorigin.app,ublockorigin.com##:root :is(#main, .title)::before:style(display: block !important; font-size: 32px !important; color: red !important; font-weight: bold !important)
 www.cyclonis.com##.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.google.*##.g:has(a[href*="//adservice.google."])
 xja.pl,xn.pl##+js(refresh-defuser, 5)
