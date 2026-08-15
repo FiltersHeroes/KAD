@@ -1,3 +1,5 @@
+mojeikp.pl##.header::after, header::before:style(content: 'To nie jest strona rządowa!' !important; color: #f00 !important; font-weight: bold !important)
+mojeikp.pl##.header::after, header::before:style(display: block !important; text-align: center !important)
 ###humanFrame
 ###humanModal:has(#humanFrame)
 ##a[href^="/fb-login"]
