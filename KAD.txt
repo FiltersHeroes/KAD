@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 15 Aug 2026, 21:51 UTC+02:00
-! Version: 2026.8.15.3
+! Last modified: Sat, 15 Aug 2026, 22:01 UTC+02:00
+! Version: 2026.8.15.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1800,6 +1800,7 @@
 ||6y6ywy.hair^$all
 ||6y7e0t.hair^$all
 ||6y7ey57y.hair^$all
+||6ye9eu63.hair^$all
 ||7dot.cn^$all
 ||7f9qh.expresd0staw.cfd^$all
 ||7gsjx.com^$all
@@ -3314,7 +3315,6 @@
 ||allegrolokalnie.lokalna-01921.sbs^$all
 ||allegrolokalnie.lokalna-3298.sbs^$all
 ||allegrolokalnie.lokalna-7988.sbs^$all
-||allegrolokalnie.lokalna-8398.sbs^$all
 ||allegrolokalnie.lokalna-9112.shop^$all
 ||allegrolokalnie.lokalna-12912.sbs^$all
 ||allegrolokalnie.lokalna-19273.sbs^$all
@@ -12476,7 +12476,6 @@
 ||getimpulsecashholm.click^$all
 ||getingenuity.com^$all
 ||getletsleap.co.uk^$all
-||getriskmadeinwarsaw.shop^$all
 ||gettogetherrepublic.com^$all
 ||getverify99883-onet-information.129-121-126-146.cpanel.site^$all
 ||getviralpulse.com^$all
@@ -13169,7 +13168,6 @@
 ||habilerendature-fr.live^$all
 ||habilerendature.com^$all
 ||habiragost.cyou^$all
-||haciabdullahsaraymutfagi.net^$all
 ||hackerbot.net^$all
 ||hafenzinsstein-de.live^$all
 ||hafenzinsstein.com^$all
@@ -14305,7 +14303,6 @@
 ||ingresospasivossolution.com^$all
 ||ingroincan.cyou^$all
 ||ingronanki.cyou^$all
-||ingroockst.cyou^$all
 ||ingrosz-ai.com^$all
 ||ingrosz-app.com^$all
 ||ingrosz.com^$all
@@ -22781,7 +22778,6 @@
 ||risgosbioc.cyou^$all
 ||risingindianews.com^$all
 ||risingofknight.com^$all
-||riskmadeinwarsaw.live^$all
 ||risogsalta.cyou^$all
 ||risorsa-portyrex.pro^$all
 ||risosepicu.rest^$all
@@ -28638,6 +28634,7 @@
 ||voxtrendputere.pro^$all
 ||voxwrap.site^$all
 ||voyagesim.com^$all
+||vphimmoii.com^$all
 ||vps140678.inmotionhosting.com^$all
 ||vqj.r9ucep.top^$all
 ||vqqartlh.shop^$all
@@ -31109,10 +31106,8 @@ support.ublock.org##:root div.hero-unit > div.search-box--hero-unit::before:styl
 support.ublock.org##:root div.hero-unit > div.search-box--hero-unit:matches-media((min-width: 978px)):style(min-width: 900px !important)
 ublockdns.com##:root main > section > div:first-child::before:style(content: 'Nie ma związku z uBlock Origin.' !important)
 ublockdns.com##:root main > section > div:first-child::before:style(display: block !important; font-size: 32px !important; color: red !important; font-weight: bold !important)
-ublockorigin.app,ublockorigin.com##:root #main::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important)
-ublockorigin.app,ublockorigin.com##:root #main::before:style(display: block !important; font-size: 32px !important; color: red !important; font-weight: bold !important)
-ublockorigin.app,ublockorigin.com##:root .title::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important)
-ublockorigin.app,ublockorigin.com##:root .title::before:style(display: block !important; font-size: 32px !important; color: red !important; font-weight: bold !important)
+ublockorigin.app,ublockorigin.com##:root :is(#main, .title)::before:style(content: 'To nie jest oficjalna strona uBlock Origin.' !important)
+ublockorigin.app,ublockorigin.com##:root :is(#main, .title)::before:style(display: block !important; font-size: 32px !important; color: red !important; font-weight: bold !important)
 www.cyclonis.com##.banner-block, div[class*="banner-sh-"]:has-text(SpyHunter)
 www.google.*##.g:has(a[href*="//adservice.google."])
 xja.pl,xn.pl##+js(refresh-defuser, 5)
