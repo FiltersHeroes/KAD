@@ -1,5 +1,3 @@
-|https://telemedi.com/|$doc,reason="Możliwe, że nie uzyskasz e-ZLA, e-skierowania ani e-recepty"
-|https://telemedi.com/pl|$doc,reason="Możliwe, że nie uzyskasz e-ZLA, e-skierowania ani e-recepty"
 .com/c/*?s1=$doc,to=com
 .com/k082rwq?t=$doc,to=com
 .com/s/*?track=$doc
@@ -41,6 +39,8 @@
 |http://auto.pl^$frame,object,domain=auto.pl|~km.auto.pl|~www.auto.pl
 |http://www.auto.pl^$doc,to=www.auto.pl,reason="Sugerowane używanie HTTPS (szyfrowanego połączenia)"
 |http://www.auto.pl^$frame,object,domain=www.auto.pl
+|https://telemedi.com/pl|$doc,reason="Możliwe, że nie uzyskasz e-ZLA, e-skierowania ani e-recepty"
+|https://telemedi.com/|$doc,reason="Możliwe, że nie uzyskasz e-ZLA, e-skierowania ani e-recepty"
 ||about.me/finansowanie24na7$all
 ||bow24.pl/produkt/znany-lekarz-opinie$all
 ||erne.pl/50/oreon-pozyczki$all
