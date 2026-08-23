@@ -21,7 +21,6 @@
 ||wilczynscy-ogrody.pl^$all
 ~pl##a[href*="whokeys.com/"]:lang(pl)
 ~support.ublock.org,ublock.org##body main::before:style(content: 'uBlock nie jest powiązany z dobrze znanym uBlock Origin.' !important)
-alexdent.waw.pl,krainaekozabawek.pl,tyfloswiat.pl##^responseheader(location)
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 dobreprogramy.pl##a[href*="forum.dobreprogramy.pl/c/oprogramowanie-komputerowe"]:upward(div)
 dobreprogramy.pl##article#main-content button:has-text(przy pomocy Asystenta pobierania)
