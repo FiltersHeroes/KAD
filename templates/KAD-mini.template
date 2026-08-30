@@ -1,0 +1,57 @@
+! Title: 🇵🇱 KAD - STOP Przekrętom
+! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez legalniewsieci.pl, KNF i inne zespoły (z pomnięciem CERT Polska).
+! Last modified: @modified
+! Version: @version
+! Expires: 2 days
+! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+! Creator: azet12
+! Maintainer: Filters Heroes
+! Homepage: https://kadantiscam.netlify.app
+!
+! Kontakt, zgłoszenia i informacje: https://kadantiscam.netlify.app/#contact
+!
+! Lista dla uBlock Origin Lite/Minus 2026.729.1529+
+!
+! (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+! (PL) UWAGA: Strony poniżej mogą być szkodliwe. Proszę, nie wchodź na nie, jeśli nie wiesz co robisz!
+!
+!#safari_cb_affinity(security)
+! Podejrzane i/lub strony połączone z innymi oszustwami
+@include podejrzane_inne_oszustwa
+!
+! Przekierowują do innych stron z przekrętami
+@include przekierowujace_do_przekretow
+!
+! Szybko wygaszające
+@include szybko_wygaszajace
+!
+! Przekręty
+@include przekrety
+!#if env_legacy
+@include przekrety_Legacy
+!#endif
+@include przekrety-sciezki-parametry
+@include przekrety-regex-wildcard
+!
+! Blogspot
+@include blogspot
+!
+! Natrętne lub wprowadzające w błąd reklamy/obrazy
+@include natretne_lub_wprowadzajace_w_blad
+!#if env_legacy
+@include natretne_lub_wprowadzajace_w_blad_Legacy
+!#endif
+!#if !ext_ublock
+@include natretne_lub_wprowadzajace_w_blad_AG
+!#endif
+!
+!
+! Reguły specjalne
+kadantiscam.netlify.app###kadetect
+!#safari_cb_affinity
+!#if ext_ublock
+!#include sections/specjalne_uBO.txt
+!#endif
+!#if !ext_ublock
+!#include sections/specjalne_AG.txt
+!#endif
