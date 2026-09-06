@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 06 Sep 2026, 19:47 UTC+02:00
-! Version: 2026.9.6.3
+! Last modified: Sun, 06 Sep 2026, 23:47 UTC+02:00
+! Version: 2026.9.6.4
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -1539,8 +1539,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||0o-i1xj667.p9bckp.sbs^$all
 ||0oi1xcfg2hn55.zamovienie0nline.click^$all
 ||0ps8tslaiu.memphisbopclub.com^$all
-||0todm-info524.my.id^$all
-||0todom.my.id^$all
 ||0wo6yhe3.skin^$all
 ||0y1xli91-sbx.a8rona.sbs^$all
 ||01-ixyanwpre.ax7tjc.cfd^$all
@@ -1668,6 +1666,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||5kln.e9dodv.top^$all
 ||05l1x-dryws81.km2cva.top^$all
 ||5n5t.er7qfi.casa^$all
+||5n.c6kvof.top^$all
 ||5nrv.oferta13x.lat^$all
 ||5qx7mzn.casa^$all
 ||5r2d.kerviw.casa^$all
@@ -1745,7 +1744,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||8nukramortrade.com^$all
 ||8nz.kurierp0lska.click^$all
 ||8q2v.oftesid.lat^$all
-||8rv5pkw.qpon^$all
 ||8ue64ye.qpon^$all
 ||8v4.t2ltdy.top^$all
 ||8w.ax1pir.sbs^$all
@@ -1820,6 +1818,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||420millionaire.com^$all
 ||488lm.fg6hfa.sbs^$all
 ||559x.kz7dsq.top^$all
+||563x.jk8jie.casa^$all
 ||896rg86d.weebly.com^$all
 ||0911xeeh6sint.ax7tjc.cfd^$all
 ||954.b2bfzb.cfd^$all
@@ -1837,6 +1836,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||53430.weebly.com^$all
 ||058127.click^$all
 ||59831.lol^$all
+||62547.lol^$all
 ||75428.lol^$all
 ||92114la.com^$all
 ||94813.lol^$all
@@ -1851,6 +1851,8 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||446834wi.top^$all
 ||487213.lol^$all
 ||512885.mom^$all
+||521323.lol^$all
+||568192.mom^$all
 ||623466fa.top^$all
 ||632454rd.top^$all
 ||632464gr.top^$all
@@ -1885,7 +1887,9 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||78518181.lat^$all
 ||83073324.xyz^$all
 ||84416219.xyz^$all
+||87571758.lat^$all
 ||91878364.xyz^$all
+||93824923.cyou^$all
 ||95740113.xyz^$all
 ||95816921.rest^$all
 ||0199722678.icu^$all
@@ -1898,6 +1902,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||73892936653.cfd^$all
 ||82991284182s.casa^$all
 ||3412674812891236.sbs^$all
+||a0syr0e.pics^$all
 ||a02avb0.skin^$all
 ||a3iinvestmentsllc.net^$all
 ||a5fnaa2s.bond^$all
@@ -2723,9 +2728,11 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||alebilet.8364-oferta.shop^$all
 ||alebilet.058127.click^$all
 ||alebilet.59831.lol^$all
+||alebilet.62547.lol^$all
 ||alebilet.75428.lol^$all
 ||alebilet.94813.lol^$all
 ||alebilet.487213.lol^$all
+||alebilet.521323.lol^$all
 ||alebilet.648212.lol^$all
 ||alebilet.673262.lol^$all
 ||alebilet.747212.lol^$all
@@ -2738,6 +2745,8 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||alebilet.9754075.lat^$all
 ||alebilet.9785720.lat^$all
 ||alebilet.78518181.lat^$all
+||alebilet.87571758.lat^$all
+||alebilet.93824923.cyou^$all
 ||alebilet.795198251.lat^$all
 ||alebilet.885815212.lat^$all
 ||alebilet.7581909510.lat^$all
@@ -2751,13 +2760,16 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||alebilet.kupno-biletu.sbs^$all
 ||alebilet.letnie-okazje8874905804.cyou^$all
 ||alebilet.lokalne-1857293.cfd^$all
+||alebilet.lokalne-4927421.cfd^$all
 ||alebilet.oferta3847bs8a10.live^$all
 ||alebilet.oferta41233.sbs^$all
 ||alebilet.oferta54783.sbs^$all
 ||alebilet.oferta81325.sbs^$all
 ||alebilet.oferta317587.cfd^$all
 ||alebilet.oferta371261.cfd^$all
+||alebilet.oferta456362.cfd^$all
 ||alebilet.oferta464312.cfd^$all
+||alebilet.oferta839174.click^$all
 ||alebilet.oferta2416742.cfd^$all
 ||alebilet.oferta234571238.cfd^$all
 ||alebilet.oferta5522738483322.cfd^$all
@@ -2818,9 +2830,11 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||alebilet.pl-nd0produkt72671688324.lol^$all
 ||alebilet.pl-nd0produkty329732421.lol^$all
 ||alebilet.pl-nd0produkty47282868591.lat^$all
+||alebilet.pl-nd2produkty758432251.lol^$all
 ||alebilet.pl-nd3produkty528432411.lol^$all
 ||alebilet.pl-nd4produkty529432421.lol^$all
 ||alebilet.pl-oferta8312.sbs^$all
+||alebilet.pl-oferta78224.click^$all
 ||alebilet.pl-oferta84123.sbs^$all
 ||alebilet.pl-oferta594583.shop^$all
 ||alebilet.pl-oferta1914514.click^$all
@@ -2850,10 +2864,10 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||alebilet.pl-ogloszenie6753998232.lol^$all
 ||alebilet.pl-ogloszenie5128592891591.shop^$all
 ||alebilet.pl-rezerwacja9669.click^$all
+||alebilet.pl-tc62v.sbs^$all
 ||alebilet.pl-ticketnumber8374.lat^$all
 ||alebilet.pl-ticketnumber38576.lat^$all
 ||alebilet.pl-ticketnumber82794.lat^$all
-||alebilet.pl-ticketnumber92845.lat^$all
 ||alebilet.pl-ticketnumber92849.lat^$all
 ||alebilet.pl-zakup24.shop^$all
 ||alebilet.pln385.lol^$all
@@ -2938,12 +2952,14 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegro.12300hhbbcc.study^$all
 ||allegro.058127.click^$all
 ||allegro.59831.lol^$all
+||allegro.62547.lol^$all
 ||allegro.75428.lol^$all
 ||allegro.94813.lol^$all
 ||allegro.100020bb4.autos^$all
 ||allegro.0123019h8h.lat^$all
 ||allegro.00123192s.casa^$all
 ||allegro.487213.lol^$all
+||allegro.521323.lol^$all
 ||allegro.648212.lol^$all
 ||allegro.673262.lol^$all
 ||allegro.747212.lol^$all
@@ -2967,8 +2983,10 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegro.41020129g8g.lat^$all
 ||allegro.52399129gg.casa^$all
 ||allegro.78518181.lat^$all
+||allegro.87571758.lat^$all
 ||allegro.91230120sma2.casa^$all
 ||allegro.92359293ghg.lol^$all
+||allegro.93824923.cyou^$all
 ||allegro.120031029ggi4.study^$all
 ||allegro.239492341.casa^$all
 ||allegro.0412941290smar.homes^$all
@@ -3060,6 +3078,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegro.lokalna-ofeta9914122115.sbs^$all
 ||allegro.lokalne-383712.lol^$all
 ||allegro.lokalne-1857293.cfd^$all
+||allegro.lokalne-4927421.cfd^$all
 ||allegro.my5829119f.study^$all
 ||allegro.nr-2389842ms2.lol^$all
 ||allegro.nr-03294223s.lol^$all
@@ -3077,10 +3096,12 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegro.oferta371261.cfd^$all
 ||allegro.oferta389212.click^$all
 ||allegro.oferta390841.click^$all
+||allegro.oferta456362.cfd^$all
 ||allegro.oferta464312.cfd^$all
 ||allegro.oferta823161.click^$all
 ||allegro.oferta825791.click^$all
 ||allegro.oferta837412.click^$all
+||allegro.oferta839174.click^$all
 ||allegro.oferta932193.lol^$all
 ||allegro.oferta2416742.cfd^$all
 ||allegro.oferta50526396.xyz^$all
@@ -3167,6 +3188,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegro.pl-nd0produkt72671688324.lol^$all
 ||allegro.pl-nd0produkty329732421.lol^$all
 ||allegro.pl-nd0produkty47282868591.lat^$all
+||allegro.pl-nd2produkty758432251.lol^$all
 ||allegro.pl-nd3produkty528432411.lol^$all
 ||allegro.pl-nd4produkty529432421.lol^$all
 ||allegro.pl-oferta8312.sbs^$all
@@ -3197,6 +3219,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegro.pl-ogloszenie6753998232.lol^$all
 ||allegro.pl-ogloszenie5128592891591.shop^$all
 ||allegro.pl-rezerwacja9669.click^$all
+||allegro.pl-tc62v.sbs^$all
 ||allegro.pl-zakup24.shop^$all
 ||allegro.platnosc492019.xyz^$all
 ||allegro.platnosc402199421.xyz^$all
@@ -3269,11 +3292,13 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.19246c47b861.lol^$all
 ||allegrolokalnie.058127.click^$all
 ||allegrolokalnie.59831.lol^$all
+||allegrolokalnie.62547.lol^$all
 ||allegrolokalnie.75428.lol^$all
 ||allegrolokalnie.94813.lol^$all
 ||allegrolokalnie.245544ip.top^$all
 ||allegrolokalnie.265819.mom^$all
 ||allegrolokalnie.335544ip.top^$all
+||allegrolokalnie.342143ga.top^$all
 ||allegrolokalnie.455653ra.top^$all
 ||allegrolokalnie.457655ip.top^$all
 ||allegrolokalnie.465866ie.top^$all
@@ -3281,6 +3306,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.465896ee.top^$all
 ||allegrolokalnie.487213.lol^$all
 ||allegrolokalnie.512885.mom^$all
+||allegrolokalnie.521323.lol^$all
 ||allegrolokalnie.523544ip.top^$all
 ||allegrolokalnie.0592812.lol^$all
 ||allegrolokalnie.623264xb.top^$all
@@ -3351,7 +3377,9 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.78518181.lat^$all
 ||allegrolokalnie.82385672.lol^$all
 ||allegrolokalnie.83038493.xyz^$all
+||allegrolokalnie.87571758.lat^$all
 ||allegrolokalnie.92037524.xyz^$all
+||allegrolokalnie.93824923.cyou^$all
 ||allegrolokalnie.95816921.rest^$all
 ||allegrolokalnie.0199722678.icu^$all
 ||allegrolokalnie.518128512.mom^$all
@@ -3367,7 +3395,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.76165127518.lat^$all
 ||allegrolokalnie.82991284182s.casa^$all
 ||allegrolokalnie.746938488402.cfd^$all
-||allegrolokalnie.826856913682346.shop^$all
 ||allegrolokalnie.3412674812891236.sbs^$all
 ||allegrolokalnie.aukcja-6211532.cfd^$all
 ||allegrolokalnie.bezpieczna-transakcja741026395817624.shop^$all
@@ -3384,6 +3411,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.hsttpl.sbs^$all
 ||allegrolokalnie.htmls.sbs^$all
 ||allegrolokalnie.id28nf7329sd7f29dnbdd.sbs^$all
+||allegrolokalnie.id32ur37r3jsi3732d.sbs^$all
 ||allegrolokalnie.id37ns38rjd76d8ndbvds83.sbs^$all
 ||allegrolokalnie.id73idd237sidas8nv832.sbs^$all
 ||allegrolokalnie.id282h32b2idmdd73.sbs^$all
@@ -3509,6 +3537,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.lokalna-ofeta9914122115.sbs^$all
 ||allegrolokalnie.lokalne-383712.lol^$all
 ||allegrolokalnie.lokalne-1857293.cfd^$all
+||allegrolokalnie.lokalne-4927421.cfd^$all
 ||allegrolokalnie.lpprzedmiot743214.sbs^$all
 ||allegrolokalnie.moferta.lol^$all
 ||allegrolokalnie.nr-837umm636.lol^$all
@@ -3544,6 +3573,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.oferta371261.cfd^$all
 ||allegrolokalnie.oferta389212.click^$all
 ||allegrolokalnie.oferta390841.click^$all
+||allegrolokalnie.oferta456362.cfd^$all
 ||allegrolokalnie.oferta464312.cfd^$all
 ||allegrolokalnie.oferta659282.click^$all
 ||allegrolokalnie.oferta726354.cfd^$all
@@ -3655,10 +3685,12 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.pl78453.top^$all
 ||allegrolokalnie.pl87254.lol^$all
 ||allegrolokalnie.pl92562.lol^$all
+||allegrolokalnie.pl94324.top^$all
 ||allegrolokalnie.pl235925.lol^$all
 ||allegrolokalnie.pl292829.cyou^$all
 ||allegrolokalnie.pl923491.cfd^$all
 ||allegrolokalnie.pl982342.xyz^$all
+||allegrolokalnie.pl741921502.xyz^$all
 ||allegrolokalnie.pl784521612.shop^$all
 ||allegrolokalnie.pl9104719256.shop^$all
 ||allegrolokalnie.pl-0produkt889567284.lol^$all
@@ -3758,6 +3790,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.pl-nd0produkt72671688324.lol^$all
 ||allegrolokalnie.pl-nd0produkty329732421.lol^$all
 ||allegrolokalnie.pl-nd0produkty47282868591.lat^$all
+||allegrolokalnie.pl-nd2produkty758432251.lol^$all
 ||allegrolokalnie.pl-nd3produkty528432411.lol^$all
 ||allegrolokalnie.pl-nd4produkty529432421.lol^$all
 ||allegrolokalnie.pl-ofera674892180.cfd^$all
@@ -3769,6 +3802,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.pl-oferta9174.icu^$all
 ||allegrolokalnie.pl-oferta46879.lol^$all
 ||allegrolokalnie.pl-oferta66331.lol^$all
+||allegrolokalnie.pl-oferta78224.click^$all
 ||allegrolokalnie.pl-oferta78429.lol^$all
 ||allegrolokalnie.pl-oferta81811.sbs^$all
 ||allegrolokalnie.pl-oferta84123.sbs^$all
@@ -3841,6 +3875,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||allegrolokalnie.pl-r5d9n.sbs^$all
 ||allegrolokalnie.pl-rezerwacja9669.click^$all
 ||allegrolokalnie.pl-skzt9.sbs^$all
+||allegrolokalnie.pl-tc62v.sbs^$all
 ||allegrolokalnie.pl-wbsd.shop^$all
 ||allegrolokalnie.pl-wfde.shop^$all
 ||allegrolokalnie.pl-zakup24.shop^$all
@@ -4319,6 +4354,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||auraklurgenden.com^$all
 ||auraklurgendenai.digital^$all
 ||auraxcore92.org^$all
+||aureainvexus.net^$all
 ||aurefondaise.com^$all
 ||aurellitopro82ia.com^$all
 ||aurentistrade.de^$all
@@ -4335,7 +4371,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||aurixatrade.com^$all
 ||auroaspect.net^$all
 ||aurogaincode.com^$all
-||auronixpro.click^$all
 ||aurorabreakdump.top^$all
 ||auroracapital-uk.live^$all
 ||aurorafonderio.net^$all
@@ -4434,6 +4469,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||awhilmordo.online^$all
 ||awliptonline.shop^$all
 ||awoirencia.net^$all
+||ax1pir.sbs^$all
 ||ax7tjc.cfd^$all
 ||axalbdcc.shop^$all
 ||axbiebd.shop^$all
@@ -4503,6 +4539,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||b3q7jx.lat^$all
 ||b4r8qn.lat^$all
 ||b5cc0a43nky31m5n306h.s3.us-east-1.amazonaws.com^$all
+||b5w9hc.lat^$all
 ||b5z1qp.lat^$all
 ||b6j4wt.lat^$all
 ||b6jzhi.qpon^$all
@@ -4566,6 +4603,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||balticpipe.pro^$all
 ||baltzyskura.net^$all
 ||baluarterendecto.net^$all
+||balugfrivo.store^$all
 ||balvomigo.net^$all
 ||bambusbar.mom^$all
 ||bancariave.store^$all
@@ -4774,6 +4812,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||bigmoviesz.com^$all
 ||bigskyinternational.mom^$all
 ||bigsmovie.us^$all
+||bigstarshoes.sprintersports-pt.sbs^$all
 ||bihfrockey.site^$all
 ||bike-skicenter.mom^$all
 ||bikerzyrardow.mom^$all
@@ -4840,7 +4879,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||bitcoinprimeapp.com^$all
 ||bitcoinprimetrade.com^$all
 ||bitcoinprofitpro.com^$all
-||bitcoinquantumsolution.com^$all
 ||bitcoins-profit.com^$all
 ||bitcoinscarcity.net^$all
 ||bitcoinset.pl^$all
@@ -4866,6 +4904,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||bitrefjll.com^$all
 ||bitrendagptv7.net^$all
 ||bitrendivio.net^$all
+||bitter-waterfall-f920.avaemeryoetxet2424.workers.dev^$all
 ||bitwavecapital.net^$all
 ||bitzenapppro.com^$all
 ||biuro-odbierz.online^$all
@@ -4928,9 +4967,11 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||bnopolihast.lovable.app^$all
 ||bnpparibas.revdet.com^$all
 ||bo1xkg.sbs^$all
+||boaivonode.site^$all
 ||boastimorta.store^$all
 ||bobb-id36153.eu.cc^$all
 ||boccoimpre.store^$all
+||boch-top.shop^$all
 ||boch-topsale.shop^$all
 ||bodega-aurera.com^$all
 ||bodrofinekstrade.com^$all
@@ -5039,7 +5080,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||braepressa.site^$all
 ||brainedcorednodtrade.com^$all
 ||brainlessnesseiisjumpily.info^$all
-||bralvexis.com^$all
 ||bramelix.online^$all
 ||bramka-sms-za-darmo.pl^$all
 ||bramleyfundex.net^$all
@@ -5281,10 +5321,10 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||buschterps.autos^$all
 ||bushbsbirc.autos^$all
 ||busseeicos.autos^$all
+||butchhiera.store^$all
 ||butikamareno.shop^$all
 ||buttccinskieslicensure.info^$all
 ||buvortxen.site^$all
-||buwela.click^$all
 ||buylike.pro^$all
 ||buz2mobile.com^$all
 ||bvcftyioofdd.lol^$all
@@ -5850,6 +5890,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||concethres.rest^$all
 ||conchaai.net^$all
 ||condeinsen.store^$all
+||condetrucc.store^$all
 ||condor-gpt.live^$all
 ||confeoveri.autos^$all
 ||confirm-booking322.com^$all
@@ -6052,6 +6093,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||cryptobankcapex2.com^$all
 ||cryptoboursivo.net^$all
 ||cryptogene21trade.com^$all
+||cryptolase-au.online^$all
 ||cryptoprofit.pl^$all
 ||cryptorxindex.net^$all
 ||cryptorxindex.shop^$all
@@ -6259,6 +6301,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||dealcrafterpros.com^$all
 ||deamoxlar.com^$all
 ||debesstelvava.com^$all
+||debijenkorfsnlonline.shop^$all
 ||debridleech.com^$all
 ||decadunpin.click^$all
 ||decasphoto.rest^$all
@@ -6322,7 +6365,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||deploynest-04.pages.dev^$all
 ||depost.eu.cc^$all
 ||depotdownloader.com^$all
-||depretraie.autos^$all
 ||derakeps.eu.cc^$all
 ||deralvocenlora.com^$all
 ||deralworif.com^$all
@@ -6372,10 +6414,13 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||dgtmarket.com^$all
 ||dhalvixai.net^$all
 ||dhl-pl.top^$all
+||dhl.poczta-portal.info^$all
 ||dhlpl.cfd^$all
+||dhma3af2.lat^$all
 ||dhommepl.weebly.com^$all
 ||dia-es.com^$all
 ||diabetespakistan.com^$all
+||diadromitredlin.com^$all
 ||diagnostyka-wp.netlify.app^$all
 ||dialerinsa.store^$all
 ||diamanterentorio.net^$all
@@ -6426,6 +6471,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||dilucdipen.autos^$all
 ||dilyauto.com^$all
 ||dilzen.shop^$all
+||dimazschoo.store^$all
 ||dimebot.site^$all
 ||dimefleet.site^$all
 ||dimegridf.site^$all
@@ -6515,7 +6561,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||divine-frog-7a4c.onqkaanmamlcoaq.workers.dev^$all
 ||divine-term-1b73.ilovegeniunes.workers.dev^$all
 ||divisabolsrio.com^$all
-||diyifb.com^$all
 ||dj6smith.net^$all
 ||djjefersvang.info^$all
 ||djunocebe.site^$all
@@ -6970,7 +7015,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||ennachocolate.mom^$all
 ||enoigawa.shop^$all
 ||enoypviiju.forum^$all
-||enter-pverif-code.info^$all
 ||entezoortho.online^$all
 ||entities-shadow-effectively-place.trycloudflare.com^$all
 ||enusdetective.xyz^$all
@@ -6983,7 +7027,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||eonilayer.site^$all
 ||eonimatrix.site^$all
 ||eoniriseplix.site^$all
-||eonix-kube.org^$all
 ||eoscapitaltech.net^$all
 ||eoy2m8e7rfcqgp3sdg69.s3.us-east-1.amazonaws.com^$all
 ||epaikopmhtiko24.today^$all
@@ -7220,6 +7263,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||f5pk3v.hair^$all
 ||f6n2rv.lat^$all
 ||f7k2xd.lat^$all
+||f7r3jx.lat^$all
 ||f9xc.pm7cui.cfd^$all
 ||f599.ej9brb.qpon^$all
 ||faamwinstiek.net^$all
@@ -7527,7 +7571,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||finlab0-iusto93.sbs^$all
 ||finlab0-minus29.sbs^$all
 ||finlab0-nesciunt73.sbs^$all
-||finlab0-non81.sbs^$all
 ||finlab0-nostrum63.sbs^$all
 ||finlab0-perspiciatis40.sbs^$all
 ||finlab0-quaerat18.sbs^$all
@@ -7539,7 +7582,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||finlab1-ad57.sbs^$all
 ||finlab1-asperiores36.sbs^$all
 ||finlab1-asperiores88.sbs^$all
-||finlab1-deleniti40.sbs^$all
 ||finlab1-dolorum12.sbs^$all
 ||finlab1-est26.sbs^$all
 ||finlab1-et25.sbs^$all
@@ -7563,14 +7605,12 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||finlab1-sint13.sbs^$all
 ||finlab1-ut8.sbs^$all
 ||finlab1-ut92.sbs^$all
-||finlab1-vel62.sbs^$all
 ||finlab1-vitae41.sbs^$all
 ||finlab1-voluptas54.sbs^$all
 ||finlab1-voluptas82.sbs^$all
 ||finlab2-ab54.sbs^$all
 ||finlab2-ad33.sbs^$all
 ||finlab2-adipisci17.sbs^$all
-||finlab2-asperiores47.sbs^$all
 ||finlab2-aut37.sbs^$all
 ||finlab2-debitis78.sbs^$all
 ||finlab2-eius66.sbs^$all
@@ -7658,9 +7698,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||finlab4-tempora86.sbs^$all
 ||finlab4-vel71.sbs^$all
 ||finlab4-voluptatem17.sbs^$all
-||finlab5-ad18.sbs^$all
 ||finlab5-alias21.sbs^$all
-||finlab5-amet71.sbs^$all
 ||finlab5-consequatur34.sbs^$all
 ||finlab5-cum23.sbs^$all
 ||finlab5-cumque77.sbs^$all
@@ -7716,7 +7754,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||finlab6-tempora63.sbs^$all
 ||finlab6-voluptate37.sbs^$all
 ||finlab7-a29.sbs^$all
-||finlab7-accusamus87.sbs^$all
 ||finlab7-assumenda14.sbs^$all
 ||finlab7-consequuntur57.sbs^$all
 ||finlab7-delectus54.sbs^$all
@@ -7733,7 +7770,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||finlab7-provident30.sbs^$all
 ||finlab7-quas95.sbs^$all
 ||finlab7-quia31.sbs^$all
-||finlab7-quibusdam33.sbs^$all
 ||finlab7-quo66.sbs^$all
 ||finlab7-repellendus50.sbs^$all
 ||finlab7-sed13.sbs^$all
@@ -7741,7 +7777,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||finlab7-sit73.sbs^$all
 ||finlab7-ut81.sbs^$all
 ||finlab7-voluptatem46.sbs^$all
-||finlab7-voluptatem88.sbs^$all
 ||finlab8-aut60.sbs^$all
 ||finlab8-consequatur34.sbs^$all
 ||finlab8-deleniti16.sbs^$all
@@ -8626,6 +8661,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||fisios0-quisquam53.sbs^$all
 ||fisios0-quod92.sbs^$all
 ||fisios0-quos0.sbs^$all
+||fisios1-alias15.sbs^$all
 ||fisios1-aliquam64.sbs^$all
 ||fisios1-consequuntur97.sbs^$all
 ||fisios1-cumque29.sbs^$all
@@ -8648,6 +8684,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||fisios1-quas50.sbs^$all
 ||fisios1-sed7.sbs^$all
 ||fisios1-voluptatibus29.sbs^$all
+||fisios2-amet36.sbs^$all
 ||fisios2-aut48.sbs^$all
 ||fisios2-consequatur52.sbs^$all
 ||fisios2-dignissimos4.sbs^$all
@@ -8684,9 +8721,12 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||fisios3-facere82.sbs^$all
 ||fisios3-impedit26.sbs^$all
 ||fisios3-inventore84.sbs^$all
+||fisios3-ipsam73.sbs^$all
 ||fisios3-ipsum68.sbs^$all
 ||fisios3-neque2.sbs^$all
+||fisios3-non57.sbs^$all
 ||fisios3-nulla34.sbs^$all
+||fisios3-numquam23.sbs^$all
 ||fisios3-odio12.sbs^$all
 ||fisios3-omnis97.sbs^$all
 ||fisios3-possimus62.sbs^$all
@@ -8694,6 +8734,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||fisios3-quaerat50.sbs^$all
 ||fisios3-recusandae34.sbs^$all
 ||fisios3-soluta32.sbs^$all
+||fisios3-suscipit35.sbs^$all
 ||fisios3-unde11.sbs^$all
 ||fisios3-vel42.sbs^$all
 ||fisios3-velit13.sbs^$all
@@ -8739,6 +8780,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||fisios5-in55.sbs^$all
 ||fisios5-laboriosam29.sbs^$all
 ||fisios5-nemo19.sbs^$all
+||fisios5-non29.sbs^$all
 ||fisios5-officia67.sbs^$all
 ||fisios5-placeat98.sbs^$all
 ||fisios5-praesentium13.sbs^$all
@@ -8746,6 +8788,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||fisios5-qui75.sbs^$all
 ||fisios5-recusandae39.sbs^$all
 ||fisios5-repellendus84.sbs^$all
+||fisios5-sint66.sbs^$all
 ||fisios5-sit3.sbs^$all
 ||fisios5-soluta59.sbs^$all
 ||fisios5-temporibus87.sbs^$all
@@ -8878,7 +8921,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||flammerentelle.net^$all
 ||flarex400.com^$all
 ||flarkem.shop^$all
-||flarsko.shop^$all
 ||flashempooczach.live^$all
 ||flashingphoto.live^$all
 ||flat-term-e051.bjigtnavuqhlaei.workers.dev^$all
@@ -8954,6 +8996,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||fontevalorio.net^$all
 ||foodfactory.mom^$all
 ||footshopsalsscz.shop^$all
+||footsparcne.store^$all
 ||forcagainflux-pro-cyou.pages.dev^$all
 ||foretdeade.store^$all
 ||foretrendoireai.net^$all
@@ -9372,7 +9415,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||giorgiabornetophotography.mom^$all
 ||giorgiafoglinophotography.mom^$all
 ||gisxx.com^$all
-||gitandodec.autos^$all
 ||gitnexzolotrade.net^$all
 ||giuliart.mom^$all
 ||giuseppemelidanza.mom^$all
@@ -9832,7 +9874,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||herbathek.mom^$all
 ||heritage-thread.shop^$all
 ||hermesinvestmentmanagement.net^$all
-||herocrm.com.br^$all
 ||herrenknecht.live^$all
 ||hertzrecording.live^$all
 ||hessnatur.mom^$all
@@ -10498,7 +10539,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||irmdeqdo.shop^$all
 ||ironconvent.mom^$all
 ||ironcredmere-ai.com^$all
-||ironcredmere.org^$all
 ||ironfundalis.net^$all
 ||ironfuryty.info^$all
 ||ironheartamerica.mom^$all
@@ -10515,8 +10555,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||irvyndigitholm.com^$all
 ||isacorp.net^$all
 ||isbankasiplatform.com^$all
-||iskra-inwestek.com^$all
-||iskra-inwestek.net^$all
 ||iskrainwestek.net^$all
 ||islandmob.com^$all
 ||isnerludif.online^$all
@@ -10595,6 +10633,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||japayndesign.shop^$all
 ||jarmotu.shop^$all
 ||jarpedi.shop^$all
+||jasfreshly.com^$all
 ||jasker.cc^$all
 ||jasnafondava.com^$all
 ||jasnaktivan.com^$all
@@ -10649,6 +10688,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||jik2treo7bne.hair^$all
 ||jimzochiro.online^$all
 ||jinpolandtu.store^$all
+||jinruisaihe.com^$all
 ||jiterrgen.site^$all
 ||jittegregn.rest^$all
 ||jj2.kuriierpl.lol^$all
@@ -10753,6 +10793,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||jurno.click^$all
 ||jurqano.shop^$all
 ||justabolsarente.live^$all
+||justecapitholm-ai.net^$all
 ||justgetmarriedinitaly.mom^$all
 ||justouch.live^$all
 ||justwatch.asia^$all
@@ -10797,7 +10838,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||k8js1b.sbs^$all
 ||k8m3zr.lat^$all
 ||k8stz3zcq3wsjf1mnrim.s3.eu-west-1.amazonaws.com^$all
-||k8v3m1.lat^$all
 ||k9f.jk8jie.casa^$all
 ||k9nw4b.lat^$all
 ||k9pr4tn.qpon^$all
@@ -10807,7 +10847,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||k287r.fg6hfa.sbs^$all
 ||kabah.top^$all
 ||kabak.live^$all
-||kabav.top^$all
 ||kacjkfnso.shop^$all
 ||kafebelgie.mom^$all
 ||kafej.mom^$all
@@ -10959,6 +10998,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||kerry-equistead.org^$all
 ||kertiatola.lovable.app^$all
 ||kerv6lio1bir.hair^$all
+||kerviw.casa^$all
 ||kervum.shop^$all
 ||kesavora.com^$all
 ||kestariona.info^$all
@@ -11062,6 +11102,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||klintbasepro.net^$all
 ||klip-i3294.eu.cc^$all
 ||klip-id328.eu.cc^$all
+||klipka24.eu.cc^$all
 ||klipka2384.eu.cc^$all
 ||klomrek.shop^$all
 ||klonaznyeen.com^$all
@@ -11101,7 +11142,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||kolarski.mom^$all
 ||koldazi.shop^$all
 ||kolizjaoc.mom^$all
-||komcaorebi.shop^$all
 ||kommornik.pl^$all
 ||komolot.gitlab.io^$all
 ||komorniki-autoserwis.live^$all
@@ -11199,7 +11239,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||krukzarobin.net^$all
 ||krukzarobinai.com^$all
 ||krumel.shop^$all
-||krustel.shop^$all
 ||kryllis.click^$all
 ||krynthelixombravane.net^$all
 ||kryocallsuite.site^$all
@@ -11317,6 +11356,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||l7vq2m.hair^$all
 ||l8.o8fgwc.top^$all
 ||l8v2ke.lat^$all
+||l9-nposth2ceg.bt5kyr.cfd^$all
 ||l9bs1n.cfd^$all
 ||l80j5odbxqr06iof9jpz.s3.us-east-1.amazonaws.com^$all
 ||l-np50t-gnrpm.k6crev.top^$all
@@ -11339,7 +11379,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||lamania-topsale.shop^$all
 ||lamania.shop^$all
 ||lamaniapll.top^$all
-||lamaniasellpl.top^$all
 ||lambyieldai.net^$all
 ||lameroffice.com^$all
 ||lamnoriduz.cyou^$all
@@ -11403,6 +11442,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||latradeaitrade.com^$all
 ||latradizione.mom^$all
 ||latropical.mom^$all
+||latvijainvest.com^$all
 ||latwogang.shop^$all
 ||laughcorner.com^$all
 ||laurel-nummivale.sbs^$all
@@ -11463,7 +11503,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||lekkirendoviktrade.com^$all
 ||lektor-cda.pl^$all
 ||lektorzyai.mom^$all
-||lelixio.pro^$all
 ||lemcari.cc^$all
 ||leminurixaitrade.com^$all
 ||lemlistfamily.com^$all
@@ -11543,7 +11582,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||lierreboursivo-app.com^$all
 ||liferratta.rest^$all
 ||lifestudio.live^$all
-||liftaholco.autos^$all
 ||lightcloud.pl^$all
 ||lightimpuz.click^$all
 ||lightofdayorganics.mom^$all
@@ -11738,6 +11776,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||lokalna-ofeta9914122115.sbs^$all
 ||lokalne-383712.lol^$all
 ||lokalne-1857293.cfd^$all
+||lokalne-4927421.cfd^$all
 ||lokalneinformacje.pl^$all
 ||lokalniprzewodnicy.com.pl^$all
 ||lokalnyrolnik.mom^$all
@@ -12399,7 +12438,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||modernvistae.com^$all
 ||modigverdibo.net^$all
 ||modishfurnishing.live^$all
-||modivosport.com^$all
 ||modny.shop^$all
 ||modussyncia.com^$all
 ||moertku.shop^$all
@@ -12572,6 +12610,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||my-xarnoxdriveai.net^$all
 ||myberatung-com.stackstaging.com^$all
 ||mybike.mom^$all
+||mybusinesshour.com^$all
 ||myclaimgrouptrade.net^$all
 ||mydearbaby.shop^$all
 ||mydnssbox.gleeze.com^$all
@@ -12617,7 +12656,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||n7ba4c.hair^$all
 ||n7cj2b.hair^$all
 ||n7k4pz.lat^$all
-||n7r5zt.lat^$all
 ||n7r.qr1ulh.sbs^$all
 ||n8j1qp.lat^$all
 ||n8k4mr.lat^$all
@@ -13004,7 +13042,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||nofeet.live^$all
 ||nofkerntrace.site^$all
 ||nogalfondazgo.net^$all
-||noglimgrid.site^$all
 ||nokruma.shop^$all
 ||nolangroup.live^$all
 ||nolmarcapitalvex.com^$all
@@ -13334,11 +13371,13 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||oferta371261.cfd^$all
 ||oferta389212.click^$all
 ||oferta390841.click^$all
+||oferta456362.cfd^$all
 ||oferta464312.cfd^$all
 ||oferta726354.cfd^$all
 ||oferta823161.click^$all
 ||oferta825791.click^$all
 ||oferta837412.click^$all
+||oferta839174.click^$all
 ||oferta932193.lol^$all
 ||oferta2416742.cfd^$all
 ||oferta4638846.cfd^$all
@@ -13474,9 +13513,11 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||olx.8364-oferta.shop^$all
 ||olx.058127.click^$all
 ||olx.59831.lol^$all
+||olx.62547.lol^$all
 ||olx.75428.lol^$all
 ||olx.94813.lol^$all
 ||olx.487213.lol^$all
+||olx.521323.lol^$all
 ||olx.569724.lol^$all
 ||olx.648212.lol^$all
 ||olx.673262.lol^$all
@@ -13490,6 +13531,8 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||olx.9754075.lat^$all
 ||olx.9785720.lat^$all
 ||olx.78518181.lat^$all
+||olx.87571758.lat^$all
+||olx.93824923.cyou^$all
 ||olx.795198251.lat^$all
 ||olx.885815212.lat^$all
 ||olx.7581909510.lat^$all
@@ -13579,6 +13622,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||olx.lokalne-74621.lol^$all
 ||olx.lokalne-383712.lol^$all
 ||olx.lokalne-1857293.cfd^$all
+||olx.lokalne-4927421.cfd^$all
 ||olx.mbkvoiv.icu^$all
 ||olx.mojapacska-poi.cfd^$all
 ||olx.mojapacska-poi.icu^$all
@@ -13602,11 +13646,13 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||olx.oferta371261.cfd^$all
 ||olx.oferta389212.click^$all
 ||olx.oferta390841.click^$all
+||olx.oferta456362.cfd^$all
 ||olx.oferta464312.cfd^$all
 ||olx.oferta726354.cfd^$all
 ||olx.oferta823161.click^$all
 ||olx.oferta825791.click^$all
 ||olx.oferta837412.click^$all
+||olx.oferta839174.click^$all
 ||olx.oferta932193.lol^$all
 ||olx.oferta2416742.cfd^$all
 ||olx.oferta50526396.xyz^$all
@@ -13706,12 +13752,14 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||olx.pl-nd0produkt72671688324.lol^$all
 ||olx.pl-nd0produkty329732421.lol^$all
 ||olx.pl-nd0produkty47282868591.lat^$all
+||olx.pl-nd2produkty758432251.lol^$all
 ||olx.pl-nd3produkty528432411.lol^$all
 ||olx.pl-nd4produkty529432421.lol^$all
 ||olx.pl-oferta8312.sbs^$all
 ||olx.pl-oferta9012.sbs^$all
 ||olx.pl-oferta34759.lol^$all
 ||olx.pl-oferta46879.lol^$all
+||olx.pl-oferta78224.click^$all
 ||olx.pl-oferta78429.lol^$all
 ||olx.pl-oferta81811.sbs^$all
 ||olx.pl-oferta84123.sbs^$all
@@ -13736,6 +13784,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||olx.pl-ogloszenie5722931873.lol^$all
 ||olx.pl-ogloszenie5128592891591.shop^$all
 ||olx.pl-rezerwacja9669.click^$all
+||olx.pl-tc62v.sbs^$all
 ||olx.pl-zakup24.shop^$all
 ||olx.platnosc492019.xyz^$all
 ||olx.platnosc402199421.xyz^$all
@@ -13837,6 +13886,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||only-date.ct8.pl^$all
 ||onlyczat.pl^$all
 ||onorasuper.online^$all
+||onorefundai.net^$all
 ||onoriricon.autos^$all
 ||onovaeon.site^$all
 ||onyiho.com^$all
@@ -13850,6 +13900,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||ooptirise.site^$all
 ||oorderrs-ids5324.eu.cc^$all
 ||oortstorages.com^$all
+||opaltradeviax.org^$all
 ||openillimited.notice-payments.com^$all
 ||openillimited.submit-payments.com^$all
 ||opensae-io.nftdiscovers.com^$all
@@ -13982,7 +14033,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||otessscope.site^$all
 ||oteyrblade.site^$all
 ||otispottery.live^$all
-||otodom.kaishm.com^$all
 ||otodomverify.livrerea3.lat^$all
 ||otomatikkapitamircisi.com^$all
 ||otomoto-pl.tpobop.icu^$all
@@ -14001,6 +14051,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||outcroaawgarble.info^$all
 ||outdoordailydeals.shop^$all
 ||outdoorresearch.live^$all
+||outlets-publisherrr.shop^$all
 ||outlets-workwear.shop^$all
 ||outpipolig.autos^$all
 ||outplayed.com^$all
@@ -14576,6 +14627,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||pl-nd0produkt72671688324.lol^$all
 ||pl-nd0produkty329732421.lol^$all
 ||pl-nd0produkty47282868591.lat^$all
+||pl-nd2produkty758432251.lol^$all
 ||pl-nd3produkty528432411.lol^$all
 ||pl-nd4produkty529432421.lol^$all
 ||pl-nine-red.vercel.app^$all
@@ -14583,6 +14635,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||pl-oferta8312.sbs^$all
 ||pl-oferta9012.sbs^$all
 ||pl-oferta46879.lol^$all
+||pl-oferta78224.click^$all
 ||pl-oferta78429.lol^$all
 ||pl-oferta81811.sbs^$all
 ||pl-oferta84123.sbs^$all
@@ -14611,6 +14664,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||pl-ogloszenie5128592891591.shop^$all
 ||pl-rabat.com^$all
 ||pl-rezerwacja9669.click^$all
+||pl-tc62v.sbs^$all
 ||pl-vcpbh.sbs^$all
 ||pl-zakup24.shop^$all
 ||pl.centrumoferty.com^$all
@@ -14703,6 +14757,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||plotcoffee.co.uk^$all
 ||plovanquesh-france.com^$all
 ||plovurikanttrade.com^$all
+||plovydiv.com^$all
 ||plpeciuro.com^$all
 ||plpefgirfereris.com^$all
 ||plpefioserefeti.com^$all
@@ -14893,7 +14948,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||polska-skarvest.online^$all
 ||polska.finance-investapp.com^$all
 ||polskabitradextrade.com^$all
-||polskaskarvest.com^$all
 ||polskaskarvesttrade.com^$all
 ||polskayear.pl^$all
 ||polskiemeble.mom^$all
@@ -15001,7 +15055,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||pranico.shop^$all
 ||prawainwestowien.net^$all
 ||prawdziwefilmy.pl^$all
-||praxonadftira.com^$all
 ||preabantig.online^$all
 ||prebehebdo.store^$all
 ||precedinglallnt.info^$all
@@ -15083,6 +15136,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||prissybritchesboutique.com^$all
 ||pristicane.shop^$all
 ||pristinemadison.com^$all
+||prizmainwerez.net^$all
 ||prizmamarzovka.com^$all
 ||pro1-pgnig.web.app^$all
 ||pro-invest-polska.net^$all
@@ -15160,6 +15214,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||pronajematelieru.mom^$all
 ||prontachainovia.com^$all
 ||prontasegurone.com^$all
+||prontomercavitatrade.com^$all
 ||prop-erly.eu^$all
 ||prop-trading.pl^$all
 ||propdfconverter.com^$all
@@ -15318,6 +15373,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||q3qtyo.qpon^$all
 ||q3t7wc.lat^$all
 ||q4scsxd1rpd0fs1i78cb.s3.us-east-1.amazonaws.com^$all
+||q5b6.kerviw.casa^$all
 ||q5m8xr.lat^$all
 ||q5wikm.casa^$all
 ||q6m3zk.lat^$all
@@ -15437,13 +15493,13 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||quantumcode.info^$all
 ||quantumedition.net^$all
 ||quantumevenityplatform.com^$all
+||quantuminvertir.net^$all
 ||quantumprofit.net^$all
 ||quantumreckoning.net^$all
 ||quantumspaceai-digital.pages.dev^$all
 ||quantumtechnology.sbs^$all
 ||quantumtrusttrade.net^$all
 ||quantumxplatform.com^$all
-||quantumzherx.com^$all
 ||quantunixaitrade.net^$all
 ||quantxtrade.net^$all
 ||quantzynai.com^$all
@@ -15537,7 +15593,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||r4n8qc.lat^$all
 ||r4v8nk.lat^$all
 ||r4v9pn.lat^$all
-||r4vn8pk.qpon^$all
 ||r5v9wc.lat^$all
 ||r6m2zk.lat^$all
 ||r6wt2xk.casa^$all
@@ -15906,7 +15961,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||rielavelet.store^$all
 ||rieqbyos.shop^$all
 ||riferasfit.store^$all
-||riffaglass.autos^$all
 ||rifilstemp.store^$all
 ||rigabirzektra.com^$all
 ||rigelcabot.cyou^$all
@@ -16042,7 +16096,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||roomservice.quangouzu.com^$all
 ||rootluxerisq.org^$all
 ||rootraid.in^$all
-||ropewreabr.autos^$all
 ||rosadanza.mom^$all
 ||rosaofficina.live^$all
 ||roseur.live^$all
@@ -16290,6 +16343,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||sca-support.eu.cc^$all
 ||scabbtetra.autos^$all
 ||scagaeldre.online^$all
+||scalablecapitalapp.net^$all
 ||scaldscope.autos^$all
 ||scaliagevo.store^$all
 ||scalpscola.store^$all
@@ -16392,7 +16446,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||seguracapitavia.com^$all
 ||seguracapitavia.net^$all
 ||segurofundezano.net^$all
-||segurofundezano.online^$all
 ||segurotradexgpttrade.com^$all
 ||seigakatsu.shop^$all
 ||seinavoratrade.com^$all
@@ -16691,6 +16744,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||siuuvamoess.vercel.app^$all
 ||sixsilver.mom^$all
 ||sizzer.tiendasmgisale.sbs^$all
+||sjapqpswq2.buzz^$all
 ||sjxyjjt.com^$all
 ||skarb-point-wro.lovable.app^$all
 ||skarpawarszawska.live^$all
@@ -16755,6 +16809,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||slamar.mom^$all
 ||slateprovenmere.net^$all
 ||sleepysharps.com^$all
+||sleospe.eu.cc^$all
 ||sliczneukrainki.pl^$all
 ||slidearkaloxitrade.com^$all
 ||slideembolexfin.org^$all
@@ -16788,7 +16843,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||smartpulsed.info^$all
 ||smartreachmarketing.info^$all
 ||smartstockai-official.com^$all
-||smasssciog.autos^$all
 ||smehlboob.com^$all
 ||smercdival.cyou^$all
 ||smgax.shop^$all
@@ -16917,7 +16971,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||sopradifro.store^$all
 ||sopraki.shop^$all
 ||soprameant.store^$all
-||soprariqua.autos^$all
 ||soprascipi.rest^$all
 ||sorakiro.com^$all
 ||soreastudio.mom^$all
@@ -16992,6 +17045,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||speedkredyt.pl^$all
 ||spenddober.online^$all
 ||spennbiric.site^$all
+||sperpastro.store^$all
 ||spesanewfo.rest^$all
 ||spherbaterm.site^$all
 ||spherboard.site^$all
@@ -17066,6 +17120,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||sprzedaz-5322.eu.cc^$all
 ||sprzedaz-6853.eu.cc^$all
 ||sprzedaz-8372y.shop^$all
+||sprzedaz-nr4219.eu.cc^$all
 ||sputtisogo.autos^$all
 ||sq47t.lg8ems.top^$all
 ||sqcapital-ai.com^$all
@@ -17516,6 +17571,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||syntsyncrepo.site^$all
 ||synttalayer.site^$all
 ||syntwave.site^$all
+||system-73.com^$all
 ||system-medfiles.com^$all
 ||syzifeaze.autos^$all
 ||szada.mom^$all
@@ -17553,6 +17609,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||t7zs1k.cfd^$all
 ||t8dauq22pyvqgsskezv.vercel.app^$all
 ||t8k5yd.lat^$all
+||t8q2dn.lat^$all
 ||t8zr1b.hair^$all
 ||t9p2wc.lat^$all
 ||t9v2jk.lat^$all
@@ -17611,8 +17668,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||talverisona.pro^$all
 ||talvorkern.com^$all
 ||talvorkern.de^$all
-||talvornik-ai.com^$all
-||talvornik-pl.com^$all
 ||talvornik-poland.com^$all
 ||talvurieks-platform.com^$all
 ||tamada.mom^$all
@@ -17747,6 +17802,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||telegroxxs.cyou^$all
 ||teleidelng.icu^$all
 ||teleidelng.luxe^$all
+||teleightss.cyou^$all
 ||teleightss.icu^$all
 ||teleightss.shop^$all
 ||teleionoxs.club^$all
@@ -17775,6 +17831,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||telemoment.shop^$all
 ||telemoment.work^$all
 ||telempixsa.shop^$all
+||telemquest.club^$all
 ||telemquest.icu^$all
 ||telemquest.shop^$all
 ||telendszes.click^$all
@@ -17792,10 +17849,14 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||teleolxsbv.icu^$all
 ||teleosgita.love^$all
 ||teleosgita.wiki^$all
+||teleouspkr.icu^$all
 ||teleoutlki.club^$all
 ||teleoutlki.help^$all
 ||teleowhowp.club^$all
+||telepbovel.click^$all
 ||telephoexs.help^$all
+||telepixsyo.cyou^$all
+||telepixsyo.shop^$all
 ||teleproixs.wiki^$all
 ||teleproxsa.click^$all
 ||teleproxsa.help^$all
@@ -17824,6 +17885,8 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||teleterpro.help^$all
 ||teleterpro.shop^$all
 ||teletlanft.wiki^$all
+||teletonits.club^$all
+||teletonits.cyou^$all
 ||teletonits.shop^$all
 ||teletrade.eu^$all
 ||teletumpro.shop^$all
@@ -17838,10 +17901,12 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||televbisti.club^$all
 ||televerify.wiki^$all
 ||televeroxs.work^$all
+||televetmxe.shop^$all
 ||telewizja-internetowa24.pl^$all
 ||telexbxcr.help^$all
 ||telexbxcr.wiki^$all
 ||telexcsund.help^$all
+||telexperie.cyou^$all
 ||telexroyta.click^$all
 ||telexsecho.help^$all
 ||telexsecho.icu^$all
@@ -18220,7 +18285,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||torkali.shop^$all
 ||torlaviana.info^$all
 ||tornecompl.store^$all
-||tornvek.shop^$all
 ||torqbeproto.site^$all
 ||torqblastdock.site^$all
 ||torqblox.site^$all
@@ -18285,6 +18349,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||tradeelians7ai.com^$all
 ||tradegpttrade.com^$all
 ||tradelibreacademy.com^$all
+||tradelineroute.com^$all
 ||tradeluxpro.shop^$all
 ||tradementorpro.net^$all
 ||tradenavix39-ai.net^$all
@@ -18292,7 +18357,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||tradenexus9.com^$all
 ||tradeplus24.live^$all
 ||tradepromentor.org^$all
-||traderia-app.shop^$all
 ||traderproaitrade.com^$all
 ||traderprof.best^$all
 ||traderprof.biz^$all
@@ -18383,7 +18447,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||trenzorapvtltd.net^$all
 ||trepaimpas.rest^$all
 ||trescurlat.autos^$all
-||treuwertheid.de^$all
 ||treuwertron.com^$all
 ||trevalume.com^$all
 ||treviko.shop^$all
@@ -18421,6 +18484,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||trixeon83.site^$all
 ||trixofundtrade.com^$all
 ||trixsubrpress.site^$all
+||trochdropl.store^$all
 ||troncurve53.site^$all
 ||tronjamworks.site^$all
 ||tronofundencia.net^$all
@@ -18562,6 +18626,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||tzomirogru-ai.com^$all
 ||tzrwh.com^$all
 ||u2bk9w.icu^$all
+||u2m8vp.lat^$all
 ||u3dga4m5s2jl56m43f-r.s3.us-east-1.amazonaws.com^$all
 ||u4utck.top^$all
 ||u5bp3n.cfd^$all
@@ -18716,6 +18781,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||unslalumin.rest^$all
 ||unsurbambo.store^$all
 ||untavix-pro.pages.dev^$all
+||untetqueri.store^$all
 ||untiesoler.autos^$all
 ||unviltrco.click^$all
 ||unwhireund.rest^$all
@@ -18789,6 +18855,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||v8c1jw.lat^$all
 ||v8kr4wp.casa^$all
 ||v8p1xr.lat^$all
+||v9g.ax1pir.sbs^$all
 ||v9q3mx.lat^$all
 ||v45zk.tw0jkurierc.cam^$all
 ||v2356.in4wun.qpon^$all
@@ -19015,7 +19082,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||verixentraprotrade.com^$all
 ||vermeilrandange.net^$all
 ||vermogensplustrade.de^$all
-||vermogray.net^$all
 ||vernacompi.online^$all
 ||vernoldpeak.com^$all
 ||verodock.site^$all
@@ -19120,10 +19186,11 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||vinted.8364-oferta.shop^$all
 ||vinted.058127.click^$all
 ||vinted.59831.lol^$all
+||vinted.62547.lol^$all
 ||vinted.75428.lol^$all
-||vinted.76991.help^$all
 ||vinted.94813.lol^$all
 ||vinted.487213.lol^$all
+||vinted.521323.lol^$all
 ||vinted.648212.lol^$all
 ||vinted.673262.lol^$all
 ||vinted.747212.lol^$all
@@ -19138,6 +19205,8 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||vinted.9785720.lat^$all
 ||vinted.63738495ric.cc^$all
 ||vinted.78518181.lat^$all
+||vinted.87571758.lat^$all
+||vinted.93824923.cyou^$all
 ||vinted.795198251.lat^$all
 ||vinted.885815212.lat^$all
 ||vinted.7581909510.lat^$all
@@ -19165,11 +19234,13 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||vinted.id61932.com^$all
 ||vinted.id819234.com^$all
 ||vinted.id5248571.cfd^$all
+||vinted.id5784315.cfd^$all
 ||vinted.id45221454.link^$all
 ||vinted.id51395813.cfd^$all
 ||vinted.identity-process.lat^$all
 ||vinted.letnie-okazje8874905804.cyou^$all
 ||vinted.lokalne-1857293.cfd^$all
+||vinted.lokalne-4927421.cfd^$all
 ||vinted.myoffers59195.cfd^$all
 ||vinted.oferta3847bs8a10.live^$all
 ||vinted.oferta41233.sbs^$all
@@ -19177,7 +19248,9 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||vinted.oferta81325.sbs^$all
 ||vinted.oferta317587.cfd^$all
 ||vinted.oferta371261.cfd^$all
+||vinted.oferta456362.cfd^$all
 ||vinted.oferta464312.cfd^$all
+||vinted.oferta839174.click^$all
 ||vinted.oferta2416742.cfd^$all
 ||vinted.oferta4638846.cfd^$all
 ||vinted.oferta234571238.cfd^$all
@@ -19234,9 +19307,11 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||vinted.pl-nd0produkt72671688324.lol^$all
 ||vinted.pl-nd0produkty329732421.lol^$all
 ||vinted.pl-nd0produkty47282868591.lat^$all
+||vinted.pl-nd2produkty758432251.lol^$all
 ||vinted.pl-nd3produkty528432411.lol^$all
 ||vinted.pl-nd4produkty529432421.lol^$all
 ||vinted.pl-oferta8312.sbs^$all
+||vinted.pl-oferta78224.click^$all
 ||vinted.pl-oferta84123.sbs^$all
 ||vinted.pl-oferta3920481.shop^$all
 ||vinted.pl-oferta5647654.shop^$all
@@ -19248,6 +19323,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||vinted.pl-ogloszenie6753998232.lol^$all
 ||vinted.pl-ogloszenie5128592891591.shop^$all
 ||vinted.pl-rezerwacja9669.click^$all
+||vinted.pl-tc62v.sbs^$all
 ||vinted.pl-zakup24.shop^$all
 ||vinted.pln385.lol^$all
 ||vinted.pln904.lol^$all
@@ -19318,7 +19394,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||vitalmercovia-es.live^$all
 ||vitaquell.mom^$all
 ||vitezeagpt.com^$all
-||vitranexima-shop.pages.dev^$all
 ||vitrisbron.online^$all
 ||vivacrifor.rest^$all
 ||vivacuba.mom^$all
@@ -19543,6 +19618,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||walkandphoto.mom^$all
 ||wallapopcapital.live^$all
 ||wallnut.live^$all
+||wallrazer.com^$all
 ||wallstory.live^$all
 ||waluteo.pl^$all
 ||walutnia.com^$all
@@ -19568,6 +19644,8 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||warvenwealthvale.click^$all
 ||warvenwealthvale.online^$all
 ||warvenweathvale.com^$all
+||watchdog.business^$all
+||watchdog.pk^$all
 ||watchvideo.pl^$all
 ||waterdroppolska.pl^$all
 ||watnf1mjrd6r682g7wah.s3.us-east-1.amazonaws.com^$all
@@ -20045,6 +20123,7 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||xyvrenpeakgpt.com^$all
 ||y1mxcj.top^$all
 ||y3c8nh.lat^$all
+||y4n6ks.lat^$all
 ||y4p8rk.lat^$all
 ||y5e4qtq-r1kj6sd84u1f.s3.eu-west-1.amazonaws.com^$all
 ||y5k1hx.lat^$all
@@ -20473,8 +20552,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||zlatnikdepozovna.com^$all
 ||zlatovin-ai.net^$all
 ||zlknxzy.skin^$all
-||zlotario-pro.com^$all
-||zlotarioproai.com^$all
 ||zlotarioprotrade.com^$all
 ||zloty-zyskowium.com^$all
 ||zlukajfilm.pl^$all
@@ -20623,7 +20700,6 @@ alexdent.waw.pl,kasacjapojazdow.com.pl,krainaekozabawek.pl##^responseheader(loca
 ||zysk-markdex.com^$all
 ||zyskbit-fundtex.com^$all
 ||zyskbitfundtex-official.com^$all
-||zyskonex-ai.com^$all
 ||zyskonex.net^$all
 ||zyskonex.online^$all
 ||zyvralenai.net^$all
