@@ -30,7 +30,10 @@
 @include szybko_wygaszajace
 !
 ! Przekręty
-@include przekrety + przekrety_CERT
+@include przekrety
+!#if !ext_ubol
+@include przekrety_CERT
+!#endif
 !#if env_legacy
 @include przekrety_Legacy
 !#endif
