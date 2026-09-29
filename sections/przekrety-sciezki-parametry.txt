@@ -1,4 +1,3 @@
-/get_commands.php$xmlhttprequest,script
 .com/c/*?s1=$doc,to=com
 .com/k082rwq?t=$doc,to=com
 .com/s/*?track=$doc
@@ -18,6 +17,7 @@
 /files/*.xml$doc,to=kolorowemotyle.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /fotki/*.xml$doc,to=italiamipiace.pl
 /fotki/*.xml$doc,to=italiamipiace.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
+/get_commands.php$script,xmlhttprequest
 /gfx/*.xml$doc,to=ochroniarz.com.pl
 /gfx/*.xml$doc,to=ochroniarz.com.pl,reason="Podejrzane przekierowania z wyników wyszukiwarek, zachowaj ostrożność"
 /jump?id=*&_tgurl=$doc
