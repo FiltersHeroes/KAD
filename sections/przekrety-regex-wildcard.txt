@@ -1,3 +1,4 @@
+/checking?domain=*&captchashowed=true$xmlhttprequest,script
 /^https?:\/\/(?:\w+\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(?:\w+)?[0-9]+\.(site|space)/$doc,to=site|space
 /^https?:\/\/(?:\w+\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(?:\w+)?[0-9]+\.(site|space)/$frame,object,domain=site|space
 /^https?:\/\/(?:\w+\.)?skryptcookies\.pl\/cookies\.js/$all,important
