@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Wed, 14 Oct 2026, 15:07 UTC+02:00
-! Version: 2026.10.14.0
+! Last modified: Wed, 14 Oct 2026, 21:45 UTC+02:00
+! Version: 2026.10.14.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2430,6 +2430,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||1.mojprogram.shop^$all
 ||1astkkrok.cyou^$all
 ||1c30eb84.heftrucksbelgie.eu^$all
+||1cc56e5004.nxcli.io^$all
 ||1f2rfc2g.pics^$all
 ||1i2uh.cyou^$all
 ||1jb2h.buzz^$all
@@ -2466,6 +2467,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||3.mojakarta.online^$all
 ||3.mojakarta.shop^$all
 ||3.mojprogram.shop^$all
+||3cd7920a91.nxcli.io^$all
 ||3f.q4ddve.casa^$all
 ||3j4gte.cyou^$all
 ||3jhw6tgw.pics^$all
@@ -2474,7 +2476,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||3ll4.z9opcf.top^$all
 ||03n3uol.pages.dev^$all
 ||3scc.z9opcf.top^$all
-||3uhgywy3u.pics^$all
 ||3v7m1qx.pics^$all
 ||3v9n2wx.lol^$all
 ||4.mojakarta.online^$all
@@ -2500,6 +2501,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||4kejiu4.sbs^$all
 ||4kejjh4.cyou^$all
 ||4keu7h.buzz^$all
+||4killawm-awm-digital.pages.dev^$all
 ||4krnuj4.buzz^$all
 ||4leo4.pics^$all
 ||4lk4oo.pics^$all
@@ -2609,6 +2611,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||874e7a9a.vcsservice.eu^$all
 ||958dca20.heftrucksbelgie.eu^$all
 ||2026airconditionersale.shop^$all
+||2026pl-zooart.shop^$all
 ||2026sissyboy.shop^$all
 ||2026strausseu.shop^$all
 ||2026workclothesvipqx.shop^$all
@@ -2619,7 +2622,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||9771fb98.vcsservice.eu^$all
 ||12908.weebly.com^$all
 ||17672a94.vcstrading.com^$all
-||19526.help^$all
 ||45676-tykp56.previewship.net^$all
 ||51015kidspl.shop^$all
 ||51281.top^$all
@@ -2659,6 +2661,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||766452.sbs^$all
 ||832438.cyou^$all
 ||847211.sbs^$all
+||852188.lat^$all
 ||857721.sbs^$all
 ||858771.sbs^$all
 ||875195.lat^$all
@@ -2667,7 +2670,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||928212.sbs^$all
 ||934545ip.top^$all
 ||934665ip.top^$all
-||935545ip.top^$all
 ||948213.sbs^$all
 ||958482.sbs^$all
 ||958821.sbs^$all
@@ -2677,6 +2679,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||4178185.lat^$all
 ||4537654.click^$all
 ||4599908e.vcstrading.com^$all
+||4653745.top^$all
 ||4771851.lat^$all
 ||4891498.lat^$all
 ||4981220.sbs^$all
@@ -3191,6 +3194,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||003265981894265.com^$all
 ||28396342376236.sbs^$all
 ||81236812386541.sbs^$all
+||87124887248236.rest^$all
 ||725148323523723.rest^$all
 ||971361236731283.sbs^$all
 ||6418531874236236.sbs^$all
@@ -3307,6 +3311,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||afghanbrittlenffesses.info^$all
 ||africapitalai.net^$all
 ||afrilegacyai.com^$all
+||afrinxtgroup.com^$all
 ||afriquant-click.pages.dev^$all
 ||afriquantum-x.site^$all
 ||afriquantumai.digital^$all
@@ -3387,6 +3392,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||airuppoland.com^$all
 ||aiseries.info^$all
 ||aita-asia.com^$all
+||aitradefrance.com^$all
 ||aivontrixentrade.com^$all
 ||aivorax-tech-com.pages.dev^$all
 ||aivorax-tech.com^$all
@@ -3894,6 +3900,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.766452.sbs^$all
 ||alebilet.832438.cyou^$all
 ||alebilet.847211.sbs^$all
+||alebilet.852188.lat^$all
 ||alebilet.857721.sbs^$all
 ||alebilet.858771.sbs^$all
 ||alebilet.875195.lat^$all
@@ -3902,7 +3909,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.928212.sbs^$all
 ||alebilet.934545ip.top^$all
 ||alebilet.934665ip.top^$all
-||alebilet.935545ip.top^$all
 ||alebilet.948213.sbs^$all
 ||alebilet.958482.sbs^$all
 ||alebilet.958821.sbs^$all
@@ -3973,6 +3979,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.2734627846242.sbs^$all
 ||alebilet.28396342376236.sbs^$all
 ||alebilet.81236812386541.sbs^$all
+||alebilet.87124887248236.rest^$all
 ||alebilet.725148323523723.rest^$all
 ||alebilet.971361236731283.sbs^$all
 ||alebilet.6418531874236236.sbs^$all
@@ -3991,10 +3998,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.dk70w11szx309.cfd^$all
 ||alebilet.dk081xq624op.cyou^$all
 ||alebilet.dk83msjx726.cyou^$all
+||alebilet.dk84kf15ajqi9371.cyou^$all
 ||alebilet.dk86we436.cyou^$all
 ||alebilet.dk91i63a84.cyou^$all
 ||alebilet.dk92xc229.cyou^$all
 ||alebilet.dk148fh593.cyou^$all
+||alebilet.dk293ghdf684.cfd^$all
 ||alebilet.dk700zsx6969.cyou^$all
 ||alebilet.dk715zx81.cyou^$all
 ||alebilet.dk790weq183txz.cyou^$all
@@ -4002,6 +4011,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.dk827ms83.cyou^$all
 ||alebilet.dk836dkx638.cyou^$all
 ||alebilet.dk862zcw173.cyou^$all
+||alebilet.dk926ijlqa741.top^$all
 ||alebilet.dk926keg726.cyou^$all
 ||alebilet.dk926zmw826.cyou^$all
 ||alebilet.dk927jehe72.cyou^$all
@@ -4032,6 +4042,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.dl73zxs914.cyou^$all
 ||alebilet.dl93zxw56.cyou^$all
 ||alebilet.dm-91736.cyou^$all
+||alebilet.domena2838428.mom^$all
 ||alebilet.eu-oferta01429.sbs^$all
 ||alebilet.i5jd738dg6239fb3643.sbs^$all
 ||alebilet.id7d72d639g476f63832.sbs^$all
@@ -4083,6 +4094,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.lokalna-oferta63578122.sbs^$all
 ||alebilet.lokalna-oferta8881381239101.sbs^$all
 ||alebilet.lokalna-oferta89128888877812.sbs^$all
+||alebilet.lokalna-ofeta9xv14yj0b75v03102113.top^$all
 ||alebilet.lokalna-ofeta9xv17yj0b75v0390450.shop^$all
 ||alebilet.lokalna-ofeta172890124.sbs^$all
 ||alebilet.lokalna-ofeta893724781.cfd^$all
@@ -4161,7 +4173,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.ogloszenie212.sbs^$all
 ||alebilet.ogloszenie213.sbs^$all
 ||alebilet.ogloszenie92610.sbs^$all
+||alebilet.ogloszenie129102.shop^$all
 ||alebilet.ogloszenie168192.cfd^$all
+||alebilet.ogloszenie172910.sbs^$all
 ||alebilet.ogloszenie2927372.sbs^$all
 ||alebilet.ogloszenie29587506.rest^$all
 ||alebilet.ogloszenie64765991.cyou^$all
@@ -4277,7 +4291,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.pl423az211.cyou^$all
 ||alebilet.pl522we712.cyou^$all
 ||alebilet.pl911zx679.cyou^$all
-||alebilet.pl971.cyou^$all
 ||alebilet.pl019273.cfd^$all
 ||alebilet.pl019274.rest^$all
 ||alebilet.pl53918fdshhujhujhuj.lol^$all
@@ -4299,7 +4312,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.pl-0294324.sbs^$all
 ||alebilet.pl-816791.cfd^$all
 ||alebilet.pl-1049103.top^$all
-||alebilet.pl-47283910.cfd^$all
 ||alebilet.pl-53198975.shop^$all
 ||alebilet.pl-057293812.sbs^$all
 ||alebilet.pl-547023211.sbs^$all
@@ -4336,6 +4348,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.pl-bn4m.sbs^$all
 ||alebilet.pl-bnk6.sbs^$all
 ||alebilet.pl-bvci5.sbs^$all
+||alebilet.pl-domena192471.shop^$all
 ||alebilet.pl-domena285629.shop^$all
 ||alebilet.pl-dyu8h.sbs^$all
 ||alebilet.pl-f5nzy.sbs^$all
@@ -4372,15 +4385,20 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.pl-oferta63929.shop^$all
 ||alebilet.pl-oferta74928-share.cfd^$all
 ||alebilet.pl-oferta82572.cfd^$all
+||alebilet.pl-oferta143219.sbs^$all
 ||alebilet.pl-oferta294728.icu^$all
 ||alebilet.pl-oferta385829.shop^$all
+||alebilet.pl-oferta510249.sbs^$all
 ||alebilet.pl-oferta513847.shop^$all
 ||alebilet.pl-oferta538175.sbs^$all
 ||alebilet.pl-oferta541058.cfd^$all
 ||alebilet.pl-oferta543971.cfd^$all
 ||alebilet.pl-oferta571352.sbs^$all
+||alebilet.pl-oferta610294.sbs^$all
+||alebilet.pl-oferta712342.sbs^$all
 ||alebilet.pl-oferta731099.sbs^$all
 ||alebilet.pl-oferta749929.shop^$all
+||alebilet.pl-oferta761523.sbs^$all
 ||alebilet.pl-oferta762818.sbs^$all
 ||alebilet.pl-oferta767123.sbs^$all
 ||alebilet.pl-oferta789456.lol^$all
@@ -4406,6 +4424,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.pl-oferta56447654.cfd^$all
 ||alebilet.pl-oferta56514324.lat^$all
 ||alebilet.pl-oferta75689312.lol^$all
+||alebilet.pl-oferta184571746.mom^$all
 ||alebilet.pl-oferta543543543.cfd^$all
 ||alebilet.pl-oferta674891287.sbs^$all
 ||alebilet.pl-oferta684792173.sbs^$all
@@ -4457,6 +4476,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.pl-ogloszenie-prywatne7584645345532.click^$all
 ||alebilet.pl-ogloszenie-tadeuszkaraszewski-93.click^$all
 ||alebilet.pl-ogloszenie-tomaszadamski-93.sbs^$all
+||alebilet.pl-ogloszenie.sbs^$all
 ||alebilet.pl-ogloszezenie12489128.shop^$all
 ||alebilet.pl-ogloszezenie12910172.shop^$all
 ||alebilet.pl-ogloszezenie124901201.shop^$all
@@ -4465,7 +4485,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.pl-ogloszezenie1248918211.shop^$all
 ||alebilet.pl-ogloszezenie7890121924.shop^$all
 ||alebilet.pl-ogloszezenie7891241891.shop^$all
+||alebilet.pl-ogloszezenie12489189281.shop^$all
 ||alebilet.pl-ogloszezenie12948712498.shop^$all
+||alebilet.pl-ogloszezenie12984192717.shop^$all
 ||alebilet.pl-ogloszezenie78912318732.shop^$all
 ||alebilet.pl-ogloszezenie789213789012.shop^$all
 ||alebilet.pl-oglozszenie1248912891.shop^$all
@@ -4507,6 +4529,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.podukty9364139.lol^$all
 ||alebilet.podukty33929179.lol^$all
 ||alebilet.podukty93624129.lol^$all
+||alebilet.podukty183523232.lol^$all
 ||alebilet.podukty982301332.lol^$all
 ||alebilet.produkt-ogloszenie.shop^$all
 ||alebilet.prywatne0953474.help^$all
@@ -4515,6 +4538,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||alebilet.ql12x629.cyou^$all
 ||alebilet.ql92s93z94x.cfd^$all
 ||alebilet.rezerwacja374849391.sbs^$all
+||alebilet.sk936lpq528.rest^$all
 ||alebilet.smart-94372.cfd^$all
 ||alebilet.smart-95372.cfd^$all
 ||alebilet.smart-95382.cfd^$all
@@ -4619,6 +4643,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.1239hpho.courses^$all
 ||allegro.1290hh59.help^$all
 ||allegro.4329g38g85445hj56.buzz^$all
+||allegro.4919h454.mom^$all
 ||allegro.12300g459g54823.lol^$all
 ||allegro.12300h945b4vnj.best^$all
 ||allegro.12309g8438.mom^$all
@@ -4671,17 +4696,18 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.766452.sbs^$all
 ||allegro.832438.cyou^$all
 ||allegro.847211.sbs^$all
+||allegro.852188.lat^$all
 ||allegro.857721.sbs^$all
 ||allegro.858771.sbs^$all
 ||allegro.875195.lat^$all
 ||allegro.889423.lat^$all
 ||allegro.894821.sbs^$all
 ||allegro.912376h745.forum^$all
+||allegro.912398h45.mom^$all
 ||allegro.921390h.pl^$all
 ||allegro.928212.sbs^$all
 ||allegro.934545ip.top^$all
 ||allegro.934665ip.top^$all
-||allegro.935545ip.top^$all
 ||allegro.948213.sbs^$all
 ||allegro.958212.sbs^$all
 ||allegro.958482.sbs^$all
@@ -4788,10 +4814,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.9281238712gh9.beer^$all
 ||allegro.12393098845gh45.top^$all
 ||allegro.43091398128hg.help^$all
+||allegro.91238312910g.mom^$all
 ||allegro.123012098543.lat^$all
 ||allegro.2734627846242.sbs^$all
 ||allegro.28396342376236.sbs^$all
 ||allegro.81236812386541.sbs^$all
+||allegro.87124887248236.rest^$all
 ||allegro.725148323523723.rest^$all
 ||allegro.971361236731283.sbs^$all
 ||allegro.6418531874236236.sbs^$all
@@ -4816,10 +4844,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.dk70w11szx309.cfd^$all
 ||allegro.dk081xq624op.cyou^$all
 ||allegro.dk83msjx726.cyou^$all
+||allegro.dk84kf15ajqi9371.cyou^$all
 ||allegro.dk86we436.cyou^$all
 ||allegro.dk91i63a84.cyou^$all
 ||allegro.dk92xc229.cyou^$all
 ||allegro.dk148fh593.cyou^$all
+||allegro.dk293ghdf684.cfd^$all
 ||allegro.dk700zsx6969.cyou^$all
 ||allegro.dk715zx81.cyou^$all
 ||allegro.dk790weq183txz.cyou^$all
@@ -4827,6 +4857,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.dk827ms83.cyou^$all
 ||allegro.dk836dkx638.cyou^$all
 ||allegro.dk862zcw173.cyou^$all
+||allegro.dk926ijlqa741.top^$all
 ||allegro.dk926keg726.cyou^$all
 ||allegro.dk926zmw826.cyou^$all
 ||allegro.dk927jehe72.cyou^$all
@@ -4857,6 +4888,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.dl73zxs914.cyou^$all
 ||allegro.dl93zxw56.cyou^$all
 ||allegro.dm-91736.cyou^$all
+||allegro.domena2838428.mom^$all
 ||allegro.drac7763299.buzz^$all
 ||allegro.driz84320301.courses^$all
 ||allegro.eb848321230h5.forum^$all
@@ -4926,6 +4958,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.lokalna-oferta8881381239101.sbs^$all
 ||allegro.lokalna-oferta89128888877812.sbs^$all
 ||allegro.lokalna-ofeta6xv17yj0b75v09.shop^$all
+||allegro.lokalna-ofeta9xv14yj0b75v03102113.top^$all
 ||allegro.lokalna-ofeta9xv17yj0b75v0390450.shop^$all
 ||allegro.lokalna-ofeta172890124.sbs^$all
 ||allegro.lokalna-ofeta562356886.sbs^$all
@@ -5015,7 +5048,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.ofeta-462789.sbs^$all
 ||allegro.ofeta-lokalna2988319229481.sbs^$all
 ||allegro.ofie8123910h.beer^$all
+||allegro.ogloszenie129102.shop^$all
 ||allegro.ogloszenie168192.cfd^$all
+||allegro.ogloszenie172910.sbs^$all
 ||allegro.ogloszenie2927372.sbs^$all
 ||allegro.ogloszenie29587506.rest^$all
 ||allegro.ogloszenie64765991.cyou^$all
@@ -5133,7 +5168,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.pl423az211.cyou^$all
 ||allegro.pl522we712.cyou^$all
 ||allegro.pl911zx679.cyou^$all
-||allegro.pl971.cyou^$all
 ||allegro.pl019273.cfd^$all
 ||allegro.pl019274.rest^$all
 ||allegro.pl53918fdshhujhujhuj.biz^$all
@@ -5157,7 +5191,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.pl-816791.cfd^$all
 ||allegro.pl-897324.sbs^$all
 ||allegro.pl-1049103.top^$all
-||allegro.pl-47283910.cfd^$all
 ||allegro.pl-53198975.shop^$all
 ||allegro.pl-057293812.sbs^$all
 ||allegro.pl-547023211.sbs^$all
@@ -5194,6 +5227,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.pl-bn4m.sbs^$all
 ||allegro.pl-bnk6.sbs^$all
 ||allegro.pl-bvci5.sbs^$all
+||allegro.pl-domena192471.shop^$all
 ||allegro.pl-domena285629.shop^$all
 ||allegro.pl-dyu8h.sbs^$all
 ||allegro.pl-f5nzy.sbs^$all
@@ -5232,15 +5266,20 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.pl-oferta63929.shop^$all
 ||allegro.pl-oferta74928-share.cfd^$all
 ||allegro.pl-oferta82572.cfd^$all
+||allegro.pl-oferta143219.sbs^$all
 ||allegro.pl-oferta294728.icu^$all
 ||allegro.pl-oferta385829.shop^$all
+||allegro.pl-oferta510249.sbs^$all
 ||allegro.pl-oferta513847.shop^$all
 ||allegro.pl-oferta538175.sbs^$all
 ||allegro.pl-oferta541058.cfd^$all
 ||allegro.pl-oferta543971.cfd^$all
 ||allegro.pl-oferta571352.sbs^$all
+||allegro.pl-oferta610294.sbs^$all
+||allegro.pl-oferta712342.sbs^$all
 ||allegro.pl-oferta731099.sbs^$all
 ||allegro.pl-oferta749929.shop^$all
+||allegro.pl-oferta761523.sbs^$all
 ||allegro.pl-oferta762818.sbs^$all
 ||allegro.pl-oferta767123.sbs^$all
 ||allegro.pl-oferta789456.lol^$all
@@ -5265,6 +5304,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.pl-oferta56447654.cfd^$all
 ||allegro.pl-oferta56514324.lat^$all
 ||allegro.pl-oferta75689312.lol^$all
+||allegro.pl-oferta184571746.mom^$all
 ||allegro.pl-oferta376291784.cfd^$all
 ||allegro.pl-oferta543543543.cfd^$all
 ||allegro.pl-oferta674891287.sbs^$all
@@ -5315,6 +5355,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.pl-ogloszenie-prywatne7584645345532.click^$all
 ||allegro.pl-ogloszenie-tadeuszkaraszewski-93.click^$all
 ||allegro.pl-ogloszenie-tomaszadamski-93.sbs^$all
+||allegro.pl-ogloszenie.sbs^$all
 ||allegro.pl-ogloszezenie12489128.shop^$all
 ||allegro.pl-ogloszezenie12910172.shop^$all
 ||allegro.pl-ogloszezenie124901201.shop^$all
@@ -5323,7 +5364,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.pl-ogloszezenie1248918211.shop^$all
 ||allegro.pl-ogloszezenie7890121924.shop^$all
 ||allegro.pl-ogloszezenie7891241891.shop^$all
+||allegro.pl-ogloszezenie12489189281.shop^$all
 ||allegro.pl-ogloszezenie12948712498.shop^$all
+||allegro.pl-ogloszezenie12984192717.shop^$all
 ||allegro.pl-ogloszezenie78912318732.shop^$all
 ||allegro.pl-ogloszezenie789213789012.shop^$all
 ||allegro.pl-oglozszenie1248912891.shop^$all
@@ -5364,6 +5407,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.podukty9364139.lol^$all
 ||allegro.podukty33929179.lol^$all
 ||allegro.podukty93624129.lol^$all
+||allegro.podukty183523232.lol^$all
 ||allegro.podukty982301332.lol^$all
 ||allegro.popka29129hh5.beer^$all
 ||allegro.ppry574929.help^$all
@@ -5395,6 +5439,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.sark8381290h.pics^$all
 ||allegro.sarn83271299hh9.click^$all
 ||allegro.siran21877h9.beer^$all
+||allegro.sk936lpq528.rest^$all
 ||allegro.smar8u32781299.forum^$all
 ||allegro.smar2829.casa^$all
 ||allegro.smar8218910.casa^$all
@@ -5429,6 +5474,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegro.st-2492443.top^$all
 ||allegro.tewo23923.buzz^$all
 ||allegro.thgu2378129g.buzz^$all
+||allegro.trakc3821912jj6.casa^$all
 ||allegro.wmq8390100.casa^$all
 ||allegro.x8818272626.com^$all
 ||allegro.xsmar871290h65.click^$all
@@ -5555,6 +5601,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.832438.cyou^$all
 ||allegrolokalnie.845455ip.top^$all
 ||allegrolokalnie.847211.sbs^$all
+||allegrolokalnie.852188.lat^$all
 ||allegrolokalnie.857721.sbs^$all
 ||allegrolokalnie.858771.sbs^$all
 ||allegrolokalnie.0873455.rest^$all
@@ -5564,7 +5611,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.928212.sbs^$all
 ||allegrolokalnie.934545ip.top^$all
 ||allegrolokalnie.934665ip.top^$all
-||allegrolokalnie.935545ip.top^$all
 ||allegrolokalnie.948213.sbs^$all
 ||allegrolokalnie.958128.mom^$all
 ||allegrolokalnie.958482.sbs^$all
@@ -5575,6 +5621,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.3569734.lol^$all
 ||allegrolokalnie.4178185.lat^$all
 ||allegrolokalnie.4537654.click^$all
+||allegrolokalnie.4653745.top^$all
 ||allegrolokalnie.4771851.lat^$all
 ||allegrolokalnie.4891498.lat^$all
 ||allegrolokalnie.4981220.sbs^$all
@@ -5666,6 +5713,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.2734627846242.sbs^$all
 ||allegrolokalnie.28396342376236.sbs^$all
 ||allegrolokalnie.81236812386541.sbs^$all
+||allegrolokalnie.87124887248236.rest^$all
 ||allegrolokalnie.725148323523723.rest^$all
 ||allegrolokalnie.971361236731283.sbs^$all
 ||allegrolokalnie.6418531874236236.sbs^$all
@@ -5691,10 +5739,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.dk081xq624op.cyou^$all
 ||allegrolokalnie.dk82zc628z.cyou^$all
 ||allegrolokalnie.dk83msjx726.cyou^$all
+||allegrolokalnie.dk84kf15ajqi9371.cyou^$all
 ||allegrolokalnie.dk86we436.cyou^$all
 ||allegrolokalnie.dk91i63a84.cyou^$all
 ||allegrolokalnie.dk92xc229.cyou^$all
 ||allegrolokalnie.dk148fh593.cyou^$all
+||allegrolokalnie.dk293ghdf684.cfd^$all
 ||allegrolokalnie.dk700zsx6969.cyou^$all
 ||allegrolokalnie.dk715zx81.cyou^$all
 ||allegrolokalnie.dk790weq183txz.cyou^$all
@@ -5703,6 +5753,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.dk836dkx638.cyou^$all
 ||allegrolokalnie.dk862zcw173.cyou^$all
 ||allegrolokalnie.dk916zx55.cfd^$all
+||allegrolokalnie.dk926ijlqa741.top^$all
 ||allegrolokalnie.dk926keg726.cyou^$all
 ||allegrolokalnie.dk926zmw826.cyou^$all
 ||allegrolokalnie.dk927jehe72.cyou^$all
@@ -5728,6 +5779,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.dk-fk3682gc.sbs^$all
 ||allegrolokalnie.dk-fk9239gc.sbs^$all
 ||allegrolokalnie.dk-g923480023.cyou^$all
+||allegrolokalnie.dk-oferta79654.sbs^$all
 ||allegrolokalnie.dk-oferta83204.sbs^$all
 ||allegrolokalnie.dk-oferta578394.sbs^$all
 ||allegrolokalnie.dk-oferta810574.sbs^$all
@@ -5739,6 +5791,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.dl73zxs914.cyou^$all
 ||allegrolokalnie.dl93zxw56.cyou^$all
 ||allegrolokalnie.dm-91736.cyou^$all
+||allegrolokalnie.domena2838428.mom^$all
 ||allegrolokalnie.e-zamowienia.sbs^$all
 ||allegrolokalnie.esmart-oferta.sbs^$all
 ||allegrolokalnie.eu-oferta01429.sbs^$all
@@ -5789,6 +5842,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.kup-teraz-400311.com^$all
 ||allegrolokalnie.kup-teraz-431333.com^$all
 ||allegrolokalnie.kup-teraz-937842.pl^$all
+||allegrolokalnie.kup-teraz-8209514.pl^$all
 ||allegrolokalnie.kup-teraz-30980178.lol^$all
 ||allegrolokalnie.kup-teraz-38950108.lol^$all
 ||allegrolokalnie.kup-teraz-67853128.lol^$all
@@ -5802,7 +5856,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.l49b0.lat^$all
 ||allegrolokalnie.letnie-okazje43241156cyou.cyou^$all
 ||allegrolokalnie.letnie-okazje44448756cyou.cyou^$all
-||allegrolokalnie.lokaina-48234.sbs^$all
 ||allegrolokalnie.lokala-ofera812819921.shop^$all
 ||allegrolokalnie.lokalna1.sbs^$all
 ||allegrolokalnie.lokalna-3913.sbs^$all
@@ -5821,9 +5874,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.lokalna-oferta46872456.sbs^$all
 ||allegrolokalnie.lokalna-oferta63578122.sbs^$all
 ||allegrolokalnie.lokalna-oferta87453254.sbs^$all
-||allegrolokalnie.lokalna-oferta8881381239101.sbs^$all
 ||allegrolokalnie.lokalna-oferta89128888877812.sbs^$all
 ||allegrolokalnie.lokalna-ofeta6xv07yj0b85v093.shop^$all
+||allegrolokalnie.lokalna-ofeta9xv14yj0b75v03102113.top^$all
 ||allegrolokalnie.lokalna-ofeta9xv17yj0b75v0390450.shop^$all
 ||allegrolokalnie.lokalna-ofeta74211.top^$all
 ||allegrolokalnie.lokalna-ofeta29030127.sbs^$all
@@ -5841,7 +5894,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.lokalna-ofeta21382173940112221.sbs^$all
 ||allegrolokalnie.lokalne-ogoszenie1627.sbs^$all
 ||allegrolokalnie.lokalne.sbs^$all
-||allegrolokalnie.m840-a.lat^$all
 ||allegrolokalnie.matricakey.live^$all
 ||allegrolokalnie.nr-82sbn2x.sbs^$all
 ||allegrolokalnie.nr-23843ms2.sbs^$all
@@ -5923,6 +5975,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.oferta34345353.sbs^$all
 ||allegrolokalnie.oferta38231132.cfd^$all
 ||allegrolokalnie.oferta056538354.sbs^$all
+||allegrolokalnie.oferta58832593.shop^$all
 ||allegrolokalnie.oferta85838535.sbs^$all
 ||allegrolokalnie.oferta90162322.icu^$all
 ||allegrolokalnie.oferta91762562x.cfd^$all
@@ -6026,25 +6079,38 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.oferta-88028346.cfd^$all
 ||allegrolokalnie.oferta-94503858.cfd^$all
 ||allegrolokalnie.oferta-94833904.cfd^$all
+||allegrolokalnie.oferta-589365837.cfd^$all
 ||allegrolokalnie.oferta-828727455.cfd^$all
 ||allegrolokalnie.oferta-829274735.cfd^$all
 ||allegrolokalnie.oferta-846202548.cfd^$all
 ||allegrolokalnie.oferta-895738945.cfd^$all
 ||allegrolokalnie.oferta-8823055204.icu^$all
+||allegrolokalnie.oferta-859375993832.cfd^$all
 ||allegrolokalnie.oferta-dlugopis-bic.shop^$all
 ||allegrolokalnie.oferta-kupbilety.forum^$all
 ||allegrolokalnie.oferta-lokalna46783313.sbs^$all
+||allegrolokalnie.oferta-lokalna-pl.cfd^$all
 ||allegrolokalnie.oferta-smart.sbs^$all
 ||allegrolokalnie.ofertaa8556775.sbs^$all
 ||allegrolokalnie.ofertaa85386572.sbs^$all
 ||allegrolokalnie.ofertaa85894335.sbs^$all
 ||allegrolokalnie.ofertaa88647895.sbs^$all
+||allegrolokalnie.ofertaa7843273429.cfd^$all
+||allegrolokalnie.ofertaa8492352391.cfd^$all
 ||allegrolokalnie.ofertaa8592437235.cfd^$all
 ||allegrolokalnie.ofertaa9039853025.cfd^$all
+||allegrolokalnie.ofertaa9439238520.cfd^$all
+||allegrolokalnie.ofertaa83429523915.cfd^$all
 ||allegrolokalnie.ofertaa84092585213.sbs^$all
+||allegrolokalnie.ofertaa84304369324.cfd^$all
+||allegrolokalnie.ofertaa84923258025.cfd^$all
+||allegrolokalnie.ofertaa84931252943.cfd^$all
 ||allegrolokalnie.ofertaa85494328234.cfd^$all
 ||allegrolokalnie.ofertaa89705697523.cfd^$all
+||allegrolokalnie.ofertaa94839403229.cfd^$all
 ||allegrolokalnie.ofertaa849420352815.cfd^$all
+||allegrolokalnie.ofertaa902544206543.cfd^$all
+||allegrolokalnie.ofertaa943829532549.cfd^$all
 ||allegrolokalnie.ofertaa83729204527352.cfd^$all
 ||allegrolokalnie.ofertaa849273595327201.cfd^$all
 ||allegrolokalnie.oferty24.sbs^$all
@@ -6057,7 +6123,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.ofeta964796534.cfd^$all
 ||allegrolokalnie.ofeta-462789.sbs^$all
 ||allegrolokalnie.ofeta-lokalna2988319229481.sbs^$all
+||allegrolokalnie.ogloszenie129102.shop^$all
 ||allegrolokalnie.ogloszenie168192.cfd^$all
+||allegrolokalnie.ogloszenie172910.sbs^$all
 ||allegrolokalnie.ogloszenie2927372.sbs^$all
 ||allegrolokalnie.ogloszenie29587506.rest^$all
 ||allegrolokalnie.ogloszenie64765991.cyou^$all
@@ -6187,7 +6255,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl423az211.cyou^$all
 ||allegrolokalnie.pl522we712.cyou^$all
 ||allegrolokalnie.pl911zx679.cyou^$all
-||allegrolokalnie.pl971.cyou^$all
 ||allegrolokalnie.pl019273.cfd^$all
 ||allegrolokalnie.pl019274.rest^$all
 ||allegrolokalnie.pl21893.top^$all
@@ -6259,6 +6326,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-0962201.icu^$all
 ||allegrolokalnie.pl-1049103.top^$all
 ||allegrolokalnie.pl-1967002.icu^$all
+||allegrolokalnie.pl-05669206.icu^$all
 ||allegrolokalnie.pl-05970225.icu^$all
 ||allegrolokalnie.pl-7947273r908oferta528367293883.lat^$all
 ||allegrolokalnie.pl-9607227.cfd^$all
@@ -6267,7 +6335,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-19062013.cfd^$all
 ||allegrolokalnie.pl-029607002.icu^$all
 ||allegrolokalnie.pl-46390539.cfd^$all
-||allegrolokalnie.pl-47283910.cfd^$all
 ||allegrolokalnie.pl-49767468.click^$all
 ||allegrolokalnie.pl-53198975.shop^$all
 ||allegrolokalnie.pl-057293812.sbs^$all
@@ -6318,6 +6385,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-bn4m.sbs^$all
 ||allegrolokalnie.pl-bnk6.sbs^$all
 ||allegrolokalnie.pl-bvci5.sbs^$all
+||allegrolokalnie.pl-domena192471.shop^$all
 ||allegrolokalnie.pl-domena285629.shop^$all
 ||allegrolokalnie.pl-dyu8h.sbs^$all
 ||allegrolokalnie.pl-edg.sbs^$all
@@ -6351,6 +6419,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-ns4produkty6018358549.lol^$all
 ||allegrolokalnie.pl-ns9produkty6818358509.lol^$all
 ||allegrolokalnie.pl-ochydnyhuj.biz^$all
+||allegrolokalnie.pl-ofera01921.top^$all
 ||allegrolokalnie.pl-ofert372973share.lol^$all
 ||allegrolokalnie.pl-oferta757.cfd^$all
 ||allegrolokalnie.pl-oferta012403.sbs^$all
@@ -6364,18 +6433,23 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-oferta63929.shop^$all
 ||allegrolokalnie.pl-oferta74928-share.cfd^$all
 ||allegrolokalnie.pl-oferta82572.cfd^$all
+||allegrolokalnie.pl-oferta143219.sbs^$all
 ||allegrolokalnie.pl-oferta294728.icu^$all
 ||allegrolokalnie.pl-oferta299639.click^$all
 ||allegrolokalnie.pl-oferta385829.shop^$all
 ||allegrolokalnie.pl-oferta489032.cfd^$all
+||allegrolokalnie.pl-oferta510249.sbs^$all
 ||allegrolokalnie.pl-oferta513847.shop^$all
 ||allegrolokalnie.pl-oferta538175.sbs^$all
 ||allegrolokalnie.pl-oferta541058.cfd^$all
 ||allegrolokalnie.pl-oferta543971.cfd^$all
 ||allegrolokalnie.pl-oferta571352.sbs^$all
+||allegrolokalnie.pl-oferta610294.sbs^$all
+||allegrolokalnie.pl-oferta712342.sbs^$all
 ||allegrolokalnie.pl-oferta726243.cfd^$all
 ||allegrolokalnie.pl-oferta731099.sbs^$all
 ||allegrolokalnie.pl-oferta749929.shop^$all
+||allegrolokalnie.pl-oferta761523.sbs^$all
 ||allegrolokalnie.pl-oferta762818.sbs^$all
 ||allegrolokalnie.pl-oferta767123.sbs^$all
 ||allegrolokalnie.pl-oferta789456.lol^$all
@@ -6414,6 +6488,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-oferta91210629.icu^$all
 ||allegrolokalnie.pl-oferta91230669.icu^$all
 ||allegrolokalnie.pl-oferta92057284.cfd^$all
+||allegrolokalnie.pl-oferta184571746.mom^$all
 ||allegrolokalnie.pl-oferta327619478.cfd^$all
 ||allegrolokalnie.pl-oferta376291784.cfd^$all
 ||allegrolokalnie.pl-oferta543543543.cfd^$all
@@ -6427,8 +6502,10 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-oferta857393593.cfd^$all
 ||allegrolokalnie.pl-oferta908212346.shop^$all
 ||allegrolokalnie.pl-oferta912366301.icu^$all
+||allegrolokalnie.pl-oferta918330707.icu^$all
 ||allegrolokalnie.pl-oferta937217842.cfd^$all
 ||allegrolokalnie.pl-oferta962187323.cfd^$all
+||allegrolokalnie.pl-oferta1079277805.icu^$all
 ||allegrolokalnie.pl-oferta01973917391.click^$all
 ||allegrolokalnie.pl-oferta4187287941.sbs^$all
 ||allegrolokalnie.pl-oferta5957356783.cfd^$all
@@ -6442,6 +6519,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-oferta-521691.sbs^$all
 ||allegrolokalnie.pl-oferta-lokalna68439234.sbs^$all
 ||allegrolokalnie.pl-oferta-lokalna5894398543.click^$all
+||allegrolokalnie.pl-oferta-lokalna68754976459.top^$all
 ||allegrolokalnie.pl-oferta-lokalna86543898923.shop^$all
 ||allegrolokalnie.pl-oferta.best^$all
 ||allegrolokalnie.pl-ofertaasiftqsj.shop^$all
@@ -6482,6 +6560,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-ogloszenie-prywatne7584645345532.click^$all
 ||allegrolokalnie.pl-ogloszenie-tadeuszkaraszewski-93.click^$all
 ||allegrolokalnie.pl-ogloszenie-tomaszadamski-93.sbs^$all
+||allegrolokalnie.pl-ogloszenie.sbs^$all
 ||allegrolokalnie.pl-ogloszezenie12489128.shop^$all
 ||allegrolokalnie.pl-ogloszezenie12910172.shop^$all
 ||allegrolokalnie.pl-ogloszezenie124901201.shop^$all
@@ -6490,7 +6569,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.pl-ogloszezenie1248918211.shop^$all
 ||allegrolokalnie.pl-ogloszezenie7890121924.shop^$all
 ||allegrolokalnie.pl-ogloszezenie7891241891.shop^$all
+||allegrolokalnie.pl-ogloszezenie12489189281.shop^$all
 ||allegrolokalnie.pl-ogloszezenie12948712498.shop^$all
+||allegrolokalnie.pl-ogloszezenie12984192717.shop^$all
 ||allegrolokalnie.pl-ogloszezenie78912318732.shop^$all
 ||allegrolokalnie.pl-ogloszezenie789213789012.shop^$all
 ||allegrolokalnie.pl-oglozszenie1248912891.shop^$all
@@ -6538,6 +6619,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.podukty9364139.lol^$all
 ||allegrolokalnie.podukty33929179.lol^$all
 ||allegrolokalnie.podukty93624129.lol^$all
+||allegrolokalnie.podukty183523232.lol^$all
 ||allegrolokalnie.podukty982301332.lol^$all
 ||allegrolokalnie.produkt-443028.sbs^$all
 ||allegrolokalnie.produkt-453895.cfd^$all
@@ -6560,6 +6642,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||allegrolokalnie.rezerwacja617485.click^$all
 ||allegrolokalnie.rezerwacja374849391.sbs^$all
 ||allegrolokalnie.siema-cert-huje.lol^$all
+||allegrolokalnie.sk936lpq528.rest^$all
 ||allegrolokalnie.smart-94372.cfd^$all
 ||allegrolokalnie.smart-95372.cfd^$all
 ||allegrolokalnie.smart-95382.cfd^$all
@@ -6698,12 +6781,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||antarescorelux.net^$all
 ||anteno-invexa.click^$all
 ||antenoinvexa.online^$all
+||antibedsheets.shop^$all
 ||antifaddscists.info^$all
 ||antitflyin.store^$all
 ||antorial.store^$all
 ||anutetouni.com^$all
 ||anxhtkhi.shop^$all
-||anyingzhitong.net^$all
 ||aparts-book.pl^$all
 ||apartsbook.com^$all
 ||apartsbook.pl^$all
@@ -6756,6 +6839,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||aquilahub.shop^$all
 ||aqvuro.shop^$all
 ||ar-dhr-delvrs.ajabrothers.com^$all
+||araing.com^$all
 ||aralixio-pro.pages.dev^$all
 ||aralixio.pro^$all
 ||arashoespolska.com^$all
@@ -6870,6 +6954,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||aurenvelta.com^$all
 ||aurenvior.com^$all
 ||aureviatradex-platform.com^$all
+||aurevok.shop^$all
 ||aurewrva.shop^$all
 ||aurex-trade-ai-poland.sbs^$all
 ||aurexlumiontrade.com^$all
@@ -6880,6 +6965,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||auromialcapital.com^$all
 ||auronixpro-click.pages.dev^$all
 ||auronixpro.net^$all
+||aurora-capital-digital.pages.dev^$all
 ||aurora-capital.click^$all
 ||auroravalimanza.net^$all
 ||aurumaimarkets.net^$all
@@ -6900,6 +6986,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||authhub.mom^$all
 ||authlink.fun^$all
 ||authorization-ledger.eu^$all
+||authorizexxs.info^$all
 ||authpeak.fun^$all
 ||authstep26-booking.com^$all
 ||auto-plus.carinehutsebaut.com^$all
@@ -6930,12 +7017,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||avvinstanc.store^$all
 ||avvmmunitions.info^$all
 ||awalakom.weebly.com^$all
-||awkasjhdbf.shop^$all
 ||awssjkokf.shop^$all
 ||awttuwtp.shop^$all
 ||axdorel.shop^$all
 ||axion-line.com^$all
 ||axionbitline.org^$all
+||axionitandaudiosolutions.com^$all
 ||axvftrz.eu.cc^$all
 ||aynitrade.net^$all
 ||azacucn.shop^$all
@@ -6956,6 +7043,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||backpack-style.shop^$all
 ||backpedallccing.info^$all
 ||backwoods-coffee.com^$all
+||badmouthsmemsahibpps.info^$all
 ||bafkreiat5ewo7rnt2ayauseawhqwmowngmlajuwnyqg2sr5hp6pzv3ljte.ipfs.inbrowser.link^$all
 ||bafkreibfrnsxjxquhulmbtbztmoadplcwamczziuqn2a7qnrum3ldqhpie.ipfs.inbrowser.link^$all
 ||bafkreic4c7u5oaqjvm3r2em7ugc2pnf4aqnxhb2h57dhl7w4risoadyym4.ipfs.inbrowser.link^$all
@@ -7002,6 +7090,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||baristahire.kaapisolutions.com^$all
 ||baronar.shop^$all
 ||baronvest.net^$all
+||barqemu.shop^$all
 ||barracudabrands.net^$all
 ||barracudacademy.net^$all
 ||baseballt.top^$all
@@ -7051,7 +7140,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||beldrix.shop^$all
 ||belelavelalo.com^$all
 ||belemativoira.com^$all
-||belgicaaitrade.com^$all
 ||bellanovaliving.com^$all
 ||bellybandits.net^$all
 ||belmont-wealthstone.online^$all
@@ -7100,6 +7188,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||betrent.net^$all
 ||betronexnova.com^$all
 ||betronextrade.com^$all
+||better-utility-desk.pro^$all
 ||bettodayhub.site^$all
 ||bettopreviews.site^$all
 ||bevincapuc.store^$all
@@ -7116,7 +7205,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||bf6ds499n9.vcstrading.eu^$all
 ||bf-legacy.com^$all
 ||bfglust.shop^$all
-||bfjmrems564.cfd^$all
 ||bfzmrets676.space^$all
 ||bgshemagiriedu.info^$all
 ||bgxai.net^$all
@@ -7139,6 +7227,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||biedronka.esfsdfiuyouova-ccvv.sbs^$all
 ||biedronka.mgi-es.com^$all
 ||biedrviponline.shop^$all
+||biegajwdomu.com^$all
 ||bieliznasamanta.top^$all
 ||bienestarjorge.net^$all
 ||bieqwerag.shop^$all
@@ -7209,6 +7298,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||bitsgapplatform.com^$all
 ||bitstack.click^$all
 ||bitstreamai-tech.com^$all
+||biuroduoksigowo.lovable.app^$all
 ||bizumaitrade.com^$all
 ||bizuurabat.top^$all
 ||bizuurabats.top^$all
@@ -7233,6 +7323,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||blgstarplvip.shop^$all
 ||blgstarspl.shop^$all
 ||blgstarsvip.shop^$all
+||blik-parksde.shop^$all
 ||blik.iqwerk.shop^$all
 ||blik.iqwerk.top^$all
 ||blik.kjhg.lol^$all
@@ -7353,7 +7444,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||braldanis.com^$all
 ||bramridgetrust.com^$all
 ||brand1773190134.com^$all
-||brand1773196191.com^$all
 ||brand1773673014.com^$all
 ||brandetroquesane.net^$all
 ||brankivo.shop^$all
@@ -7363,6 +7453,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||brave-tranquility-production-c4dd.up.railway.app^$all
 ||bravecautelance.net^$all
 ||bravekgaldor.com^$all
+||braveti.shop^$all
 ||bravetitrelureai.com^$all
 ||bravikzen.org^$all
 ||bravolucrora.net^$all
@@ -7377,6 +7468,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||breezra-23.pages.dev^$all
 ||brekholmkapvaar.net^$all
 ||brelmandi.com^$all
+||breluno.shop^$all
 ||brenoes.shop^$all
 ||brenzako.shop^$all
 ||brevanequotenure.net^$all
@@ -7505,6 +7597,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||bulkquant.net^$all
 ||bull188official.shop^$all
 ||bullbatshalloweaar.info^$all
+||bulmaki.shop^$all
 ||bumaro.shop^$all
 ||bunenciotrade.com^$all
 ||bunexya.digital^$all
@@ -7537,6 +7630,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||byteroxeia.com^$all
 ||byteroxetrade.com^$all
 ||byttelseri.net^$all
+||byzacmjg.shop^$all
 ||c1r8v5p.pics^$all
 ||c2pink.casa^$all
 ||c3mtvy.top^$all
@@ -7600,6 +7694,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||capitalheritage.digital^$all
 ||capitaliseaisolution.com^$all
 ||capitalpro-app.digital^$all
+||capitstarl.store^$all
 ||capivelle.com^$all
 ||capixia.com^$all
 ||caponnotop.store^$all
@@ -7651,6 +7746,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||caulenginear.info^$all
 ||cautelivure.net^$all
 ||cauterage.net^$all
+||cavdeli.shop^$all
 ||cavertonixia.pro^$all
 ||cazbrio.shop^$all
 ||caziru.shop^$all
@@ -7669,6 +7765,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||cedartrustvex.org^$all
 ||cedarvelle.shop^$all
 ||cedrani.shop^$all
+||cedreplacivect-shop.pages.dev^$all
 ||cedro-ahorrencia-spain.com^$all
 ||ceibafondanza.net^$all
 ||ceibodivin.store^$all
@@ -7697,7 +7794,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||cenovaktivheim.com^$all
 ||censusfin.com^$all
 ||centralmedseniorcliente.site^$all
-||centrefinrivotrade.com^$all
 ||centrivo.site^$all
 ||centroluksorion.digital^$all
 ||centroluxalis.shop^$all
@@ -7743,6 +7839,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||changeavvble.info^$all
 ||chapadacreditovor.com^$all
 ||chapadacreditovor.net^$all
+||charlotte-tilbury.pl^$all
 ||charretmmtediluvial.info^$all
 ||chateamosio.com^$all
 ||chatgeist.net^$all
@@ -7819,7 +7916,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||civoraquota.digital^$all
 ||cjmrbuilder.site^$all
 ||ckaram.com^$all
-||cl28111.com^$all
 ||clairtermelance.net^$all
 ||clairvexonuqmaristrade.com^$all
 ||claracontalia.net^$all
@@ -7841,6 +7937,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||clavcoin.org^$all
 ||clavibypas.store^$all
 ||cleanwallet.top^$all
+||clear-living-route.pro^$all
 ||clearance-online.shop^$all
 ||clearance-onlines.shop^$all
 ||clearancee-online.shop^$all
@@ -7895,7 +7992,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||codeforged.info^$all
 ||codruassetv14.net^$all
 ||coedzzucation.info^$all
-||cofanolucriariatm.com^$all
 ||coffee-lovers.net^$all
 ||coinerttzaida.info^$all
 ||coinplex-system.click^$all
@@ -7924,6 +8020,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||comparai.online^$all
 ||compasteri.store^$all
 ||compiombud.store^$all
+||completestonemanagement.com^$all
 ||complfrutt.store^$all
 ||complicou.shop^$all
 ||compllimno.store^$all
@@ -7979,7 +8076,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||coqqumarououtwishes.info^$all
 ||corahub.shop^$all
 ||coralinvertia.net^$all
-||coraltradix.net^$all
 ||corbettstudios.com^$all
 ||cordaltavric.com^$all
 ||cordillerapatrimoniotrade.com^$all
@@ -8029,6 +8125,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||cottoncloud.net^$all
 ||couponeauai-platform.com^$all
 ||couponeausoftware.com^$all
+||coutts-uk.com^$all
 ||coveyieldics.net^$all
 ||covosu.info^$all
 ||cozaldmarkets.com^$all
@@ -8038,10 +8135,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||cozygarden.space^$all
 ||cozymarketplace.shop^$all
 ||cozyzenora.com^$all
+||cp.ku3vpl.qpon^$all
 ||cpannel.iceiy.com^$all
 ||cplmart.com^$all
 ||cq5o.c7r2v9p.pics^$all
 ||cqftfmhp.shop^$all
+||cqizoupo.shop^$all
 ||cragwealthaven-digital.pages.dev^$all
 ||cranevestholt.com^$all
 ||cranialantifilibllusters.info^$all
@@ -8117,7 +8216,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||crypto-connect.net^$all
 ||crypto-meme.net^$all
 ||crypto-trading-bot.com^$all
-||cryptoairtrade.com^$all
 ||cryptogenisussoftware.pro^$all
 ||cryptolase-au.com^$all
 ||cryptolend-ai.com^$all
@@ -8150,6 +8248,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||cunhainvestorio.digital^$all
 ||cuotalura.net^$all
 ||cuotaneopro.com^$all
+||curationengine.site^$all
 ||curemi.shop^$all
 ||curly-bread-7bf3.martin-026.workers.dev^$all
 ||curnavi.shop^$all
@@ -8248,7 +8347,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||davbyperf.lovable.app^$all
 ||daventa.net^$all
 ||davlatdasturi.com^$all
-||dawnkapitlund.net^$all
 ||dawnvault.vip^$all
 ||dawnynmarkstead.com^$all
 ||dayasing.com^$all
@@ -8295,7 +8393,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||dekaliqqters.info^$all
 ||delfin-investanza.sbs^$all
 ||delfininvestanza.digital^$all
-||delfininvestanza.net^$all
 ||deliginess.pro^$all
 ||delvaristrade-ai.com^$all
 ||demagnetizatiobbns.info^$all
@@ -8305,7 +8402,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||demiteliot.store^$all
 ||demucclsifyamanitas.info^$all
 ||demursbata.store^$all
-||denkeligrouptrade.com^$all
 ||denverix.com^$all
 ||deobisale.com^$all
 ||department2026.besttin.com^$all
@@ -8377,6 +8473,8 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||diaz-axorix.net^$all
 ||diazaxorex.net^$all
 ||diazaxorion.net^$all
+||dibasserpe.store^$all
+||dicenoi.com^$all
 ||dicesmobil.store^$all
 ||dicorlitav.store^$all
 ||dictamenestructuralzacatecas.top^$all
@@ -8404,6 +8502,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||dignustrade.com^$all
 ||dilolnonin.store^$all
 ||diluetourm.store^$all
+||dimacnonus.store^$all
 ||dimifuu.com^$all
 ||dimifuu.lovable.app^$all
 ||dinero-fertil.tech^$all
@@ -8456,6 +8555,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||disvosmerd.store^$all
 ||disyyenthralpygmyisms.info^$all
 ||ditrgetgit.lovable.app^$all
+||ditsmonotypeyys.info^$all
 ||diversepl.shop^$all
 ||divertissemnnent.info^$all
 ||dividendacorvion-tech-com.pages.dev^$all
@@ -8477,10 +8577,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||dk70w11szx309.cfd^$all
 ||dk081xq624op.cyou^$all
 ||dk83msjx726.cyou^$all
+||dk84kf15ajqi9371.cyou^$all
 ||dk86we436.cyou^$all
 ||dk91i63a84.cyou^$all
 ||dk92xc229.cyou^$all
 ||dk148fh593.cyou^$all
+||dk293ghdf684.cfd^$all
 ||dk700zsx6969.cyou^$all
 ||dk715zx81.cyou^$all
 ||dk790weq183txz.cyou^$all
@@ -8488,6 +8590,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||dk827ms83.cyou^$all
 ||dk836dkx638.cyou^$all
 ||dk862zcw173.cyou^$all
+||dk926ijlqa741.top^$all
 ||dk926keg726.cyou^$all
 ||dk926zmw826.cyou^$all
 ||dk927jehe72.cyou^$all
@@ -8521,9 +8624,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||dlairevoi.net^$all
 ||dm84361.domenomania.eu^$all
 ||dm-91736.cyou^$all
+||dmlpm.com^$all
 ||dnchf.1hbh2hw.pics^$all
+||dnejwki2jwnw.eu.cc^$all
 ||dnyaxavez-digital.pages.dev^$all
 ||dnyaxavez.net^$all
+||dnz4w.drownertraff.cc^$all
 ||doaclrv.shop^$all
 ||dobitakurplatform.click^$all
 ||dobrauslugainternetowa.goodwebservicesdept.com^$all
@@ -8564,6 +8670,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||domelvia.shop^$all
 ||domelvix.shop^$all
 ||domelvona.shop^$all
+||domena2838428.mom^$all
 ||domin03.eu.cc^$all
 ||dominairex-shop.pages.dev^$all
 ||dominaliving.com^$all
@@ -8635,6 +8742,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||doversapl.shop^$all
 ||dovirexa.com^$all
 ||dovizieria.net^$all
+||dovrali.shop^$all
 ||dowedz-finanse.com^$all
 ||download-webbos-cbgf42.lat^$all
 ||downsizingandmoving.com^$all
@@ -8718,6 +8826,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||duplipalae.store^$all
 ||durelakivex.com^$all
 ||durevakon.com^$all
+||durevik.shop^$all
 ||duronbondorplatform.de^$all
 ||durskelin.com^$all
 ||durumiavardar.com^$all
@@ -8823,13 +8932,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||eguagasyng.store^$all
 ||egvillagemalldj.shop^$all
 ||egybazar.org^$all
+||ehdniu4jwnw.eu.cc^$all
 ||ehgpwmkw.shop^$all
 ||eichekapivolt.digital^$all
 ||eigenwahrenz.net^$all
 ||eigenwahrenzehrliches.com^$all
 ||einfachtrading.net^$all
 ||einkaufsschnaeppchen.com^$all
-||einkc.net^$all
 ||eisen-peakgpt.com^$all
 ||eisen-peakgpt.org^$all
 ||eisenpeak.com^$all
@@ -8872,6 +8981,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||eloreance.net^$all
 ||elorevanie.net^$all
 ||elpulsoinformativo.com^$all
+||elqano.shop^$all
 ||elqaspynfruneko.net^$all
 ||elqorvane.com^$all
 ||elqorvantabrimex.net^$all
@@ -8888,6 +8998,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||elyor-platform.org^$all
 ||elyrafervane.com^$all
 ||emancipatoccrnonambiguous.info^$all
+||emarket.co.bw^$all
 ||embaymentinterfaooce.info^$all
 ||embolizawwtionspalliums.info^$all
 ||eminixfintrion.com^$all
@@ -8901,6 +9012,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||emzaro.shop^$all
 ||enarmscult.store^$all
 ||encephalogttrams.info^$all
+||enchacarot.store^$all
 ||enciphermenttssameable.info^$all
 ||endoeclosu.store^$all
 ||endonnmorphisms.info^$all
@@ -8908,6 +9020,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||endowmance-uk.live^$all
 ||energeticky-a-prumyslovy-holding.shop^$all
 ||energiecitoyenne.net^$all
+||enfleuruuage.info^$all
 ||engagecloudai.net^$all
 ||enginbrokeratom.net^$all
 ||enjoy247.online^$all
@@ -8943,6 +9056,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||epiclotemaxhex.org^$all
 ||epiclotemaxhex.pro^$all
 ||epicmaxaltxpplatform.com^$all
+||epiqqthelium.info^$all
 ||epistdivan.store^$all
 ||eplavik.shop^$all
 ||epopatuisa.shop^$all
@@ -9010,13 +9124,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||eur.agfaga.shop^$all
 ||eur.drmartenseurope.com^$all
 ||eurbandenimstudio.com^$all
+||euroclangu.store^$all
 ||euroeas.shop^$all
 ||euronextlisbontrade.com^$all
 ||euronova-ai.digital^$all
 ||euroonu.shop^$all
 ||europebrief.xyz^$all
 ||europresscapital.net^$all
-||euroquantumtrade.com^$all
 ||eurosense-digital.pages.dev^$all
 ||euroviatrade.net^$all
 ||eurovio.shop^$all
@@ -9096,6 +9210,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||faenafondorio.digital^$all
 ||fagecmend.lovable.app^$all
 ||fagruvil-shop.pages.dev^$all
+||fagunu.pro^$all
 ||fahhmilyhood.info^$all
 ||failsboidon.info^$all
 ||fair-scout.com^$all
@@ -9137,6 +9252,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||farnu.shop^$all
 ||faroinvereza.net^$all
 ||faroprophitanza.shop^$all
+||farvuni.shop^$all
 ||fascidesta.store^$all
 ||fascinating-empanada-14b05e.netlify.app^$all
 ||faserratipole.top^$all
@@ -9147,6 +9263,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||fastflowvaltrix-soft-com.pages.dev^$all
 ||fastflowvaltrix.org^$all
 ||fastlanelogistics.online^$all
+||fastotremo.store^$all
 ||fastperdolam.com^$all
 ||fastvanny.com^$all
 ||fatheadednessooliterals.info^$all
@@ -9159,6 +9276,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||fbac983b.vcstrading.com^$all
 ||fbue18782-h24.vercel.app^$all
 ||fcdptie.shop^$all
+||fdjgkdfjklg.shop^$all
 ||fdplatform.digital^$all
 ||fdrzwkc.shop^$all
 ||fdtbniym.shop^$all
@@ -9192,7 +9310,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||feroviamarket.shop^$all
 ||ferrkkyboats.info^$all
 ||ferrovaldenza-pro.pages.dev^$all
-||ferrverdovia.net^$all
 ||fertezfancord.net^$all
 ||fervidoaverianza.net^$all
 ||feskech.webspace.rocks^$all
@@ -9259,7 +9376,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finitgene.store^$all
 ||finitorfin.com^$all
 ||finmanage.digital^$all
-||finnexavyn.com^$all
 ||finoinversora.com^$all
 ||finorvex92.com^$all
 ||finovestairetrade.com^$all
@@ -9275,6 +9391,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finzy0-doloremque56.sbs^$all
 ||finzy0-ea32.sbs^$all
 ||finzy0-eius82.sbs^$all
+||finzy0-enim77.sbs^$all
 ||finzy0-eos62.sbs^$all
 ||finzy0-est13.sbs^$all
 ||finzy0-et48.sbs^$all
@@ -9292,6 +9409,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finzy0-reprehenderit92.sbs^$all
 ||finzy0-repudiandae50.sbs^$all
 ||finzy0-similique9.sbs^$all
+||finzy0-vitae7.sbs^$all
 ||finzy0-voluptas24.sbs^$all
 ||finzy0-voluptas44.sbs^$all
 ||finzy1-aliquam33.sbs^$all
@@ -9309,6 +9427,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finzy1-incidunt65.sbs^$all
 ||finzy1-magnam48.sbs^$all
 ||finzy1-non49.sbs^$all
+||finzy1-non50.sbs^$all
 ||finzy1-non91.sbs^$all
 ||finzy1-nulla8.sbs^$all
 ||finzy1-odit86.sbs^$all
@@ -9337,6 +9456,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finzy2-eos43.sbs^$all
 ||finzy2-est32.sbs^$all
 ||finzy2-et34.sbs^$all
+||finzy2-et85.sbs^$all
 ||finzy2-et99.sbs^$all
 ||finzy2-fugit45.sbs^$all
 ||finzy2-illum89.sbs^$all
@@ -9450,6 +9570,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finzy5-ullam80.sbs^$all
 ||finzy5-ut59.sbs^$all
 ||finzy5-ut64.sbs^$all
+||finzy5-vel29.sbs^$all
 ||finzy5-voluptas74.sbs^$all
 ||finzy6-ab19.sbs^$all
 ||finzy6-ad28.sbs^$all
@@ -9480,16 +9601,20 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finzy6-quia64.sbs^$all
 ||finzy6-rerum52.sbs^$all
 ||finzy6-sint30.sbs^$all
+||finzy6-vel27.sbs^$all
 ||finzy6-voluptatem5.sbs^$all
+||finzy6-voluptatem95.sbs^$all
 ||finzy7-accusamus71.sbs^$all
 ||finzy7-ad0.sbs^$all
 ||finzy7-animi52.sbs^$all
 ||finzy7-aspernatur28.sbs^$all
 ||finzy7-atque79.sbs^$all
+||finzy7-autem64.sbs^$all
 ||finzy7-distinctio56.sbs^$all
 ||finzy7-dolorum84.sbs^$all
 ||finzy7-ea70.sbs^$all
 ||finzy7-eligendi15.sbs^$all
+||finzy7-enim9.sbs^$all
 ||finzy7-et31.sbs^$all
 ||finzy7-et74.sbs^$all
 ||finzy7-in18.sbs^$all
@@ -9511,7 +9636,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finzy7-rerum96.sbs^$all
 ||finzy7-sed8.sbs^$all
 ||finzy7-ullam69.sbs^$all
+||finzy7-unde90.sbs^$all
 ||finzy7-velit83.sbs^$all
+||finzy7-voluptas98.sbs^$all
 ||finzy7-voluptatem5.sbs^$all
 ||finzy7-voluptates54.sbs^$all
 ||finzy8-aliquam19.sbs^$all
@@ -9544,10 +9671,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||finzy8-ut48.sbs^$all
 ||finzy8-velit71.sbs^$all
 ||finzy9-adipisci72.sbs^$all
+||finzy9-aspernatur67.sbs^$all
 ||finzy9-autem4.sbs^$all
 ||finzy9-blanditiis79.sbs^$all
 ||finzy9-consectetur8.sbs^$all
 ||finzy9-cumque19.sbs^$all
+||finzy9-cumque56.sbs^$all
 ||finzy9-delectus28.sbs^$all
 ||finzy9-delectus72.sbs^$all
 ||finzy9-doloribus15.sbs^$all
@@ -9695,7 +9824,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||footstonejjshoisted.info^$all
 ||foouutbridge.info^$all
 ||foresconsa.store^$all
-||forexpool.net^$all
 ||forge-capmoor.cyou^$all
 ||forge-capmoor.sbs^$all
 ||forgecamoor.com^$all
@@ -9779,6 +9907,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||freshjointop.com^$all
 ||freshvalueeg.com^$all
 ||frezmilo.shop^$all
+||fricccarda.store^$all
 ||frinajoy.com^$all
 ||frisco-sprzedanie.shop^$all
 ||frisco.celio-online.sbs^$all
@@ -9797,12 +9926,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||fructify.net^$all
 ||fruiter-resso-ai.com^$all
 ||fsale.shop^$all
+||fsfunzone.com^$all
 ||ft.zenway.ink^$all
 ||ftdfuckseveryone.com^$all
 ||ftmotrade.net^$all
 ||ftwnetwork.net^$all
 ||ftyhgffyuu.previewship.net^$all
-||fuenteprofitaje.com^$all
 ||fuersoliinversanza.digital^$all
 ||fuertana-inversura.site^$all
 ||fuertanainversura.digital^$all
@@ -9820,9 +9949,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||fundelarispl.com^$all
 ||fundfoundry-ai.net^$all
 ||fundorasoftware-com.pages.dev^$all
+||fundorship.online^$all
 ||funnyasfuck.net^$all
 ||furnarohome.com^$all
 ||furnaveta.com^$all
+||furnea.shop^$all
 ||furneki.shop^$all
 ||furnexo.shop^$all
 ||furniambience.com^$all
@@ -9870,6 +10001,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||g5x8rn.lat^$all
 ||g06elnh.r.us-east-2.awstrack.me^$all
 ||g8j.z9opcf.top^$all
+||g9sports.net^$all
 ||g9ytqk.sbs^$all
 ||g42profit.net^$all
 ||gaaamgeesapling.info^$all
@@ -9894,6 +10026,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||gamblercoreeky.info^$all
 ||gamesscout.site^$all
 ||gamingbulletin.site^$all
+||gamingclarity.site^$all
 ||gamingpulse.site^$all
 ||gamingreporter.site^$all
 ||gamingscanner.site^$all
@@ -9926,6 +10059,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||gaylekapp.site^$all
 ||gazuwiy.com^$all
 ||gbes.j7m5v2k.pics^$all
+||gbhy3fcgyu.eu.cc^$all
 ||gd-esps.com^$all
 ||gdansk-info24.eu^$all
 ||gdfutjjc.shop^$all
@@ -9936,7 +10070,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||gebvax-ai.org^$all
 ||gebvaxai.net^$all
 ||gehalvongeld.com^$all
-||geirapoer.lovable.app^$all
 ||gekubo.com^$all
 ||geldbotaiplatform.digital^$all
 ||geldronaisolution.digital^$all
@@ -9947,11 +10080,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||genexttrade.com^$all
 ||gennewggffyjhsad.edgeone.dev^$all
 ||gensanprimebusiness.site^$all
-||genvix-trade-v96.net^$all
 ||genvixtrade-v96-pro.pages.dev^$all
 ||genvixtrade-v96.pro^$all
 ||geodatosarg.net^$all
 ||geogntangh.store^$all
+||geohydrologllic.info^$all
 ||gerdstavionix-click.pages.dev^$all
 ||geriatriciansbarrbbed.info^$all
 ||gerteuzonimtrade.com^$all
@@ -9983,6 +10116,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||giftmartbd.online^$all
 ||giganticpotoo.autos^$all
 ||giganupsen.store^$all
+||gikoqe.pro^$all
 ||giltfundgrove.digital^$all
 ||giltloans.com^$all
 ||giornovixia.digital^$all
@@ -10034,7 +10168,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||gold-evening-bag.shop^$all
 ||golddesk.atlastechcompany.web.id^$all
 ||goldengate3g.org^$all
-||goldengateplatform.com^$all
 ||goldenroadaccountingsolutions.com^$all
 ||goldigigli.store^$all
 ||goldledgerix.net^$all
@@ -10046,6 +10179,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||golvurikenzat.de^$all
 ||gomaysht.com^$all
 ||goofbshirr.store^$all
+||goossfballenucleating.info^$all
 ||gopixelcrew.com^$all
 ||gorituals.shop^$all
 ||gorlavo.shop^$all
@@ -10058,8 +10192,8 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||gouhhramielectroless.info^$all
 ||gouvenxai.net^$all
 ||govital-base.live^$all
-||govpl.pii.at^$all
 ||gps-dozor.net^$all
+||gps-iplataforma.com^$all
 ||gpt3-vadipex.co^$all
 ||gpt3vadipexplatform.net^$all
 ||gpt3vapp-ai.net^$all
@@ -10091,6 +10225,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||green-hat-296d.airyvuavv-dd4.workers.dev^$all
 ||green-staking.com^$all
 ||greenbondsteadplatform.com^$all
+||greencentral.pro^$all
 ||greenfieldvaluestore.shop^$all
 ||greenkarnataka.org^$all
 ||greenleaff.org^$all
@@ -10129,6 +10264,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||gt-m.co.za^$all
 ||gtefondvik.com^$all
 ||gtradeapp1mixpro-com.pages.dev^$all
+||gttportu.2ix.at^$all
 ||gturngfetsv.vercel.app^$all
 ||guarddroppeddomains.com^$all
 ||guardianix.org^$all
@@ -10186,9 +10322,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||h7.pb3tth.sbs^$all
 ||h7p6zd.lat^$all
 ||h7qveb.sbs^$all
+||h7srvs.top^$all
 ||h7x1v5n.pics^$all
 ||h9x3v7n.pics^$all
 ||h9x6mq.lat^$all
+||ha3jdq.cfd^$all
 ||habyzuo.pro^$all
 ||hackers-edge.com^$all
 ||hadruni.shop^$all
@@ -10256,6 +10394,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||hbiufou.shop^$all
 ||hcdkeur.com^$all
 ||hclmaummke.store^$all
+||hcmcons.com^$all
 ||hd7vhm.qpon^$all
 ||hdhqydwy.com^$all
 ||healthbox-ai.com^$all
@@ -10321,12 +10460,14 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||highcrest.playenza.info^$all
 ||highlandtherapeuticanimals.org^$all
 ||highlevelly.site^$all
+||hightowelfarms.online^$all
 ||hijotar.shop^$all
 ||hillcrestdeals.shop^$all
 ||hipsi.net^$all
 ||history-dress.ru^$all
 ||histronaireinc.com^$all
 ||hit-market.pl^$all
+||hitexgraphics.aireles.com^$all
 ||hizenaitrade.com^$all
 ||hjqecrpa.shop^$all
 ||hkravah.shop^$all
@@ -10338,6 +10479,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||hodladvisor-ai-platform.com^$all
 ||hodladvisor-ai.digital^$all
 ||hodnotaren.net^$all
+||hogrodev.lovable.app^$all
 ||hojeagora.top^$all
 ||hojebriefdesk.lat^$all
 ||hojeflashnews.click^$all
@@ -10376,6 +10518,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||homla-sale.shop^$all
 ||homla-sale.store^$all
 ||homla.lat^$all
+||homla.mom^$all
 ||homlahome.shop^$all
 ||homlahomes.shop^$all
 ||homlaoutlet.homes^$all
@@ -10436,7 +10579,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||hozenee.com^$all
 ||hrng42788-h25.vercel.app^$all
 ||hromaka.lovable.app^$all
-||hrvatskacapitalai.net^$all
 ||hrvavq.webwave.dev^$all
 ||hsqcl.q4ddve.casa^$all
 ||htbzzpc.net^$all
@@ -10448,10 +10590,10 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||huhhlasophomoric.info^$all
 ||hunterpolskakalosze.com^$all
 ||hunyaaffit.store^$all
+||huremo.shop^$all
 ||hurnelo.shop^$all
 ||hustlvermi.store^$all
 ||huvmnnf.shop^$all
-||hvlr4.d1dgll.cfd^$all
 ||hvtarkw.shop^$all
 ||hwarnersmagens.com^$all
 ||hwebtutr.shop^$all
@@ -10542,7 +10684,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||id-weryfi-4885858.cfd^$all
 ||idcgajapati.com^$all
 ||idea-place.lovable.app^$all
-||ideagroupegypt.com^$all
 ||idealnyrowery.com^$all
 ||idealquatt.store^$all
 ||identfulmi.store^$all
@@ -10601,6 +10742,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||immediatevision.shop^$all
 ||immidiateedge.com^$all
 ||immodthiev.store^$all
+||immunqqogenicitiesundeserved.info^$all
 ||immutabledynamixsoftware-com.pages.dev^$all
 ||imovniaca.net^$all
 ||imovnjaca.net^$all
@@ -10675,6 +10817,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||innovacapital.org^$all
 ||innovarazvitie.online^$all
 ||innovatraderai.net^$all
+||innovenv.net^$all
 ||ino-inderal-software.com^$all
 ||inondsolfe.store^$all
 ||inorrclicc.store^$all
@@ -10705,6 +10848,8 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||inpost.poland-payhub2.eu.cc^$all
 ||inpost.poland-payhub3.eu.cc^$all
 ||inpost.poland-payhub4.eu.cc^$all
+||inpost.poland-payhub8.eu.cc^$all
+||inpost.poland-payhub9.eu.cc^$all
 ||inpost.poland-payhub.bond^$all
 ||inpost.poland-payhub.cfd^$all
 ||inpost.przelew-paycore.biz.id^$all
@@ -10765,6 +10910,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||introgresnnsive.info^$all
 ||introooly.store^$all
 ||introstami.store^$all
+||intubatedbhhlathering.info^$all
 ||inversorpro.digital^$all
 ||invertexfinevox-sbs.pages.dev^$all
 ||invervexa84.com^$all
@@ -10827,6 +10973,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||iversonsharedspace.com^$all
 ||ivisionstech.site^$all
 ||ivlapoxrplatform.net^$all
+||ivory-jigger.shop^$all
 ||ivqura.shop^$all
 ||ivraku.shop^$all
 ||ivrova.com^$all
@@ -10855,6 +11002,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||jakujey.com^$all
 ||jaldemu.shop^$all
 ||jaldexo.shop^$all
+||jaldovi.shop^$all
 ||jaltrik.online^$all
 ||jambggudisengagements.info^$all
 ||jaminsari.net^$all
@@ -10903,7 +11051,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||jfbgdf.2ij3weh.pics^$all
 ||jgjh.6tegev.pics^$all
 ||jgtpolska.lovable.app^$all
-||jhkvfqfm.shop^$all
 ||jiccuracao.com^$all
 ||jijfi.2kmwkm3.pics^$all
 ||jilbabsublobbt.info^$all
@@ -10928,7 +11075,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||join-booking.com^$all
 ||joinprofitianexus.com^$all
 ||jointgenesisk.com^$all
-||jokelaoks.net^$all
+||jolaks-s1.com^$all
 ||jomoove.com^$all
 ||jorafind.shop^$all
 ||jorevaalyris.com^$all
@@ -11057,11 +11204,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||k8t1yn.lat^$all
 ||k9r1x5b.lat^$all
 ||kaazarrpl.shop^$all
+||kaganiecmi.com^$all
 ||kaifak8daili.com^$all
 ||kairaveto.com^$all
 ||kairezano.net^$all
 ||kairoinvestesto.net^$all
 ||kairyzenorlitho.com^$all
+||kaiser-handel-ai.com^$all
 ||kaiserhandel-ai.org^$all
 ||kaiserhandelai-gpt.org^$all
 ||kaiserhandelai.net^$all
@@ -11114,6 +11263,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||kaufhau.sbs^$all
 ||kavdexo.shop^$all
 ||kavluri.shop^$all
+||kavreti.shop^$all
 ||kavuro.shop^$all
 ||kayak-ai.com^$all
 ||kazanctunc.net^$all
@@ -11130,9 +11280,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||keenaccruvance.digital^$all
 ||keenequithavance.net^$all
 ||keenledgeriment.online^$all
+||keenmaturic-ai.live^$all
 ||keenmaturic.net^$all
 ||keenmeritholdist.net^$all
 ||keenmintonage.net^$all
+||keenpolska.com^$all
 ||keenstakendorineplatform.com^$all
 ||keenswapmontery.net^$all
 ||keentillwardance.net^$all
@@ -11182,6 +11334,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||keyxazup.shop^$all
 ||kfd.pannenhuis.sbs^$all
 ||kgstinvest-pro.pages.dev^$all
+||kh3iju.cfd^$all
 ||khao.online^$all
 ||khf.r6uemr.casa^$all
 ||khoakent.net^$all
@@ -11203,7 +11356,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||kissedimac.store^$all
 ||kissvan.com^$all
 ||kite-rendaris.com^$all
-||kitelgame.com^$all
 ||kitemonolith.online^$all
 ||kiterendaris.org^$all
 ||kivagrno.shop^$all
@@ -11360,6 +11512,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||kup-teraz-88050108.lol^$all
 ||kupivo.shop^$all
 ||kurelo.shop^$all
+||kurevan.shop^$all
 ||kurslundmarkets.net^$all
 ||kurssparhed.net^$all
 ||kurunkeroniva.com^$all
@@ -11379,6 +11532,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||kwenengcreatives.org.bw^$all
 ||kwrhuac.shop^$all
 ||kxcarpet.com^$all
+||kycyjyu.com^$all
 ||kygaxoi.com^$all
 ||kygaxoi.lovable.app^$all
 ||kylinpyrnnones.info^$all
@@ -11440,6 +11594,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||landochodura.net^$all
 ||lantrexio.net^$all
 ||lanwwdsliding.info^$all
+||lanyngassed.lovable.app^$all
 ||lapak99-alternatif.com^$all
 ||lapp.n9c1t5w.pics^$all
 ||laquerella.net^$all
@@ -11498,6 +11653,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||ledguanpiandeng.com^$all
 ||lednickalaw.com^$all
 ||ledovykapiton.net^$all
+||leeenticelabuts.info^$all
 ||legacybitfundex.sbs^$all
 ||legacyfidellan92.com^$all
 ||legalesbcp.site^$all
@@ -11570,6 +11726,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||likiditukuro.net^$all
 ||lilac-cardigan.shop^$all
 ||lilogregreen.net^$all
+||limanfindra.net^$all
 ||limansermvara.com^$all
 ||limanvalmera.net^$all
 ||limpidaaveritone.net^$all
@@ -11636,6 +11793,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||lnpoct.fn6rzn.cfd^$all
 ||lnpoct.h1plus.sbs^$all
 ||lnpoct.jr9scs.top^$all
+||lnpoct.n3mjya.casa^$all
 ||lnpoct.pm7vnt.casa^$all
 ||lnpoct.rc4pso.qpon^$all
 ||lnpoct.u4qddy.cfd^$all
@@ -11687,6 +11845,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||lokalna-oferta87453254.sbs^$all
 ||lokalna-oferta8881381239101.sbs^$all
 ||lokalna-oferta89128888877812.sbs^$all
+||lokalna-ofeta9xv14yj0b75v03102113.top^$all
 ||lokalna-ofeta9xv17yj0b75v0390450.shop^$all
 ||lokalna-ofeta172890124.sbs^$all
 ||lokalna-ofeta562356886.sbs^$all
@@ -11702,7 +11861,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||lokatowintrade.com^$all
 ||lokatypolroczne.com^$all
 ||lolf.6heujdy.pics^$all
-||lomixone.net^$all
 ||lomvaki.shop^$all
 ||lomverick.io^$all
 ||londonfurnituremakers.shop^$all
@@ -11718,6 +11876,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||lorlap2321.eu.cc^$all
 ||lornavi.shop^$all
 ||lorncreditvale.cfd^$all
+||lorqemi.shop^$all
 ||lorvuni.shop^$all
 ||loryn-creditvale.click^$all
 ||losyrio.com^$all
@@ -11751,7 +11910,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||lucecrescoro.com^$all
 ||lucekrescore.click^$all
 ||lucelpatriance.digital^$all
-||lucentmarckbit.com^$all
 ||lucidoinviora-digital.pages.dev^$all
 ||luciotorres.net^$all
 ||luckyrate.site^$all
@@ -11799,6 +11957,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||luntrapaycore-club.pages.dev^$all
 ||lunvexa-ai.com^$all
 ||lupisax.site^$all
+||luquno.pro^$all
 ||lurmavo.shop^$all
 ||lurotn0de.org^$all
 ||lurqadi.shop^$all
@@ -11828,7 +11987,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||lyoreau.com^$all
 ||lyra-vestgrove-au.com^$all
 ||lyrachoicenta.net^$all
-||lyravestgrove.net^$all
 ||lyravestgrove.pro^$all
 ||lysbjergportalis-soft-com.pages.dev^$all
 ||lysbjergportalis-soft.com^$all
@@ -11854,7 +12012,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||m6y3bt.lat^$all
 ||m7v2kc.lat^$all
 ||m7z4q1x.pics^$all
-||m8c2xp.lat^$all
 ||m8v5x2k.pics^$all
 ||m9r5kd.lat^$all
 ||m-365a63c9-adob39b7cab17jfwwisurihgwl.gearsnepal.com^$all
@@ -11881,6 +12038,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||magfgelitor.lovable.app^$all
 ||maggiesibi.store^$all
 ||magyarorszagmarkdextrade.com^$all
+||magyynificoes.info^$all
 ||mahmudcollection.shop^$all
 ||mail88.exempler.top^$all
 ||mailer70.servoder.top^$all
@@ -11943,7 +12101,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||manzooralam.com^$all
 ||map-location.info^$all
 ||maradinrassla.online^$all
-||marbitorio.net^$all
+||maraslioglu.net^$all
 ||marble-rendaven.cfd^$all
 ||marble-rendaven.com^$all
 ||marblevestholm.net^$all
@@ -11982,6 +12140,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||matologistics.ru^$all
 ||matribozza.store^$all
 ||mauiekh.shop^$all
+||mavdori.shop^$all
 ||maveledstead.com^$all
 ||mavrextraceplatform.net^$all
 ||mavuko.shop^$all
@@ -12049,8 +12208,10 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||mellttssyllabication.info^$all
 ||melqliraqtorqeth.com^$all
 ||melquni.shop^$all
+||meltavo.shop^$all
 ||memorifundai.digital^$all
 ||memorifundaiplatform.com^$all
+||mendozaauthor.com^$all
 ||mendrela.carinehutsebaut.com^$all
 ||menorahproductions.org^$all
 ||menstruzzumsrowdyism.info^$all
@@ -12147,7 +12308,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||miqaro.shop^$all
 ||miraculousdnb.com^$all
 ||miraemark.com^$all
-||miravalorio.net^$all
 ||mirethonvalquex.com^$all
 ||mireuxsolvyn.com^$all
 ||mirevako.com^$all
@@ -12214,9 +12374,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||moja-paczka.hujioalek.shop^$all
 ||moja-paczka.yrotin.shop^$all
 ||mojakarta.shop^$all
-||mojesprawdzenie.online^$all
 ||mojprofi-9733.buzz^$all
 ||mojprogram.shop^$all
+||mokepggrecis.info^$all
 ||molkavi.shop^$all
 ||mollehallni.store^$all
 ||molliranni.store^$all
@@ -12226,7 +12386,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||monarobondleigh.org^$all
 ||mondaline.com^$all
 ||mondvermothal.de^$all
-||monetargerinci.com^$all
 ||monetixcels.com^$all
 ||moneytrade.digital^$all
 ||monia-ai.com^$all
@@ -12245,7 +12404,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||montaraliving.com^$all
 ||montecaudivo.net^$all
 ||monterakorin-gr.com^$all
-||monterendivo.net^$all
 ||montervixmaxtrade.com^$all
 ||montierrainvest.net^$all
 ||monvaultrade.com^$all
@@ -12286,6 +12444,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||msauth0.sslserunamesweb.sbs^$all
 ||msauth30902830.sslserunamesweb.sbs^$all
 ||mskepgyi.shop^$all
+||mso-eu0881-liveportal-document.b-cdn.net^$all
 ||mtwohome.com^$all
 ||mty6kwr1cor.hair^$all
 ||muellecapitaje.digital^$all
@@ -12372,8 +12531,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||napfenycaprivo-ai.net^$all
 ||napturi.shop^$all
 ||naree.pro^$all
+||narmeti.shop^$all
 ||naselasebori.com^$all
 ||nationalesinvestitionszugangsprogramm.com^$all
+||nationalfinancialinclusionprogramme.com^$all
+||nationalfinancialinclusionprogramme.online^$all
 ||nationalpharmabd.com^$all
 ||nativecoses.com^$all
 ||natrivaxtrade.com^$all
@@ -12389,6 +12551,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||nawerfecdioh.lovable.app^$all
 ||naxelorivu.net^$all
 ||naxelqoryv.com^$all
+||nb63.ku3vpl.qpon^$all
 ||nchfoja.s3.eu-north-1.amazonaws.com^$all
 ||ncispoche.eu.cc^$all
 ||nciucnb.shop^$all
@@ -12409,6 +12572,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||nelquri.shop^$all
 ||neltori.net^$all
 ||nelumcespi.store^$all
+||nelvaku.shop^$all
 ||nembaxo.shop^$all
 ||nemesis-us.info^$all
 ||nemffatology.info^$all
@@ -12431,6 +12595,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||neronix-profit-360soft-com.pages.dev^$all
 ||neruxvolenta.com^$all
 ||nervousnennsses.info^$all
+||nest-resource-works.pro^$all
 ||nestandwood.com^$all
 ||nestdesignx.com^$all
 ||nestexpansion.com^$all
@@ -12468,7 +12633,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||neustrade.com^$all
 ||neutnnrinoscatechizing.info^$all
 ||nevadoinverecto.net^$all
-||nevaldcoin.com^$all
 ||nevalddirekt.com^$all
 ||nevaldki.pro^$all
 ||nevefondivio-ai.com^$all
@@ -12476,7 +12640,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||nevunfenorina.com^$all
 ||newbalancedeals.sale-lyko.shop^$all
 ||newcapitalcargocarriers.com^$all
-||newgooglgecheckoutroundwebmailer-dpzcf6efmgzv.edgeone.dev^$all
 ||newguest-booking.com^$all
 ||newkalven.com^$all
 ||neworizont.net^$all
@@ -12600,7 +12763,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||noctzarviatrade.com^$all
 ||nodeoptioneth.net^$all
 ||nodopatrimonza-click.pages.dev^$all
-||nodopatrimonza.com^$all
 ||noisy-sea-91b2.martin-026.workers.dev^$all
 ||noka1003.oceanwbview.de^$all
 ||nokizie.com^$all
@@ -12730,9 +12892,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||npsepfd.shop^$all
 ||nqkmiovf.shop^$all
 ||nrzduip.shop^$all
-||nsb.h1xdmv.qpon^$all
 ||nshnbd.3lek33.pics^$all
 ||nsiipuw.shop^$all
+||nsipapp.net^$all
 ||nsrzyfgo.shop^$all
 ||ntoinette-ischer-5082.com^$all
 ||ntr8jer2vka.hair^$all
@@ -12779,13 +12941,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||oadb8.armancontructions.com^$all
 ||oakandroom.com^$all
 ||oakcapvern.click^$all
-||oakcapvern.com^$all
 ||oakniva.com^$all
 ||oakvalleyoutlet.shop^$all
 ||oakveraliving.com^$all
 ||oakverra.shop^$all
 ||oakviro.com^$all
 ||oakvistaa.com^$all
+||oakwoodgardencenter.store^$all
 ||oanlaab.shop^$all
 ||oawphli.shop^$all
 ||oberu.shop^$all
@@ -12793,7 +12955,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||objeccctionable.info^$all
 ||obnubilaeetion.info^$all
 ||obovabonci.store^$all
-||obrynthalotrade.com^$all
 ||obuvkisonlinebg.shop^$all
 ||obuwiehub.shop^$all
 ||obviateeions.info^$all
@@ -12814,6 +12975,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||odczghs.shop^$all
 ||oddsanalysishub.site^$all
 ||oddscompass.site^$all
+||oddsinsightlab.site^$all
 ||oddsnavigator.site^$all
 ||oddsplay.site^$all
 ||oddsportal.site^$all
@@ -12961,10 +13123,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||oferta-88028346.cfd^$all
 ||oferta-94503858.cfd^$all
 ||oferta-94833904.cfd^$all
+||oferta-589365837.cfd^$all
 ||oferta-828727455.cfd^$all
 ||oferta-829274735.cfd^$all
 ||oferta-895738945.cfd^$all
 ||oferta-8823055204.icu^$all
+||oferta-859375993832.cfd^$all
 ||oferta-dlugopis-bic.shop^$all
 ||oferta-kupbilety.forum^$all
 ||oferta-lokalna46783313.sbs^$all
@@ -12994,6 +13158,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||ofincredvorn.digital^$all
 ||ofornaogu-dpzv6dife1hh.edgeone.dev^$all
 ||ogloboagora.top^$all
+||ogloszenie129102.shop^$all
 ||ogloszenie168192.cfd^$all
 ||ogloszenie2927372.sbs^$all
 ||ogloszenie29587506.rest^$all
@@ -13024,6 +13189,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||okrcity.pro^$all
 ||ol1x-onl.be1wyw.cfd^$all
 ||ol1x-onl.hd7vhm.qpon^$all
+||ol1x-onl.m5httq.cfd^$all
 ||ol1x-onl.q5dhga.cfd^$all
 ||ol1x-onl.rc4pso.qpon^$all
 ||ol1x-onl.wg7gos.sbs^$all
@@ -13077,6 +13243,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.766452.sbs^$all
 ||olx.832438.cyou^$all
 ||olx.847211.sbs^$all
+||olx.852188.lat^$all
 ||olx.857721.sbs^$all
 ||olx.858771.sbs^$all
 ||olx.875195.lat^$all
@@ -13085,7 +13252,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.928212.sbs^$all
 ||olx.934545ip.top^$all
 ||olx.934665ip.top^$all
-||olx.935545ip.top^$all
 ||olx.948213.sbs^$all
 ||olx.958482.sbs^$all
 ||olx.958821.sbs^$all
@@ -13156,6 +13322,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.2734627846242.sbs^$all
 ||olx.28396342376236.sbs^$all
 ||olx.81236812386541.sbs^$all
+||olx.87124887248236.rest^$all
 ||olx.725148323523723.rest^$all
 ||olx.971361236731283.sbs^$all
 ||olx.6418531874236236.sbs^$all
@@ -13175,10 +13342,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.dk70w11szx309.cfd^$all
 ||olx.dk081xq624op.cyou^$all
 ||olx.dk83msjx726.cyou^$all
+||olx.dk84kf15ajqi9371.cyou^$all
 ||olx.dk86we436.cyou^$all
 ||olx.dk91i63a84.cyou^$all
 ||olx.dk92xc229.cyou^$all
 ||olx.dk148fh593.cyou^$all
+||olx.dk293ghdf684.cfd^$all
 ||olx.dk700zsx6969.cyou^$all
 ||olx.dk715zx81.cyou^$all
 ||olx.dk790weq183txz.cyou^$all
@@ -13186,6 +13355,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.dk827ms83.cyou^$all
 ||olx.dk836dkx638.cyou^$all
 ||olx.dk862zcw173.cyou^$all
+||olx.dk926ijlqa741.top^$all
 ||olx.dk926keg726.cyou^$all
 ||olx.dk926zmw826.cyou^$all
 ||olx.dk927jehe72.cyou^$all
@@ -13216,6 +13386,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.dl73zxs914.cyou^$all
 ||olx.dl93zxw56.cyou^$all
 ||olx.dm-91736.cyou^$all
+||olx.domena2838428.mom^$all
 ||olx.esmart-oferta.sbs^$all
 ||olx.eu-oferta01429.sbs^$all
 ||olx.i5jd738dg6239fb3643.sbs^$all
@@ -13271,6 +13442,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.lokalna-oferta87453254.sbs^$all
 ||olx.lokalna-oferta8881381239101.sbs^$all
 ||olx.lokalna-oferta89128888877812.sbs^$all
+||olx.lokalna-ofeta9xv14yj0b75v03102113.top^$all
 ||olx.lokalna-ofeta9xv17yj0b75v0390450.shop^$all
 ||olx.lokalna-ofeta172890124.sbs^$all
 ||olx.lokalna-ofeta562356886.sbs^$all
@@ -13355,7 +13527,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.ofeta964796534.cfd^$all
 ||olx.ofeta-462789.sbs^$all
 ||olx.ofeta-lokalna2988319229481.sbs^$all
+||olx.ogloszenie129102.shop^$all
 ||olx.ogloszenie168192.cfd^$all
+||olx.ogloszenie172910.sbs^$all
 ||olx.ogloszenie2927372.sbs^$all
 ||olx.ogloszenie29587506.rest^$all
 ||olx.ogloszenie64765991.cyou^$all
@@ -13477,7 +13651,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.pl423az211.cyou^$all
 ||olx.pl522we712.cyou^$all
 ||olx.pl911zx679.cyou^$all
-||olx.pl971.cyou^$all
 ||olx.pl019273.cfd^$all
 ||olx.pl019274.rest^$all
 ||olx.pl53918fdshhujhujhuj.biz^$all
@@ -13502,7 +13675,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.pl-816791.cfd^$all
 ||olx.pl-897324.sbs^$all
 ||olx.pl-1049103.top^$all
-||olx.pl-47283910.cfd^$all
 ||olx.pl-53198975.shop^$all
 ||olx.pl-057293812.sbs^$all
 ||olx.pl-547023211.sbs^$all
@@ -13538,6 +13710,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.pl-bn4m.sbs^$all
 ||olx.pl-bnk6.sbs^$all
 ||olx.pl-bvci5.sbs^$all
+||olx.pl-domena192471.shop^$all
 ||olx.pl-domena285629.shop^$all
 ||olx.pl-dyu8h.sbs^$all
 ||olx.pl-ers.sbs^$all
@@ -13578,15 +13751,20 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.pl-oferta63929.shop^$all
 ||olx.pl-oferta74928-share.cfd^$all
 ||olx.pl-oferta82572.cfd^$all
+||olx.pl-oferta143219.sbs^$all
 ||olx.pl-oferta294728.icu^$all
 ||olx.pl-oferta385829.shop^$all
+||olx.pl-oferta510249.sbs^$all
 ||olx.pl-oferta513847.shop^$all
 ||olx.pl-oferta538175.sbs^$all
 ||olx.pl-oferta541058.cfd^$all
 ||olx.pl-oferta543971.cfd^$all
 ||olx.pl-oferta571352.sbs^$all
+||olx.pl-oferta610294.sbs^$all
+||olx.pl-oferta712342.sbs^$all
 ||olx.pl-oferta731099.sbs^$all
 ||olx.pl-oferta749929.shop^$all
+||olx.pl-oferta761523.sbs^$all
 ||olx.pl-oferta762818.sbs^$all
 ||olx.pl-oferta767123.sbs^$all
 ||olx.pl-oferta789456.lol^$all
@@ -13612,6 +13790,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.pl-oferta56447654.cfd^$all
 ||olx.pl-oferta56514324.lat^$all
 ||olx.pl-oferta75689312.lol^$all
+||olx.pl-oferta184571746.mom^$all
 ||olx.pl-oferta376291784.cfd^$all
 ||olx.pl-oferta543543543.cfd^$all
 ||olx.pl-oferta674891287.sbs^$all
@@ -13666,6 +13845,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.pl-ogloszenie-prywatne7584645345532.click^$all
 ||olx.pl-ogloszenie-tadeuszkaraszewski-93.click^$all
 ||olx.pl-ogloszenie-tomaszadamski-93.sbs^$all
+||olx.pl-ogloszenie.sbs^$all
 ||olx.pl-ogloszezenie12489128.shop^$all
 ||olx.pl-ogloszezenie12910172.shop^$all
 ||olx.pl-ogloszezenie124901201.shop^$all
@@ -13674,7 +13854,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.pl-ogloszezenie1248918211.shop^$all
 ||olx.pl-ogloszezenie7890121924.shop^$all
 ||olx.pl-ogloszezenie7891241891.shop^$all
+||olx.pl-ogloszezenie12489189281.shop^$all
 ||olx.pl-ogloszezenie12948712498.shop^$all
+||olx.pl-ogloszezenie12984192717.shop^$all
 ||olx.pl-ogloszezenie78912318732.shop^$all
 ||olx.pl-ogloszezenie789213789012.shop^$all
 ||olx.pl-oglozszenie1248912891.shop^$all
@@ -13715,12 +13897,14 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.podukty9364139.lol^$all
 ||olx.podukty33929179.lol^$all
 ||olx.podukty93624129.lol^$all
+||olx.podukty183523232.lol^$all
 ||olx.podukty982301332.lol^$all
 ||olx.poland-corepay1.eu.cc^$all
 ||olx.poland-paycore.eu.cc^$all
 ||olx.poland-paycore.shop^$all
 ||olx.poland-payhub3.eu.cc^$all
 ||olx.poland-payhub5.eu.cc^$all
+||olx.poland-payhub9.eu.cc^$all
 ||olx.poland-payhub.bond^$all
 ||olx.poland-payhub.buzz^$all
 ||olx.poland-payhub.qpon^$all
@@ -13735,6 +13919,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||olx.ql12x629.cyou^$all
 ||olx.ql92s93z94x.cfd^$all
 ||olx.rezerwacja374849391.sbs^$all
+||olx.sk936lpq528.rest^$all
 ||olx.smart-94372.cfd^$all
 ||olx.smart-95372.cfd^$all
 ||olx.smart-95382.cfd^$all
@@ -13777,6 +13962,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||ondegmedic.store^$all
 ||oneagleswingshealingcenterdetroit.org^$all
 ||onedrive-4-nine.vercel.app^$all
+||onettlandingpage7382.weebly.com^$all
 ||oneuden.shop^$all
 ||oneuldz.shop^$all
 ||oneulied.shop^$all
@@ -14016,7 +14202,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pabellgross.pro^$all
 ||paccrvovirus.info^$all
 ||pacificbondmere.digital^$all
-||pacificovaloria.net^$all
 ||paczka24pl.eu.cc^$all
 ||paczka.micnmi.shop^$all
 ||paczzka7461724.click^$all
@@ -14027,7 +14212,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||paczzkaa7731567.click^$all
 ||paddywaxs.com^$all
 ||pagequestness-digital.pages.dev^$all
-||pagewebstore.lat^$all
 ||pakshala.online^$all
 ||palcotresorio.com^$all
 ||palemshelf.shop^$all
@@ -14037,7 +14221,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||palm-vermogrove.online^$all
 ||palmafondivo.net^$all
 ||palmarendario-click.pages.dev^$all
-||palmarendario.com^$all
 ||palmarentazgo.com^$all
 ||palmvermogrove.online^$all
 ||paltidoma.eu.cc^$all
@@ -14069,6 +14252,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||parenwakai.com^$all
 ||pareveboogeeerman.info^$all
 ||paribu-app.digital^$all
+||park-bilk.shop^$all
 ||park-wodny-suntago.com^$all
 ||parklogic-ai.com^$all
 ||paroalwl.eu.cc^$all
@@ -14109,6 +14293,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pavqelo.shop^$all
 ||pavruni.shop^$all
 ||pavuno.shop^$all
+||pavzuno.shop^$all
 ||paxduno.shop^$all
 ||paxento.online^$all
 ||paxmiri.shop^$all
@@ -14121,6 +14306,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||paycore-confirmation44232.casa^$all
 ||paycore-trust-process.sbs^$all
 ||payesaggua.store^$all
+||payidfast.site^$all
 ||paynoravello.net^$all
 ||payprzelew-core1.site^$all
 ||payu-nitro1.eu.cc^$all
@@ -14130,12 +14316,14 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pazzetraco.store^$all
 ||pb6srl.sbs^$all
 ||pbgmart.online^$all
+||pc.jvmlgy.com^$all
 ||pcg-telegram.com^$all
 ||pdfbbse.com^$all
 ||pdfinstalls-2.vercel.app^$all
 ||peacesell.com^$all
 ||peach-bamboo-handle.shop^$all
 ||peakbitvexflow.net^$all
+||peakfinthor.online^$all
 ||peakluxentriasolution.com^$all
 ||peakvestholt.cfd^$all
 ||peakvestholt.net^$all
@@ -14190,6 +14378,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||perrtypos.fun^$all
 ||perrymarkets.com^$all
 ||persicmps.store^$all
+||persifleux.info^$all
 ||perspicacimmous.info^$all
 ||pertucontr.store^$all
 ||perulegacy.digital^$all
@@ -14309,6 +14498,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pierscienlokatava.net^$all
 ||pietrparod.store^$all
 ||piggybackinbbg.info^$all
+||piingdemo.com^$all
 ||pijlerkapithof.net^$all
 ||pikstorium.com^$all
 ||pikup-teraz74328832187.sbs^$all
@@ -14408,6 +14598,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pixel-viewsy.lovable.app^$all
 ||pixelbride.shop^$all
 ||pixelbridgeppc.net^$all
+||pixserve.store^$all
 ||pk43cv12.cyou^$all
 ||pk916zx763.cyou^$all
 ||pkklebiscitary.info^$all
@@ -14418,6 +14609,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl1z7vs.cyou^$all
 ||pl1z92nz2b.cyou^$all
 ||pl1zn6sd73.cyou^$all
+||pl2.plsource.eu.cc^$all
 ||pl02.top^$all
 ||pl2bz6vc7u.cyou^$all
 ||pl2vk6npmq.cfd^$all
@@ -14457,7 +14649,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl423az211.cyou^$all
 ||pl522we712.cyou^$all
 ||pl911zx679.cyou^$all
-||pl971.cyou^$all
 ||pl016565d.003265981894265.com^$all
 ||pl019273.cfd^$all
 ||pl019274.rest^$all
@@ -14497,6 +14688,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl-0962201.icu^$all
 ||pl-1049103.top^$all
 ||pl-1967002.icu^$all
+||pl-05669206.icu^$all
 ||pl-05970225.icu^$all
 ||pl-9607227.cfd^$all
 ||pl-09622206.icu^$all
@@ -14504,7 +14696,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl-19062013.cfd^$all
 ||pl-029607002.icu^$all
 ||pl-46390539.cfd^$all
-||pl-47283910.cfd^$all
 ||pl-53198975.shop^$all
 ||pl-057293812.sbs^$all
 ||pl-91622553.icu^$all
@@ -14552,6 +14743,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl-bnk6.sbs^$all
 ||pl-bvci5.sbs^$all
 ||pl-care.beauty^$all
+||pl-domena192471.shop^$all
 ||pl-domena285629.shop^$all
 ||pl-dyu8h.sbs^$all
 ||pl-f5nzy.sbs^$all
@@ -14597,16 +14789,21 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl-oferta63929.shop^$all
 ||pl-oferta74928-share.cfd^$all
 ||pl-oferta82572.cfd^$all
+||pl-oferta143219.sbs^$all
 ||pl-oferta294728.icu^$all
 ||pl-oferta385829.shop^$all
 ||pl-oferta489032.cfd^$all
+||pl-oferta510249.sbs^$all
 ||pl-oferta513847.shop^$all
 ||pl-oferta538175.sbs^$all
 ||pl-oferta541058.cfd^$all
 ||pl-oferta543971.cfd^$all
 ||pl-oferta571352.sbs^$all
+||pl-oferta610294.sbs^$all
+||pl-oferta712342.sbs^$all
 ||pl-oferta731099.sbs^$all
 ||pl-oferta749929.shop^$all
+||pl-oferta761523.sbs^$all
 ||pl-oferta762818.sbs^$all
 ||pl-oferta767123.sbs^$all
 ||pl-oferta789456.lol^$all
@@ -14642,6 +14839,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl-oferta91210629.icu^$all
 ||pl-oferta91230669.icu^$all
 ||pl-oferta92057284.cfd^$all
+||pl-oferta184571746.mom^$all
 ||pl-oferta376291784.cfd^$all
 ||pl-oferta543543543.cfd^$all
 ||pl-oferta674891287.sbs^$all
@@ -14654,7 +14852,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl-oferta849012893.cfd^$all
 ||pl-oferta857393593.cfd^$all
 ||pl-oferta912366301.icu^$all
+||pl-oferta918330707.icu^$all
 ||pl-oferta937217842.cfd^$all
+||pl-oferta1079277805.icu^$all
 ||pl-oferta4187287941.sbs^$all
 ||pl-oferta6987142135.cfd^$all
 ||pl-oferta7409873643.shop^$all
@@ -14697,6 +14897,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl-ogloszenie-prywatne7584645345532.click^$all
 ||pl-ogloszenie-tadeuszkaraszewski-93.click^$all
 ||pl-ogloszenie-tomaszadamski-93.sbs^$all
+||pl-ogloszenie.sbs^$all
 ||pl-ogloszezenie12489128.shop^$all
 ||pl-ogloszezenie12910172.shop^$all
 ||pl-ogloszezenie124901201.shop^$all
@@ -14705,7 +14906,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||pl-ogloszezenie1248918211.shop^$all
 ||pl-ogloszezenie7890121924.shop^$all
 ||pl-ogloszezenie7891241891.shop^$all
+||pl-ogloszezenie12489189281.shop^$all
 ||pl-ogloszezenie12948712498.shop^$all
+||pl-ogloszezenie12984192717.shop^$all
 ||pl-ogloszezenie78912318732.shop^$all
 ||pl-ogloszezenie789213789012.shop^$all
 ||pl-oglozszenie1248912891.shop^$all
@@ -14786,7 +14989,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||plexion.pro^$all
 ||plezorix.net^$all
 ||plgganetology.info^$all
-||plgov.jake.eu^$all
 ||pliiauditharelip.info^$all
 ||plikea.com^$all
 ||plincastigura.net^$all
@@ -14801,7 +15003,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||plotddmf.weebly.com^$all
 ||plovanqueshtrade.com^$all
 ||plplatformsoftware-com.pages.dev^$all
-||plrabatlidl.shop^$all
 ||plrituals.shop^$all
 ||plsaway.shop^$all
 ||plshop-mohito.shop^$all
@@ -14816,6 +15017,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||poczta2pa.eu.cc^$all
 ||poczta-mrit-gov-pl.pages.dev^$all
 ||poczta-opole-pl.framer.media^$all
+||poczta-pl.xzona.shop^$all
 ||poczta-polska-information.top^$all
 ||poczta-polska.payu-nitro6.eu.cc^$all
 ||poczta-polska.poland-payhub2.eu.cc^$all
@@ -14857,6 +15059,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||podukty9364139.lol^$all
 ||podukty33929179.lol^$all
 ||podukty93624129.lol^$all
+||podukty183523232.lol^$all
 ||podukty982301332.lol^$all
 ||pointegaranial.com^$all
 ||poland-corepay4.eu.cc^$all
@@ -14967,7 +15170,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||posylka24pl.eu.cc^$all
 ||potadop12.eu.cc^$all
 ||potanrap.lovable.app^$all
-||potczadoma.eu.cc^$all
 ||potentialbiriiacial.info^$all
 ||potfulplumpeffr.info^$all
 ||potokkursovnik-click.pages.dev^$all
@@ -15012,6 +15214,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||preparedluuy.info^$all
 ||prepl.lovable.app^$all
 ||prepunchvetcnnh.info^$all
+||preretirementspitilesslvvy.info^$all
 ||presnakapitov.sbs^$all
 ||pressfyzo.net^$all
 ||prestancecorevix.net^$all
@@ -15047,7 +15250,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||primevexa2x.net^$all
 ||primeworthaniance.net^$all
 ||primeyieldarion.net^$all
-||primezonebank.net^$all
 ||primitiviskkts.info^$all
 ||primoinvioxtrade.com^$all
 ||primorisfin.com^$all
@@ -15071,6 +15273,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||prizmainvestorrysystem.com^$all
 ||prizmanexoratrade.com^$all
 ||pro-aiapp-plsolution.com^$all
+||proartpixel.shop^$all
 ||procenebbi.store^$all
 ||procuotaje.net^$all
 ||prodectivestors.top^$all
@@ -15081,7 +15284,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||prodvaluneaipro.com^$all
 ||professionalsecurityconsulting.net^$all
 ||profil-283.fun^$all
-||profil-283.icu^$all
 ||profil-id-check-9091.eu.cc^$all
 ||profil-sprzedawcy.site^$all
 ||profile.sentences.click^$all
@@ -15171,7 +15373,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||psychologdagmarapyzik.aizein.com^$all
 ||psychoyypathic.info^$all
 ||pt-29-zxzl9z.ghozan-a3538a0a-sjf0ay4w.workers.dev^$all
-||ptrl2.h1xdmv.qpon^$all
 ||ptyvvalismbotchy.info^$all
 ||pub-2ea6bf39335747d0a7c05f788de61af4.r2.dev^$all
 ||pub-8a6b43697fab4b8ab6e95fb573181a0c.r2.dev^$all
@@ -15229,7 +15430,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||purnaki.shop^$all
 ||purnelo.shop^$all
 ||purnqavo.shop^$all
-||purotradeluxtrade.com^$all
 ||purrecompl.store^$all
 ||purrendavio.com^$all
 ||pvbnglr.shop^$all
@@ -15250,6 +15450,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||q8xr4mv.lol^$all
 ||q9m4yc.lat^$all
 ||qacobaecom.lovable.app^$all
+||qadmero.shop^$all
 ||qadmeronxylvarix.com^$all
 ||qai-engine-com.pages.dev^$all
 ||qaldemi.shop^$all
@@ -15316,9 +15517,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||qnftmqmf.shop^$all
 ||qnynpm.uk^$all
 ||qocezoe.pro^$all
+||qojise.pro^$all
 ||qolmexi.shop^$all
 ||qolvixi.shop^$all
 ||qolvyrexmeradin.net^$all
+||qondeli.shop^$all
+||qorvelynezanthorix-digital.pages.dev^$all
 ||qotvexa.online^$all
 ||qoventrix24.de^$all
 ||qp7uk.bemobtrk.com^$all
@@ -15350,6 +15554,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||quantexitalicaplatform.com^$all
 ||quantexmagyar-ai.com^$all
 ||quantexnederland.net^$all
+||quantexplatform.net^$all
 ||quantfinmax.com^$all
 ||quanticore-ai.net^$all
 ||quantiflashq.net^$all
@@ -15387,7 +15592,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||quartzflowai.capital^$all
 ||quartzvaultmark.online^$all
 ||quartzvaultmark.shop^$all
-||quarxosai.net^$all
 ||quasarthimble.site^$all
 ||quattrovix-digital.pages.dev^$all
 ||qubiquantsoft.com^$all
@@ -15401,6 +15605,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||quia-commodi-quae.top^$all
 ||quia-voluptatibus-aliquid.com^$all
 ||quiavo.shop^$all
+||quick-power-core.pro^$all
 ||quickbeau.top^$all
 ||quickbooksupgradesdesk.com^$all
 ||quicknora.com^$all
@@ -15444,7 +15649,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||r3qwop.top^$all
 ||r4m7z1k.lat^$all
 ||r4y9cp.lat^$all
-||r5h6zk.lat^$all
 ||r6m2zt.lat^$all
 ||r6w1k8j.pics^$all
 ||r7q2n5k.lol^$all
@@ -15557,9 +15761,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||reeffundcrest.online^$all
 ||reefpatristead.cfd^$all
 ||reefpatristead.click^$all
-||reefprofitholm.com^$all
 ||reefrendforge.com^$all
-||refahinvesttrade.com^$all
 ||referrisan.store^$all
 ||reflatppingcodirection.info^$all
 ||reflexikkngcoherent.info^$all
@@ -15590,7 +15792,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||rem-app.online^$all
 ||remunfarme.store^$all
 ||ren.wesrki2bil.info^$all
-||renafkastholm.com^$all
 ||renartplakoire.digital^$all
 ||renashelf.shop^$all
 ||rendaluce.pro^$all
@@ -15671,7 +15872,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||returnavity.live^$all
 ||returnavity.net^$all
 ||returnggedgluhweins.info^$all
-||reveaths.com^$all
 ||revengefulyyly.info^$all
 ||review-center-response-5ce0.bpnldlwbn.workers.dev^$all
 ||review-matrix.site^$all
@@ -15727,6 +15927,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||rigratwae.store^$all
 ||rigriantid.store^$all
 ||rijksledgerai.com^$all
+||rikiqay.com^$all
 ||rilegdoman.store^$all
 ||rilevwomen.store^$all
 ||rillforgecapital.net^$all
@@ -15754,7 +15955,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||risparmio-ai.com^$all
 ||ristasocia.store^$all
 ||risupi-xukudu.info^$all
-||ritmocorexartrade.com^$all
 ||rituals-cosmetic.shop^$all
 ||rituals-store.shop^$all
 ||rituals-womenbeauty.shop^$all
@@ -15808,16 +16008,15 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||ronaviraxa.net^$all
 ||roncecapitecto-digital.pages.dev^$all
 ||roncrib365-click.pages.dev^$all
-||roncrib365.net^$all
 ||roncribinvest.com^$all
 ||ronezaro.com^$all
 ||rookgewinvale.online^$all
-||rookwertode.net^$all
 ||room99.homes^$all
 ||room-reservjp.com^$all
 ||roomdina.com^$all
 ||roomelis.com^$all
 ||roomorax.com^$all
+||ropidocripto.com^$all
 ||rosaritoexperience.info^$all
 ||ross-vermoheim.com^$all
 ||rosseespan.store^$all
@@ -15836,7 +16035,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||roundcubeow-check.com^$all
 ||roundocube.iceiy.com^$all
 ||routechess.online^$all
-||rovechainova.com^$all
 ||rovenalixpro-official.com^$all
 ||roverfind.shop^$all
 ||rovexantistechtrade.com^$all
@@ -15847,11 +16045,14 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||roxelvanyq.net^$all
 ||royaldutch.org^$all
 ||royalepoxis.site^$all
+||royalgardencentre.co.bw^$all
 ||royalhairistanbul.net^$all
 ||royalkapithorne.net^$all
+||royaltiesemhhbodied.info^$all
 ||rpg-artist.com^$all
 ||rpmmedia.net^$all
 ||rragutwq.shop^$all
+||rrmoto.pro^$all
 ||rs6129.craftum.io^$all
 ||rsvdirect-october.com^$all
 ||rsvp.futureconferenceworld.com^$all
@@ -15882,7 +16083,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||rust-coat-pl.shop^$all
 ||rustextrade.com^$all
 ||rustinverex.com^$all
-||ruvanelcaziryn.com^$all
+||rusule.pro^$all
 ||ruvanlex.net^$all
 ||ruvenmerit.net^$all
 ||ruxdaro.shop^$all
@@ -16019,7 +16220,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||savzen.net^$all
 ||saway-astylishrefresh.shop^$all
 ||saway-astylishrefreshpl.shop^$all
-||saway-comfort.shop^$all
 ||saway-comfortable.shop^$all
 ||saway-fashionwear.shop^$all
 ||saway-idealstyle.shop^$all
@@ -16071,7 +16271,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||schioimbia.store^$all
 ||schmieder.com^$all
 ||scholareditacademy.org^$all
-||schweitechai.net^$all
 ||schweizernachrichtenagenturag.com^$all
 ||schweizernachrichtenblick.com^$all
 ||schwimmerazcom.com^$all
@@ -16120,7 +16319,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||sedkap92.eu.cc^$all
 ||sedulousnessescolueembary.info^$all
 ||seekerlime-7wundq--107301.stormkit.dev^$all
-||segelrendiheim.net^$all
 ||seguridadai.net^$all
 ||seguridadengine-com.pages.dev^$all
 ||seguro-tradex-gpt.net^$all
@@ -16165,7 +16363,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||sello.cam^$all
 ||sellpr0ceeds.cfd^$all
 ||selmorvio.com^$all
-||selnarofervexa.com^$all
 ||seltrion-ai.net^$all
 ||seltrionaro.com^$all
 ||seluior.shop^$all
@@ -16200,7 +16397,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||senvixitalysystem-com.pages.dev^$all
 ||senvora.shop^$all
 ||senvuro.shop^$all
-||seomisreogteuria.com^$all
 ||sepaxenty.shop^$all
 ||sephora-cosmetic.shop^$all
 ||sephora-skincare.shop^$all
@@ -16231,7 +16427,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||seshopne.com^$all
 ||settearraf.store^$all
 ||settlingbucketconfiurationserviceprovider.s3.us-east-1.amazonaws.com^$all
-||sevath.com^$all
 ||severcacum.store^$all
 ||severrrability.info^$all
 ||sevillat1.org^$all
@@ -16249,6 +16444,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||sfraldruko-poland.sbs^$all
 ||sfraldruko-romania.sbs^$all
 ||sfraldrukotrade.com^$all
+||sfxfr8.com^$all
 ||sgargswall.store^$all
 ||sgradripes.store^$all
 ||sgransussi.store^$all
@@ -16310,17 +16506,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||sichorenki.com^$all
 ||sicrtagenw.lovable.app^$all
 ||sierrabienes.net^$all
-||signalarkherplex.net^$all
 ||signalmagnifiers.net^$all
-||signalsapp.net^$all
 ||signauxia.org^$all
 ||signin.billingaccountcenter.com^$all
 ||signin.officepaymentportal.com^$all
-||sigurantawealth.net^$all
 ||sigurlucrosin.digital^$all
 ||sijdonosnik.net^$all
 ||sila-finoblia.com^$all
-||silberkapitfels.net^$all
 ||silbermarktgpttrade.com^$all
 ||silesianetwork.lovable.app^$all
 ||sillaccbubschicles.info^$all
@@ -16334,8 +16526,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||simekfin.net^$all
 ||simpanbenid.net^$all
 ||simple-tasks.net^$all
-||sincorrabtcv85.com^$all
-||singavylthxtrade.com^$all
+||simple-track-path.pro^$all
 ||sinsay.velmoro.sbs^$all
 ||sis.wesrki2bil.info^$all
 ||sissitranv.store^$all
@@ -16343,11 +16534,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||sitioattic.store^$all
 ||sivdorgalrenai.net^$all
 ||sixtelilangooeni.info^$all
+||sizeablynysddtagmus.info^$all
 ||sizeer.nespressoeu.sbs^$all
 ||sizeer.store^$all
 ||sizeerssport.sbs^$all
 ||sjeverkapituratrade.com^$all
 ||sjhtb.com^$all
+||sk936lpq528.rest^$all
 ||skalalol.lol^$all
 ||skarveldun-denmark.sbs^$all
 ||skarveldun.pro^$all
@@ -16387,7 +16580,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||skydivecostadargento.com^$all
 ||skygirlsgh.org^$all
 ||skymoney.net^$all
-||skyportfolio.site^$all
 ||slate-provenmere.click^$all
 ||slatespecialistsireland.com^$all
 ||sledz-przesylke.com^$all
@@ -16396,6 +16588,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||slidefinlidex-digital.pages.dev^$all
 ||slidehiprexxr.shop^$all
 ||slidovaultaris.com^$all
+||slombrefin.store^$all
 ||slotreviewcentral.site^$all
 ||slotsforecast.site^$all
 ||slotsjournal.site^$all
@@ -16448,7 +16641,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||smugnpostm.store^$all
 ||smurfhub.net^$all
 ||smyk-babyclothing.shop^$all
-||smyk-babyproducts.shop^$all
 ||smyk-babyproductspl.shop^$all
 ||smyk-babysfavoritethings.shop^$all
 ||smyk-babysupplies.shop^$all
@@ -16488,6 +16680,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||sobe-miami.net^$all
 ||sobrekvatiselku.net^$all
 ||sobrerendoire-pro.pages.dev^$all
+||sociacoopt.store^$all
 ||sodapanda.net^$all
 ||sodapanda.org^$all
 ||sodic-egypt.net^$all
@@ -16502,13 +16695,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||solariavionex-cfd.pages.dev^$all
 ||solarstore.top^$all
 ||solbrina.xyz^$all
-||soldavinstholm.com^$all
 ||soleilcapitange.net^$all
 ||solevefundextrade.com^$all
 ||solid-warranture.com^$all
 ||solid-warranture.live^$all
 ||solid-warranture.net^$all
-||solidasecurovia.com^$all
 ||solidenegocerine-ca.com^$all
 ||solidenegocerine.net^$all
 ||solidereafrigroei.com^$all
@@ -16546,11 +16737,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||soneta.biz^$all
 ||sootawaychimneysweep.net^$all
 ||sopraacumi.store^$all
-||soretaplundexar.org^$all
 ||sorevapexel.com^$all
 ||sorevixlervano.com^$all
 ||sorgentecapitorio.net^$all
-||sorgloshelden.com^$all
 ||sorituals.shop^$all
 ||sorjanmadri.online^$all
 ||sornwickelt.com^$all
@@ -16562,6 +16751,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||sosizeer.shop^$all
 ||sottecenav.store^$all
 ||soulscribely.net^$all
+||soumken-com.pages.dev^$all
 ||soundholdry-ie.com^$all
 ||soundtermivestage.net^$all
 ||souplazerb.store^$all
@@ -16635,7 +16825,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||squampropi.store^$all
 ||squildrapp.store^$all
 ||squzzandererstentacle.info^$all
-||sredstvulagacin.com^$all
 ||sriramnwar-dpoae04723lz.edgeone.dev^$all
 ||srivora.com^$all
 ||srpoint.store^$all
@@ -16648,7 +16837,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||st-2492443.top^$all
 ||stabelpaycore.de^$all
 ||stabilarc.com^$all
-||stabilefundaris.com^$all
 ||stabilisfin.com^$all
 ||stabilishub.com^$all
 ||stabilisnex.com^$all
@@ -16662,7 +16850,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||stakeapptrade.com^$all
 ||stakeliai.net^$all
 ||stakemanerix800.click^$all
-||stakemanerix.com^$all
 ||stakemoor-equity.live^$all
 ||stakemoor-equity.online^$all
 ||stakemoor.com^$all
@@ -16691,15 +16878,14 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||starkzahlentum.net^$all
 ||starkzilveck.de^$all
 ||starterstacks.online^$all
-||status-9283.sbs^$all
 ||status-id9202.top^$all
-||status-id9273.eu.cc^$all
 ||status-id91239.tech^$all
 ||status-zlecenia-4678.study^$all
 ||statuscheck.pics^$all
 ||statuscheck.site^$all
 ||statusgrid.fun^$all
 ||staveluno.com^$all
+||stavitrans.store^$all
 ||stay-center.rest^$all
 ||staybook24.com^$all
 ||stcharlesmotors.com^$all
@@ -16718,16 +16904,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||steel-rendvane.live^$all
 ||steinberixkapitaltrade.de^$all
 ||stelardividenta.net^$all
-||steloriaki.com^$all
 ||stenzinsvik.net^$all
 ||stephaniegrassl.com^$all
 ||stephaniemarkets.com^$all
-||sterkefondveer.net^$all
 ||sterkrendhof.net^$all
 ||sterlavo.com^$all
 ||sterling-fondvale.com^$all
 ||sterling-vaultmere.pics^$all
-||sterlingfondmere.net^$all
 ||sterlingfondvale.shop^$all
 ||sterlingiqx-ai.com^$all
 ||sterlingprofit.site^$all
@@ -16752,7 +16935,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||stonebridgemarket.shop^$all
 ||stonechatcocsshairperson.info^$all
 ||stonecredholmengine-com.pages.dev^$all
-||stonecredstead.com^$all
 ||stonecsshats.info^$all
 ||stonerendive.net^$all
 ||stoneyycrops.info^$all
@@ -16771,10 +16953,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||strausssqxonlinepl.shop^$all
 ||strausssqxplonline.shop^$all
 ||strawpelletspolska.com^$all
-||straxenforgetrade.net^$all
-||streamavonexpro.net^$all
 ||streamcontrol.shop^$all
-||streamerymax600trade.com^$all
 ||streamherplexnx-digital.pages.dev^$all
 ||streamoptcelexa.net^$all
 ||streetgearpl.shop^$all
@@ -16796,7 +16975,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||strumenti-musicali.online^$all
 ||strumentimusicali-ai.com^$all
 ||sttudimipdas.lovable.app^$all
-||studio100investtrade.com^$all
 ||studycovex.pro^$all
 ||studygridd.info^$all
 ||studymeshq.pro^$all
@@ -16822,6 +17000,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||sub.deviantart-dashboard.blog^$all
 ||subalbecko.store^$all
 ||subcanefro.store^$all
+||subduciiesdiatonic.info^$all
 ||submmprojectgoddams.info^$all
 ||subsasbili.store^$all
 ||subscriptions.mybillingpay.app^$all
@@ -16838,14 +17017,12 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||suksessklubb.digital^$all
 ||suleko.shop^$all
 ||sulqavo.shop^$all
-||suluhnilaiwan.net^$all
 ||sumapp.click^$all
 ||sumariqualto.com^$all
 ||summit-wertgrove.com^$all
 ||summitluxuria.net^$all
 ||summitvalnexapp-pro.pages.dev^$all
 ||sumph-totch.shop^$all
-||suncorenegry.net^$all
 ||sundeko.shop^$all
 ||sunforestnirmexico.com^$all
 ||sunlitbasket.shop^$all
@@ -16889,7 +17066,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||svetlarokovaza.net^$all
 ||svjetlobr-finlore.cfd^$all
 ||svjetlobrfinlore.net^$all
-||svujbitvault-official.com^$all
 ||swap07lexapro.com^$all
 ||swap-11x-renova-com.pages.dev^$all
 ||swap-dexair-pro.com^$all
@@ -16929,7 +17105,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||synonymuuized.info^$all
 ||synthalora-official.com^$all
 ||synthcore.work^$all
-||syntradeai.com^$all
 ||system73.shop^$all
 ||system74.net^$all
 ||system-0b6i-aliorbank.yogisens.com^$all
@@ -17024,7 +17199,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||tangoeswinescckin.info^$all
 ||taniepeltki.shop^$all
 ||tanieznicze.com^$all
-||tannegewinnik.de^$all
 ||tanop.uk^$all
 ||tanszepaliwo.shop^$all
 ||tanzdock.de^$all
@@ -17419,11 +17593,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||tenacribre.store^$all
 ||tenbazi.store^$all
 ||tentron.store^$all
-||tenwall-traders.net^$all
 ||tepgjta.help^$all
 ||tepquri.shop^$all
 ||tepyvma.top^$all
 ||tepyvma.wiki^$all
+||teractagegte.lovable.app^$all
 ||teralixvoxqen.com^$all
 ||tercerifor.store^$all
 ||teripokax.eu.cc^$all
@@ -17532,7 +17706,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||thefcgtrade.com^$all
 ||thegreatreorientation.com^$all
 ||thehavenforautism.org^$all
-||thehollowflame.com^$all
 ||thehygienenetwork.org^$all
 ||thekaiserhandelai.net^$all
 ||thekaiserhandelai.org^$all
@@ -17594,7 +17767,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||tidewings.info^$all
 ||tierracapital-shop.pages.dev^$all
 ||tigrefundavanca.com^$all
-||tihakapitova.net^$all
 ||tihakapitovau.com^$all
 ||tiiranscriptioninauguration.info^$all
 ||tilby.forum^$all
@@ -17609,7 +17781,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||tinyworkflows.site^$all
 ||titrejaugure.net^$all
 ||tivirox.com^$all
-||tivronexaitrade.com^$all
 ||tivunnimovela.com^$all
 ||tivunsanorela.com^$all
 ||tj4dhe.top^$all
@@ -17647,7 +17818,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||todaywirebrief.site^$all
 ||todaywiredesk.click^$all
 ||todaywireflash.live^$all
-||tokdobitmir.net^$all
 ||token360day-pro.pages.dev^$all
 ||token850valtro-ai.com^$all
 ||tokinmony.pro^$all
@@ -17655,6 +17825,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||tolfexfolioezo.com^$all
 ||tomascapital.net^$all
 ||tommyeu.life^$all
+||tondaantim.store^$all
 ||tondratexsystem.click^$all
 ||tongxinfs.com^$all
 ||tonsillggitises.info^$all
@@ -17675,12 +17846,10 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||toralenwervano.com^$all
 ||toralvetainvest.net^$all
 ||toravellixona.com^$all
-||toravello.com^$all
 ||torch-avkasten.click^$all
 ||torch-kapivex.online^$all
 ||torchkapitmoor.net^$all
 ||torchkapivex.pro^$all
-||tordogananciotrade.com^$all
 ||torewuo.com^$all
 ||tormexo.shop^$all
 ||torospnnarges.info^$all
@@ -17691,9 +17860,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||torvexistrade-ai.com^$all
 ||toseijunkyo.net^$all
 ||tospyraeqvuno.net^$all
+||tosumu.pro^$all
 ||tosvvseralfaquins.info^$all
 ||total-energies-ai.net^$all
-||totalintelesortrade.com^$all
 ||totus-lightstudio.base44.app^$all
 ||toupinonpr.store^$all
 ||tovagovopo.store^$all
@@ -17706,7 +17875,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||tqzxl.shop^$all
 ||tr-suwen.shop^$all
 ||traccrisch.store^$all
-||tracefondiv.net^$all
 ||trackdeliverypro.com^$all
 ||trackerredirect.online^$all
 ||trackkinrix600-soft.click^$all
@@ -17723,7 +17891,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||tradegpttrade.net^$all
 ||tradelineroute.click^$all
 ||trademarkexpirationforce.com^$all
-||tradematetrade.com^$all
 ||trademintus-system.com^$all
 ||trader.biomagsystem.com^$all
 ||trader.cnjiaoqing.com^$all
@@ -17759,11 +17926,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||travelo-booking.com^$all
 ||travenixlogistics.com^$all
 ||traversqqing.info^$all
-||travunbl0cktrade.com^$all
 ||trefinityfinlore.net^$all
 ||trefonange-ai.net^$all
 ||tremali.shop^$all
-||trendbettrade.com^$all
 ||trendfindertrade.com^$all
 ||trendplugstore.com^$all
 ||trendways.shop^$all
@@ -17829,7 +17994,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||tryg.online^$all
 ||tryggbitrowtrade.com^$all
 ||tryghedfinlore.net^$all
-||trznivizorplatform.com^$all
 ||trzongainlux-digital.pages.dev^$all
 ||tsugglugernetz.net^$all
 ||ttttttttttrekpleister-nlvvo.sbs^$all
@@ -17848,21 +18012,20 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||turbohourly.net^$all
 ||turbrelaytrx-germany.sbs^$all
 ||turbvaultai.sbs^$all
-||turkiyebankasi.net^$all
-||turkiyebirikim.net^$all
 ||turmeque.com^$all
 ||turnakazancay.net^$all
 ||turoman0detrade.com^$all
 ||turristrade.com^$all
+||turtle-temper.site^$all
 ||turtlebaaacks.info^$all
 ||turvaklen.com^$all
 ||tusprawdz-2731.lat^$all
 ||tutelanca.net^$all
-||tuzkohozamvar.net^$all
 ||tvn24h-info.eu^$all
 ||tvn-muzyka.eu^$all
 ||tvorenix.org^$all
 ||tvstickdealsnearme.shop^$all
+||tvstickforsmarttv.shop^$all
 ||tw-activate.com.es^$all
 ||twainscobbmmoves.info^$all
 ||twatfa427.lat^$all
@@ -17870,6 +18033,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||twisted-fable-magnify.ngrok-free.dev^$all
 ||tyherothx.de^$all
 ||tylerfoster.shop^$all
+||typerguru.online^$all
 ||tyrunearts.lovable.app^$all
 ||tyspolskavza.lovable.app^$all
 ||tyvarionqelmarix.net^$all
@@ -17933,6 +18097,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||umrechnung.sdmqsw.com^$all
 ||umrechnung.syhtw.com^$all
 ||unasuusertivelypinheads.info^$all
+||unbalendiv.store^$all
 ||unbarsmozz.store^$all
 ||unbezahlterechnungen.com^$all
 ||unclebobsbarandgrill.com^$all
@@ -17942,6 +18107,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||undezzterminable.info^$all
 ||undrisuper.store^$all
 ||unesttour.org^$all
+||unexpeuuctednesses.info^$all
 ||unhaneediest.info^$all
 ||unifins-france.com^$all
 ||unifins-germany.com^$all
@@ -17991,6 +18157,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||urbanmove.fun^$all
 ||urbanoakliving.com^$all
 ||urbanselvia.com^$all
+||urbanspacespot.pro^$all
 ||urbanvora.com^$all
 ||urbanxplatform-com.pages.dev^$all
 ||urbotrade.com^$all
@@ -18046,7 +18213,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||valengrupo.com^$all
 ||valenotrust.com^$all
 ||valenthehorizon-digital.pages.dev^$all
-||valenthehorizontrade.com^$all
 ||valerisoire.net^$all
 ||valevia.shop^$all
 ||valezoraia.com^$all
@@ -18189,6 +18355,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||velrunakelmoro.com^$all
 ||velstromovikix.com^$all
 ||veltrionavexo.com^$all
+||veltronziskvexon-digital.pages.dev^$all
 ||velunkorolosa.com^$all
 ||velunorava.com^$all
 ||velverio.shop^$all
@@ -18226,9 +18393,10 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||venturgateplatform.com^$all
 ||veradotanza.net^$all
 ||verd-capitencia.net^$all
+||verdant-kapitholt.live^$all
+||verdant-kapitholt.net^$all
 ||verdantkapitstead.net^$all
 ||verdarossa.com^$all
-||vergerrendoire.net^$all
 ||vergrandalay.top^$all
 ||veridawn.blog^$all
 ||verif-pl.space^$all
@@ -18245,7 +18413,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vermeilrentelle.net^$all
 ||vermesskatjjoles.info^$all
 ||vermtage.com^$all
-||vernafondertrade.com^$all
 ||vernataceldorio.click^$all
 ||vernausporovna.net^$all
 ||vernier-09.pages.dev^$all
@@ -18333,6 +18500,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vincentmarkets.com^$all
 ||vincimediatrade.com^$all
 ||vincofundiva.com^$all
+||vinewosxxmically.info^$all
 ||vinstvera.net^$all
 ||vintaroquorixhublab.com^$all
 ||vintaroquorixhubline.com^$all
@@ -18343,12 +18511,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vintdeactive.com^$all
 ||vinted0l9qbfh16t.id86542866.com^$all
 ||vinted004nubtkgq.id86542866.com^$all
-||vinted236lnigpny.id86542866.com^$all
+||vinted432342.com^$all
 ||vinted-check.com^$all
 ||vinted-create.com^$all
 ||vinted-delivery.com^$all
 ||vinted-lnfo.com^$all
 ||vinted-lnformation.com^$all
+||vinted-mall.com^$all
 ||vinted-us.com^$all
 ||vinted-user.com^$all
 ||vinted-verify.71track.com^$all
@@ -18393,6 +18562,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.766452.sbs^$all
 ||vinted.832438.cyou^$all
 ||vinted.847211.sbs^$all
+||vinted.852188.lat^$all
 ||vinted.857721.sbs^$all
 ||vinted.858771.sbs^$all
 ||vinted.875195.lat^$all
@@ -18402,7 +18572,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.928212.sbs^$all
 ||vinted.934545ip.top^$all
 ||vinted.934665ip.top^$all
-||vinted.935545ip.top^$all
 ||vinted.948213.sbs^$all
 ||vinted.958212.sbs^$all
 ||vinted.958482.sbs^$all
@@ -18438,6 +18607,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.8876425.lat^$all
 ||vinted.9423432.com^$all
 ||vinted.9647632.lat^$all
+||vinted.9652728.com^$all
 ||vinted.9653452.top^$all
 ||vinted.9675987.lat^$all
 ||vinted.9754364.top^$all
@@ -18479,12 +18649,14 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.735160284.cfd^$all
 ||vinted.755835993.com^$all
 ||vinted.874175712.lat^$all
+||vinted.5831049127.cfd^$all
 ||vinted.6517512151.lat^$all
 ||vinted.8518791821.click^$all
 ||vinted.8591525982.click^$all
 ||vinted.2734627846242.sbs^$all
 ||vinted.28396342376236.sbs^$all
 ||vinted.81236812386541.sbs^$all
+||vinted.87124887248236.rest^$all
 ||vinted.725148323523723.rest^$all
 ||vinted.971361236731283.sbs^$all
 ||vinted.6418531874236236.sbs^$all
@@ -18508,16 +18680,19 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.dk70w11szx309.cfd^$all
 ||vinted.dk081xq624op.cyou^$all
 ||vinted.dk83msjx726.cyou^$all
+||vinted.dk84kf15ajqi9371.cyou^$all
 ||vinted.dk86we436.cyou^$all
 ||vinted.dk91i63a84.cyou^$all
 ||vinted.dk92xc229.cyou^$all
 ||vinted.dk148fh593.cyou^$all
+||vinted.dk293ghdf684.cfd^$all
 ||vinted.dk700zsx6969.cyou^$all
 ||vinted.dk715zx81.cyou^$all
 ||vinted.dk790weq183txz.cyou^$all
 ||vinted.dk826mnw972.cyou^$all
 ||vinted.dk827ms83.cyou^$all
 ||vinted.dk862zcw173.cyou^$all
+||vinted.dk926ijlqa741.top^$all
 ||vinted.dk926keg726.cyou^$all
 ||vinted.dk926zmw826.cyou^$all
 ||vinted.dk927jehe72.cyou^$all
@@ -18548,6 +18723,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.dl73zxs914.cyou^$all
 ||vinted.dl93zxw56.cyou^$all
 ||vinted.dm-91736.cyou^$all
+||vinted.domena2838428.mom^$all
 ||vinted.eu-oferta01429.sbs^$all
 ||vinted.fastnextdoor.com^$all
 ||vinted.finddin.com^$all
@@ -18615,6 +18791,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.lokalna-oferta63578122.sbs^$all
 ||vinted.lokalna-oferta8881381239101.sbs^$all
 ||vinted.lokalna-oferta89128888877812.sbs^$all
+||vinted.lokalna-ofeta9xv14yj0b75v03102113.top^$all
 ||vinted.lokalna-ofeta9xv17yj0b75v0390450.shop^$all
 ||vinted.lokalna-ofeta172890124.sbs^$all
 ||vinted.lokalna-ofeta893724781.cfd^$all
@@ -18690,7 +18867,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.ofeta758032334.cfd^$all
 ||vinted.ofeta964796534.cfd^$all
 ||vinted.ofeta-lokalna2988319229481.sbs^$all
+||vinted.ogloszenie129102.shop^$all
 ||vinted.ogloszenie168192.cfd^$all
+||vinted.ogloszenie172910.sbs^$all
 ||vinted.ogloszenie2927372.sbs^$all
 ||vinted.ogloszenie29587506.rest^$all
 ||vinted.ogloszenie64765991.cyou^$all
@@ -18806,7 +18985,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.pl423az211.cyou^$all
 ||vinted.pl522we712.cyou^$all
 ||vinted.pl911zx679.cyou^$all
-||vinted.pl971.cyou^$all
 ||vinted.pl019273.cfd^$all
 ||vinted.pl019274.rest^$all
 ||vinted.pl53918fdshhujhujhuj.lol^$all
@@ -18828,7 +19006,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.pl-0294324.sbs^$all
 ||vinted.pl-816791.cfd^$all
 ||vinted.pl-1049103.top^$all
-||vinted.pl-47283910.cfd^$all
 ||vinted.pl-53198975.shop^$all
 ||vinted.pl-057293812.sbs^$all
 ||vinted.pl-547023211.sbs^$all
@@ -18864,6 +19041,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.pl-bn4m.sbs^$all
 ||vinted.pl-bnk6.sbs^$all
 ||vinted.pl-bvci5.sbs^$all
+||vinted.pl-domena192471.shop^$all
 ||vinted.pl-domena285629.shop^$all
 ||vinted.pl-dyu8h.sbs^$all
 ||vinted.pl-f5nzy.sbs^$all
@@ -18900,15 +19078,20 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.pl-oferta63929.shop^$all
 ||vinted.pl-oferta74928-share.cfd^$all
 ||vinted.pl-oferta82572.cfd^$all
+||vinted.pl-oferta143219.sbs^$all
 ||vinted.pl-oferta294728.icu^$all
 ||vinted.pl-oferta385829.shop^$all
+||vinted.pl-oferta510249.sbs^$all
 ||vinted.pl-oferta513847.shop^$all
 ||vinted.pl-oferta538175.sbs^$all
 ||vinted.pl-oferta541058.cfd^$all
 ||vinted.pl-oferta543971.cfd^$all
 ||vinted.pl-oferta571352.sbs^$all
+||vinted.pl-oferta610294.sbs^$all
+||vinted.pl-oferta712342.sbs^$all
 ||vinted.pl-oferta731099.sbs^$all
 ||vinted.pl-oferta749929.shop^$all
+||vinted.pl-oferta761523.sbs^$all
 ||vinted.pl-oferta762818.sbs^$all
 ||vinted.pl-oferta767123.sbs^$all
 ||vinted.pl-oferta789456.lol^$all
@@ -18934,6 +19117,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.pl-oferta56447654.cfd^$all
 ||vinted.pl-oferta56514324.lat^$all
 ||vinted.pl-oferta75689312.lol^$all
+||vinted.pl-oferta184571746.mom^$all
 ||vinted.pl-oferta376291784.cfd^$all
 ||vinted.pl-oferta543543543.cfd^$all
 ||vinted.pl-oferta674891287.sbs^$all
@@ -18985,6 +19169,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.pl-ogloszenie-prywatne7584645345532.click^$all
 ||vinted.pl-ogloszenie-tadeuszkaraszewski-93.click^$all
 ||vinted.pl-ogloszenie-tomaszadamski-93.sbs^$all
+||vinted.pl-ogloszenie.sbs^$all
 ||vinted.pl-ogloszezenie12489128.shop^$all
 ||vinted.pl-ogloszezenie12910172.shop^$all
 ||vinted.pl-ogloszezenie124901201.shop^$all
@@ -18993,7 +19178,9 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.pl-ogloszezenie1248918211.shop^$all
 ||vinted.pl-ogloszezenie7890121924.shop^$all
 ||vinted.pl-ogloszezenie7891241891.shop^$all
+||vinted.pl-ogloszezenie12489189281.shop^$all
 ||vinted.pl-ogloszezenie12948712498.shop^$all
+||vinted.pl-ogloszezenie12984192717.shop^$all
 ||vinted.pl-ogloszezenie78912318732.shop^$all
 ||vinted.pl-ogloszezenie789213789012.shop^$all
 ||vinted.pl-oglozszenie1248912891.shop^$all
@@ -19033,6 +19220,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vinted.podukty9364139.lol^$all
 ||vinted.podukty33929179.lol^$all
 ||vinted.podukty93624129.lol^$all
+||vinted.podukty183523232.lol^$all
 ||vinted.podukty982301332.lol^$all
 ||vinted.produkt-ogloszenie.shop^$all
 ||vinted.prywatne0953474.help^$all
@@ -19085,7 +19273,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vintedverify28376.com^$all
 ||vintedverify.my.id^$all
 ||vintedverify.web.id^$all
-||vintedwi2kq3z78j.id86542866.com^$all
 ||violadisma.store^$all
 ||vipahmed.online^$all
 ||vipjysk.com^$all
@@ -19124,6 +19311,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vivobarafoot.com^$all
 ||vivolucrancia.com^$all
 ||vixiii.store^$all
+||vjnted-us-new.verlfypagealarm.com^$all
 ||vkladera-pro.pages.dev^$all
 ||vlaamsex.net^$all
 ||vlaguzgovotrade.com^$all
@@ -19213,7 +19401,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||vzletnextok-platform-com.pages.dev^$all
 ||w1p9zf.lat^$all
 ||w2pjxxmv5-h28.vercel.app^$all
-||w3q7yd.lat^$all
 ||w4m9q2z.lat^$all
 ||w6m4qy.lat^$all
 ||w6x4qb.lat^$all
@@ -19249,12 +19436,13 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||warvenwealthvaletrade.online^$all
 ||warvynecomere.com^$all
 ||washlariqqat.info^$all
+||wasperfecie.lovable.app^$all
 ||waterdamagerestore.space^$all
 ||wateriiflood.info^$all
 ||waterpik-polska.com^$all
 ||wattlesschapellrons.info^$all
-||wautura.com^$all
 ||wavelnx.net^$all
+||wavform.space^$all
 ||wayfarerspigmenpptation.info^$all
 ||wbb.previewship.net^$all
 ||wcgvvhst.shop^$all
@@ -19264,6 +19452,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||wealthlorex-ca.sbs^$all
 ||wealthorextrade.com^$all
 ||wearmedicine-ona.online^$all
+||wearpetitepants.shop^$all
 ||web90.xps2.microserver.de^$all
 ||web-login.duckdns.org^$all
 ||web.xn--btpanda-rfb.com^$all
@@ -19292,12 +19481,10 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||welyaquerdtrade.com^$all
 ||wenzantavnel.com^$all
 ||wepzkl.shop^$all
-||weritgatut.lovable.app^$all
 ||wertefundament.net^$all
 ||wertfyrix.de^$all
 ||wertkernix-click.pages.dev^$all
 ||wertkernix.click^$all
-||wertkernixtrade.com^$all
 ||wertorenki.com^$all
 ||wertoven.pro^$all
 ||wertveonsa.com^$all
@@ -19384,9 +19571,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||wmxkgt84hymy.s3-website.us-east-2.amazonaws.com^$all
 ||wnetelio.shop^$all
 ||wnetivo.shop^$all
+||wnetralia.shop^$all
 ||wnetrano.shop^$all
 ||wnetrava.shop^$all
 ||wnetravax.shop^$all
+||wnetravia.shop^$all
 ||wnetravio.shop^$all
 ||wnetravo.shop^$all
 ||wnetrelia.shop^$all
@@ -19422,6 +19611,7 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||worknestd.info^$all
 ||workpathly.info^$all
 ||workpeophhle.info^$all
+||workshopwonders.online^$all
 ||worksiiitesdecentered.info^$all
 ||worlddogs.net^$all
 ||worldflowen.info^$all
@@ -19466,7 +19656,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||x2k8r6z.pics^$all
 ||x2w5jf.lat^$all
 ||x3q6mw.lat^$all
-||x4v9nb.lat^$all
 ||x6b9r2q.pics^$all
 ||x6q1mw.lat^$all
 ||x7n2vk.lat^$all
@@ -19494,21 +19683,21 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||xelviontarqen.com^$all
 ||xelvor.forum^$all
 ||xelyvaron.net^$all
-||xenkrupom.de^$all
 ||xenqoriaai.com^$all
 ||xenvarisdulteron.net^$all
 ||xenvor-pulse-shop.pages.dev^$all
 ||xenvor-pulse.shop^$all
 ||xeqoris.net^$all
 ||xerooophytisms.life^$all
+||xethat.net^$all
 ||xevorqalin.net^$all
 ||xevrantanorlixem.com^$all
 ||xf9524.craftum.io^$all
 ||xftmall.com^$all
 ||xidurfin.com^$all
-||xilvarion.digital^$all
 ||xirevamolun.com^$all
 ||xivaroluneko.de^$all
+||xizasa.pro^$all
 ||xkmq.info^$all
 ||xn--btpanda-rfb.com^$all
 ||xnsjdheo.com^$all
@@ -19586,11 +19775,11 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||yonghongli.online^$all
 ||yorlina.com^$all
 ||yostrendz.org^$all
-||you-id53378.eu.cc^$all
 ||you-id-7826y.eu.cc^$all
 ||youbook2.online^$all
 ||your-access-check-proccess.cfd^$all
 ||yourfireplaceguy.net^$all
+||yourlocker.shop^$all
 ||yourretailguides.online^$all
 ||yoursaldamax.online^$all
 ||yourshelter.org^$all
@@ -19751,7 +19940,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||zinnwaldite-xanthic-cape.shop^$all
 ||zinselturat.net^$all
 ||ziraatmobil.shop^$all
-||zircon-court-shoes.shop^$all
 ||zircon-fondmoor.com^$all
 ||zircon-fondmoor.cyou^$all
 ||zircon-fondmoor.net^$all
@@ -19803,7 +19991,6 @@ firanyines.pl,millenium.pl,smacznakolejowa.pl##^responseheader(location)
 ||zoravrijednava.net^$all
 ||zorexaglinu.com^$all
 ||zorvanek.com^$all
-||zorvanelixtredomio.net^$all
 ||zorvela.net^$all
 ||zorvennexlor.com^$all
 ||zorvexaitrade.net^$all
