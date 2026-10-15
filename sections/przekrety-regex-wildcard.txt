@@ -1,3 +1,7 @@
+||wasabisys.com/*.htm*?*#*@*.$doc,to=wasabisys.com
+||wasabisys.com/*.htm*?*#*@*.$frame,object,domain=wasabisys.com
+||shorturl.at/*#*@*.$doc,to=shorturl.at
+||shorturl.at/*#*@*.$frame,object,domain=shorturl.at
 /^https?:\/\/(?:\w+\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(?:\w+)?[0-9]+\.(site|space)/$doc,to=site|space
 /^https?:\/\/(?:\w+\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(?:\w+)?[0-9]+\.(site|space)/$frame,object,domain=site|space
 /^https?:\/\/(?:\w+\.)?skryptcookies\.pl\/cookies\.js/$all,important
