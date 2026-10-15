@@ -1,7 +1,3 @@
-||wasabisys.com/*.htm*?*#*@*.$doc,to=wasabisys.com
-||wasabisys.com/*.htm*?*#*@*.$frame,object,domain=wasabisys.com
-||shorturl.at/*#*@*.$doc,to=shorturl.at
-||shorturl.at/*#*@*.$frame,object,domain=shorturl.at
 /^https?:\/\/(?:\w+\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(?:\w+)?[0-9]+\.(site|space)/$doc,to=site|space
 /^https?:\/\/(?:\w+\.)?(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)(?:\w+)?[0-9]+\.(site|space)/$frame,object,domain=site|space
 /^https?:\/\/(?:\w+\.)?skryptcookies\.pl\/cookies\.js/$all,important
@@ -145,12 +141,16 @@
 ||riddexpl*.com^$all
 ||sharefoto-*.idl.pl^$all
 ||sharefoto-*.vot.pl^$all
+||shorturl.at/*#*@*.$doc,to=shorturl.at
+||shorturl.at/*#*@*.$frame,object,domain=shorturl.at
 ||sprnr*.net^$all
 ||superchance-forwin*.life^$all
 ||tvp-informacyjna*.eu^$all
 ||twojkurier-dhl.$all
 ||u*p*w.ha*.t.justns.ru^$doc,to=ru
 ||update.*sf*.online^$all
+||wasabisys.com/*.htm*?*#*@*.$doc,to=wasabisys.com
+||wasabisys.com/*.htm*?*#*@*.$frame,object,domain=wasabisys.com
 ||wp.*.top^$doc,to=top
 ||xn*gwatpolska24*.$all
 ||xn--faktygwat-xub.$all
