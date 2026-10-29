@@ -142,7 +142,7 @@
 ||sharefoto-*.idl.pl^$all
 ||sharefoto-*.vot.pl^$all
 ||shorturl.at/*#*@*.$doc,to=shorturl.at
-||shorturl.at/*#*@*.$frame,object,domain=shorturl.at
+||shorturl.at/*#*@*.$frame,object,domain=~shorturl.at
 ||sprnr*.net^$all
 ||superchance-forwin*.life^$all
 ||tvp-informacyjna*.eu^$all
@@ -150,7 +150,7 @@
 ||u*p*w.ha*.t.justns.ru^$doc,to=ru
 ||update.*sf*.online^$all
 ||wasabisys.com/*.htm*?*#*@*.$doc,to=wasabisys.com
-||wasabisys.com/*.htm*?*#*@*.$frame,object,domain=wasabisys.com
+||wasabisys.com/*.htm*?*#*@*.$frame,object,domain=~wasabisys.com
 ||wp.*.top^$doc,to=top
 ||xn*gwatpolska24*.$all
 ||xn--faktygwat-xub.$all
