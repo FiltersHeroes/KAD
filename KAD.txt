@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 22 Nov 2026, 16:28 UTC+01:00
-! Version: 2026.11.22.2
+! Last modified: Sun, 22 Nov 2026, 16:44 UTC+01:00
+! Version: 2026.11.22.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2493,7 +2493,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||9-205-89-4.cprapid.com^$all
 ||9-205-251-140.cprapid.com^$all
 ||9.tilitysupplements.date^$all
-||9dx.dorivo.lat^$all
 ||9e005fa9.cafebazaar.be^$all
 ||9ewhhl.qnatura.pl^$all
 ||9ffc56b19e.nxcli.io^$all
@@ -3689,6 +3688,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||alebilet.dk-fk9211gc.sbs^$all
 ||alebilet.dk-fk9237gc.sbs^$all
 ||alebilet.dk-fk9313gc.sbs^$all
+||alebilet.dk-fk9341gc.sbs^$all
 ||alebilet.dk-fk60127gc.sbs^$all
 ||alebilet.dk-kurier830163.cyou^$all
 ||alebilet.dk-oferta74096.sbs^$all
@@ -4529,6 +4529,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegro.dk-fk9211gc.sbs^$all
 ||allegro.dk-fk9237gc.sbs^$all
 ||allegro.dk-fk9313gc.sbs^$all
+||allegro.dk-fk9341gc.sbs^$all
 ||allegro.dk-fk9412gc.sbs^$all
 ||allegro.dk-fk60127gc.sbs^$all
 ||allegro.dk-kupno562399.lol^$all
@@ -5543,6 +5544,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.dk-fk9211gc.sbs^$all
 ||allegrolokalnie.dk-fk9237gc.sbs^$all
 ||allegrolokalnie.dk-fk9313gc.sbs^$all
+||allegrolokalnie.dk-fk9341gc.sbs^$all
 ||allegrolokalnie.dk-fk9412gc.sbs^$all
 ||allegrolokalnie.dk-fk60127gc.sbs^$all
 ||allegrolokalnie.dk-kupno938pms714.cyou^$all
@@ -6445,7 +6447,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.pl-oferta7683588.sbs^$all
 ||allegrolokalnie.pl-oferta9605053.shop^$all
 ||allegrolokalnie.pl-oferta9840241.top^$all
-||allegrolokalnie.pl-oferta13462766.sbs^$all
 ||allegrolokalnie.pl-oferta14556543.click^$all
 ||allegrolokalnie.pl-oferta27991279.click^$all
 ||allegrolokalnie.pl-oferta29385274.cfd^$all
@@ -9514,6 +9515,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dk-fk9211gc.sbs^$all
 ||dk-fk9237gc.sbs^$all
 ||dk-fk9313gc.sbs^$all
+||dk-fk9341gc.sbs^$all
 ||dk-fk9412gc.sbs^$all
 ||dk-fk60127gc.sbs^$all
 ||dk-kurier830163.cyou^$all
@@ -9826,7 +9828,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dz3gzm.sbs^$all
 ||dz8qbe.qpon^$all
 ||dzarymol.com^$all
-||dzieciaki.sbs^$all
 ||dzoskaruma-sg.com^$all
 ||dzplatform.net^$all
 ||dzplatform.top^$all
@@ -13647,7 +13648,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||labslite.digital^$all
 ||labsmarket.digital^$all
 ||labsmart93.top^$all
-||labsmax.company^$all
 ||labsmega.digital^$all
 ||labsmegadev.digital^$all
 ||labsmini.digital^$all
@@ -15990,6 +15990,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.dk-fk9211gc.sbs^$all
 ||olx.dk-fk9237gc.sbs^$all
 ||olx.dk-fk9313gc.sbs^$all
+||olx.dk-fk9341gc.sbs^$all
 ||olx.dk-fk9412gc.sbs^$all
 ||olx.dk-fk60127gc.sbs^$all
 ||olx.dk-kurier830163.cyou^$all
@@ -16258,7 +16259,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.payflow-poland2.shop^$all
 ||olx.paypau-pl2.eu.cc^$all
 ||olx.paypau-pl4.eu.cc^$all
-||olx.paypay-pl3.eu.cc^$all
 ||olx.paypl-pay1.eu.cc^$all
 ||olx.payu-poland-run.biz.id^$all
 ||olx.payu-poland-run.bond^$all
@@ -20250,7 +20250,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||sitegold.digital^$all
 ||sitereal.digital^$all
 ||siteslap.shop^$all
-||sitewild.digital^$all
 ||sivaro.shop^$all
 ||sivorentix-ai.com^$all
 ||sizeer.pilulkacz.top^$all
@@ -20686,7 +20685,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||stableboltplus.digital^$all
 ||stablebrith.online^$all
 ||stableclear.company^$all
-||stablecool.digital^$all
 ||stablecore.company^$all
 ||stableedge72.top^$all
 ||stableflow27.top^$all
@@ -23051,6 +23049,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||vinted.dk-fk9211gc.sbs^$all
 ||vinted.dk-fk9237gc.sbs^$all
 ||vinted.dk-fk9313gc.sbs^$all
+||vinted.dk-fk9341gc.sbs^$all
 ||vinted.dk-fk9412gc.sbs^$all
 ||vinted.dk-fk60127gc.sbs^$all
 ||vinted.dk-kurier830163.cyou^$all
@@ -24371,7 +24370,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||y7bndu.stephaniejamet.com^$all
 ||y9k3r1m.pics^$all
 ||y11rz0.ifrasyema.com^$all
-||y36hch.centrum-ochrony.shop^$all
 ||y73yw65.pics^$all
 ||y77elr.dekarzlodz.pl^$all
 ||y1039x.ayushuiuxdesign.com^$all
