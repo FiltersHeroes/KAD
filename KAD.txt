@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Fri, 27 Nov 2026, 00:33 UTC+01:00
-! Version: 2026.11.27.0
+! Last modified: Fri, 27 Nov 2026, 00:36 UTC+01:00
+! Version: 2026.11.27.1
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -25873,6 +25873,7 @@ sklep-agrohurt.eu##^responseheader(location)
 cba.pl##body > div[style*="position"]:has(> div[style*="position"] > iframe[src*="/embed/kFGCW1_63lA"])
 dobreprogramy.pl##a[data-dp-download-start]
 dobreprogramy.pl##a[href*="forum.dobreprogramy.pl/c/oprogramowanie-komputerowe"]:upward(div)
+dobreprogramy.pl##article#main-content div[class*="dp-heading"]:has(> a[href*="/jak-w-windowsie-usunac-niepotrzebne-pliki-i-posprzatac-w-systemie"])
 emedyczny.com,emedyczny.pl##.c-product-box:has(a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i])
 emedyczny.com,emedyczny.pl##a[href*="/zegarki-kardiowatch" i], a[href*="/smartwatche" i], a[href*="/cisnieniomierz-ekg-smart-pulsoksymetr-pulsometr-cardio-one" i]
 empik.com##div[class*="items"]:has(a[href*="/sklepy/net-s,8872,m"])::before:style(content: 'Zakupy na własną odpowiedzialność od dostawcy NET-S (KAD - STOP Przekrętom).' !important; margin: 15px 0 15px 15px !important; display: block !important; color: #f00 !important; font-weight: bold !important)
