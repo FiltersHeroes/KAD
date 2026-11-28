@@ -1,7 +1,7 @@
 ! Title: 🇵🇱 KAD - STOP Przekrętom
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sat, 28 Nov 2026, 13:37 UTC+01:00
-! Version: 2026.11.28.1
+! Last modified: Sat, 28 Nov 2026, 17:26 UTC+01:00
+! Version: 2026.11.28.2
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2462,6 +2462,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||6xdgvj.jkrimlock.com^$all
 ||6y5tw3.pics^$all
 ||6y76et3t.cyou^$all
+||6zq29sv30sj6vz12va7.cfd^$all
 ||7hfewl.minhaparapsi.com^$all
 ||7ivl8w.lookgoodathletics.com^$all
 ||7uhajx.lansingssettlement.com^$all
@@ -2619,6 +2620,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||58295.sbs^$all
 ||58421.eu.cc^$all
 ||58733.sbs^$all
+||61625.eu.cc^$all
 ||63350.eu.cc^$all
 ||64001.eu.cc^$all
 ||74521.eu.cc^$all
@@ -2789,6 +2791,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||356458364894.cfd^$all
 ||675739059834.cfd^$all
 ||845495763923.cfd^$all
+||4769375930296.cfd^$all
 ||53784563453762.sbs^$all
 ||73265428375733.sbs^$all
 ||723467278234573.sbs^$all
@@ -2888,7 +2891,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||acornharborstore.shop^$all
 ||acqueindur.store^$all
 ||acriscapital.com^$all
-||acriscore.com^$all
 ||acrisedge.com^$all
 ||acrisedge.digital^$all
 ||acrisholdings.com^$all
@@ -3864,6 +3866,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||aldiusmarket.shop^$all
 ||alebilet.0ferta73618.top^$all
 ||alebilet.3s9374ehdh3747ejdbwu384.sbs^$all
+||alebilet.6zq29sv30sj6vz12va7.cfd^$all
 ||alebilet.9t882123hh.courses^$all
 ||alebilet.73ox9w26ve8be6.click^$all
 ||alebilet.207lrf9rezerwacja.top^$all
@@ -3940,6 +3943,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||alebilet.aukcja3136.shop^$all
 ||alebilet.authdirectbuy-pl.cfd^$all
 ||alebilet.authentication24.shop^$all
+||alebilet.authenticpoland-pl.cfd^$all
 ||alebilet.autoryzacja.my.id^$all
 ||alebilet.click-aukcja1832.lol^$all
 ||alebilet.click-aukcja9287.lol^$all
@@ -4512,6 +4516,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||alebilet.pl-oferta809543.shop^$all
 ||alebilet.pl-oferta812022.sbs^$all
 ||alebilet.pl-oferta823102.sbs^$all
+||alebilet.pl-oferta954645.shop^$all
 ||alebilet.pl-oferta2179118.click^$all
 ||alebilet.pl-oferta7685948.lol^$all
 ||alebilet.pl-oferta9845654.shop^$all
@@ -4662,6 +4667,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||alebilet.pn-odbior629174.cyou^$all
 ||alebilet.pn-paczuha92740xs.cyou^$all
 ||alebilet.poland321.sbs^$all
+||alebilet.poland421.sbs^$all
 ||alebilet.poland-offert.surf^$all
 ||alebilet.polandbuy-pl.sbs^$all
 ||alebilet.polska-przedmiot.cfd^$all
@@ -4797,6 +4803,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegro.00r230h45-f34.help^$all
 ||allegro.002potewi4.surf^$all
 ||allegro.3s9374ehdh3747ejdbwu384.sbs^$all
+||allegro.6zq29sv30sj6vz12va7.cfd^$all
 ||allegro.9t882123hh.courses^$all
 ||allegro.73ox9w26ve8be6.click^$all
 ||allegro.0192--f20392.courses^$all
@@ -4962,8 +4969,10 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegro.aukcja8932301.sbs^$all
 ||allegro.authdirectbuy-pl.cfd^$all
 ||allegro.authentication24.shop^$all
+||allegro.authenticpoland-pl.cfd^$all
 ||allegro.autoryzacja.my.id^$all
 ||allegro.ba212-120.help^$all
+||allegro.bbdbw.shop^$all
 ||allegro.bdbddb.sbs^$all
 ||allegro.bddbdb.sbs^$all
 ||allegro.cee1-k6up45999.surf^$all
@@ -5298,6 +5307,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegro.oferta368s2c2q8j4.cfd^$all
 ||allegro.oferta819.sbs^$all
 ||allegro.oferta02391.shop^$all
+||allegro.oferta23974.click^$all
 ||allegro.oferta60098.cfd^$all
 ||allegro.oferta77654.sbs^$all
 ||allegro.oferta85734.shop^$all
@@ -5568,6 +5578,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegro.pl-625517r251627oferta5345336s444.sbs^$all
 ||allegro.pl-657458.sbs^$all
 ||allegro.pl-752299l43311oferta28628f27262.sbs^$all
+||allegro.pl-942114.cfd^$all
 ||allegro.pl-947367h8263927k2637388.sbs^$all
 ||allegro.pl-1247089a2.sbs^$all
 ||allegro.pl-2378945.sbs^$all
@@ -5682,6 +5693,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegro.pl-oferta812022.sbs^$all
 ||allegro.pl-oferta823102.sbs^$all
 ||allegro.pl-oferta842165.cfd^$all
+||allegro.pl-oferta954645.shop^$all
 ||allegro.pl-oferta2179118.click^$all
 ||allegro.pl-oferta7685948.lol^$all
 ||allegro.pl-oferta9845654.shop^$all
@@ -5848,6 +5860,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegro.po81291291.surf^$all
 ||allegro.poifu23812040.click^$all
 ||allegro.poland321.sbs^$all
+||allegro.poland421.sbs^$all
 ||allegro.poland-offert.surf^$all
 ||allegro.polandbuy-pl.sbs^$all
 ||allegro.polska-przedmiot.cfd^$all
@@ -6048,6 +6061,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.2wu947wuev284bsj.cfd^$all
 ||allegrolokalnie.3oi3f29001.click^$all
 ||allegrolokalnie.3s9374ehdh3747ejdbwu384.sbs^$all
+||allegrolokalnie.6zq29sv30sj6vz12va7.cfd^$all
 ||allegrolokalnie.7e19xcn29qye37vel3946wb8b.rest^$all
 ||allegrolokalnie.7w1xie638wpb84v27.cfd^$all
 ||allegrolokalnie.9t882123hh.courses^$all
@@ -6182,6 +6196,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.356458364894.cfd^$all
 ||allegrolokalnie.675739059834.cfd^$all
 ||allegrolokalnie.845495763923.cfd^$all
+||allegrolokalnie.4769375930296.cfd^$all
 ||allegrolokalnie.19135381823490.cfd^$all
 ||allegrolokalnie.53784563453762.sbs^$all
 ||allegrolokalnie.73265428375733.sbs^$all
@@ -6217,8 +6232,10 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.authdirectbuy-pl.cfd^$all
 ||allegrolokalnie.authentication24.cfd^$all
 ||allegrolokalnie.authentication24.shop^$all
+||allegrolokalnie.authenticpoland-pl.cfd^$all
 ||allegrolokalnie.autoryzacja.my.id^$all
 ||allegrolokalnie.autoryzacja.web.id^$all
+||allegrolokalnie.bbdbw.shop^$all
 ||allegrolokalnie.bdbddb.sbs^$all
 ||allegrolokalnie.bddbdb.sbs^$all
 ||allegrolokalnie.bkupteraz.shop^$all
@@ -6374,7 +6391,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.hnfjkg6fjkg9.rest^$all
 ||allegrolokalnie.htiprzedmiot213242332.sbs^$all
 ||allegrolokalnie.httpsofficial-pl.sbs^$all
-||allegrolokalnie.id889544566.eu^$all
 ||allegrolokalnie.id-239snm322.cyou^$all
 ||allegrolokalnie.id-289snm302s.click^$all
 ||allegrolokalnie.id-237932sbns3.sbs^$all
@@ -6641,6 +6657,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.oferta9386.sbs^$all
 ||allegrolokalnie.oferta11234.cfd^$all
 ||allegrolokalnie.oferta11534.com^$all
+||allegrolokalnie.oferta23974.click^$all
 ||allegrolokalnie.oferta38202.shop^$all
 ||allegrolokalnie.oferta38239.shop^$all
 ||allegrolokalnie.oferta39234.shop^$all
@@ -6658,7 +6675,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.oferta223121.cfd^$all
 ||allegrolokalnie.oferta0328231.sbs^$all
 ||allegrolokalnie.oferta428193.shop^$all
-||allegrolokalnie.oferta474925.top^$all
 ||allegrolokalnie.oferta502350.shop^$all
 ||allegrolokalnie.oferta523459.shop^$all
 ||allegrolokalnie.oferta757434.shop^$all
@@ -7078,6 +7094,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.pl-4567f78.sbs^$all
 ||allegrolokalnie.pl-7252f5626152652oferta02092827392.cfd^$all
 ||allegrolokalnie.pl-013362.cfd^$all
+||allegrolokalnie.pl-016972.icu^$all
 ||allegrolokalnie.pl-20600.icu^$all
 ||allegrolokalnie.pl-28366f27275282oferta90282892l9282.cfd^$all
 ||allegrolokalnie.pl-34543.cfd^$all
@@ -7118,6 +7135,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.pl-876342.sbs^$all
 ||allegrolokalnie.pl-876524.sbs^$all
 ||allegrolokalnie.pl-914920.sbs^$all
+||allegrolokalnie.pl-942114.cfd^$all
 ||allegrolokalnie.pl-947367h8263927k2637388.sbs^$all
 ||allegrolokalnie.pl-0962267.icu^$all
 ||allegrolokalnie.pl-962344.sbs^$all
@@ -7217,6 +7235,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.pl-aukcja85234.shop^$all
 ||allegrolokalnie.pl-aukcja95043.shop^$all
 ||allegrolokalnie.pl-aukcja549235.shop^$all
+||allegrolokalnie.pl-aukcja910626.icu^$all
 ||allegrolokalnie.pl-aukcja1234781821.shop^$all
 ||allegrolokalnie.pl-aukcja-628634.icu^$all
 ||allegrolokalnie.pl-aukcja-2589012.icu^$all
@@ -7304,6 +7323,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.pl-oferta823102.sbs^$all
 ||allegrolokalnie.pl-oferta842165.cfd^$all
 ||allegrolokalnie.pl-oferta910733.icu^$all
+||allegrolokalnie.pl-oferta954645.shop^$all
 ||allegrolokalnie.pl-oferta1962365.cfd^$all
 ||allegrolokalnie.pl-oferta2179118.click^$all
 ||allegrolokalnie.pl-oferta7683588.sbs^$all
@@ -7311,7 +7331,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.pl-oferta9840241.top^$all
 ||allegrolokalnie.pl-oferta9845654.shop^$all
 ||allegrolokalnie.pl-oferta27991279.click^$all
-||allegrolokalnie.pl-oferta29385274.cfd^$all
 ||allegrolokalnie.pl-oferta39062056.cfd^$all
 ||allegrolokalnie.pl-oferta48691866.shop^$all
 ||allegrolokalnie.pl-oferta60792670.icu^$all
@@ -7522,6 +7541,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.pn-odbior629174.cyou^$all
 ||allegrolokalnie.pn-paczuha92740xs.cyou^$all
 ||allegrolokalnie.poland321.sbs^$all
+||allegrolokalnie.poland421.sbs^$all
 ||allegrolokalnie.poland-offert.surf^$all
 ||allegrolokalnie.polandbuy-pl.sbs^$all
 ||allegrolokalnie.polska-przedmiot.cfd^$all
@@ -7564,6 +7584,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||allegrolokalnie.pvi120012932.help^$all
 ||allegrolokalnie.pvo12i991.study^$all
 ||allegrolokalnie.pwpwwp.sbs^$all
+||allegrolokalnie.qb384wj3856ebwo73vwn83.shop^$all
 ||allegrolokalnie.qk-ogloszezenle91642.cyou^$all
 ||allegrolokalnie.qkupteraz.shop^$all
 ||allegrolokalnie.ql-authorizaciazsx.cyou^$all
@@ -7734,7 +7755,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||alumniheritage.com^$all
 ||alva-capital.pro^$all
 ||alvantaoriplexus.com^$all
-||alvantaoriplexusbridge.com^$all
 ||alvenix.digital^$all
 ||alveriabrinex.net^$all
 ||alverixanpro-ai.net^$all
@@ -7983,7 +8003,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||asenimstudio.com^$all
 ||ashenova.com^$all
 ||ashwoodtimber.co.uk^$all
-||aspectcornerrustic.bond^$all
 ||asphickory.shop^$all
 ||aspromontesignale.pro^$all
 ||asramdisan.store^$all
@@ -8011,7 +8030,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||atatrkai.biz^$all
 ||ataturk-ai.info^$all
 ||ataturkai.pro^$all
-||atelierridgehub.top^$all
 ||atendyrgrovic.pro^$all
 ||athenora-ai.cfd^$all
 ||athenschronicle.digital^$all
@@ -8047,18 +8065,12 @@ sklep-agrohurt.eu##^responseheader(location)
 ||auctusaxis.digital^$all
 ||auctuscore.digital^$all
 ||auctusvault.digital^$all
-||audaxarc.com^$all
-||audaxaxis.com^$all
 ||audaxaxis.digital^$all
-||audaxbase.com^$all
 ||audaxcapital.tech^$all
 ||audaxcapitalsolution.com^$all
 ||audaxcore.com^$all
 ||audaxcore.digital^$all
-||audaxgrid.com^$all
-||audaxlane.com^$all
 ||audaxlink.com^$all
-||audaxnex.com^$all
 ||audaxorb.com^$all
 ||audaxpart.com^$all
 ||audaxpeak.com^$all
@@ -8126,6 +8138,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||authcert.es^$all
 ||authdirectbuy-pl.cfd^$all
 ||authentication24.shop^$all
+||authenticpoland-pl.cfd^$all
 ||automatic-service-idcheck1981087.studioforciniti.com^$all
 ||automcircu.store^$all
 ||automindgr.net^$all
@@ -8332,6 +8345,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||bbbqianlaiag.shop^$all
 ||bbc.ipos.mu^$all
 ||bbcow.shop^$all
+||bbdbw.shop^$all
 ||bbhltool.shop^$all
 ||bbrrline.shop^$all
 ||bbudypxk.shop^$all
@@ -8356,7 +8370,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||beaconmintorance.com^$all
 ||beaconrenditave.com^$all
 ||beaconridge.digital^$all
-||beaconroutehub.top^$all
 ||beacontallidorine.com^$all
 ||beaconvouchsurety.com^$all
 ||beaconwertholm.store^$all
@@ -8464,7 +8477,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||biedronka-fryer.shop^$all
 ||biedronka-mug.shop^$all
 ||biedronka-necessities.shop^$all
-||biedronka.discount-eu.co^$all
 ||biedronka.pieniadze.store^$all
 ||biedronkaeu.shop^$all
 ||biedronkahome.top^$all
@@ -8587,7 +8599,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||bllik.xyz^$all
 ||blogotti.com^$all
 ||bloheryxai.click^$all
-||bloiummatrix.com^$all
 ||blonexglavixium.com^$all
 ||bloomcornerhaven.xyz^$all
 ||bloomfieldstudio.top^$all
@@ -8689,7 +8700,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||boostadipexhex.pro^$all
 ||boostavagepro.digital^$all
 ||boosteurax200-es.com^$all
-||boosteurax200.org^$all
 ||boostexorex-opt.com^$all
 ||boostfertinex-ai.pro^$all
 ||boostkinrixsys.net^$all
@@ -8807,7 +8817,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||bright-yieldenance.pro^$all
 ||brightbondiferage.com^$all
 ||brightcabinpath.life^$all
-||brightcanvasgrove.xyz^$all
 ||brightcapitgate-pro.pages.dev^$all
 ||brightendowmarine.com^$all
 ||brighterlighting.lovable.app^$all
@@ -8859,7 +8868,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||bronze-espadrilles.shop^$all
 ||bronzewindow.live^$all
 ||brookforgehaven.bond^$all
-||brookharborstudio.bond^$all
 ||brookrendova.store^$all
 ||brother-manage-center-7549235423.pages.dev^$all
 ||browsegardenstudio.xyz^$all
@@ -8916,6 +8924,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||buckroverl.store^$all
 ||budgetbeam.shop^$all
 ||budmil.shop^$all
+||buergergemeinde-sirnach.ch^$all
 ||buforowanie.pl^$all
 ||bugezicanti.store^$all
 ||build-flex-ttg-dpgzqjmv7a1i.edgeone.dev^$all
@@ -8968,7 +8977,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||byssodeman.store^$all
 ||bystrozisk.com^$all
 ||bystrysmenyr.store^$all
-||bytecraftstudio.top^$all
 ||bytelkawod24pl.shop^$all
 ||byteroxeplatform.com^$all
 ||bytimemotion.com^$all
@@ -9017,7 +9025,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||calmiraq.shop^$all
 ||calmordexio.shop^$all
 ||calmplumeridge.life^$all
-||calmridgeforest.life^$all
 ||calmyro.digital^$all
 ||caloptrix.com^$all
 ||calsyn.shop^$all
@@ -9102,7 +9109,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||cartivelleguide.com^$all
 ||cartsiftdaily.com^$all
 ||carylgenivoss.info^$all
-||casacortino.com^$all
 ||cashapp-luckygifts.com^$all
 ||cashappbonus.com^$all
 ||cashappe-award.com^$all
@@ -9123,9 +9129,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||castorama-poland.castorama-klub.com^$all
 ||castorama-survey.waxshop.com^$all
 ||casuasphin.store^$all
-||casviaxo.com^$all
 ||casviora.com^$all
-||catalogbreezydomain.bond^$all
 ||catalogpoliteprime.bond^$all
 ||catstinomb.store^$all
 ||cattleya-interfacing.shop^$all
@@ -9185,12 +9189,10 @@ sklep-agrohurt.eu##^responseheader(location)
 ||celadon-curragh.shop^$all
 ||celadon-escarpin.shop^$all
 ||celadon-gambado.shop^$all
-||celatonezytroxprohorizon.com^$all
 ||celdovrak-ai.com^$all
 ||celdovrak.live^$all
 ||celioeu-vip.shop^$all
 ||cellarcovepress.top^$all
-||cellarmillstudio.top^$all
 ||cellbox-ai.com^$all
 ||celsor.shop^$all
 ||cemendisgu.store^$all
@@ -9214,7 +9216,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||cenowiznapl.com^$all
 ||censuautoa.store^$all
 ||centerpieceorbitnarrow.bond^$all
-||centerstablepathway.bond^$all
 ||central-pay.shop^$all
 ||centrum24.login-in.digital^$all
 ||centrum24.login-in.online^$all
@@ -9243,7 +9244,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||cerulean-mullion.shop^$all
 ||cerulean-plinth.shop^$all
 ||cerulean-volute.shop^$all
-||cervalunocore.net^$all
 ||cerviq.shop^$all
 ||cestasanamuri.com.br^$all
 ||cetigew.space^$all
@@ -9379,7 +9379,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||cipheronfund.store^$all
 ||ciptanilawan-ai.com^$all
 ||circlekprize.com^$all
-||circlepavilionclear.bond^$all
 ||circletidygradient.bond^$all
 ||circocols.store^$all
 ||circoimpia.store^$all
@@ -9475,7 +9474,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||cloude.ai^$all
 ||cloudgridip.top^$all
 ||cloudminttrail.life^$all
-||cloudsagefield.life^$all
 ||cloverfieldanchor.online^$all
 ||cloverhush.digital^$all
 ||club.acidit.net^$all
@@ -9592,6 +9590,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||concrcsiko.store^$all
 ||concretesealersupply.com^$all
 ||condidibar.store^$all
+||condividim.store^$all
 ||confeadula.store^$all
 ||confeparla.store^$all
 ||confirinun.store^$all
@@ -9613,6 +9612,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||connectwell.cyou^$all
 ||conruos.cc^$all
 ||conscaffas.store^$all
+||consoazzar.store^$all
 ||constinfar.store^$all
 ||contactnest.cyou^$all
 ||contactrelay.cyou^$all
@@ -9640,6 +9640,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||coolnut.shop^$all
 ||coosgutears.store^$all
 ||coponix.store^$all
+||copper-alisa-12.tiiny.site^$all
 ||coppernotestable.bond^$all
 ||copperquoin.digital^$all
 ||copredsaqwe.lovable.app^$all
@@ -9884,6 +9885,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||cuwiud.shop^$all
 ||cuzewii.com^$all
 ||cv313782.tw1.ru^$all
+||cviuty.sbs^$all
 ||cvklit.skin^$all
 ||cvkliu.buzz^$all
 ||cvlbiy.beauty^$all
@@ -10013,7 +10015,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dawergantrem.lovable.app^$all
 ||dawnbaysaylor.pro^$all
 ||dawnharborcrest.life^$all
-||dawnripplefield.life^$all
 ||dawnsparholt.store^$all
 ||daxelao.com^$all
 ||daybreaktrustmere.store^$all
@@ -10129,7 +10130,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dememtailb.store^$all
 ||demenimbac.store^$all
 ||demerpunte.store^$all
-||demerquinq.store^$all
 ||demo.royalappspos.com^$all
 ||dempnstanc.store^$all
 ||denimcocobolo.shop^$all
@@ -10189,9 +10189,11 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dexofaripexidavokaro.digital^$all
 ||dexosanokaronexovexoteli.digital^$all
 ||dextrsacra.store^$all
+||dfciu.bond^$all
 ||dfdqnv.crazyywins.com^$all
 ||dferf.t5ey63.cyou^$all
 ||dfh54tra.lovable.app^$all
+||dfjkty.xyz^$all
 ||dfvewrgq2.com^$all
 ||dfynepoland.com^$all
 ||dg3gm2.lat^$all
@@ -10204,6 +10206,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dgsefghh.github.io^$all
 ||dgv9dq.thepitch-lab.com^$all
 ||dgvgd.jy2gh3i.cyou^$all
+||dhl-ari.eu.cc^$all
 ||dhl-gg.eu.cc^$all
 ||dhl-pl.xyz^$all
 ||dhl-vv.eu.cc^$all
@@ -10213,6 +10216,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dhl.nxlzf.cc^$all
 ||dhl.piewy.cc^$all
 ||dhl.smvcg.help^$all
+||dhl.unoad.xyz^$all
 ||dhl.uxclt.top^$all
 ||dhl.wlpej.help^$all
 ||dhl.xwqqu.top^$all
@@ -10250,6 +10254,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||diazaxorion.com^$all
 ||dibosmetap.store^$all
 ||dichoextin.store^$all
+||dichvuquocte.net^$all
 ||dickcisselwenge.shop^$all
 ||dicroinnes.store^$all
 ||dicwah.maributik.com^$all
@@ -10377,6 +10382,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dividuotaje.com^$all
 ||divolbiops.store^$all
 ||divolzuzze.store^$all
+||divordistr.store^$all
 ||dj-cbee.com^$all
 ||djarv-byteskapet.net^$all
 ||djarv-byteskapet.org^$all
@@ -10530,6 +10536,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dnlaxtx.icu^$all
 ||dnlaxtz.bond^$all
 ||dnlaxtz.cyou^$all
+||dnlaxtz.icu^$all
 ||dnlaxvs.eu.cc^$all
 ||dnlaxvu.eu.cc^$all
 ||dnlbrsdt.eu.cc^$all
@@ -10560,6 +10567,8 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dnlpixs.eu.cc^$all
 ||dnlpixx.eu.cc^$all
 ||dnlpixz.eu.cc^$all
+||dnlvisf.bond^$all
+||dnlvisg.icu^$all
 ||dnlvish.bond^$all
 ||dnlvist.skin^$all
 ||dnlvrtd.eu.cc^$all
@@ -10785,7 +10794,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||dv905sj2pm963.gaullacfashion.shop^$all
 ||dvontt-krelon.best^$all
 ||dvorakjanjeclovek.github.io^$all
-||dvvglobalpayments.co.uk^$all
 ||dwaju3.gasthof-schoenblick.eu^$all
 ||dwell-nest.shop^$all
 ||dwell-studio.shop^$all
@@ -10874,7 +10882,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||eccoonlineeu.shop^$all
 ||echallengersmode.com^$all
 ||echeggeolo.store^$all
-||echoanchorpaper.online^$all
 ||echodeck.click^$all
 ||echopost.shop^$all
 ||ecilfbll.shop^$all
@@ -11497,6 +11504,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||fgghjk.online^$all
 ||fgghjk.store^$all
 ||fghyu.cfd^$all
+||fgvjir.cfd^$all
 ||fgyfdr.top^$all
 ||fiancoriaholdings.store^$all
 ||fianzacumbre.com^$all
@@ -11520,7 +11528,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||fiduciacore.digital^$all
 ||fieicd.tirinavoxolano.com^$all
 ||fieldgrovecanvas.bond^$all
-||fieldstablegradient.bond^$all
 ||fiera-rendovia.online^$all
 ||fieroquotarenza.com^$all
 ||fierpatrimoire.store^$all
@@ -11605,7 +11612,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||finzy1-eos79.sbs^$all
 ||finzy1-et35.sbs^$all
 ||finzy1-ipsa67.sbs^$all
-||finzy1-minima5.sbs^$all
 ||finzy1-modi95.sbs^$all
 ||finzy1-omnis22.sbs^$all
 ||finzy1-quaerat37.sbs^$all
@@ -11631,7 +11637,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||finzy3-dolor49.sbs^$all
 ||finzy3-et52.sbs^$all
 ||finzy3-excepturi74.sbs^$all
-||finzy3-fugiat91.sbs^$all
 ||finzy3-laboriosam47.sbs^$all
 ||finzy3-mollitia1.sbs^$all
 ||finzy3-nobis63.sbs^$all
@@ -11641,8 +11646,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||finzy3-voluptatibus8.sbs^$all
 ||finzy4-architecto82.sbs^$all
 ||finzy4-nihil55.sbs^$all
-||finzy4-officia16.sbs^$all
-||finzy4-optio44.sbs^$all
 ||finzy4-voluptatem24.sbs^$all
 ||finzy5-est27.sbs^$all
 ||finzy5-mollitia43.sbs^$all
@@ -11653,7 +11656,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||finzy6-aut53.sbs^$all
 ||finzy6-corrupti44.sbs^$all
 ||finzy6-delectus63.sbs^$all
-||finzy6-dolor57.sbs^$all
 ||finzy6-doloribus60.sbs^$all
 ||finzy6-esse4.sbs^$all
 ||finzy6-et93.sbs^$all
@@ -11686,7 +11688,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||finzy8-voluptas14.sbs^$all
 ||finzy8-voluptas90.sbs^$all
 ||finzy9-ad37.sbs^$all
-||finzy9-cum53.sbs^$all
 ||finzy9-dignissimos41.sbs^$all
 ||finzy9-dolores15.sbs^$all
 ||finzy9-nihil5.sbs^$all
@@ -12094,7 +12095,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||fynvax.top^$all
 ||fyrnvaekstelse.com^$all
 ||fyrostrix-tech.com^$all
-||fyujb23iqp.eu.cc^$all
 ||g0rm0n.televisiongifts.com^$all
 ||g1b2gbh.cyou^$all
 ||g1rjpv.casa^$all
@@ -12169,9 +12169,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||gardeniacliffgarden.xyz^$all
 ||gardenmak.top^$all
 ||gardenmarkets.shop^$all
-||gardenmirrorroute.xyz^$all
 ||gardenpathika.pro^$all
-||gardenplumeoak.life^$all
 ||gardensunderthehorizon.click^$all
 ||garganolanterna.top^$all
 ||garmony-ai.com^$all
@@ -12266,7 +12264,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||gill.pk^$all
 ||gillettepolska.pl^$all
 ||gillettes.com.pl^$all
-||gilmorton.com^$all
 ||gilnox.shop^$all
 ||gilvoro.shop^$all
 ||gimete.digital^$all
@@ -12447,7 +12444,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||grandpeak-talix-software.com^$all
 ||grandridge-lorvixtech.com^$all
 ||graniteequitorage.com^$all
-||graniteframeurban.bond^$all
 ||graniteheronlab.com^$all
 ||granuliniai.lt^$all
 ||graphite-printworks.lovable.app^$all
@@ -12508,7 +12504,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||grovecipher.digital^$all
 ||groveframeportal.bond^$all
 ||grovekapten.store^$all
-||grovelanemarket.bond^$all
 ||grovers.fit^$all
 ||growfuturetech.buzz^$all
 ||growindiaup.net^$all
@@ -12593,7 +12588,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||gypsyrascal.com^$all
 ||gyrasol.com^$all
 ||gysijuo.com^$all
-||gyuhd22ndi.eu.cc^$all
 ||gz3wzp.top^$all
 ||gzirv6.thelowendtheoryfilm.com^$all
 ||gzsckjcn.com^$all
@@ -12641,10 +12635,8 @@ sklep-agrohurt.eu##^responseheader(location)
 ||hanzomelqio.shop^$all
 ||harbmark.com^$all
 ||harborcanvas.digital^$all
-||harborcanvasleaf.xyz^$all
 ||harborcapitio.store^$all
 ||harborcoreatlas.bond^$all
-||harborfieldlinen.online^$all
 ||harborlinejournal.com^$all
 ||harborplainsoft.life^$all
 ||harborquartz.digital^$all
@@ -12675,7 +12667,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||hatune.digital^$all
 ||haugh-troke.shop^$all
 ||havanganhosinteligentes.click^$all
-||havenfaintpathway.bond^$all
 ||haveningry-ai.live^$all
 ||haveningry.com^$all
 ||havenlink.sbs^$all
@@ -12803,6 +12794,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||hleoswedel.shop^$all
 ||hlnreport365.pro^$all
 ||hnfjkg6fjkg9.rest^$all
+||hntyu.beauty^$all
 ||hodnotmar.digital^$all
 ||hodnotmarrecenze.pro^$all
 ||hoggie-mell.shop^$all
@@ -12868,7 +12860,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||homlarabats.shop^$all
 ||homlasklep.shop^$all
 ||homlastocks.shop^$all
-||homlasuper.shop^$all
 ||homlataniej.com^$all
 ||homlataniejs.shop^$all
 ||homlatanies.shop^$all
@@ -12923,7 +12914,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||hufohena.top^$all
 ||hugelrix.com^$all
 ||hugili.digital^$all
-||humblegrovewing.life^$all
 ||hummingbirdzebrawood.shop^$all
 ||hunting-retailstore.com^$all
 ||huntupg.biz^$all
@@ -12937,7 +12927,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||huzentora.shop^$all
 ||huzmalo.digital^$all
 ||huzmerano.shop^$all
-||huzone.digital^$all
 ||hv9nwf.atmavidya.pl^$all
 ||hv9nwf.ayushuiuxdesign.com^$all
 ||hvdcq.com^$all
@@ -13124,6 +13113,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||inciccurle.store^$all
 ||incipparen.store^$all
 ||incivcianf.store^$all
+||incoevanit.store^$all
 ||incomewave.net^$all
 ||incupaugan.store^$all
 ||indan.shop^$all
@@ -13416,7 +13406,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||ipkobiznes.net.do^$all
 ||ipkobizness-pl.nortaaris.com^$all
 ||ipkobznzs.sviluppo.host^$all
-||ipkonline.prospero-classical.com^$all
 ||ipkonlinesecure.blitzschutztechnik-laetsch.de^$all
 ||ipkosecure.prospero-classical.com^$all
 ||ipopliniet.store^$all
@@ -13452,7 +13441,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||iskechers.shop^$all
 ||iskramobil.lovable.app^$all
 ||iskrownia.cyou^$all
-||islandharbormuse.life^$all
 ||islandledger.space^$all
 ||islandmossypath.life^$all
 ||isobairido.store^$all
@@ -13885,6 +13873,8 @@ sklep-agrohurt.eu##^responseheader(location)
 ||keystonerendex.com^$all
 ||keystonerendex.store^$all
 ||keyturn-ai.com^$all
+||kfcasingbb.eu.cc^$all
+||kfcasingvv.eu.cc^$all
 ||kfgqa.com^$all
 ||kflueacyt.shop^$all
 ||kfqxx.n9oipy.casa^$all
@@ -13942,7 +13932,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||klarvermothal.net^$all
 ||klarvoinsights.store^$all
 ||klavipregio.com^$all
-||kleankann.shop^$all
 ||kleineparadys.com^$all
 ||klendixio-app-pro.pages.dev^$all
 ||kletlib.pro^$all
@@ -14020,9 +14009,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||kozerovulezofa.life^$all
 ||kozrilo.digital^$all
 ||kq2e7s.salsabeelestate.com^$all
-||kqxz.info^$all
 ||kqyxs.com^$all
-||kqzm.info^$all
 ||krabondance.com^$all
 ||kraftart.lovable.app^$all
 ||kraitkoa.shop^$all
@@ -14040,7 +14027,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||kredanza.space^$all
 ||krelovant.site^$all
 ||kreofixvoltrunian.com^$all
-||kreofixvoltrunianwave.com^$all
 ||krevgridhub.online^$all
 ||krevuni.shop^$all
 ||krevunio.shop^$all
@@ -14103,7 +14089,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||kup-offerta9863.lol^$all
 ||kup-ogloszenie8231.lol^$all
 ||kup-ogloszenie9756.lol^$all
-||kup.allegrolokallnie.pl^$all
 ||kupello.top^$all
 ||kupovo.top^$all
 ||kupteraz-8392.shop^$all
@@ -14136,7 +14121,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||kwazoraffr.store^$all
 ||kweoxithx-ai.net^$all
 ||kx94zm.tarza-store.com^$all
-||kxrv.info^$all
 ||kyalzoranzo.top^$all
 ||kydonarex-app.com^$all
 ||kyle-whin.shop^$all
@@ -14147,7 +14131,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||kyrosdwell.com^$all
 ||kytaiphat.store^$all
 ||kyvluxia-solution.com^$all
-||kzzq.info^$all
 ||l2pryl.zenolevatoku.info^$all
 ||l2rayg.ctrlrmusic.com^$all
 ||l3ito6.rithwvick.com^$all
@@ -14402,6 +14385,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||lidlsolooggi.com^$all
 ||lidluk-market.mirgeresta.shop^$all
 ||lidluk-store.oakgerlivo.shop^$all
+||lidrt.cyou^$all
 ||lidsfvipshop.shop^$all
 ||lidshometheater.shop^$all
 ||lidshop.online^$all
@@ -14520,6 +14504,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||lnpoct.pk9hti.cfd^$all
 ||lnpoct.qr5qhw.casa^$all
 ||lnpoct.r5wvdf.cfd^$all
+||lnpoct.u7aysz.casa^$all
 ||lnpoct.ud3hia.qpon^$all
 ||lnpoct.ut4yaa.qpon^$all
 ||lnpoct.v9tdsu.sbs^$all
@@ -14687,7 +14672,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||lumiaccord-platform.com^$all
 ||lumianor.cfd^$all
 ||luminaflux.shop^$all
-||luminaquant.ink^$all
 ||luminaryvalorix-pro.pages.dev^$all
 ||luminisbase.com^$all
 ||luminisgrid.com^$all
@@ -14733,6 +14717,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||lvay56.prosocialadvisor.com^$all
 ||lvay56.proyectosluisf.com^$all
 ||lvidjdt.qpon^$all
+||lviut.eu.cc^$all
 ||lw2lg.bemobtrk.com^$all
 ||lx4mu3.crazyywins.com^$all
 ||lxxwpcvd.shop^$all
@@ -14930,7 +14915,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||mcu5hr.winecoterie.com^$all
 ||mcvbrokers.com^$all
 ||mcybp7.desyrufaidahofficial.com^$all
-||mcyfico.com^$all
 ||meadowcairnpath.life^$all
 ||meadowsofhome.com^$all
 ||mealfable.cloud^$all
@@ -14982,7 +14966,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||mercatelle.store^$all
 ||mercer-vaultcrest.shop^$all
 ||mercerholm.digital^$all
-||merchant.927054183.sbs^$all
 ||merchle.shop^$all
 ||merciagaincroft-ai.com^$all
 ||merckwebinar.net^$all
@@ -15411,7 +15394,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||nestharmoni.com^$all
 ||nesthaveno.com^$all
 ||nesthavenstudio.site^$all
-||nestlegardenpath.xyz^$all
 ||nestlumina.com^$all
 ||nestoraviva.shop^$all
 ||nestrustica.com^$all
@@ -15663,7 +15645,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||nfvhrq.bestresortsoffers.com^$all
 ||ngj8kg.rik-sletning.com^$all
 ||ngocnganthinh.store^$all
-||ngtel.co^$all
 ||nguonloivinh.store^$all
 ||nguyetbaothinh.store^$all
 ||nh7h6r.afrodiaq.com^$all
@@ -15819,7 +15800,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||norvexaacrossspace.click^$all
 ||norzavemix.shop^$all
 ||nosohhighl.store^$all
-||notecatalogsolid.bond^$all
 ||noteclatarnia.pro^$all
 ||noticemeta-37b7.metaappbusinesshub.workers.dev^$all
 ||noticemeta-fddc.metaappbusinesshub.workers.dev^$all
@@ -15914,7 +15894,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||nutcrackeripe.shop^$all
 ||nuthatchdalbergia.shop^$all
 ||nutrisixti.store^$all
-||nuvaila-ai.com^$all
 ||nuvantrapex-soft.com^$all
 ||nuvaultance.com^$all
 ||nuvefrlla.shop^$all
@@ -15986,7 +15965,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||oakgerlivo.shop^$all
 ||oakharborlivingco.com^$all
 ||oaklsith.com^$all
-||oakpaperstudio.top^$all
 ||oakspirex.com^$all
 ||oakterranest.com^$all
 ||oakvellehome.com^$all
@@ -16273,6 +16251,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.0dq06cproduct.lat^$all
 ||olx.0ferta73618.top^$all
 ||olx.3s9374ehdh3747ejdbwu384.sbs^$all
+||olx.6zq29sv30sj6vz12va7.cfd^$all
 ||olx.9t882123hh.courses^$all
 ||olx.73ox9w26ve8be6.click^$all
 ||olx.207lrf9rezerwacja.top^$all
@@ -16358,7 +16337,9 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.aukcja8932301.sbs^$all
 ||olx.authdirectbuy-pl.cfd^$all
 ||olx.authentication24.shop^$all
+||olx.authenticpoland-pl.cfd^$all
 ||olx.autoryzacja.my.id^$all
+||olx.bbdbw.shop^$all
 ||olx.bdbddb.sbs^$all
 ||olx.bddbdb.sbs^$all
 ||olx.click-aukcja1832.lol^$all
@@ -16492,7 +16473,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.gfsdhgsfhe.eu.cc^$all
 ||olx.gsdhsdfher.eu.cc^$all
 ||olx.hnfjkg6fjkg9.rest^$all
-||olx.hsheyrre3ys.eu.cc^$all
 ||olx.htiprzedmiot213242332.sbs^$all
 ||olx.httpsofficial-pl.sbs^$all
 ||olx.id-gkf9htj3gh.rest^$all
@@ -16663,6 +16643,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.oferta368s2c2q8j4.cfd^$all
 ||olx.oferta819.sbs^$all
 ||olx.oferta02391.shop^$all
+||olx.oferta23974.click^$all
 ||olx.oferta60098.cfd^$all
 ||olx.oferta77654.sbs^$all
 ||olx.oferta85734.shop^$all
@@ -16942,6 +16923,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.pl-625517r251627oferta5345336s444.sbs^$all
 ||olx.pl-657458.sbs^$all
 ||olx.pl-752299l43311oferta28628f27262.sbs^$all
+||olx.pl-942114.cfd^$all
 ||olx.pl-947367h8263927k2637388.sbs^$all
 ||olx.pl-1247089a2.sbs^$all
 ||olx.pl-2378945.sbs^$all
@@ -17060,6 +17042,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.pl-oferta812022.sbs^$all
 ||olx.pl-oferta823102.sbs^$all
 ||olx.pl-oferta842165.cfd^$all
+||olx.pl-oferta954645.shop^$all
 ||olx.pl-oferta983893.sbs^$all
 ||olx.pl-oferta2179118.click^$all
 ||olx.pl-oferta7685948.lol^$all
@@ -17236,6 +17219,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||olx.pn-odbior629174.cyou^$all
 ||olx.pn-paczuha92740xs.cyou^$all
 ||olx.poland321.sbs^$all
+||olx.poland421.sbs^$all
 ||olx.poland-offert.surf^$all
 ||olx.poland-paybridge.eu.cc^$all
 ||olx.polandbuy-pl.sbs^$all
@@ -17572,7 +17556,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||outllet-pl.shop^$all
 ||outlookdformocummentorder-dpd1m72zp826.edgeone.dev^$all
 ||outpireint.store^$all
-||outsinomer.store^$all
 ||ovattimpit.store^$all
 ||overdrivevideochat.com^$all
 ||overjveris.store^$all
@@ -17590,7 +17573,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||ovx9l8.naim-sounds.com^$all
 ||ovx9l8.nativebreastfeedingwi.com^$all
 ||owexe.com^$all
-||owexi.com^$all
 ||owndraholdings.store^$all
 ||owokoar.shop^$all
 ||oxelvian-app.net^$all
@@ -17713,7 +17695,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pastomicre.store^$all
 ||pastosubac.store^$all
 ||pathbyriver.com^$all
-||pathgrovestudio.bond^$all
 ||patient-rice-4a54.walkertatyana471wxb1-1b2.workers.dev^$all
 ||patliputrahearing.com^$all
 ||patnorely.net^$all
@@ -17794,7 +17775,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pencolepid.store^$all
 ||pendekerat.store^$all
 ||pendreckfinance.space^$all
-||pennineherald.com^$all
 ||pennoterge.store^$all
 ||pensareserve.shop^$all
 ||pensionde.top^$all
@@ -17808,7 +17788,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pepcopl.outleteustore.com^$all
 ||pepreturn-jp.pro^$all
 ||pepsignaltrx-au.com^$all
-||pepzaapp.com^$all
 ||peraplus.uk^$all
 ||peregrinezinstead-ai.uk^$all
 ||peregrinezinstead.live^$all
@@ -17990,7 +17969,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pilvikorkola.space^$all
 ||pineafromosia.shop^$all
 ||pineaglico.store^$all
-||pinegroveatlas.bond^$all
 ||pinensilkw.store^$all
 ||pinevaultmere.space^$all
 ||pinevestode.store^$all
@@ -18081,7 +18059,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pko.edocuin.eu^$all
 ||pkobank-ac93b.web.app^$all
 ||pkobp-pl-weryfikacja.com^$all
-||pkobpsas.eu^$all
 ||pkoplatform.netlify.app^$all
 ||pkrk7u.nawodyapasan.com^$all
 ||pl1.relo999.com^$all
@@ -18307,6 +18284,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pl-4567f78.sbs^$all
 ||pl-7252f5626152652oferta02092827392.cfd^$all
 ||pl-013362.cfd^$all
+||pl-016972.icu^$all
 ||pl-20600.icu^$all
 ||pl-28366f27275282oferta90282892l9282.cfd^$all
 ||pl-34543.cfd^$all
@@ -18408,6 +18386,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pl-84628477284627432.quest^$all
 ||pl-78469877289869482464.quest^$all
 ||pl-912831737123664272111111.sbs^$all
+||pl-aukcja910626.icu^$all
 ||pl-aukcja1234781821.shop^$all
 ||pl-bu-n2k-2810-3.vercel.app^$all
 ||pl-d-offer22231.sbs^$all
@@ -18467,6 +18446,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pl-oferta823102.sbs^$all
 ||pl-oferta842165.cfd^$all
 ||pl-oferta910733.icu^$all
+||pl-oferta954645.shop^$all
 ||pl-oferta1962365.cfd^$all
 ||pl-oferta2179118.click^$all
 ||pl-oferta7685948.lol^$all
@@ -18595,7 +18575,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pl-zamowienie.shop^$all
 ||pl.0003201.site^$all
 ||pl.fashiongroup-sale.shop^$all
-||pl.kidssmykoutlet.shop^$all
 ||pl.seehaus-petra.de^$all
 ||pl.web.do^$all
 ||placenciere.digital^$all
@@ -18758,6 +18737,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||polanatrex.pro^$all
 ||poland1-paczka748923.cyou^$all
 ||poland321.sbs^$all
+||poland421.sbs^$all
 ||poland-capital.online^$all
 ||poland-offert.surf^$all
 ||polandbuy-pl.sbs^$all
@@ -19101,7 +19081,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||pulsecorestudio.top^$all
 ||pulsedesk.rest^$all
 ||pulsenest.shop^$all
-||pulsequietvertex.bond^$all
 ||punctbitrevianro.shop^$all
 ||puncttimot.store^$all
 ||punktopulexai.com^$all
@@ -19175,7 +19154,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||qintaromelvidex.com^$all
 ||qiretykulo.lovable.app^$all
 ||qistyparoduh.top^$all
-||qjfz.hb5cfl.casa^$all
 ||qk-ogloszezenle91642.cyou^$all
 ||qkupteraz.shop^$all
 ||qkzooghk.shop^$all
@@ -19615,6 +19593,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||requestlane.cyou^$all
 ||requestlink.cyou^$all
 ||resecricor.store^$all
+||reselaqx.org^$all
 ||reserix.space^$all
 ||reservanzia.com^$all
 ||reservation-lookup.bdjhbd.com^$all
@@ -19706,7 +19685,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||ridalomec.com^$all
 ||ridarnondi.store^$all
 ||ridge-capitaldale.pro^$all
-||ridgeharborcore.bond^$all
 ||ridgekapiton.space^$all
 ||ridgeplumehome.life^$all
 ||ridgevaultex.space^$all
@@ -19780,7 +19758,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||ristuether.store^$all
 ||risudelogi.store^$all
 ||rithwvick.com^$all
-||ritosaggri.store^$all
 ||ritraazerb.net^$all
 ||ritual.niveaglobal.com^$all
 ||rituals24.shop^$all
@@ -19801,10 +19778,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||rivenhalls.com^$all
 ||riverasservicepressurewashing.com^$all
 ||riverbysky.com^$all
-||rivergardenmuse.life^$all
 ||rivergoldensphere.bond^$all
-||riverlaneatelier.bond^$all
-||riverpixelstudio.top^$all
 ||riversbysky.com^$all
 ||riverstorex.shop^$all
 ||rivervaultessa.store^$all
@@ -19818,6 +19792,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||rkium.com^$all
 ||rm9j8g.dedglimited.com^$all
 ||rmcpwn.kalfaogluotomotiv.com^$all
+||rmnt.info^$all
 ||rnsm.sr-ssl3.com^$all
 ||ro281v.studiomanuli.com^$all
 ||roadsparad.store^$all
@@ -19868,7 +19843,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||rooksinorbit.com^$all
 ||room-confirmation.today^$all
 ||room-haven.shop^$all
-||room-lure.shop^$all
 ||roomarae.com^$all
 ||roomharvest.digital^$all
 ||roomluxy.com^$all
@@ -19885,7 +19859,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||rosoldisve.store^$all
 ||rosolesime.store^$all
 ||rossmann.lekarnas.help^$all
-||rossmannapp.com^$all
 ||rotskapitent.space^$all
 ||round-cell-df30.fayekarina896xzj2-b45.workers.dev^$all
 ||round-dew-723f.tamvu1130ur8.workers.dev^$all
@@ -19987,7 +19960,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||rynlavo.com^$all
 ||rysdochodava.store^$all
 ||rytierkapitov.store^$all
-||ryzandor.com^$all
 ||ryzimajetarna.digital^$all
 ||s0-9-002-1.s3.us-east-2.amazonaws.com^$all
 ||s1.frasgt.shop^$all
@@ -20036,7 +20008,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||saldonario.com^$all
 ||sale.aldi-eu.com^$all
 ||sale.drmartenbootseu.com^$all
-||sale.nailbeauty.sbs^$all
 ||sale.zooplusweb.com^$all
 ||salebasket.shop^$all
 ||salebright.shop^$all
@@ -20422,7 +20393,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||signalataraypip.com^$all
 ||signalchenixxr.org^$all
 ||signalharborgentle.bond^$all
-||signalsubtleanchor.bond^$all
 ||signalvestode.cyou^$all
 ||signaovero.store^$all
 ||signin.gratiotesa.com^$all
@@ -20463,7 +20433,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||simbotende.store^$all
 ||simmonequip.com^$all
 ||simple-space.shop^$all
-||simplecabinview.life^$all
 ||simplegaugeanchor.bond^$all
 ||simplegrovepath.life^$all
 ||simubukiff.pro^$all
@@ -20522,7 +20491,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||sklep-kfd.eu.cc^$all
 ||sklep-zakupy1273.lol^$all
 ||sklepbrugi.pl^$all
-||sklepcodzienny.sbs^$all
 ||sklepcross.com^$all
 ||sklepczesci24.com^$all
 ||sklepio.top^$all
@@ -20543,7 +20511,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||skybarrow-system.com^$all
 ||skybarrowfundvia-app.com^$all
 ||skybydream.com^$all
-||skyevequarry.xyz^$all
 ||skyfieldscroll.xyz^$all
 ||skyline-corporate.net^$all
 ||skylinenexusproca.com^$all
@@ -20633,7 +20600,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||smnh.pl^$all
 ||smockingwenge.shop^$all
 ||smollinaus.store^$all
-||smoothvectorcompass.bond^$all
 ||smugimatri.store^$all
 ||smyk-babystore.shop^$all
 ||smyk.nocibe-frshopp.sbs^$all
@@ -20699,7 +20665,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||solidgrid.click^$all
 ||solidofinvoro.com^$all
 ||solidoquinhanca.com^$all
-||solidpathwayglide.xyz^$all
 ||solidushold.com^$all
 ||solidvestmere.cyou^$all
 ||solidwarranture-ai.uk^$all
@@ -20755,7 +20720,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||sorghumfoundry.live^$all
 ||sornika.digital^$all
 ||sorpacinqu.store^$all
-||sorrafils.store^$all
 ||sorsacount.store^$all
 ||sorvazendro.shop^$all
 ||sorvendaxio.shop^$all
@@ -20815,8 +20779,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||sparkling-block-2944.nelly-33d.workers.dev^$all
 ||sparkling-morning-1027.forestlisa947z7p1.workers.dev^$all
 ||sparkling-thunder-26c9.kyleada762nag4.workers.dev^$all
-||sparkstudiohub.top^$all
-||sparkstudiopolite.bond^$all
 ||sparkxyvor-system.com^$all
 ||sparnadik.com^$all
 ||sparnadik.info^$all
@@ -20936,7 +20898,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||stapleclassics.com^$all
 ||star-ai-it.online^$all
 ||starcrest-zynorsystem.com^$all
-||stardexnexovumlyventure.com^$all
 ||starkrantedom.com^$all
 ||starkreifbuchanz.com^$all
 ||starkzahlentum.com^$all
@@ -21055,7 +21016,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||streamingvideo-pl.com^$all
 ||streamisle.shop^$all
 ||streamlasixx-solution.com^$all
-||streamridgeclover.online^$all
 ||streamsys-eprex.click^$all
 ||streamsys-eprex.live^$all
 ||streamwyck-capital.net^$all
@@ -21075,7 +21035,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||strzeleckizone.com^$all
 ||studatamaris.lovable.app^$all
 ||studio100-invest.pro^$all
-||studioharborlane.bond^$all
 ||studiopolysk.lovable.app^$all
 ||studioquietgrove.xyz^$all
 ||studycoveal.info^$all
@@ -21267,7 +21226,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||sylvarune.pages.dev^$all
 ||sympatepid.store^$all
 ||sympathetic-harlequin-vakttgsh.edgeone.dev^$all
-||synapseflow.work^$all
 ||synapsepulse.icu^$all
 ||syncroomwithgustly.com^$all
 ||synspark.pics^$all
@@ -21384,7 +21342,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||tarnevilo.com^$all
 ||taryv.com^$all
 ||tarza-store.com^$all
-||tasapa.digital^$all
 ||tasartbook.store^$all
 ||tascbook.top^$all
 ||taschenart.shop^$all
@@ -21466,13 +21423,10 @@ sklep-agrohurt.eu##^responseheader(location)
 ||telefoxxof.help^$all
 ||telehprovc.click^$all
 ||telehtproa.beer^$all
-||telehtproa.bond^$all
 ||telehtproa.icu^$all
 ||telehtproa.luxe^$all
 ||telehtyout.luxe^$all
 ||telehtyout.yoga^$all
-||teleindpow.beer^$all
-||teleindpow.help^$all
 ||teleindpow.icu^$all
 ||teleindpow.yoga^$all
 ||teleitholu.click^$all
@@ -21495,7 +21449,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||telenitepr.cyou^$all
 ||telenitepr.help^$all
 ||telenitepr.icu^$all
-||telenitepr.luxe^$all
 ||telenitepr.yoga^$all
 ||telenkupxx.love^$all
 ||telenkvpxx.bond^$all
@@ -21598,8 +21551,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||telexxxolu.club^$all
 ||telexxxolu.shop^$all
 ||telexxzipp.beer^$all
-||telexxzipp.cyou^$all
-||telexxzipp.help^$all
 ||telizunokarozentodexo.com^$all
 ||teljerskap.com^$all
 ||teljingelse-no.com^$all
@@ -21622,7 +21573,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||tenurellholdings.com^$all
 ||tenvixo.live^$all
 ||tepgjta.cyou^$all
-||tepiwa.digital^$all
 ||tepoqui.com^$all
 ||tera.3-130-3-227.plesk.page^$all
 ||terbituntungtek.store^$all
@@ -21693,7 +21643,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||thecoffeecup-gift.com^$all
 ||thecontinentalbrief.live^$all
 ||thecurrentnotebook.site^$all
-||thehelioshandelai.com^$all
 ||theimmediate-zenx.com^$all
 ||thejourneytothechair.com^$all
 ||thekaisersignalaiapp.com^$all
@@ -21780,7 +21729,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||tiny-truth-489c.breanneford911alm4.workers.dev^$all
 ||tiny-valkyrie-f61373.netlify.app^$all
 ||tinyharbor.digital^$all
-||tionwaynexus.com^$all
 ||tiramelko.com^$all
 ||tirinavoxolano.com^$all
 ||tiruqea.com^$all
@@ -21821,7 +21769,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||tolverabrixan.net^$all
 ||tommyihilfigershop.com^$all
 ||tomtocpolska.com^$all
-||tomuzu.digital^$all
 ||tonegratif.store^$all
 ||tonemeadowvivid.bond^$all
 ||toolsonline-eu.shop^$all
@@ -21905,7 +21852,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||trailatlashaven.bond^$all
 ||trailmossyhome.life^$all
 ||trailnonca.store^$all
-||trailstonehaven.life^$all
 ||traingourhi.digital^$all
 ||trakeycamp.pl^$all
 ||traldo-capitanza.com^$all
@@ -22092,6 +22038,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||truly1-ea35.cfd^$all
 ||truly1-enim77.cfd^$all
 ||truly1-et27.cfd^$all
+||truly1-eum23.cfd^$all
 ||truly1-eum61.cfd^$all
 ||truly1-facilis23.cfd^$all
 ||truly1-fugiat20.cfd^$all
@@ -22169,6 +22116,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||truly3-neque39.cfd^$all
 ||truly3-nulla66.cfd^$all
 ||truly3-numquam52.cfd^$all
+||truly3-quaerat11.cfd^$all
 ||truly3-quis97.cfd^$all
 ||truly3-quos16.cfd^$all
 ||truly3-sint1.cfd^$all
@@ -22316,6 +22264,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||truly7-et31.cfd^$all
 ||truly7-eveniet53.cfd^$all
 ||truly7-excepturi97.cfd^$all
+||truly7-id44.cfd^$all
 ||truly7-in97.cfd^$all
 ||truly7-ipsum94.cfd^$all
 ||truly7-iste4.cfd^$all
@@ -22357,6 +22306,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||truly8-enim25.cfd^$all
 ||truly8-et23.cfd^$all
 ||truly8-et39.cfd^$all
+||truly8-et64.cfd^$all
 ||truly8-et81.cfd^$all
 ||truly8-excepturi47.cfd^$all
 ||truly8-exercitationem85.cfd^$all
@@ -22448,9 +22398,9 @@ sklep-agrohurt.eu##^responseheader(location)
 ||tsyq4w.bingosallerlei.com^$all
 ||tsystems-ai.com^$all
 ||tucafoh.com^$all
+||tudopornicolau.online^$all
 ||tufg578-kun896-ion.stationguard.su^$all
 ||tugyweihf.lovable.app^$all
-||tuhage.digital^$all
 ||tulacup.space^$all
 ||tullecapitange.store^$all
 ||tulong-grow-pl.com^$all
@@ -22948,14 +22898,12 @@ sklep-agrohurt.eu##^responseheader(location)
 ||veltraxauron.digital^$all
 ||veltrix-app.pro^$all
 ||veltrixnexaropro.com^$all
-||veluci.digital^$all
 ||velverolife.com^$all
 ||vencejoplaciencia.store^$all
 ||vencifirme.com^$all
 ||vendepersu.store^$all
 ||venditance.com^$all
 ||veneziaaruba.eu^$all
-||veneziaprimegpt.com^$all
 ||veniraxolivarononecc.com^$all
 ||venitinner.store^$all
 ||venoteral.com^$all
@@ -23119,6 +23067,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||vinted-sold19.com^$all
 ||vinted.0ferta73618.top^$all
 ||vinted.3s9374ehdh3747ejdbwu384.sbs^$all
+||vinted.6zq29sv30sj6vz12va7.cfd^$all
 ||vinted.9t882123hh.courses^$all
 ||vinted.73ox9w26ve8be6.click^$all
 ||vinted.207lrf9rezerwacja.top^$all
@@ -23204,6 +23153,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||vinted.aukcja3136.shop^$all
 ||vinted.authdirectbuy-pl.cfd^$all
 ||vinted.authentication24.shop^$all
+||vinted.authenticpoland-pl.cfd^$all
 ||vinted.autoryzacja.my.id^$all
 ||vinted.click-aukcja1832.lol^$all
 ||vinted.click-aukcja9287.lol^$all
@@ -23426,6 +23376,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||vinted.oferta37su38svwi64.click^$all
 ||vinted.oferta368s2c2q8j4.cfd^$all
 ||vinted.oferta02391.shop^$all
+||vinted.oferta23974.click^$all
 ||vinted.oferta60098.cfd^$all
 ||vinted.oferta77654.sbs^$all
 ||vinted.oferta85734.shop^$all
@@ -23680,6 +23631,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||vinted.pl-625517r251627oferta5345336s444.sbs^$all
 ||vinted.pl-657458.sbs^$all
 ||vinted.pl-752299l43311oferta28628f27262.sbs^$all
+||vinted.pl-942114.cfd^$all
 ||vinted.pl-947367h8263927k2637388.sbs^$all
 ||vinted.pl-1247089a2.sbs^$all
 ||vinted.pl-2378945.sbs^$all
@@ -23793,6 +23745,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||vinted.pl-oferta809543.shop^$all
 ||vinted.pl-oferta812022.sbs^$all
 ||vinted.pl-oferta823102.sbs^$all
+||vinted.pl-oferta954645.shop^$all
 ||vinted.pl-oferta2179118.click^$all
 ||vinted.pl-oferta7685948.lol^$all
 ||vinted.pl-oferta9845654.shop^$all
@@ -23953,6 +23906,7 @@ sklep-agrohurt.eu##^responseheader(location)
 ||vinted.pn-odbior629174.cyou^$all
 ||vinted.pn-paczuha92740xs.cyou^$all
 ||vinted.poland321.sbs^$all
+||vinted.poland421.sbs^$all
 ||vinted.polandbuy-pl.sbs^$all
 ||vinted.polska-przedmiot.cfd^$all
 ||vinted.polska-przedmiot.sbs^$all
@@ -24065,7 +24019,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||vissavi-online.shop^$all
 ||vistaaiglobal-click.pages.dev^$all
 ||vistafinvora.cyou^$all
-||vistagranitequiet.bond^$all
 ||vistamontorix-pro.com^$all
 ||vistarusticcenter.bond^$all
 ||vitaliksdinosaur.com^$all
@@ -24408,7 +24361,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||wintershow.homes^$all
 ||wioletagrefka.sbs^$all
 ||wirthflorist.com^$all
-||wiseharborledger.xyz^$all
 ||wisewirons.store^$all
 ||withershins-xebec.shop^$all
 ||wittchenretails.top^$all
@@ -24553,7 +24505,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||xabomia.lovable.app^$all
 ||xakozimofizipuxizole.life^$all
 ||xalivonuriza.com^$all
-||xaloci.digital^$all
 ||xalquverio.shop^$all
 ||xamurif.pro^$all
 ||xanadu-buskin.shop^$all
@@ -24759,7 +24710,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||ysaync.top^$all
 ||ythjankfnklja.shop^$all
 ||ytkujghfd.lovable.app^$all
-||yubafo.digital^$all
 ||yuce-mizandanim.com^$all
 ||yucemizandanim.net^$all
 ||yudnf.com^$all
@@ -24778,7 +24728,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||yy2336.brickster.pl^$all
 ||yyuwmdop.shop^$all
 ||z1pbx6.feronivaxolaron.com^$all
-||z2w.hb5cfl.casa^$all
 ||z3jns6.fenomenologyphotoartgallery.eu^$all
 ||z3mwhs.oceanplining.com^$all
 ||z4chqx.asiannpt.com^$all
@@ -24832,7 +24781,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||zakladyha.shop^$all
 ||zakladyhk.shop^$all
 ||zakladyj.shop^$all
-||zakladyk.shop^$all
 ||zakladyl.shop^$all
 ||zakladyo.shop^$all
 ||zakladyob.shop^$all
@@ -24864,7 +24812,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||zamistiumai.com^$all
 ||zamrudhartawan.cyou^$all
 ||zaneklumetrixon.com^$all
-||zaneklumetrixonsynergy.com^$all
 ||zapasfundrelix-bot-pl.com^$all
 ||zapumuy.lovable.app^$all
 ||zaradastina.com^$all
@@ -24963,7 +24910,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||zero-24h.eu^$all
 ||zerohourwarsaw.com.pl^$all
 ||zerohourwarsaw.pl^$all
-||zeronvaltoniamaxsystem.com^$all
 ||zervanero-es.com^$all
 ||zervanero.info^$all
 ||zervanero.net^$all
@@ -25096,7 +25042,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||zuveraldo.com^$all
 ||zvakiruntetrx-ca.com^$all
 ||zvirugw4llet.online^$all
-||zvrm.info^$all
 ||zwbdt.com^$all
 ||zwenrikki.net^$all
 ||zwierzokrus.lovable.app^$all
@@ -25115,7 +25060,6 @@ sklep-agrohurt.eu##^responseheader(location)
 ||zyskmonerixtech.com^$all
 ||zyskovia.shop^$all
 ||zyxorvanix.com^$all
-||zzrx.info^$all
 ||zzszs.sbs^$all
 !#endif
 !#if env_legacy
